@@ -1,0 +1,2579 @@
+Platon
+
+Parmenides
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-7486-2
+
+
+
+
+
+Wstęp tłumacza
+
+Dialog pt. Parmenides stanowi zagadkę dla czytelników Platona i komentatorów, a ciężki krzyż dla tłumaczów. Zagadka w tym, że główną postacią dialogu jest wielki mistrz szkoły eleatów, poeta Parmenides, któremu Platon wydaje się bliski swoimi poglądami — a tu w dialogu płynie z ust tego mistrza potok niedorzeczności nieskończony, oschły, pusty i tak męczący, że spośród wielbicieli Platona wielu nigdy nie zdołało doczytać tego dialogu do końca, mimo najlepszych chęci, a ci, którzy go doczytali, nie wiedzą, co o tym myśleć i jak zrozumieć to, że autorowi Uczty, Fajdrosa i Państwa nie żal było na ten dialog czasu i papirusu.
+
+Nie chce się wierzyć, żeby Platon sam od siebie i poważnie to wszystko napisał i Parmenidesowi w usta włożył. Więc już w ciągu wieku XIX przypuszczali, że ten dialog nie jest autentyczny, tylko ktoś nieznany podpisał go imieniem Platona. Ale nie utrzymało się to przypuszczenie i trzeba zostać przy autentyczności dialogu, który ma zresztą osiem, a nawet trzynaście pierwszych rozdziałów bardzo pięknych i jasnych, a tylko długa reszta jest niestrawna.
+
+Więc jedni dziś twierdzą, że to wszystko ma być wyśmiewaniem rozumowań eleackich albo megarejskich, aby tym lepiej obronić naukę o ideach. Ale trudno tak pojmować dialog, w którym właśnie naukę o ideach spotykają ataki trudne do odparcia.
+
+Inni mówią, że to jest książeczka do wewnętrznego użytku w murach Akademii, pomyślana jako podręcznik do ćwiczeń dla uczniów, a nie przeznaczona w ogóle dla publiczności. Ale trudno przypuścić, żeby Platon był aż tak złym pedagogiem i napisał dla uczniów podręcznik, który i najpilniejszych mógł zrazić do wszelkiej filozofii. On przecież w swoim Państwie wyraźnie pisał, że nauka nie powinna nigdy być tępą piłą, tylko raczej zabawą, aby się chłopcy uczyli, sami nie wiedząc kiedy, a nie w pocie czoła; więc nie stwarzałby właśnie dla młodzieży aż takiego narzędzia tortury, gdyby sam był widział, jak ono jest okrutne i jałowe.
+
+Zatem trzeba jakoś inaczej pojmować tę pracę. A chcąc ją pojąć, trzeba zwrócić uwagę na to, że Platon zwykł żartować częściej, niż to u niego umieli dojrzeć czytelnicy, i w tym dialogu też żartu jest więcej, niżby się wydawało na pierwszy rzut oka, kiedy ktoś od autora oczekuje uroczystego głoszenia natchnionych prawd, a nie zabawy. Parmenides sam w toku dialogu, w rozdziale IX, nazywa to, co następuje dalej, pracowitą zabawką. Rozmawiający mówią w rozdziale VIII wyraźnie, że to wszystko będą w oczach ludzi nieuprzedzonych koszałki opałki, dobre jako ćwiczenia językowe i stylistyczne, nie jako objawienia ani treść nauki. Praca Zenona, która stanowi punkt wyjścia dla dyskusji, i sama postać Zenona jest postawiona humorystycznie, postać Sokratesa również; mówi się tu o ideach włosów, błota i jeszcze gorzej — najwidoczniej nie bez uśmiechu. Młody Sokrates, którego tu spotykamy, pozwala się zapędzić w kozi róg razem z nauką o ideach i nie może się ruszyć ani w prawo, ani w lewo.
+
+Platon nie był dogmatykiem, nie twierdził, że głosi prawdy niewzruszone. Dla niego nauka o ideach była też supozycją, a nie przekonaniem. Stać go było na to, żeby się nią bawić i odsłaniać trudności, które się z nią wiążą. Bawiły go paradoksy Zenona i tutaj zabawił się nauką eleatów i własną. I nauką, i postawą duchową, i ocenami.
+
+W Państwie uważał, że zdolny filozof to dopiero ten, który godzinami potrafi bez zmęczenia mówić wyrazami oderwanymi, nic sobie przy tym nie wyobrażając konkretnego i unikając wszelkich spostrzeżeń zmysłowych. Tutaj stwarza ten ideał oschłości, który bez końca i bez ustanku mówi o Jednym i o Niejednym, a nie mówi o niczym konkretnym. I nikt z młodych ludzi nie zwraca mu uwagi, że tak sucho, goło jakoś mówią cały czas, bez żadnych przykładów, jak to było powiedziane w Fajdrosie swojego czasu. Młodzieniec, który odpowiada Parmenidesowi, wygląda na nieosobową, tępą maszynę do odpowiadania, monosylabami nieledwie, i daleko mu do bystrości choćby Ktezippa w Eutydemie. Dialog w swojej drugiej części jest pozbawiony wszelkiego życia, wszelkiego prawdopodobieństwa psychologicznego, nie ma ani śladu dramatu lub komedii. Nic, tylko słowa i słowa, i zdania bezwstydnie sprzeczne i suche. To wszystko byłoby nawet zabawne, gdyby było krótsze. I nie stanowiłoby wtedy zagadki. Cała zagadka więc w tym tylko, czemu to takie długie wszystko. Być może tłumaczy się to późnym wiekiem autora. On stale zwalczał w sobie artystę i usiłował być pedantem suchym i niezmęczonym. Udało mu się to w drugiej części tego dialogu. On na pewno należy do ostatnich prac Platona. Nie można wykluczyć i tego, że nie udało mu się już napisanej pracy zrewidować i poskreślać ustępów martwych i ożywić drugiej części dialogu. W każdym razie te miejsca, które tu wyraźnie pokazują humor autora, wydają się kluczem do zrozumienia całej postawy dialogu. Jest to humor, który się z niemiecka nazywa szubieniczny. Tak, jakby Platon kiedyś, na starość miał moment, a może i okres zgryźliwego, przekornego spojrzenia na siebie, na Parmenidesa i Zenona, na Sokratesa i dyskusje filozoficzne, na filozofię i mając wtedy wszystkiego w ogóle dość, napisał swojego Parmenidesa i rzucił go czytającej publiczności: rozplątujcie sobie ten kłębek, kto potrafi. I byłby się śmiał, gdyby mógł był widzieć, jak neoplatonicy doszukiwali się w nim głębokich myśli, ukrytych w zagadkach i łamigłówkach.
+
+A skąd u niego ta przekora i zgryźliwość, i śmiech na końcu? Stąd, że w swoim stosunku do eleatów czuł, że zabrnął w poezję i w męty, i sprzeczności, a od czasów znajomości z Sokratesem chciał być jasny i trzeźwy. Stąd, że się gubił i plątał we własnych rozważaniach, nieujętych w ramy systemu ponumerowanych zdań z kilkoma wyraźnie określonymi terminami. Nie umiał jakoś jednoznacznie ująć ani tego, czym właściwie są, a czym nie są idee i jaki jest i na czym polega ich stosunek do przedmiotów konkretnych. To się wszystko trochę gubiło w przenośniach, w nieokreślonych zwrotach obrazowych. Idee to były i pierwowzory, i przyczyny przedmiotów konkretnych, i raz jakby mieszkały w tych przedmiotach, raz im tylko przyświecały jako wzory, raz jakby siedziały w niebie, raz u człowieka w głowie, miały być nierozciągłe i niezmysłowe, a przyczepiały się do nich wciąż cechy przestrzenne; przedmioty konkretne raz w nich uczestniczyły, raz je miały przy sobie, raz je tylko naśladowały — wszystko razem tonęło w przenośniach i raz się wydawało takie, raz inne, i trudno było to wszystko przemyśleć odważnie aż do końca w szczegółach. A równocześnie wydawało się rzeczą oczywistą, nieodpartą, że każdej nazwie ogólnej musi odpowiadać coś jednego, rzeczywistego. Zdania wyrażające jakąkolwiek wiedzę wymagały nazw ogólnych, każdy, kto się znał na koniach, potrzebował wyrazu „koń” i umiał o tym koniu powiedzieć wiele twierdzeń prawdziwych. A więc o czymś jednym właściwie, i to się sprawdzało na wielu koniach konkretnych. Więc każdej grupie przedmiotów konkretnych podobnych musiało jednak odpowiadać w jakiś sposób coś jednego, stałego, niezmiennego, jakaś „postać rzeczy” niezmysłowa, a rzeczywista. Tylko zbyt łatwo te niezmysłowe postacie przybierały cechy zmysłowe, kiedy zaczynał o nich myśleć i mówić. To świeciły, to stały wysoko, to się rozpadały na kawałki — trochę jak posągi z kamienia albo z metalu, i stąd się rodziły niedorzeczności męczące i drażniące, i zrażające do rozważań. I śmieszne.
+
+Wszystkiemu winni byli dwaj poeci z Elei: Ksenofanes i Parmenides. Oni pierwsi zaczęli opiewać wierszami jakieś wielkie jedyne Jedno, które istnieje, i oprócz niego nie ma nic, tylko złudzenia zmysłów. Ksenofanes (ur. w 570 przed Chr.) tak bystro drwił z naiwnych historii o bogach, które Hezjod i Homer opowiadali. Ksenofanes pierwszy na cały wszechświat spojrzał, powiada Arystoteles, i powiedział, że to Jedno jest bogiem. Jedno, które żadnym zmianom nie ulega i trwa wiecznie, jak trwają gwiazdy. Mówił o nim rzeczy sprzeczne i dziwaczne. Że ono jest niewidzialne i że jest kuliste. Że nie jest nieskończone i nie jest ograniczone, że nie spoczywa i nie rusza się, że nie jest podobne do ludzi ani z kształtu, ani z cech psychicznych, ale całe widzi i całe myśli, i całe słyszy. To są cechy bardzo ludzkie, psychiczne: widzieć, myśleć i słyszeć. Ale co mogło to Jedno widzieć i słyszeć, skoro oprócz niego miało nie istnieć nic w ogóle? I czym? Skoro oczu i uszu miało nie mieć. W wierszach Ksenofanesa nie było na to odpowiedzi. Była w nich tylko pobudka do tego, żeby się śmiać z bogów homeryckich i przeczuwać jakiegoś jednego, niewidzialnego boga we wszystkim, czy poza wszystkim, czy nad wszystkim, co powstaje i ginie, i co się ułudą zjawia zmysłom.
+
+Nie o wiele później od Ksenofanesa, bo około 515 przed Chr. urodził się Parmenides z Elei, też poeta, piszący wierszami o naturze wszechświata. On rozróżniał świat zjawisk, które powstają i giną, i zmieniają się, i są przedmiotem mniemań ludzkich, zmiennych i złudnych, i byt rzeczywisty, przedmiot wiedzy. W wierszach opisuje, jak słoneczne panny go wiozą końmi gdzieś wysoko i tam go nauczają rzeczy zupełnie dziwacznych. Uczą go, po pierwsze, że istnienie istnieje, a nieistnienia nie ma. Ta nauka wygląda na tautologię. Na to, że co jest, to jest, a czego nie ma, tego nie ma. Byłby to banał, po który nie trzeba końmi jeździć wysoko. Ale to przypominało wiersze Ksenofanesa i wyglądało znowu na zaprzeczenie istnienia wszystkiemu, co zmysłami spostrzegamy, i na wiarę w istnienie czegoś jednego, niewidzialnego. Parmenides też śpiewał, że istnieje tylko Jedno, które jest niezmienne i kuliste, i niezmysłowe, i wieczne, a nic bliższego o nim nie umiał powiedzieć. To było mętne. Uczono go na górze jeszcze czegoś i to było nie tylko mętne, ale chyba fałszywe. A mianowicie, że tym samym jest myśleć i być. Tak pisze. I, gdy to wziąć dosłownie, to jest jawna nieprawda. Bo zdaje się, że kamienie i stołowe nogi nie myślą, a są. Więc rozumiano go nieco inaczej. A mianowicie, że być przedmiotem myśli czyjejś i istnieć, to już jest jedno i to samo. Że niby o czymkolwiek ktoś myśli, to już tym samym istnieje. I to nieprawda. Bo niejeden myśli o niebieskich migdałach, a one mimo to wcale nie istnieją. A rzeczy gubione po drogach istnieją, chociaż o nich nikt nie myśli. Więc ta rzekoma identyczność myśli albo przedmiotu myśli i istnienia była tylko złudzeniem Parmenidesa albo efektem literackim. Gdyby istniało wszystko, co sobie ktoś pomyśli, nikt by nie ulegał pomyłce i nie trzeba by się niczego uczyć — wystarczałoby puszczać wodze fantazji i myśleć, co się komu podoba, bez obawy, że się czołem kiedyś uderzy o istniejący, a niepomyślany mur.
+
+Wiersze Parmenidesa bardzo się musiały podobać Platonowi, skoro nazywa go wielkim w dialogu pt. Sofista i nazywa go uroczystym i głębokim w Teajtecie. I to naturalne, że Parmenides był mu bliski. Przecież każda idea Platona jest też czymś jednym istniejącym i przeciwstawionym licznym jednostkom zmysłowym, które tylko zdają się istnieć, a nie istnieją naprawdę. Idee Platona są jakby odłamkami wielkiej kuli Parmenidesa. Byt rzeczywisty jest niewidzialny dla jednego z nich i dla drugiego; można go tylko myślami poznawać, zdaniem Parmenidesa, i zdaniem Platona tak samo. Świat zmysłowy jest według nich obu tylko dziedziną złudzeń, więc nie dziw, że Platon Parmenidesa nazywał wielkim i głębokim. Musiał w nim odczuwać swego duchowego dziadka tak, jak w Sokratesie znajdował ojca i sam się w Sokratesa wcielał. Wszyscy trzej byli nieprzyjaciółmi Heraklita oraz Protagorasa i Gorgiasza, i innych sofistów, przeciwstawiali się tym, którzy nie uznawali żadnego stałego przedmiotu w świecie; żadnej prawdy rzeczowej, jednej, tylko liczne i różnorodne, i czysto podmiotowe mniemania, słabsze i mocniejsze, i świat im był podobny do ruchliwego płomienia, w którym nie trwa nic, tylko powstaje i ginie, i zmienia się wciąż, i sprzecza się wszystko ze wszystkim. Sprawa Parmenidesa była własną sprawą Platona. Rozrachunek z nim — rozrachunkiem ze sobą samym. Jeżeli w tekście Fajdrosa idee nad sklepieniem niebieskim pokazywał Sokrates, a nie Parmenides, jeżeli w Państwie o ideach mówi też Sokrates, to rzecz przypadku serca, żeby tak powiedzieć. To dlatego, że Platon Parmenidesa nie widział na oczy, a Sokratesa kochał, kiedy miał lat osiemnaście. Ale równie dobrze mógł był w dialogach Platońskich spełniać rolę mistrza Parmenides. Nawet mniej dziwnie, bo to był poeta i autor, a nie rzeźbiarz, który nic nigdy nie napisał, tylko miał zdrowy rozsądek i lubił jasno wiedzieć, o co chodzi właściwie, kiedy ktoś mówił przenośniami.
+
+Więc ma się wrażenie, że pośród dialogów Platońskich musiał się znaleźć i Parmenides, skoro był i Protagoras, i Gorgiasz, i Hippiasz, i nawet Timaios pitagorejczyk. Znalazł się też Parmenides, ale dopiero na starość i robi nie wielkie sprzątanie w warsztacie Platońskim, ale wielkie zamieszanie. Przewraca, co napotka, i potrąca, i stawia na głowie, i robi to dziwnie beztrosko i nieodpowiedzialnie. Najwyraźniej szuka efektu, popisuje się paradoksami i nie wstydzi się sprzeczności. Widać, jakiś zły przykład. I nie trzeba go szukać zbyt daleko. Jest w dialogu ten sławny, przystojny brunet, Zenon, kochanek Parmenidesa. W obronie poezji swego mistrza wydał słynne paradoksy o Achillesie, który nie dogoni żółwia, o strzale, która nigdy nie może dolecieć do celu, o worku pszenicy, który spada bez hałasu, i tam dalej, aby tylko dowieść, że wielu przedmiotów na świecie nie ma i że wszystko, co zmysłami spostrzegamy, jest tylko złudzeniem i nie może istnieć, jak to sam rozum jakoby dyktuje. Wszystko to nie były ponure polemiki zapaleńców, tylko pełne humoru supozycje ludzi pogodnych, którzy mieli czas wolny i umieli się bawić myślami i mową. I tymi paradoksami zaraził się Platon, kiedy pisał swego Parmenidesa. Zaczął grać Zenona i pokazał, że takich opacznych twierdzeń, od których laikom mogłyby włosy stawać na głowie, gdyby się nimi interesowali, potrafi napłodzić więcej niż Zenon. I potrafi pisać sprzeczności grubsze, niż je pisywał Heraklit, i równie trudne do rozgryzienia dla stojących z boku i dla niego samego nawet. Dialog Parmenides nie jest wyrazem jakiegoś bankructwa Platona. On tak wyglądać może tylko temu, kto by w Platonie widział dogmatyka, gotowego śmierć ponieść za swoje przekonania. Tymczasem on spisywał nie swoje przekonania, tylko swoje supozycje. Przecież, nawykowo już, mawiał stale: „Jak to tam jest naprawdę, to jeden tylko Pan Bóg wie, ale jak się ta rzecz przedstawia i do czego się wydaje podobna, to mogę powiedzieć, jeżeli się tylko nie pomylę. Więc proszę mi patrzeć na palce i uważać, kiedy będę mówił. Zobaczycie, jak mi to zabawnie wychodzi”. To jest typowy wyraz postawy duchowej Platona. Tę samą postawę zajmuje i w Parmenidesie, kiedy nicuje naukę eleatów i własną. On tu o nic nie kruszy kopii i niczego nie głosi z przekonaniem, tylko rozpatruje sobie i roztrząsa takie i inne zdania na chłodno i od niechcenia, i z uśmiechem przekory. Chce znaleźć sprzeczności i u siebie, i u Parmenidesa, i znajduje ich więcej, niż było trzeba. Jak ten, co burzy domki z kart, które sam budował długi czas. Kończy dialog sprzecznymi zdaniami, jakby sprzeczność nie miała w sobie nic niepokojącego, jakby nie była nieomylnym wskaźnikiem jakiegoś fałszu. I tak zostawia czytelnika. Jakby mu język pokazał na końcu. To na pewno nie był zabieg pedagogiczny, tylko objaw zgryźliwego humoru. W tym świetle Parmenides Platoński przestaje być niepokojącą zagadką i można go czytać przy dobrej woli.
+
+
+
+
+Parmenides
+
+
+Osoby dialogu:
+ * Kefalos
+ * Adejmantos
+ * Antyfon
+ * Glaukon
+ * Pytodoros
+ * Sokrates
+ * Zenon
+ * Parmenides
+ * Arystoteles
+
+
+Kefalos: Kiedyśmy do Aten z domu, z Kladzomenów przybyli, na rynku spotkaliśmy Adejmanta i Glaukona. Otóż mnie chwyta za rękę Adejmant i powiada:
+
+— Jak się masz, Kefalosie, i jeżeli ci czegoś tutaj potrzeba z tego, co w naszej mocy, to powiedz.
+
+— Ależ tak jest — powiedziałem — ja właśnie po to przyjechałem, żeby was o coś prosić.
+
+— A to może byś powiedział — mówi — co to za prośba.
+
+Więc ja powiedziałem:
+
+— Wasz brat przyrodni po matce jak się nazywał na imię? Bo nie pamiętam. On był chyba jeszcze chłopcem, kiedym tutaj poprzednio był przyjechał z Kladzomenów. Już długi czas upłynął od tego. Bo jego ojciec, mam wrażenie, nazywa się Pyrilampes.
+
+— Tak jest — powiada — a jemu na imię Antyfon. Ale czemu ty się o niego pytasz właściwie?
+
+— Ci tutaj — powiedziałem — to są moi współobywatele i bardzo się interesują ruchem umysłowym. Otóż oni słyszeli, że ten Antyfon często się spotykał z niejakim Pytodorem, przyjacielem Zenona, i często słyszał od Pytodora rozmowy, które swojego czasu prowadził Sokrates, Zenon i Parmenides, więc je pamięta.
+
+— To prawda — mówi.
+
+— Więc tych rozmów — powiedziałem — pragniemy posłuchać w całości.
+
+— To nic trudnego — mówi. — Bo jako chłopak on się nimi bardzo żywo interesował, chociaż teraz wdał się w swojego dziadka i imiennika i przeważnie bawi się jazdą konną. Jak trzeba, to chodźmy do niego. On niedawno stąd poszedł tędy do domu, a mieszka blisko, w Melicie.
+
+Takeśmy sobie pogadali i poszli. I zastaliśmy Antyfonta w domu. Jakąś uzdę dawał kowalowi do naprawy. Kiedy go odprawił i bracia mu powiedzieli, po cośmy przyszli, on mnie poznał z poprzedniego pobytu i przywitał mnie. Kiedyśmy go prosili, żeby opowiedział te rozmowy, on się zrazu ociągał. Mówił, że to jest duża robota. Ale potem zaczął opowiadać. Więc powiedział, że Pytodoros mówił, że raz przyjechali na Wielkie Panatenaje Zenon i Parmenides. I Parmenides już był bardzo stary — mocno siwy, ale wyglądał pięknie i szlachetnie, a lat miał tak ze sześćdziesiąt pięć najwyżej. Zenon był wtedy blisko czterdziestki, był wysokiego wzrostu i bardzo przystojny. Mówiono, że kochał się w nim Parmenides. Oni mieszkali — powiedział — u Pytodora, za murami, na Keramejku. I tam też przyszedł i Sokrates, i wielu jakichś innych z nim, bo chcieli posłuchać pism Zenona. Oni je wtedy po raz pierwszy tutaj byli przywieźli.
+
+Sokrates był wtedy bardzo młody. Otóż czytał im swoje pisma sam Zenon, a Parmenidesa jakoś nie było w domu. I zostawało już bardzo niewiele z tej czytanej pracy do końca, kiedy — jak mówił Pytodoros — przyszedł on sam z miasta, a z nim Parmenides i Arystoteles, który później należał do trzydziestu tyranów, i oni jeszcze troszkę słuchali tego czytania. Ale on sam nie, on jeszcze i przedtem był słuchał Zenona.
+
+II. Otóż Sokrates przysłuchiwał się i poprosił, żeby pierwsze twierdzenie pierwszej rozprawy jeszcze raz odczytać, a gdy zostało odczytane, powiada:
+
+— Jak ty to rozumiesz, Zenonie? Że jeśli przedmiotów jest wiele, to niby one muszą być i podobne, i niepodobne, a to przecież jest niemożliwe. Bo ani niepodobne nie mogą być podobne, ani podobne nie mogą być niepodobne. Czy nie tak mówisz?
+
+— Tak jest — powiedział Zenon.
+
+— Nieprawdaż, jeśli to niemożliwe, żeby niepodobne były podobne, a podobne niepodobne, to, oczywiście, nie może ich być wiele? Bo gdyby ich było wiele, to doznawałyby czegoś, co być nie może. Czy to o to chodzi w twoich słowach — o nic innego, tylko żeby przeprzeć, wbrew wszystkiemu, co ludzie mówią, że nie ma wielu przedmiotów? I masz wrażenie, że każda twoja rozprawa tego dowodzi, więc sądzisz, że tyle na to podałeś dowodów, ileś rozpraw napisał na ten temat, że wielość nie istnieje? Tak myślisz, czy też ja cię niedobrze rozumiem?
+
+— No nie — powiada Zenon — dobrześ zrozumiał intencję całego pisma.
+
+— Ja rozumiem, Parmenidesie — powiedział Sokrates — że ten Zenon chce być z tobą blisko nie tylko przez inne objawy przyjaźni, ale przez tę rozprawę też. Bo napisał w pewnym sposobie to samo, co i ty. A tylko odwraca kota ogonem i próbuje nas nabierać, że mówi coś i innego. Przecież ty w swoich poematach mówisz, że Jednym jest wszystko, i dowody na to podajesz pięknie i ładnie. A on znowu twierdzi, że nie ma wielości, a sam też podaje na to dowody bardzo liczne i wielkie. Więc kiedy jeden mówi, że Jedno, a drugi, że nie wiele, i na tym stanowisku stoi i jeden, i drugi, więc to, żeby nie miało u nas wychodzić na jedno i to samo, kiedy wasze twierdzenia są prawie że takie same — jeżeli tak mówicie — to będzie — widać — coś ponad nasze pojęcie.
+
+— Tak jest — powiada Zenon. — Ty, Sokratesie, niecałkowicie dostrzegasz prawdziwy charakter mojej rozprawy, chociaż tak jak psy lakońskie, dobrze biegniesz za śladem i węszysz, o co chodzi w moich słowach. Ale przede wszystkim nie dostrzegasz tego, że moja rozprawa nie ma tak całkiem poważnej miny; nie szło o to, żeby napisać to, co ty mówisz, a przed ludźmi ukryć swój niby to wielki czyn; tyś podniósł pewien szczegół uboczny, a tak naprawdę to ta moja rozprawa jest pewnego rodzaju tarczą dla tezy Parmenidesa przeciwko tym, którzy próbują go wyśmiewać i mówią, że jeśli istnieje tylko Jedno, to dla tej tezy wynika dużo śmiesznych i sprzecznych ze sobą następstw. Więc ta rozprawa przeciwstawia się tym, którzy twierdzą, że istnieje wiele przedmiotów i oddaje im pięknym za nadobne, i to z nawiązką. Ona chce pokazać to, że na jeszcze bardziej zabawne konsekwencje byłoby narażone ich twierdzenie, to, że istnieje wiele przedmiotów, ono wyszłoby jeszcze bardziej zabawne, niż to, że istnieje tylko Jedno, gdyby je ktoś należycie przeszedł. Więc to tak; chciało mi się po prostu sprzeczać, byłem młody, więc napisałem. I ktoś mi to pismo ukradł. Tak, że nawet nie mogłem się namyślić, czy je wynosić na światło, czy nie. Więc ty nie dostrzegasz tego, Sokratesie, i zdaje ci się, że to pismo powstało nie na tle przekory młodego człowieka, ale na tle ambicji dojrzałego męża. Ale, jak powiedziałem, nieźle odgadłeś o co idzie.
+
+III. — Ależ ja to przyjmuję — powiedział Sokrates — i myślę, że jest tak, jak mówisz. Ale to mi powiedz. Czy nie sądzisz, że istnieje sama dla siebie postać pewna podobieństwa i druga też, tej znowu przeciwna, która jest niepodobna. Te postacie są dwie, a ja i ty, i inne rzeczy, które nazywamy wieloma, uczestniczą w nich? Te rzeczy, które uczestniczą w podobieństwie, stają się podobne; pod tym względem i o tyle, o ile w nim uczestniczą, a które uczestniczą w niepodobieństwie, stają się niepodobne, uczestniczące zaś w jednym i w drugim stają się podobne i niepodobne zarazem. Więc jeśli nawet i wszystkie rzeczy uczestniczą w tych obu, przeciwnych sobie postaciach i są dzięki temu, że mają w sobie jedno i drugie, podobne i niepodobne zarazem jedne do drugich, to co w tym dziwnego? Gdyby ktoś wykazał, że same rzeczy podobne są niepodobne, albo że niepodobne stają się podobne, to byłby cud, mam wrażenie. Ale jeżeli ktoś wykazuje, że przedmioty mające w sobie jedno i drugie są nacechowane jednym i drugim, to mi się, Zenonie, nie wydaje niczym osobliwym. Ani jeśli ktoś wykazuje, że wszystko jest Jednym, dzięki temu, że ma w sobie jedność, i że to samo jest wielością dlatego, że ma też w sobie wielość. Jeżeli będzie wykazywał, że to, co jest jednością, że to samo właśnie jest też wielością i na odwrót, że wielość jest przecież jednością — wtedy będę się dziwił. I ze wszystkim innym już tak samo. Gdyby ktoś dowodził, że same rodzaje i postacie, same w sobie, noszą te sprzeczne znamiona, należałoby się dziwić. Ale jeżeli ktoś wykaże we mnie jedność i wielość, to cóż dziwnego? Powie, jeżeli zechce we mnie pokazać wielość, że co innego mam po prawej stronie, a coś innego po lewej, co innego z przodu, a coś innego z tyłu, i na górze i na dole tak samo. Bo uważam, że ja mam w sobie wielość. A kiedy zechce we mnie pokazywać jedność, to powie, że nas tu jest siedmiu, a ja jestem jeden człowiek, mający w sobie także i jedność. Ma rację w jednym i w drugim wypadku. Więc jeżeli ktoś w takich rzeczach zechce wykazać wielość i jedność zarazem, w kamieniach i w drzewach, i w tego rodzaju rzeczach, to my powiemy, że on wykazuje wielość i jedność, ale nie wykazuje, żeby jedność była wielością, ani żeby wielość jednością, ani też nic dziwnego nie mówi, tylko mówi coś, na co się możemy wszyscy zgodzić. Gdyby ktoś, jak powiedziałem w tej chwili, naprzód rozróżnił osobno postacie same w sobie, jak na przykład podobieństwo i niepodobieństwo i wielość i jedność, i spoczynek i ruch, i wszystkie takie rzeczy, i potem by dowiódł, że one się mogą same w sobie składać i rozkładać, wtedy bym się, Zenonie, cieszył i podziwiał to nadzwyczajnie. Ta twoja praca, uważam, jest napisana bardzo odważnie, ale, jak mówię, ja bym wolał raczej tak, gdyby ktoś potrafił tę samą trudność w samych postaciach, rozmaicie uwikłaną, tak, jak wyście ją przeszli na rzeczach widzialnych, wskazać ją tak samo i w przedmiotach myśli.
+
+IV. Kiedy to mówił Sokrates, powiada Pytodoros, że myślał sobie sam co chwila, że się Parmenides i Zenon będą gniewali, tymczasem oni bardzo uważali na to, co Sokrates mówił, i równocześnie spoglądali jeden na drugiego i uśmiechali się, widocznie zadowoleni z Sokratesa. Toteż i powiedział Parmenides, kiedy Sokrates przestał mówić.
+
+— Sokratesie — powiada — warto cię pochwalić za to, że się tak rwiesz do rozważań. A powiedz mi, czy ty sam tak rozróżniasz, osobno pewne postacie same, a osobno te rzeczy, które je mają w sobie? I czym ci się wydaje, że jest podobieństwo samo w odróżnieniu od tego podobieństwa, które my mamy, i jedność, i wielość, i to wszystko, coś przed chwilą słyszał u Zenona?
+
+— Ja sobie tak myślę — powiedział Sokrates.
+
+— A takie rzeczy też — mówi Parmenides — jak: tego, co sprawiedliwe postać pewna sama w sobie, i tego, co piękne i dobre, i wszystkich znowu takich rzeczy?
+
+— Tak jest — powiada.
+
+— A cóż postać człowieka, w odróżnieniu od nas i od wszystkich takich, jak my, pewna postać sama człowieka albo ognia, albo wody?
+
+— Wiesz, Parmenidesie — powiada — ja nieraz z tymi rzeczami popadałem w kłopot, czy wypada o nich mówić tak, jak o tamtych, czy inaczej.
+
+— A czy i z tymi, Sokratesie, które mogą się nawet wydawać śmieszne, jak na przykład włos i błoto, i brud, albo co tam innego najmniej godnego i najpodlejszego, jesteś w kłopocie, czy trzeba przyznać także dla każdej z tych rzeczy istnienie pewnej postaci oddzielnej, która też jest i czymś innym niż to, z czym my mamy do czynienia, czy też może nie?
+
+— W żaden sposób — powiada Sokrates. — Te rzeczy już są takie, jakimi je widzimy. A myśleć, że istnieje jakaś ich postać, byłoby może za głupio. Rzeczywiście, już nieraz mnie to niepokoiło, czy aby i z wszystkimi innymi nie ta sama sprawa. Potem, jak dochodzę do tego punktu, to biorę nogi za pas i uciekam; boję się, żebym nie popadł w jakąś gadaninę bez dna i nie zginął. Idę do tych rzeczy, o których mówiliśmy przed chwilą, że mają swoje postacie i tymi się wciąż zajmuję.
+
+— Bo ty jeszcze młody jesteś, Sokratesie — powiedział Parmenides — jeszcze się ciebie filozofia nie chwyta; ona się jeszcze weźmie do ciebie, według mego zdania; nie będziesz wtedy gardził niczym z tych rzeczy. Teraz się jeszcze oglądasz na mniemania ludzkie, boś młody.
+
+V. A taką rzecz mi powiedz. Tobie się wydaje, jak mówisz, że istnieją postacie pewne, w których uczestniczą te tutaj inne rzeczy i stąd mają ich nazwy; na przykład te, które uczestniczą w podobieństwie, nazywają się podobne, w wielkości wielkie, a w piękności i sprawiedliwości są sprawiedliwe i piękne?
+
+— Tak jest — mówi Sokrates.
+
+— Nieprawdaż; albo w całej postaci, albo w jakiejś jej części uczestniczy to, co uczestniczy? Czy może istnieć jakieś inne uczestniczenie poza tym?
+
+— No, jakże? — powiada.
+
+— Więc, czy wydaje ci się, że cała postać jest w każdym z wielu przedmiotów, zostając jedną, czy jak?
+
+— No, cóż przeszkadza, Parmenidesie — powiedział Sokrates — co jej przeszkadza być w nich całej?
+
+— Więc ona, będąc czymś Jednym i tym samym w licznych przedmiotach oddzielonych od niej, będzie w nich cała tkwiła i w ten sposób gotowa być oddzielona sama od siebie.
+
+— No nie — powiada. — Gdyby była taka, jak dzień, który będąc jednym i tym samym, w wielu miejscach jest równocześnie i zgoła nie jest dzięki temu oddzielony sam od siebie; może w ten sposób i każda postać może być jedna we wszystkich równocześnie i zostawać tą samą.
+
+— Ty bardzo sympatycznie, Sokratesie — powiada — jedno i to samo równocześnie na wielu miejscach kładziesz; zupełnie jakbyś nad wieloma ludźmi jeden żagiel rozpinał i mówił, że oto jeden, a jest cały nad wieloma. Czy nie myślisz, że twierdzisz coś w tym rodzaju?
+
+— Może być — powiada.
+
+— A czy wtedy cały żagiel byłby nad każdym, czy też nad każdym inna jego część?
+
+— No część.
+
+— Zatem, Sokratesie — powiada — podzielne są postacie same i te przedmioty, które w postaci uczestniczą, każdy w jakiejś jej części, i już nie będzie w każdym tkwiła postać cała, tylko część każdej postaci.
+
+— Zdaje się, że tak.
+
+— A czy ty byś chciał, Sokratesie — powiada — żeby się nam jedna postać naprawdę dzieliła na części i zostawała dalej czymś Jednym?
+
+— W żaden sposób — mówi.
+
+— Przecież zobacz — powiada. — Jeżeli wielkość samą podzielisz i każda z tych wielu wielkostek będzie wielka dzięki cząstce wielkości mniejszej niż wielkość sama, czy to się nie wyda bez sensu?
+
+— Owszem — powiada.
+
+— No cóż, a jeżeli każde dostanie małą cząstkę równości, to co będzie miało takiego, dzięki czemu mogłoby być czemukolwiek równe, skoro ma coś mniej niż równość samą?
+
+— Niemożliwe.
+
+— Albo ktoś z nas będzie miał cząstkę małości. I od niej małość będzie większa, bo to jest jej cząstka, i w ten sposób małość sama będzie większa. A komu by przydana była cząstka odjęta, ten się zrobi mniejszy, a nie większy niż przedtem.
+
+— A niechże bóg broni — powiada — coś też!
+
+— Więc w jakiż sposób, Sokratesie — mówi Parmenides — będą u ciebie inne przedmioty uczestniczyły w postaciach, skoro nie mogą uczestniczyć w nich ani cząstkowo, ani całościowo?
+
+— Nie, na Zeusa — powiada — nie wydaje mi się to rzeczą łatwą ustalić taką rzecz w jakikolwiek sposób.
+
+— No cóż? A z tym co zrobisz?
+
+— Z czym takim?
+
+— Ja mam wrażenie, że tobie się z takiego powodu wydaje, że każda postać jest jedna. Kiedy uważasz, że jest wiele jakichś przedmiotów wielkich, to, może być, wydaje ci się, kiedy patrzysz na nie wszystkie, że jest jakaś jedna i ta sama idea i dlatego sądzisz, że to, co wielkie, jest czymś Jednym.
+
+— Prawdę mówisz — powiada.
+
+— A cóż, kiedy spojrzysz na wielkość samą i na te inne przedmioty wielkie, jeżeli tak samo oczyma duszy oglądasz to wszystko razem, czy nie zjawi ci się znowu jakąś jedna wielkość, dzięki której to wszystko musi wydawać się wielkie?
+
+— Chyba tak.
+
+— Więc pokaże się nowa, inna postać wielkości, obok wielkości samej i tych przedmiotów, które w niej uczestniczą. A oprócz tych wszystkich jeszcze inna, dzięki której te wszystkie będą wielkie. I w ten sposób nigdy nie będziesz miał w każdym wypadku jednej postaci, tylko ich dostaniesz nieskończoną ilość.
+
+VI. A Sokrates powiada:
+
+— Parmenidesie, a może każda postać jest myślą o tych rzeczach i ona nie może tkwić nigdzie indziej, jak tylko w duszach. W ten sposób każda byłaby czymś Jednym i już by się z nią nie działo to, o czym się teraz mówiło.
+
+— Więc jak to? — powiada. — Każda jest jedną myślą, ale myślą o niczym?
+
+— To niemożliwe — powiada.
+
+— Więc o czymś?
+
+— Tak jest.
+
+— Istniejącym czy nieistniejącym?
+
+— Istniejącym.
+
+— Czy nie o czymś Jednym, do czego zmierza ta myśl ogarniająca wszystkie [przedmioty pewnego rodzaju] i co dla niej jest pewną jedną ideą?
+
+— Tak jest.
+
+— Więc czy to nie będzie postać — to, co się myśli przedstawia jako Jedno, istniejące zawsze i zawsze jedno i to samo nad wszystkimi [przedmiotami pewnego rodzaju]?
+
+— To też wydaje się konieczne.
+
+— No cóż — mówi Parmenides — a to czy nie wydaje się konieczne, że jeśli twierdzisz, że inne przedmioty uczestniczą w postaciach, to albo myślisz, że każdy przedmiot jest z myśli [utworzony] i wtedy wszystko myśli, albo też to są takie myśli, co nie myślą?
+
+— To też nie ma sensu, Parmenidesie — powiedział Sokrates. — Mnie się wydaje, że to najpewniej tak jest: te postacie stoją w naturze jakby pierwowzory, a inne przedmioty są ich odwzorowaniami i są do nich najbardziej podobne. I to uczestniczenie innych przedmiotów w postaciach nie polega na niczym innym, jak tylko na ich odwzorowaniu.
+
+— Więc jeżeli coś — powiada Parmenides — odwzorowuje pewną postać, to czy może być, żeby ta postać nie była podobna do swego odwzorowania, które jest jej obrazem? Czyż jest możliwe, żeby to, co podobne, nie było podobne do swojej podobizny?
+
+— Nie jest możliwe.
+
+— A dwie rzeczy podobne, czy nie muszą bezwzględnie uczestniczyć w jednej i tej samej postaci?
+
+— Muszą.
+
+— A to, w czym uczestnicząc, rzeczy podobne są podobne, czy to nie będzie postać sama?
+
+— Ze wszech miar przecież.
+
+— W takim razie niepodobna, żeby cokolwiek było podobne do jakiejś postaci, albo jakaś postać do czegokolwiek innego. Bo jeżeli tak, to oprócz tej postaci zaraz się pokaże postać inna, i jeżeli ta będzie do czegoś podobna, to wystąpi znowu inna i nigdy nie przestanie występować wciąż nowa postać, jeżeli postać ma być podobna do tego, co w niej uczestniczy.
+
+— Świętą prawdę mówisz.
+
+— Zatem inne przedmioty uczestniczą w postaciach nie swoim do nich podobieństwem, tylko trzeba szukać czegoś innego, czym uczestniczą.
+
+— Zdaje się.
+
+— Więc widzisz, Sokratesie — powiada — jaki z tego wielki kłopot, jeżeli ktoś przyjmuje postacie jako istniejące same w sobie?
+
+— Bardzo wielki.
+
+— Więc żebyś wiedział — powiada — że ty, aby tak powiedzieć, jeszcze nawet nie dotykasz tej wielkiej trudności, która się zjawia, jeżeli zawsze wyróżnisz i założysz jedną postać każdego rodzaju przedmiotów.
+
+— Jakże to? — mówi.
+
+— Trudności jest wiele, innych też — powiada. — A największa ta. Gdyby ktoś powiedział, że nawet by ich poznawać nie wypadało, gdyby postacie były takie, jakimi twierdzimy, że one być powinny — gdyby ktoś tak mówił, nie potrafiłby mu nikt dowieść, że się myli, chyba żeby właśnie miał wielkie doświadczenie ten, który by się z nim spierał, i gdyby to był nie byle kto, a chciałby prześledzić bardzo liczne i z dalekich dziedzin zaczerpnięte argumenty — a jednak nie dałby się przekonać ktoś, kto by twierdził uparcie, że postacie są niepoznawalne.
+
+— Jakimże sposobem, Parmenidesie? — powiedział Sokrates.
+
+— Bo widzisz, Sokratesie, ja mam wrażenie, że i ty, i każdy inny, kto przyjmuje istnienie jakiejś istoty samej w sobie dla każdego rodzaju przedmiotów, zgodziłby się przede wszystkim na to, że żadna postać nie istnieje w nas.
+
+— A, bo jakby wtedy mogła jeszcze istnieć sama w sobie? — powiedział Sokrates.
+
+— Pięknie mówisz — powiada. — I nieprawdaż, że które spośród idei dzięki wzajemnemu stosunkowi są takie, jakie są, te czerpią swą istotę ze stosunku wzajemnego, a nie ze stosunku do tych odwzorowań w nas, czy jak je tam kto nazywa, w których my uczestniczymy i tak nazywamy każdy rodzaj przedmiotów. I te znowu w nas, nazywające się tak samo, jak tamte, istnieją znowu same w stosunku do siebie samych, a nie dzięki swojemu stosunkowi do postaci, i noszą takie, a nie inne nazwy ze względu na siebie same, a nie na postacie.
+
+— Jak to rozumiesz? — powiada Sokrates.
+
+— Na przykład — mówi Parmenides — jeżeli ktoś z nas jest czyimś panem albo czyimś sługą, ale przecież nie „pana samego”, on nie jest sługą „tego, czym jest pan”, ani pan nie jest panem „sługi samego”, „tego, czym jest sługa”, tylko, będąc człowiekiem, jest jednym i drugim w stosunku do człowieka. A samo bycie panem jest tym, czym jest w stosunku do bycia służącym, i tak samo służba sama jest służbą w stosunku do panowania samego, a nie, żeby te rzeczy w nas miały coś do rzeczy tamtych ani rzeczy tamte coś do nas, tylko, jak mówię, tamte są same dla siebie i w stosunkach ze sobą, a te rzeczy w nas tak samo: w stosunkach tylko ze sobą. Czy nie rozumiesz, co mówię?
+
+— Doskonale rozumiem — powiedział Sokrates.
+
+VII. — Nieprawdaż, i wiedza też — powiada — wiedza sama — to, co jest wiedzą — odnosiłoby się do prawdy samej, do tego, co jest prawdą.
+
+— Tak jest.
+
+— A każda znowu z nauk faktycznych odnosiłaby się do każdego z przedmiotów faktycznych. Czy nie?
+
+— Tak.
+
+— I wiedza nasza czy nie odnosiłaby się do naszej prawdy, i każda z naszych nauk byłaby w sam raz nauką o każdym z naszych przedmiotów?
+
+— Koniecznie.
+
+— A samych postaci, jak przyznajesz, my ani nie posiadamy, ani też one u nas być nie mogą.
+
+— No nie.
+
+— I przecież chyba sama postać wiedzy poznaje rodzaje same, jakie tylko są.
+
+— Tak.
+
+— Czego my przecież nie mamy.
+
+— No nie.
+
+— Więc my, prawda, nie znamy postaci żadnej, skoro nie mamy w sobie wiedzy samej.
+
+— Zdaje się, że nie.
+
+— Zatem niepoznawalne jest dla nas i piękno samo, to, czym jest piękno i dobro, i wszystko to, co przyjmujemy, że jest ideą samą.
+
+— Gotowo tak być.
+
+— A zobacz no to — jeszcze gorsze od tamtego.
+
+— Co takiego?
+
+— Zgodziłbyś się, czy nie, że jeśli istnieje jakiś rodzaj wiedzy samej, to on musi być o wiele jaśniejszy niż ta wiedza nasza? I piękność, i wszystkie inne rzeczy tak samo?
+
+— Tak.
+
+— Nieprawdaż więc, jeżeli cokolwiek innego uczestniczy w wiedzy samej, to przecież nie możesz powiedzieć, żeby ktoś inny raczej niż bóg posiadał wiedzę najjaśniejszą?
+
+— Koniecznie.
+
+— A czy bóg potrafi poznawać to, co u nas, skoro posiada wiedzę samą?
+
+— Czemu by nie?
+
+— Dlatego — powiada Parmenides — bośmy się zgodzili, Sokratesie, że ani tamte postacie nie mają nic do tego, co u nas, ani to, co u nas, nie ma nic do czynienia z postaciami — każdy rodzaj zostaje w stosunkach tylko sam do siebie.
+
+— No, zgodziliśmy się.
+
+— Nieprawdaż więc, jeżeli bóg posiada to najjaśniejsze „panowanie samo” i tę najjaśniejszą „wiedzę samą”, to ani to panowanie nad tamtymi rzeczami nie może nigdy panować nad nami, ani ta wiedza nie może poznawać nas, ani niczego innego, co u nas, i tak samo my nie panujemy nad tamtymi rzeczami przy pomocy panowania naszego ani nie poznajemy naszą wiedzą niczego z boga — i w ten sam sposób oni panami naszymi nie są, ani też nie znają spraw ludzkich, skoro są bogami.
+
+— Ej, czyby to — powiada — nie było stanowisko zbyt dziwne, gdyby ktoś boga pozbawiał wiedzy?
+
+— Widzisz, Sokratesie — powiedział Parmenides — takie rzeczy, doprawdy, i jeszcze inne oprócz tego, bardzo liczne koniecznie pociągają za sobą postacie, jeżeli istnieją te idee przedmiotów i ktoś zechce wyróżniać w każdym wypadku postać samą. Jak człowiek to słyszy, to nie wie, co począć, i bije się z myślami, że ani tego nie ma, albo też, gdyby to nawet istniało, to z wielkiej konieczności musiałoby być dla natury ludzkiej niepoznawalne. Kto tak mówi, ten, zdaje się, mówi do rzeczy i jakeśmy to przed chwilą mówili, dziwna rzecz, jak jest trudno zbić jego stanowisko, i trzeba doprawdy być nie byle kim, żeby móc zrozumieć, że istnieje pewien rodzaj każdego przedmiotu oraz jego istota sama w sobie. A jeszcze większego podziwu godzien byłby ktoś, kto by to i znaleźć potrafił, i umiał kogoś drugiego o tym nauczyć, przemyślawszy to wszystko aż do końca.
+
+— Zgadzam się z tobą, Parmenidesie — powiedział Sokrates. — Bardzo mi to po myśli, co mówisz.
+
+— Ale znowu widzisz — powiada Parmenides. — Jeżeli ktoś naprawdę, Sokratesie, nie dopuści istnienia postaci rzeczy, spojrzawszy na wszystko, co teraz, i na rzeczy tym podobne, i nie wyróżni żadnej postaci w każdej sprawie szczegółowej, ten ani nie będzie miał dokąd skierować wzroku duszy, nie dopuszczając, żeby istniała idea każdego przedmiotu, zawsze jedna i ta sama, i zabije w sobie całkiem zdolność do mądrej rozmowy. Ja mam wrażenie, żeś nieraz u siebie spostrzegał coś w tym rodzaju.
+
+— Prawdę mówisz — powiada.
+
+VIII. — Więc co ty poczniesz z filozofią? Dokąd się obrócisz, kiedy o tym nie masz pojęcia?
+
+— Tak, w tej chwili, zdaje mi się, że nie bardzo widzę drogę.
+
+— To dlatego — powiada — że jeszcze zanimeś się wyćwiczył, Sokratesie, już próbujesz określać jakieś tam piękno i sprawiedliwość, i dobro, i każdą postać z osobna. Ja to zauważyłem już i przedtem, słysząc tutaj twoją dyskusję z tym Arystotelesem. Twój zapał do rozważań jest piękny i boski, bądź tego pewny. Ale podciągnij się wyżej i wyćwicz się lepiej z pomocą tych dyskusji, które się takie niepotrzebne ludziom wydają i mówią o nich, że to koszałki opałki, ćwicz się, pókiś jeszcze młody. Jeżeli nie, to będzie przed tobą prawda uciekała.
+
+— Jakim więc sposobem — powiada — ćwiczyć się, Parmenidesie?
+
+— W ten sposób — mówi — jak to słyszałeś u Zenona. Zresztą podobało mi się to, kiedyś mu powiedział, że nie odpowiada ci jako rozważanie wędrówka po przedmiotach widzialnych i takich rzeczach, tylko byś chciał mówić o tych rzeczach, które przeważnie myślą można uchwycić i uważać je za postacie.
+
+— Bo wydaje mi się — mówi — że w ten sposób wcale nietrudno pokazać, że przedmioty są podobne i niepodobne, i jakiekolwiek bądź.
+
+— No pięknie — powiada. — A trzeba oprócz tego, jeszcze i to zrobić: nie tylko patrzeć, czy istnieje to, co wynika z jakiegoś przyjętego założenia, ale także zakładać, że może nie istnieje właśnie to samo, jeżeli chcesz się lepiej wyćwiczyć.
+
+— Jak to rozumiesz? — powiada.
+
+— Tak, na przykład, jeżeli chcesz mówić o tym założeniu, które podał Zenon, czy istnieje wiele przedmiotów, to patrzeć, co musi z tego wynikać i dla tych samych wielu przedmiotów w ich stosunku do siebie nawzajem, i do jedności, i co wynika dla jedności w stosunku do niej samej i do wielu przedmiotów. I z drugiej strony, jeżeli nie ma wielu przedmiotów, zastanowić się znowu, co z tego wyniknie i dla Jednego, i dla wielu w ich stosunku do siebie samych i w ich stosunku wzajemnym. Albo znowu, jeżeli chodzi o to założenie, czy istnieje podobieństwo, czy nie istnieje, to co z jednego i z drugiego założenia wyniknie i dla tego, co się zakłada, i dla innych przedmiotów w ich stosunku do siebie samych i w ich stosunku wzajemnym. Jeżeli chodzi o niepodobieństwo, ta sama sprawa, i jeżeli chodzi o ruch i o spoczynek, i powstawanie, i zatratę, i o sam byt, i niebyt. Jednym słowem, cokolwiek kiedyś założysz, jako istniejące, czy jako nieistniejące, czy jakie tam bądź inne, trzeba zobaczyć, co stąd wynika dla niego samego i dla każdego innego przedmiotu, który byś naprzód wziął pod uwagę, i dla ich większości, i dla wszystkich tak samo. I z innymi rzeczami tak: zawsze je rozpatrzyć w stosunku do siebie samych i w stosunku do czegokolwiek innego, co bądź sobie kiedy wybierzesz, czy to coś, coś założył, będzie przyjęte jako istniejące, czy jako nieistniejące, jeżeli chcesz się doskonale wyćwiczyć i prawdę przejrzeć na wskroś.
+
+— Nieogarnioną — powiada — opisujesz robotę, Parmenidesie, i ja się nie bardzo orientuję. Ale czemuś mi jej sam nie pokazał, założywszy cokolwiek, abym lepiej zrozumiał, o co chodzi.
+
+— Dużą robotę — powiada — zadajesz, Sokratesie, człowiekowi w tym wieku.
+
+— A to ty, Zenonie — powiedział Sokrates — czemuś ty jej nam nie pokazał?
+
+A Zenon, powiada, roześmiał się i mówi:
+
+— Sokratesie, musimy prosić samego Parmenidesa. To chyba niegłupie, co on mówi. Czy ty nie widzisz, jaką robotę zadajesz? Gdyby nas tu było więcej, nie godziłoby się go prosić. Bo nie wypada wobec licznych świadków prowadzić takich dyskusji — zwłaszcza będąc w tym wieku. Szerokie koła nie wiedzą, że bez takiego przechodzenia wszystkich punktów po kolei i bez tego błąkania się tędy i owędy niepodobna natrafić na prawdę i do rozumu dojść. Więc ja ciebie, Parmenidesie, razem z Sokratesem proszę, abym cię i sam posłuchał po tak długim czasie.
+
+IX. Kiedy to powiedział Zenon, mówi Antyfon, że Pytodoros zaczął sam Parmenidesa prosić i Arystoteles, i inni, aby pokazał na przykładzie, co ma na myśli, i nie robił inaczej. Więc Parmenides powiada:
+
+— Trzeba was posłuchać. Chociaż mam wrażenie, że tak mi jest, jak temu koniowi u Ibikosa. On tam siebie raz przyrównywa do konia wyścigowego, który już jest przystary, i kiedy go do wozu zaprzęgają, aby szedł na wyścigi, on drży przed tym, co ma być, bo ma doświadczenie — więc tak samo i on o sobie powiada, że w tak późnym wieku nie chce, ale musi iść w służbę Erosa. Ja też mam dobrą pamięć, więc boję się. Jak to trzeba w tym wieku przepływać przez takie i takie wielkie mnóstwo twierdzeń. No, ale trzeba wam zrobić tę przyjemność; tym bardziej że, jak i Zenon mówi, jesteśmy sami w towarzystwie. Więc skąd tak zaczniemy? I co założymy naprzód? A może chcecie, skoro już mamy się bawić tą pracowitą zabawką, to ja zacznę sam od siebie i od mojej tezy, zrobię założenie dotyczące jedności: czy istnieje Jedno, czy nie istnieje, i co musi z tego wynikać?
+
+— Tak jest — powiada Zenon.
+
+— Więc któż — mówi — będzie mi odpowiadał? Może najmłodszy? Bo może najmniej będzie miał z tym do roboty i może najprędzej odpowie to, co myśli. Dla mnie jego odpowiedź będzie zarazem odetchnieniem.
+
+— Gotów ci jestem służyć, Parmenidesie — powiedział Arystoteles — bo mnie masz na myśli, kiedy mówisz o najmłodszym. Więc zadawaj pytania. Ja będę odpowiadał.
+
+X. — No, dobrze — powiada. — Jeżeli istnieje Jedno, to ono nie może być tym samym, co wiele?
+
+— Ależ jakim by sposobem?
+
+— Zatem ani część jego istnieć nie powinna, ani ono nie powinno być całością.
+
+— Co znowu?
+
+— Przecież część jest chyba częścią całości.
+
+— Tak.
+
+— A cóż całość? Czy nie prawda, że to, czemu nie brak żadnej części, to tylko może być całością?
+
+— Tak.
+
+— Więc z obu względów Jedno musiało by się składać z części: i całością będąc, i części mając.
+
+— Koniecznie.
+
+— Więc z obu względów w ten sposób Jedno byłoby wielkością, a nie czymś Jednym.
+
+— Prawda.
+
+— A trzeba, żeby to nie była wielość, tylko Jedno.
+
+— Trzeba.
+
+— Zatem ani całością nie będzie, ani części mieć nie będzie, jeżeli jedno będzie Jednym.
+
+— No nie.
+
+— Nieprawdaż? Jeśli ono nie ma żadnej części, to nie może mieć ani początku, ani końca, ani środka. Bo to by już były jego części.
+
+— Słusznie.
+
+— I prawda, że koniec i początek to granice każdej sprawy.
+
+— Jakżeby nie?
+
+— Zatem Jedno jest nieograniczone, skoro nie ma ani początku, ani końca.
+
+— Nieograniczone.
+
+— I chyba bez kształtu. Bo ani okrągłości, ani prostości nie może mieć w sobie.
+
+— Jakim sposobem?
+
+— Okrągłe jest chyba to, czego krańce są ze wszech stron jednakowo odległe od środka.
+
+— Tak.
+
+— A proste jest to, czego środek leży naprzeciw obu końców.
+
+— Tak.
+
+— Nieprawdaż; części musiałoby mieć Jedno i byłoby wielością, gdyby miało w sobie kształt prosty lub okrągły.
+
+— Tak jest.
+
+— Zatem nie jest ani proste, ani okrągłe, skoro nawet części nie posiada.
+
+— Słusznie.
+
+— I rzeczywiście, takim będąc, nie będzie nigdzie. Bo nie może być ani w czymś innym, ani w sobie.
+
+— Jakże to?
+
+— Gdyby było w czymś innym, wtedy to coś innego obejmowałoby je naokoło i na wielu miejscach dotykałoby jego licznych cząstek. A czegoś jednego i niezłożonego z części, czegoś, co nie ma powierzchni naokoło, niepodobna w wielu miejscach naokoło dotykać.
+
+— Niepodobna.
+
+— A może by, istniejąc samo w sobie, mogło samo siebie obejmować, nie będąc niczym innym, jak tylko sobą, gdyby przynajmniej mogło istnieć samo w sobie. Bo żeby coś było w czymś, co go nie obejmuje, niepodobna.
+
+— Niepodobna przecież.
+
+— Nieprawdaż; czymś innym byłoby to, co obejmuje, a czymś innym to, co by było objęte. Bo przecież jedno i to samo w całości nie potrafi równocześnie doznawać i robić jednego i tego samego. I w ten sposób to jedno już by nie mogło być Jednym, tylko byłyby dwa.
+
+— No, nie byłoby.
+
+— Zatem nie ma gdzieś tego Jednego; nie ma go ani w sobie samym, ani w czymś innym.
+
+— Nie ma.
+
+XI. — A zobacz no, czy ono, jeśli jest takie, może stać na miejscu albo się poruszać.
+
+— A czemuż by też nie?
+
+— Bo poruszając się, alboby zmieniało miejsce, alboby się zmieniało samo. Bo tylko takie są ruchy.
+
+— No tak.
+
+— Otóż, gdyby się Jedno robiło inne niż jest, niepodobna, żeby dalej zostawało tym Jednym.
+
+— Niepodobna.
+
+— Zatem ono się nie rusza w znaczeniu zmiany jakościowej.
+
+— Zdaje się, że nie.
+
+— A może w znaczeniu zmiany miejsca?
+
+— A może?
+
+— Ależ, gdyby się w tym znaczeniu poruszało, to alboby się kręciło w kółko na tym samym miejscu, albo zmieniałoby miejsce z jednego na drugie.
+
+— Koniecznie.
+
+— Nieprawdaż, co się ma kręcić w kółko, to musi mieć środek stały i musi mieć swoje inne części, które by się naokoło tego środka kręciły. A co nie może mieć środka ani części, w jakiż sposób może się kiedykolwiek kręcić około swego środka?
+
+— W żaden sposób.
+
+— A więc może ono zmienia miejsce z jednego na drugie i w ten sposób się porusza?
+
+— Już, jeżeli jak, to w ten sposób.
+
+— Nieprawdaż, pokazało się, że ono nie może być gdzieś, w czymś.
+
+— Tak.
+
+— A czy nie jest mu jeszcze trudniej dostawać się gdziekolwiek?
+
+— Nie rozumiem, dlaczego.
+
+— Jeżeli się coś dokądś dostaje, czy nie musi jeszcze nie być w tym, bo się dopiero dostaje, ani też nie może być całkowicie poza tym, skoro się już dostaje.
+
+— Z konieczności.
+
+— Więc jeżeli cokolwiek może by w takim stanie, to jedynie tylko to, co miałoby części. Bo jakaś jedna jego część już by była w środku, a druga równocześnie jeszcze na zewnątrz. A jeżeli coś nie ma części, to przecież nie potrafi w żaden sposób w całości nie być równocześnie ani w środku, ani na zewnątrz.
+
+— To prawda.
+
+— Co ani części nie ma, ani całością nie jest, czy temu nie jest jeszcze trudniej dostać się dokądkolwiek, skoro się tam nie może dostać ani częściami, ani jako całość?
+
+— Zdaje się.
+
+— Zatem ono ani nie chodzi nigdzie, nie dostaje się nigdzie i miejsca nie zmienia, ani się na miejscu nie kręci, ani się jakościowo nie zmienia.
+
+— Nie wydaje się.
+
+— Więc w każdym znaczeniu ruchu to Jedno jest nieruchome.
+
+— Nieruchome.
+
+— Ale my przecież mówimy, że ono też nie może istnieć w czymś.
+
+— A mówimy.
+
+— Zatem ono też nie istnieje nigdy w tym samym.
+
+— A to czemu?
+
+— Bo już by wtedy było w tym samym, w czym jest.
+
+— Tak jest.
+
+— Więc ani w sobie samym, ani w czymś innym niepodobna mu istnieć wewnątrz.
+
+— No nie.
+
+— Zatem to Jedno nigdy nie jest w tym samym.
+
+— Zdaje się, że nie.
+
+— A przecież to, co nigdy nie jest w tym samym, to ani spokoju nie ma, ani nie stoi.
+
+— Nie może.
+
+— Więc to Jedno, zdaje się, ani nie stoi, ani się nie rusza.
+
+— Nieprawdaż, widać, że tak.
+
+— I ono nie będzie tym samym ani z czymś innym, ani z sobą samym, ani też nie będzie mogło być czymś różnym od siebie samego, ani od czegoś innego.
+
+— Jakim sposobem?
+
+— Bo chyba, będąc czymś różnym od siebie samego, byłoby różnym od jednego i nie byłoby już Jednym.
+
+— Prawda.
+
+— A znowu, będąc tym samym z czymś różnym, byłoby już tamtym, a nie mogłoby być sobą. Tak, że i w ten sposób nie byłoby tym, czym jest, tylko czymś różnym od Jednego.
+
+— No, nie byłoby.
+
+— Zatem ono się nie utożsami z czymś różnym, ani się nie zacznie różnić od siebie samego.
+
+— No nie.
+
+— Ani czymś różnym od czegoś różnego nie będzie, jak długo będzie Jednym. Bo coś, co jest Jednym, nie może być czymś różnym od czegokolwiek — to może być tylko coś, co jest czymś różnym od czegoś różnego, a nic innego.
+
+— Słusznie.
+
+— Przecież ono przez to, że jest czymś Jednym, nie stanie się czymś różnym. Czy też myślisz, że tak?
+
+— Ależ nie.
+
+— A jeżeli nie przez to, to nie samo przez się, a jeżeli nie samo przez się, to i nie samo. Ono samo, nie mogąc w żaden sposób być czymś różnym, nie będzie różnym od niczego.
+
+— Słusznie.
+
+— Ani też nic nie będzie tym samym samo ze sobą.
+
+— Jakże to nie?
+
+— Bo nie ta sama jest natura jednego i nie ta sama przecież tego samego.
+
+— Więc co?
+
+— To, że jeśli się coś staje tym samym z czymś innym, nie staje się Jednym.
+
+— Ależ jak to?
+
+— To, co się staje tym samym z wielością, musi się stawać wielością, a nie czymś Jednym.
+
+— Prawda.
+
+— Ale jeśli Jedno nie różni się niczym od tego samego, to ile razy by się coś stawało tym samym, stawałoby się może zawsze Jednym. A ile razy Jednym, robiłoby się tym samym.
+
+— Tak jest.
+
+— Więc jeśli Jedno będzie identyczne z sobą, nie będzie Jednym z sobą. I w ten sposób, będąc Jednym, nie będzie Jednym. A tymczasem to przecież niemożliwe. Zatem i to niemożliwe, żeby Jedno było czymś różnym od różnego i czymś identycznym z sobą.
+
+— Niemożliwe.
+
+— W takim razie to Jedno ani z sobą, ani z czymś innym nie będzie ani identyczne, ani różne.
+
+— No nie.
+
+— Zatem ani podobne, ani niepodobne nie będzie, ani do siebie samego, ani do czegoś innego.
+
+— Bo co?
+
+— Bo podobne to chyba to, co nacechowane tym samym.
+
+— Tak.
+
+— A pokazało się, że natura tego samego jest różna od natury jednego.
+
+— No pokazało się.
+
+— A jeżeliby to Jedno było nacechowane czymś różnym od bycia czymś Jednym, to byłoby nacechowane czymś więcej niż tym, że jest czymś Jednym. A to jest niemożliwe.
+
+— Tak.
+
+— Zatem żadną miarą to Jedno nie może być nacechowane identycznością ani z czymś innym, ani z samym sobą.
+
+— Nie wydaje się to możliwe.
+
+— Zatem i podobne nie może być ani do czegoś innego, ani do siebie samego.
+
+— Nie wydaje się.
+
+— A nie może też być nacechowane różnością to Jedno; bo w ten sposób byłoby nacechowane czymś więcej niż jeden.
+
+— No więcej.
+
+— A gdyby było nacechowane różnością albo od siebie samego, albo od czegoś innego, byłoby niepodobne albo do siebie, albo do czegoś innego, skoro podobne jest to, co jest nacechowane tożsamością.
+
+— Słusznie.
+
+— Zatem Jedno, jak się zdaje, w żadnym sposobie nienacechowane różnością, w żadnym sposobie nie będzie też niepodobne ani do siebie samego, ani do czegoś innego.
+
+— No nie.
+
+— Zatem to Jedno nie może być ani podobne, ani niepodobne, ani do siebie samego, ani do czegoś innego.
+
+— Nie wydaje się.
+
+— I prawda, że będąc takim, nie będzie ani równe, ani nierówne, ani sobie samemu, ani czemukolwiek innemu.
+
+— Jakże to?
+
+— Bo gdyby było równe, miałoby te same miary, co tamto, czemu byłoby równe.
+
+— Tak.
+
+— A gdyby było może większe albo mniejsze, gdyby było z innymi rzeczami współmierne, to miałoby więcej miar niż rzeczy mniejsze, a mniej niż większe.
+
+— Tak.
+
+— A gdyby nie było współmierne, to będzie miało miary mniejsze od jednych, a większe od drugich.
+
+— Jakżeby nie?
+
+— Nieprawdaż, to niemożliwe, żeby to, co nie ma w sobie tożsamości, miało albo miary te same, albo jakiekolwiek inne znamiona te same?
+
+— Niemożliwe.
+
+— Zatem nie może być równe ani sobie, ani niczemu innemu, nie mając tych samych miar.
+
+— No nie przecież — pokazuje się.
+
+— A jeśli ma więcej miar albo mniej, to ilekolwiek miar posiada, tyle też posiadałoby części. I w ten sposób znowu już nie będzie Jednym, ale będzie go tyle, ile będzie miało miar.
+
+— Słusznie.
+
+— A gdyby miało jedną miarę, stałoby się równe tej mierze. A to się okazało niemożliwe, żeby ono było czemukolwiek równe.
+
+— Pokazało się.
+
+— Więc skoro ono nie ma ani jednej miary, ani wielu, ani niewielu, ani w ogóle nie ma w sobie tożsamości, ono, zdaje się, nie będzie nigdy równe sobie ani czemuś innemu, ani nie będzie większe, ani mniejsze, ani od siebie samego, ani od czegoś innego.
+
+— Ze wszech miar tak jest.
+
+XII. — No cóż? A wydaje się, że Jedno może być starsze albo młodsze, albo tego samego wieku, jak cokolwiek innego?
+
+— A czemuż by nie?
+
+— Dlatego, że mając ten sam wiek, co samo albo cokolwiek innego, miałoby w sobie równość czasu i podobieństwo, a mówiliśmy, że te rzeczy nie przysługują Jednemu: ani podobieństwo, ani równość.
+
+— Mówiliśmy przecież.
+
+— I że mu nie przysługuje niepodobieństwo i nierówność, tośmy też mówili.
+
+— No, tak jest.
+
+— Więc jak ono potrafi być od czegokolwiek albo starsze, albo młodsze, albo mieć ten sam wiek, skoro jest takie?
+
+— W żaden sposób.
+
+— Zatem Jedno nie może być ani młodsze, ani starsze, ani tego samego wieku, co ono samo lub cokolwiek innego.
+
+— Nie wydaje się.
+
+— Czyż zatem nawet i w ogóle istnieć w czasie nie mogłoby to Jedno, gdyby było takie? Czy to nie musi tak być, że jeśli coś istnieje w czasie, to robi się wciąż starsze od siebie samego?
+
+— To musi tak być.
+
+— A prawda, że co jest starsze, to jest zawsze starsze od czegoś młodszego?
+
+— No tak.
+
+— Cokolwiek się staje starsze od siebie samego, to staje się równocześnie i młodsze od siebie samego, jeżeli ma mieć zawsze od czego robić się starszym.
+
+— Jak to myślisz?
+
+— W ten sposób. Jeżeli coś jest różne od drugiego, to nie musi dopiero stawać się takim, bo już jest różne. Musi tylko być różne od tego, co jest już różne i musi stać się różne od tego, co się stało różne, i musi istnieć różne od tego, co ma być różne, a od tego, co się staje różne, ani stać się, ani istnieć, ani być jakoś różnym, tylko stawać się różnym i nic innego nie robić.
+
+— Koniecznie.
+
+— A być starszym to jest różność w stosunku do młodszego i do nikogo innego?
+
+— No jest.
+
+— Więc cokolwiek się staje starszym od siebie samego, to musi równocześnie stawać się młodsze od siebie samego.
+
+— Zdaje się.
+
+— Ale zarazem ani dłuższego czasu od siebie nie zajmować, ani krótszego, tylko równy czas, tak samo, i być, i powstawać, i powstać kiedyś, i istnieć.
+
+— Konieczne i to.
+
+— Zatem zdaje się, że to musi tak być, że cokolwiek istnieje w czasie i uczestniczy w nim, każde takie coś musi mieć ten sam wiek, co go ma, i musi stawać się zarazem starsze i młodsze od siebie samego.
+
+— Gotowo tak być.
+
+— A to Jedno takich znamion wcale nie posiada.
+
+— No, nie posiada.
+
+— Zatem ono też nie uczestniczy w czasie i nie istnieje w żadnym czasie.
+
+— No nie przecież — sam rozum dyktuje.
+
+— Więc cóż? Te słowa: „było” i „stało się”, i „powstawało”, czy te słowa nie zdają się oznaczać uczestniczenia w czasie czegoś, co się stało kiedyś?
+
+— I bardzo.
+
+— No a cóż? A to: „będzie” i „stanie się”, i „powstanie”, czy te słowa nie oznaczają uczestnictwa w czasie przyszłym, który ma kiedyś nadejść?
+
+— Tak.
+
+— A to „jest” i „staje się” czy nie w teraźniejszym?
+
+— Tak jest.
+
+— Jeżeli tedy Jedno w żaden sposób w żadnym czasie nie uczestniczy, to ani nie powstało nigdy, ani nie powstawało, ani go nie było nigdy, ani teraz nie powstało, ani nie powstaje, ani nie jest, ani później powstawać nie będzie, ani nie powstanie, ani go nie będzie.
+
+— Najzupełniejsza prawda.
+
+— A czy może cokolwiek uczestniczyć w istnieniu inaczej niż w którymś z tych sposobów?
+
+— Nie może.
+
+— Zatem Jedno w żadnym sposobie nie uczestniczy w istnieniu?
+
+— Nie zdaje się, żeby.
+
+— Zatem w żadnym sposobie nie ma tego Jednego.
+
+— Nie widać, jakby.
+
+— Więc nawet i tak go nie ma, żeby było czymś Jednym. Bo już by było, będąc i uczestnicząc w istnieniu. Zdaje się, że to Jedno ani nie jest Jednym, ani nie istnieje, jeżeli wypada wierzyć takiemu tokowi myśli.
+
+— Gotowo tak być.
+
+— A jeżeli czegoś nie ma, to czy takie nieistniejące coś może coś mieć dla siebie albo coś swojego?
+
+— No jakże?
+
+— Zatem ono ani nazwy nie ma, ani ścisłego ujęcia, ani jakiejś wiedzy o tym nie ma, ani spostrzeżenia, ani mniemania.
+
+— Nie widać, żeby.
+
+— Zatem ani się go nie nazywa, ani się o nim nie mówi, ani ono nie jest przedmiotem mniemania, ani poznania, ani go nikt nie dostrzega.
+
+— Nie zdaje się.
+
+— A czy to możliwe, żeby się tak rzecz miała z tym Jednym?
+
+— No nie, tak mi się przynajmniej zdaje.
+
+XIII. — Więc, jeżeli chcesz, to wróćmy do założenia — na nowo, od początku — może się nam coś inaczej przedstawi, jak będziemy wracali.
+
+— Owszem, mam ochotę.
+
+— Nieprawdaż? Jeżeli istnieje Jedno, tak mówimy, to jakie tam dla niego następstwa z tego wynikają, to trzeba przedyskutować i uzgodnić. Czy nie tak?
+
+— Tak.
+
+— No to zobacz od początku. Jedno jeśli istnieje, to czy możliwe jest, żeby istniało, a w istnieniu nie uczestniczyło?
+
+— Nie jest możliwe.
+
+— Nieprawdaż, wtedy też istnienie Jednego nie byłoby tym samym, co jeden. Ono by nie było jego istotą, ani by to Jedno w istnieniu nie uczestniczyło i wychodziłoby na coś podobnego powiedzieć, że Jedno istnieje, i powiedzieć, że Jedno to jedno. Tymczasem teraz nie to mamy założenie, że Jedno to jedno i co z tego musi wynikać, tylko nam i chodzi o to, czy Jedno istnieje. Czy nie tak?
+
+— Tak jest.
+
+— Nieprawdaż? Dlatego, że co innego oznacza wyraz „istnieje”, a co innego wyraz „Jedno”?
+
+— Z konieczności.
+
+— Więc czy to nie znaczy, że Jedno uczestniczy w istnieniu, kiedy ktoś powie razem, że Jedno istnieje?
+
+— No tak jest.
+
+— Więc na nowo mówmy, co wyniknie z tego, jeżeli Jedno istnieje. Zobacz no, czy to założenie nie oznacza z konieczności takiego Jednego, które ma części.
+
+— Jakim sposobem?
+
+— Takim. Jeżeli ten wyraz „istnieje” dotyczy jednego istniejącego, a wyraz „Jedno” dotyczy też jednego istniejącego, a nie jest jednym i tym samym istnienie i Jedno, tylko przysługują właśnie temu samemu, cośmy przyjęli w założeniu, a mianowicie temu istniejącemu Jednemu, to czy nie musi to „istniejące Jedno” być całością, a jego częściami staną się „Jedno” oraz „istnienie”.
+
+— Z konieczności.
+
+— A czy my każdą z tych dwóch części nazwiemy tylko częścią, czy też część należy nazywać częścią całości?
+
+— Całości.
+
+— Zatem i całością jest, cokolwiek jest Jednym i ma cząstkę?
+
+— Tak jest.
+
+— No cóż? A czy każda z tych części istniejącego Jednego, bo są dwie: to „Jedno” i to „istniejące”, czy na przykład Jedno utraci tę cząstkę „istniejącego”, albo to „istniejące” czy utraci cząstkę „Jednego”?
+
+— To nie może być.
+
+— Zatem znowu każda z dwóch cząstek ma i to „Jedno”, i to „istniejące” i taka cząstka składa się co najmniej znowu z dwóch cząstek, i w ten sam sposób wciąż dalej, jakakolwiek by się zrobiła cząstka, to zawsze ma te dwie cząsteczki. Bo to „Jedno” zawsze ma przy sobie „istniejące”, a to „istniejące” „Jedno”. Zatem to się wciąż dwoi i nigdy nie może być Jednym.
+
+— Ze wszech miar.
+
+— Zatem to „Jedno istniejące” to byłoby w ten sposób jakieś nieograniczone mnóstwo.
+
+— Zdaje się.
+
+— Pójdź no jeszcze i tędy.
+
+— Którędy?
+
+— Mówimy, że Jedno uczestniczy w istnieniu, ponieważ istnieje?
+
+— Tak.
+
+— I dlatego „Jedno istniejące” okazało się mnóstwem.
+
+— Tak jest.
+
+— No cóż? A samo tylko „Jedno”, o którym przecież mówimy, że uczestniczy w istnieniu; jeżeli je samo tylko, samo w sobie weźmiemy pod uwagę na rozum, bez tego, w czym ono według nas uczestniczy, czy ono się wtedy okaże jednym, czy wieloma — jedno i to samo?
+
+— Jednym; tak mi się przynajmniej zdaje.
+
+— No, to zobaczmy. Prawda, że czymś innym musi być jego istnienie, a czymś innym ono, skoro „Jedno” nie jest „istnieniem”, ale Jedno uczestniczy w istnieniu.
+
+— Koniecznie.
+
+— Nieprawdaż, jeśli czymś innym jest istnienie, a czymś innym Jedno, to ani to Jedno nie jest czymś różnym od istnienia dzięki jedności, ani istnienie nie jest czymś innym od Jednego dzięki istnieniu, tylko one się różnią od siebie, różnością i innością.
+
+— Tak jest.
+
+— Tak, że ta różność nie jest ani tym samym, co Jedno, ani tym samym, co istnienie.
+
+— No jakżeby?
+
+— Cóż więc? Jeżeli sobie wybierzemy z nich, co chcesz, może: istnienie i różność, albo istnienie i Jedno, albo Jedno i różność, czy w każdym z tych wyborów nie wybieramy czegoś, co można słusznie nazwać parą?
+
+— Jak to?
+
+— No tak: czy można powiedzieć „istnienie”?
+
+— Można.
+
+— I znowu powiedzieć: „Jedno”?
+
+— I to można.
+
+— I czy nie mówi się, że to para?
+
+— Tak.
+
+— A cóż, jak powiem: „istnienie i Jedno”, czy to nie para?
+
+— Tak jest.
+
+— Nieprawdaż? I kiedy powiem: „istnienie i różność” albo „różność i Jedno” i tak na wszystkie sposoby każdą kombinację nazywam parą.
+
+— Tak.
+
+— A co się słusznie nazywa parą, czy może być, żeby to były jakieś „oba”, a nie „dwa”?
+
+— Nie może być.
+
+— A jeżeli są jakieś dwa, to czy istnieje jakaś możliwość, żeby każde z dwojga nie było Jednym?
+
+— Żadnej możliwości.
+
+— Więc i w tym wypadku, skoro zawsze są dwójki, to i każde z osobna musi być Jednym.
+
+— Widać.
+
+— A skoro każde z nich jest Jednym, to, jeżeli złożyć którekolwiek Jedno z którąkolwiek kombinacją, czy nie zrobi się trójka z tego wszystkiego?
+
+— Tak.
+
+— A czy trzy to nie jest nieparzyste, a dwa parzyste?
+
+— Jakżeby nie?
+
+— No cóż? Gdzie są „dwa”, czy nie muszą być i „dwa razy”, a jeżeli trzy, to i trzy razy, skoro dwa to jest dwa razy jeden, a trzy to trzy razy jeden.
+
+— Koniecznie.
+
+— A jeżeli są dwa i dwa razy, to czy nie muszą być i dwa po dwa? A jeżeli trzy i trzy razy, to czy nie muszą być i trzy po trzy?
+
+— Jakżeby nie?
+
+— No cóż? A jeżeli są trzy i są dwa razy, i są dwa, i są trzy razy, to czy nie muszą być i dwa razy trzy, i trzy razy dwa?
+
+— Stanowczo muszą.
+
+— Zatem muszą być i parzyste wzięte nieparzystą ilość razy, i nieparzyste wzięte parzystą ilość razy.
+
+— Jest tak.
+
+— Jeżeli to tak jest, to czy myślisz, że zostanie jakaś liczba, która by nie musiała być?
+
+— W żaden sposób, nigdy.
+
+— Więc jeżeli jest jeden, to musi być i liczba.
+
+— Koniecznie.
+
+— A jeżeli jest liczba, to musi być i wielość, i nieograniczone mnóstwo przedmiotów. Czy nie robi się liczba nieskończonej mnogości i uczestnicząca w istnieniu?
+
+— Tak też jest.
+
+— Nieprawdaż? Jeśli cała liczba uczestniczy w istnieniu, to i każda cząstka liczby musi w nim uczestniczyć?
+
+— Tak.
+
+XIV. — Zatem istnienie jest rozdzielone na wszystkie przedmioty, których jest wiele i nie opuszcza żadnego przedmiotu, ani najmniejszego, ani największego? A może o to nawet i zapytywać głupio? Bo jakżeby istnienie miało odstępować od któregoś z przedmiotów istniejących.
+
+— W żaden sposób.
+
+— Więc ono jest rozdrobnione na kawałki możliwie najmniejsze i największe, i wszelkie możliwe; ono się dzieli jak tylko można najbardziej; istnieje nieskończona ilość części istnienia.
+
+— Jest tak.
+
+— Więc jego części jest najwięcej.
+
+— Rzeczywiście najwięcej.
+
+— Więc cóż? Jest pomiędzy nimi taka, która jest częścią istnienia, ale żadną częścią?
+
+— I jakżeby się to stać mogło?
+
+— Ale mam wrażenie, że jeśli jest jakaś taka, to ona musi być zawsze, jak długo by istniała, czymś Jednym przecież, a nie może być czymś żadnym.
+
+— Koniecznie.
+
+— Zatem do każdej cząstki istnienia jest przyczepione to Jedno; ono nie opuszcza ani mniejszej cząstki, ani większej, ani żadnej innej.
+
+— Tak.
+
+— A czy będąc Jednym, ono jest równocześnie całe na wielu miejscach? To zobacz!
+
+— Ja patrzę i widzę, że to być nie może.
+
+— Zatem rozdzielone, jeśli nie całe. Bo inaczej chyba w żaden sposób nie będzie przysługiwało wszystkim częściom istnienia, jak tylko rozdzielone.
+
+— Tak.
+
+— A tego rozdzielonego musi być koniecznie tyle, ile jest części.
+
+— Musi.
+
+— Więc czy nie słusznie mówiliśmy przed chwilą, że istnienie musi mieć części najwięcej? I tego rozdzielonego nie ma więcej niż Jedno, tylko tyle samo, zdaje się, co Jedno. Bo ani istnienie nie opuszcza Jednego, ani Jedno istnienia, tylko ich jest wszędzie po równi, tyle samo.
+
+— Ze wszech miar, tak to wygląda.
+
+— Więc tego Jednego, rozkawałkowanego przez istnienie, jest mnóstwo, nieskończonej mnogości.
+
+— Widocznie.
+
+— Więc nie tylko „istniejące Jedno” jest mnóstwem, ale i samo Jedno podzielone przez istnienie musi być mnóstwem.
+
+— Ze wszech miar przecież.
+
+XV. — A znowu, ponieważ cząstki są cząstkami całości, więc Jedno musi być ograniczone jako całość. Czyż całość nie obejmuje części?
+
+— Koniecznie.
+
+— A przecież to, co obejmuje, musi być granicą.
+
+— Jakżeby nie?
+
+— Zatem to istniejące Jedno jest i jednym, i mnóstwem, jest to i całość, i cząstki, i coś ograniczonego, i coś nieograniczonej mnogości.
+
+— Widocznie.
+
+— A jeśli to ograniczone, to czy i krańce posiada?
+
+— Z konieczności.
+
+— No cóż? A jeśli to całość, to czy nie musi też mieć początku i środka, i końca? Czy może istnieć jakaś całość bez tych trzech rzeczy? I gdyby od jednego którakolwiek z nich odpadła, czy ono zechce jeszcze być całością?
+
+— Nie zechce.
+
+— Zatem zdaje się, że Jedno musi mieć i początek, i koniec, i środek.
+
+— Musi mieć.
+
+— A prawda, że środek jest jednakowo odległy od krańców? Bo inaczej nie byłby środkiem.
+
+— No nie.
+
+— Więc kształt jakiś, zdaje się, że musi mieć Jedno, skoro jest takie; albo prosty, albo okrągły, albo jakiś pomieszany z jednego i z drugiego.
+
+— Musi chyba mieć.
+
+— A będąc takim, czy ono nie będzie istniało i samo w sobie, i w czymś innym?
+
+— Jak?
+
+— Przecież każda z cząstek jest w całości i żadna nie jest poza całością.
+
+— Takim sposobem.
+
+— A wszystkie cząstki są objęte całością?
+
+— Tak.
+
+— A przecież wszystkie cząstki to jest właśnie to Jedno, i to ani trochę więcej, ani trochę mniej, tylko one wszystkie.
+
+— No nie.
+
+— Nieprawda, że Jedno jest też i całością?
+
+— Jakżeby nie?
+
+— Jeżeli więc wszystkie części są w sam raz w całości, a wszystkie razem to Jedno i sama całość też, a wszystkie są objęte całością, to Jedno musi być objęte Jednym i w ten sposób Jedno musi istnieć samo w sobie.
+
+— Widocznie.
+
+— Ale znowu całość przecież nie istnieje w cząstkach — ani we wszystkich, ani w niektórych. Bo gdyby istniała we wszystkich, to istniałaby i w jednej. Bo gdyby całości nie było w jakiejś jednej cząstce, to by już nie mogła być we wszystkich. I jeżeli ta jedna cząstka należy do wszystkich, a całości w tej jednej cząstce nie ma, to jakimże sposobem ta całość będzie we wszystkich cząstkach?
+
+— Żadnym sposobem.
+
+— Ani też w cząstkach niektórych. Bo gdyby całość była w cząstkach niektórych, wtedy by coś, co jest większe, tkwiło w czymś mniejszym, a to jest niemożliwe.
+
+— Niemożliwe.
+
+— A skoro całość nie istnieje ani w większej ilości cząstek, ani we wszystkich cząstkach, to czy ona nie musi istnieć w czymś innym albo nie istnieć już nigdzie?
+
+— Z konieczności.
+
+— Nieprawdaż; gdyby nie istniała nigdzie, byłaby niczym, a skoro istnieje całość, to musi istnieć w czymś innym, skoro nie istnieje w sobie samej.
+
+— Tak jest.
+
+— Więc o ile Jedno jest całością, to istnieje w czymś innym. A o ile są to tylko wszystkie części, to istnieje samo w sobie. I w ten sposób Jedno musi istnieć i samo w sobie, i w czymś innym.
+
+— Koniecznie.
+
+— Kiedy Jedno jest takie, to czy ono nie musi i poruszać się, i stać na miejscu?
+
+— Jakim sposobem?
+
+— Stoi chyba, skoro jest samo w sobie. Bo będąc w jednym i nie wychodząc z niego, musi być w jednym i tym samym, w sobie.
+
+— No jest.
+
+— Przecież to, co zawsze jest w tym samym, musi chyba wciąż stać.
+
+— Tak jest.
+
+— No cóż? A to, co wciąż jest w czymś innym, czy to nie wprost przeciwnie: nie może nigdy być w tym samym, a skoro nigdy nie jest w tym samym, to i nie stoi, a skoro nie stoi, to się rusza?
+
+— Tak.
+
+— Zatem musi tak być, że Jedno, wciąż będąc w samym sobie i w czymś innym, zawsze się porusza i zawsze stoi.
+
+— Widocznie.
+
+— I prawda, że musi być samo z sobą identyczne i musi być różne od siebie samego, i tak samo z innymi rzeczami musi być identyczne i różne od nich, skoro z nim jest tak, jak poprzednio.
+
+— Jak?
+
+— Wszystko chyba tak się odnosi do wszystkiego, że albo jest z nim identyczne, albo różne. Albo, jeśliby nie było ani identyczne, ani różne, to może być częścią tego, do czego się tak odnosi, albo może być takie, jak całość w stosunku do części.
+
+— Widocznie.
+
+— A czy Jedno jest częścią siebie samego?
+
+— W żaden sposób.
+
+— Zatem ono nie może być i całością w stosunku do siebie samego jako swojej części, będąc częścią w stosunku do siebie samego?
+
+— To niemożliwe.
+
+— A czy Jedno jest czymś różnym od Jednego?
+
+— No nie, przecież.
+
+— Więc i nie może być czymś innym od siebie samego?
+
+— No nie.
+
+— Skoro więc nie jest w stosunku do siebie ani czymś różnym, ani całością, ani częścią, to czy nie musi już w końcu być czymś z sobą identycznym?
+
+— Koniecznie.
+
+— Więc cóż? Coś, co jest gdzieś indziej, niż jest, a jest samo w sobie, czy ono nie musi być czymś różnym samo od siebie, skoro i będzie gdzieś indziej, niż jest?
+
+— Tak mi się wydaje.
+
+— Więc w ten sposób się przedstawiło to Jedno: istnieje samo w sobie i równocześnie w czymś innym.
+
+— Przedstawiło się tak.
+
+— W ten sposób, zdaje się, że Jedno będzie czymś różnym od siebie samego.
+
+— Zdaje się.
+
+— Więc cóż? Jeżeli coś jest od czegoś różne, to czy nie będzie różne od czegoś, co jest różne?
+
+— Z konieczności.
+
+XVI. — Nieprawdaż, cokolwiek nie jest Jednym, to wszystko jest różne od Jednego, i Jedno różne jest od Niejednego?
+
+— Jakżeby nie?
+
+— Zatem Jedno musi być różne od innych.
+
+— Różne.
+
+— A zobacz no. Jedno i to samo i różne — czy to nie przeciwne jedno drugiemu?
+
+— Jakżeby nie?
+
+— Czy więc zechce kiedykolwiek jedno i to samo być w czymś różnym, albo to, co różne, w jednym i tym samym?
+
+— Nie zechce.
+
+— Więc jeżeli to, co różne, w tym samym nigdy nie będzie, to nie ma takiego przedmiotu w którym to, co różne, byłoby jakiś czas. Bo jakikolwiek czas w czymś było, to właśnie przez ten czas byłoby w tym samym — to, co różne. Czy nie tak?
+
+— Tak.
+
+— A skoro to, co różne, nigdy nie jest w tym samym, przeto nigdy nie może być w żadnym przedmiocie.
+
+— Prawda.
+
+— Zatem ani w tych przedmiotach, które nie są Jednym, ani w Jednym nie może tkwić to, co różne.
+
+— No nie.
+
+— Więc prawda, że nie przez to, co różne, byłoby różne Jedno od Niejednego i Niejedno od Jednego.
+
+— No nie.
+
+— I same przez siebie też nie mogą być różne od siebie, skoro w nich nie ma tego, co różne.
+
+— Jakżeby?
+
+— Więc jeśli ani same przez się, ani przez to, co różne, one się nie różnią od siebie nawzajem, to czy może już w ogóle nie ucieknie to nieróżnienie się ich między sobą?
+
+— Gotowo uciec.
+
+— A prawda, że wszystko, co poza Jednym, nie ma w sobie Jednego. Bo nie byłoby wtedy Niejednym, tylko byłoby jakoś Jednym.
+
+— Prawda.
+
+— I liczby nie stanowi to, co poza Jednym. Bo wtedy by to nie było w ogóle Niejedno, tylko miałoby liczbę.
+
+— No nie.
+
+— No cóż; to, co poza Jednym, czy to może są cząstki Jednego? Czy też wtedy już by te rzeczy uczestniczyły w Jednym?
+
+— Uczestniczyłyby.
+
+— Jeżeli ze wszech miar to jest Jedno, a tamte rzeczy to Niejedno, to nawet Jedno nie może być cząstką tych rzeczy, co stanowią Niejedno, ani też one nie są jego cząstkami, jako całości. Ani też te rzeczy poza Jednym nie są cząstkami Jednego, ani nie stanowią całości, której cząstką byłoby Jedno.
+
+— No nie.
+
+— A mówiliśmy, prawda, że te rzeczy, które w stosunku do siebie nie są ani cząstkami, ani całościami, ani nie są od siebie różne, będą ze sobą też same.
+
+— Mówiliśmy.
+
+— Więc może powiemy, że i Jedno, i te rzeczy poza Jednym, skoro to tak jest, będą ze sobą te same?
+
+— Powiemy.
+
+— Zatem Jedno jest, zdaje się, różne od innych rzeczy i od siebie samego, i toż samo z innymi rzeczami, i samo z sobą.
+
+— Gotowo się tak wydawać; przynajmniej coś tak wychodzi z tego toku myśli.
+
+— A może ono też jest i podobne, i niepodobne do siebie samego i do innych rzeczy?
+
+— A może być.
+
+— Skoro się okazało różne od innych rzeczy, to może inne rzeczy też będą różne od niego?
+
+— No czemu?
+
+— Nieprawdaż; w ten sposób różne od innych, jak też i inne rzeczy różne od niego, i ani bardziej, ani mniej?
+
+— Bo czemu by też.
+
+— Więc jeżeli ani bardziej, ani mniej, to podobnie.
+
+— Tak.
+
+— Nieprawdaż, o ile jest nacechowane różnością w stosunku do innych rzeczy, a inne rzeczy w stosunku do niego tak samo, o tyle też są inne rzeczy nacechowane tożsamością w stosunku do Jednego i Jedno w stosunku do innych rzeczy.
+
+— Jak mówisz?
+
+— Tak: każdą nazwę wypowiadasz czy nie pod adresem czegoś?
+
+— No tak.
+
+— Cóż więc, tę samą nazwę potrafisz wypowiedzieć częściej niż raz?
+
+— Potrafię.
+
+— Czyż więc, jeśli ją raz wypowiesz, wtedy nazywasz to, czego ona jest nazwą, a jeśli często, to już nie to? Czy też wszystko jedno, czy jeden raz, czy wiele razy tę samą nazwę wymówisz, zawsze z nieuchronną koniecznością masz to samo na myśli?
+
+— No, czemu nie.
+
+— Nieprawdaż; to „różne” to jest też nazwa czegoś?
+
+— Tak jest.
+
+— A kiedy tę nazwę wypowiadasz, wszystko jedno: raz czy wiele razy, to nie pod innym adresem ani niczego innego tak nie nazywasz, tylko to, czego ten wyraz jest nazwą.
+
+— Z konieczności.
+
+— A kiedy my mówimy, że inne rzeczy są różne od Jednego, a Jedno jest czymś różnym od innych rzeczy, to dwa razy wypowiadamy ten wyraz „różne”. Mimo to, wypowiadamy go zawsze pod adresem nie innej, tylko tej natury, której on jest nazwą.
+
+— Tak jest.
+
+— Więc o ile Jedno jest różne od innych rzeczy, a inne rzeczy różne są od Jednego, o tyle jednym i tym samym różnym są nacechowane, a więc nie czymś innym, tylko jednym i tym samym są nacechowane, i Jedno, i inne rzeczy. A co jest nacechowane jednym i tym samym, to jest podobne. Czy nie?
+
+— Tak.
+
+— Więc o ile Jedno jest nacechowane czymś różnym niż inne rzeczy, o tyle właśnie wszystko do wszystkiego musi być podobne. Bo wszystko jest od wszystkiego różne.
+
+— Zdaje się.
+
+XVII. — A prawda, że „podobne” i „niepodobne” to przeciwieństwa?
+
+— Tak.
+
+— Nieprawdaż. I „to, co różne” przeciwieństwem „tego samego”.
+
+— I to też.
+
+— A to się też pokazało, że Jedno jest tym samym, co inne rzeczy.
+
+— Pokazało się.
+
+— A to są cechy przeciwne: być tym samym, co inne rzeczy, i być czymś różnym od innych rzeczy.
+
+— Tak jest.
+
+— I o tyle, o ile różne, okazało się podobne.
+
+— Tak.
+
+— Zatem, o ile będzie tym samym, to będzie niepodobne, bo to cecha przeciwna tej, która upodobniała. Upodobniała przecież różność?
+
+— Tak.
+
+— Zatem uniepodobni tożsamość albo nie będzie przeciwieństwem różności.
+
+— Zdaje się.
+
+— Zatem Jedno będzie i podobne, i niepodobne do innych, i o ile będzie różne, o tyle będzie podobne, a o ile toż samo, niepodobne. Ono ma, zdaje się, i taki sens. A ma i taki też.
+
+— Jaki?
+
+— O ile jest nacechowane tym samym, nie jest nacechowane czymś innym, a nie będąc nacechowane czymś innym, nie jest niepodobne, a nie będąc niepodobnym, jest podobne. O ile ma inną cechę, jest inne, a będąc innym, jest niepodobne.
+
+— Prawdę mówisz.
+
+— Więc Jedno, będąc tym samym, co inne rzeczy, i dlatego, że jest od nich różne, z obu względów i z każdego z osobna musi być i podobne, i niepodobne do innych.
+
+— Tak jest.
+
+— Nieprawdaż; i w stosunku do siebie tak samo, skoro okazało się różne od siebie samego oraz identyczne z sobą. Więc z obu względów i z każdego z osobna okaże się podobne i niepodobne.
+
+— Z konieczności.
+
+— No cóż. A jeżeli chodzi o Jedno i o inne rzeczy, i o ich dotykanie się, i niedotykanie się. Jak to z tym jest, zastanów się.
+
+— Ja się zastanawiam.
+
+— Bo pokazało się jakoś, że Jedno tkwi w sobie samym jako w całości.
+
+— Słusznie.
+
+— Nieprawdaż, i w innych rzeczach też to Jedno?
+
+— Tak.
+
+— Więc o ile jest w innych rzeczach, to ich musi dotykać. A o ile samo w sobie, to nie mogłoby ich dotykać, a dotykałoby samo siebie, będąc samo w sobie.
+
+— Widocznie.
+
+— W ten sposób dotykałoby Jedno i samego siebie, i innych rzeczy.
+
+— Dotykałoby.
+
+— A cóż w tym sposobie? Czy wszystko, co ma czegoś dotykać, nie musi leżeć obok tego, czego ma dotykać, i czy nie musi zajmować miejsca tuż obok niego?
+
+— Koniecznie.
+
+— Zatem i Jedno, jeżeli ma samo siebie dotykać, musi leżeć tuż koło siebie samego, zajmując miejsce przyległe do tego, które samo zajmuje.
+
+— No musi.
+
+— Nieprawdaż, gdyby go było dwa, to już by ono to zrobiło i znalazłoby się na dwóch miejscach. A jak długo zostanie Jednym, nie zechce?
+
+— No nie.
+
+— Więc ta sama konieczność nie pozwala Jednemu ani się podwoić, ani się samemu dotykać.
+
+— Ta sama.
+
+— Ale ono się innych rzeczy też nie dotknie.
+
+— Cóż tam znowu?
+
+— Bo mówimy, że to, co jest odosobnione, a ma czegoś dotykać, musi być tuż przy tym, czego się ma dotykać, i pomiędzy nimi nie może być nic trzeciego.
+
+— Prawda.
+
+— Zatem muszą być co najmniej dwa przedmioty, jeżeli ma być zetknięcie.
+
+— Muszą.
+
+— A jeżeli się do tych dwóch przedmiotów graniczących ze sobą dołączy trzeci sąsiad, to będą trzy przedmioty, a zetknięcia dwa.
+
+— Tak.
+
+— I tak wciąż, kiedy się Jedno dołączy, dołącza się i jedno zetknięcie, i wypada, że zetknięć jest o jedno mniej od liczby przedmiotów. Pierwsze dwa przedmioty przewyższały swoją liczbą ilość zetknięć. Otóż, o tyle samo i późniejsza liczba przedmiotów przewyższa ilość wszystkich zetknięć. Zawsze dołączający się przedmiot powiększa o jeden liczbę przedmiotów i dołącza się jedno zetknięcie.
+
+— Słusznie.
+
+— Więc ile jest przedmiotów, według liczby, zawsze zetknięć jest o jedno mniej.
+
+— Prawda.
+
+— A skoro istnieje tylko Jedno i dwójki nie ma, nie może zachodzić zetknięcie.
+
+— Bo jak.
+
+— Nieprawdaż, mówimy, że to, co jest inne od Jednego, ani nie jest Jednym, ani go nie ma w sobie, skoro jest czymś innym.
+
+— No nie.
+
+— Dlatego nie ma liczby w tym innym, skoro tam nie ma jednostki.
+
+— Bo jakże.
+
+— Zatem to inne to ani jeden, ani dwa, ani też to się nie nazywa żadną liczbą.
+
+— Nie.
+
+— Więc istnieje tylko samo Jedno i dwójka być nie może.
+
+— Nie widać, żeby.
+
+— No to nie ma i zetknięcia, skoro nie ma dwójki.
+
+— Nie ma.
+
+— Zatem ani Jedno nie dotyka innych przedmiotów, ani inne Jednego, skoro zetknięcia nie ma.
+
+— No nie.
+
+— W ten sposób i z tego wszystkiego Jedno i innych, i siebie samego dotyka i nie dotyka.
+
+— Zdaje się.
+
+XVIII. — A może ono też jest równe i nierówne sobie samemu i innym?
+
+— Jakim sposobem?
+
+— Gdyby Jedno było większe od innych albo mniejsze, albo też inne rzeczy od Jednego większe albo mniejsze, to chyba nie dzięki temu, że jedno jest Jednym, a inne rzeczy są od Jednego inne, nie dzięki samym tym swoim istotom byłyby te rzeczy o cokolwiek większe lub o cokolwiek mniejsze jedne od drugich. Tylko gdyby, oprócz tego, że są takie, miały jeszcze równość, ono Jedno i one drugie, wtedy byłyby i sobie równe nawzajem. Jeżeliby zaś one miały wielkość, a ono małość, albo Jedno gdyby miało wielkość, a te inne małość, to którakolwiek postać spośród nich miałaby w sobie wielkość, ta byłaby większa, a która małość, ta mniejsza.
+
+— Koniecznie.
+
+— Nieprawdaż; istnieją takie pewne dwie postacie: wielkość i małość? Bo gdyby nie istniały, to nie byłyby sobie nawzajem przeciwne i nie tkwiłyby w przedmiotach.
+
+— Jakżeby?
+
+— A jeżeli się w Jednym pojawia małość, to musi zapewne tkwić w nim całym albo w jakiejś jego części.
+
+— Koniecznie.
+
+— Otóż co, jeżeliby tkwiła w całości? Czy nieprawda, że albo byłaby równomiernie przeciągnięta przez nie całe alboby je obejmowała?
+
+— To jasne.
+
+— A czy małość wypełniająca bez reszty Jedno nie byłaby mu równa, a obejmująca je, większa?
+
+— Jakżeby nie?
+
+— A czy to możliwe, żeby małość była czemukolwiek równa albo od czegokolwiek większa i żeby wykonywała robotę wielkości i równości, a nie swoją własną?
+
+— Niemożliwe.
+
+— Zatem w całości Jednego małość tkwić nie może, tylko, jeżeli gdzie, to w części.
+
+— Tak.
+
+— Ani też w całej części. Bo jeżeli nie, to zrobi to samo, co robiła z całością. Będzie równa albo większa od części, w której by zawsze tkwiła.
+
+— Koniecznie.
+
+— Zatem w żadnym przedmiocie nie będzie tkwiła małość, ani w jego części, ani w całości. I nie będzie niczego małego, oprócz małości samej.
+
+— Zdaje się, że nie.
+
+— Ani wielkość nie będzie w żadnym tkwiła. Bo wtedy coś innego byłoby większe od niej i oprócz wielkości samej — to mianowicie, w czym by wielkość tkwiła. Tym bardziej, że nie byłoby w nim całości, którą musiałoby przewyższać, gdyby było wielkie. To jest niemożliwe, ponieważ małości nie ma nigdzie.
+
+— Prawda.
+
+— Więc sama wielkość nie jest większa od niczego, jak tylko od małości, a małość nie jest mniejsza od niczego innego, jak tylko od wielkości samej.
+
+— No nie.
+
+— Więc także inne przedmioty nie są ani większe, ani mniejsze od Jednego, bo nie mają ani wielkości, ani małości, ani też wielkość sama i małość nie posiadają w stosunku do Jednego siły przewyższania i bycia przewyższanym; one ją posiadają tylko w stosunku do siebie nawzajem. Ani też Jedno nie może być od nich ani od innych większe, ani mniejsze, bo nie posiada ani wielkości, ani małości.
+
+— No nie, widać, że nie.
+
+— Czyż więc Jedno, skoro nie jest ani większe, ani mniejsze od innych, nie musi ani ich nie przewyższać, ani nie być przez nie przewyższane?
+
+— Koniecznie.
+
+— Nieprawdaż; co ani nie przewyższa, ani nie jest przewyższane, musi bezwarunkowo dorównywać, a jeśli dorównywa, musi być równe.
+
+— Jakżeby nie?
+
+— I prawda, że Jedno musi tak samo odnosić się do siebie samego. Skoro nie ma w sobie ani wielkości, ani małości, to nie może ani siebie przewyższać, ani być przez siebie przewyższane, tylko dorównując sobie, musi być samo sobie równe.
+
+— Tak jest.
+
+— Zatem jest chyba równe sobie samemu i innym.
+
+— Widocznie.
+
+— I prawda, że istniejąc samo w sobie, musi chyba być i na zewnątrz, naokoło siebie, i skoro samo siebie obejmuje, to musi być większe od siebie, a skoro jest obejmowane, to i mniejsze, i w ten sposób. Jedno musi być chyba samo od siebie i większe, i mniejsze.
+
+— Musi chyba być.
+
+— Nieprawdaż? I to też jest konieczne, żeby nie istniało nic poza Jednym i innymi przedmiotami?
+
+— Jakżeby nie?
+
+— Ale jednak istnieć gdzieś przecież musi, skoro istnieje zawsze.
+
+— Tak.
+
+— Nieprawdaż, cokolwiek jest w czymś, będzie jako mniejsze w czymś większym? Przecież inaczej chyba jedno w drugim być nie może.
+
+— No nie.
+
+— A skoro nie ma niczego drugiego poza innymi przedmiotami i Jednym, a one muszą być w czymś, to czy nie muszą już być w sobie nawzajem: inne przedmioty w Jednym, a Jedno w innych przedmiotach, albo nie będą istniały nigdzie?
+
+— Widocznie.
+
+— A skoro Jedno tkwi w innych przedmiotach, to one muszą być chyba większe od Jednego, skoro je obejmują, a ono musi być mniejsze od innych, skoro jest obejmowane. A skoro inne przedmioty tkwią w Jednym, musi chyba Jedno na tej samej zasadzie być większe od innych, a te inne od Jednego mniejsze.
+
+— Zdaje się.
+
+— Zatem Jedno jest równe i większe, i mniejsze samo od siebie i od innych.
+
+— Widocznie.
+
+— I prawda, że skoro jest większe i mniejsze, i równe, to musi mieć tyle samo miar i więcej, i mniej, niż ich ma samo i niż mają inne przedmioty, a jeżeli miar, to i części.
+
+— Jakżeby nie?
+
+— A skoro ma tyle samo miar i więcej, i mniej, to i co do liczby musi być mniejsze i większe samo od siebie i od innych, i równe musi być samemu sobie i innym tak samo.
+
+— Jak to będzie?
+
+— Od których jest większe, od tych też będzie miało więcej miar, a o ile miar, o tyle i części. A od których mniejsze — tak samo. I którym równe, tak samo.
+
+— Takim sposobem.
+
+— Nieprawdaż, będąc od siebie samego i większe, i mniejsze, i równe sobie, będzie chyba miało tyle samo miar i więcej, i mniej niż ma. A jeśli miar, to i części.
+
+— Jakżeby nie?
+
+— A mając tyle samo części, ile ma, będzie chyba równe samemu sobie co do ilości, a mając ich więcej, będzie większe, a mniej — mniejsze co do liczby od siebie samego.
+
+— Widocznie.
+
+— Nieprawdaż, i do innych w takim samym stosunku będzie zostawało Jedno? Że się wydaje od nich większe, musi być od nich i co do liczby liczniejsze. A że mniejsze, więc mniej liczne. A że równe co do wielkości, zatem i równe co do ilości innym przedmiotom.
+
+— Koniecznie.
+
+— Więc w ten sposób zdaje się, że Jedno będzie co do liczby i równe, i bardziej liczne, i mniej liczne samo od siebie i od innych przedmiotów.
+
+— Będzie.
+
+XIX. — A czy i w czasie uczestniczy Jedno, i jest, i staje się młodszym i starszym samo od siebie i od innych i ani młodszym, ani starszym, ani od siebie, ani od innych, chociaż uczestniczy w czasie?
+
+— Jakim sposobem?
+
+— Przecież chyba bycie mu przysługuje, skoro ono jest Jednym.
+
+— Tak.
+
+— A bycie czy to coś innego niż uczestniczenie w istnieniu w czasie teraźniejszym, tak samo jak „było” w czasie przeszłym, a „będzie” to uczestniczenie w istnieniu w czasie przyszłym?
+
+— No jest tak.
+
+— Zatem ono uczestniczy w czasie, skoro uczestniczy w byciu.
+
+— Tak jest.
+
+— Nieprawdaż; w czasie, który idzie naprzód?
+
+— Tak.
+
+— Ustawicznie więc ono się robi starsze od siebie samego, skoro idzie naprzód razem z czasem.
+
+— Koniecznie.
+
+— A czy pamiętamy, że to, co starsze, robi się starsze od tego, co się robi młodsze?
+
+— Pamiętamy.
+
+— Nieprawdaż więc, skoro Jedno robi się starsze od siebie samego, to musi chyba robić się starsze od siebie, robiącego się młodszym?
+
+— Koniecznie.
+
+— Zatem ono robi się młodsze i starsze od siebie samego w ten sposób.
+
+— Tak.
+
+— A starsze jest czy nie wtedy, gdy powstaje w czasie teraźniejszym, w tym pomiędzy „było” i „będzie”? Przecież ono, idąc z przeszłości w przyszłość, nie ominie teraźniejszości.
+
+— No nie.
+
+— A czy ono wtedy nie przestaje stawać się starszym, kiedy natrafi na chwilę obecną i już się wtedy nie staje, tylko już wtedy jest starsze? A idąc naprzód, nie może się nigdy pozbyć towarzystwa chwili obecnej. To, co idzie naprzód, zawsze się styka z obojgiem, z chwilą obecną i z przyszłością. Od przeszłości się odrywa, a przyszłości się czepia i pomiędzy nimi staje się: pomiędzy przyszłością i chwilą obecną.
+
+— Prawda.
+
+— Jeżeli więc cokolwiek się staje, nie może pomijać chwili obecnej, kiedy do niej dojdzie, więc zawsze przestaje powstawać i jest wtedy tym, czymkolwiek się właśnie staje.
+
+— Widocznie.
+
+— I tak samo Jedno, kiedy, stając się starszym, natrafi na chwilę obecną, zaprzestaje wtedy powstawania i wtedy jest starsze.
+
+— Tak jest.
+
+— Nieprawdaż; od czegokolwiek robiło się starsze, od tego też jest starsze. A robiło się starsze od siebie samego?
+
+— Tak.
+
+— A to, co starsze, jest starsze od młodszego?
+
+— Jest.
+
+— Zatem i młodsze wtedy jest od siebie samego to Jedno, kiedy robiąc się starszym, natrafi na chwilę obecną.
+
+— Koniecznie.
+
+— A chwila obecna zawsze towarzyszy Jednemu, przez całe jego bycie. Ono przecież jest zawsze teraz, kiedykolwiek by było.
+
+— Jakżeby nie?
+
+— Zatem Jedno zawsze jest i staje się starsze od siebie samego i młodsze.
+
+— Zdaje się.
+
+— A czy ono jest albo staje się przez czas dłuższy, niż samo jest i staje się, czy też przez równy?
+
+— Równy.
+
+— A tymczasem, cokolwiek w równym czasie staje się albo istnieje, to ma ten sam wiek.
+
+— Jakżeby nie?
+
+— A cokolwiek ma ten sam wiek, to nie jest ani starsze, ani młodsze.
+
+— No nie.
+
+— Zatem Jedno, skoro w czasie równym samemu sobie i powstaje, i jest, nie jest ani nie staje się ani młodsze, ani starsze od siebie samego.
+
+— Nie wydaje mi się, żeby.
+
+— No cóż, a od innych?
+
+— Nie umiem powiedzieć.
+
+— A to umiesz powiedzieć, czy przedmioty inne od Jednego, skoro są inne, a tylko nie są *czymś innym*, stanowią więcej niż Jedno. Gdyby były czymś innym, byłyby czymś jednym. A skoro one są inne, stanowią więcej niż jedno i muszą mieć swoją ilość.
+
+— Muszą chyba mieć.
+
+— A ta ilość musi chyba mieć w sobie liczbę większą niż jeden.
+
+— Jakżeby nie?
+
+— Więc cóż? Co do liczb, to powiemy, że te większe powstają i powstały wcześniej niż mniejsze?
+
+— Te mniejsze wcześniej.
+
+— A najmniejsza to chyba pierwsza. Tą liczbą jest jeden. Czy nie?
+
+— Tak.
+
+— Zatem, ze wszystkiego, co ma liczbę w sobie, Jedno powstało najpierwej. Wszystkie inne rzeczy też mają swoją liczbę, skoro są inne, a nie są czymś innym.
+
+— No mają.
+
+— To, co pierwsze, więc powstało najpierw, a inne potem. A co później powstało, to młodsze od tego, co powstało pierwej. I w ten sposób inne rzeczy muszą być młodsze od Jednego, a Jedno starsze od innych rzeczy.
+
+— Może być, że jest.
+
+XX. — No a cóż taka rzecz? Czy mogło Jedno powstać przeciw swojej naturze, czy też to niemożliwe?
+
+— Niemożliwe.
+
+— A pokazało się, że Jedno ma części; a jeżeli części, to ma i początek, i koniec, i środek.
+
+— Tak.
+
+— Nieprawdaż, początek zawsze powstaje naprzód. I u tego Jednego, i u każdej innej rzeczy; po początku zaś i wszystko inne aż do końca.
+
+— No cóż?
+
+— I my powiemy, że to wszystko inne to są cząstki całości tego Jednego, a ono samo powstaje wraz z końcem jako jedność i całość.
+
+— Powiemy.
+
+— A koniec, mam wrażenie, powstaje na ostatku. I równocześnie z nim z natury rzeczy powstaje Jedno.
+
+— Widocznie.
+
+— Zatem Jedno jest młodsze od innych, a inne rzeczy są od Jednego starsze.
+
+— Teraz znowu tak mi się wydaje.
+
+— Ale z tym co będzie? Początek albo którakolwiek inna cząstka Jednego albo czegokolwiek innego, skoro to jest cząstka, a nie cząstki, czy nie musi być czymś jednym, skoro jest cząstką?
+
+— Koniecznie.
+
+— A prawda, że jedno powstaje równocześnie z powstawaniem pierwszej cząstki i równocześnie z powstawaniem drugiej, i nie opuszcza żadnej z innych cząstek powstających, cokolwiek by przybywało do czegokolwiek, aż doszedłszy do ostatniej, powstanie całe Jedno, nie opuściwszy ani środkowej, ani pierwszej, ani ostatniej cząstki, ani żadnej innej w ciągu powstawania.
+
+— Prawda.
+
+— Zatem Jedno ma ten sam wiek, co wszystkie inne cząstki. Więc jeżeli Jedno nie ma natury sprzecznej ze swą naturą, to nie powstało ani prędzej, ani później od innych, tylko równocześnie. I zgodnie z tą myślą Jedno nie może być ani starsze, ani młodsze od innych, ani inne od Jednego. A wedle myśli poprzedniej ono jest starsze i młodsze, a inne od niego tak samo.
+
+— Tak jest.
+
+— Więc ono takie jest i tak powstało. Ale co to jest znowu z tym jego stawaniem się? Że ono się staje starsze i młodsze od innych, a inne od niego, i nie staje się ani młodsze, ani starsze? Czy to jest tak samo, jak z Jego byciem, czy inaczej?
+
+— Ja nie umiem powiedzieć.
+
+— Ja umiem tyle tylko, że chociaż jest starsze jedno od drugiego, to jednak nie może się stać jeszcze starsze, niż było na początku, zaraz przy powstaniu. Tej różnicy wieku nie może wyrównać, i to, co jest młodsze, nie może się zrobić jeszcze młodsze. Bo jeżeli do nierównych ilości dokładać równe porcje, czasu i czegokolwiek innego, to zawsze różnica zostanie ta sama, która zachodziła na początku.
+
+— Jakżeby nie?
+
+— Więc nigdy przedmiot od przedmiotu nie może się zrobić starszy, ani młodszy, jeżeli się wciąż o stałą ilość różni jeden od drugiego co do wieku. Wtedy jest i zrobiło się jedno starsze, a drugie młodsze, ale już się nie zrobi więcej.
+
+— Prawda.
+
+— Więc i Jedno istniejące nigdy nie robi się ani starsze, ani młodsze od innych przedmiotów.
+
+— No nie.
+
+— A zobacz no, czy one się nie robią starsze i młodsze w tym sposobie.
+
+— W jakimże?
+
+— Tak jak Jedno okazało się starsze od innych przedmiotów, a inne starsze od Jednego.
+
+— Więc co?
+
+— Jeżeli tylko Jedno jest starsze od innych, to powstało chyba dłuższy czas temu niż inne rzeczy.
+
+— Tak.
+
+— Więc zobacz znowu. Jeżeli do czasu dłuższego i do krótszego dodamy czas równy, to czy równą swoją częścią będzie się różnił okres dłuższy od krótszego, czy mniejszą?
+
+— Mniejszą.
+
+— Zatem później Jedno nie będzie się od innych różniło wiekiem tak samo, jak z początku; tak już potem nie będzie; ono będzie brało czas równie długi jak inne przedmioty, a będzie się od nich różniło wiekiem coraz mniej niż poprzednio. Czy nie?
+
+— Tak.
+
+— A prawda, że coś, co się mniej niż przedtem różni wiekiem w stosunku do czegoś, musi stawać się młodsze, niż było poprzednio w stosunku do tych rzeczy, od których było przedtem starsze?
+
+— Młodsze.
+
+— A skoro ono młodsze, to czyż znowu tamte inne przedmioty nie zrobią się w stosunku do Jednego starsze, niż były przedtem?
+
+— Tak jest.
+
+— Zatem to, co powstało później, staje się starsze w stosunku do tego, co powstało wcześniej i co jest starsze. Ale ono nie jest nigdy starsze, tylko robi się wciąż starsze niż tamto. Bo tamto idzie do młodszego, a to do starszego. A znowu to, co starsze, robi się w ten sam sposób młodsze w stosunku do młodszego. Jedno i drugie idą w kierunkach sobie przeciwnych i robią się sobie przeciwne: to młodsze staje się starsze od starszego, a to starsze młodsze od młodszego. Ale stać się takim nie może ani jedno, ani drugie. Bo gdyby się stały, to już by się takie nie robiły. Tylko byłyby. A w tej chwili robią się takie: starsze od siebie nawzajem i młodsze. Więc Jedno robi się młodsze od innych, bo się pokazało, że ono jest starsze i powstało pierwej, a inne rzeczy robią się od Jednego starsze, bo powstały później. Na tej samej zasadzie inne rzeczy mają się tak do Jednego, skoro pokazało się, że są od niego starsze i powstały pierwej.
+
+— Więc tak jest, widać.
+
+— Nieprawdaż, o ile Jedno od drugiego ani się starsze nie staje, ani młodsze, bo zawsze się od siebie różnią o tę samą liczbę, o tyle też Jedno nie może się od innych stawać ani starsze, ani młodsze, ani inne rzeczy od Jednego. O ile zaś o coraz to inną część muszą się różnić rzeczy wcześniej powstałe od późniejszych i późniejsze od wcześniejszych, o tyle muszą w stosunku do siebie nawzajem stawać się starsze i młodsze inne przedmioty w porównaniu do Jednego i Jedno w porównaniu do innych przedmiotów.
+
+— Tak jest.
+
+— Otóż z tego wszystkiego to Jedno jest i staje się starsze i młodsze od siebie samego i od innych rzeczy oraz ani starsze, ani młodsze nie jest i nie staje się ani od siebie samego, ani od innych rzeczy.
+
+— Ze wszech miar.
+
+— A skoro Jedno uczestniczy w czasie i w stawaniu się starszym i młodszym, czy ono nie musi też uczestniczyć w niegdyś i w później, i w teraz, skoro uczestniczy w czasie?
+
+— Koniecznie.
+
+— Zatem Jedno było i jest, i będzie, i stawało się, i staje się, i będzie się stawało.
+
+— No cóż?
+
+— I ono może mieć coś swego i może go coś dotyczyć, i to tak było, i jest, i będzie.
+
+— Tak jest.
+
+— Zatem i wiedza o nim może istnieć, i mniemanie, i spostrzeżenie, skoro i teraz my o nim to wszystko mówimy.
+
+— Słusznie mówisz.
+
+— I ono ma swoją nazwę i swój sens, i nazywa się je, i mówi się o nim. I cokolwiek z tego rodzaju rzeczy przysługuje innym rzeczom, to przysługuje i Jednemu.
+
+— Ze wszech miar tak się rzeczy mają.
+
+XXI. — Jeszcze i trzecią sprawę omówmy. Jeżeli Jedno jest takie, jakeśmy to przeszli, czy ono nie musi, będąc Jednym i mnóstwem i ani Jednym, ani mnóstwem, i uczestnicząc w czasie, ponieważ jest Jednym, uczestniczyć niekiedy w istnieniu, a ponieważ nie jest, więc znowu niekiedy nie uczestniczyć w istnieniu?
+
+— Koniecznie.
+
+— A czy ono potrafi nie uczestniczyć wtedy w istnieniu, kiedy uczestniczy, albo kiedy nie uczestniczy, uczestniczyć?
+
+— Nie potrafi.
+
+— Zatem może ono w innym czasie uczestniczy, a w innym nie uczestniczy. Bo jedynie tylko w ten sposób potrafi w jednym i tym samym uczestniczyć i nie uczestniczyć.
+
+— Słusznie.
+
+— Nieprawdaż, jest taki czas, kiedy ono przyjmuje udział w istnieniu, i taki, w którym go traci? Albo jak mu to będzie możliwe: raz mieć ten sam udział, a raz go nie mieć, jeżeliby go raz nie przyjmowało, a innym razem nie traciło?
+
+— Nie ma sposobu.
+
+— A tego przyjmowania udziału w istnieniu, czy ty nie nazywasz powstawaniem?
+
+— Owszem.
+
+— A tracenie udziału w istnieniu, czy to nie zatrata?
+
+— O tak.
+
+— Zatem Jedno, zdaje się, przyjmując i odrzucając istnienie, powstaje i zatraca się, ginie.
+
+— Koniecznie.
+
+— Zatem skoro ono jest i Jednym, i mnóstwem, i powstaje, i ginie, czy wtedy, gdy powstaje Jedno, ono nie przestaje być mnóstwem, a kiedy się Jedno staje mnóstwem, czy nie zaprzestaje być Jednym?
+
+— Tak jest.
+
+— A skoro ono się staje i Jednym, i mnóstwem, to czy nie musi i rozkładać się, i wiązać?
+
+— Musi, koniecznie.
+
+— A kiedy się staje podobne i niepodobne, czy nie musi upodabniać się i wyróżniać?
+
+— Tak.
+
+— A kiedy się robi większe i mniejsze, i równe, czy nie musi rosnąć, maleć i dorównywać?
+
+— Tak jest.
+
+— A kiedy poruszając się, staje, i kiedy stojąc na miejscu, przechodzi w ruch, wtedy ono chyba nie może być w żadnym czasie?
+
+— Jakimże sposobem?
+
+— Kiedy naprzód stało, a potem się porusza i kiedy się naprzód poruszało, a potem stoi na miejscu; takich rzeczy ono nie potrafi doznawać bez pewnego przejścia.
+
+— Bo jakżeby?
+
+— A przecież nie ma takiego czasu, w którym by coś mogło równocześnie ani się nie poruszać, ani nie stać na miejscu.
+
+— No nie.
+
+— A ono też nie przechodzi bez przejścia.
+
+— Nie wydaje się.
+
+— I ani stojąc na miejscu, ani poruszając się, przechodzić nie może, ani będąc w czasie.
+
+— No nie.
+
+— A może jest coś osobliwego, w czym ono mogłoby być wtedy, kiedy przechodzi?
+
+— Co takiego?
+
+— Moment. Moment, zdaje się, oznacza coś w tym rodzaju, jakby przejście z tamtego w jedno i w drugie. Bo przecież ono nie przechodzi ze stanu spoczynku, jak długo jeszcze trwa spoczynek, ani ze stanu ruchu, jak długo jeszcze trwa ruch. Tylko moment, ta osobliwa natura jakaś, leży pomiędzy ruchem i spoczynkiem. Nie ma jej w żadnym czasie, a w nią i z niej ruch przechodzi w spoczynek i spoczynek w ruch.
+
+— Gotowo tak być.
+
+— Zatem i Jedno, skoro i stoi na miejscu, i porusza się, to musi chyba przechodzić w jedno i w drugie. Przecież tylko w ten sposób może robić jedno i drugie. Przechodząc, przechodzi w momencie. I kiedy przechodzi, nie może być w żadnym czasie i nie może poruszać się wtedy, i nie może stać.
+
+— No nie.
+
+— A czy nie tak samo się odnosi i do innych swoich przemian, kiedy z istnienia przechodzi w zatratę albo z nieistnienia w powstawanie, popada wtedy pomiędzy pewne ruchy i spoczynki i ani wtedy istnieje, ani nie istnieje, ani nie powstaje, ani nie ginie.
+
+— Zdaje się.
+
+— W ten sam sposób też, przechodząc z Jednego w mnóstwo i z mnóstwa w Jedno, ani Jednym nie jest, ani mnóstwem, ani się nie rozkłada, ani nie wiąże. I z podobnego kiedy przechodzi w niepodobne, nie jest ani podobne, ani niepodobne, ani się nie upodabnia, ani się nie wyróżnia. I z małego kiedy przechodzi w wielkie i w równe, i w przeciwieństwa kiedy przechodzi, nie jest wtedy ani małe, ani wielkie, ani równe, ani nie rośnie, ani nie maleje wtedy, ani nie dorównywa.
+
+— Zdaje się, że nie.
+
+— Otóż wszystkie te stany musi przechodzić Jedno, jeżeli istnieje.
+
+— Jakżeby nie?
+
+XXII. — A co się musi dziać z innymi rzeczami, jeżeli Jedno istnieje, czyby tego nie rozpatrzyć?
+
+— Rozpatrzyć.
+
+— To powiedzmy, jeżeli Jedno istnieje, to co się musi dziać z rzeczami innymi od Jednego.
+
+— Powiedzmy.
+
+— Nieprawdaż; skoro to są rzeczy inne od Jednego, to i Jedno nie stanowi tych rzeczy, bo wtedy by one nie były inne od Jednego.
+
+— Słusznie.
+
+— Ani też te inne nie są całkowicie pozbawione Jednego, tylko jakoś w nim uczestniczą.
+
+— A jak?
+
+— Dlatego, że te inne są inne od Jednego przez to, że mają części. Bo gdyby nie miały części, to stanowiłyby ze wszech miar Jedno.
+
+— Słusznie.
+
+— A części, tak powiemy, są częściami tego, co jest całością.
+
+— Powiemy.
+
+— Ale przecież całość musi być czymś jednym, złożonym z wielu części. Części będą częściami tej całości. Przecież każda cząstka musi być częścią nie wielu części, tylko całości.
+
+— Jak to?
+
+— Gdyby coś było częścią wielu rzeczy, do których by i samo należało, to będzie chyba i częścią siebie samego, co jest rzeczą niemożliwą, i byłoby częścią każdej z tych innych rzeczy z osobna, skoro i wszystkich razem. Nie będąc cząstką Jednego, będzie częścią tych innych, oprócz Jednego, i w ten sposób nie będzie cząstką każdej rzeczy z osobna, a nie będąc cząstką każdej, nie będzie cząstką żadnej z wielu rzeczy. Nie będąc zaś niczym dla tych wszystkich, ona dla żadnej z nich niczego nie stanowi, nie może być ani cząstką, ani czymkolwiek innym.
+
+— No, to jasne.
+
+— Zatem cząstka nie jest cząstką wielu rzeczy ani wszystkich rzeczy, tylko pewnej jednej idei, czegoś Jednego, co nazywamy całością — to jest doskonała jedność, powstała ze wszystkich rzeczy. Tej cząstką musi być cząstka.
+
+— Ze wszech miar przecież.
+
+— Więc jeżeli inne rzeczy mają części, to muszą uczestniczyć w całości i w Jednym.
+
+— Tak jest.
+
+— Zatem jedność i całość doskonałą, posiadającą części, muszą stanowić rzeczy inne od Jednego.
+
+— Koniecznie.
+
+— I prawda, że z każdą poszczególną cząstką ta sama sprawa. Bo przecież i ona musi uczestniczyć w jedności. Skoro każda z nich jest cząstką, a „każda” to znaczy jedna w jedną, w oderwaniu od innych, istniejąca dla siebie — jeżeli ma być każdą.
+
+— Słusznie.
+
+— Zatem musi uczestniczyć w Jednym — to jasna rzecz — będąc czymś innym niż Jedno. Bo inaczej nie uczestniczyłaby, tylko byłaby samym Jednym, a tymczasem nic innego chyba nie może być Jednym, tylko samo Jedno.
+
+— Nie może.
+
+— A więc wszystko inne i cząstka też musi tylko uczestniczyć w Jednym. Jedno będzie całością, której częściami będą części. A każda z osobna cząstka jest jedną cząstką całości tej, której jest częścią.
+
+— Tak jest.
+
+— Nieprawdaż, rzeczy inne od Jednego będą w nim uczestniczyły, o ile któreś w nim uczestniczą.
+
+— Jakżeby nie?
+
+— A tych rzeczy innych od Jednego jest chyba dużo. Bo gdyby rzeczy innych od Jednego nie było ani jednej, ani więcej niż jedna, to nie byłoby ich wcale.
+
+— No nie.
+
+— A skoro ich jest więcej niż jedna, tych, które uczestniczą w cząstce Jednego i w całości Jednego, to czy nie muszą stanowić nieogarnionej mnogości same te rzeczy, które przyjmują udział w Jednym?
+
+— Jakim sposobem?
+
+— W ten sposób zobaczmy. Czy nie prawda, że one nie są Jednym ani nie uczestniczą w Jednym wtedy, gdy zaczynają w nim brać udział?
+
+— Jasna rzecz.
+
+— Nieprawdaż; są to mnogości, w których Jednego nie ma?
+
+— Mnogości.
+
+— Więc cóż? Gdybyśmy tak zechcieli w myśli odjąć od takich mnogości najmniej, jak tylko potrafimy, czy nie musiałoby i to, co by zostało odjęte, skoroby nie uczestniczyło w jedności, być też mnogością, a nie Jednym?
+
+— Koniecznie.
+
+— Nieprawdaż; zawsze, kiedy tak rozpatrywać samą dla siebie drugą stronę postaci, o ile my coś z niej za każdym razem dostrzegamy, to zawsze będzie nieograniczone mnóstwo.
+
+— Ze wszech miar.
+
+— A skoro każda poszczególna cząstka staje się cząstką, już wtedy one mają granice w stosunku do siebie nawzajem i w stosunku do całości, i całość je będzie miała w stosunku do części.
+
+— Całkowicie tak.
+
+— Więc te rzeczy inne od Jednego mają to do siebie, że z obcowania ich z Jednym robi się w nich, zdaje się, coś różnego, co stwarza granice pomiędzy nimi wzajemne, podczas gdy ich własna natura, sama dla siebie, to nieokreśloność.
+
+— Widocznie.
+
+— W ten sposób te rzeczy inne od Jednego i jako całości, i co do części są nieokreślone i uczestniczą w określeniu.
+
+— Tak jest.
+
+— Nieprawdaż; i podobne są i niepodobne do siebie nawzajem, i same do siebie?
+
+— W jakimże sposobie?
+
+— O ile wszystkie są według własnej natury nieokreślone, o tyle są nacechowane tym samym.
+
+— Tak jest.
+
+— I o ile wszystkie uczestniczą w określeniu, o tyle również wszystkie muszą być nacechowane tym samym.
+
+— Jakżeby nie?
+
+— O ile zaś są określone i nieokreślone, a to są cechy sobie przeciwne, to są nacechowane tymi znamionami.
+
+— Tak.
+
+— To, co przeciwne, jest możliwie jak najbardziej niepodobne.
+
+— No cóż?
+
+— Zatem według jednego i drugiego znamienia muszą być podobne każda do siebie samej i do siebie nawzajem, a według obu znamion muszą być zarazem krańcowo przeciwne i krańcowo niepodobne.
+
+— Gotowo tak być.
+
+— W ten sposób rzeczy inne muszą być i same do siebie, i do siebie nawzajem i podobne, i niepodobne.
+
+— Tak jest.
+
+— I z sobą identyczne i od siebie różne, i poruszające się, i stojące na miejscu, i wszelkimi przeciwnymi znamionami — znajdziemy to bez trudności — muszą być nacechowane rzeczy od Jednego inne, skoro się pokazało, że i te znamiona noszą.
+
+— Słusznie mówisz.
+
+XXIII. — Nieprawdaż; to już zostawmy, bo to są rzeczy jasne, a rozpatrzmy znowu, czy jeśli Jedno istnieje, jeszcze i tak się nie przedstawiają rzeczy inne od Jednego, czy też tylko w ten sposób.
+
+— Tak jest.
+
+— Więc mówmy od początku, jeśli istnieje Jedno, co się musi dziać z rzeczami innymi od Jednego.
+
+— A mówimy.
+
+— Czy Jedno nie istnieje odrębnie od innych rzeczy, a inne rzeczy czy nie istnieją odrębnie od Jednego?
+
+— Więc co?
+
+— To, że nie ma chyba poza nimi nic innego, czegoś, co by było inne od Jednego i inne od innych rzeczy. Bo już wszystko jest powiedziane, kiedy się powie: Jedno i inne rzeczy.
+
+— No wszystko.
+
+— Zatem już nie ma niczego innego od tych rzeczy, w czym — niby w tym samym, mogłoby istnieć i Jedno, i inne rzeczy.
+
+— No nie.
+
+— Zatem Jedno i rzeczy inne nigdy nie są w tym samym.
+
+— Zdaje się, że nie.
+
+— Zatem osobno?
+
+— Tak.
+
+— Zatem nawet i cząstek nie posiada, powiemy, takie prawdziwe Jedno?
+
+— No, bo jak?
+
+— Zatem i całością nie może być Jedno pośród innych rzeczy, ani cząstek jego nie ma, jeżeli ono istnieje poza innymi rzeczami i części nie ma.
+
+— No, bo jak?
+
+— Zatem w żadnym sposobie inne rzeczy nie mogą uczestniczyć w Jednym i ani jakiejś jego cząstki, ani całości nie mają w sobie.
+
+— Zdaje się, że nie.
+
+— Więc żadną miarą inne rzeczy nie są Jednym, ani nie mają w sobie nic z Jednego.
+
+— No nie.
+
+— Zatem i mnogości nie stanowią te inne. Bo wtedy każda ich cząstka byłaby jednym składnikiem całości, gdyby ich było dużo. A teraz te inne rzeczy ani nie są Jednym, ani mnogością, ani całością, ani częściami, skoro żadną miarą nie uczestniczą w jedności.
+
+— Słusznie.
+
+— Zatem te inne rzeczy to ani dwie, ani trzy, ani one same i tego w nich nie ma, skoro ze wszech miar są pozbawione Jednego.
+
+— Tak jest.
+
+— Więc ani podobne nie są i niepodobne same te rzeczy inne do Jednego, ani w nich nie tkwi podobieństwo i niepodobieństwo. Bo gdyby one same były podobne i niepodobne albo gdyby miały w sobie podobieństwo i niepodobieństwo, to miałyby chyba w sobie dwie postacie przeciwne sobie — te rzeczy inne od Jednego.
+
+— Widocznie.
+
+— A nie sposób, żeby w jakichś dwóch uczestniczyły te rzeczy, które nawet i w Jednym nie uczestniczą.
+
+— Nie sposób.
+
+— Zatem ani podobne, ani niepodobne nie są, ani Jedno i drugie — te rzeczy inne. Bo gdyby były podobne albo niepodobne, to miałyby w sobie jedną z tych dwóch postaci, a gdyby były i takie, i takie, to miałyby w sobie dwie postacie przeciwne. A to się okazało niemożliwe.
+
+— To prawda.
+
+— Zatem one ani nie są te same, ani różne, ani się nie ruszają, ani nie stoją, ani nie powstają, ani nie giną, ani nie są większe, ani mniejsze, ani równe. Ani żadnych innych znamion tego rodzaju nie noszą. Bo jeżeli one zniosą coś w tym rodzaju, to będą zaraz miały w sobie i jedno, i dwa, i trzy, i to, co nieparzyste, i co parzyste, a pokazało się, że one tego wszystkiego nie mogą mieć w sobie, skoro są ze wszech miar i zupełnie pozbawione Jednego.
+
+— Święta prawda.
+
+— W ten sposób, jeżeli Jedno istnieje, to ono jest i wszystkim, i niczym, i w stosunku do siebie, i w stosunku do innych rzeczy tak samo.
+
+— Ze wszech miar.
+
+XXIV. — No dobrze. A jeżeli nie istnieje Jedno, co musi z tego wynikać, czyby się nad tym nie zastanowić po tym wszystkim?
+
+— Zastanowić się.
+
+— Cóż by to więc było za założenie takie: „jeśli Jedno nie istnieje”? Czy ono się czymś różni od tego: „jeżeli nie istnieje nic, co nie jest Jednym”?
+
+— Różni się, doprawdy.
+
+— Czy tylko się różni, czy też to jest coś wprost przeciwnego powiedzieć: „jeżeli nie istnieje Niejedno” oraz: „jeżeli Jedno nie istnieje”?
+
+— To wprost przeciwne.
+
+— A cóż, gdyby ktoś mówił: „jeżeli wielkość nie istnieje” albo „małość nie istnieje”, albo coś innego w tym rodzaju, czy on za każdym razem nie dawałby do zrozumienia, że mówi o czymś innym nieistniejącym?
+
+— Tak jest.
+
+— Nieprawdaż więc — on i teraz daje do zrozumienia, że ma na myśli nieistnienie czegoś różnego od rzeczy innych, kiedy mówi: „Jedno, jeżeli nie istnieje”, i my wiemy, co on ma na myśli?
+
+— Wiemy.
+
+— Zatem on po pierwsze ma na myśli coś poznawalnego, następnie: coś różnego od innych rzeczy, kiedy mówi: „Jedno”, i czy tam istnienie, czy nieistnienie do niego dokłada. Bo równie dobrze poznaje się coś, o czym się mówi, że ono nie istnieje, i wie się, że to coś różnego od innych rzeczy. Alboż nie?
+
+— Koniecznie.
+
+— Więc tak trzeba powiedzieć od początku: Jedno, jeżeli nie istnieje, to co musi być? Otóż ono musi naprzód mieć to do siebie, jak się wydaje, że istnieje wiedza o nim. W przeciwnym razie nie poznawalibyśmy nawet, o czym mowa, gdyby ktoś powiedział: „Jedno, jeśli nie istnieje”.
+
+— Prawda.
+
+— Nieprawdaż. I to, że inne rzeczy są od niego różne, bo inaczej i ono nie byłoby wymieniane jako różne od innych rzeczy.
+
+— Tak jest.
+
+— Zatem ono posiada także i różność, oprócz tego, że istnieje wiedza o nim. Bo przecież nie ma na myśli różności innych rzeczy od niego ten, kto wymienia Jedno jako różne od rzeczy innych, tylko ma na myśli różność jego własną.
+
+— Widocznie.
+
+— No tak. I w owym, i w pewnym, i w tym, i temu, i w tych, i we wszystkich takich uczestniczy to nieistniejące Jedno. Bo inaczej nie nazywałoby się Jednym ani nie mówiłoby się, że coś jest od Jednego różne, aniby ono nic nie miało dla siebie, ani swego, ani nie nazywałoby się czymś, gdyby mu nie przysługiwało ani coś, ani nic innego z tych.
+
+— Słusznie.
+
+— Więc istnieć Jedno nie może, skoro przecież nie istnieje, ale uczestniczyć w tym i w owym nic mu nie przeszkadza. To nawet musi tak być, skoro nie istnieje właśnie to Jedno, a nie jakieś inne. Jeżeli nie będzie ani jednego, ani tego Jednego, tylko będzie mowa o jakimś tam innym, to nie trzeba nawet wymawiać żadnego słowa. A jeżeli chodzi o to, że nie istnieje to właśnie Jedno, a nie inne, to ono musi uczestniczyć i w tym, i w wielu innych.
+
+— Tak jest.
+
+— Więc i niepodobieństwo mu przysługuje, oprócz innych. Bo inne rzeczy, będąc różne od Jednego, muszą też być odmienne.
+
+— Tak.
+
+— A „odmienne” czy to nie „coś innego rodzaju”?
+
+— Jakżeby nie?
+
+— A „innego rodzaju” czy to nie tyle co: „niepodobne”?
+
+— No niepodobne.
+
+— Nieprawdaż, jeśli coś jest niepodobne do Jednego, to jasna rzecz, że to niepodobne musi być niepodobne do czegoś niepodobnego.
+
+— Jasne.
+
+— Zatem i Jednemu przysługiwałoby niepodobieństwo, ze względu na które inne rzeczy są do niego niepodobne.
+
+— Zdaje się.
+
+— A jeżeli mu przysługuje niepodobieństwo do innych rzeczy, to czy nie musi mu przysługiwać podobieństwo do siebie samego?
+
+— Jak?
+
+— Jeżeli Jednemu przysługuje niepodobieństwo do Jednego, to już by o czymś takim nie mogło być mowy jako o Jednym i już by w założeniu nie szło o Jedno, tylko o coś innego niż Jedno.
+
+— Tak jest.
+
+— Więc nie powinno.
+
+— No nie.
+
+— Zatem trzeba, żeby Jednemu przysługiwało podobieństwo do siebie samego.
+
+— Trzeba.
+
+— No tak. I ono też nie jest równe innym rzeczom. Bo gdyby było równe, to już by było i podobne do nich ze względu na tę równość. A to jest niemożliwe jedno i drugie, jeżeli nie istnieje Jedno.
+
+— Niemożliwe.
+
+— A skoro ono nie jest innym rzeczom równe, czy nie wynika z konieczności, że inne rzeczy też nie są jemu równe.
+
+— Z koniecznością.
+
+— A co nie jest równe, jest nierówne?
+
+— Tak.
+
+— A co nierówne, to jest czemuś nierównemu nierówne?
+
+— Jakżeby nie.
+
+— Zatem i w nierówności uczestniczy Jedno, ze względu na którą inne rzeczy są mu nierówne?
+
+— Uczestniczy.
+
+— A do nierówności należą wielkość i małość.
+
+— Tak jest.
+
+— Zatem takie Jedno ma też i wielkość i małość?
+
+— Gotowo mieć.
+
+— A wielkość i małość mają zawsze odstęp między sobą.
+
+— Tak jest.
+
+— Więc zawsze jest tam coś pomiędzy nimi.
+
+— Jest.
+
+— A potrafisz wymienić pomiędzy nimi coś innego niż równość?
+
+— Nie; tylko to.
+
+— Więc czemu przysługuje wielkość i małość, temu przysługuje też i równość, bo tkwi pomiędzy nimi.
+
+— Widocznie.
+
+— Więc to nieistniejące Jedno miałoby, zdaje się, w sobie i coś z równości, i z wielkości, i z małości.
+
+— Zdaje się.
+
+— I doprawdy, że w istnieniu ono też musi jakoś uczestniczyć.
+
+— Jakże to?
+
+— Ono powinno być takie, jak mówimy. Bo gdyby nie było takie, to my nie mówilibyśmy prawdy, mówiąc, że Jedno nie istnieje. A jeżeli mówimy prawdę, to jasna rzecz, że mówimy to, co istnieje. Czy nie tak?
+
+— No tak niby.
+
+— A skoro twierdzimy, że mówimy prawdę, to musimy twierdzić, że mówimy to, co istnieje.
+
+— Musimy.
+
+— Zatem zdaje się, że Jedno jest czymś nieistniejącym. Bo jeżeli nie będzie czymś nieistniejącym, tylko coś z istnienia ustąpi na rzecz nieistnienia, natychmiast będzie czymś istniejącym.
+
+— Ze wszech miar.
+
+— Zatem wypada, żeby u niego istnienie było związane z nieistnieniem, jeżeli ono ma nie istnieć tak samo, jak coś będącego czymś niebędącym musi mieć nieistnienie, aby mogło doskonale istnieć. W ten sposób i to, co istnieje, istniałoby najbardziej, a nie istniałoby to, co nie istnieje, gdyby to, co istnieje, uczestniczyło w istnieniu jako coś istniejącego, a to, co nie istnieje, w istnieniu jako coś nieistniejącego, jeżeli ma istnieć doskonale. A to, co nie istnieje, żeby nie uczestniczyło w nieistnieniu jako coś nieistniejącego, a za to w istnieniu jako coś nieistniejącego, jeżeli i to, co nie istnieje, ma doskonale nie istnieć.
+
+— Święta prawda.
+
+— Nieprawdaż; jeżeli i temu, co istnieje, przysługuje nieistnienie, i temu, co nie istnieje, istnienie, to i Jednemu, skoro ono nie istnieje, musi przysługiwać istnienie, aby mogło nie istnieć.
+
+— Musi.
+
+— I pokazuje się, że istnienie też przysługuje Jednemu, skoro ono nie istnieje.
+
+— Widocznie.
+
+— A nieistnienie też, skoro ono nie istnieje.
+
+— Jakżeby nie?
+
+— A czy to możliwe, żeby coś nacechowanego w pewien sposób nie miało tej cechy, nie przechodząc z tego stanu w inny?
+
+— Niemożliwe.
+
+— Więc każda taka rzecz oznacza odmianę, rzecz, która jest taka i nie taka.
+
+— Jakżeby nie?
+
+— A odmiana to ruch, albo co powiemy?
+
+— Ruch.
+
+— Nieprawdaż; pokazało się, że Jedno istnieje i nie istnieje?
+
+— Tak.
+
+— Więc ono się okazuje takim i nie takim?
+
+— Zdaje się.
+
+— Więc i ruch objawia to nieistniejące Jedno, skoro jest w nim przemiana z istnienia w nieistnienie.
+
+— Gotowo tak być.
+
+— No tak. Ale jeżeli ono nie jest w żadnym przedmiocie, ponieważ nie istnieje, to jeśli nie istnieje, nie może też przechodzić skądś dokądś.
+
+— Bo jak.
+
+— Więc nie potrafi się poruszać, przechodząc z miejsca na miejsce.
+
+— No nie.
+
+— Ani też nie potrafi się kręcić w jednym i tym samym. Bo nigdzie nie dotyka tego samego. To samo jest już pewnym przedmiotem, a to, co nie istnieje, nie może być w żadnym przedmiocie.
+
+— Nie może.
+
+— I Jedno nieistniejące nie mogłoby się kręcić w czymś, w czym nie istnieje.
+
+— No nie.
+
+— Ani też nie zmienia się chyba Jedno w stosunku do siebie samego; ani to istniejące, ani nieistniejące. Bo już by nie było mowy o Jednym, gdyby ono się zmieniało w stosunku do siebie, tylko o czymś innym.
+
+— Słusznie.
+
+— A skoro się ani nie zmienia, ani się nie kręci w jednym i tym samym, ani nie przechodzi z miejsca na miejsce, to czy mogłoby się jeszcze w jakikolwiek sposób poruszać?
+
+— No jakże?
+
+— A to, co się nie rusza, musi zachowywać spokój, a co zachowuje spokój, to stoi.
+
+— Koniecznie.
+
+— Zatem zdaje się, że to nieistniejące Jedno stoi oraz porusza się.
+
+— Zdaje się.
+
+— A jeżeli się porusza, to z nieuchronną koniecznością musi się odmieniać. Bo o ile się cokolwiek porusza, o tyle już nie jest takie, jak było, tylko inne.
+
+— No tak.
+
+— Zatem porusza się Jedno i zmienia się.
+
+— Tak.
+
+— I nie poruszając się w żaden sposób, w żaden sposób zmieniać się nie może.
+
+— No nie.
+
+— Więc, o ile się porusza to nieistniejące Jedno, o tyle się też zmienia. A o ile się nie porusza, nie zmienia się.
+
+— No nie.
+
+— Zatem Jedno nieistniejące zmienia się i nie zmienia.
+
+— Widocznie.
+
+— A to zmieniające się czy nie musi stawać się inne niż przedtem i ginąć z poprzedniego stanu? A to nie zmieniające się ani nie powstaje, ani nie ginie?
+
+— Koniecznie.
+
+— Zatem i to nieistniejące Jedno, zmieniając się, powstaje i ginie, a nie zmieniając się, ani nie powstaje, ani nie ginie. I w ten sposób to Jedno, które nie istnieje, powstaje i ginie oraz ani nie powstaje, ani nie ginie.
+
+— No nie.
+
+XXV. — To na nowo chodźmy na początek, zobaczyć drugi raz, czy nam się będzie widziało tak samo, jak teraz, czy inaczej.
+
+— No, trzeba.
+
+— Nieprawdaż, jeśli Jedno nie istnieje, to powiemy, co musi stąd dla niego wynikać?
+
+— Tak.
+
+— A kiedy mówimy: „nie istnieje”, to chyba nic innego nie oznacza, jak tylko nieobecność istnienia w tym, o czym mówimy, że nie istnieje?
+
+— Nic innego.
+
+— A gdy mówimy, że coś nie istnieje, czy wtedy twierdzimy, że ono w pewien sposób nie istnieje, a w pewien istnieje? Czy też te słowa: „nie istnieje” oznaczają po prostu, że to, co nie istnieje, nie istnieje w żaden sposób i nigdzie, i w żaden sposób nie uczestniczy w istnieniu?
+
+— Najprościej przecież.
+
+— Zatem ani istnieć by nie mogło to, co nie istnieje, ani w żaden inny sposób uczestniczyć w istnieniu?
+
+— No nie.
+
+— A powstawać i ginąć to chyba nic innego, jak tylko przyjmowanie udziału w istnieniu i utrata istnienia?
+
+— Nic innego.
+
+— Coś, co tego wcale nie ma w sobie, nie może tego ani zyskiwać, ani tracić.
+
+— Bo jakże?
+
+— Zatem Jedno, skoro w żaden sposób nie istnieje, nie może ani posiadać istnienia, ani go tracić, ani zyskiwać w żaden sposób.
+
+— Zdaje się.
+
+— Więc nieistniejące Jedno ani nie ginie, ani nie powstaje, skoro w żadnym sposobie w istnieniu nie uczestniczy.
+
+— Nie wydaje się.
+
+— Więc i nie zmienia się w żaden sposób. Bo już by powstawało i ginęło, doznając zmian.
+
+— Prawda.
+
+— A jeżeli się nie zmienia, to czy nie musi być też i nieruchome?
+
+— Musi.
+
+— Ale też nie powiemy, żeby stało to, co nigdzie nie istnieje. Bo to, co stoi, musi wciąż być tym samym, w czymś jednym i tym samym.
+
+— Jakżeby nie?
+
+— Więc w ten sposób znowu mówimy, że to, co nie istnieje, ani nie stoi nigdy, ani się nie porusza.
+
+— No nie.
+
+— I tak ono nawet nie posiada niczego istniejącego. Bo gdyby posiadało coś istniejącego, to już by posiadało istnienie.
+
+— To jasne.
+
+— Zatem ono nie posiada ani wielkości, ani małości, ani równości.
+
+— No nie.
+
+— I nie może posiadać ani podobieństwa, ani różności ani w stosunku do siebie samego, ani w stosunku do innych rzeczy.
+
+— Nie widać, żeby.
+
+— Więc cóż? Czy coś innego może jakoś dla niego istnieć, jeżeli nic nie ma istnieć dla niego?
+
+— Nie może.
+
+— Nie będzie zatem nic takiego, co byłoby względem niego podobne albo niepodobne, takie samo albo różne.
+
+— Nie będzie.
+
+— Więc cóż? A czy będzie istniało coś jego albo dla niego, albo coś, albo to, albo tego, albo innego, albo dla innego, albo kiedyś, albo potem, albo teraz, albo wiedza, albo mniemanie, albo spostrzeżenie, albo ścisłe ujęcie, albo nazwa, albo jakikolwiek inny przedmiot w związku z tym, czego nie ma?
+
+— Nie będzie.
+
+— W ten sposób Jedno nieistniejące nie przedstawia się w żaden sposób.
+
+— No tak się zdaje przecież, że nie przedstawia się w żaden sposób.
+
+XXVI. — A jeszcze, powiedzmy, Jedno, jeśli nie istnieje, co musi dziać się z innymi rzeczami.
+
+— No, powiedzmy.
+
+— Otóż one muszą być inne. Bo jeżeli nawet nie są inne, to nie mówiłoby się o tych innych.
+
+— Tak jest.
+
+— A skoro się mówi o innych, to te inne są różne. Czy nie to samo nazywasz innym i różnym?
+
+— No tak.
+
+— A o czymś różnym mówimy chyba, że jest różne od czegoś różnego, i że to, co inne, jest inne od czegoś innego?
+
+— Tak.
+
+— Więc i dla rzeczy innych, jeżeli mają być inne, istnieje coś, od czego będą inne.
+
+— Koniecznie.
+
+— A co by też to było takiego? Bo od Jednego nie będą inne, skoro Jedno nie istnieje.
+
+— No nie.
+
+— To może one są różne od siebie nawzajem. Bo już tylko to jedno im zostaje, albo nie będą od niczego inne.
+
+— Słusznie.
+
+— Więc tylko zbiorowo one wszystkie są inne od siebie nawzajem, bo jednostkowo tego nie potrafią, skoro jednostka nie istnieje. I zdaje się, że każda ich ilość jest nieograniczonej mnogości, choćby ktoś wziął porcyjkę pozornie najmniejszą; jak w marzeniu sennym coś wydawało się Jednym, a tu się pokazuje nagle, że tego jest mnóstwo i zamiast czegoś najmniejszego jakiś ogrom w stosunku do ilości jego drobin.
+
+— Zupełnie słusznie.
+
+— Więc to w takich masach te inne rzeczy byłyby między sobą inne, jeżeli Jedno nie istnieje, a inne rzeczy istnieją.
+
+— Zupełnie tak.
+
+— Nieprawdaż, dużo takich mas będzie i każda będzie się tylko wydawała jedną, ale jedną nie będzie, skoro Jednego nie będzie?
+
+— Tak jest.
+
+— I będzie się wydawało, że jest ich pewna liczba, skoro ich będzie wiele, a każda z osobna będzie się wydawała czymś Jednym.
+
+— Tak jest.
+
+— I jedne ilości w nich wydadzą się parzyste, a inne nieparzyste, i tak się będzie wydawało niesłusznie, skoro Jednego nie będzie.
+
+— No nie.
+
+— I prawda, przyznamy, że pozornie będzie pośród nich także ilość najmniejsza. Ale ona się wydaje mnóstwem i czymś wielkim w stosunku do każdej z tych wielu rzeczy, które są małe.
+
+— Jakżeby nie?
+
+— I każda ilość wyda się równa tym licznym i małym rzeczom. Bo przecież nie potrafi przejść z czegoś większego w coś pozornie mniejszego, zanim nie przejdzie pozornie w coś pośredniego. A to by było widziadło równości.
+
+— Naturalnie.
+
+— I w stosunku do innej ilości wyda się, że ma granice, a sama i w stosunku do siebie nie ma ani początku, ani granicy, ani środka?
+
+— Jakimże sposobem?
+
+— Bo kiedykolwiek coś z nich ktoś weźmie w myśli pod uwagę, jak gdyby coś z nich istniało, to zawsze się przed początkiem inny początek zjawia, a po końcu drugi pozostaje koniec, a w środku jeszcze bardziej środkowy środek, tylko to mniejsze wszystko, bo niepodobna żadnego z nich z osobna uchwycić, skoro Jednego nie ma.
+
+— Święta prawda.
+
+— I tak się, mam wrażenie, musi każdy przedmiot rozpaść na kawałki i rozkruszyć na drobiny, którykolwiek by człowiek wziął na rozum. Bo zawsze brałby pod uwagę jakąś ilość bez jednostki.
+
+— Tak jest.
+
+— Nieprawdaż, taka rzecz dla kogoś, kto patrzy z daleka i słabo widzi, przedstawiać się musi jako Jedno, a kiedy z bliska i bystro spojrzeć okiem duszy, każda rzecz wydać się musi mnogością nieograniczoną, skoro w niej nie ma Jednego, bo Jedno nie istnieje?
+
+— To przecież bezwarunkowo konieczne.
+
+— W ten sposób każda inna rzecz wydawać się musi czymś bez granic i czymś ograniczonym, i czymś Jednym, i mnóstwem, jeżeli Jedno nie istnieje, tylko istnieją rzeczy inne od Jednego.
+
+— Musi przecież.
+
+— Nieprawdaż; i wyda się podobna i niepodobna?
+
+— Jakże to?
+
+— Tak, jak na obrazie malowanym, kiedy odstąpić, wszystko się wydaje jednym i jakby to samo znamię nosiło, i było podobne.
+
+— Tak jest.
+
+— A gdy przystąpić blisko, wydaje się, że tego jest dużo i to jest dzięki pozornej różności różnorodne i niepodobne do siebie samego.
+
+— No tak.
+
+— I podobne, i niepodobne same do siebie i do siebie nawzajem muszą się wydawać ilości.
+
+— Tak jest.
+
+— Nieprawdaż; i te same, i różne pomiędzy sobą, i stykające się z sobą, i oddzielone jedne od drugich, i wykonujące wszelkie możliwe poruszenia, i stojące ze wszech miar, i powstające, i ginące, i ani jedno, ani drugie, i wszystko chyba tak samo, co nam już przebiec łatwo, jeżeli Jedno nie istnieje, a istnieje wiele rzeczy.
+
+— Święta prawda.
+
+XXVII. — Jeszcze raz tedy pójdźmy znowu na początek i powiedzmy, co musi być, jeżeli Jedno nie istnieje, tylko istnieją rzeczy inne od Jednego.
+
+— Więc powiedzmy.
+
+— Nieprawdaż; Jedno to nie będą inne rzeczy.
+
+— Jakżeby?
+
+— Ani też wiele rzeczy. Bo między wieloma rzeczami istniejącymi znalazłoby się i Jedno. A jeżeli żadna z nich nie jest Jednym, to i wszystkie razem są niczym. Dlatego i wielu rzeczy nie mogłoby być.
+
+— Prawda.
+
+— A skoro Jednego nie ma w innych rzeczach, to te inne ani nie są liczne, ani nie stanowią Jednego.
+
+— No nie.
+
+— Ani nie wydają się Jednym, ani wieloma rzeczami.
+
+— A to co?
+
+— Dlatego, że inne rzeczy z niczym nieistniejącym w żadnym sposobie żadnej wspólności nie mają i nic z rzeczy nieistniejących nie występuje w żadnej innej rzeczy, bo, co nie istnieje, to nie ma żadnej części.
+
+— Prawda.
+
+— Zatem i mniemania o czymś, co nie istnieje, u innych nie ma, ani jakiegoś widziadła, ani w żadnym sposobie i w żadnym względzie to, co nie istnieje, nie jest przedmiotem sądu innych.
+
+— No nie.
+
+— Więc, Jedno jeżeli nie istnieje, to nawet nie sądzi nikt, żeby coś z innych rzeczy było Jednym; ani żeby to były liczne rzeczy. Bo gdzie nie ma Jednego, tam niepodobna sądzić, że jest wiele rzeczy.
+
+— Niepodobna przecież.
+
+— Zatem, jeżeli Jednego nie ma, to inne rzeczy ani nie istnieją, ani nie uchodzą ani za Jedno, ani za wiele.
+
+— Nie wydaje się.
+
+— Więc ani za podobne, ani za niepodobne.
+
+— No nie.
+
+— Ani za te same, ani za różne, ani za stykające się, ani za oddzielne, ani żadnych takich wyglądów nie mają, jakieśmy poprzednio przeszli. Inne rzeczy ani niczym takim nie są, ani nie wydają się, jeżeli Jedno nie istnieje.
+
+— Prawda.
+
+— Nieprawdaż? I jeżeli powiemy w ogóle, że jeśli Jednego nie ma, to nic nie ma, to chyba słusznie powiemy?
+
+— Ze wszech miar przecież.
+
+— To niechże to będzie powiedziane, a do tego jeszcze i to, że bodaj, czy tam Jedno istnieje, czy nie istnieje, to ono i te inne rzeczy, i w stosunku do siebie samych, i w stosunku do siebie nawzajem wszystkie na wszelki sposób istnieją i nie istnieją, i wydają się, i nie wydają się.
+
+— Święta prawda.
+
+
+
+
+Objaśnienia tłumacza
+
+Na początku spotykamy imiona znane z Państwa. Ale Kefalos, który dialog rozpoczyna, nie ma nic wspólnego ze staruszkiem Kefalosem z pierwszej księgi Państwa. Tamten nie był z Kladzomenów z Azji Mniejszej. Tylko Adejmant i Glaukon to są ci sami rodzeni bracia Platona, którzy rozmawiali z Sokratesem w Państwie. Antyfon to przyrodni brat Platona, bo matka jego Periktione po śmierci Aristona wyszła za Pyrilampa i stąd ten Antyfon, który się w chłopięcych latach obracał między filozofami, a jak dojrzał, trzymał konie wyścigowe i to mu wystarczało. Platon stwarza fikcję sprawozdania z rozmowny bardzo dawnej, sprawozdania pochodzącego z trzecich ust. Słowa Parmenidesa i Sokratesa opowiadać miał przed laty Pytodoros Antyfontowi, Antyfon Kefalosowi, a dopiero Kefalos nam. To może znaczyć, że Platon nie chciał się podawać za tego, który chce poręczać autentyczność każdego słowa dialogu; Antyfon też, zajęty uzdami, a nie filozofią, nie wygląda na referenta zbyt wiarogodnego, choć miał być taki dokładny w swym referacie.
+
+Miło czytać o czasach, kiedy warto było jeździć przez Morze Egejskie, aby pogadać o zagadnieniach niepopłatnych i dowiedzieć się o rozmowach teoretycznych sprzed lat kilkudziesięciu. Nasza rozmowa miała się odbyć jeszcze gdzieś około roku 450 przed Chr., kiedy Sokrates miał lat osiemnaście, a więc nie miał brody i łysiny, i brzucha przed sobą, a wyglądał jak młody satyr albo jak Teajtet; z perkatym noskiem i grubymi wargami. Zabawnie. I to są pierwsze akcenty humorystyczne w tym dialogu. Sokrates odarty z powagi i przyrodni brat Platona, któremu już nie w głowie filozofia. Wrócił do tradycji arystokratycznej rodziny i woli wyścigi konne niż dyskusje. I jedno sport, i drugie. Te motywy pierwszego rozdziału odgrywają rolę klucza na początku pięciu linii w piśmie nutowym. Widać, że jest to klucz humorystyczny i przekorny.
+
+II. Jest i trzeci motyw w tym samym rodzaju: Zenon. Sławny Zenon z Elei. Można by myśleć, że ten filozof był przekonany, że nie ma na świecie wielu przedmiotów, tylko istnieje wielkie Jedno Parmenidesa, i że to przekonanie głosił z głębi duszy. Że to było jego szczere stanowisko. Dziwne, ale poważne. Nic podobnego, powiada Platon. Ten przystojny człowiek kochał się w Parmenidesie, który był dziwak, i żeby go sobie zjednać, a na złość tym, którzy starszego pana wyśmiewali, napisał za młodu swoje figlarne paradoksy, aby je pokazać Parmenidesowi, a nie żeby je publikować. Przyznaje się do tego teraz z pewnym wstydem, kiedy go Sokrates bierze zbyt serio. Sokrates jest jeszcze naiwny i myśli, że każdy, kto coś publikuje, wierzy głęboko w to, co napisał, i nie ma nigdy ukrytych pobudek osobistych. Tymczasem tutaj szło o bruliony zakochanego młodzieńca, które mu ktoś ukradł i bez pozwolenia ogłosił. W ten sposób Zenon mimo woli awansował na czołowego obrońcę dziwacznych poezji Parmenidesa i teraz go pociągają do odpowiedzialności za młodzieńcze supozycje podszyte przekorą, bo ludzie myślą, że jest to jego dojrzałe stanowisko, którego byłby gotów bronić po rzeczowym namyśle. Kłębek nieporozumień i zdemaskowań jest komiczny. Sokrates stracił brodę; Zenon też nie zyskał powagi.
+
+A sama teza i argument Zenona są tak młodociane, że autor słusznie się ich wstydzi. Nie ma w nich żadnej trudności rzeczowej i stąd nie wiadomo w pierwszej chwili, o co tu chodzić może i jaki stąd może być kłopot i dla kogo? A to tak, jak by się mali chłopcy bawili: jeden przekorny, a drugi cichy. I przekorny pyta cichego: „Powiedz, czy jest na świecie wiele przedmiotów?” — „Jest ich wiele” — powiada cichy. — „A ja ci pokażę, że to niemożliwe, bo to twierdzenie zawiera sprzeczność”. — „Jaką sprzeczność?” — Zobacz tylko: jest wiele przedmiotów podobnych, czy nie?” — „No, jest wiele przedmiotów podobnych, na pewno”. — „Dobrze. A czy jest wiele przedmiotów niepodobnych?” — „No, jest i wiele przedmiotów niepodobnych”. — „A widzisz! Powiedziałeś zdanie sprzeczne z twoją odpowiedzią poprzednią. Podmiot powtarzasz ten sam: »wiele przedmiotów«, a orzeczniki doczepiasz sprzeczne; raz mówisz: »podobne«, a raz: »niepodobne« o tym samym podmiocie. To jest niedorzeczność: mówić sprzeczne orzeczniki o jednym i tym samym podmiocie. To tak, jak powiedzieć, że ptak lata i nie lata”.
+
+Daremnie by się cichy chłopak tłumaczył, że i ptak raz lata, a raz nie lata, i z przedmiotów jedne są do siebie nawzajem podobne, a inne są do siebie nawzajem niepodobne, zatem tu śladu sprzeczności i jakiegokolwiek kłopotu nie ma i nie ma o czym mówić. Przekorny wiedział to i sam, ale był przekorny i chciał się bawić, i chciał się podobać Parmenidesowi, a teraz się trochę wstydzi, bo już ma czterdzieści lat, a Sokratesik bierze jego tezę i argument zupełnie serio. Platon bawi się i jednym, i drugim. Zaraz włoży Sokratesowi w usta swoją naukę o ideach i wyposaży go w swoją własną przekorę i złośliwy zamiar w stosunku do nich.
+
+III. Sokrates bardzo rozsądnie odpowiada Zenonowi, a wyraża się po platońsku, kiedy mówi o uczestniczeniu przedmiotów w podobieństwie i w niepodobieństwie zarazem, w jedności i w wielości. Zenon nie imponuje mu zgoła, kiedy znajduje cechy sprzeczne w przedmiotach konkretnych. On jest na to przygotowany z góry.
+
+I tu się młody Sokrates pomylił. Bo jeżeli pośród wielu przedmiotów jedne są do siebie podobne, a drugie są do siebie niepodobne, albo jeżeli jeden i ten sam przedmiot jest podobny do Stasia, a niepodobny do Jasia, to w tym nie ma żadnego śladu ani pozoru sprzeczności wewnętrznej ani żadnego cudu w tym nie widać. Podobieństwo jest cechą względną i w stosunku do różnych przedmiotów można spokojnie nosić w sobie, czy mieć równocześnie podobieństwo i niepodobieństwo, nie narażając się na żadną sprzeczność. W ciągu dialogu rozmawiający stale zapominają o tym, że podobieństwo jest cechą względną i nie robią różnicy między cechami bezwzględnymi i względnymi — skąd wiele później bałamuctwa.
+
+Sokrates wypowiada przy końcu rozdziału pobudki, które Platonem kierowały przy pisaniu dialogu. On by się cieszył i podziwiał takiego, który by pokazał sprzeczność wewnętrzną w ideach, wbrew poglądom powszechnym. To by był ktoś odważny i taki by mu zaimponował znacznie więcej niż Zenon. I to by go dopiero bawiło. Zatem o to szło. Na przekór zdrowemu rozsądkowi szukać efektownych sprzeczności w przedmiotach nazw ogólnych. Dla zabawy i dla zaćmienia Zenona. Wcale nie na serio.
+
+IV. I ten program bardzo się podoba Parmenidesowi i Zenonowi, wbrew oczekiwaniom Pytodora. Widocznie i Pytodoros zbyt serio brał wielkich eleatów. Platon powiada: „Ja ich znam lepiej. Bawili się i twierdzili na niby rzeczy niewiarygodne. Ja też tak potrafię. Nawet jeszcze lepiej”. I nie żenuje go to, że Sokratesowi zupełnie nie do twarzy z tą figlarną, przekorną tendencją. On taki nigdy nie był w dialogach Platońskich. Nawet w Uczcie, kiedy się przekomarzał z Agatonem o Erosa, szukał prawdy — dzisiaj szuka paradoksu i to go cieszy. I te szukane paradoksy będą rosły w rozmowie jak grzyby po deszczu, bo kto szuka, ten znajdzie. Prowadzi te wyścigi za niedorzecznością sam mistrz Parmenides, czołowy głosiciel Jednego, i nabiera rysów starego wygi, który klepie po ramieniu młodocianego Sokratesa, a sam później zaprzecza samemu sobie, nie rumieniąc się; bez zająknienia i bez protestów ze strony towarzystwa.
+
+Na egzaminie przed Parmenidesem Sokrates wyznaje naukę o ideach i wstydzi się trochę, że Platon nie przemyślał jej aż do końca. Łatwo mu było mówić, że świecą nad niebem idee sprawiedliwości, piękna, dobra i innych rzeczy wzniosłych, ale czy przyjmować również takie nieskalane, czyste, wieczne, olśniewające idee dla żywiołów, dla wytworów materialnych i rzeczy brzydkich, niegodnych wspomnienia? Tu się wahał i nie wiedział, co o tym myśleć, kiedy oczy od nieba odwrócił, a spojrzał pod krzaki na stokach Akropoli i na górze Aresa. Pod każdym mógł spotkać to samo, ale powiedzieć, że oczyma duszy oglądał przed przyjściem na świat i taką ideę i dlatego teraz tak dobrze te „nieistniejące” przedmioty rozpoznaje, było mu jakoś głupio. To samo, kiedy szło o ułomności i wady ludzkie, o wszystko, co złe, liche, brzydkie. A tego było dużo przed oczami. Pociesza go Parmenides sarkastycznym żartem, że jak zje zęby na filozofii, przestanie się żenować i potrafi wziąć do ręki wszystko, czym się ludzie brzydzą. Zatem i paradoks nie będzie go odstraszał. Ten Parmenides mówi tutaj za Platona z późnych lat, a Sokrates spełnia rolę Platona młodego. I tak jesteśmy świadkami, jak Platon w postaci Parmenidesa mówi sam do siebie per ty, kiedy się Parmenides zwraca do Sokratesa.
+
+V. Platon atakuje stosunek idei do przedmiotów konkretnych, pojęcie ich uczestniczenia w ideach. Dwoma argumentami. Pierwszy z nich mówi, że żadna postać, czyli idea, nie może jako całość tkwić w każdym z przedmiotów, które pod nią podpadają, bo wtedy byłoby tych postaci wiele, a nie jedna tylko dla każdego rodzaju przedmiotów podobnych. A nie może też idea tkwić częściami w każdym z przedmiotów, które pod nią podpadają, bo ona cała jest potrzebna, a nie wystarczy jakaś jej część do tego, żeby przedmiot każdy był tym, czym jest. Zatem jednej idei niepodobna ani w całości, ani po kawałku wsadzić w liczne przedmioty konkretne. Więc kto twierdzi, że idee w jakikolwiek sposób tkwią w przedmiotach konkretnych, twierdzi coś, czego możliwości sam musi zaprzeczyć, i tak popełnia sprzeczność. Widać, jak Platona bawi ten, co to zmalał, gdy dostał jeszcze kawałek małości. Wszystko to prawda, ale tylko wtedy, jeżeli idee traktować jak bryły, a przedmioty konkretne jak worki. Kiedy myśleć o żaglach, sufitach, kołdrach i uczestniczenie lub podpadanie rozumieć jako stosunek przestrzenny między przedmiotami materialnymi. Tylko wtedy kłopot. Można się wtedy pytać, czy to universale tkwi w przedmiotach zmysłowych w środku, czy siedzi gdzieś poza nimi osobno, czy je ogarnia, czy przenika, czy ono jest jak światło na nich, czy jak płótno nad nimi itd.
+
+Ale Platon umiał sobie z tą trudnością radzić w Fajdrosie i w Uczcie, mówiąc, że tak już mamy powiązany umysł ze zmysłami, że gdy oczyma cielesnymi widzimy przedmiot konkretny, potrafimy, równocześnie albo później, nieobrazowo myślami ująć jego rodzaj, jego istotę, to, czym on jest, jego postać. I postacie nie siedzą w przedmiotach zmysłowych ani w całości, ani po kawałku, tylko je poznawać można myślami, spostrzegając zmysłami przedmioty nacechowane jakimś wspólnym znamieniem. I stosunek do licznych przedmiotów zmysłowych jest podobny do stosunku między tłokiem pieczętnym a odciskami, ale to nie jest stosunek materialny, przestrzenny, bo idee nie są bryłami. Nawet idea bryły nie jest sama jeszcze bryłą i w tym nie ma sprzeczności, tylko pozór sprzeczności językowej. Wystarczy bryłę w znaczeniu idei brać w cudzysłów albo ją pisać wielką literą, albo mówić „bryła w ogóle”, albo „bryła sama”, i pozór sprzeczności zniknie. I tak Platon robił nieraz.
+
+Ustalać stosunek postaci do konkretów nie jest rzeczą łatwą, ale próbować go ustalać przestrzennie, jak to w tej chwili znosi Sokrates z ust Parmenidesa, jest rzeczą zupełnie chybioną.
+
+Drugi argument przeciwko ideom nosi od czasów Arystotelesa nazwę tritos anthropos, „trzeci człowiek”. Podał go Arystoteles w swojej Metafizyce przeciw Platonowi od siebie. Tak, jakby go sam wymyślił, a nie przeczytał go w Platońskim Parmenidesie. Można go krótko sformułować tak: Przyjmowanie jednej postaci dla każdej grupy przedmiotów podobnych prowadzi do powtórzeń bez końca (regressus in infinitum), ponieważ postać i przedmioty jej podporządkowane stanowią, razem wzięte, również grupę przedmiotów podobnych.
+
+Ten argument także najłatwiej przekona tego, który sobie postacie wyobraża materialnie i myśli, że „koń w ogóle” to ma być jeszcze jeden koń; taki sam, jak którykolwiek koń, widziany zmysłami. Jeśli jednak zważyć to, że „koń w ogóle” to ma być przedmiot niewidzialny, a tylko pomyślany, i że on nie musi posiadać wszystkich cech wspólnych wszystkim koniom konkretnym, trudność wydaje się mniejsza. Ważniejsza wydaje się wtedy jego różność od koni konkretnych niż jego do nich podobieństwo. Nie ma obawy, żeby ktoś pomieszał nazwy całej grupy z nazwami jej poszczególnych jednostek i doliczył do stada jeszcze i samo stado jako nową jednostkę równorzędną. Nie ma powodu szukać nazw nowych, które by dotyczyły i samych nazw przedmiotów przez nie nazywanych, i nie ma powodu oglądać się za trzecimi postaciami, które by panowały i nad postaciami, i nad przedmiotami, które są im podporządkowane. Obchodzi się bez nich i język potoczny, i badania w dziedzinie przedmiotów konkretnych, a logistycy umieją te trudności omijać fachowo. Platon mógł tu mieć kłopot poważny, bo posługiwał się językiem nieuporządkowanym systematycznie i trudności językowe brał często za trudności rzeczowe.
+
+VI. Sokrates próbuje wyjścia z kłopotu; to wyjście nazywało się w średnich wiekach konceptualizmem: universalia sunt in mente, nazwy ogólne dotyczą pojęć tkwiących tylko w umyśle ludzkim, a nie poza nami. Parmenides mu zwraca uwagę, że przecie coś rzeczywistego poza nami musi tym pojęciom odpowiadać. Przedmioty pojęć nie są zawsze myślami, a o te przedmioty chodzi. Sokrates próbuje pojąć uczestniczenie przedmiotów zmysłowych w ideach jako ich naśladowanie i podobieństwo, ale zbija go z tropu drugi raz argument o „trzecim człowieku” i o nieskończonym szeregu. Bogiem a prawdą, nie było powodu tak się wzdragać przed tymi szeregami idei bez końca. Mógł był Sokrates przyznać, że kto by chciał i miał coś ciekawego do powiedzenia o takim trzecim albo n-tym człowieku, albo koniu, który by obejmował i konie żywe, i postać konia w dodatku, to niechby mówił, i nie stawiać mu rogatki, tylko słuchać, czy powie coś ciekawego. Długo by czekać. Ale i Platon, i Sokrates nie lubili tego, co bez granic. Cenili wyżej to, co ma kres, i sam kres wydawał się im zaletą. A najważniejsze wydawało im się to, że wtedy idea nie byłaby czymś jednym, tylko zawsze jakimś mnóstwem.
+
+Ale zjawia się nowa trudność. Sokrates, który przed chwilą gotów był przyjąć, że idee są myślami i mieszkają w nas, zgodził się od razu z Parmenidesem, że one na pewno nie mieszkają w nas, tylko poza nami, same w sobie. I zostają w stosunkach wyłącznie tylko jedne do drugich, a nie do nas i do tego, co nasze. Tym samym nie byłyby też przedmiotami poznania, bo być przedmiotem poznania znaczy: zostać w pewnym stosunku do nas. Widocznie Platon się wahał, gdzie idee umieścić. I tak się z nimi nosił, jak by nie wiedział, gdzie lampę postawić w mieszkaniu. W jakiej części przestrzeni wyobrazić sobie pewne przedmioty zmysłowe, rozciągłe, materialne. Przedtem nie miał tego założenia, że cokolwiek istnieje, musi istnieć gdzieś, w jakimś miejscu i nie miał takiego kłopotu. Nad niebem lokował idee tylko na niby, w obrazie poetyckim — nie naprawdę. I dziś też, kto stwierdza istnienie np. podobieństwa między dwiema osobami w pokoju, nie pyta się, w którym kącie pokoju to podobieństwo stoi albo leży, bo nie uważa, żeby podobieństwo było kawałkiem materiału, bryłą, przedmiotem materialnym. Niedaremnie Platon czytał Demokryta. Obleciały go wątpliwości materialistyczne. Robią mu się bryły ze wszystkiego. I to go bawi. Zatem stosunki między ideami zachodzą i stosunki między przedmiotami zmysłowymi też. Te przedmioty nazywają się teraz naszymi i faktycznymi. Ale jedne stosunki nie mają żadnego związku z drugimi. Świat idei osobno, a świat przedmiotów zmysłowych, świat „nasz” — osobno. Sokrates to doskonale rozumie! Demokryt jeszcze lepiej.
+
+VII. Zatem nie ma co myśleć, jak się to mówiło w Państwie, że wiedza polega na poznawaniu postaci i stosunków między nimi. To może robi ta niedostępna dla nas wiedza sama, idealna, a nasza wiedza chyba dotyczy tylko „naszych” przedmiotów zmysłowych i przynosiłaby „naszą” prawdę. Wiedzę samą może posiada Bóg i świetnie zna wszystkie postacie, ale też tyle tylko — wobec tego nic nie wie o nas i o naszym świecie. Jest panem „człowieka samego” albo „ludzkości”, albo „natury ludzkiej” i nie panuje zgoła nad ludźmi konkretnymi i tak samo o nich nic nie wie, jak my nie mamy pojęcia o ideach i o nim. Wszystko to wyniknie, jeżeli postacie to będą inne kawałki, a przedmioty konkretne znowu inne i gdzieś indziej za murem położone. Sokrates się trochę wstydzi i boi tych wniosków. Parmenides ani trochę. On nie twierdzi, że tak jest, tylko, że tak jakoś wychodzi, jeżeli przyjmować idee, a jak ich nie przyjmować, robi się jeszcze głupiej, więc ani w prawo, ani w lewo. Sokrates jakby usiadł na krze. Parmenides się z niego śmieje.
+
+Rzeczywiście. Kiedy się z postaci rzeczy, z idei, porobiło bryły i założyło się, że one nie mają żadnego związku z konkretami, a poznawanie idei zostało pojęte jak widzenie oczyma cielesnymi — nie ma rady.
+
+Ale w Państwie, kiedy Sokrates był starszy, umiał bardzo przekonująco opowiadać o tym, jak to się idee poznaje myślami, a nie zmysłami, choć przy sposobności spostrzeżeń zmysłowych. Mówił, że idei dotyczą przedstawienia nieobrazowe, jasne, bo określone i ustalone, które my dziś nazywamy pojęciami. I nie uważał wtedy, żeby myślenie pojęciami miało człowiekowi albo bogom utrudniać orientację w konkretach, tylko na odwrót. I w Fajdrosie mówił, i w Uczcie, i na wielu innych miejscach, że przedmioty zmysłowe zostają w stosunkach do przedmiotów pojęć, a nie są od nich odgrodzone murem. Jakoś to szło, choć zwrotami przenośnymi opisywane — teraz się to mąci i wali, gdy Parmenides bierze te rzeczy dziwnie grubo, zmysłowo, materialistycznie.
+
+VIII. Ten rozdział zawiera apel do młodego Sokratesa, aby się ćwiczył we wnioskowaniu i w dowodzeniu, bo inaczej nigdy prawdy nie dojdzie. Apel piękny niewątpliwie i na nim opiera Wilamowitz-Moellendorf przekonanie, że cały dialog jest podręcznikiem do ćwiczeń logicznych. Że bałamuctwa i błędy są umyślne i starsi uczniowie w Akademii już umieli je wyszukiwać i poprawiać. Trzeba jednak myśleć, że autor byłby na pewno podał sam od siebie, choćby na końcu, właściwe rozwiązania trudności, gdyby chciał w ten sposób uczyć młodzież i gdyby te rozwiązania miał pod ręką. Zdaje się, że ich nie miał przy pisaniu dialogu, choćby dlatego, że ich nie szukał. Szukał przecież paradoksów. Młody Sokrates wyznaje, czemu go interesują przedmioty pojęć więcej niż przedmioty spostrzeżeń zmysłowych. Dlatego, powiada, że w tej dziedzinie można wykazywać, co się komu podoba, można pokazać, że przedmioty są i takie, i nie takie, i jakiekolwiek bądź. Parmenides pochwala ten nihilizm i rozpasanie myślowe. W świetle ostatniej pochwały jego zachęta do ćwiczeń logicznych wygląda na złośliwe pokuszenie, podane z uśmiechem, który mógłby być szatański, gdyby w nim widać było ostre zęby. Ale te zęby nie są ani zbyt ostre, ani jadowite. Śmiech zresztą adresuje Platon sam do siebie.
+
+Metoda kontroli pomysłów za pomocą wysnuwania z nich następstw jest zupełnie słuszna. Trzeba przy tym uważać, czy się nie wprowadza jakichś milczących założeń i czy się wyrazy bierze stale w tym samym znaczeniu. Zenon wie z góry i uprzedza, że to wysnuwanie następstw z najrozmaitszych supozycji będzie wyglądało kompromitująco dla Parmenidesa. To będą dziecinady i błąkanie się tędy i owędy — ale to się przyda jako ćwiczenie. Kto nie czytał dalszego ciągu, musi być zdziwiony, dlaczego kontrola metodyczna pomysłów filozoficznych miałaby być taka nieprzyzwoita, że nawet prosić o nią nie wypada poważnego człowieka wobec licznych świadków. Kto przeczytał całość, pomyśli, że Platon wiedział jednak, co tu napisał.
+
+IX. Skrupuły opadają Parmenidesa — widocznie Platon już miał dalszy ciąg w głowie albo i na papirusie, i wiedział, jak będą wyglądały te wyścigi myślowe względnie gonitwa myśli. Bał się opinii szerokich kół, ale dla filozofów zaryzykował. Na partnera wybrał dla Parmenidesa schemat młodzieńca, który rzeczywiście mówi najmniej i nie robi w tej rzekomej dyskusji nic więcej, jak tylko przestanki między zdaniami. Twarzy nie ma widocznej. Dziwna przyjemność mówić do takiego. Autystyczna. Chodzi widocznie o monolog o mdłych pozorach wymiany myśli i kontaktu.
+
+X. Zaczyna się roztrząsanie Jednego, które trwa aż do końca dialogu. Zaraz pierwsze zdanie tego rozdziału mówi, że Parmenides wymyśla sobie jakiś dziwny przedmiot i chce o nim mówić. To „jedno”, o którym mowa, to ma być coś, o czym nic więcej powiedzieć nie można, jak tylko to, że jest jedno. Przedmiot zatem bardzo nieciekawy. Mówi się o nim z góry, że to nie może być to samo, co wiele. Zatem to na pewno nic podobnego do naszych metrówek, bo jeden metr to jest to samo co wiele centymetrów. I nic podobnego do jakiejkolwiek materii, bo jedna bryła materii to zawsze wiele drobin i atomów, i elektronów, a mówiąc ogólnie, cząstek. I nic podobnego do faktów psychicznych, bo te zawsze mają swoją jakość, czas trwania, siłę i o każdym można powiedzieć coś więcej niż tylko to, że jest jeden. Zatem nie widać, o czym właściwie chce mówić Parmenides, kiedy pyta o Jedno. Po prostu z liczebnika zrobił rzeczownik, robi z niego podmiot zdań i próbuje, które z takich zdań będą miały pozory sensu, a które nie. Na pewno wyjdzie z tego dużo prawdziwych zdań przeczących i tylko jedno prawdziwe zdanie twierdzące: jedno jest jedno, jeżeli już ktoś przyjmie taki podmiot i nie zapyta, co to za „jedno”: jedno jajko, czy jedno słowo, czy jedno przekonanie, czy co właściwie? Młody Arystoteles nie jest taki samodzielny i naiwnie odpowiada, że jedno nie może być tym samym, co wiele. Jakby wiedział, o co właściwie może chodzić w mętnym pytaniu Parmenidesa, i jakby sobie myślał, że jedno jajko to nie jest wiele jaj. Jak było do przewidzenia, płynąć zaczyna teraz potok zdań sprzecznych, które mają pozory sensu. Jedno nie ma części, nie jest całością, nie ma początku, środka i końca, nie ma granic, kształtu i nie tkwi ani w czymkolwiek innym, ani w sobie.
+
+XI. Jedno nie ulega zmianom, nie porusza się w żaden sposób i nie stoi, nie jest ani tym samym, ani czymś różnym od siebie, nie jest ani podobne, ani niepodobne, ani równe, ani nierówne czemukolwiek na świecie. Z góry można było zgadnąć, że ono nie będzie też należało ani do pijących, ani do niepijących, ani do kudłatych, ani do łysych itd. Tak samo jak „siedemnaście” albo „więc”, albo „pod”, albo „czarne”, albo „nic”. Jeżeli w tym potoku zdań ktoś ma poczucie niespodzianki albo wątpliwości chwilami, czy można czemukolwiek odmawiać obu cech sprzecznych, czy też jedną z dwóch cech sprzecznych wypadałoby każdemu przedmiotowi zostawić, to dlatego, że trudno się zrazu przyzwyczaić do tej myśli, że ci ludzie mówią o niczym właściwie, o żadnym przedmiocie, tylko zdania składają tak, jakby im o jakiś przedmiot szło. O jakąś kulę dużą, czy o wszechświat, czy o boga, o cokolwiek. Ale oni o tym nie mówią, tylko o Jednym i o niczym więcej. Każdy przedmiot posiada jedną z dwóch cech sprzecznych, które mogą mu w ogóle przysługiwać; ale takie coś, które ma być pozbawione wszystkich cech, oprócz tego, że jest jednym, można bez troski wskazać za pozbawione obu cech sprzecznych i nie uważać go za żaden przedmiot.
+
+XII. Jedno oczywiście nie jest ani starsze, ani młodsze od czegokolwiek i nie istnieje w czasie. Zabawnie wypada twierdzenie, że każdy, kto się starzeje, staje się równocześnie młodszy od siebie samego. Figiel w tym, że zwrotem „ten sam człowiek” obejmujemy człowieka o pewnym imieniu w jego różnych wiekach, a więc i pięcioletniego, i dwudziesto-, i trzydziesto-, i siedemdziesięcioletniego. Kiedy się człowiek robi pięćdziesięcioletni, robi się o dwadzieścia lat młodszy od siebie siedemdziesięcioletniego. Dopiero z chwilą śmierci kończy się to odmładzanie. Ale do samej śmierci może sobie człowiek co rano mówić: nigdy już nie będę taki młody jak dziś.
+
+Rozmawiający zupełnie słusznie dochodzą do przekonania, że tego Jednego nie było, nie ma i nie będzie. I że oni, choć mówili tak długo, mówili właściwie o niczym i nie udzielali sobie ani wiedzy żadnej, ani nawet mniemań o czymkolwiek. „Jedno” nie jest nazwą żadnego przedmiotu, tylko im tak wyglądało i wygląda dalej.
+
+Pomylili się, myśląc, że cokolwiek wydaje się Jednym lub jakimkolwiek, to musi tym samym istnieć. Złota góra wydaje się czymś Jednym, a nie istnieje. Ludzie umieją przypisywać wiele cech przedmiotom, których nie ma, i tym nawet, o których sami wiedzą, że ich nie ma. Arystoteles nie chce wierzyć, żeby Jedno, ten rzekomy przedmiot ich rozmowy, nie istniało w ogóle i żeby nie było o czym mówić wobec tego. A czemu nie wierzy? Dlatego, że słyszy ten rzeczownik zrobiony z liczebnika i wie, że Parmenides o tym pisał, więc mu się zdaje, że to jednak musi być coś, jakaś rzecz. To właśnie jest wielka pomyłka eleatów, że im się zawsze czymś istniejącym, jakimś przedmiotem rzeczywistym wydaje wszystko, o czym ktoś pomyśli albo mówić zacznie. Tak im wyrazy mowy rodzą widziadła przedmiotów. Platonowi też. To się nazywa werbalizm.
+
+XIII. I to się mści. Zdanie „istnieje Jedno” zawiera dwa wyrazy. Rozmawiający już myślą, że to są dwie części jednego przedmiotu, zupełnie podobne do całości i dzielące się w nieskończoność na części takie same. Tym samym myślą coś wprost przeciwnego, niż myśleli na początku rozdziału X. „Myśleli” znaczy tutaj tylko: suponowali, a nie znaczy: byli przekonani. Suponować rzeczy sprzeczne można bez trudności; dla zabawy, dla ćwiczenia. Myśleć rzeczy sprzeczne przy zdrowych zmysłach w znaczeniu: „wierzyć w nie głęboko i po prostu” — niepodobna.
+
+Do dwóch części „Jednego istniejącego” przyrasta im trzecia, a mianowicie: różność pomiędzy Jednym a istnieniem. Widać, że ci ludzie rachują wyrazy, a tak mówią, jakby jakieś polano rozłupywali na trzy szczypki. I tak się im to Jedno rozpada w oczach na nieskończoną ilość części, z których każda jest jednostką.
+
+XIV. To zaczyna wyglądać do rzeczy. Mówią tak, jakby mówili o tym, że każdy przedmiot materialny można w myśli dzielić bez końca na cząstki coraz drobniejsze, na jednostki coraz niższego rzędu, których suma musi rosnąć bez końca.
+
+XV. Od rozdziału trzynastego począwszy pada szereg twierdzeń sprzecznych z twierdzeniami z rozdziału dziesiątego. Zatem Jedno dostaje teraz granice, bo ich nie miało w rozdziale dziesiątym. Skądże te granice? Stąd, że zostało pojęte po cichu jako bryła, która ma swoje części, a wiadomo, że każda bryła ma jakieś granice. Z tego samego powodu dostaje teraz Jedno jeszcze i jakiś kształt w dodatku. Potem przychodzi dwuznaczny zwrot: „całość obejmuje części” i z tego wychodzi, że Jedno istnieje samo w sobie, niby we własnym wnętrzu, jak w garnku, którego nie ma naokoło niego jako całości. Potem fałszywe twierdzenie, że całość istniejąca we wszystkich cząstkach musi istnieć w każdej cząstce z osobna i w jednej również. Przecież tylko wszystkie cząstki zbiorowo stanowią całość, a nie stanowi całości żadna cząstka, wzięta z osobna. Nikomu z rozmawiających nie przychodzi na myśl ta prosta uwaga — i oto w tej chwili ta nieszczęsna całość, wygnana ze wszystkich cząstek, ponieważ nie siedziała w żadnej cząstce z osobna, dostaje w prezencie środowisko, w którym by siedzieć mogła, skoro istnieje. Ciche założenie: każda bryła w czymś siedzi. „Jedno” wygląda od początku rozdziału na bryłę, więc i ono osiadło gdzieś, w czymś innym. I ono, jako bryła sama w sobie utkwiona, stoi, a jako bryła będąca wciąż w czymś innym, porusza się. Przez prostą dwuznaczność zwrotu: być wciąż w czymś innym. Pierwsze znaczenie: tkwić stale w środowisku różnym od siebie. Drugie znaczenie: być co chwila w miejscu różnym od poprzedniego miejsca. Takie tanie dwuznaczności świetnie chwytał młody Ktezippos w Eutydemie — tutaj sześciu filozofów pozwala Parmenidesowi pleść koszałki opałki bez przeszkody. I tak Jedno zrobiło się samo z sobą identyczne i równocześnie samo od siebie różne. Na upartego można by się dorozumiewać, że to tak jakoś, jak z każdym przedmiotem, który się zmienia w czasie. Robi się różny od siebie dawnego, a zostaje wciąż tym samym. Każdy z nas był dzieckiem, a zrobił się dojrzały. Więc ten sam, a taki co chwila różny. Ale nie o to szło, bo zbyt łatwo można by to powiedzieć. Szło o suchy, pusty paradoks o Jednym.
+
+XVI. Jedno robi się rozmawiającym identyczne i różne w stosunku do innych rzeczy także. I dzięki tej różności robi się do nich podobne.
+
+XVII. Jedno wydaje im się różne od innych rzeczy, ponieważ jest z nimi identyczne i ma być podobne i niepodobne do innych rzeczy. Nie dość im tych niedorzeczności. Jedno musi jeszcze samo siebie dotykać i nie dotykać, a innych rzeczy tak samo. Mylą się rozmawiający, że zetknięć między bryłami jest zawsze o jedno mniej niż stykających się przedmiotów. Taki jest tylko przy układaniu kamyków w szereg otwarty. Gdy je układać w kółko, w wielobok, w trójkąt, w szereg zamknięty, trzy kamyki dadzą trzy zetknięcia i zawsze będzie tyle samo zetknięć, ile kamyków. Ale nie trzeba było aż tak daleko sięgać, żeby dowieść, że nie będzie i zetknięcia, gdy nie ma czego dotykać.
+
+XVIII. Jedno otrzymuje sprzeczne wymiary, robi się większe, mniejsze i równe w stosunku do siebie samego i do innych rzeczy. Widać przy tym, jak idea małości przenikać ma i wypełniać rzeczy małe, jak woda gąbkę. Z idei zrobił się rodzaj soku. Nie dziw, że domyślano się jakiegoś złośliwego anonima jako autora dialogu. Musiałby to być materialista. Ale go nie było.
+
+XIX. Zaczynają się sprzeczne cechy czasowe. I wielka pomyłka eleacka wraca: słyszymy, że czemukolwiek przysługuje bycie czymkolwiek, temu też przysługuje istnienie. Pomyłka, bo Hefajstos jest podczaszym Zeusa, a nie istnieje ani jeden, ani drugi. Przypisujemy przecież łatwo pewne cechy przedmiotom, o których wiemy, że ich nie ma, ale je sobie tak marzymy. W ten sposób smoki są straszne i żarłoczne, a Pola Elizejskie urocze.
+
+Jedno robi się i młodsze, i starsze od siebie samego, a starsze od innych rzeczy. Bo Jedno to mniej więcej tyle, co pierwsze. A jak pierwsze, to starsze.
+
+XX. Równocześnie to Jedno ma być i młodsze od innych rzeczy, i ma posiadać ten sam wiek, co inne, i staje się starsze i młodsze od siebie samego i od innych rzeczy. Czytelnik tylko czeka, kiedy to Jedno zacznie chodzić na głowie w tył i naprzód równocześnie za sobą samym i za innymi. Na razie ono tylko nie jest ani starsze, ani młodsze od innych rzeczy. Wtrącone trafne uwagi o tym, że bezwzględna różnica wieku zostaje zawsze stała, a względna z czasem maleje. Nie znaczy to, że to, co starsze, staje się z czasem młodsze od młodszego, jak to nieporządnie mówi Parmenides, tylko znaczy, że to, co starsze, staje się z czasem mniej razy starsze od tego, co się tymczasem postarzało. Na przykład sześćdziesięcioletni ojciec w stosunku do swego syna, który ma lat trzydzieści pięć, jest mniej razy starszy, niż był przed laty dwudziestu pięciu.
+
+Bardzo zabawnie to Jedno robi się nagle czymś istniejącym w czasie dawniej, dziś i później, i nabywa wielu rzeczy, i dostaje nazwę, i robi się przedmiotem wiedzy, i nabiera rzekomo sensu — w ogóle awansowało na jakiś przedmiot rzeczywisty wbrew rozdziałowi dwunastemu. Arystoteles objawia zanik pamięci i brak reakcji na sprzeczność. W tak młodym wieku.
+
+XXI. Teraz Jedno powstaje i ginie, skoro ma być takie wewnętrznie sprzeczne, bo proces powstawania wydaje się sprzeczny wewnętrznie.
+
+Podobnie jak zjawisko ruchu. Zenon dawno się tym bawił. Jedno więc wciąż przechodzi z jednego stanu w drugi i dlatego jest pozbawione wszelkich znamion stałych. A przechodzi w momentach, które nie należą do czasu. Kto ciekaw, może zajrzeć do małej rozprawki O jedności prawdy i dobra, w której autor tych objaśnień porusza zagadnienie stawania się. Tutaj za długo byłoby o tym mówić.
+
+XXII. Znowu rzeczy inne od Jednego stają się Jednym, i to dlatego, że mają części, a więc stanowią całość. Z tego samego powodu to Jedno przestało być Jednym, jak tylko pokazało jakieś części w rozdziale dziesiątym. I znowu pomieszanie zbiorowego i rozdzielnego traktowania zbiorów, kiedy mowa o częściach. Przecież dwójka jest trzecią częścią sześciu jednostek, ale to nie znaczy, że jest trzecią częścią każdej z sześciu jednostek, tylko ich wszystkich razem.
+
+I teraz te rzeczy inne zaczynają się wydawać tak samo wewnętrznie sprzeczne, jak i to przeciwstawione im Jedno. Parmenides znajduje to bez trudności, tylko czytelnik znosi to z coraz większą trudnością, jeżeli pamięta jeszcze rozdział dziesiąty i objaśnienia do niego.
+
+XXIII. Tu chyba i Platon musiał się śmiać, kiedy pisał te słowa: „to już zostawmy, bo to są rzeczy jasne”. Przecież on w życiu swoim nie napisał ani nie zwalczał myśli bardziej mętnych niż te, któreśmy przeszli i przechodzimy. Więc apostrofa: „zostawmy to” jest pociągająca, ale motyw się nasuwa wprost przeciwny. To jest zbyt mętne i puste wszystko, i jałowe, jak każde mówienie o niczym, żeby to można z przyjemnością czytać aż do końca. Ale już niedługo. W tej chwili potok sprzecznych znamion zalewa rzeczy inne od Jednego. Jedno utonęło w nim już dawno. „Ciemno wszędzie, głucho wszędzie”.
+
+XXIV. Początek tego rozdziału to już bezinteresowne bałamucenie czytelnika, bez pozorów związku rzeczowego z całością tych osobliwych roztrząsań. Tylko na żart. I na żart to nieistniejące Jedno zostało dopuszczone do istnienia właśnie dlatego, że nie istnieje. Tu zgubiona różnica między „być” a „istnieć”. Po łacinie: esse i existere lub: habere essentiam i habere existentum. Wszelkie „cosie”, określone jasno, są jakieś, choćby były niedorzeczne, sprzeczne, jakie bądź. Niektóre „cosie”, określone jasno, istnieją. Tylko te, które są wolne od sprzeczności i dadzą się bez pomyłki stwierdzić w spostrzeżeniach zmysłowych i wewnętrznych. Pegaz jest czymś, ale nie istnieje; bezskrzydłe konie żywe i są czymś, i istnieją, bo je spostrzegamy przytomnie. Parmenidesowe Jedno może i jest czymś — choćby pomysłem niedorzecznym, ale nie istnieje i mówić o nim bardzo trudno. Tyle sprzeczności na raz niepodobna strawić i człowiek nie czuje, żeby się od tego robił mądrzejszy, choć pada ze zmęczenia. To jest mielenie trocin.
+
+XXV. Tu jakiś powiew zdrowego rozsądku zaprzecza wszelkich możliwych znamion temu nieszczęsnemu Jednemu, zgodnie z duchem rozdziału dziesiątego.
+
+XXVI. Tu rozwinięte konsekwencje nieistnienia Jednego. Jest to znowu szereg dwuznaczności i sprzecznych twierdzeń na początku, a później coś, co jest przypadkiem podobne do świata materialnego ze względu na podzielność. Naprzód rzeczy inne od Jednego uzyskują wielką różnorodność. A skąd ją biorą? Z dwuznaczności wyrazów „inny”, „różny”. Te rzeczy inne są zrazu inne od Jednego. Ale że to Jedno nie istnieje, zatem trudno im jakoby zachować różność od niego. Więc chyba będą różne od siebie nawzajem. Tak zabawnie rosną rzekomo cechy przedmiotów z wieloznaczności wyrazów. Żeby popełnić taki krok w rozumowaniu, trzeba zapomnieć, że różność jest cechą względną, to znaczy, że nic nie jest różne, tylko niektóre rzeczy są różne od pewnych innych rzeczy, i to określonych, a nie od byle jakich. I trzeba nie pamiętać, że tu była przed chwilą mowa o zupełnie innej różności, a inną się na jej miejsce podsuwa. Widoczne osłabienie pamięci albo żarty znowu i żarty jeszcze. A potem obrazowy opis zmian wyglądu rzeczy przestrzennych, kiedy się uwagę zwraca na coraz to mniejsze porcje materii. Tak się nam zmienia obraz każdej rośliny i zwierzęcia, i minerału, kiedy zrazu patrzeć gołym okiem, a później przez lupę i przez coraz silniejsze obiektywy mikroskopów, a w końcu poprzez teorie chemiczne i teorie fizyki. Tylko że ta zmiana wyglądu nie ma nic do czynienia z nieistnieniem Jednego.
+
+XXVII. Na ostatek z bardzo silnym akcentem powtórzono konsekwencje nieistnienia Jednego. Powtórzona też pośród nich wielka pomyłka eleatów. Że jeśli coś nie istnieje, to nie jest nigdy przedmiotem sądów niczyich. Fatalna pomyłka. O rzeczach nieistniejących ludzie i myślą, i mówią często, i to przynajmniej nieraz i ciekawiej niż Parmenides z Arystotelesem w tym dialogu.
+
+Kiedy się zastanawiać nad konkluzją dialogu: „jeśli Jednego nie ma, to nic nie ma”, wypada powiedzieć, że nie zawsze tak jest, ale czasem się tak mówi. To zależy od tego Jednego. A ostatnie zdanie dialogu wygląda na wyznanie autora. On stwierdza po prostu, że ma głowę pełną sprzecznych sądów i supozycji sprzecznych wszelkiego możliwego rodzaju. Bez względu na założenia, z których wychodzi. To było widać aż nadto w ciągu dialogu. I to jest rzeczywiście „święta prawda”. Ale trochę smutna. Bo jeden z dwóch sądów sprzecznych jest na pewno mylny. Platon byłby się wstydził tak pisać, gdyby nad nim przy pisaniu tego dialogu stał, jak w Hippiaszu, poważny, rzeczowy, trzeźwo myślący, stary Sokrates, syn Sofroniska. Nic dziwnego, że Sokrates został na czas tej „pracowitej zabawy” chłopcem, który tu nie ma nic do powiedzenia. Dziadek Platon ma głos i bawi się. Udaje Heraklita, Demokryta, Zenona — wszystko mu jedno.

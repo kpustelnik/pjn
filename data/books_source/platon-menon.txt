@@ -1,0 +1,1343 @@
+Platon
+
+Menon
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-5945-6
+
+
+
+
+
+Wstęp tłumacza
+
+Nie wiemy, gdzie i kiedy odbywa się ta rozmowa, i tego nie wiemy, kiedy ją Platon napisał. Wilamowitz von Moellendorff, wielki znawca Platona, wierzy, że ten dialog wiąże się z otwarciem szkoły, a zarazem i towarzystwa filozoficznego, które Platon założył w Atenach, w Gajach Akademosa. Dialog miał jakoby zachęcać mieszczan ateńskich, żeby synów do szkoły Platona wpisywali, bo tylko w niej wyrosną na dzielnych ludzi, na ludzi „naprawdę lepszych”. Tym się mają tłumaczyć ukłony w stronę nieoświeconego tłumu ateńskiego i jego przywódców, czego się niektórzy dopatrują w ostatniej części dialogu. Że się ich dopatrują, temu może i Platon sam jest winien. Jego ironia nie dla każdego jest przejrzysta. Niech więc czytelnik sam oceni ten uśmiech autora, który prześwietla całą rozmowę, i sam niech powie, czy się Platon tym uśmiechem umizga do tych, którzy wpływy mają w państwie, czy też im politowanie wyraża pod pozorem ukłonów.
+
+Menon to bogaty człowiek, stale mieszkający w Tesalii, w Larysie. W Atenach jest gościem, a otacza go wiele służby. Był uczniem sławnego Gorgiasza — jednak chętnie i przyjaźnie rozmawia z Sokratesem. Po przodkach łączy go dziedziczny stosunek przyjaźni z królem perskim. Taki stosunek polegał w Grecji na tym, że każdy z dwóch ludzi, związanych tym węzłem, stale zajeżdżał przy sposobności do domu drugiego przyjaciela i bawił w nim jak u siebie. Obaj zostawali pod opieką Zeusa Kseniosa i nazywali się ksenoi, co się niekoniecznie pokrywa z naszym wyrazem: przyjaciel. Menon należał też do tych pięciu wodzów, którzy na żołdzie Cyrusa Młodszego walczyli później pod Kunaksą i tam wpadli w niewolę perską. Jego kolegów Persowie stracili, jemu życie darowano — może mu pomógł ten dawny stosunek przyjaźni z królem perskim; nie wrócił w każdym razie, a w Atenach źle o nim mówiono.
+
+Tu w dialogu nie zaznacza się szczególnie jego indywidualność.
+
+Drugi uczestnik rozmowy to Anytos, syn Antemiona, który się nie wiadomo skąd zjawia obok Sokratesa i Menona, i od razu bierze udział w rozważaniach. Sokrates jeszcze niby to nie wie, że to jeden z trzech jego przyszłych oskarżycieli. Że Platon to wie, to widać. Syn szewca i garbarza, który się na skórach dorobił majątku, jest zaciekłym wrogiem „uczonych”, czyli sofistów, z którymi nie miał wprawdzie nigdy do czynienia i nawet nie chce ich poznawać bezpośrednio — nienawiść jednak żywi do nich skrajną. Zwykła i dziś tępa nienawiść ludzi nieoświeconych do tzw. wolnomyślicieli. Anytos uważa się sam za jednego z wielkich ludzi — ma przecież wysokie posady rządowe i nie znosi, żeby się przy nim wyrażać krytycznie o wielkościach narodowych. To go drażni tak, że jego słowa adresowane do Sokratesa brzmią w pewnej chwili jak pogróżka. Jesteśmy świadkami momentu, w którym sobie Sokrates naraża swego przyszłego oskarżyciela.
+
+Główne zagadnienie dialogu dotyczy sprawy uczenia się dzielności. Czy można się wyuczać dzielności, czy też trzeba się dzielnym urodzić, czy może staje się człowiek takim od przypadku i nie wiadomo skąd, czemu i jak. Pytanie wtedy doniosłe. Tylu przecież wędrownych i osiadłych uczonych zajmowało się wtedy uczeniem dzielności. Platon też był jednym z nich. Nie śpieszy się z odpowiedzią na to zagadnienie. Zależy mu widocznie nie tak bardzo na odpowiedzi samej, ile na metodycznej stronie rozważania. Rozmowa jest swobodna, przy sposobności Sokrates przećwicza Menona w definiowaniu, wskazuje na różnych przykładach, jak nie należy odpowiadać na pytania o definicję, odrzuca definicje próbne, demonstruje swą heurystyczną metodę wydobywania twierdzeń, do których uczeń jest zdolny, jeżeli go należycie prowadzić i skłaniać do spostrzeżeń i przypomnień, rozbudza Menona i czytelnika, żeby zaczął sam przytomnie myśleć o zagadnieniu, które roztrząsają, pokazuje trudności, wykorzenia frazesy — niech i czytelnik zobaczy trudności z zagadnieniem związane, a nie powtarza na ten temat byle czego. Cały dialog zmierza przy tym bodaj że do jednego celu: pokazać doniosłość jasnego myślenia — to znaczy: wolnego od sprzeczności — nie tylko dla intelektualnej, ale i dla moralnej wartości człowieka. Uczcie się, myślcie, starajcie się być mądrzy, a będziecie naprawdę lepsi. Myśleć przytomnie nie jest tak trudno, jak by się zdawało, a zawsze warto. Można być porządnym a tępym, ciemnym człowiekiem i bez tego, to prawda, można nawet wielkie stanowiska w państwie zdobywać i pieniądze, i sławę, ale to wszystko mało warte, jeśli przypadnie w udziale człowiekowi ciemnemu.
+
+To wygląda na główny sens i morał dialogu.
+
+
+
+
+Menon
+
+
+Osoby dialogu:
+ * Sokrates
+ * Menon
+ * Chłopak, służący u Menona
+ * Anytos
+
+
+Menon: Możesz mi powiedzieć, Sokratesie, czy dzielności można się nauczyć, czy też nauczyć się jej nie można, ale ją ćwiczeniem można zdobyć? Czy też ani ćwiczeniem, ani nauką się jej nie zdobywa, tylko ona przysługuje ludziom z natury albo w innym jakimś sposobie?
+
+Sokrates: Menonie, dawniej Tesalczycy sławni byli między Hellenami i podziwiano ich za ich jazdę konną i za bogactwo, a teraz, mam wrażenie, także i za mądrość. Nie mniej i współobywateli twego przyjaciela Arystypa, mieszkańców Larysy. Wszystko to zawdzięczamy Gorgiaszowi; on przecież przybył do miasta i zaraz się w nim kochać zaczęli pierwsi z Aleuadów; do nich należy i ten, który się tobą interesuje, Arystyp, a innych znakomitych Tesalczyków zyskał sobie też. Udzielił się wam jego obyczaj, żeby bez obawy i z szerokim gestem odpowiadać, jeżeli ktoś o coś zapyta, jak przystało tym, którzy wiedzą. Przecież i on pozwalał, żeby mu pytania zadawał każdy z Hellenów, który by tylko chciał. I nikomu odpowiedzi nie odmawiał.
+
+Tu u nas, kochany Menonie, coś przeciwnego zachodzi. Jakby jakaś posucha na mądrość, i bodaj czy się mądrość z naszych stron do was nie przenosi. Jeżeli zechcesz kogoś z tutejszych ludzi w ten sposób zapytać, to każdy się na pewno zacznie śmiać i powie: Gościu z obcych stron, tobie się chyba wydaje, że ja jestem jakiś szczęśliwiec i wiem coś o dzielności — czy się ją nauką zdobywa, czy w jakiś inny sposób. A mnie tak daleko do wiedzy o tym, czy się jej nauczyć można, czy nie można, że ja nawet tego nie wiem, czym w ogóle jest dzielność.
+
+II. Otóż i ze mną tak samo, Menonie. Podobnie jak moi współobywatele mam duży brak na tym punkcie i sam na siebie się zżymam, że o dzielności w ogóle nic nie wiem; a jak o czymś nie wiem, czym to jest, to jakże bym mógł wiedzieć, jakie to jest? Czy to wydaje ci się rzeczą możliwą, żeby ktoś, kto nie zna Menona, nie wie w ogóle, kto to jest, wiedział, czy on jest piękny, czy bogaty, czy szlachetny, czy wprost przeciwnie? Uważasz, że to możliwe?
+
+Menon: Mnie się tak nie wydaje. Ale czy ty, Sokratesie, naprawdę nie wiesz tego, co to jest dzielność, i mamy to o tobie u nas w domu opowiedzieć?
+
+Sokrates: Nie tylko to, przyjacielu, opowiedz, ale i to, żem nawet na kogoś innego nie natrafił, który by to wiedział; tak mi się wydaje.
+
+Menon: Jak to? Na Gorgiaszaś nie natrafił, kiedy on tu był?
+
+Sokrates: Natrafiłem.
+
+Menon: A nie wydawało ci się, że on wie?
+
+Sokrates: Nie bardzo dobrą mam pamięć, Menonie, tak że nie potrafię powiedzieć w tej chwili, jak mi się wtedy wydawało. Może być, że on wie. A ty wiesz, co on mówił? Więc mi przypomnij, jak mówił. A jeżeli chcesz, powiedz sam. Przecież jesteś tego samego zdania, co on.
+
+Menon: Ja tak.
+
+Sokrates: To jemu dajmy pokój. Przecież go i tak nie ma. A ty sam, na bogów, Menonie, czym — powiadasz — jest dzielność? Powiedz, nie trzymaj pod korcem! Abym ja ten błogosławiony błąd popełnił, kiedy się pokaże, że ty to wiesz i Gorgiasz także, a ja powiedziałem, żem nigdy nie spotkał takiego, co to wie.
+
+III. Menon: Nietrudno powiedzieć, Sokratesie. Naprzód, jeżeli ci chodzi o dzielność mężczyzny, łatwo powiedzieć, że dzielność mężczyzny polega na tym, aby być zdolnym do zajmowania się sprawami państwa. I żeby przy tym zajęciu przyjaciołom wyświadczać przysługi, a nieprzyjaciołom szkodzić, a samemu się strzec, żeby cię szkoda nie spotkała. A jeżeli chcesz mówić o dzielności kobiety, to nietrudno ją opisać: kobieta powinna dobrze gospodarować, dbać o wszystko w domu i być poddaną mężowi. A inna znowu jest dzielność dziecka, inna rodzaju żeńskiego, inna męskiego, inna starszego człowieka, inna wolnego, a inna niewolnika. I innych wiele dzielności istnieje, więc to nie jest żaden kłopot powiedzieć o dzielności, czym jest. Bo zależnie od czynności i od wieku życia każdy z nas posiada jakąś dzielność potrzebną w każdej sprawie. I tak samo, mam wrażenie, Sokratesie, ma się rzecz z wadami człowieka.
+
+Sokrates: Wiesz, Menonie, mnie bodaj że wielkie szczęście spotkało; jednej tylko szukałem dzielności, a tu ich cały rój koło ciebie znajduję. A tylko, Menonie, żeby już przy tym samym obrazie zostać, przy tym roju, to gdybym ja ciebie pytał o istotę pszczoły, czym ona jest, a ty byś mi powiedział, że ich jest dużo i są rozmaite, co byś mi wtedy odpowiedział na pytanie: czy ty powiadasz, że one są liczne i rozmaite i tym się od siebie różnią, tym właśnie, że są pszczołami, czy też tym właśnie one wcale się nie różnią, ale czymś innym, jak na przykład pięknością albo wielkością, albo czymś innym w tym rodzaju? Powiedz, co byś odpowiedział na to pytanie?
+
+Menon: Ja bym odpowiedział, że tym się wcale nie różnią jedna od drugiej, że są pszczołami.
+
+Sokrates: No, a gdybym potem powiedział: To właśnie mi podaj, Menonie, czym one się wcale nie różnią, tylko są przez to jednym i tym samym. Czym jest to właśnie, powiedz! Umiałbyś mi chyba odpowiedzieć?
+
+Menon: Tak.
+
+IV. Sokrates: Tak samo ma się rzecz i z różnymi rodzajami dzielności; chociaż ich jest wiele i są różnorodne, mają wszystkie jakąś jedną postać, przez którą są zaletami. Pięknie by więc było, żeby zapytany przyjrzał się temu i wyjaśnił pytającemu, czym właśnie jest dzielność. Czy też nie rozumiesz, co mam na myśli?
+
+Menon: Zdaje mi się, że rozumiem, ale tego, o co mnie pytasz, nie mam pod ręką tak, jak bym tego pragnął.
+
+Sokrates: A czy ty, Menonie, tylko o dzielności masz takie zdanie, że inna przysługuje mężczyźnie, inna kobiecie i tym tam innym, czy też i o zdrowiu, i o wielkości, i o sile myślisz sobie tak samo? Czy inne ci się wydaje zdrowie mężczyzny, a inne kobiety? Czy też wszędzie jest ta sama postać, gdzie tylko jest zdrowie, czy to w mężczyźnie, czy w czymkolwiek innym?
+
+Menon: Wydaje mi się, że zdrowie mężczyzny i zdrowie kobiety to jedno i to samo.
+
+Sokrates: Nieprawdaż, i wielkość, i siła tak samo? Jeśliby silna była kobieta, to tą samą postacią i tą samą siłą będzie silna? „Tą samą” to znaczy w moim rozumieniu, że siła niczym się nie różni ze względu na istotę siły, niezależnie od tego, czy w mężczyźnie wystąpi, czy w kobiecie; czy też wydaje ci się, że się czymś różni?
+
+Menon: Mnie się nie wydaje.
+
+Sokrates: A dzielność będzie się czymś różniła ze względu na istotę dzielności, zależnie od tego, czy wystąpi w dziecku, czy w starcu, w kobiecie czy mężczyźnie?
+
+Menon: Mnie się jakoś wydaje, Sokratesie, że to wcale nie jest podobne do tych innych rzeczy.
+
+Sokrates: Cóż więc? Czy nie powiedziałeś, że dzielnością mężczyzny jest dobrze państwem rządzić, a kobiety — domem?
+
+Menon: Powiedziałem.
+
+Sokrates: A czy jest rzeczą możliwą rządzić dobrze państwem czy domem albo czymkolwiek innym inaczej, niż rządząc roztropnie i sprawiedliwie?
+
+Menon: Nie można.
+
+Sokrates: Nieprawdaż, gdyby się ludzie rządzili sprawiedliwie i roztropnie, toby się rządzili sprawiedliwością i roztropnością?
+
+Menon: Koniecznie.
+
+Sokrates: Bo jednego i tego samego przecież potrzebują oboje, jeżeli mają być dobrymi: zarówno kobieta, jak i mężczyzna.
+
+Menon: Zdaje się.
+
+Sokrates: Cóż więc? I chłopiec, i starzec, jeśliby byli nieopanowani i niesprawiedliwi, mogliby być w jakikolwiek sposób dobrzy?
+
+Menon: Przecież nie.
+
+Sokrates: A tylko jeśli będą roztropni i sprawiedliwi?
+
+Menon: Tak.
+
+Sokrates: A zatem wszyscy ludzie w ten sam sposób stają się dobrymi; tego samego bowiem dostępując, stają się tacy?
+
+Menon: Zdaje się.
+
+Sokrates: Przecieżby nie mogli być dobrymi w ten sposób, gdyby dzielność nie polegała na jednym i tym samym.
+
+Menon: Przecież nie.
+
+V. Sokrates: Skoro więc dzielność każdej jednostki jest jedna i ta sama, spróbuj powiedzieć i przypomnieć, za co ją uważa Gorgiasz, a ty razem z nim.
+
+Menon: A cóż innego jak nie to: być zdolnym do rządzenia ludźmi, jeżeli szukasz czegoś jednego we wszystkim.
+
+Sokrates: Szukam przecież. A czy i u dziecka dzielność na tym samym będzie polegała, Menonie, i u sługi, żeby być zdolnym do rządzenia panem?
+
+Menon: Nie bardzo mi się tak wydaje, Sokratesie.
+
+Sokrates: Nie wypada przecież, przyjacielu; a jeszcze i na to popatrz. Powiadasz: być zdolnym do panowania. A czy nie dodamy w tym miejscu słówka „sprawiedliwie”, a „niesprawiedliwie” to nie?
+
+Menon: Ja mam wrażenie; sprawiedliwość przecież, Sokratesie, to dzielność.
+
+Sokrates: Czy to jest dzielność, Menonie, czy pewna dzielność?
+
+Menon: Jak ty to mówisz?
+
+Sokrates: Podobnie jak o czymkolwiek innym. Tak na przykład, jeśli chcesz, o okrągłości powiedziałbym, że jest pewnym kształtem, a nie tak po prostu, że to jest kształt. A dlatego tak właśnie bym powiedział, że istnieją także inne kształty.
+
+Menon: Słusznie byś powiedział. Przecież i ja mówię, że istnieje nie tylko sprawiedliwość, ale inne dzielności też.
+
+Sokrates: Jakież to? Powiedz! Tak, jak ja bym tobie inne kształty wymienił, gdybyś chciał, tak i ty mi wymień inne dzielności.
+
+Menon: Zatem wydaje mi się, że dzielnością jest męstwo i panowanie nad sobą, i mądrość, i szlachetność, i inne są rozmaite.
+
+Sokrates: Znowu ta sama bieda, Menonie. Znowuśmy dużo dzielności znaleźli, a szukaliśmy jednej; trochę inaczej niż przed chwilą. A tej jednej, która w nich wszystkich tkwi, nie możemy znaleźć.
+
+VI. Menon: Bo jakoś nie mogę, Sokratesie, tak jak ty szukasz, jednej dzielności uchwycić we wszystkich, jak się robiło w tamtych innych przykładach.
+
+Sokrates: Nic dziwnego; ale ja się będę starał, jeżeli potrafię, żebyśmy do tego jakoś podeszli. Rozumiesz przecież chyba, że tak samo rzecz się ma ze wszystkim; jeżeliby cię ktoś znowu zapytał o to, co ja przed chwilą mówiłem, czym jest kształt, Menonie, i ty byś mu odpowiedział, że to okrągłość, a on by cię zapytał o to, co ja, czy okrągłość jest kształtem, czy też pewnym kształtem, powiedziałbyś mu przecież z pewnością, że pewnym kształtem.
+
+Menon: Tak jest.
+
+Sokrates: Nieprawdaż, dlatego że istnieją i inne kształty?
+
+Menon: Tak.
+
+Sokrates: A gdyby cię w dodatku pytał, jakie kształty, tobyś powiedział?
+
+Menon: Powiedziałbym.
+
+Sokrates: I znowu, gdyby ktoś ciebie o barwę tak samo zapytywał, czym jest, a ty byś mówił, że to biel, a potem by pytający podchwycił: czy biel jest barwą, czy pewną barwą? — powiedziałbyś z pewnością, że pewną barwą, dlatego że bywają i inne barwy?
+
+Menon: Tak bym powiedział.
+
+Sokrates: A gdyby ci kazał wymieniać inne barwy, wymieniłbyś też inne, które nie mniej są barwami niż biel.
+
+Menon: Tak jest.
+
+Sokrates: Gdyby więc on tak, jak ja, szedł śladem tej myśli i powiedziałby: wciąż dochodzimy do jakiejś wielości, ale ja tak nie chcę, tylko, skoro tę wielość jakimś jednym imieniem nazywasz i każdy jej składnik nazywasz kształtem, choć są w nich i takie same, i przeciwne sobie, to powiedz, czym jest to coś, co obejmuje sobą i okrągłość, i płaskość, co ty nazywasz wyrazem „kształt” i mówisz, że okrągłość jest kształtem równie dobrze jak płaskość. Czy nie tak mówisz?
+
+Menon: Tak jest.
+
+Sokrates: Zatem gdybyś tak twierdził, wtedy ani o okrągłości nie mówisz, że jest albo okrągłością, albo płaskością, ani o płaskości nie mówisz, że jest albo płaskością, albo okrągłością?
+
+Menon: Nie mówię przecież, Sokratesie.
+
+Sokrates: Ale że kształtem jest, to mówisz równie dobrze o okrągłości, jak i o płaskości, i nie mówisz tego bardziej o jednym niż o drugim.
+
+Menon: Prawdę mówisz.
+
+VII. Sokrates: Więc czym jest to, co ma tę nazwę „kształt”, spróbuj powiedzieć! Więc gdybyś komuś, kto tak pyta albo o kształt, albo o barwę powiedział: Ależ, człowiecze, ja całkiem nie rozumiem, czego ty chcesz, ani nie wiem, o co chodzi — z pewnością by się zdziwił i powiedział: Nie rozumiesz, że ja szukam tego, co w tych wszystkich rzeczach jest jednym i tym samym. A czy i w tych rzeczach nie potrafiłbyś powiedzieć, Menonie, gdyby cię ktoś zapytał: Co właściwie jest w okrągłości i w płaskości, i w innych takich rzeczach, które kształtami nazywasz, co jest jednym i tym samym w nich wszystkich? Spróbuj to powiedzieć, abyś się przećwiczył do odpowiedzi w sprawie dzielności.
+
+Menon: Nie, ty, Sokratesie, powiedz.
+
+Sokrates: Chcesz, żebym to dla ciebie zrobił?
+
+Menon: Bardzo.
+
+Sokrates: A za to i ty mnie potem zechcesz powiedzieć coś o dzielności?
+
+Menon: Owszem.
+
+Sokrates: To trzeba się starać; warto przecież.
+
+Menon: Tak jest.
+
+Sokrates: A więc spróbujmy wytłumaczyć ci, co to jest kształt. Więc zobacz, czy przyjmiesz, że kształt jest tym oto: niech nam kształt będzie właśnie tym, co jedyne spośród wszystkiego, co istnieje, zawsze towarzyszy barwie. Wystarczy ci to? Czy chcesz jakoś inaczej? Ja bym był zadowolony, gdybyś mi chociażby tak określił dzielność.
+
+Menon: Ależ to naiwne, Sokratesie.
+
+Sokrates: Jak mówisz?
+
+Menon: Że tam kształt jest, ty mówisz, czymś takim, co zawsze towarzyszy barwie — niech ci będzie. Ale gdyby ktoś powiedział, że nie wie, co to barwa, to co byś myślał o swojej odpowiedzi?
+
+VIII. Sokrates: Że jest prawdziwa. Gdyby pytający był kimś spośród mędrców, którzy lubią dyskusje i spory, tobym dodał: ja powiedziałem swoje, a jeżeli nie mam słuszności, to twoja rzecz zabrać głos i zbijać. Ale jeżeliby się chciało rozmawiać po przyjacielsku, tak jak ja z tobą teraz, toby trzeba jakoś łagodniej odpowiadać; raczej tak, jak w zwyczajnej rozmowie. A charakter zwyczajnej rozmowy może na tym polega, żeby nie tylko dawać odpowiedzi prawdziwe, ale opierać się na tym, co zgodzi się przyjąć, jako rzecz znaną, uczestnik rozmowy. I ja tobie spróbuję tak odpowiedzieć. Powiedz mi: nazywasz coś końcem? Ja mam na myśli coś takiego jak kres, ostatek. Wszystko to uważam za jedno i to samo. Może by się z nami różnił Prodikos, ale ty z pewnością mówisz o niejednym, że się skończyło i ma kres. Ja właśnie to chcę powiedzieć, nic osobliwego.
+
+Menon: Owszem, mówię i zdaje mi się, że rozumiem, co masz na myśli.
+
+Sokrates: No cóż? Płaszczyzną nazywasz coś, a coś innego znowu bryłą, jak to te, w geometrii?
+
+Menon: Nazywam.
+
+Sokrates: A może jeszcze i przez to zrozumiesz, co ja nazywam kształtem. O każdym kształcie to mówię: dokąd bryła sięga, to jest kształt; wszystko to razem zbierając, powiedziałbym, że kształt to jest granica bryły.
+
+IX. Menon: A barwą co nazywasz, Sokratesie?
+
+Sokrates: Ty urwis jesteś, Menonie. Starszego człowieka fatygujesz, żeby ci odpowiedzi dawał, a sam nie chcesz sobie przypomnieć i powiedzieć, co Gorgiasz nazywa dzielnością.
+
+Menon: Jak mi to powiesz, Sokratesie, to ja ci powiem tamto.
+
+Sokrates: Gdyby komuś nawet oczy zawiązać, poznałby, kiedy rozmawiasz, żeś piękny i że się w tobie kochają.
+
+Menon: Jak to?
+
+Sokrates: Bo nic, tylko rozkazujesz w rozmowie — to pieszczochy tak robią, w tyranów się bawią, póki im wdzięki służą. A tyś z pewnością mnie przejrzał na wskroś, że mam słabość do ludzi pięknych. Zrobię ci tę przyjemność i będę ci odpowiadał.
+
+Menon: No to zrób mi tę przyjemność.
+
+Sokrates: Jeżeli chcesz, to ci będę odpowiadał według Gorgiasza, tak, abyś mógł jak najlepiej nadążyć.
+
+Menon: Chcę, jakżeby nie?
+
+Sokrates: Nieprawdaż, mówicie o jakichś tam emanacjach, które rzeczy wysyłają, według Empedoklesa?
+
+Menon: O tak.
+
+Sokrates: I o otworach, przez które i w które te emanacje idą?
+
+Menon: Tak jest.
+
+Sokrates: Nieprawdaż i widzeniem coś nazywasz?
+
+Menon: Nazywam.
+
+Sokrates: Z tych słów się domyśl, co ja mam na myśli, powiedział Pindar. Albowiem barwa — to emanacja kształtów, współmierna wzrokowi i spostrzegalna.
+
+Menon: Ach, Sokratesie, mam wrażenie, żeś znakomicie sformułował tę odpowiedź.
+
+Sokrates: A może to i naiwnie powiedziane. Ale równocześnie, sądzę, rozumiesz i to, że mógłbyś na tej podstawie powiedzieć i głos czym jest, i woń, i wiele innych rzeczy tego rodzaju.
+
+Menon: Oczywiście.
+
+Sokrates: Uroczyście brzmi ta odpowiedź, Menonie, i dlatego podoba ci się więcej niż tamta, dotycząca kształtu.
+
+Menon: Mnie bardzo.
+
+Sokrates: Tylko nie ma sposobu, synu Aleksidemosa, żebym ja w to uwierzył; tamta poprzednia jednak lepsza. Myślę zaś, że i ty nie będziesz innego zdania, chyba że, jakeś wczoraj mówił, musisz odejść przed nabożeństwami, ale gdybyś tak został, gotóweś zostać wtajemniczony.
+
+Menon: Ja bym chętnie został, Sokratesie, gdybyś mi wiele takich rzeczy powiedział.
+
+X. Sokrates: Ach, dobrych chęci, tych mi na pewno nie zabraknie i ze względu na ciebie, i ze względu na siebie samego, żeby mówić takie rzeczy. Tylko boję się, że może nie potrafię wiele na ten temat powiedzieć.
+
+Więc, proszę cię, spróbuj i ty mnie dotrzymać obietnicy i powiedzieć o dzielności, czym ona jest w ogóle. Przestań robić z jednego wiele, jak się żartem mówi o tych, co to rzecz lubią mleć na drobiazgi. Zostaw tę dzielność całą i zdrową, i powiedz, czym ona jest. Przykłady dostałeś przecież ode mnie.
+
+Menon: Wydaje mi się więc, Sokratesie, że dzielność polega na tym, jak to mówi poeta, żeby się cieszyć tym, co piękne, i mieć moc. I ja to nazywam dzielnością, żeby ten, kto pragnie rzeczy pięknych, mógł je zdobywać.
+
+Sokrates: Czy mówisz, że ten, kto pragnie rzeczy pięknych, pragnie tego, co dobre?
+
+Menon: Ze wszech miar.
+
+Sokrates: Czy dlatego, że są ludzie, którzy pragną rzeczy złych, a inni znowu rzeczy dobrych? Nie wydaje ci się, przyjacielu, żeby wszyscy pragnęli rzeczy dobrych?
+
+Menon: Mnie się nie wydaje.
+
+Sokrates: A więc niektórzy rzeczy złych?
+
+Menon: Tak.
+
+Sokrates: Oni sądzą, że rzeczy złe są dobre — tak mówisz — czy też, choć wiedzą, że one są złe, jednak ich pragną?
+
+Menon: Wydaje mi się jedno i drugie.
+
+Sokrates: Czy doprawdy wydaje ci się, Menonie, że ktoś wie, że zło jest złem, a pragnie go mimo to?
+
+Menon: Naturalnie.
+
+Sokrates: O co chodzi w pragnieniu? Żeby coś mieć?
+
+Menon: Żeby mieć. Cóż innego?
+
+Sokrates: Czy ten, który pragnie zła, sądzi, że zło przynosi pożytek temu, który by je miał, czy też on rozpoznaje, że zło szkodzi temu, który je ma?
+
+Menon: Niektórzy ludzie sądzą, że zło przynosi pożytek, a są i tacy, którzy wiedzą o tym, że ono szkodzi.
+
+Sokrates: A czy sądzisz, że rozpoznają zło i wiedzą, że ono jest złem, ci, którzy sądzą, że ono przynosi pożytek?
+
+Menon: Nie bardzo mi się to wydaje.
+
+Sokrates: Więc jasna rzecz, że ci ludzie nie pragną zła — ci, którzy go nie rozpoznają — tylko pragną tych rzeczy, które brali za dobre, chociaż one są złe; tak że ci, którzy ich nie rozpoznają i sądzą, że one są dobre, jasna rzecz, że pragną rzeczy dobrych. Czy nie?
+
+Menon: Zdaje się, że ci ludzie tak.
+
+Sokrates: Cóż więc? Ci, którzy pragną rzeczy złych, jak ty powiadasz, i sądzą, że zło szkodzi temu, który je ma, orientują się chyba w tym, że sami stąd szkody poniosą?
+
+Menon: Oczywiście.
+
+Sokrates: A o tych, co szkody ponoszą, oni nie myślą, że to są nędznicy, o ile szkody ponoszą?
+
+Menon: I to oczywiste.
+
+Sokrates: A nędznicy to nie są ludzie nieszczęśliwi?
+
+Menon: Sądzę, że tak.
+
+Sokrates: A czy istnieje człowiek, który pragnie być nędznikiem i nieszczęśliwcem?
+
+Menon: Nie sądzę, Sokratesie.
+
+Sokrates: A zatem złego nie chce nikt, Menonie, jeżeli nie chce sam być taki. Bo cóż innego znaczy być nędznikiem, jak nie: pragnąć rzeczy złych i osiągać je?
+
+Menon: Zdaje się, że prawdę mówisz, Sokratesie, i nikt nie pragnie zła.
+
+XI. Sokrates: A nieprawdaż, w tej chwili przecież mówiłeś, że dzielność polega na tym, żeby chcieć tego, co dobre, i móc?
+
+Menon: Powiedziałem tak.
+
+Sokrates: Nieprawdaż, wedle tego wywodu to chcenie przysługuje wszystkim i pod tym względem wcale nie jest jeden od drugiego lepszy?
+
+Menon: Zdaje się.
+
+Sokrates: Zatem jasna rzecz, że jeżeli jest lepszy człowiek od drugiego, to musi być lepszy ze względu na możność.
+
+Menon: Oczywiście.
+
+Sokrates: Więc bodaj że, według twego zdania, dzielność będzie to moc przysparzania dóbr.
+
+Menon: Ze wszech miar, Sokratesie, wydaje mi się, że tak się rzecz ma, jak ty w tej chwili przyjmujesz.
+
+Sokrates: Rozpatrzmy więc i to, czy prawdę mówisz. Bo może być, że masz rację. Mówisz, że dzielność to jest zdolność do przysparzania dóbr?
+
+Menon: Ja mówię.
+
+Sokrates: A dobrami nazywasz, czy nie na przykład zdrowie i bogactwo, i zdobywanie złota i srebra, powiedziałbym, i zaszczytów w państwie, i rządów? Chyba nie jakieś tam inne rzeczy masz na myśli jako dobra, tylko takie właśnie?
+
+Menon: Nie, tylko wszystkie tego rodzaju rzeczy mam na myśli.
+
+Sokrates: No dobrze. Zatem dzielność to zdobywanie złota i srebra, jak powiada Menon, Wielkiego Króla przyjaciel z dziada pradziada. A czy dodasz coś do tego gromadzenia, Menonie, na przykład to, żeby sprawiedliwie i zbożnie, czy też nic ci na tym nie zależy, ale gdyby ktoś nawet i niesprawiedliwie te rzeczy gromadził, ty jednak to nazwiesz dzielnością?
+
+Menon: Przecież nie, Sokratesie, tylko łotrostwem.
+
+Sokrates: Przecież ze wszech miar potrzeba — tak się wydaje — żeby przy tym gromadzeniu była sprawiedliwość albo panowanie nad sobą, albo zbożność, albo inna jakaś cząstka dzielności. A jeśli nie, to nie będzie to dzielność, choćby wydobywała dobra.
+
+Menon: Jakżeby bez tych rzeczy dzielność mogła istnieć?
+
+Sokrates: A nie zdobywać złota ani srebra, jeśliby to nie było sprawiedliwe, ani dla siebie samego, ani dla kogoś innego, to nie jest dzielność i to właśnie jest bieda z nędzą?
+
+Menon: Zdaje się.
+
+Sokrates: Jeśli więc o takie dobra chodzi, to samo nagromadzenie ich wcale nie będzie w wyższym stopniu znamieniem dzielności niż ich brak. Tylko zdaje się, że co się przy sprawiedliwości robi, to będzie dzielnością, a co bez tego wszystkiego — łotrostwem.
+
+Menon: Wydaje mi się, że to oczywiste, co mówisz.
+
+XII. Sokrates: Nieprawdaż, każdą z tych rzeczy przed chwilą nazywaliśmy cząstką dzielności: i sprawiedliwość, i panowanie nad sobą, i wszystkie inne tego rodzaju.
+
+Menon: Tak.
+
+Sokrates: Zatem ty, Menonie, żartujesz sobie ze mnie?
+
+Menon: Cóż znowu, Sokratesie?
+
+Sokrates: Bo kiedym cię przed chwilą prosił, abyś nie łamał na kawałki i nie mieniał na drobne dzielności, i dałem ci przykłady, wedle których należałoby odpowiadać, tyś sobie to zlekceważył i mówisz mi, że dzielność polega na tym, żeby móc dobra gromadzić przy sprawiedliwości; a to powiadasz, jest cząstka dzielności?
+
+Menon: Powiadam.
+
+Sokrates: Nieprawdaż, wynika z tego, co przyznajesz, że dzielnością jest działać wedle pewnej cząstki dzielności, cokolwiek by się robiło, bo przecież sprawiedliwość uważasz za cząstkę dzielności i każdą z tych tak samo.
+
+Menon: Więc co z tego?
+
+Sokrates: Ja to mam na myśli, że kiedym cię prosił, abyś mówił o dzielności w ogóle, tyś wcale nie powiedział, czym ona jest, a mówisz, że dzielnością jest każda działalność, byleby dokonywana przy pewnej cząstce dzielności — jak gdybyś już powiedział, czym jest dzielność w ogóle, i jak bym już miał to rozumieć, choćbyś ty ją mieniał na drobne cząstki. Więc mam wrażenie, że potrzeba ci na nowo tego samego zapytania, kochany Menonie: czym jest dzielność, skoro dzielnością ma być wszelka działalność przy sprawiedliwości. Czy nie uważasz, że potrzeba znowu tego samego zapytania; czy ty myślisz, że ktoś może wiedzieć, czym jest cząstka dzielności, jeżeli dzielności samej nie zna?
+
+Menon: Nie zdaje mi się.
+
+Sokrates: Więc jeżeli pamiętasz, że kiedym ja ci dał odpowiedź w sprawie kształtu, odrzuciliśmy gdzieś taką odpowiedź, dlatego że w niej była próba odpowiadania za pomocą czegoś, czego się dopiero szukało, a jeszcze na to nie było zgody.
+
+Menon: I słusznieśmy odrzucili, Sokratesie.
+
+Sokrates: Więc niech się i tobie, mój złoty, nie zdaje, że kiedy się dopiero szuka dzielności całej, czym ona jest, ty potrafisz ją komukolwiek wyjaśnić, podając w odpowiedzi jej cząstki albo cokolwiek innego w ten sam sposób mówiąc. Przecież znowu będzie potrzeba tego samego zapytania, że czym niby ma być dzielność, kiedy ty mówisz to, co mówisz. Czy masz wrażenie, że nie mówię do rzeczy?
+
+Menon: Mnie się przynajmniej wydaje, że słusznie mówisz.
+
+XIII. Sokrates: To odpowiadaj na nowo, od początku. Co ty nazywasz dzielnością, i ty, i twój przyjaciel?
+
+Menon: Sokratesie, słyszałem ci ja jeszcze, zanimem cię spotkał, że ty nic, tylko sam wciąż nic nie wiesz i nic nie masz, i drugich też w kłopot i w biedę wprowadzasz. I teraz też, mam wrażenie, czary na mnie rzucasz i duru jakiegoś mi zadajesz, i po prostu czarodziejskie nade mną odprawiasz praktyki, tak żem się cały kłopotem i niewiedzą napełnił. Ty mi w ogóle wyglądasz, jeżeli wolno nieco zażartować, zupełnie tak, i z wejrzenia, i pod innymi względami, jak ta płaska drętwa morska. Ona też zawsze tak: kiedy się kto do niej zbliży i dotknie, zaraz go w odrętwienie wprawia. Mam wrażenie, żeś ty też w tej chwili coś takiego mi zrobił, żem zdrętwiał. Doprawdy, mnie przynajmniej i dusza, i usta całkiem zdrętwiały; nie mam nic, co bym ci dał w odpowiedzi. A przecież ja tysiąc razy tyle myśli wypowiadałem o dzielności, i to przed wieloma ludźmi, i bardzo dobrze — tak mi się przynajmniej samemu wydawało. A w tej chwili w ogóle nie potrafię powiedzieć, czym ona jest. Zdaje mi się, że ty słusznie robisz, jeżeli nie wyjeżdżasz stąd ani morzem, ani lądem. Bo gdybyś takie rzeczy robił w innym państwie, jako człowiek obcy, prędko by cię tam przymknęli jako czarownika.
+
+Sokrates: Ty wielka szelma jesteś, Menonie, i o mały włos, a nabrałbyś mnie na fundusz.
+
+Menon: Co znowu, Sokratesie?
+
+Sokrates: Ja wiem, dlaczegoś ty mnie tak ujął przenośnie.
+
+Menon: Dlaczegóż to, myślisz?
+
+Sokrates: Abym ja się tobie odwdzięczył przenośnią. Ja to wiem, że wszyscy ładni chłopcy lubią, żeby ich ujmować w obrazach. Ładny ładnie się musi odbijać w obrazie. Ale ja ci się nie odwdzięczę przenośnią. A ja sam, jeżeli ta drętwa, sama zdrętwiała, przez to i drugich w odrętwienie wprawia, to ja jestem do niej podobny. A jeżeli nie, to nie. Bo to nie tak, żebym ja sam miał dużo, a tylko drugich w biedę wprowadzał, tylko całkiem na pewno ja sam nic nie mam i przez to drugich też w biedę wciągam. Tak i teraz o tej dzielności — co to jest, ja sam nie wiem. A ty możeś przedtem wiedział, zanimeś się ze mną nie zetknął, a teraz jesteś podobny do tego, co nie wie. Ale ja jednak chcę to razem z tobą rozpatrzyć i szukać razem, co to jest.
+
+XIV. Menon: I w jaki sposób będziesz razem szukał, Sokratesie, tego, o czym w ogóle nie wiesz, co to jest? Bo którą z tych rzeczy, o których nic nie wiesz, weźmiesz przed siebie i zaczniesz szukać? Przecież, gdybyś nawet w sam raz na nią natrafił, to jak będziesz wiedział, że to jest właśnie to, czegoś nie znał?
+
+Sokrates: Ja rozumiem, co ty chcesz powiedzieć, Menonie. Widzisz, jaką ty sporną myśl wprowadzasz, że nie może człowiek szukać ani tego, co zna, ani tego, czego nie zna. Bo jak zna, to przecież nie będzie szukał. Już to zna. Takiemu nie trzeba dopiero szukać. Ani tego, czego nie zna. Bo wtedy nie wie tego nawet, czego ma szukać.
+
+Menon: Nieprawdaż, to dobrze powiedziane — ta myśl, Sokratesie, nie zdaje ci się?
+
+Sokrates: Mnie przynajmniej nie.
+
+Menon: Możesz powiedzieć, dlaczego, z jakiego względu?
+
+Sokrates: Mogę, bom słyszał mężów i kobiety mądrych w dziedzinie boskich spraw.
+
+Menon: Kiedy jaką myśl wypowiadali?
+
+Sokrates: Prawdziwą, mam wrażenie, i piękną.
+
+Menon: Jakąż to myśl i kto to powiada?
+
+Sokrates: Ci, co to mówią, do kapłanów należą i kapłanek, którym zależy na tym, żeby umieć zdawać sprawę z tego, co robią. A Pindar też to powiada i wielu innych poetów, w których bóg mieszka. Oto co oni mówią; uważaj tylko, czy ci się wyda, że mówią prawdę. Powiadają, że dusza ludzka jest nieśmiertelna i raz kończy — to się nazywa konaniem, a raz się znowu odradza, i nie ginie nigdy. I dlatego trzeba życie jak najzbożniej przeżyć.
+
+
+Bo, którzy u Persefony karę za dawne cierpienia
+Odbędą, tych ona dusze na ziemskie wędrówki
+W dziewiątym roku wysyła znowu na górę.
+Z nich idą królowie czcigodni,
+Mocarne ciała i głowy mądrością potężne,
+Wielcy mężowie stąd rosną i tych potem ludzie
+Bohaterami zwać będą.
+
+XV. Skoro więc dusza jest nieśmiertelna i nie raz jeden się rodzi, i już widziała to, co tu, i to, co w Hadesie wszystko, to nie ma takich rzeczy, których by nie umiała. Tak że nic dziwnego, że i o dzielności, i o innych rzeczach przypomnieć sobie potrafi to, co przecież przedtem wiedziała. A że jest całej przyrodzie pokrewna i wyuczyła się wszystkiego, więc nic nie przeszkadza, żeby przypomniawszy sobie jeden jakiś szczegół — a to ludzie nazywają uczeniem się — wszystko inne człowiek sam odnajdywał, jeżeli się trafi mężny, a nie zmęczy się i nie upadnie, szukając. Przecież szukanie i uczenie się to w ogóle jest przypominanie sobie.
+
+Nieprawdaż, nie trzeba wierzyć tamtej spornej myśli, bo ona by z nas próżniaków zrobiła — najchętniej słuchają jej ludzie leniwi — a ta znowu myśl pobudza nas do roboty i do badań. Ja wierzę, że ona jest prawdziwa, i dlatego chcę z tobą dochodzić, czym jest dzielność.
+
+Menon: Tak, Sokratesie. Ale jak ty to myślisz, że wcale nie uczymy się, ale to, co nazywamy uczeniem się, jest przypominaniem sobie? Czy możesz mnie nauczyć, że to tak jest?
+
+Sokrates: Ja przed chwilą mówiłem, Menonie, żeś ty jest wielki filut. W tej chwili też pytasz mnie, czy potrafię cię nauczyć czegoś — ja, który mówię, że nie istnieje uczenie, tylko przypominanie — aby się natychmiast pokazało, że sprzeciwiam się sam sobie.
+
+Menon: Nie, na Zeusa, Sokratesie, nie w tej myśli to powiedziałem, tylko tak, ze zwyczaju. Więc jeżeli jakoś możesz mi tego dowieść, że tak się rzecz ma, jak mówisz, to dowiedź.
+
+Sokrates: To nie jest łatwa rzecz, ale jednak chcę się wziąć do tego przez wzgląd na ciebie. Tylko mi zawołaj spośród tej twojej tutaj służby jednego, którego chcesz, abym ci na nim przeprowadził dowód na pokazie.
+
+Menon: Doskonale! Chodź no tu!
+
+Sokrates: To Hellen jest i mówi po helleńsku?
+
+Menon: Ależ doskonale; u mnie w domu się urodził.
+
+Sokrates: To uważaj, co ci się wyda: że on sobie przypomina, czy też że się uczy ode mnie.
+
+Menon: Już ja będę uważał.
+
+XVI. Sokrates: Powiedz mi, chłopcze, ty wiesz, że tak wygląda czworobok?
+
+Chłopak: Tak, wiem.
+
+Sokrates: Więc to jest czworobok, który ma te wszystkie boki równe, a jest ich cztery?
+
+Chłopak: Tak jest.
+
+Sokrates: A czy i te linie przez środek biegnące nie są w nim równe?
+
+Chłopak: Tak.
+
+Sokrates: Nieprawdaż, taka powierzchnia może być i większa, i mniejsza?
+
+Chłopak: Tak jest.
+
+Sokrates: Więc gdyby ten bok miał dwie stopy i ten dwie, to ile stóp miałaby całość? Tak sobie to rozpatrz: gdyby ten miał dwie stopy, a tamten tylko jedną stopę, to prawda, że powierzchnia wynosiłaby: raz dwie stopy.
+
+Chłopak: Tak jest.
+
+Sokrates: A skoro ma dwie stopy i tędy też, to nic innego, tylko całość będzie miała dwa razy po dwie stopy?
+
+Chłopak: Będzie miała.
+
+Sokrates: A więc dwa razy po dwie stopy?
+
+Chłopak: Tak.
+
+Sokrates: A ile to jest dwa razy po dwie stopy? Porachuj sobie i powiedz!
+
+Chłopak: Cztery, Sokratesie.
+
+Sokrates: Nieprawdaż, mogłaby też istnieć powierzchnia inna, dwa razy większa od tej, a zresztą taka sama, o czterech równych bokach, jak ta tutaj?
+
+Chłopak: Tak.
+
+Sokrates: A ile będzie miała stóp?
+
+Chłopak: Osiem.
+
+Sokrates: Proszę cię więc, spróbuj mi powiedzieć, jak też długi będzie każdy bok takiej powierzchni? Bo tej tutaj bok ma dwie stopy. Jakiż będzie bok tamtej, podwójnej?
+
+Chłopak: Widać przecież, Sokratesie, że to będzie bok dwa razy tak długi.
+
+Sokrates: Widzisz, Menonie, że ja go nic nie uczę, tylko pytam go o wszystko. I jemu się teraz zdaje, że wie, na jak długim boku stanie powierzchnia ośmiostopowa. Czy nie uważasz, że tak?
+
+Menon: Uważam.
+
+Sokrates: Więc on to wie?
+
+Menon: Jeszcze nie.
+
+Sokrates: A tylko mu się tak zdaje; dlatego że coś ma być podwojone.
+
+Menon: Tak.
+
+XVII. Sokrates: Ja widzę, że on sobie przypomina po kolei, tak jak trzeba. A ty powiedz mi: z dwa razy dłuższego boku, mówisz, zrobi się powierzchnia dwa razy większa? Ja mam na myśli nie taką z tej strony długą, a z tamtej krótką, tylko niech będzie z każdej strony równo, jak ta tutaj, a tylko dwa razy większa od tej: ośmiostopowa. Przypatrzże się, czy ci się jeszcze zdaje, że ona się zrobi z boku dwa razy dłuższego?
+
+Chłopak: Mnie się zdaje.
+
+Sokrates: Nieprawdaż, ten bok zrobi się dwa razy dłuższy od tego, jeżeli drugi taki sam dołożymy z tej strony?
+
+Chłopak: Tak jest.
+
+Sokrates: I na tym boku przedłużonym zrobi się, powiadasz, naprawdę powierzchnia ośmiostopowa, jeżeli powstaną cztery tak samo długie kreski?
+
+Chłopak: Tak.
+
+Sokrates: A to dorysujmy do niej inne tak, aby były cztery równe boki. Czy to by było to, co nazywasz powierzchnią ośmiostopową?
+
+Chłopak: Owszem, to.
+
+Sokrates: Nieprawdaż, w niej siedzą te cztery powierzchnie — każda równa tej tu, czterostopowej?
+
+Chłopak: Tak.
+
+Sokrates: Więc jak wielka ona się robi? Czy nie cztery razy tak duża?
+
+Chłopak: Jakżeby nie.
+
+Sokrates: Więc czy to jest dwa razy tak duże, skoro jest cztery razy tak wielkie?
+
+Chłopak: Nie, na Zeusa.
+
+Sokrates: A więc jest ile razy większe?
+
+Chłopak: Cztery razy większe.
+
+Sokrates: A zatem, chłopcze, z dwa razy większego boku utworzy się powierzchnia nie dwa razy, tylko cztery razy większa.
+
+Chłopak: Prawdę mówisz.
+
+Sokrates: Bo cztery razy cztery jest szesnaście. Czy nie?
+
+Chłopak: Tak.
+
+Sokrates: A ta ośmiostopowa na jak długim boku stanie? Nieprawdaż, na tym stoi cztery razy większa?
+
+Chłopak: Przyznaję.
+
+Sokrates: A czterostopowa na połówce tego boku tutaj?
+
+Chłopak: Tak.
+
+Sokrates: No dobrze, a ośmiostopowa czy nie będzie dwa razy większa niż ta, a o połowę mniejsza od tej?
+
+Chłopak: Owszem, tak.
+
+Sokrates: Czy nie powstanie więc na boku większym niż ten, a krótszym niż ta kreska? Czy nie tak?
+
+Chłopak: Mnie się tak zdaje.
+
+Sokrates: Dobrze, odpowiadaj tak, jak ci się wydaje. A więc mieliśmy jeden kwadrat dwustopowy, drugi czterostopowy.
+
+Chłopak: Tak.
+
+Sokrates: A zatem bok kwadratu ośmiostopowego musi być dłuższy niż ten dwustopowy, a krótszy niż czterostopowy.
+
+Chłopak: Musi.
+
+Sokrates: Spróbuj więc powiedzieć, jaki też to będzie długi bok?
+
+Chłopak: Trzystopowy.
+
+Sokrates: Nieprawdaż, jeżeliby to miał być bok trzystopowy, to dołóżmy połówkę tego boku i będzie zaraz bok trzystopowy. Bo tu dwie stopy, a tu jedna. I z tej strony tak samo: to dwie stopy, a to jedna. I oto robi się ta powierzchnia, o której mówisz.
+
+Chłopak: Tak.
+
+Sokrates: Nieprawdaż, jeżeliby miała tędy trzy i tędy trzy, to cała powierzchnia zrobiłaby się duża na trzy razy po trzy stopy?
+
+Chłopak: Zdaje się.
+
+Sokrates: A trzy razy trzy to ile stóp?
+
+Chłopak: Dziewięć.
+
+Sokrates: A ta podwójna powierzchnia ile miała mieć stóp?
+
+Chłopak: Osiem.
+
+Sokrates: Zatem ani z trzystopowego boku nie zrobi się powierzchnia ośmiostopowa?
+
+Chłopak: Jednak nie.
+
+Sokrates: Zatem z jak długiego? Spróbuj nam powiedzieć jasno. A jeżeli nie chcesz rachować, to pokaż, z której kreski.
+
+Chłopak: Ależ, na Zeusa, Sokratesie, ja nie wiem.
+
+XVIII. Sokrates: Uważasz znowu, Menonie, gdzie on już jest, kiedy sobie tak krok za krokiem przypomina? Że zrazu nie wiedział, jaki jest bok ośmiostopowej powierzchni — podobnie jak i teraz nie wie — ale mu się wtedy zdawało, że ten bok zna, i śmiało odpowiadał, jak gdyby wiedział i nie uważał, że jest w biedzie. A teraz on już uważa, że jest w biedzie, i jak nie wie, tak też i nie sądzi, że wie.
+
+Menon: Prawdę mówisz.
+
+Sokrates: Nieprawdaż, teraz lepiej się odnosi do sprawy, której nie znał?
+
+Menon: I to mi się wydaje.
+
+Sokrates: Tośmy coś celowego zrobili, mam wrażenie, aby dojść, jak się rzecz ma. Bo teraz może on i szukać będzie z przyjemnością, skoro nie wie, a wtedy łatwo by i wobec wielu ludzi, i często myślał, że dobrze mówi o dwa razy większej powierzchni, że ona musi mieć dwa razy dłuższy bok.
+
+Menon: Zdaje się.
+
+Sokrates: Czy myślisz, że on by się przedtem brał do szukania lub uczenia się tego, co uważał, że wie, choć nie wiedział, zanim nie popadł w biedę, nie uwierzył, że nie wie, i nie zapragnął wiedzy?
+
+Menon: Nie wydaje mi się, Sokratesie.
+
+Sokrates: Więc zyskał coś na tym, że zdrętwiał?
+
+Menon: Zdaje mi się.
+
+Sokrates: Przypatrzże się, z tej biedy co też on wynajdzie, szukając razem ze mną; ja nic, tylko będę go pytał, a nie będę go uczył. A ty pilnuj, czy może mnie złapiesz na tym, że go uczę i wykładam, a nie tylko wypytuję go o jego sądy.
+
+XIX. Więc teraz powiedz mi ty: czy to nie jest nasz czterostopowy kwadrat? Rozumiesz?
+
+Chłopak: Rozumiem.
+
+Sokrates: A może byśmy do niego dołożyli równy mu drugi, ten tutaj?
+
+Chłopak: Tak.
+
+Sokrates: I trzeci, ten tutaj, równy każdemu z tamtych dwóch.
+
+Chłopak: Tak.
+
+Sokrates: Nieprawdaż, a może dodajmy jeszcze, aby wypełnić pusty kąt, ten oto?
+
+Chłopak: Tak jest.
+
+Sokrates: No cóż, gotowe się zrobić te tutaj cztery równe kwadraty?
+
+Chłopak: Tak.
+
+Sokrates: Więc cóż? To całe tu ile razy jest większe od tego?
+
+Chłopak: Cztery razy większe.
+
+Sokrates: A miało się nam zrobić dwa razy większe. Czy nie pamiętasz?
+
+Chłopak: Tak jest.
+
+Sokrates: Nieprawdaż, to jest kreska, która celuje z kąta do kąta i rozcina na dwoje każdy z tych kwadratów?
+
+Chłopak: Tak.
+
+Sokrates: Nieprawdaż, cztery takie będą kreski równe i obejmą sobą ten tutaj kwadrat?
+
+Chłopak: Będą.
+
+Sokrates: Przypatrzżeż się: jaki też to wielki jest ten kwadrat?
+
+Chłopak: Nie wiem.
+
+Sokrates: Tych jest cztery, a każda kreska odcięła wewnątrz połowę każdego kwadratu? Czy nie?
+
+Chłopak: Tak.
+
+Sokrates: Więc ile takich małych siedzi w tym?
+
+Chłopak: Cztery.
+
+Sokrates: A ile w tym?
+
+Chłopak: Dwa.
+
+Sokrates: A cztery ile razy jest większe od dwóch?
+
+Chłopak: Dwa razy większe.
+
+Sokrates: Więc ten ile będzie miał stóp?
+
+Chłopak: Osiem stóp.
+
+Sokrates: A gdzie jest jego bok?
+
+Chłopak: Ten tutaj.
+
+Sokrates: Czy to ta kreska, biegnąca od kąta do kąta w kwadracie czterostopowym?
+
+Chłopak: Tak.
+
+Sokrates: Uczeni nazywają tę kreskę przekątną, zatem to na przekątnej według twego zdania, chłopcze, który służysz u Menona, można budować kwadrat dwa razy większy?
+
+Chłopak: Oczywiście, że tak, Sokratesie.
+
+XX. Sokrates: Jak ci się wydaje, Menonie, czy może on podał w odpowiedzi któreś zdanie niewłasne?
+
+Menon: Nie, nie, tylko swoje własne.
+
+Sokrates: A przecież nie wiedział, jak mówiliśmy przed chwilą.
+
+Menon: Prawdę mówisz.
+
+Sokrates: Więc chyba siedziały w nim te zdania. Czy nie?
+
+Menon: Tak.
+
+Sokrates: Zatem w tym, który o czymś nie wie, tkwią jednak prawdziwe sądy o tym, czego on nie wie?
+
+Menon: Widocznie.
+
+Sokrates: I teraz się w nim — jakby sny — roztrzepotały i podniosły w górę te sądy. I jeżeli go ktoś będzie rozpytywał o to samo często i w różne sposoby, bądź przekonany, że w końcu on nie mniej dokładną i jasną będzie miał o tym wiedzę, jak ktokolwiek inny.
+
+Menon: Zdaje się.
+
+Sokrates: Nieprawdaż, chociaż nikt go nie uczył, tylko mu pytania zadawał; on zacznie wiedzieć, sam wiedzę z własnej głębi podejmując?
+
+Menon: Tak.
+
+Sokrates: A podejmować samemu wiedzę w samym sobie, czy to nie znaczy przypominać sobie?
+
+Menon: Tak jest.
+
+Sokrates: Więc on tę wiedzę, którą ma w tej chwili, albo kiedyś wziął skądsiś, albo ją miał zawsze?
+
+Menon: Tak.
+
+Sokrates: Nieprawdaż, jeżeli ją miał zawsze, to i zawsze wiedział, a jeżeli ją kiedyś dostał, to chyba jej nie mógł dostać w obecnym życiu. Czy nauczył go ktoś geometrii? Bo on będzie to samo robił na polu całej geometrii i w dziedzinie wszystkich innych nauk. Więc czy istnieje ktoś, kto go wszystkiego wyuczył? Powinieneś chyba coś o tym wiedzieć, przecież on się urodził w twoim domu i wychował.
+
+Menon: Ależ ja najlepiej wiem, że nikt go nigdy nie uczył.
+
+Sokrates: A on ma te sądy czy nie?
+
+Menon: Oczywiście, Sokratesie, to widać.
+
+XXI. Sokrates: Więc jeżeli ich nie zdobył w obecnym życiu, to czy już teraz nie jest rzeczą jasną, że w jakimś innym czasie je dostał i nauczył się przedtem?
+
+Menon: Widocznie.
+
+Sokrates: Nieprawdaż, to chyba jest ten czas, kiedy nie był człowiekiem?
+
+Menon: Tak.
+
+Sokrates: Jeżeli więc przez ten czas, kiedy jest człowiekiem, i przez ten, kiedy nim nie jest, będą w nim tkwiły prawdziwe sądy, które się pod wpływem pytań budzą i stają się składnikami wiedzy, to może jego dusza zawsze przez wszelki czas wie? Przecież to jasne, że przez wszelki czas albo jest, albo nie jest człowiekiem.
+
+Menon: Widocznie.
+
+Sokrates: Jeżeli wiecznie tkwi w duszy prawda bytów, gotowa dusza być nieśmiertelna. Zatem czy nie trzeba być dobrej myśli, jeśli czego na razie przypadkiem nie wiesz, a to jest to, czego nie pamiętasz, starać się to odszukać i przypomnieć sobie?
+
+Menon: Mam wrażenie, że ty dobrze mówisz, Sokratesie, nawet nie umiem powiedzieć jak.
+
+Sokrates: I ja też mam to wrażenie, Menonie. Zresztą, ja bym się tam przy tej myśli nie tak bardzo upierał. Ale dobrze jest stanąć na stanowisku, że trzeba szukać tego, czego się nie wie, bo przez to możemy się stać lepsi i bardziej mężni, i mniej leniwi, niż gdybyśmy sądzili, że czego nie wiemy, tego ani nie potrafimy dojść, ani nam tego szukać nie trzeba; o to ja bym się bardzo gwałtownie spierał, jakbym tylko mógł — i słowem i czynem.
+
+Menon: I to, uważam, bardzo dobrześ powiedział, Sokratesie.
+
+XXII. Sokrates: A skorośmy już jednej myśli, że trzeba dochodzić tego, czego ktoś nie wie, to chcesz wziąć się wspólnie do szukania tego, czym też jest dzielność?
+
+Menon: Bardzo chętnie. Ale nie, Sokratesie, ja — wiesz — tamto bym najchętniej, o com na początku samym pytał, i rozpatrzył, i usłyszał: czy brać się do tego jako do rzeczy, której się można nauczyć, czy też może z natury czy w jakimś tam innym sposobie przysługuje ludziom dzielność.
+
+Sokrates: Ach, Menonie, gdybym to ja panował — nie tylko nad sobą, ale nad tobą — my byśmy na pewno nie rozpatrywali najpierw tego, czy dzielności można się nauczyć, zanim byśmy naprzód nie poszukali tego, czym ona jest. Ale skoro ty nad sobą nawet nie próbujesz panować, abyś się stał naprawdę wolny, ja ci ustąpię. Bo cóż robić? Wypadnie chyba rozpatrywać, jakie też jest to coś, o którym jeszcze nie wiemy, czym ono jest. Chyba że ty, jako panujący, może mi choć odrobinę cugli popuścisz i pozwolisz, abyśmy przy założeniu pewnym to rozpatrywali, czy można się tego nauczyć, jakiekolwiek to tam jest. A to „przy założeniu pewnym” rozumiem w ten sposób, jak to geometrzy często rozpatrują, kiedy ich ktoś zapyta na przykład o pewną figurę geometryczną, czy da się w to tutaj koło wpisać ten tutaj trójkąt. Wtedy może ktoś powiedzieć: ja jeszcze nie wiem tego, czy ten trójkąt jest taki, ale zdaje mi się, że mam jak gdyby pewne założenie przydatne do tej sprawy, takie: Jeżeli ta figura jest taka, że gdy się według jej danego boku przeciągnie kreskę, to zabraknie takiej figurze tyle, ile by mogło być właśnie tego przedłużenia, to wyniknie moim zdaniem coś innego, a coś innego znowu, jeżeli się to z nim stać nie może. Zatem ja zrobię pewne założenie i powiem ci, co wynika dla wpisania tej figury w koło, czy to jest niemożliwe, czy nie jest.
+
+XXIII. Tak i my o dzielności, skoro nie wiemy ani czym jest, ani jakie to jest, założenie pewne co do tego zróbmy i tak rozpatrzmy, czy to jest coś, czego się można nauczyć, czy nie można. Więc tak powiedzmy: jeżeli do jakichś spraw naszej duszy należy dzielność, to można by się jej wyuczyć, czy nie można? Naprzód więc, jeżeli ona jest czymś różnym od wiedzy, to można się jej wyuczyć, czy nie można, albo jakeśmy teraz oto mówili, przypominać ją sobie? Niech nam nic nie zależy na tym, którego z tych dwóch słów używamy. Więc czy można się jej wyuczyć? Czy też to każdemu jasne, że niczego innego człowiek się nie wyucza, jak tylko wiedzy?
+
+Menon: Mnie się przynajmniej tak zdaje.
+
+Sokrates: A jeżeli wiedzą jakąś jest dzielność, to jasna rzecz, że można się jej wyuczać.
+
+Menon: Jakżeby nie.
+
+Sokrates: Więc tej sprawy prędkośmy się pozbyli, że jeśli jest taka, to można się jej uczyć, a jeśli owaka, to nie można.
+
+Menon: Owszem, tak jest.
+
+Sokrates: A teraz, zdaje się, trzeba rozpatrzyć, czy dzielność jest wiedzą, czy też czymś różnym od wiedzy?
+
+Menon: Mnie się też wydaje, że to trzeba rozpatrzyć po tamtym.
+
+Sokrates: Ale cóż to, doprawdy? Czy nie nazwiemy dzielności dobrem samym i to założenie czy jeszcze ma u nas moc, że to jest dobro?
+
+Menon: Oczywiście, że tak.
+
+Sokrates: Nieprawdaż, jeżeli istnieje jeszcze jakieś dobro inne niż wiedza, to gotowa dzielność nie być pewną wiedzą. A jeżeli nie ma żadnego dobra, którego by wiedza nie obejmowała, to podejrzewając, że dobro jest też pewną wiedzą, gotowiśmy może słuszne żywić podejrzenie?
+
+Menon: Jest tak.
+
+Sokrates: A prawda, że to przez dzielność jesteśmy coś warci?
+
+Menon: Tak.
+
+Sokrates: A jeżeli coś warci, to i pożyteczni. Przecież wszystko, co dobre, jest pożyteczne.
+
+Menon: Tak.
+
+Sokrates: Zatem dzielność jest czymś pożytecznym?
+
+Menon: Koniecznie tak wynika z tego, na cośmy się zgodzili.
+
+XXIV. Sokrates: Rozpatrzmy, doprawdy, biorąc pod uwagę jedno po drugim, jakie to rzeczy przynoszą nam pożytek. Zdrowie, powiemy, i siła, i piękność, i bogactwo przecież. O tych rzeczach mówimy i o tym podobnych, że są pożyteczne. Nie tak?
+
+Menon: Tak.
+
+Sokrates: O tych samych mówimy niekiedy, że i szkodzą. Czy ty inaczej powiesz, czy tak?
+
+Menon: No nie, tylko tak.
+
+Sokrates: Zobaczże, co musi rządzić każdą z tych rzeczy, żebyśmy mieli z nich pożytek, a jeśli co nimi rządzi, będzie szkoda? Czy nie prawda, że gdy ich używać należycie, to nam służy, a jeśli nie, to szkodzą?
+
+Menon: Owszem, tak jest.
+
+Sokrates: A więc jeszcze i to zobaczmy, co się tyczy duszy. Nazywasz coś panowaniem nad sobą i sprawiedliwością, i męstwem, i łatwością uczenia się, i pamięcią, i szlachetnością, i tam dalej?
+
+Menon: Owszem.
+
+Sokrates: Zobacz tedy spośród nich te, które ci się nie wydają wiedzą, tylko czymś różnym od wiedzy, czy one nie mają tego do siebie, że raz przynoszą szkodę, a raz pożytek? Na przykład męstwo; jeśli nie ma rozumu, to już i nie męstwo, tylko jakby jakaś zuchwałość. Nieprawdaż, jeśli bez rozumu człowiek będzie odważny, to szkodę poniesie. A jeśli z rozumem, to pożytek?
+
+Menon: Tak.
+
+Sokrates: Nieprawdaż, i panowanie nad sobą tak samo, i łatwość uczenia się. Jeżeli się ich uczyć i wprawiać w nich z rozumem, przynoszą pożytek, a bez rozumu szkodę?
+
+Menon: Bardzo wielką.
+
+Sokrates: Nieprawdaż, w ogóle wszystkie przedsięwzięcia duszy i mocne jej podstawy pod wodzą rozumu do szczęścia prowadzą w końcu, a pod kierunkiem głupoty wprost przeciwnie?
+
+Menon: Zdaje się.
+
+Sokrates: Jeżeli więc dzielność jest czymś, co mieszka w duszy i koniecznie musi być pożyteczne, to ona musi być rozumem, bo przecież wszystko, co się z duszą wiąże, samo przez się ani nie jest pożyteczne, ani szkodliwe, a dopiero przez dołączenie się rozumu lub głupoty staje się szkodliwe lub pożyteczne. Wedle tego toku myśli dzielność, będąc czymś pożytecznym, musi być pewnym rozumem.
+
+Menon: Mnie się tak wydaje.
+
+XXV. Sokrates: A te inne rzeczy, o których przed chwilą mówiłem, że — jak bogactwo i tym podobne — raz są dobre, a raz szkodliwe, czy to nie tak samo, jak rozum, przewodząc jakiejś duszy, czynił pożytecznym to, co w niej było, a głupota szkodliwym, tak i tymi rzeczami jeśli się dusza posługuje słusznie i słusznie nad nimi panuje, one zaczynają być pożyteczne, a jeśli niesłusznie, to szkodzą?
+
+Menon: Oczywiście.
+
+Sokrates: A rozumna dusza słusznie nimi rządzi, a głupia błędnie?
+
+Menon: Jest tak.
+
+Sokrates: Nieprawdaż, w ogóle tak powiedzieć można, że w człowieku wszystko od duszy zawisłe, a w duszy wszystko od rozumu, cokolwiek ma być dobre. W ten sposób rozum byłby tym, co pożyteczne. A mówimy, że dzielność jest pożyteczna?
+
+Menon: Owszem, tak.
+
+Sokrates: Zatem rozumem, powiemy, jest dzielność — albo całym, albo jakąś jego cząstką?
+
+Menon: Wydaje mi się, że to słowa dobrze powiedziane.
+
+Sokrates: Nieprawdaż, jeśli te rzeczy tak się mają, to nie ma ludzi dzielnych z urodzenia?
+
+Menon: Nie wydaje mi się.
+
+Sokrates: I gotowo by jeszcze być i to: gdyby się rodzili ludzie z natury dzielni, to mielibyśmy chyba takich, którzy by rozpoznawali dobre natury młodych ludzi, wskazywaliby nam tę młodzież, a my byśmy ją zbierali i chowali na wysokim zamku pod kluczem i pieczęcią — o wiele troskliwiej niż złoto — aby ich nikt nie popsuł, ale żeby się stali pożyteczni państwom, jak dorosną.
+
+XXVI. Menon: Zdaje się, że tak, Sokratesie.
+
+Sokrates: Więc jeżeli dzielni ludzie nie z natury stają się takimi, to może przez uczenie się?
+
+Menon: Mam wrażenie, że to już, koniecznie. I to jasne, Sokratesie, według założenia, że jeśli wiedzą jest dzielność, to można się jej uczyć.
+
+Sokrates: Może być, na Zeusa. Tylko może to nieładnie, że myśmy się na to zgodzili?
+
+Menon: Ależ przecie dopiero co, przed chwilą, wydawało się, że to ładnie powiedziane.
+
+Sokrates: Ba, kiedy bo ono powinno się podobać nie tylko przed chwilą, ale i teraz, i później, jeżeli w nim ma tkwić coś zdrowego.
+
+Menon: Ach, cóż znowu? Co ty właściwie masz na oku, kiedy się krzywisz na to i nie wierzysz, żeby dzielność była wiedzą?
+
+Sokrates: Ja ci powiem, Menonie. Bo ja się nie zarzekam tego zdania, że dzielności można się uczyć, jeżeli ona jest wiedzą, wcale nie uważam, żeby to były brzydkie słowa. Ale zobacz no, czy ja słusznie wątpię, żeby to była wiedza. Jak ci się wydaje? Bo powiedz mi coś takiego: Jeżeli jakiejkolwiek rzeczy można się wyuczyć, nie tylko dzielności, to czyż nie muszą istnieć i jej nauczyciele, i ci, którzy się jej uczą?
+
+Menon: Mnie się tak wydaje.
+
+Sokrates: Nieprawdaż? A jeśli o przeciwieństwo idzie, którego nikt nie jest nauczycielem, ani też nikt się go nie uczy, to charakteryzując je, pięknie moglibyśmy je oddać jako coś, czego się uczyć nie można?
+
+Menon: Jest tak. A czyż ty uważasz, że nie istnieją nauczyciele dzielności?
+
+Sokrates: Ja przecież nieraz szukałem, czy istnieją jacyś jej nauczyciele, i robiłem, com mógł, a znaleźć ich nie mogę. A szukam ich z pomocą wielu ludzi, i to przede wszystkim takich, którzy się, moim zdaniem, najlepiej znają na tej sprawie. A teraz właśnie, na szczęście, usiadł sobie koło nas ten oto, Anytos, z którym podzielmy się naszymi poszukiwaniami. Możemy się z nim słusznie dzielić, bo ten oto Anytos przede wszystkim jest synem bogatego i mądrego ojca, Antemiona, którego bogactwo nie urosło samo z siebie, ani on go od nikogo nie dostał, jak Tebańczyk Ismenias, który dopiero niedawno zagarnął skarby Polikratesa, tylko on je sam własną mądrością zdobył i zapobiegliwością. Zresztą to obywatel, który w ogóle nie wydaje się zarozumiały ani nadęty, ani arogancki, ale bardzo przyzwoity i na swoim miejscu. Więc i tego dobrze wychował i wykształcił, jak uważa większość Ateńczyków. Przecież go wybierają na najwyższe urzędy. Warto z takimi ludźmi dochodzić, czy istnieją nauczyciele dzielności, czy nie istnieją, i którzy to są.
+
+XXVII. Więc ty, Anytosie, poszukaj no razem z nami, ze mną i z twoim przyjacielem Menonem, który tutaj siedzi, i zastanów się nad tą sprawą, którzy by to byli nauczyciele. A tak sobie rozważ: gdybyśmy chcieli, żeby nasz Menon został dobrym lekarzem, do których byśmy go posłali nauczycieli? Czy nie do lekarzy?
+
+Anytos: Oczywiście.
+
+Sokrates: A cóż, jeślibyśmy chcieli, żeby został dobrym szewcem, czyż nie do szewców?
+
+Anytos: Tak.
+
+Sokrates: I z innymi tak samo?
+
+Anytos: Oczywiście.
+
+Sokrates: Ale w ten sposób jeszcze raz wypowiedz się na ten sam temat. Do lekarzy posłalibyśmy go i mówimy, żebyśmy go słusznie posłali, chcąc, żeby został lekarzem. Czy kiedy to mówimy, to mamy na myśli, że do nich właśnie posyłać go każe zdrowy rozsądek, do tych, którzy się zajmują tą sztuką, raczej niż do tych, co nie, i do tych, którzy zarabiają właśnie z jej pomocą i ogłaszają się, że gotowi są uczyć jej każdego, który tylko zechce przyjść i uczyć się? Czy nie to trzeba mieć na oku, kiedy się chce posyłać na naukę jak należy?
+
+Anytos: Tak.
+
+Sokrates: Nieprawdaż, a z grą na flecie i z innymi tak samo: wielka niedorzeczność, jeżeli się chce kogoś zrobić flecistą, nie chcieć go posyłać do tych, którzy się zobowiązują, że go wyuczą tej sztuki, i biorą za to pieniądze, a sprawiać tym kłopoty jakimś innym ludziom i próbować nauki u tych, którzy nawet nie udają nauczycieli, ani się tego przedmiotu od nich żaden uczeń nie nauczył. Więc myśleć, że tego właśnie potrafi się od nich nauczyć ktoś, kogo byśmy im posłali, czy nie wydaje ci się to wielką niedorzecznością?
+
+Anytos: Na Zeusa, ja jestem tego zdania: to i głupota oprócz tego.
+
+XXVIII. Sokrates: Dobrze mówisz. Więc teraz może się naradzisz ze mną, co robić z tym twoim przyjacielem, Menonem. Bo on, Anytosie, już dawno mówi do mnie, że pragnie tej mądrości i dzielności, która ludziom pozwala i domami dobrze zarządzać, i państwami, i o rodziców własnych dbać, i o współobywateli, i obcych podejmować i odprawiać przyzwoicie, jak przystało człowiekowi godnemu. Więc po tę dzielność, zobacz, do kogo by go wypadało posłać tak, żeby go posłać, jak się należy. Jasna rzecz przecież, wedle tego, co się w tej chwili mówiło, że do tych, którzy się zobowiązują wyuczać dzielności i ogłaszają się z tym publicznie, że gotowi na naukę przyjąć każdego z Hellenów, który tylko zechce się uczyć; wyznaczają i ściągają za tę naukę taksy.
+
+Anytos: Ty kogo takiego masz na myśli, Sokratesie?
+
+Sokrates: Wiesz przecież i ty, że to są ci, których ludzie nazywają uczonymi.
+
+Anytos: Na Heraklesa! A bójże się boga, Sokratesie, niechże na nikogo z krewnych ani z domowników, ani z przyjaciół, ani tych z naszego miasta, ani z obcych miast takie obłąkanie nie pada, żeby do nich chodzić i tam się psuć. Przecież oni — to jawne nieszczęście i zepsucie tych, co z nimi obcują.
+
+XXIX. Sokrates: Co ty mówisz, Anytosie? Czyż oni sami jedni spośród zawodowców trudniących się umiejętnym oddawaniem przysług tak bardzo się od innych różnią, że nie tylko nie naprawiają jak inni, cokolwiek im kto powierzy, ale wprost przeciwnie, psują? I za to ośmielają się jawnie brać pieniądze? Nie, ja ci nie potrafię uwierzyć. Przecież ja wiem, że jeden mąż, Protagoras, więcej pieniędzy zrobił na tej mądrości niż Fidiasz, który takie świetne dzieła wykonał, albo innych dziesięciu rzeźbiarzy. Toż ty cuda jakieś opowiadasz. Przecież o tych, co stare buty łatają albo stare płaszcze cerują, nie potrafiłoby się i przez trzydzieści dni ukryć to, że gorszy towar oddają, niż go do roboty przyjęli — płaszcze albo buty — i gdyby tak robili, to prędko by z głodu zginął jeden z drugim, a tu by się o Protagorasie ukryło przed całą Helladą, że on psuł tych, co z nim obcowali, i przez czterdzieści lat oddawał gorszych ludzi, niż ich brał na naukę? Przecież zdaje mi się, że on, umierając, miał blisko siedemdziesiąt lat, a czterdzieści lat pracował w zawodzie. I przez cały ten czas aż po dzisiejszy dzień cieszy się bez ustanku dobrą sławą. I nie tylko Protagoras, ale innych też bardzo wielu; jedni się wcześniej od niego porodzili, a inni są jeszcze i dziś. Więc doprawdy, czy powiemy, według twojej myśli, że oni świadomie oszukują i psują młodzież, czy też sami o tym nie wiedzą? I mamyż ich uważać za tak ciężko obłąkanych — tych, których wielu uważa za najmądrzejszych w świecie?
+
+XXX. Anytos: Daleko im do obłąkania, Sokratesie; pomyleni są raczej ci młodzi ludzie, którzy im pieniądze dają. A jeszcze więcej od nich ci, którzy młodych takim ludziom powierzają, ci krewni. A najwięcej państwa, które im pozwalają przyjeżdżać i nie wyganiają, czy tam przyjezdny jaki chce coś takiego robić, czy swój człowiek.
+
+Sokrates: A może ciebie, Anytosie, skrzywdził któryś uczony, bo czemu się tak na nich gniewasz?
+
+Anytos: Ależ, na Zeusa, ja się nawet nigdy z żadnym z nich nie zetknąłem, anibym na to nie pozwolił nikomu z moich bliskich.
+
+Sokrates: Więc doświadczenia w ogóle żadnego co do tych mężów nie masz?
+
+Anytos: I obym nie miał!
+
+Sokrates: Więc jakże ty, bój się boga, możesz coś wiedzieć o tej sprawie, czy w niej coś dobrego tkwi, czy lichego, skoro w niej w ogóle żadnego nie masz doświadczenia?
+
+Anytos: Bardzo łatwo. Już ja wiem, jacy oni są — wszystko jedno czy z doświadczenia, czy nie.
+
+Sokrates: Ty może wieszczkiem jesteś, Anytosie, bo z jakiego byś ty innego źródła mógł o nich wiedzieć, jak nie z tego, o którym mówisz — to dla mnie bardzo dziwna rzecz. Ale myśmy nie tych szukali, od których by się Menon popsuł, gdyby do nich poszedł. Bo to, jeśli tak chcesz, niech będą uczeni. Ale tamtych nam nazwij, oddaj przysługę twemu przyjacielowi po ojcu, temu tutaj, i wskaż mu tych — przecież miasto jest takie duże — do których by mógł pójść i zyskać sobie nie lada jaką dzielność, którą przed chwilą opisywałem.
+
+Anytos: A dlaczegoś ty sam jemu drogi nie pokazał?
+
+Sokrates: Ja przecież wymieniłem tych, których brałem za mistrzów w tej dziedzinie, ale nie udało mi się czegoś do rzeczy powiedzieć, jak ty twierdzisz. Więc ty z kolei powiedz, do kogo z Ateńczyków on ma pójść. Wymień po nazwisku, kogo chcesz!
+
+XXXI. Anytos: A po cóż wymieniać jednego człowieka po nazwisku? Do pierwszego lepszego z Ateńczyków, tych naprawdę lepszych, niech pójdzie, a każdy go zrobi lepszym niż ci uczeni; byle tylko słuchać zechciał.
+
+Sokrates: A czy ci „naprawdę lepsi” sami się takimi porodzili, od przypadku, i nikt ich tego nie uczył, a mimo to oni potrafią drugich uczyć tego, czego się sami nie nauczyli?
+
+Anytos: I ci też, uważam, uczyli się u swoich przodków, którzy byli ludźmi lepszymi. Cóż, czy nie masz wrażenia, że w tym państwie wielu było ludzi godnych?
+
+Sokrates: Ja, Anytosie, mam wrażenie, że nawet i są w tym państwie godni politycy, a było ich nie mniej, niż ich jest. Ale bodaj że nie byli dobrymi nauczycielami swojej dzielności. A my właśnie o tym mówimy. Nie o tym, czy tu są u nas godni ludzie, czy też się rodzili dawniej, tylko to, czy dzielności można się nauczyć — to roztrząsamy od dawna. A roztrząsając to, rozważamy, czy ludzie godni, z tych dzisiejszych i z dawnych, umieli tej dzielności, którą się odznaczali sami, także drugim udzielać, czy też nie może tego człowiek drugiemu udzielić ani tego wziąć nie potrafi jeden od drugiego. To jest to, czego od dawna szukamy, ja i Menon.
+
+XXXII. Więc ty tak popatrz w kierunku swojej myśli: O Temistoklesie nie powiedziałbyś, że to godny mąż?
+
+Anytos: Ależ owszem, najgodniejszy ze wszystkich.
+
+Sokrates: Nieprawdaż, i nauczyciel dobry; jeżeli ktokolwiek umiał uczyć własnej dzielności, to i on umiał?
+
+Anytos: Zdaje mi się przecież; jeżeliby tylko był chciał.
+
+Sokrates: A czy ty myślisz, że on by nie był chciał kogoś tam zrobić człowiekiem naprawdę lepszym, a przede wszystkim chyba własnego syna? Czy ty przypuszczasz, że on mu zazdrościł i umyślnie nie udzielił mu tej dzielności, która go samego zdobiła? Czyś nie słyszał, że Temistokles swojego syna Kleofanta wyuczył na dobrego jeźdźca; on przecież jeździł na koniu, stojąc prosto, i dzidą rzucał z konia na stojąco, i różne inne przedziwne sztuki wyczyniał, w których go ojciec wykształcił; zrobił go mądrym we wszystkich dziedzinach, które od nauczycieli dobrych zależą. Czyś nie słyszał o tym od ludzi starszych?
+
+Anytos: Słyszałem.
+
+Sokrates: I chyba nikt się nie mógł skarżyć na jego syna, że ma złą naturę?
+
+Anytos: No, chyba nie.
+
+Sokrates: A cóż to znowu: żeby Kleofantos, syn Temistoklesa, był mężem godnym i mądrym w tym zakresie, co i ojciec jego, toś już słyszał od kogo, młodszego czy starszego?
+
+Anytos: Właściwie to nie.
+
+Sokrates: I cóż, uważamy, że on w tamtych rzeczach chciał swojego syna wykształcić, a w tej mądrości, którą sam był mądry, nie chciał go ani o włos zrobić lepszym od sąsiadów, jeżeliby dzielności można uczyć?
+
+Anytos: Na Zeusa, chyba nie.
+
+XXXIII. Sokrates: Więc oto i masz ci takiego nauczyciela dzielności, o którym i ty sam zgodnie ze mną mówisz, że należał do najlepszych ludzi spośród dawnych. Ale zobaczmy innego, Arystydesa, syna Lizymacha. Czy nie zgadzasz się, że to był dzielny człowiek?
+
+Anytos: Ależ owszem, ze wszech miar przecież.
+
+Sokrates: Nieprawdaż i ten także swojego syna, Lizymacha, we wszystkim, co się dało wziąć od nauczycieli, wykształcił najpiękniej w całych Atenach, a czy masz wrażenie, że zrobił z niego człowieka lepszego od kogokolwiek? Z tymeś się przecież musiał stykać i widzisz, jaki jest. A jeżeli chcesz, to weź Peryklesa, człowieka o tak niesłychanie wybitnej głowie, wiesz, że dwóch synów wychował: Paralosa i Ksantypa?
+
+Anytos: Wiem przecież.
+
+Sokrates: Tych on — wiesz przecież i sam — wyuczył na jeźdźców nie gorszych od któregokolwiek z Ateńczyków; i w muzyce, i w zapasach, i tam dalej wykształcił ich, jeżeli chodzi o umiejętności, nie gorzej od kogokolwiek; a ludzi godnych nie chciał z nich zrobić? Myślę sobie: chciał, ale bodaj że tego nie można nikogo nauczyć. A żebyś nie myślał, że to tylko nieliczni i co najlichsi Ateńczycy objawiają nieudolność w tej sprawie, to zważ, że Tukidydes znowu dwóch synów wychował, Melezjasza i Stefanosa, i wykształcił ich w ogóle dobrze, i to byli najlepsi zapaśnicy w Atenach. Jednego syna oddał Ksantiasowi, a drugiego Eudorosowi. Ci bodaj że uchodzili wtedy za najlepszych zapaśników. Czy może nie pamiętasz?
+
+Anytos: Owszem, słyszy się.
+
+XXXIV. Sokrates: Nieprawdaż, jasna rzecz, że on, który nie żałował pieniędzy na naukę swoich synów, także i tego, co by go nie kosztowało, a co mogłoby zrobić z nich godnych ludzi, byłby ich nauczył, gdyby tego można było nauczyć? A może Tukidydes to był lichy typ i nie miał w Atenach mnóstwa przyjaciół i sprzymierzeńców też? Przecież i z wielkiego domu pochodził, i wielkie wpływy miał w państwie i poza tym w całej Helladzie, tak że jeśliby tego można uczyć, już by on był znalazł kogoś, kto by potrafił z jego synów zrobić ludzi godnych; kogoś z miejscowych albo z przyjezdnych, gdyby sam nie miał na to czasu, bo był zajęty sprawami państwa. Tylko że, przyjacielu Anytosie, dzielność to gotowo być coś takiego, czego uczyć nie można.
+
+Anytos: Ej, Sokratesie, mnie się zdaje, że ty łatwo źle mówisz o ludziach. Ja bym ci radził, uważaj, jeżeli zechcesz mnie posłuchać. Bo może być, że i w innych państwach łatwiej jest zrobić komuś źle niż dobrze, a w naszym to na pewno nic łatwiejszego. Ja myślę, że ty i sam to wiesz.
+
+XXXV. Sokrates: Menonie, zdaje się, że Anytos się na mnie gniewa. Ja mu się wcale nie dziwię. Bo naprzód myśli, że ja tych ludzi oczerniam, a potem zdaje mu się, że i on sam do nich należy. Ale on, jeżeli się kiedyś dowie, co to jest potwarz, przestanie się gniewać. W tej chwili on tego nie wie. Ale ty mi powiedz, czy u was też nie ma ludzi naprawdę lepszych?
+
+Menon: Owszem, są.
+
+Sokrates: No cóż, a ci chcą się zajmować nauczaniem młodzieży i godzą się być nauczycielami, i wierzą, że dzielności można się nauczyć?
+
+Menon: Ach nie, na Zeusa, Sokratesie. Raz od nich usłyszysz, że można się tego uczyć, a raz, że nie.
+
+Sokrates: Więc czy powiemy, że to są nauczyciele tej rzeczy, którzy się nawet co do tego nie zgadzają?
+
+Menon: Nie wydaje mi się, Sokratesie.
+
+Sokrates: No więc cóż będzie? Więc tylko ci twoi „uczeni”, ci jedni podejmują się tego i uchodzą za nauczycieli dzielności?
+
+Menon: Mnie się u Gorgiasza, Sokratesie, to najwięcej podoba, że z jego ust nigdy byś takiej obietnicy nie usłyszał; on się nawet z innych śmieje, kiedy słyszy takie zobowiązania. On uważa, że trzeba tylko wyrabiać tęgich mówców.
+
+Sokrates: Więc nawet i tobie „uczeni” nie wydają się nauczycielami?
+
+Menon: Nie umiem powiedzieć, Sokratesie. Ze mną się dzieje to samo, co z innymi. Raz mi się oni tak przedstawiają, raz nie tak.
+
+Sokrates: A wiesz, że nie tylko tobie i innym politykom raz się wydaje, że tego się można nauczyć, a raz, że nie, ale i poeta Teognis, wiesz, że to samo powiada?
+
+Menon: W których wierszach?
+
+XXXVI. Sokrates: W elegiach, tam mówi:
+
+
+U tych pij i jedz, i śmiało między takimi
+Siadaj, i tym miły bądź, których ogromna jest moc.
+Lepszy cię zawsze dobrego nauczy, a jeśli z lichymi
+Wdasz się, utracisz i ten rozum, co jeszcze go masz.
+
+Widzisz, że tutaj mówi o dzielności jak o czymś, czego się można nauczyć.
+
+Menon: Widocznie.
+
+Sokrates: A w innych, nie o wiele dalej: Gdyby tak można, powiada, urabiać i wpajać ludziom rozumy, to mówi jakoś tak, że:
+
+
+złoto by za to brał, i to nie jeden raz,
+
+każdy, kto by to potrafił robić i:
+
+
+Ojciec gdy zacny był człek, i syn nie może być zły,
+Jeśli zbawiennych usłucha rad, jednakże nauką
+Chcieć przeinaczać złych, zawsze daremny to trud.
+
+Uważasz, że on sam się sobie sprzeciwia, mówiąc o jednym i tym samym?
+
+Menon: Widocznie.
+
+Sokrates: Więc czy ty potrafisz wymienić jakąkolwiek inną sprawę, w której ci, co się podają za nauczycieli, nie uchodzą wcale za mistrzów dla drugich ani nawet za znawców dla siebie samych, i powszechnie im zarzucają przestępstwa właśnie w tej samej dziedzinie, w której się podają za mistrzów, a ci znowu, którzy się cieszą opinią ludzi naprawdę lepszych, raz mówią, że tego się można nauczyć, a drugi raz, że nie. Czyż ludzi, którzy cierpią na takie pomieszanie w jakiejkolwiek dziedzinie, potrafiłbyś nazywać mistrzami pierwszej klasy?
+
+XXXVII. Menon: Na Zeusa, ja nie.
+
+Sokrates: Nieprawdaż, jeśli ani uczeni, ani też sami ludzie naprawdę lepsi nie uczą tego przedmiotu, to jasna rzecz, że inni ludzie też nie?
+
+Menon: Nie wydaje mi się.
+
+Sokrates: A skoro nie ma nauczycieli, to i uczniów nie ma?
+
+Menon: Zdaje mi się, że jest tak, jak mówisz.
+
+Sokrates: A zgodziliśmy się, że jeśli w czymś nie ma ani mistrzów, ani uczniów, to tego się wcale uczyć nie można?
+
+Menon: Zgodziliśmy się.
+
+Sokrates: Nieprawdaż, nauczycieli dzielności nie widać z żadnej strony?
+
+Menon: Jest tak.
+
+Sokrates: A skoro nie widać nauczycieli, to i uczniów też?
+
+Menon: Tak wygląda.
+
+Sokrates: Zatem dzielności uczyć się nie można?
+
+Menon: Zdaje się, że nie, jeżeli nasze rozważania były poprawne. Ale ja się dziwię, Sokratesie, i nie wiem, co myśleć, czy może w ogóle nie ma ludzi godnych, czy też jeśli, to w jaki sposób mogliby powstawać ci, którzy się godni robią?
+
+Sokrates: Ej, Menonie, bodajże to my jesteśmy liche typy jakieś tam i ciebie Gorgiasz nie wykształcił, jak się należy, ani mnie Prodikos. W każdym razie powinniśmy się zainteresować sami sobą i poszukać, kto by też nas lepszymi zrobił wszystko jedno, jakim sposobem. Ja to mówię, patrząc na te nasze rozważania w tej chwili, bośmy przecież, jak na śmiech, zapomnieli, że to nie wyłącznie tylko wiedza potrafi słusznie i dobrze kierować sprawami ludzkimi. Może właśnie dlatego nie udało się nam dojść czy dogonić, w jaki to sposób powstają ludzie godni.
+
+Menon: Jak ty to myślisz, Sokratesie?
+
+XXXVIII. Sokrates: Ja tak myślę, że człowiek godny powinien być pożyteczny; myśmy się słusznie zgodzili na to, że nie może być inaczej. No nie?
+
+Menon: Tak.
+
+Sokrates: I że pożyteczny będzie ten, który nam słusznie poprowadzi sprawy, na to chyba też słuszna stanęła zgoda?
+
+Menon: Tak.
+
+Sokrates: A tylko, że nie można słusznie ich prowadzić, jak tylko pod kierunkiem rozumu — to mi wygląda na niesłuszną uchwałę.
+
+Menon: Jakże ty to „słusznie” rozumiesz?
+
+Sokrates: Ja powiem. Gdyby ktoś znał drogę do Larysy, czy dokąd chcesz, sam by nią chodził i drugich prowadził, to prowadziłby ich słusznie i dobrze?
+
+Menon: Owszem.
+
+Sokrates: A cóż, gdyby ktoś tylko słusznie sądził, która droga prowadzi do Larysy, ale sam by nią nie chodził ani jej nie znał, czy i ten nie poprowadziłby słusznie?
+
+Menon: Owszem.
+
+Sokrates: I jak długo miałby słuszny sąd o tym, o czym by ktoś inny miał wiedzę, byłby i z niego przewodnik wcale nie gorszy od tego, co wie, choć miałby tylko mniemanie prawdziwe, a nie miałby zrozumienia i wiedzy.
+
+Menon: Wcale nie gorszy.
+
+Sokrates: Zatem sąd prawdziwy wcale nie gorszym przewodnikiem niż rozum, jeżeli chodzi o słuszność działania. To jest właśnie to, cośmy opuścili w rozważaniach nad dzielnością, kiedy szło o to, czym by też ona była. Mówiliśmy, że jedynie tylko rozum prowadzi do słusznych działań. A tymczasem potrafi to także sąd prawdziwy.
+
+Menon: Zdaje się.
+
+Sokrates: Zatem chyba nie mniejszy pożytek z sądu prawdziwego niż z wiedzy.
+
+Menon: O tyle tylko, Sokratesie, że kto ma wiedzę, ten chyba zawsze trafi, a kto tylko sąd prawdziwy, ten raz trafi, a raz nie.
+
+XXXIX. Sokrates: Jak ty to mówisz? Kto zawsze będzie miał słuszny sąd, czyż nie zawsze trafi, jak długo będzie żywił mniemanie słuszne?
+
+Menon: To mi się wydaje konieczne. I ja się dziwię, Sokratesie, czemu, skoro tak jest, wiedza cieszy się o wiele większą czcią niż sąd prawdziwy i dlaczego właściwie jedno z nich jest czymś innym niż drugie?
+
+Sokrates: A ty wiesz, dlaczego się dziwisz, czy ja ci to mam powiedzieć?
+
+Menon: Owszem, powiedz.
+
+Sokrates: To dlatego, żeś się nie przyglądał z uwagą posągom Dedala. Może być, że tam u was ich nie ma.
+
+Menon: Ależ do czego ty zmierzasz?
+
+Sokrates: Bo one też, jeżeli ich nie związać, to uciekają — od razu drapaka — a jak je związać, stoją na miejscu.
+
+Menon: Więc co z tego?
+
+Sokrates: Jego twory niezwiązane uchwycić to niewielki tam zaszczyt — zupełnie jak człowieka, który uciekł. Nie stoją. A związane je mieć, cenna rzecz. Bo to bardzo piękne roboty. A do czego zmierzam w tych słowach? Do sądów prawdziwych. Bo sądy prawdziwe też, jak długo który trwa, to ładna rzecz i wszelkie dobro wprowadza. Ale takie sądy nie chcą długo trwać, uciekają z duszy człowieka, tak że niewiele są warte, pokąd ich człowiek nie zwiąże związkiem przyczynowym. A bo jest, mój Menonie, przypomnienie, jakeśmy się poprzednio zgodzili. Kiedy je powiązać, to naprzód robią się z nich składniki wiedzy, a potem trwają. Dlatego wiedza jest godniejsza czci niż sąd prawdziwy i związkiem wewnętrznym różni się wiedza od prawdziwego sądu.
+
+Menon: Na Zeusa, Sokratesie, ona jakoś tak wygląda.
+
+XL. Sokrates: No tak, ja też mówię to — nie, żebym wiedział, tylko taki obraz mam. Ale że jest czymś innym słuszny sąd i wiedza, ja nie mam wrażenia, żeby to był tylko mój obraz, i jeżelibym o czymkolwiek mówił, że to wiem, a ja to rzadko mówię, właśnie to jedno bym położył pośród tego, co wiem.
+
+Menon: Ty słusznie mówisz, Sokratesie.
+
+Sokrates: Cóż więc? Czy to nie słuszne: że prawdziwy sąd, kierując działaniem w jakiejkolwiek sprawie, wcale nie gorzej się sprawia niźli wiedza?
+
+Menon: Zdaje mi się, że i tu prawdę mówisz.
+
+Sokrates: Zatem słuszny sąd wcale nie jest gorszy od wiedzy ani mniej pożyteczny w działaniu, ani człowiek, który ma tylko słuszny sąd, nie jest gorszy od tego, co ma wiedzę.
+
+Menon: Jest tak.
+
+Sokrates: A prawda, że godny człowiek jest pożyteczny — na tośmy się zgodzili.
+
+Menon: Tak.
+
+Sokrates: Skoro więc nie tylko przez wiedzę bywają ludzie godni i pożyteczni dla państw, jeżeli tylko są, ale i przez sąd, a żadna z tych rzeczy nie przysługuje ludziom z natury — ani wiedza, ani sąd prawdziwy, ani też ich nabyć nie można — a może ci się wydaje, że któraś z nich przysługuje nam z natury?
+
+Menon: Mnie nie.
+
+Sokrates: Nieprawdaż, skoro nie z natury, to i ludzie nie są godni z natury.
+
+Menon: No nie.
+
+Sokrates: A skoro nie z natury, więc rozpatrywaliśmy później to, czy można się tego nauczyć.
+
+Menon: Tak.
+
+Sokrates: Nieprawdaż, wydało się, że można się uczyć, jeżeli dzielność to rozum.
+
+Menon: Tak.
+
+Sokrates: A jeżeli się można jej uczyć, to rozumem byłaby dzielność?
+
+Menon: Tak jest.
+
+Sokrates: I gdyby istnieli jej nauczyciele, to można by się jej uczyć, a jeśli ich nie ma, to nie można?
+
+Menon: Tak.
+
+Sokrates: Ale zgodziliśmy się, że nie istnieją jej nauczyciele.
+
+Menon: Jest tak.
+
+Sokrates: Zgodziliśmy się więc, że ani się jej uczyć nie można, ani też ona nie jest rozumem.
+
+Menon: Owszem.
+
+Sokrates: Ale zgadzamy się przecież, że ona jest dobrem?
+
+Menon: Tak.
+
+Sokrates: I że pożyteczne i dobre jest to, co prowadzi słusznie.
+
+Menon: Tak jest.
+
+Sokrates: A słusznie prowadzić potrafią jedynie tylko te dwie rzeczy: sąd prawdziwy i wiedza, i człowiek, który je posiada, prowadzi się dobrze. To, co los nadarza, tym człowiek kierować nie może, a czym się człowiek kieruje do tego, co słuszne — to tylko te dwie rzeczy: sąd prawdziwy i wiedza.
+
+Menon: Wydaje mi się tak.
+
+XLI. Sokrates: Nieprawdaż, jeśli dzielności uczyć się nie można, więc dzielność nie idzie za wiedzą?
+
+Menon: Nie wydaje mi się.
+
+Sokrates: I oto kiedy dwie różne rzeczy są dobre i pożyteczne, to jedna z nich odpada i w działalności politycznej wiedza nie będzie przewodniczką.
+
+Menon: Nie wydaje mi się.
+
+Sokrates: Zatem nie mądrością jakąś ani przez to, że byli mądrzy, kierowali państwami tacy mężowie w rodzaju Temistoklesa i ci, o których przed chwilą nasz Anytos mówił. I dlatego też nie umieli nikogo innego zrobić takim, jak byli sami, bo nie byli takimi dzięki wiedzy.
+
+Menon: Zdaje się, że jest tak, jak mówisz, Sokratesie.
+
+Sokrates: Nieprawdaż, jeśli to nie będzie wiedza, to zostaje tylko zdolność do sądów prawdziwych — z jej pomocą mężowie stanu naprowadzają państwa na właściwe drogi, przy czym ich rozum niczym się osobliwym nie różni i nie przewyższa tych, co wyrocznie pieją albo się wróżbami bawią. Przecież ci mówią prawdę, i to nieraz; tylko sami nic nie rozumieją z tego, co mówią.
+
+Menon: Gotowo tak być.
+
+Sokrates: Nieprawdaż, Menonie, wypada coś boskiego przyznawać ludziom, którzy rozumu nie mają, a jednak stawiają na nogi wiele rzeczy doniosłych i słowem, i czynem?
+
+Menon: Tak jest.
+
+Sokrates: Więc może słusznie trzeba coś boskiego przyznawać tym, o których się w tej chwili mówiło, wieszczkom, wróżbitom, poetom wszelkiego rodzaju i politykom nie mniej niż tamtym; przyznamy im chyba pierwiastek boski i powiemy, że bóg w nich wstępuje i mieszka i oni z boga natchnienie czerpią i z ducha, kiedy swym słowem liczne i doniosłe sprawy doprowadzają do ładu, a sami nie wiedzą, co mówią.
+
+Menon: Tak jest.
+
+Sokrates: A wiesz, Menonie, że i kobiety przecież ludzi godnych nazywają boskimi, i Lakonowie, kiedy chwalą jakiegoś godnego człowieka, to mówią: „oto mąż boski, proszę”.
+
+Menon: Tak to wygląda, Sokratesie, jak by oni prawdę mówili. Ale może być, że nasz Anytos gniewa się na ciebie za te słowa.
+
+XLII. Sokrates: Mnie tam na tym nie zależy. Z nim sobie, Menonie, i na drugi raz pogadamy. A jeśliśmy teraz, w tej całej rozmowie pięknie szukali i mówili, to dzielność nie pochodziłaby ani z natury, ani z nauki, tylko z boskiego zrządzenia przysługuje, bez udziału rozumu, tym, którzy ją posiadają — skoro nie ma pośród wybitnych polityków żadnego, który by i kogoś drugiego potrafił zrobić dobrym politykiem. Gdyby taki był, to po prostu tak by się o nim mówiło pośród żywych, jak Homer o Terezjaszu mówi pośród umarłych, kiedy powiada o nim, że sam jeden tylko jest przytomny, a cienie skaczą tu i tam. Tak samo by on ze swą dzielnością odbijał jak rzeczywisty przedmiot w porównaniu do cieni.
+
+Menon: Uważam, że bardzo pięknie mówisz, Sokratesie.
+
+Sokrates: Z tego więc rachunku wynika, Menonie, to, że z bożego zrządzenia, tak się nam wydaje, przysługuje dzielność tym, którym przysługuje. A coś jasnego będziemy o niej wiedzieli dopiero wtedy, kiedy zamiast rozstrzygać, w jaki ona sposób ludziom przysługuje, spróbujemy naprzód poszukać rzeczy samej w sobie, czym też właściwie jest dzielność.
+
+Teraz mnie pora dokądś iść, a ty spróbuj to, w co sam wierzysz, poddać i naszemu przyjacielowi, Anytosowi, aby się zrobił łagodniejszy. Jeżeli na niego wpłynąć potrafisz, to i Atenom oddasz pewną przysługę.
+
+
+
+
+Objaśnienia tłumacza
+
+Nic nie przeszkadza, żeby sobie wyobrazić jakiś zakąt boiska, jakiś portyk okalający teren zapasów jako tło rozmowy. Równie dobrze jakiś kamień za miastem — w każdym razie nie dom prywatny. Nie słyszeliśmy też chyba początku rozmowy, bo trudno, żeby tak ktoś ni stąd, ni zowąd zadał drugiemu pytanie tak zasadnicze, rozwinięte i poprawnie sformułowane — jeżeli go nie miał przygotowanego na piśmie. W pytaniu chodzi o ogólną wartość etyczną, społeczną i życiową człowieka, zwaną po grecku arete (z akcentem na ostatniej zgłosce). Po polsku oddawano ją w dawnych wiekach wyrazem „cnota”. I to było dobre tłumaczenie w czasach, kiedy się u nas mówiło o koniach wielkiej cnoty i o kordach tak samo. Dziś wyraz „cnota” zmienił znaczenie. Mówi się dziś o cnotach tylko w żywotach świętych, słyszy się w humorystycznych zwrotach o cnocie panieńskiej, wyjątkowo, w nekrologach czyta się o cnotach obywatelskich. Nikt nie powie o wielkim polityku, o znakomitym dyrektorze banku, o działaczu społecznym, o adwokacie, że to człowiek cnotliwy albo wielkiej cnoty, kiedy go pochwalić zechce, że sprawia się wszędzie jak należy, wielkich dzieł dokonywa i godzien jest czci ludzkiej ze wszech miar. Mówi się wtedy o nim, że to bardzo godny albo bardzo dzielny człowiek, a nie, że cnotliwy. Grecy mówili w takich razach, że to dobry człowiek. Ale to nie miało tego znaczenia, co dziś. Dziś „dobry człowiek” znaczy: człowiek miękkiego serca, dobra dusza, poczciwy, do rany go przyłożyć. Nie o to szło. Ten dobry człowiek u Hellenów to był człowiek taki, jak powinien być, a więc mocny, sprawny, zaradny i uczciwy przy tym. Jeżeli się ktoś odznaczał wysokimi zaletami ducha i ciała, jeżeli był człowiekiem „naprawdę lepszym” albo się za takiego uważał, nazywał się po grecku: kalos k'agathos (z akcentami na ostatnich zgłoskach obu wyrazów). W całym dialogu naszym mówi się więc nie o cnocie i dobroci i nie o ludziach dobrych i cnotliwych, tylko o dzielności i o ludziach dzielnych, godnych, lepszych i naprawdę lepszych. Kto by dziś pisał, że greccy filozofowie wciąż o cnocie rozprawiali i nauczali, wprowadzałby w błąd czytelników.
+
+W dość długiej, uśmiechniętej odpowiedzi Sokratesa jest trochę sarkazmu na temat Gorgiasza, a jeszcze więcej na temat kultury umysłowej współczesnych Aten. Tam ludzie wzruszają ramionami na zagadnienia filozoficzne.
+
+Aleuadowie to najwyższa arystokracja w Larysie. Należy do niej Menon i Arystyp.
+
+II. Sokrates śmieje się coraz wyraźniej. Umyślnie wywołuje pewne nieporozumienie z Menonem, kiedy twierdzi, że nic a nic nie wie o dzielności. To wygląda tak, jakby on nie umiał wcale posługiwać się tym wyrazem i jakby nie umiał odróżnić żadnego dzielnego człowieka od lichego, i jeszcze się do tego przyznawał. Tymczasem on tyle tylko chce i może powiedzieć, że nie stać go na definicję dzielności. Znaczy to, że tylko w niektórych wypadkach nie potrafi rozstrzygnąć, czy ma przed sobą człowieka o wysokiej, czy o średniej wartości. Platon jednak uważa, jak czytamy w Teajtecie, że wiedza nieścisła nie jest żadną wiedzą. Ona się zaczyna tam, gdzie się zaczyna ścisłość, a więc definicja. Stąd jego Sokrates może z czystym sumieniem twierdzić, że nie posiada wiedzy o dzielności, czego naturalnie Menon nie może zrozumieć. To bawi Sokratesa, a że Menon gotów wobec tego patrzeć na niego z góry, to mu jest zgoła obojętne. Czemu? Widocznie czuje się wiele mocniejszy od Menona, a nic łatwiejszego dla ludzi czujących swą moc, jak łagodnie znosić wysokie samopoczucie, a nawet lekceważące traktowanie ze strony pewnych słabeuszów.
+
+Uwierzylibyśmy słabej pamięci Sokratesa, gdybyśmy nie znali Platońskiego dialogu pod tytułem Gorgiasz. Ponieważ go znamy, widzimy, że tu Sokrates bardzo uprzejmie szanuje uczucia uczniowskie Menona, kiedy się wymawia brakiem pamięci.
+
+III. Menon, jak zwykle robią w pierwszej chwili ci, których Sokrates pyta o definicje, podaje różne rodzaje dzielności. Na pewno nie inaczej postąpiłby niejeden z nas, gdyby go zapytać np. o to, co to jest wada? Albo co to jest narzędzie, sprzęt, pora roku. Sokrates żąda wskazania cechy wspólnej wszystkim rodzajom dzielności i charakterystycznej. Tok i ton rozmowy przypomina Platońskiego Iona. Koniec dialogu również — nawet jeszcze bardziej.
+
+IV. Sokrates na przykładach pokazuje, że dzielność zawsze i wszędzie musi być czymś jednym i tym samym, chociaż ma liczne rodzaje i odmiany.
+
+Gdyby ludzie nigdy nie tworzyli wyrazów wieloznacznych, byłoby naprawdę tak — w każdym wypadku. Czasem jednak tworzą i wieloznaczne. Wtedy, gdy dojrzą jakieś powierzchowne, skądinąd mało ważne podobieństwo w dwóch różnych rodzajach rzeczy albo gdy im się zdaje tylko, że dostrzegli coś jednego i tego samego w rzeczach właśnie różnych. Dlatego nie musi każdemu rzeczownikowi odpowiadać zawsze jakiś jeden rzeczywisty przedmiot idealny. Sokrates stale zmierza do jednoznaczności terminów i to jest jego wielka zasługa.
+
+Rozmawiający ustalają roztropność i sprawiedliwość jako niezbędne warunki dzielności. Zatem pewien wysoki poziom intelektualny i moralny. Dwa warunki. Czy my tak samo dziś używamy wyrazu „dzielny człowiek”? Może by warto?
+
+V. Gorgiasz kształcił młodych ludzi na działaczy politycznych i urzędników, a mówiąc dzisiejszymi kategoriami, na sprawnych adwokatów, dziennikarzy, parlamentarzystów, agitatorów, polityków demokratycznych i przedstawicieli rządu. Sprawność w tych dziedzinach wymaga naprawdę sztuki kierowania ludźmi za pomocą sugestii słownej i osobistego wpływu, to jest: sztuki rządzenia ludźmi. To właśnie nazywało się u niego dzielnością. Bez względu na to, czyby uczciwy był sposób osiągnięcia i wywierania tego wpływu, czy nieuczciwy. Kryteria etyczne nie były dla wielkich i mocnych, tylko dla słabych i zależnych.
+
+I dziś, kiedy się o wybitnych osobistościach mówi: to wielki człowiek, nie pamięta się zazwyczaj o ich zbrodniach. Mało kto wymienia pośród znanych morderców np. Cezara lub Napoleona. Przywykło się do tego, żeby zbrodniarzy widzieć tylko pośród poddanych, rządzonych, odpowiedzialnych, zależnych. Może w związku z tym, że faktyczna odpowiedzialność karna maleje z wysokością stanowiska i z wielkością wpływów w każdym państwie. Platon i tu, i w Gorgiaszu, i w Teajtecie, i w wielu innych dialogach ocenia jedną miarą etyczną i potężnych, i szarych ludzi. Nie uznaje więc dzielności bez sprawiedliwości. Nie imponuje mu nikt do tego stopnia, żeby sam ulegał paraliżowi oceny etycznej wobec kogokolwiek. To chyba piękne i słuszne.
+
+VI. Sokrates chce ustalić stosunek podporządkowania między pojęciem dzielności i sprawiedliwości, więc na razie przerabia z Menonem inne stosunki podporządkowania między pojęciami.
+
+VII. Sokrates dla przykładu podaje definicję kształtu. W niej zawarty termin niezdefiniowany: barwa. O to właśnie zaczepia Menon. Widzi niewiadomą po prawej stronie równania też.
+
+VIII. Sokrates słusznie uważa, że wszystkich wyrazów definiować nie można i nie trzeba, tylko niektóre. Pewne trzeba przyjąć jako znane, a które, to zależy od rozmawiających. Jeśli rozmawiający nie mają dostatecznej ilości wspólnych założeń i określeń, nie porozumieją się, bo mówią jak gdyby różnymi językami. Dobrzy znajomi powinni mieć wspólny język. Sokrates podaje dla przykładu drugą już definicję kształtu.
+
+IX. Powtarza też Gorgiaszowe określenie barwy, którego jednak sam nie bierze serio. Widać w tym określeniu jakby trafne przeczucie fal świetlnych, choć ono jest tak ogólnikowe, że równie dobrze się pogodzi i z falową, i z emisyjną teorią światła.
+
+X. Menon podaje drugie z rzędu określenie dzielności, wzięte z któregoś z poetów: dzielny człowiek chce tego, co piękne, i może to osiągnąć. Kto tak rozumie dzielność, a wie, że oprócz ludzi dzielnych istnieją na pewno ludzie małej wartości, ten jest tym samym przekonany, że niektórzy inni ludzie chcą tego, co obojętne albo nawet złe i brzydkie. Ci właśnie, którzy nie są dzielni. Otóż Sokrates zwalcza to ostatnie twierdzenie i utrzymuje, że nie ma ludzi pragnących zła. Menon słusznie uważał zrazu, że niektórzy ludzie pragną i takich rzeczy, o których wiedzą, że one są złe. Za chwilę uległ niepotrzebnie Sokratesowi, któremu się niesłusznie zdawało, że zło musi zawsze szkody przynosić złemu człowiekowi. Dlaczego musi? Dlatego po prostu, że zły znaczy szkodliwy. A jeśli szkodliwy, to powinien niby to zawsze i każdemu szkodzić. Rozumowanie niesłuszne, bo tak samo można by twierdzić, że pisarz nie jada, a ułan nie chodzi piechotą. Dlaczego? Dlatego że pisarz to ten, co pisze, a ułan to taki, co jeździ na koniu. Pisać to nie jeść, a jeździć znaczy nie chodzić piechotą.
+
+Żeby się z Sokratesem tutaj zgodzić, trzeba by szczelnie zamknąć oczy na fakty, o których się mówi, a myśleć wyłącznie tylko wyrazami w ich skrajnym, bezwzględnym, niewłaściwym znaczeniu. Platon często na to cierpiał.
+
+Przy tej myśli, że każdy człowiek zawsze pragnie dobra, trwa Sokrates Platoński i w Obronie, i w Gorgiaszu, i gdzie indziej. Przekazał ją też Arystotelesowi, który swą Etykę zaczyna od tego, że każda działalność i każde postanowienie ludzkie zwraca się do jakiegoś dobra. W średnich wiekach też definiuje się dobro jako to, do czego się dąży, bonum id, quod appetitur. Zaczęło się to twierdzenie od pogardliwego, a równocześnie pobłażliwego spojrzenia Sokratesa na występki ludzkie: „zbrodniarze są tylko głupi”. I od pochwały inteligencji: „dzielny jest tylko człowiek myślący”. Miał Platon nie lada kłopot z tą myślą. Żeby ją jakoś utrzymać, wymyślał męki piekielne w Gorgiaszu i sądy pośmiertne, i Wyspy Szczęśliwych. Bez tego trudno mu było dowieść, że zbrodniarz jest tylko głupi, bo niewyrachowany i ślepy, a porządny człowiek najlepiej, bo najmądrzej, pilnuje swego interesu — pośmiertnego. Ten dowód przekona tylko tych, którzy poetyczne fikcje Platona potrafią wziąć za rzeczywistość. Wątpliwe, czy nawet on sam to robił na co dzień. Ostać się może z tego wszystkiego chyba ta myśl, o wiele mniej śmiała i mniej ogólna, że człowiek mądry często badanie naukowe ceni wyżej niż pieniądze i władzę. Wtedy ma warunki wewnętrzne do tego, żeby żyć uczciwie. Znacznie bardziej korzystne niż ten, którego zjada potrzeba władania i gromadzenia majątku.
+
+I ta myśl również, że ludzie ceniący najwyżej dochodzenie prawdy patrzą z góry na chciwców nieprzebierających w środkach i nie zazdroszczą barbarzyńcom bogatym i wpływowym.
+
+W każdym razie ten rozdział dialogu nie wydaje się przekonujący.
+
+XI. Wobec tego, że pragnienie dobra wydało się rozmawiającym wspólnym znamieniem wszystkich ludzi w ogóle, zatem to znamię nie może już uchodzić w ich oczach za charakterystyczną cechę tylko ludzi dzielnych. Wobec tego Menon zacieśnia swą ostatnią definicję dzielności i nazywa dzielnością wyłącznie tylko moc pomnażania dóbr — takich, jak pieniądze, władza lub zdrowie. Pod wpływem Sokratesa zacieśnia i to określenie i zgadza się, że ta moc tylko wtedy będzie zasługiwała na nazwę dzielności, jeśli jej będzie towarzyszyła sprawiedliwość. Innymi słowy; gotów jest gardzić nawet najbardziej wpływowym i bogatym, i zdrowym zbrodniarzem. A my?
+
+XII. Sokrates zbija z tropu Menona uwagami formalnymi. Wmawia w niego, że nie sposób wiedzieć, co to jest sprawiedliwość, jeżeli się dzielności całej jeszcze nie określiło. I Menon wierzy, że niepodobna znać i rozumieć cząstki czegokolwiek, jeżeli się całości nie zna. Zapomniał, że Ateny i Tesalię znał chyba, chociaż całej ziemi nie znał. I Sokratesa też znał, choć nie znał wszystkich obywateli Aten, a tym mniej wszystkich ludzi. A jeśli rzecz wziąć od strony wyrazów i określeń, to też nie musiał chyba wyrazu „sprawiedliwość” określać koniecznie tylko za pomocą wyrazu „dzielność”. Dość że uwierzył w tej chwili, że posługuje się niewiadomą po lewej i po prawej stronie równania, że popełnia tautologię i że nie potrafi wcale powiedzieć, co to jest dzielność, bo cokolwiek powie, to wszystko okaże się na nic, skoro tylko to Sokrates usłyszy.
+
+XIII. Figle i karykatura. Bezradny Menon zabawnie i trafnie ujmuje Sokratesa jako drętwę morską. Sokrates bardzo uprzejmie i z uśmiechem przyjmuje to porównanie.
+
+XIV. Rozpaczliwy ton Menona można pojąć. Przecież Sokrates sam poddał mu tę myśl, że nie wie się w ogóle nic o tym, czego się nie potrafi zdefiniować. Ta sporna myśl, którą Sokrates formułuje jako szkolny paradoks, wydaje się jednak słuszna. Tylko nie wynika z niej, że badać w ogóle nic nie można. A nie wynika dlatego, że dylemat nie wyczerpuje wszystkich możliwości. Są przecież, oprócz rzeczy dobrze znanych i zupełnie nieznanych, jeszcze takie rzeczy, o których coś tam wiemy, ale bardzo mało, a chcielibyśmy więcej. Te właśnie badamy. Oprócz wiedzy pełnej mamy o wielu rzeczach wiedzę niedokładną i mętną. Tam właśnie pole do badań otwarte.
+
+Platon tego nie mówi, a zamiast tego uderza w tony uroczyste, dobywa poezję o przechodzeniu dusz, czyli o metempsychozie. Pindara bierze na świadka, a że dla poetów ma stale pobłażliwy uśmiech i w najlepszym razie uważa ich za ślepe, nierozumne, nieodpowiedzialne narzędzia mocy wyższych — to wiemy. Zatem i pod tym namaszczonym tonem tutaj wolno się nam domyślać uśmiechu, ukrytego na razie.
+
+XV. Poetyczne uwagi o przypominaniu sobie, czyli o anamnezie. I równocześnie bardzo trzeźwa, bystra, przytomna, krytyczna uwaga, którą się autor demaskuje. Oto powiada po prostu, że nauka o metempsychozie i anamnezie jest dla niego tylko założeniem roboczym — nie dogmatem. On wprawdzie powiada zaraz, że w to wierzy, ale my wiemy, że wierzyć umieją ludzie nawet wbrew lepszej wiedzy. On po prostu ma ochotę sam badać i drugich prowadzić i zachęcać do badań. Dlatego zmyśla bajkę o naszym istnieniu przed życiem i o przypominaniu sobie dawnej wiedzy podczas nauki, wmawia ją po trochu w siebie, a najwięcej w drugich. Dlaczego w siebie mniej, a w drugich więcej, to się jeszcze raz pokaże później. W każdym razie mamy w tym dialogu miejsca, które niewątpliwie świadczą, że Platon, kiedy pisał Menona, wtedy swej nauki o metempsychozie i anamnezie nie brał tak serio, jak się to wydaje historykom filozofii.
+
+W tej chwili Sokrates gotów jest pokazać sztukę i dowieść eksperymentem, że uczenie się to tylko anamneza.
+
+XVI. Sokrates najwidoczniej rysuje na piasku to, o czym mówi. A mówi tak wyraźnie, że nie można mieć żadnej wątpliwości co do tego, jak wygląda narysowana figura. W oczach czytelnika powstaje ten czterostopowy kwadrat. Jeżeli chłopak potrafi porachować, ile w nim jest stóp kwadratowych, z tego na pewno nie wynika, że już raz je rachował w poprzednim życiu.
+
+XVII, XVIII, XIX. Widać, że figura narysowana ma kształt taki:
+
+Sokrates rysuje, a chłopak czyta rysunek i liczy.
+
+XX. W chłopcu na pewno nie siedziały odpowiedzi, które dawał — zachowane jeszcze z poprzedniego życia. Tkwiła w nim jedynie tylko zdolność do czynienia spostrzeżeń. Ta dyspozycja nazywa się uwagą. Gotów był liczyć i porównywać. Gotów był pamiętać i przypominać sobie — w końcu także: myśleć o kwadratach wszelkiego rodzaju, oprócz tego, który miał przed sobą. To są tylko dyspozycje, które człowiek na świat przynosi, ale to nie są ani sądy, ani zdania. Menon razem z Sokratesem nie odróżniają w tym miejscu dyspozycji do sądów od zjawisk sądzenia i dlatego mówią o sądach wrodzonych. Za ich przykładem będzie to jeszcze w XVII wieku po Chr. powtarzał Kartezjusz i Leibniz.
+
+XXI. Przejęli się rozdziałem dwudziestym naszego dialogu bardzo serio. Nie zauważyli, że już tu, w rozdziale XIX, Platon sam się uśmiecha z tych, którzy by naukę o metempsychozie i anamnezie brali dosłownie, jako wyraz jego przekonań. Sokrates dosłownie oświadcza, że nie upierałby się przy tych twierdzeniach. A więc jak je rozumieć? Jako pomysł poetycki, jako obraz fantastyczny, który Platon sam traktuje jako śmiały wytwór własnej fantazji, a nie rzeczywistość, którą by odkrył i w której istnienie by sam wierzył lub je komukolwiek do wierzenia podawał. Platon tu oświadcza najwyraźniej, że nie wierzy w metempsychozę i w anamnezę. On tylko w to wierzy, że warto myśleć i badać, spostrzegać i uogólniać, i szukać jedności dających się wyróżnić myślą w licznych podobnych jednostkach konkretnych, bo rozumowanie przychodzi zdolnemu człowiekowi równie łatwo jak przypomnienie sobie temu, który ma dobrą pamięć. Wykrywanie związków geometrycznych wygląda też nieraz tak, jakby człowiek te rzeczy gdzieś i kiedyś znał, choć poznać ich nie było kiedy i jak. W to Platon wierzy i my z nim, a tamto to obraz tylko. On lubił rysować za młodu, jak świadczy Olympiodoros w swym Żywocie Platona.
+
+XXII. Sokrates chce wyjaśnić Menonowi, co znaczy przyjąć pewne założenie na chwilę i patrzeć, co by z tego wynikło. Bierze więc przykład z geometrii i mówi o nim tak niejasno, że już przed stu laty istniała na temat tego ustępu literatura. V. Cousin poradził sobie w ten sposób, że gdzie Sokrates mówi o przeciąganiu czy przedłużaniu kreski, Cousin pisze o zakreślaniu koła i zakłada do woli, że mowa tu wyłącznie o trójkątach prostokątnych, których przeciwprostokątna byłaby średnicą koła, a kąt prosty wspierałby się na półkolu. To są dowolne przeinaczenia tekstu, na które nie wolno sobie pozwalać.
+
+Najbliższe prawdy wydaje się przypuszczenie, że Sokrates ma tutaj na myśli zamianę dowolnego trójkąta na inny, równy mu co do powierzchni, który by się dał wpisać w dane koło. Zagadnienie, które znajdujemy w tekście, wydaje się niedostatecznie oznaczone z pomocą samych tylko słów tekstu. Wolno się domyślać, że obok tekstu dialogu wyrysował Platon figurę, która zagadnieniu nadawała dopiero sens jednoznaczny (zob. rysunek). Mogło to więc być dowolne koło i trójkąt, którego jeden wierzchołek A leżałby na okręgu koła, drugi wierzchołek B leżałby wewnątrz koła, a trzeci C znajdowałby się na zewnątrz. Chodzi o zbadanie, czy istnieje trójkąt spełniający następujące warunki: 1) kąt przy A ma być jednym z kątów nowego trójkąta, 2) wszystkie wierzchołki nowego trójkąta mają leżeć na okręgu danego koła, 3) pole nowego trójkąta ma być równe polu trójkąta danego.
+
+Chcąc zbadać, czy istnieje taki nowy trójkąt, wyznaczamy punkt przecięcia przedłużonego boku AB z okręgiem koła B1 oraz wyznaczamy punkt C1, w którym bok AC przecina się z okręgiem. Łączymy B1 i C1. Powstaje nowy trójkąt AB1C1. Ten trójkąt spełnia pierwszy i drugi warunek. Chcąc zbadać, czy i trzeci warunek będzie spełniony, oznaczmy literą D punkt przecięcia się prostej BC z prostą B1C1. Trzeci warunek będzie spełniony wtedy i tylko wtedy, jeżeli pole trójkącika BB1D będzie równe polu trójkącika CC1D. To znaczy, jak powiada Platon, jeżeli zabraknie takiej figurze tyle (wzdłuż boku AC), ile by mogło być właśnie tego przedłużenia (przy AB aż do okręgu). Jeśli warunek równości trójkącików jest spełniony, to istnieje trójkąt żądany; jeżeli zaś nie, to taki trójkąt nie istnieje. Hipotezą, czyli założeniem, które tutaj przyjmuje fikcyjny geometra Platona, jest raz równość trójkącików, a innym razem ich nierówność.
+
+Być może o to szło Sokratesowi, ale mówił prędko, pobieżnie i wyszła z tego zagadka. Dla głównego toku myśli właściwie mało ważna.
+
+XXIII. Jeżeli dzielność polega na wiedzy, można jej nauczać i samemu się jej uczyć; jeśli polega na czymś innym — nie można. Wypadałoby się teraz zgodzić na jedną z dwóch podanych ewentualności, a drugą odrzucić, żeby Menon dostał odpowiedź na pytanie, od którego zaczął rozmowę. Tymczasem Sokratesowi wpada nowa myśl do głowy: że dzielność podpada na pewno pod pojęcie dobra, czyli czegoś pożytecznego.
+
+XXIV. Warunkiem niezbędnym pożytku z wszelkich dóbr fizycznych i duchowych i materialnych wydaje się rozum. Dzielność jest dobrem duchowym i przynosi pożytek, zatem i jej warunkiem musi być rozum. Zamiast tego wniosku Sokrates dochodzi do tego, że dzielność musi być pewnym rodzajem rozumu. Może to być swoboda stylistyczna.
+
+XXV. Sokrates wyjaśnia rolę rozumu w dzielności. On decyduje o wartości człowieka. Jest jego najwyższą zaletą. Zdobywa się go w ciągu życia — nikt z nim na świat nie przychodzi. W myśl ostatniego zdania tego ustępu zakłada się dziś tu i ówdzie naprawdę szkoły i internaty dla wybitnie uzdolnionych dzieci, a szuka się ich z pomocą metod psychotechnicznych. Chowanie dzieci pod kluczem i pieczęcią jest oczywiście żartem Sokratesa. Do dziś biorą ten żart poważnie pedagogowie, którzy utrzymują, że ulica i miasto młodzież psuje, pragną, żeby młodzież nie znała środowiska, w którym żyje i żyć będzie musiała, i są dlatego za wychowaniem w zamkniętych zakładach, na wsi lub za murami klasztorów.
+
+XXVI. To, co dotąd, na pewno nie jest jeszcze apelem do mieszczan ateńskich, aby zapisywali synów do Akademii. Platon nie głosił, że potrafi sam nauczyć dzielności; twierdził tylko, że rozum decyduje o wartości człowieka, a można go kształcić — tym samym można się dzielności uczyć.
+
+Tu zjawiają się argumenty przeciw temu twierdzeniu. Pierwszy oparty na założeniu, że nie można się uczyć tego, czego nikt (w pewnym kraju lub mieście) nie naucza i czego się tam nikt nie uczy. To zdanie jest słuszne, ale tylko w ciasnym znaczeniu wyrazu „nie można”. Znaczy to przecież tyle tylko, że na razie w Atenach, tu i teraz, nie można tego robić, a nie o to szło, tylko o to, czy w ogóle gdziekolwiek można, czy nie można. Jeżeli się nawet pokaże, że w Atenach nie ma nauczycieli dzielności, to nie wystarczy do uzasadnienia przeczącej odpowiedzi na główne pytanie Menona.
+
+Teraz się myśl rozmawiających skupia nie na zagadnieniu ogólnym, ale na czysto miejscowym, ateńskim: czy tu, na miejscu działają jacyś nauczyciele dzielności, czy nie działają. Wiemy, że ogłaszało się tam wielu takich. To byli „uczeni”, czyli tzw. sofiści zawodowcy, którzy to za swój fach podawali. Sokrates i Platon nie uznawali sofistów, a jak o nich myślały szerokie koła nieoświeconych Ateńczyków, o tym się dowiemy nie z ust Sokratesa, tylko od kogoś, kogo niepodobna posądzić o sympatię do Sokratesa. Może właśnie dlatego wprowadza teraz Platon do rozmowy przyszłego oskarżyciela Sokratesa, a więc jego śmiertelnego wroga, i jemu każe wypowiadać się samodzielnie na temat ateńskich nauczycieli dzielności.
+
+Ten pełen szacunku ton, którym Platon chwali ojca Anytosa, garbarza i szewca Antemiona, jest podejrzany. Negatywna pochwała, której mu nie szczędzi, mówiąc, że to obywatel zgoła nie zarozumiały, nie nadęty i nie arogancki, świadczy, jak się Platonowi przedstawiał przeciętny demokrata ateński. To dobre wychowanie i wykształcenie Anytosa Platon też chwali nie od siebie; stwierdza tylko popularność Anytosa u tłumu ateńskiego, o którym czytamy właśnie, co Platon sam myślał. Jeżeli tak, to ostatnie słowa tego rozdziału zawierają ironię niewątpliwą, choć zamaskowaną dla wielu pierwszorzędnych badaczy Platona. Wilamowitz-Moellendorff np. uważa niesłusznie, że Anytos jest w tym dialogu traktowany oględnie i z ukłonem.
+
+XXVII. Anytos, typowy kołtun, bo ciasny, tępy, a zawzięty i zarozumiały, stwierdza na razie, pod kierunkiem Sokratesa, słusznie, że fachowość nakłada obowiązki płynące z zaufania publicznego.
+
+XXVIII. Z ust Anytosa padają jaskrawe, zażarte słowa potępienia pod adresem sofistów. Słyszymy niewątpliwie te same słowa, które Anytos później kierował przed sądem przeciw Sokratesowi, bo Sokrates był mu równie znienawidzony jak wszyscy ludzie myślący niezależnie od tradycji ojczystej. On przecież Sokratesa też uważał za sofistę, tylko gorszego, bo nic nie zarabiał i bez butów chodził na przyjęcia.
+
+XXIX. Tu już chyba każdy dojrzy ironię jadowitą Platońskiego Sokratesa, kiedy ten nagle udaje niedowierzanie i tonem rzekomego obrońcy, który niby to pierwszy raz coś podobnego słyszy o sofistach, pogrąża ich w opinii czytelnika ze szczętem.
+
+XXX. Platon wypowiada się sam ustami Anytosa o sofistach, a Sokratesowi powierza pognębienie Anytosa. Pokazuje się, że ten ich wcale nie zna z osobistego doświadczenia, a mimo to nienawidzi ich i hańbi, i oskarża namiętnie. Zapewne więc podobnie później postąpił z Sokratesem, kiedy jego śmierci żądał, jako gorszyciela młodych. To nic. On wypowiada opinię publiczną — widać więc, że opinia publiczna potępia sofistów. To sprytny chwyt retoryczny Platona. Ale właśnie pod jego piórem niezbyt mocny. On przecież lepiej niż ktokolwiek wiedział, jak bardzo mogą się mylić szerokie koła, jak łatwo rozchodzą się pośród nich potwarze i jak na opinii szerokich kół polegać nie można. Pisał przecież Kritona. Sokrates udaje, że sam nie ma żadnego zdania o sofistach, a ujemny sąd o nich zrzuca wyłącznie na odpowiedzialność Anytosa.
+
+XXXI. Zagadnienie kłopotliwe, który z Ateńczyków potrafi młodzież poprawiać, znamy już z rozmowy Sokratesa z Meletosem podczas obrony w sądzie. I tu, i tam tok rozmowy podobny. Tu szerzej rozwinięta myśl, według której nie potrafią młodzieży wychowywać na dzielnych ludzi nawet najtęższe i najsławniejsze jednostki w Atenach.
+
+XXXII. Przykładem pierwszym Temistokles i jego syn nieudany, nieszczególny. Nic, tylko sportowiec.
+
+XXXIII, XXXIV. Drugi i trzeci to Arystydes i Perykles, czwarty Tukidydes. Aż dziwna bezceremonialność i odwaga, i miłość prawdy większa niż poczucie konwenansu i sugestia patriotyczna. Ten ustęp musiał mieć w swoim czasie w Atenach posmak plotki. Miasto nie było tak wielkie. Ujemnych uwag o znajomych ludzie słuchają i czytają je chętnie — tym bardziej, jeśli prawdziwe. Anytos syczy groźbą skierowaną do Sokratesa. Widocznie odczuł nie umizgi, tylko pewną pobłażliwą pogardę w stosunku do ludzi, do których się i sam zaliczał.
+
+XXXV. Sokrates odsłania zarozumiałość Anytosa. Mówiło się przecież o znakomitościach ateńskich — gdyby się Anytos nie uważał za jedno ze świateł na horyzoncie ojczystym, nie miałby powodu gniewać się na Sokratesa. Tak przynajmniej pojmuje go Platon w tym miejscu. Tu ironia bolesna. Bo Anytos „dowie się, co to jest potwarz” zapewne dopiero wtedy, kiedy sam oczerni Sokratesa przed sądem i przyprawi go o śmierć. Dziś mu się zdaje niesłusznie, że potwarz to pobłażliwe uwagi o zdolnościach wychowawczych sławnych ludzi i o wartości ich synów.
+
+Menon, niezainteresowany osobiście w zagadnieniu, o którym mowa, stwierdza rozbieżność i chwiejność zdań w sprawie wyuczania się dzielności między wybitnymi osobistościami w Tesalii i u siebie samego.
+
+XXXVI. Również i ustępy z poetów razem z chaosem poglądów, który panuje w tej sprawie, zdają się przemawiać przeciw temu, żeby dzielności można się było uczyć.
+
+XXXVII. Jeżeli więc mimo to istnieją i w dzisiejszych, i w dawnych Atenach ludzie godni, dzielni, to skąd się mogą brać, skoro dzielność, jako polegająca na rozumie i wiedzy, nie rodzi się razem z człowiekiem, a z nauki też nie może powstawać, bo tej nauki nie ma skąd brać w Atenach?
+
+XXXVIII. Rzecz tłumaczy się tym, że pożytek dla państwa i słuszność działania, po czym się dzielnych ludzi poznaje, nie muszą wynikać jedynie tylko z ich rozumu i wiedzy. Wystarczy do tego, jak my byśmy powiedzieli, trafna intuicja, która nie jest tym samym, co wiedza i rozum. Platon ją nazywa zdolnością do sądów prawdziwych. Tu z pewnością zaczerpnął i Kant swój termin „władza sądzenia”, Urteilskraft. Intuicja, gdy trafna, przydaje się, tylko polegać na niej nie można, jak to słusznie zauważył Menon. Jest skazana na szczęśliwy przypadek.
+
+XXXIX. Sokrates, figlując z Menonem, ustala różnicę między intuicją trafną a wiedzą. Na tle intuicji powstają sądy prawdziwe, ale niepowiązane logicznie jedne z drugimi — w dziedzinie wiedzy mamy tezy oparte na argumentach, wnioski na przesłankach. Stąd jej trwałość i wartość.
+
+Dedal to mityczny rzeźbiarz. Miał pierwszy dawać swoim posągom oczy, które patrzą, i nogi, które zdają się iść. Poprzednio rzeźbiono je stulone na baczność. Dlatego mówiło się, że posągi Dedala uciekały po prostu i że trzeba je było wiązać, aby nie uciekły naprawdę.
+
+XL. Sokrates streszcza przebyte rozważania i ustala wraz z Menonem, że do słusznych i pożytecznych działań można dochodzić albo na podstawie nieodpowiedzialnej intuicji, albo na podstawie wiedzy.
+
+XLI. Tak samo ma się rzecz, oczywiście, jeżeli chodzi o działalność polityczną. Zatem znakomici politycy dawnych Aten i kierownicy współczesnych kierowali się i kierują wyłącznie tylko intuicją, jeżeli dokonali czegoś dobrego lub dokonywają, bo nie mieli i nie mają skąd dostać wiedzy, która by się mogła stać podstawą ich dzielności. Zatem nie rozum decyduje o ich pożytecznym działaniu, tylko ślepy los i szczęśliwy przypadek.
+
+Tu przychodzi szczytowy punkt ironii Platońskiej, wysunięty na koniec dialogu — zupełnie tak samo, jak w Ionie. Ci niekierujący się rozumem i nieposiadający wiedzy mężowie stanu, którym się mimo to udało zrobić coś dobrego, dostają przydomek „boskich”. Ale nie z ust Sokratesa wprost. On tylko Menonowi proponuje, żeby ich tak nazywać — za przykładem egzaltowanych kobiet i nieoświeconych Spartan. Tej propozycji nie wolno brać serio. Dlatego chociażby, że, jak słyszymy z ust Menona w tej chwili, Anytos jest obrażony. Przecież nie mógłby się czuć obrażony, gdyby ton Sokratesa świadczył, że on tę szczytną pochwałę nierozumu i niewiedzy wypowiada szczerze, z przekonania. Jeżeli Platon zaznacza jego obrazę, widocznie chce podkreślić niedwuznacznie ton Sokratesa ironiczny — a przejrzysty dla całego rozmawiającego towarzystwa.
+
+Zresztą słyszymy, że Sokrates zestawia tych szczęśliwych polityków z poetami, wróżkami, wieszczbiarzami, a wiemy choćby z Eutyfrona, z Iona, z Fajdrosa lub z Obrony, jak mało Platon szanował ten rodzaj ludzi. Ten żart należy do tych, które zyskują, jeżeli się na nich ktoś nie poznaje. Dlatego że taki ktoś dostarcza w ten sposób jeszcze jednej figury komicznej do widowiska — dla każdego, kto ma oczy i uszy otwarte. Niełatwo dojść, dlaczego Wilamowitz-Moellendorff bierze i tu słowa Sokratesa poważnie i posądza Platona wraz z jego Sokratesem o schlebianie tłumowi dla zyskania uczniów w nowo otwartym zakładzie. Na tak ubliżające i niepodobne do nich, tak niepsychologiczne posądzenie nie zasłużył sobie niczym ani jeden, ani drugi.
+
+XLII. Sokratesowi nie zależy na tym, co sobie myśli Anytos. Dowiódł tego w ostatnim ustępie swej obrony — więc można mu wierzyć. Sokrates streszcza wynik rozmowy: Dzielność — oczywiście ma tu na myśli swoich współczesnych dzielnych Ateńczyków, jeżeli tacy byli — nie płynie ani z natury, ani z nauki i nie posiada na razie podstaw rozumowych. Innymi słowy: przydałaby się naukowo ujęta, a więc uzasadniona etyka, czyli nauka postępowania pożytecznego naprawdę, a więc sprawiedliwego. Dopiero wtedy mielibyśmy ludzi naprawdę dzielnych i moglibyśmy mówić o uczeniu dzielności. To, co jest dziś, jest tylko cieniem błędnym tego, co być powinno.
+
+Platon sam wyznaje, że na razie nie wie dobrze, na czym właściwie dzielność polega, ale nie traci nadziei, że dojdzie z czasem. Wynik skromny, ale cenny: poczucie niewiedzy jako niezbędny wstęp do badań. Menon już na pewno teraz wie, że nie posiada jasnego pojęcia dzielności. Jeżeliby to skromne samopoczucie potrafił zasugerować Anytosowi i jego sympatykom pośród obywateli, których Anytos reprezentuje, zaczęto by w Atenach nie lekceważyć jak dziś, ale szanować i popierać tych, którzy się oddają pracy nad naukowymi podstawami etyki. Ateny mogłyby na tym tylko zyskać. Wtedy by i do procesu Sokratesa nie przyszło, bo Anytos nie znalazłby się pośród jego oskarżycieli; siedziałby obok niego w gronie uczniów. Ateny mogły i na tym tylko zyskać — choćby w opinii ludzi oświeconych.
+
+Oto jak wyglądają te rzekome umizgi Platońskie i zabiegania o względy mieszczan dla jego Akademii.
+
+Wypada przy końcu zapytać, czy słusznie Platon wiąże tak różowe nadzieje z powstaniem etyki naukowej. Zaczną się, powiada, ludzie uczyć dzielności z książek, a więc będą dzielni naprawdę. Te nadzieje wydają się jednak zbyt różowe. Dlatego że wiedzieć, co jest dobre, godziwe, właściwe, uczciwe, zacne, a chcieć tego i tak postępować — to są dwie rzeczy zgoła różne i niekoniecznie idą w parze. Nie sam intelekt decyduje o wartości etycznej człowieka. Znamy dobrze włamywaczy, oszustów, morderców, i to nieraz o rękach czerwonych krwią wielu ludzi, którzy intelektualnie stali wysoko ponad swym otoczeniem albo posiadali wykształcenie średnie i wiedzieli dobrze, że ich czyny potępia każdy, kto na nich nie zarabia, a nawet i tym, którzy przy nich zarabiali, i nawet im samym sumienie wyrzuty robiło czasami. Znamy wypadki samobójstw pod wpływem nieodpartego pociągu do przestępstw, które samobójca sam potępiał szczerze i właśnie dlatego odebrał sobie życie, że nie potrafił tak postępować, jak to sam uważał za dobre, właściwe i pochwały godne. Wartość etyczna człowieka zależy od siły i zakresu jego instynktu społecznego w pierwszym rzędzie, a od jego poziomu umysłowego dopiero w drugim. Żeby być dzielnym człowiekiem, trzeba już z natury mieć skłonność do współdziałania z innymi i do poszanowania cudzych interesów, podobnie jak się szanuje własne. Te dane wrodzone może umocnić wychowanie, a wiedza może tym skłonnościom wskazać drogi wolne od sprzeczności, krótkie i bezpieczne. Ale sama wiedza nie potrafi nigdy z bezwzględnego egoisty o naturze wilka lub lisa zrobić ofiarnej i pracowitej pszczółki.
+
+Z tym wszystkim praca nad etyką naukową jest godna zachodu i może się przydać, dlatego że najlepsze nawet natury gubią się nieraz i błądzą w postępowaniu, ulegając sugestiom nieoświeconego otoczenia. Wiele cierpień niepotrzebnych, wiele zbędnych tarć i wiele krwi ludzkiej płynie z ciemnoty, stąd, że ludzie nieoświeceni uważają za dobro to, co im dyktuje przesąd, tradycja, folklor, urojenie religijne, sugestia polityczna — wszystko możliwe, tylko nie zdrowy rozum. Serce i wiara silniej mówi do nich niż mędrca szkiełko i oko. To, że Sokrates i Platon u początków naszej kultury uczyli poddawać nierozumny głos serca i ślepej wiary pod rozbiór i kierunek rozumu, to ich wielka zasługa około rozwoju Człowieka w Europie.

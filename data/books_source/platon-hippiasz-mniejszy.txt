@@ -1,0 +1,718 @@
+Platon
+
+Hippiasz mniejszy
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-6917-2
+
+
+
+
+
+Wstęp tłumacza
+
+Scena przedstawia zakąt sali po odczycie popisowym sławnego ze swej wszechstronności i wysokiej kultury literackiej sofisty, w domu, być może Eudikosa, syna Apemanta. Publiczność wychodząca ożywiona bardzo; słychać słowa zachwytu nad treścią i formą prelekcji, nad mistrzostwem i subtelnością rozróżnień, nad niezwykłym pogłębieniem przedmiotu.
+
+Eudikos, zaliczający się widocznie do wykształconych literacko jednostek, nawiązuje rozmowę między prelegentem a Sokratesem.
+
+Początek rozmowy świadczy, że temat odczytu popisowego Hippiasza stanowiła pochwała bohaterów homeryckich; temat przystępny dla publiczności, bo na Iliadzie i Odysei uczył się ówczesny Grek w szkole czytać i oceniać ludzi i stosunki. Temat modny i narodowy. Każdego z trzech wybitnych bohaterów epopei ojczystych pochwalił prelegent innym przydomkiem, a przeciwstawił prostoduszny i szczery typ Achillesa fałszywemu i chytremu typowi Odyseusza. Pierwszeństwo przyznał Achillesowi.
+
+Dla Sokratesa sprawa się nie kończy na pochwale lub naganie jednostkowej. Spróbuje sięgnąć w głąb, dojść, na jakiej zasadzie oparta była pochwała, i przyjrzeć się, co z tej zasady wyniknie. Na dnie ocen Hippiasza leży kult mocy, sprawności życiowej, kult nieobcy Sokratesowi i Platonowi. Konsekwencją jednak tego kultu są oceny sprzeczne z jakimś zakorzenionym poczuciem, którego się ani Sokrates wyzbywać nie myślał, ani Hippiasz nie miał odwagi zapierać się go otwarcie. Chcąc pozostać przy starych ocenach w poszczególnych przypadkach, Platon rozszerzył pojęcie sprawności życiowej, wliczając do życia i życie zagrobowe, biorąc w rachubę, oprócz praw kar i nagród ludzkich, prawa, kary i nagrody pozaziemskie. Rozwija ten tok myśli w dialogu pod tytułem Gorgiasz; w Hippiaszu mniejszym ogranicza się do tego, żeby w kłopot wyprowadzić przeciwnika, który oceny swoje opiera na czysto ziemskim, doczesnym, ludzkim pojmowaniu sprawności życiowej. Zobacz, powiada Platon niejako, do czego dochodzimy i co nas czeka, jeżeli lepszym nazwiemy mądrzejszego w znaczeniu doczesnym, sprytniejszego, lepiej przystosowanego życiowo do danych warunków. Chwalić będziemy musieli wówczas wszelkie sprytne łotrostwo wbrew poczuciom, które jeden z nas ma, a drugi je udaje dla przyzwoitości. Chwali je nieraz i mit ojczysty, kiedy uwielbia bohaterów i bogów oszustów, imponują nam i w życiu jednostki, których jedyną wartością spryt życiowy; spróbujmy być konsekwentni, spróbujmy aż do końca stosować zasadę: dobry to tyle, co sprawny życiowo. Spotkamy wypadki, które nas wprowadzą w kłopot. Ja przeprowadzę aż do końca tę zasadę, bo inaczej pojmuję życie, ale ty, Hippiaszu, przy twoim pojmowaniu życia utkniesz i będziesz się wstydził konsekwencji. Spróbuj i zrób coś z tym.
+
+Tam mówi dusza Platona, ale nie tak poważnym tonem. Sokrates figluje z Hippiaszem. Autorowi nic nie zależy na tym, że jeden czytelnik weźmie rzecz jego za utwór czysto humorystyczny, drugi się obrazi o nieścisłości, inny nie potrafi pogodzić niesłychanych zdań, które Sokrates poddaje przeciwnikowi, z resztą jego postaci i z resztą nauki Platona.
+
+Dialog nasz jest do dzisiaj tłem nieporozumień. Zarzucają Sokratesowi, że w tej rozmowie z Hippiaszem przestał być sobą, zamienił role z sofistą i podczas gdy Hippiasz stoi na stanowisku zdrowego rozsądku, Sokrates układa tanie paradoksy i ten fałszywy towar z dobrą miną wynosi na targ, byle tylko pognębić przeciwnika. Pokaże się, czy to prawda. Schleiermacher i Ast nie wierzyli w autentyczność Hippiasza mniejszego, z którym już Arystoteles polemizował (Metafizyka 1025a.6), ale związek jego z Gorgiaszem, treść i forma nie pozwalają wątpić o autentyczności dialogu. Wątpliwości stąd poszły, że niewłaściwym tonem rzecz czytano; nie uwzględniano niedbałego uśmiechu, z którym Platon lubi mówić najpoważniejsze rzeczy. W ostatnich rozdziałach Fajdrosa powiedział, jak jest daleki od pedanterii, jak mu mało zależy na literze tekstu, jak zgoła nie miał zamiaru wydawać ścisłych traktatów, od których by nic ująć i nic by do nich dodać i sam nie był gotów, i drugim na to nie pozwalał. Stąd potrzeba go niekiedy dopiero odgadywać.
+
+
+
+
+Hippiasz mniejszy
+
+
+Osoby dialogu:
+ * Eudikos
+ * Sokrates
+ * Hippiasz
+
+
+Eudikos: A ty, dlaczego ty milczysz, Sokratesie, po takim wielkim popisowym wykładzie Hippiasza i albo razem z drugimi nie chwalisz czegoś z mowy, albo nie zbijasz, jeśli ci się coś nie wydaje trafnie powiedzianym? Tym bardziej, żeśmy sami zostali; my, którzy byśmy mogli mieć największe pretensje do udziału w rozprawach filozoficznych.
+
+Sokrates: Tak, Eudikosie; jest coś takiego, o co bym chętnie zapytał Hippiasza; coś z tych rzeczy, które właśnie mówił o Homerze. Bo ja już od twojego ojca, Apemanta, słyszałem, że Iliada ma być piękniejszym poematem Homera niż Odyseja; a o tyle piękniejszym, o ile lepszym ma być Achilles od Odyseusza. Bo z obu tych poematów jeden, powiada, poświęcony jest Odyseuszowi, a drugi Achillesowi. Więc o to bym się chętnie, jeżeli Hippiasz łaskaw, rozpytał, jakie też ma zdanie o tych dwóch mężach; którego z dwóch nazywa lepszym, skoro nam tyle różnych pięknych rzeczy pokazał i o poetach w ogóle, i o Homerze.
+
+II. Eudikos: Ależ, oczywiście, że Hippiasz nie poskąpi odpowiedzi, jeżeli go o coś zapytasz. Prawda, Hippiaszu, że jeśli cię o co zapyta Sokrates, to odpowiesz? Czy co zrobisz?
+
+Hippiasz: Przecieżby to, Eudikosie, bardzo było z mojej strony dziwne i niewłaściwe, gdybym ja, który do Olimpii na uroczystość wszechhelleńską, ilekroć są igrzyska, zawsze z domu, z Elidy jeżdżę do świątyni i poświęcam się mówieniu, o czym tylko kto zechce z tych rzeczy, którem sobie na popis przygotował, i służę każdemu odpowiedzią na dowolne zapytanie, miał teraz uciekać przed pytaniem Sokratesa.
+
+Sokrates: Doskonale ty się musisz czuć, Hippiaszu, jeśli każdej olimpiady z takim spokojem o swoją duszę na punkcie mądrości przybywasz do przybytku bóstwa; ja bym się dziwił, gdyby nawet który z zapaśników ciałem pracujących tak bez obawy i z takim zaufaniem do ciała przyjeżdżał tam na zapasy, jak ty powiadasz, że ufasz swemu rozumowi.
+
+Hippiasz: Naturalnie, Sokratesie, że się tak czuję. Bo odkąd zacząłem brać udział w igrzyskach olimpijskich, nigdym nie natrafił na nikogo, kto by mnie przewyższył pod jakimkolwiek względem.
+
+III. Sokrates: Pięknie mówisz, Hippiaszu, i dla miasta Elis to jest klejnot mądrości: sława twoja; i dla rodziców twoich. Ale co też ty nam powiesz o Achillesie i Odyseuszu? Którego z nich nazywasz lepszym i pod jakim względem? Bo kiedy nas tam tylu było w sali, a tyś miał wykład popisowy, straciłem wątek twoich wywodów, a wahałem się pytać na nowo, bo tłum gęsty był w środku i nie chciałem ci przeszkadzać w popisie. Ale teraz, kiedy nas jest mniej, a ten Eudikos namawia, żeby się pytać, to powiedz i poucz nas jasno, coś mówił o tych dwóch mężach? Jakeś ich rozróżniał?
+
+Hippiasz: Otóż ja ci, Sokratesie, chcę jaśniej jeszcze niż wtedy wyłuszczyć to, co mówię i o tych, i o innych. Bo ja powiadam, że Homer zrobił Achillesa mężem najlepszym z tych, którzy pod Troję przybyli, najmądrzejszym Nestora, a najobrotniejszym Odyseusza.
+
+Sokrates: Ajajaj, Hippiaszu; a czy mógłbyś mi zrobić tę łaskę i nie śmiać się ze mnie, kiedy z trudnością pojmuję to, co się mówi, i często się pytam na nowo? A próbuj mi może łagodnie i uprzejmie odpowiadać.
+
+Hippiasz: Tożby to wstyd był, Sokratesie, gdybym ja, który innych w tym właśnie kształcę i uważam za właściwe brać za to pieniądze, kiedy ty mnie samego będziesz pytał, nie wybaczył ci i nie odpowiadał łagodnie.
+
+IV. Sokrates: Bardzo pięknie mówisz. Bo ja, wiesz, kiedyś mówił, że Achilles jest przedstawiony w poemacie jako najlepszy, myślałem, że rozumiem, o co ci idzie, i kiedyś mówił, że Nestor najmądrzejszy. Ale kiedyś powiedział, że poeta miał Odyseusza zrobić najobrotniejszym, to tego, żeby ci prawdę powiedzieć, zgoła nie rozumiem, jak ty to myślisz. Więc mi powiedz; może się stąd nieco lepiej nauczę. To Achillesa nie maluje Homer obrotnym?
+
+Hippiasz: Zgoła nie, Sokratesie, tylko zupełnie naiwnym, skoro przecież i w Prośbach posłów, kiedy im Homer każe rozmawiać ze sobą, to mówi u niego Achilles do Odyseusza:
+
+
+Z Boga zrodzony Laertiadesie, przebiegły Odysie!
+Muszę ci twego żądania odmówić zupełnie po prostu,
+Tak, jak myślę naprawdę i jak się stanie z pewnością,
+(Byście mi tu nie ćwierkali nad głową to jeden, to drugi).
+Wstrętny mi bowiem jest taki, tak samo jak bramy Hadesu,
+Który inaczej w swej głębi zamyśla, a mówi inaczej.
+Ja ci powiem natomiast to, co się stanie na pewno.
+
+Maluje w tych słowach charakter jednego i drugiego męża; pokazuje, że Achilles jest prawdomówny i prosty, a Odyseusz obrotny i fałszywy, bo w poemacie Achilles do Odyseusza kieruje te słowa.
+
+Sokrates: Teraz, Hippiaszu, gotowym zrozumieć, co masz na myśli. Doprawdy. Przez obrotnego rozumiesz fałszywego, jak widać.
+
+Hippiasz: Tak jest, Sokratesie, bo takim wymalował Homer Odyseusza w wielu miejscach i w Iliadzie, i w Odysei.
+
+Sokrates: Więc zdaje się, że Homerowi jeden z tych dwóch mężów wydawał się prawdomówny, a drugi fałszywy, a nie jeden i ten sam.
+
+Hippiasz: Jakżeby mogło być inaczej, Sokratesie?
+
+Sokrates: A czy się i tobie samemu tak wydaje, Hippiaszu?
+
+Hippiasz: Ze wszech miar; dziwne by było, gdyby nie.
+
+V. Sokrates: No, to Homerowi dajmy pokój, tym bardziej, że niepodobna dziś pytać go na nowo, co też sobie myślał, kiedy pisał ten poemat. Ale skoro ty zdajesz się podejmować jego sprawę i zdaje ci się też tak samo, jak twierdzisz, że Homer mówił, więc odpowiadaj równocześnie za Homera i za siebie.
+
+Hippiasz: Będzie tak; zatem pytaj pokrótce, o co chcesz.
+
+Sokrates: Ludzie fałszywi, powiadasz, to niby niezdolni do zrobienia czegoś, jakby chorzy, czy też to zdolni do zrobienia czegoś?
+
+Hippiasz: Zdolni, mówię ci, i to bardzo mocno do wielu różnych rzeczy, a między innymi do oszukiwania ludzi.
+
+Sokrates: Zatem zdolni, zdaje się, będą wedle twego zdania i ludzie obrotni. Czy tak?
+
+Hippiasz: Tak.
+
+Sokrates: A oni są obrotni i oszukują z głupoty i nierozsądku, czy z szelmostwa i rozsądku pewnego?
+
+Hippiasz: Z szelmostwa przede wszystkim i z rozsądku.
+
+Sokrates: Więc są rozsądni, jak się zdaje?
+
+Hippiasz: Tak, na Zeusa, i bardzo nawet!
+
+Sokrates: A jeśli są rozsądni, to nie wiedzą, co robią, czy wiedzą?
+
+Hippiasz: I bardzo dobrze wiedzą, i dlatego też źle robią.
+
+Sokrates: A jeśli wiedzą to, co wiedzą, czy są głupcami, czy ludźmi mądrymi?
+
+Hippiasz: Mądrzy są przecież, właśnie w tym, w oszukiwaniu.
+
+VI. Sokrates: Poczekajże; przypomnijmy sobie, co ty mówisz. Powiadasz, że ludzie fałszywi są zdolni i rozsądni, i mają wiedzę, i mądrzy są w tym, w czym są fałszywi?
+
+Hippiasz: A powiadam przecież.
+
+Sokrates: A ludzie prawdomówni i fałszywi są różni od siebie i skrajnie przeciwni jedni drugim?
+
+Hippiasz: Mówię to.
+
+Sokrates: Więc proszę cię; to ludzie fałszywi będą, wedle twego zdania, należeli chyba do zdolnych i mądrych.
+
+Hippiasz: Ależ naturalnie.
+
+Sokrates: A kiedy mówisz, że ludzie fałszywi są zdolni i mądrzy pod tym samym względem, to czy mówisz, że zdolni są kłamać, kiedy chcą, czy też niezdolni na tym punkcie, na którym kłamią?
+
+Hippiasz: Ależ zdolni, powiadam.
+
+Sokrates: Więc, niby krótko mówiąc: ludzie fałszywi są mądrzy i zdolni do kłamania?
+
+Hippiasz: Tak.
+
+Sokrates: A człowiek niezdolny do kłamania i głupiec nie mógłby być fałszywym?
+
+Hippiasz: Tak się rzeczy mają.
+
+Sokrates: Otóż zdolny, to jest chyba każdy taki, który robi, co chce wtedy, kiedy chce; więc, powiadam, że nie pod wpływem chorobliwego podniecenia ani tym podobnych, tylko tak, jak ty: zdolny jesteś napisać moje imię, kiedy zechcesz; tak mówię. Czyż każdego, który to ma do siebie, nie nazywasz zdolnym?
+
+Hippiasz: Tak.
+
+VII. Sokrates: A powiedz mi, Hippiaszu; prawda, że ty się znasz na rachunkach i na sztuce rachowania?
+
+Hippiasz: Najlepiej ze wszystkich, Sokratesie.
+
+Sokrates: Nieprawdaż, i gdyby cię nawet kto zapytał: trzy razy siedemset, jak wielka to liczba? To, gdybyś chciał, najszybciej i najlepiej ze wszystkich powiedziałbyś prawdę w tej sprawie.
+
+Hippiasz: Naturalnie.
+
+Sokrates: Czy dlatego, że jesteś najzdolniejszy i najmądrzejszy pod tym względem?
+
+Hippiasz: Tak.
+
+Sokrates: A czy ty jesteś tylko najmądrzejszy i najzdolniejszy, czy też i najlepszy w tym kierunku, w którym jesteś najzdolniejszy i najmądrzejszy, a mianowicie: w rachunkach?
+
+Hippiasz: I najlepszy przecież, Sokratesie.
+
+Sokrates: Więc prawdę powiedzieć w tej sprawie ty najlepiej potrafisz. Tak?
+
+Hippiasz: Mnie się tak zdaje.
+
+Sokrates: A cóż jest z fałszem w tej samej sprawie? I tak mi szczerze i wspaniałomyślnie odpowiedz, Hippiaszu, jak przedtem. Gdyby cię ktoś zapytał: trzy razy siedemset, ile to jest, to czy ty byś najlepiej kłamał i zawsze taką samą nieprawdę byś mówił tym, gdybyś chciał kłamać i ani razu prawdy nie odpowiedzieć, czy też człowiek głupi w rachunkach potrafiłby lepiej kłamać niż ty, gdybyś chciał. Czy też głupi nieraz, choćby chciał skłamać, to prawdę powie mimo woli, jeżeli mu się trafi, bo on nie ma wiedzy, a ty, mędrzec, jeślibyś chciał kłamać, zawsze byś kłamał w jeden i ten sam sposób?
+
+Hippiasz: Tak, tak się rzecz ma, jak ty mówisz.
+
+Sokrates: A człowiek fałszywy, to może kłamie w innych sprawach, a nie, kiedy chodzi o liczbę, i może by nie kłamał, rachując?
+
+Hippiasz: Ależ tak, na Zeusa; i w liczbach.
+
+VIII. Sokrates: Założymy tedy i to, Hippiaszu, że w zakresie rachunku i liczby jest jakiś człowiek fałszywy?
+
+Hippiasz: Tak.
+
+Sokrates: A cóż by to musiał być za jeden? Nieprawdaż; jeśli ma być fałszywy, to, jakeś przed chwilą przyznał, musi być zdolny do kłamania. Bo człowiek niezdolny do kłamstwa, jeśli pamiętasz, mówiłeś, że nigdy by nie został kłamcą.
+
+Hippiasz: Ależ pamiętam i mówiło się tak.
+
+Sokrates: Nieprawdaż; i przed chwilą okazałeś się ty najzdolniejszym do kłamstwa w rachunkach?
+
+Hippusz: Tak; mówiło się i to.
+
+Sokrates: A czy też i najzdolniejszy jesteś do mówienia prawdy w rachunkach?
+
+Hippiasz: Naturalnie.
+
+Sokrates: Nieprawdaż więc; zatem jeden i ten sam człowiek jest najzdolniejszy do mówienia prawdy i fałszu w rachunkach. A tym jest człowiek tęgi w tych rzeczach: dobry rachmistrz.
+
+Hippiasz: Tak.
+
+Sokrates: Więc któż inny bywa kłamcą w rachunkach, Hippiaszu, jak nie człowiek dobry? Bo on jest równocześnie i zdolny. A równocześnie on i prawdę potrafi.
+
+Hippiasz: Widocznie.
+
+Sokrates: Widzisz więc, że jeden i ten sam człowiek kłamie w tych sprawach i mówi prawdę, i wcale nie lepszy ten, który prawdę mówi od tego, co kłamie? Bo to przecie jeden i ten sam, a nie skrajnie przeciwny, jakeś ty uważał przed chwilą.
+
+Hippiasz: No nie, przynajmniej na tym punkcie.
+
+Sokrates: Chcesz, to popatrzmy i na inne?
+
+Hippiasz: Ach, jeśli chcesz.
+
+IX. Sokrates: Nieprawdaż, że ty znasz się i na geometrii?
+
+Hippiasz: Ja, tak.
+
+Sokrates: Cóż więc. Czyż i w geometrii nie ma się rzecz tak samo? Jeden i ten sam najzdolniejszy jest do kłamania i do mówienia prawdy o figurach geometrycznych: geometra?
+
+Hippiasz: Tak.
+
+Sokrates: W tych zaś rzeczach tęgim jest inny ktoś, czy ten właśnie?
+
+Hippiasz: Nie inny.
+
+Sokrates: Nieprawdaż, więc: dobry i mądry geometra najzdolniejszy jest do jednego i drugiego? I jeśliby ktoś w ogóle był kłamcą w zakresie figur geometrycznych, to właśnie on: geometra. Bo taki to najlepiej potrafi, a lichy nie potrafiłby kłamać. Tak, że nie może być kłamcą, kto nie jest zdolny do kłamania, jakeśmy się zgodzili.
+
+Hippiasz: Tak jest.
+
+Sokrates: To popatrzmy jeszcze na trzeciego, na astronoma. Ty uważasz, że się na tej sztuce jeszcze lepiej rozumiesz niż na poprzednich; czy tak, Hippiaszu?
+
+Hippiasz: Tak.
+
+Sokrates: Nieprawdaż, że i w astronomii znowu to samo?
+
+Hippiasz: Zdaje się, Sokratesie.
+
+Sokrates: Zatem i w astronomii, jeżeliby kto w ogóle był kłamcą, to właśnie dobry astronom; ten potrafi kłamać. Przecież nie ten, który nie potrafi, bo wiedzy nie posiada.
+
+Hippiasz: Tak to wygląda.
+
+Sokrates: Zatem i w astronomii jeden i ten sam będzie i rzetelnym, i kłamcą.
+
+Hippiasz: Zdaje się.
+
+X. Sokrates: Słuchajże, Hippiaszu, spojrzyj tak szeroko po wszystkich umiejętnościach, czy jest gdzieś inaczej, a nie tak. Przecież ty w tak wielu sztukach jesteś najmądrzejszy ze wszystkich ludzi, jak to ja ciebie raz słyszałem, jakeś się chwalił i z takim uwielbieniem dla siebie samego opowiadałeś o swej nieprzebranej mądrości na rynku, koło straganów. Mówiłeś, jakeś to raz przybył do Olimpii, a wszystko, coś miał na sobie, było twojej roboty; więc naprzód sygnet — bo od tego zacząłeś — któryś miał na palcu, twoim był dziełem, bo umiesz cyzelować pierścionki, i drugą pieczątkę miałeś własnej roboty, i grzebień, i flakonik z uchem, któryś sam wyrobił. I jeszcze buciki, któreś miał, mówiłeś, żeś sam uszył, i zarzutkę utkał, i koszulkę. A co się wszystkim wydawało najdziwniejsze i uchodziło za okaz największej mądrości, to kiedyś powiedział, że pasek na chitonie, któryś miał na sobie, miał być z tych zbytkownych, jak to perskie paski bywają, a tyś go sam uplótł. A oprócz tego przyjechałeś z poematami i z eposami, z tragediami, z dytyrambami i prozą wiele mów rozmaitych miałeś ułożonych. I przyjechałeś jako osobliwy znawca tych właśnie sztuk, o których przed chwilą mówiłem, i rytmów, i harmonii, i poprawności literackiej, i bardzo wielu innych rzeczy poza tym: jak, zdaje mi się, pamiętam, chociaż zapomniałem o twojej sztuce pamiętania, sztuce, której jesteś, jak sądzisz, mistrzem najświetniejszym. Zdaje się, że i wiele, wiele innych sztuk twoich zapomniałem, ale, jak powiadam, i na własne sztuki spojrzyj (dość ich przecież), i na cudze, i powiedz mi potem, na cośmy się zgodzili ja z tobą, czy znajdziesz gdziekolwiek taką, w której jeden jest rzetelny, a drugi fałszywy, i to ktoś inny, a nie jeden i ten sam? W jakiej chcesz mądrości to rozpatrz, czy w szelmostwie, czy jak to tam wolisz nazwać; nie znajdziesz, przyjacielu; bo tego nie ma; ty sam powiedz!
+
+XI. Hippiasz: No, nie mogę, Sokratesie; tak zaraz, teraz…
+
+Sokrates: I nie będziesz mógł, jak mi się zdaje. A jeśli ja mówię prawdę, to pamiętasz, co nam z tego twierdzenia wynika, Hippiaszu?
+
+Hippiasz: Coś nie bardzo miarkuję, Sokratesie, co mówisz.
+
+Sokrates: No, w tej chwili nie potrzeba aż sztuki pamiętania. Widać przynajmniej, że ty tej potrzeby nie uważasz. Ale ja ci przypomnę. Wiesz, żeś Achillesa nazywał rzetelnym, a Odyseusza fałszywym i obrotnym.
+
+Hippiasz: Tak.
+
+Sokrates: A teraz nie widzisz, że jeden i ten sam okazuje się i kłamcą, i rzetelnym. Tak, że jeśliby kłamcą był Odyseusz, to będzie i rzetelnym, a jeśli rzetelnym Achilles, to i kłamcą. I ci ludzie nie różnią się od siebie i nie są sobie przeciwni, tylko podobni?
+
+Hippiasz: Sokratesie, ty zawsze jakoś tak kręcisz; odrywasz sobie najbardziej podchwytliwe słowo, tego się trzymasz i czepiasz się drobiazgów, a nie walczysz o całą kwestię, o którą chodzi. Tak i teraz; jeśli chcesz, dowiodę ci w sposób wystarczający na podstawie szeregu miejsc, że Homer wymalował Achillesa tęższym od Odyseusza i wolnym od fałszu, a tamtego podstępnym i fałszywym na wielu punktach, i lichszym od Achillesa.
+
+Jeśli chcesz, to powiedz dla porównania drugą mowę, że tamten jest tęższy. Wtedy będą ci tutaj lepiej wiedzieli, który z nas dwóch lepiej mówi.
+
+XII. Sokrates: Hippiaszu, ja się z tobą zgoła nie spieram o to, żeś ty mądrzejszy niż ja. Ale ja mam zawsze taki zwyczaj, kiedy ktoś coś mówi, uważać na to, szczególniej jeżeli mi się mówca mądrym wydaje, i pragnąc się nauczyć, i rozumieć to, co on mówi, rozpytuję się i znowu rozpytuję, i krok w krok idę za słowami, abym się nauczył. A jeśli mi się mówca wydaje lichy, to ani się drugi raz nie pytam, ani mi nie zależy na tym, co on mówi. Po tym poznasz, kogo uważam za mądrego. Zauważysz, że chciwie chwytam każde słowo takiego człowieka i dowiaduję się u niego, abym się czegoś nauczył i skorzystał. Ot i teraz uważałem, jakeś mówił, i w tych słowach, któreś przed chwilą powiedział, kiedyś dowodził, że Achilles przemawia do Odyseusza jako do blagiera, to dziwnie mi się nie wydaje, żebyś prawdę mówił, bo nie widać, żeby Odyseusz gdziekolwiek skłamał, ten obrotny, a Achilles jakoś się obrotnym wydaje, wedle twojego wywodu. Bo przecież kłamie. Przecież powiedział naprzód te słowa, któreś i ty przed chwilą przytoczył:
+
+
+Wstrętny mi bowiem jest taki, tak samo jak bramy Hadesu,
+Który inaczej w swej głębi zamyśla, a mówi inaczej.
+
+I niedługo potem mówi, że ani się nakłonić nie da Odyseuszowi i Agamemnonowi, ani w ogóle pod Troją nie zostanie:
+
+
+Jutro, powiada, dla wszystkich bogów i Zeusa ofiary złożywszy,
+Wyładuję porządnie okręty i znów je na morze zaciągnę;
+Ujrzysz, jeżeli zechcesz i jeśli ci na tym zależy,
+Rano wcześnie na rybny Hellespont płynące okręty.
+W środku ludzi zobaczysz, jak dzielnie robią wiosłami.
+Jeśli mi dobrą żeglugę dać raczy bóg ziemią trzęsący,
+Dnia trzeciego do Ftyi przybędę, gdzie plony obfite.
+
+A jeszcze przed tymi słowami, łając Agamemnona, powiedział:
+
+
+Teraz już jadę do Ftyi, bo znacznie lepiej mi będzie
+Jechać do domu w okrętach wygiętych i zgoła nie myślę
+Siedzieć tu dalej bez sławy, a tobie bogactwa gromadzić.
+
+To powiedział raz wobec wojska całego, drugi raz wobec swoich przyjaciół, a jednak nigdzie nie widać, żeby albo przygotowania robił, albo próbował ściągać okręty na morze, żeby odpłynąć do domu; przeciwnie, on bardzo szczerze lekceważy sobie mówienie prawdy. Więc ja, Hippiaszu, i od początku cię pytałem, bom nie wiedział, który z tych dwóch mężów jest piękniej wymalowany u poety, i myślałem, że oni obaj są najlepsi, a nie da się rozstrzygnąć, który by z nich dwóch lepszy był i w kłamstwie, i w rzetelności, i w innej dzielności. Obaj bowiem są sobie na tym punkcie bliscy.
+
+XIII. Hippiasz: To nietrafnie miarkujesz, Sokratesie. Bo kiedy Achilles kłamie, to widać, że nie z zamiaru, ale mimo woli. Klęska w obozie zmusza go, żeby pozostał i pomagał. A kiedy Odyseusz kłamie, to umyślnie i z zamiarem.
+
+Sokrates: W pole mnie wywodzisz, Hippiaszu kochany, i sam Odyseusza udajesz.
+
+Hippiasz: Nigdy, Sokratesie! A ty myślisz, że gdzie i jak?
+
+Sokrates: Bo powiadasz, że Achilles nie z zamiaru złego kłamie, a to był taki kuglarz i zdrajca, oprócz blagi, którą go wyposażył Homer, że widać i samego Odyseusza przewyższa sprytem w pokrywaniu swej blagi do tego stopnia, że miał odwagę sprzeciwiać się wobec niego sobie samemu, co uszło uwagi Odyseusza. I pokazuje się, że Odyseusz nic mu nie powiedział na to, co by świadczyło, że spostrzegł jego kłamstwo.
+
+Hippiasz: O jakim ty miejscu mówisz, Sokratesie?
+
+Sokrates: Nie wiesz, że Achilles, mówiąc potem niby to do Odyseusza, powiada, że równo z jutrznią odpłynie, a znowu do Ajasa nie mówi, że odpłynie, tylko mówi coś innego?
+
+Hippiasz: Gdzież to?
+
+Sokrates: W tym miejscu:
+
+
+Prędzej bowiem do bitwy krwawej nie myślę się zabrać,
+Zanim mądrego Pryjama syn, Hektor ów boski,
+Pod okręty nie przyjdzie i Myrmidonów namioty,
+W pień wycinając Argiwów, ze szczętem paląc okręty.
+Już koło mego namiotu i przy okręcie czarniawym
+Hektor, choć w boju zażarty, z pewnością się chwilę zatrzyma.
+
+Więc czy ty, Hippiaszu, sądzisz, że taką krótką pamięć miał syn Tetydy a wychowanek bardzo mądrego Chejrona, że na chwilę przedtem łajał blagierów ostatnimi słowy, a tu zaraz sam powiada do Odyseusza, że odpłynie, a do Ajasa, że pozostanie, i to robi bez złego zamiaru, i nie myśli, że Odyseusz jest stary, zatem on go tym właśnie: podstępem i kłamstwem przewyższy.
+
+XIV. Hippiasz: Nie tak mi się zdaje, Sokratesie. Tylko znowu to samo: on z naiwności i rozmyśliwszy się inaczej, do Ajasa mówi co innego niż do Odyseusza. A Odyseusz, ile razy mówi prawdę, to zawsze z podstępnym zamiarem, a ile razy kłamie, to tak samo.
+
+Sokrates: To zdaje się, że lepszy jest Odyseusz od Achillesa.
+
+Hippiasz: Ależ bynajmniej, Sokratesie.
+
+Sokrates: Jak to; czyż się dopiero co nie pokazało, że ci, którzy umyślnie kłamią, są lepsi niż ci, co nieumyślnie?
+
+Hippiasz: Ależ jakim sposobem, Sokratesie; jakżeby mogli ci, którzy umyślnie występki popełniają i umyślnie zdrady knują, i źle robią, być lepszymi od tych, którzy nieumyślnie; takim się przecież chyba wiele wybacza, jeśli ktoś nieświadomie występek popełni czy skłamie, czy innego co zrobi złego. I prawa przecież znacznie surowiej traktują rozmyślnych przestępców i kłamców niż nieumyślnych.
+
+XV. Sokrates: Widzisz, Hippiaszu, że to prawda, com powiedział, żem ja taki zażarty na pytanie ludzi mądrych. I bodajże, że to jedno tylko mam dobre, bo reszta u mnie bardzo licha. Ciągle mi się rzeczywistość wymyka, nigdy nie wiem, jak się rzeczy mają naprawdę. Najlepiej to widać z tego, że skoro się spotkam z kimś z was, sławnych z mądrości, którym i wszyscy Hellenowie mądrość przyświadczają, zaraz po mnie widać, że nic nie wiem. Nigdy mi się to samo nie zdaje, co i wam, żeby powiedzieć po prostu. A jakież większe świadectwo niewiedzy, jak nie to: różnić się w zdaniu z ludźmi mądrymi. I tylko to jedno mam dobro przedziwne, które mnie ratuje: nie wstydzę się uczyć się! Więc się dowiaduję i pytam, i wielką wdzięczność żywię dla tego, który mi odpowiada; nigdym żadnemu nie został winien wdzięczności. I nigdym się nie wyparł, żem się czegoś nauczył, tak sobie naukę przywłaszczając, jakbym ją znalazł. A chwalę takiego, który mnie czegoś nauczył, jako że mądry jest, i pokazuję, czegom się od niego nauczył.
+
+Otóż i teraz w tym, co ty mówisz, nie zgadzam się z tobą, ale się różnię bardzo gwałtownie. A wiem, że to wszystko przeze mnie; przez to, że taki jestem, jak jestem, żebym już o sobie czegoś grubszego nie powiedział. Bo mnie się wydaje, Hippiaszu, coś całkiem przeciwnego, niż ty mówisz. Ci, którzy szkodzą ludziom i krzywdzą ich, i oszukują, i uchybiają prawu rozmyślnie, a nie mimo woli, ci mi się wydają lepsi niż ci, co mimo woli. Niekiedy znowu wydaje mi się wprost przeciwnie; więc błąkam się na tym punkcie; oczywista dlatego, że nie mam wiedzy. Ale teraz, w tej chwili, jakby mnie coś napadło i wydają mi się rozmyślni przestępcy lepsi pod jakimś względem od mimowolnych. Winę mego obecnego stanu przypisuję poprzednim roztrząsaniom; dlatego mi się teraz na razie wydaje, że ci, którzy wszystko to robią mimo woli, gorsi są niż ci, co umyślnie. Więc bądźże łaskaw i racz uleczyć duszę moją. Znacznie większe mi wyrządzisz dobrodziejstwo, usuwając niewiedzę z duszy, niż gdybyś ciału chorobę odbierał. Ale jeśli długą mowę chcesz powiedzieć, to zapewniam cię, że mnie tym nie wyleczysz — nie potrafię nadążyć — ale tak, jak teraz, jeśli zechcesz mi odpowiadać, wielką mi zrobisz przysługę, a myślę, że i tobie samemu to nie zaszkodzi. Słusznie też mógłbym się i do ciebie uciec, synu Apemanta, boś ty mnie zachęcił i dodał odwagi do rozmowy z Hippiaszem. Więc teraz, gdyby mi Hippiasz nie raczył odpowiadać, wstaw się za mną do niego.
+
+Eudikos: Ależ, Sokratesie, myślę, że Hippiasz nie będzie czekał naszych próśb. Czyż nie powiedział sam przedtem, że nie umiałby unikać pytań żadnego człowieka? Prawda, Hippiaszu? Nie toś powiedział?
+
+Hippiasz: Ja tak; ale Sokrates, Eudikosie, zawsze robi zamieszanie w wywodach i tak wygląda, jakby na złość przekręcał.
+
+Sokrates: Hippiaszu najzacniejszy; przecież ja umyślnie tego nie robię. Bobym wtedy był mądry i dobry, wedle twego zdania, tylko nieumyślnie, więc mi wybacz. Powiadasz przecież, że jeśli ktoś źle robi niechcący, to mu trzeba przebaczyć.
+
+Eudikos: No nie, Hippiaszu, nie rób inaczej, ale przez wzgląd na nas i na to, coś przedtem powiedział, odpowiadaj Sokratesowi na pytania.
+
+Hippiasz: Będę odpowiadał, kiedy prosisz; więc pytaj, o co chcesz.
+
+XVI. Sokrates: Ja bardzo pragnę, Hippiaszu, rozpatrzyć to, co teraz właśnie mówimy: którzy też lepsi są: ci, którzy błądzą umyślnie, czy ci, którzy nieumyślnie. A myślę, że najprościej tą drogą dojść do rozpatrzenia. Tylko odpowiadaj. Nazywasz kogoś dobrym biegaczem?
+
+Hippiasz: Tak jest.
+
+Sokrates: I złym?
+
+Hippiasz: Tak.
+
+Sokrates: Nieprawdaż: dobry ten, co biega dobrze, a zły ten, co źle?
+
+Hippiasz: Tak.
+
+Sokrates: Nieprawdaż; ten, który powoli biegnie, biega źle, a który prędko, ten dobrze?
+
+Hippiasz: Tak.
+
+Sokrates: W biegu bowiem i w bieganiu szybkość jest dobrem, a powolność złem?
+
+Hippiasz: Ale o cóż chodzi?
+
+Sokrates: Więc który biegacz lepszy: ten, co umyślnie powoli biegnie, czy ten, co nieumyślnie?
+
+Hippiasz: Ten, co umyślnie.
+
+Sokrates: A czy to nie jest pewna czynność: bieganie?
+
+Hippiasz: No, czynność.
+
+Sokrates: A jeśli czynność, to i robota pewna?
+
+Hippiasz: Tak.
+
+Sokrates: Więc, kto źle biegnie, ten coś lichego i brzydkiego robi tam na placu wyścigowym?
+
+Hippiasz: Lichego; jakżeby nie?
+
+Sokrates: A źle biegnie ten, który powoli biegnie?
+
+Hippiasz: Tak.
+
+Sokrates: Nieprawdaż, więc dobry biegacz umyślnie to, co złe robi, i co brzydkie, a lichy nieumyślnie?
+
+Hippiasz: No — zdaje się.
+
+Sokrates: Więc może na wyścigach gorszym jest ten, co nieumyślnie źle robi, niż ten, co umyślnie?
+
+Hippiasz: Tak; na wyścigach!
+
+Sokrates: A jakże jest na zapasach? Któryż zapaśnik lepszy: ten, co umyślnie upada, czy ten, co nieumyślnie?
+
+Hippiasz: Ten, co umyślnie, chyba.
+
+Sokrates: Bo gorsza rzecz w zapasach i brzydsza: paść, niż zwalić drugiego?
+
+Hippiasz: Paść.
+
+Sokrates: Więc i w zapasach może ten, który umyślnie źle robi i brzydko, lepszym jest zapaśnikiem niż ten, co nieumyślnie.
+
+Hippiasz: Zdaje się, że tak.
+
+Sokrates: A cóż we wszelkim w ogóle zajęciu cielesnym? Czyż człowiek lepszy fizycznie nie potrafi robić jednego i drugiego: i tego, co o sile świadczy, i co o słabości, i tego, co brzydkie, i tego, co piękne? Tak, że jeśli robi coś fizycznie złego, robi to umyślnie człowiek lepszy fizycznie, a lichszy nieumyślnie?
+
+Hippiasz: Zdaje się, że gdzie o siłę chodzi, to tak się rzeczy mają.
+
+Sokrates: A cóż tam, gdzie o przyzwoity wygląd, Hippiaszu? Czyż nie potrafi ciało umyślnie przybierać wyglądu brzydkiego i lichego, a liche robi to mimo woli? Czy jak myślisz?
+
+Hippiasz: Tak.
+
+Sokrates: Zatem i lichy wygląd, jeden jest umyślny i świadczy o dzielności, a drugi mimowolny i świadczy o niższej wartości ciała.
+
+Hippiasz: Widocznie.
+
+Sokrates: A cóż powiesz o głosie? Który lepszy, powiesz: ten co fałszuje umyślnie, czy ten, co nieumyślnie?
+
+Hippiasz: Ten, co umyślnie.
+
+Sokrates: A lichszy ten, co nieumyślnie?
+
+Hippiasz: Tak.
+
+Sokrates: A ty byś wolał mieć raczej coś dobrego, czy coś złego?
+
+Hippiasz: Coś dobrego.
+
+Sokrates: A wolałbyś mieć nogi takie, które kuleją umyślnie, czy nieumyślnie?
+
+Hippiasz: Umyślnie.
+
+Sokrates: A kalectwo, czy to nie jest podłość nóg i wygląd lichy?
+
+Hippiasz: Tak.
+
+Sokrates: No cóż; a słaby wzrok to podłość oczu?
+
+Hippiasz: Tak.
+
+Sokrates: Więc które byś oczy wolał mieć i z którymi mieć do czynienia: czy te, którymi ktoś umyślnie może widzieć niewyraźnie i niedowidzieć, czy te, którymi nieumyślnie?
+
+Hippiasz: Którymi umyślnie.
+
+Sokrates: Więc za lepsze u siebie uważasz to, co umyślnie źle robi, czy to, co mimo woli?
+
+Hippiasz: Tak; w takich rzeczach.
+
+Sokrates: Nieprawdaż; wszystkie, bo i uszy, i nos, i usta, i wszystkie zmysły jedna zasada obejmuje: te, które mimo woli źle robią, tych mieć nie warto, bo liche, a które umyślnie, te mieć warto, bo dobre.
+
+Hippiasz: Tak mi się zdaje.
+
+XVII. Sokrates: No cóż; a narzędziami, którymi lepiej się posługiwać: którymi ktoś umyślnie źle robi, czy którymi nieumyślnie? Na przykład ster lepszy taki, którym mimo woli ktoś źle będzie sterował, czy ten, którym umyślnie?
+
+Hippiasz: Ten, którym umyślnie.
+
+Sokrates: Czy nie tak samo łuk i lira, i flety, i wszystko inne?
+
+Hippiasz: Prawdę mówisz.
+
+Sokrates: No cóż; a co lepiej posiąść w swoim koniu: duszę taką, że się przez nią umyślnie źle jeździ, czy taką, przez którą nieumyślnie?
+
+Hippiasz: Przez którą umyślnie.
+
+Sokrates: Więc taka lepsza?
+
+Hippiasz: Tak.
+
+Sokrates: Więc przez lepszą duszę konia może człowiek umyślnie wywołać jej liche postępki, a przez lichą będzie to mimo woli robił?
+
+Hippiasz: Naturalnie.
+
+Sokrates: Nieprawdaż; i z psem, i z innymi wszelkimi zwierzętami tak samo?
+
+Hippiasz: Tak.
+
+Sokrates: A cóż, proszę cię; człowieka duszę posiąść: łucznika; lepiej taką, która umyślnie chybia celu, czy taką, która mimo woli?
+
+Hippiasz: Tę, która umyślnie.
+
+Sokrates: Nieprawdaż; ta jest lepsza w sztuce strzelania z łuku?
+
+Hippiasz: Tak.
+
+Sokrates: A dusza, która mimo woli chybia, lichsza niż ta, co umyślnie?
+
+Hippiasz: Tak; w sztuce strzelania z łuku.
+
+Sokrates: A cóż w sztuce lekarskiej; czyż ta, która umyślnie coś złego robi ciałom, nie stoi wyżej w sztuce lekarskiej?
+
+Hippiasz: Tak.
+
+Sokrates: Więc ona może lepsza w tej sztuce od tej, która nie?
+
+Hippiasz: Lepsza.
+
+Sokrates: No cóż; a ta, która wyżej stoi w sztuce gry na kitarze i na flecie, i we wszystkich innych sztukach, i umiejętnościach; czyż nie lepsza umyślnie źle robi i brzydko, i błądzi, a lichsza mimo woli?
+
+Hippiasz: Widocznie.
+
+Sokrates: A tak, niewolników naszych dusze wolelibyśmy mieć raczej takie, które umyślnie, czy takie, które nieumyślnie błądzą i źle robią, jako lepsze pod tym względem?
+
+Hippiasz: Tak.
+
+Sokrates: No cóż; a naszej własnej duszy nie chcielibyśmy mieć jak najlepszej?
+
+Hippiasz: Tak.
+
+Sokrates: A czyż nie będzie lepsza, jeśliby umyślnie źle zrobiła i błądziła, niż gdyby nieumyślnie?
+
+Hippiasz: A to by ładnie było, Sokratesie, jeżeli rozmyślni przestępcy mają być lepsi od mimowolnych!
+
+Sokrates: Ależ to wynika z tego, co się powiedziało!
+
+Hippiasz: Dla mnie, wcale nie!
+
+XVIII. Sokrates: A ja myślałem, Hippiaszu, że i dla ciebie wynikło. Ale znowu odpowiadaj! Sprawiedliwość, nie jestże to albo zdolność pewna, albo wiedza, albo jedno i drugie? Czyż nie musi przynajmniej czymś jednym z tych rzeczy być sprawiedliwość?
+
+Hippiasz: Tak.
+
+Sokrates: Nieprawdaż; jeśli zdolnością duszy jest sprawiedliwość, to dusza zdolniejsza jest sprawiedliwsza? Bo się nam przecież lepszą okazała, kochanie, taka dusza.
+
+Hippiasz: A okazała się.
+
+Sokrates: A cóż, jeśli to wiedza? Nie będzież dusza mądrzejsza sprawiedliwsza, a głupsza bardziej niesprawiedliwa?
+
+Hippiasz: Tak.
+
+Sokrates: A cóż, jeśli to jedno i drugie? Czyż nie będzie sprawiedliwsza ta, która ma jedno i drugie, a głupsza będzie raczej niesprawiedliwa? Czy nie tak musi być?
+
+Hippiasz: Widocznie.
+
+Sokrates: Nieprawdaż, zdolniejsza i mądrzejsza, ta się lepszą okazała i raczej zdolną do robienia jednego i drugiego: i tego, co piękne, i tego, co brzydkie w każdej robocie?
+
+Hippiasz: Tak.
+
+Sokrates: Więc kiedy robi się coś brzydkiego, robi to umyślnie dzięki zdolności i umiejętności; a to będą cechy sprawiedliwości, albo obie, albo przynajmniej jedna z dwóch.
+
+Hippiasz: Zdaje się.
+
+Sokrates: Nieprawdaż; dusza zdolniejsza i tęższa ile razy występek popełni, popełnia go umyślnie, a licha dusza niechcący?
+
+Hippiasz: Tak to wynika.
+
+Sokrates: Nieprawdaż: dobry człowiek to ten, który ma dobrą duszę, a lichy lichą?
+
+Hippiasz: Tak.
+
+Sokrates: Zatem dobrego człowieka cechuje to, że występki popełnia umyślnie, a lichego to, że mimo woli, skoro dobry mąż dobrą ma duszę.
+
+Hippiasz: A tak, ma przecież.
+
+Sokrates: Więc jeśli kto umyślnie występki popełnia i brzydko, i niesprawiedliwie postępuje, Hippiaszu, jeśli tylko istnieje ktokolwiek taki, to nie będzie nikt inny, tylko człowiek dobry.
+
+Hippiasz: Sokratesie: ja się nie umiem z tobą na to zgodzić.
+
+Sokrates: Ani nawet ja sam ze sobą, Hippiaszu. Tylko tak nam to teraz przynajmniej koniecznie wypadło z rozważań. Ja tak, wiesz, jakem dawno powiedział, błąkam się w tych rzeczach tędy i owędy, i nigdy mi się jedno i to samo nie wydaje. Ale, że ja się błąkam, to nic dziwnego, albo inny tam jaki nieuk i partacz. Ale jeśli i wy się błąkać zaczniecie, wy — mędrcy, to już i z nami będzie biada, jeżeli nawet do was człowiek przyjdzie, a błąkać się nie przestanie.
+
+
+
+
+Objaśnienia tłumacza
+
+Dialog nasz posiada podtytulik pochodzący z ręki późniejszej, który brzmi: O fałszu; odwracanie na wywrót.
+
+Żywe nawiązanie
+
+Dziś przeważnie Odyseja podoba się więcej od Iliady. W ocenie Apemanta widać udział pierwiastka etycznego. Iliada jest piękniejsza, bo Achilles lepszy niż Odyseusz.
+
+Od razu trudność się zjawia w postaci nieokreślonych pojęć „piękny” i „dobry, lepszy”. Sokrates, jak zwykle, zaczyna od pochwał.
+
+II. Eudikos (najczęściej tak ludzie robią) nie myśli o treści pytania Sokratesowego; pośredniczy tylko, podając je uprzejmie Hippiaszowi. Ale i Hippiasz nie myśli, o co go pytają; czuje tylko sposobność do popisu w przytomności umysłu, w zręczności dialektycznej. Mówi o sobie zamiast o rzeczy; z wysoka spogląda w ostatnim zdaniu odpowiedzi na „mizerną” figurę Sokratesa i na pytanie jego, którego dotąd całkiem nie zauważył. Sokrates próbuje go reflektować. Hippiasz reaguje tym większą pewnością siebie; nie odczuł tonu Sokratesa. W tym ustępie jest Hippiasz prosty i szczery; mówi to, co myśli, i tak, jak myśli. Sokrates jest fałszywy, bo oczywiście gani w duszy tępą zarozumiałość Hippiasza i bawi się jego samochwalstwem, a nie mówi słów nagany i drwiny obwija w dwuznaczny, choć przejrzysty komplement na początku rozdziału III. Sokrates wprowadza tedy przeciwnika w błąd, a robi to umyślnie.
+
+III. W końcu daje sofista odpowiedź na pytanie Sokratesa, uzupełnione obecnie w sposób ważny. Chodzi o to, pod jakim względem lepszy ma być jeden z dwóch bohaterów Iliady i czym się jeden różni od drugiego. W odpowiedzi jednak różnica między Achillesem a Odyseuszem jest nie dość wyraźna. W jakim stosunku zostaje „obrotny” do „dobrego”, o to będzie szło obecnie.
+
+Sprzeczność w otwartym stanowisku Hippiasza i skryte stanowisko Sokratesa
+
+IV. Hippiasz zgadza się, że obrotny znaczy tyle, co fałszywy.
+
+Punkt ważny, bo fałszywy znaczy w tej rozmowie tyle, co kłamca. Hippiasz uwielbia Odyseusza, a nazywa go kłamcą. Skądinąd kłamstwo uchodzi powszechnie za coś złego, niegodnego pochwały. Stanowisko Hippiasza zatem zawiera sprzeczność z oceną powszechnie przyjętą, jest paradoksalne, a siedzi w nim głęboko. On kłamstwo, fałsz uważa za objaw mocy, zdolności życiowej, za objaw chwalebnego przystosowania do warunków, jakbyśmy dziś powiedzieli, a niezależnie od tego ganić je musi, bo tak wypada.
+
+V. Gdyby Sokrates nie pytał Hippiasza, tylko mówił sam w duchu Platona, powiedziałby: „Ludzie fałszywi, nałogowi kłamcy i krzywdziciele są jakby chorzy, są niezdolni do mówienia prawdy, są głupi i nierozsądni, bo nie wiedzą, że kłamstwo jako krzywda ludzka plami ich własne dusze i naraża na przykrości pośmiertne. Jeśli tedy kłamią i źle robią, sami nie wiedzą, co czynią. Żaden fałszywiec nie jest mądry i żaden mędrzec fałszywy”.
+
+Sokrates jednak zachowuje te myśli dla siebie, wypowie je kiedyś w rozmowie z Polosem w obecności Gorgiasza; na razie wydobywa z Hippiasza twierdzenia wprost przeciwne, a w nich odsłania paradoksalne stanowisko sofisty, którego się Hippiasz będzie w drugiej dialogu części wypierał. W tej chwili jednak, rozwijając swoją pochwałę Odyseuszów, powiada wyraźnie o ludziach „obrotnych”, że to są takie typy, które dzięki swym zdolnościom i rozumowi robią źle, wiedząc dobrze, co robią. On ich uważa za ludzi lepszych przecież, skoro do nich zaliczył w swej pochwale uwielbianego bohatera Iliady, a uważa jednak, że robią źle i to umyślnie.
+
+VI. Ci lepsi ludzie, których Hippiasz chwali, są fałszywi dlatego, że są mocni, mądrzy i zdolni. Moc mają, to znaczy: robią, co chcą, wtedy, kiedy chcą. Zdaniem Platona natomiast, które znowu Sokrates wypowie w Gorgiaszu, ludzie robiący źle nie są zdolni i mocni na punkcie swoich wad i występków. Chcą bowiem dobra, jak wszyscy ludzie, ile razy coś robią. A zamiast dobra, którego nie znają, choć go chcą, i dopiąć go nie są w stanie, bo im brak do tego celu rozumu i panowania nad sobą, popełniają zło; nie wiedząc o tym, jak bardzo sami sobie tym szkodzą. Występek jest tedy świadectwem ograniczenia intelektualnego i niedołęstwa duchowego: niemocy, a nie jest wynikiem mocy jakiejkolwiek.
+
+Sokrates ani słówkiem się teraz nie zdradza z tym własnym pojmowaniem zła i występku; egzaminuje tylko przeciwnika i spróbuje doprowadzić go do kłopotu. W zdaniach, które przyjmuje z dobrą miną, jest szereg słów wieloznacznych, z których wyniknąć muszą trudności i twierdzenia opaczne.
+
+I tak, ważne, a w poprzednim już rozdziale wprowadzone słowo: „zdolny, moc”. Raz to oznacza: posiadający warunki do czegoś, przy czym to coś może być dobre lub złe. To znaczenie Hippiasza. Drugi raz to oznacza: posiadający warunki do czegoś dobrego. A więc znacznie ciaśniejszy sens. To sens Sokratesa. Dalej: „wiedzą, co robią”, znaczy: 1. wiedzą, do jakiego rodzaju zaliczyć czynność, którą wykonują, i znają się na wykonywaniu danej czynności, a 2. wiedzą, jaką wartość etyczną ma dana czynność: czy jest dobra, czy zła i jakie pociąga za sobą następstwa dla duszy. Hippiasz ma pierwsze znaczenie na myśli — Sokrates drugie. Stąd Hippiasz złych nazywa mądrymi w znaczeniu pierwszym, podczas gdy Sokrates odmawia im w duchu mądrości w znaczeniu drugim. Sokrates ma ukrytą przesłankę, która mówi, że można, dążąc do czegoś, samemu nie wiedzieć, czego człowiek chce właściwie; Hippiasz jest przekonany, że każdy wie, czego chce, jeśli dąży do czegokolwiek. Stąd ostatnie zdanie rozdziału, poświęcone określeniu zdolności nie usuwa wcale nieporozumienia, tylko je zagważdża. Hippiasz nie może odgadnąć, że, zdaniem Sokratesa, człowiek, który chcąc zrobić coś złego, robi coś złego, wcale nie to robi, czego, zdaniem Sokratesa, chce. Stąd będzie mówił o zdolnych zbrodniarzach, podczas gdy Sokrates nie będzie im przypisywał zdolności, mocy, tylko nieudolność, niemoc.
+
+Dobro i moc w jakim zostają stosunku
+
+VII. Hippiasz złowiony na ponętę ambicji przyznaje, że sam, jako najlepszy rachmistrz, jest przez to najzdolniejszy do mówienia prawdy, zarówno jak i do fałszu w rachunkach. Sokrates też z całą swobodą mówi o zdolności do kłamstwa, więc do czegoś złego. Bierze zatem zdolność w znaczeniu szerszym, staje na stanowisku przeciwnika. Biorąc wyraz ten w tym znaczeniu, można się z oboma rozmawiającymi zgodzić i przyznać im, że człowiek mądry w jakimś zakresie, to znaczy człowiek rozumiejący się na pewnym zakresie zagadnień, zdolny jest, czyli posiada warunki do tego, żeby kogoś w błąd wprowadzić na tym polu, jeżeliby tego chciał.
+
+Mądry zaś to tyle samo co tęgi w pewnym zakresie. Tęgi znowu, to nic innego jak dobry. Grecki wyraz agathos odpowiada polskiemu dzielny, tęgi, dobry, sprawny, taki, jaki być powinien, chwalebny, wiele wart. Ani Hippiasz, ani Sokrates nie myślą zacieśniać znaczenia tego wyrazu do tzw. zasług moralnych, kiedy mówią o najlepszym rachmistrzu. W naszym języku wyraz „dobry” nabrał w odniesieniu do ludzi zbyt ciasnego znaczenia tak, że w wielu miejscach greckiemu agathos odpowiada nie „dobry”, ale „tęgi, dzielny”. O przesunięciu się znaczenia tego wyrazu wymownie świadczy to, że my o wielu ludziach mówimy dobry człowiek, ale głupi. Czegoś podobnego nie umiałby powiedzieć ani Hippiasz, ani Sokrates, ani Platon, ani Arystoteles, ani nawet Tomasz z Akwinu. Dla nich mądrość była koniecznym warunkiem dodatniej wartości etycznej. Dla Sokratesa i Platona jedynym, mimo że Sokrates mawia niekiedy: dobry i mądry.
+
+Białe i czarne skrzydło jednej duszy. Nieporozumienia
+
+VIII. Rozpatrzenie jednego przykładu, a mianowicie samego Hippiasza, prowadzi rozmawiających do zgody na jedną zasadę, że jeden i ten sam człowiek jest najzdolniejszy do mówienia prawdy i mówienia nieprawdy w rachunkach, a mianowicie człowiek tęgi w tym fachu. Zasada zupełnie słuszna przy szerszym znaczeniu słowa „zdolny” oraz tam, gdzie mówienie nieprawdy oznacza systematyczne wprowadzanie w błąd nie byle kogo. Jednakże przy tym sformułowaniu, jakim się posługuje Sokrates, wypada coś dziwnie opacznego. Paradoksalny wygląd stąd pochodzi, że zamiast wyrazu: „zdolny do kłamania” zjawia się wyraz „kłamca”, który wcale się z tamtym nie pokrywa. Przecież wiadomo, że nie każdy zdolny do kłamania (dzięki swej wiedzy np.) jest kłamcą naprawdę. Prócz tego argument wydaje się słabym; argument, który się powołuje na tożsamość osoby łgarza i prawdomównego. Podobnie dowodzić by można, że wcale nie jest gorszy ten, który podpala cudzy dom, od tego, który się przed muchami opędza albo chodzi na dwóch nogach, bo to przecież jeden i ten sam człowiek, a nie dwaj różni ludzie. Przecież niejeden podpalacz opędza się przed muchami, a każdy prawie chodzi na dwóch nogach.
+
+Taki zarzut się nasuwa, kiedy ktoś czyta słowa dialogu, a nie słucha tonu, jakim nasi dwaj znajomi rozmawiają, i nie pamięta, kto to i do kogo mówi. Jeżeli się ton i intencję pisanych słów uwzględnia, rzecz się tak przedstawia. „Hippiaszu, mówi niejako Sokrates, ty jesteś sam najlepszym przykładem, bohaterem twojego typu. Twoim przynajmniej zdaniem. Uważasz, że twoje własne kłamstwa i oszustwa są naturalnym objawem twej wysokiej wartości intelektualnej, i podług siebie pojmujesz ideał człowieka. Jeśli, twoim zdaniem, tężyzna intelektualna pociąga za sobą występek obok zasługi, nie będziesz miał sposobu przeciwstawić Odyseusza Achillesowi”.
+
+Prócz tego kryje się tu jeszcze uśmiech Platona. Achilles to dla niego ktoś bliski Sokratesa, Odyseusz — Hippiasza. Dwaj mityczni bohaterowie są jakby symbolami tego, co Platon kocha, i tego, co zwalcza. I on sam przeciwstawia ich sobie w dialogu jako figury doczesne, zwalczające się tu i teraz, a mimo to daje im pewne rysy wspólne. Wspólny jest ich punkt wyjścia, który wystąpi przy końcu rozdziału XVI, wspólną ich cechą wprowadzanie drugich w błąd obok mówienia prawdy, obaj się maskują, i to przede wszystkim Sokrates. On w całym dialogu na każdym kroku nie chce mówić prawdy, którą zna, a zachowuje się jak ów rachmistrz, którego pytają: 3 razy 700 jaka to liczba? A on prawdę chowa dla siebie. Sokrates i Hippiasz, jeśli z sofisty obedrzeć akcesoria groteskowe i zrobić go nie tak głupim, to nie dwaj ludzie różni, tylko jeden i ten sam Platon, rozłamany na dwoje. Spierają się, słyszymy ich walkę. Ale ta walka rozgrywa się we własnej duszy Platona. „Nie zgadzam się z tobą na tym punkcie” mówi Hippiasz przy końcu dialogu. „Ani ja sam z sobą” — odpowiada mu Sokrates.
+
+IX. Zasada ustalona w rozdziale poprzednim rozszerza się i do astronomii. I powtarza się już teraz kłamca i prawdomówny zamiast zdolnego do mówienia prawdy i mówienia fałszu, a więc zdolnego w znaczeniu szerszym. I znowu trzeba się zgodzić, że jeden i ten sam człowiek będzie miał intelektualne warunki do prawdziwego lub stale i systematycznie mylnego informowania drugich, ale trudno wziąć serio powiedzenie Sokratesa, jakoby jeden i ten sam człowiek miał czy mógł w rzeczywistości być kłamcą i prawdomównym w jakimkolwiek zakresie, przy zwyczajnym znaczeniu tych wyrazów.
+
+Kłamcą przecież nazywamy nie tego, który raz kogoś w błąd wprowadził, tylko człowieka trwale skłonnego do wprowadzania drugich w błąd. Ta skłonność, oczywiście, wyklucza stałą skłonność do mówienia prawdy w tym samym zakresie. Jakże się do tego odnoszą obaj rozmawiający? Czyżby nie wiedzieli tak prostej rzeczy?
+
+Dlaczego Sokrates tak lekkomyślnie miesza dwa pojęcia: „ktoś, kto potrafi kłamać” i „ktoś, kto kłamie naprawdę”? Dlaczego Hippiasz nie protestuje? Czy to nie są przeoczenia autora?
+
+Może i nie są. Bo gdyby Sokratesa do muru przycisnąć o wytłumaczenie się, jak właściwie ma się rzecz z tym kłamliwym astronomem i geometrą, odpowiedziałby: „Po pierwsze zgoła w to nie wierzę, żeby mądry geometra lub astronom bawić się chciał kłamstwem na swoim polu, żeby w ogóle człowiek mądry naprawdę kłamał czy inny występek popełniał. Za mądry będzie na to; będzie wiedział i rozumiał, że go to nie ozdobi, a szkodę przyniesie jego duszy. Dlatego też wyraźnie wtrącałem zdania warunkowe: »jeżeliby ktoś w ogóle był kłamcą w tym zakresie«. Znaczy, że zdaniem moim, w ogóle nie ma ludzi mądrych a występnych, a tym samym nie ma kłamliwych geometrów i astronomów, zasługujących na to zaszczytne miano w całej pełni. I ja wiem, dlaczego ich nie ma.
+
+Ja wiem, dlaczego człowiek mądry, który ma intelektualne warunki do zbrodni, mimo to jej nie popełni. I taki, który by właśnie najlepiej wykonać potrafił, gdyby chciał, nie potrafi się na nią zdobyć w czynie. Ale Hippiasz zgoła tego nie wie. On nie zna nadzmysłowych czynników, powstrzymujących człowieka, którego on mądrym nazywa, od zbrodni, o ile jej komuś potrzeba. Człowiek zdolny i mądry w jego znaczeniu kłamie bez żenady, jeśli potrafi kłamać, a ma na to ochotę, i wszelką inną zbrodnię popełnia bez hamulca, o ile tylko potrafi ją wykonać, a więc ominąć rękę prawa pisanego.
+
+Ja przecież swego zdania nie wygłaszam, tylko pytaniami wydobywam stanowisko mego znajomego. To dla niego kłamstwo jest tak codziennym chlebem, że, jego zdaniem, jeśli ktoś nie kłamie, to tylko dlatego, że nie potrafi. Stąd dla niego naprawdę na jedno wychodzi: ten, co potrafi kłamać, i ten, co kłamie naprawdę. On to po sobie samym uważa. Potrafi i prawdę powiedzieć, i skłamać, kiedy potrzebuje, bez zająknienia. I jest przekonany, że to ma właśnie przez swoje wysokie mistrzostwo we wszech kierunkach i swoją niebywałą sprawność intelektualną. To on miesza te dwa pojęcia — nie ja. On się kompromituje swoim brakiem protestu, a ja? Ja tylko pytam i notuję”.
+
+Obrazek satyryczny i jego znaczenie
+
+X. Sokrates żartuje z Hippiasza w żywe oczy. „Bardzoś mądry przecież, boś się sam chwalił zdolnościami wszechstronnymi przed bezkrytycznym tłumem gapiów”. To jest jaskrawe nabieranie sofisty. Jest i drugie osłonięte jako tako. Bo jeśli Hippiasz nieco kłamał wówczas, twierdząc, że sam tyle pięknych przedmiotów wykonać potrafi, i jeśli, pamiętając to, ma w tej chwili nieczyste sumienie, to tym łatwiej przyzna Sokratesowi, że właśnie jego wybitna swada i mądrość oratorska uczyniła go zdolnym do tego kłamstwa. Gdyby nie był mistrzem w mówieniu, nie potrafiłby i nieprawdy powiedzieć tak zręcznie i przekonywająco, jak potrafił.
+
+Następnie, jeżeli pasek perski sfałszował, podrobił, to znowu dowiódł, że i w tym zakresie trzeba być majstrem, jeżeli się chce fałszywe wartości wytwarzać łudząco. A do tego zmierza Sokrates. W jego ustach na jedno wychodzą słowa: mistrz, zdolny, tęgi, dzielny, rozumiejący się na rzeczy, dobry.
+
+Sokrates apeluje do pamięci Hippiasza, a że Hippiasz niechętnie do niej sięga, aby w niej nie znaleźć argumentu za zdaniem przeciwnika, Sokrates żartuje znowu z sofisty, mówiąc, że zapomniał o jego sztuce pamiętania.
+
+Ostatnim zdaniem jakby sugerował przeciwnika; równocześnie wypowiada w nim własne przekonanie, które twierdząco sformułować można: w zakresie każdej wytwórczości jeden i ten sam człowiek, a mianowicie mistrz, posiada warunki do produkowania wartości prawdziwych i wartości fałszywych, pozornych. Do wytwarzania bowiem jednych i drugich potrzebna jest umiejętność i znajomość rzeczy, którą właśnie tylko mistrz posiada.
+
+Na twierdzenie tak sformułowane można się zgodzić; nie można się zaś godzić na to, żeby mistrz w każdym zakresie wytwórczości produkował naprawdę wartości fałszywe, pozorne, obok prawdziwych. Tymczasem tak właśnie brzmi ostatnie, pytająco ujęte, zdanie tego rozdziału. Hippiaszowi musi się to zdanie ogromnie podobać. Gdyby nie to, że jest ono skierowane przeciw jego rozróżnieniom popisowym, zgodziłby się na nie otwarcie i z radością. To przecież jego własne pojęcie dzielnego człowieka, pojęcie typu, który jest zdolny „do wszystkiego”.
+
+Teza Sokratesa
+
+XI. Nie mogąc tedy oponować, a nie chcąc się zgodzić, daje odpowiedź, która nic nie mówi, odracza decyzję. Sokrates widzi milczącą zgodę sofisty na tę przesłankę wyjętą z jego systemu wartości, dołącza do niej poprzednio ustaloną pochwałę Odyseusza i Achillesa i wysnuwa stąd wniosek, że nie ma między tymi bohaterami zasadniczej różnicy. Jeśli obaj są ludźmi wybitnymi, będą obaj zdolni zarówno do dobrego, jak i złego, wynikałoby w jednym sformułowaniu — będą obaj robili i źle, i dobrze, wynikałoby w sformułowaniu drugim. To drugie zdaje się akcentować Sokrates, na co Hippiasz wraz z czytelnikiem wypadają z równowagi. Hippiasz dlatego, że Sokrates obalił jego popisową tezę, z pomocą pojęcia dzielnego człowieka, które sofiście spod serca wydobył; czytelnik dlatego, że poznać nie może Sokratesa. Co ten człowiek mówi? To on? Ale Sokrates nie mówi do siebie. On Hippiaszowi ułatwia wnioski z Hippiaszowego stanowiska. On mówił tak niejako: „Zobacz, Hippiaszu! Jeżeli twój doskonały typ nie ma żadnych hamulców postępowania, oprócz prawa pisanego, to jeśli będzie mądry, będzie popełniał łotrostwa równie zręcznie jak czyny bohaterskie. Jeśli Odyseusza i Achillesa uważasz za typy doskonałe, spodziewaj się po obu równie wielkich szelmostw, jak i chwalebnych czynów, i nie rób między nimi różnicy, skoro obu stawiasz na jednym podejrzanym piedestale”.
+
+XII. Żartem dowodzi Sokrates, że i Achilles kłamie. Kłamstwem jego mają być postanowienia i groźby niedotrzymane. Jednakże dowieść, że ktoś się myli, nie znaczy dowieść, że kłamie. Achillesa postanowienia były mylne — nie widać wcale, żeby wypowiadając je, zamierzał przez to kogokolwiek w błąd wprowadzić. Bez tego zaś nie ma kłamstwa dla nas.
+
+XIII. Jednakże Sokrates i Hippiasz nie tak pojmują kłamstwo. Z ust Hippiasza bowiem pada teraz osobliwe zdanie o Achillesie, w którym Sokrates nie widzi widocznej dla nas sprzeczności. Hippiasz twierdzi, że Achilles kłamie mimo woli i bez zamiaru, tylko Odyseusz kłamie z zamiarem i umyślnie.
+
+Ktokolwiek kłamstwo pojmuje jako coś zamierzonego i umyślnego, musi w tej charakterystyce Achillesa znajdować sprzeczność wewnętrzną. Obaj rozmawiający jej nie znajdują. Jeżeli się tedy nie mylą grubo, muszą chyba przez kłamstwo rozumieć nie: rozmyślne i zamierzone wprowadzanie w błąd, tylko kłamać znaczy u nich zapewne: być okazją, czy też być przyczyną świadomą lub nieświadomą, dobrowolną lub mimowolną cudzego błędu. Tylko przy takim rozumieniu wyrazu kłamstwo i kłamca można mówić o kłamstwie nieumyślnym. Rozumienie bardzo szerokie i ryzykowne, bo kłamcą trzeba by wtedy nazywać także i otyłego sąsiada, którego ktoś o zmroku wziął za furę siana, i kłamcą byłby wtedy człowiek czterdziestoletni, który na 30 lat wygląda itd. Oni również mimo woli powodują błędy otoczenia, ale kłamcami ich nazywać nie mamy ochoty.
+
+Sokrates jednak zdaje się przyjmować to osobliwe rozumienie, a zamiast je rozpatrzeć, dowodzi na żart chytrości Achillesa figlarnym doborem miejsc z Homera i powoływaniem się na tradycyjne mity, których przecież poważnie nie traktuje. Chodzi mu przede wszystkim o efekt, który padnie w następnym rozdziale.
+
+XIV. Tęższy, lepszy jest Odyseusz od Achillesa, bo każdy umyślnie kłamiący lepszy, tęższy jest od kłamcy mimowolnego. Zaznaczyć warto, że dotychczas wcale nie padło nawet, a nie tylko nie zostało dowiedzione twierdzenie, na które się Sokrates powołuje, jako na rzecz ustaloną w rozmowie: że ci, którzy umyślnie kłamią, tężsi, lepsi są niż ci, co nieumyślnie. Padło tylko twierdzenie brzmiące nieco podobnie, jakby odwrotność tego teraz, a mianowicie: Ludzie tężsi, lepsi (wyżej stojący intelektualnie) posiadają warunki do umyślnego wprowadzania drugich w błąd. Mówiło się o tym niejasno w rozdziale dziesiątym, ale nie wolno tego tak odwracać, jak to robi w tej chwili Sokrates. Chyba że to próba, czy się sofista zgodzi. Powiedzenie Sokratesa ma też formę pytania, któremu mógł był Hippiasz zaprzeczyć.
+
+Tezy Hippiasza
+
+U Hippiasza jednak źle jest ze sztuką pamiętania. On zaprzecza osobliwej zasadzie Sokratesa, ale tylko z punktu widzenia przyjętych poglądów opinii popularnej i prawa pisanego. Tym samym opowiada się Hippiasz przy następujących tezach: 1) Istnieją zbrodnie nieumyślne, czyli do złego czynu niekoniecznie potrzeba złego zamiaru. 2) Kto umyślnie źle robi, jest gorszy od mimowolnego zbrodniarza. 3) Kogo spotyka przebaczenie i łagodniejsze prawo, ten jest lepszy.
+
+Sokrates zdaje się podzielać tezę pierwszą, bo dyskutuje o wartości mimowolnych zbrodniarzy, zamiast powiedzieć, że takich w ogóle nie ma, bo do istoty złego czynu, naszym zdaniem przynajmniej, należy zła woła, zły zamiar i stąd my w ogóle nie uznajemy zbrodni nieumyślnych.
+
+Sokrates uznawał jednak zbrodnie i bez złego zamiaru, i nie tylko Sokrates. Przecież Edyp król miał szereg takich zbrodni na sumieniu mylnie ustawionym. Zatem tu znowu, podobnie jak w pojmowaniu kłamstwa, odbiega Sokrates od naszego rozumienia rzeczy. My oceniamy zamiar i charakter działającego człowieka, a nie oceniamy czynności samej przez się — on ocenia widać czynności same i pewne czynności nazywa złymi bez względu na to, z jakiego wynikły zamiaru i o jakim świadczą charakterze. Zabić ojca, na przykład, czy zabrać własność nie swoją, jest czynem złym, jego zdaniem, bez względu na to, w jakim go ktoś dokonywa zamiarze i w jakiej by działający pozostawał wierze.
+
+Na trzecią tezę Hippiasza Sokrates się, oczywiście, nie zgodzi — on ma pogardę dla takich popularnych kryteriów wartości. Co do drugiej, zajmuje stanowisko wprost przeciwne; twierdzi, że kto umyślnie źle robi, lepszy jest od tego, co nieumyślnie. Dowieść tego spróbuje w trzech ostatnich rozdziałach dialogu.
+
+Spowiedź Sokratesa
+
+XV. Tymczasem wyświetla w paru słowach, skąd mu się tak osobliwe zdanie wzięło. Żartami zwraca uwagę na swą stałą opozycję przeciw poglądom przodowników szerokich kół i potrzebę analizy pojęć i twierdzeń kursujących; nazywa to swoją niewiedzą i świadectwem nieudolności intelektualnej. Rozumie swoje słowa akurat wprost przeciwnie, niż je wypowiada. I oto żywy przykład na to, jak jeden i ten sam człowiek wybitny i prawdę mówi, i równocześnie drugich w błąd wprowadza. Sokrates prawdę mówi, że największym świadectwem niewiedzy różnić się w zdaniu z ludźmi mądrymi, ale zwracając te słowa do Hippiasza w tej właśnie chwili, wprowadza go w błąd, bo sofista musi wobec tego najfałszywiej myśleć, że Sokrates jego właśnie ma za mędrca.
+
+Cały ustęp o zmartwieniu z powodu różnicy zdań z ludźmi mądrymi ma w ustach Sokratesa sens wprost przeciwny niż dosłowne brzmienie. Nie on sam się martwi niezgodą z Hippiaszem, ale Hippiasz się nim martwić powinien, chociaż mu to nie w głowie.
+
+Sokrates ma zmartwienie, ale nie to. Nie on się chce leczyć u Hippiasza, tylko on lekarstwo przynosi Hippiaszowi. Dobrze wie, że na darmo. Nie napadło go coś w tej chwili z tym podnoszeniem umyślnych przestępców nad mimowolnych i nieświadomych, tylko mu się nasuwają ostateczne konsekwencje kultu dla sprawności życiowej, który podziela z sofistą, jeno życie rozumie inaczej.
+
+Sokrates bawi się tym nieporozumieniem, które sam powoduje; w takiej masce tylko odsłania siebie samego, wypowiada swoje najserdeczniejsze biedy i kłopoty duchowe; spokojny, że ich nie dojrzy tępy uczestnik rozmowy. Czyżby Platon podobnie traktował czytelnika, jak Sokrates Hippiasza?
+
+W całym dialogu Sokrates Platoński żartuje, ale pod tą maską zdają się kryć rzeczy poważne. Te żarty nie wyglądają, jakby były produktem zimnych a chytrych kombinacji słów z amatorstwa logicznego, dla zabicia czasu i wprowadzenia w kłopot niewtajemniczonych w sekrety żargonu — w nich się przebija pewne rozdroże duchowe.
+
+Sokrates sam górował nad otoczeniem tylko sprawnością intelektualną. Tę jego wartość ceniono powszechnie i tylko tą wymuszał pokłon od przyjaciół i nieprzyjaciół. Stąd odruchowo i zgodnie z duchem epoki i on, i Platon sprawność intelektualną postawili na ołtarzu, stąd się urodził ich kult mądrości, ich ideał mędrca. Wszelkie wartości człowieka, wszelką dzielność zasadzał Sokrates na mądrości. Jeżeliby jednak najwyżej w człowieku cenić mądrość i tylko mądrość — a mądrym nazywać, jak to pospolici ludzie robią, tego, który się trafnie i korzystnie orientuje w zmysłami dostrzegalnej rzeczywistości — wówczas wypadnie szanować i sprytnych łotrów, którzy sobie umieli powodzenie zapewnić, wypadnie przyznać, że ideał człowieka najlepiej jest dysponowany nie tylko do bohaterstwa, ale i do zbrodni, wypadnie nie robić różnicy między kutym oszustem, który się sprytnie od cykuty wymigał, a człowiekiem niewinnym a mądrym, któremu ją wypić kazano i wypił. Chyba różnicę in minus i niżej cenić Sokratesa niż Archelaosa Macedończyka, niżej Achillesa niż Odyseusza. Sokrates się Platonowi często w snach twórczych zlewał w jedno z Achillesem. Przecież typy Odyseuszów, po ludzku rzeczy biorąc, mądrzejsze, sprawniejsze intelektualnie od Achillesów.
+
+Platon mógł Sokratesa nazywać mędrcem, czyli dobrze zorientowanym w rzeczywistości, i zachować kult dla niego, jak to było jego serdeczną potrzebą, bo rozszerzył w swoim rozumieniu granice rzeczywistości o cały świat nadzmysłowy, o mistyczne dzieje duszy przed urodzeniem i po śmierci, o nadświatowe prawo i porządek moralny, w których się umysł Sokratesa miał dobrze orientować. Pod tym nadprzyrodzonym warunkiem Sokrates mógł zostać mędrcem nadal i Achilles mógł uchodzić za lepszego, sprawniejszego niż Odyseusz. Dla przeciwników Sokratesa i Platona, którzy uznawali tylko porządek i świat zmysłowy, kult sprawności intelektualnej prowadził nieuchronnie do rozgrzeszenia Odyseuszów, a poniżenia Achillesów.
+
+Stąd mógł Platon mówić niejako Hippiaszowi: „Ja wiem, co chroni mądrego człowieka od zbrodni i dlaczego największy mędrzec nie jest największym filutem, ale ty tego nie wiesz i ze swego stanowiska nie masz prawa wiedzieć. Z twojego stanowiska Odyseusz i każdy inny oszust kuty i obrotny będzie więcej wart od typów czystych a prostodusznych. W twoim czysto przyrodzonym poglądzie na świat i związanym z nim systemie ocen ideał sprawności intelektualnej nie ma się czym uchronić od oszustwa i od innej zbrodni”.
+
+Platon dzieli z sofistami kult dla rozumu, dla wybitnej głowy, dla tęgiego, zdolnego człowieka. Różni się od nich w ocenach etycznych tylko dzięki hipotezie świata i prawa nadziemskiego.
+
+Bez tej hipotezy, uważał, wychodzi się stanowczo poza dobro i zło, zatraca się różnice między Achillesem i Odyseuszem, a nawet musi się palmę przyznać ostatniemu. Nie pomogą Hippiaszowe powoływania się na prawo pisane, na opinię publiczną. To będą przecież wybiegi poza ramy danego systemu wartości.
+
+Jednakże Platon sam sobie doskonale zdawał sprawę z tego, że jego wiara w nieśmiertelność duszy jest tylko wiarą i przypuszczenie prawa nadprzyrodzonego jest tylko przypuszczeniem. Trzeba sobie taką piosnkę, niby dziecięciu, do snu śpiewać, a w rzeczywistości może to tak jest, a może i nie tak — w ten sens kończył przecież Fedona i Obronę i taką minę miał w wielu miejscach w Fajdrosie. W takich momentach pytania postawione w Hippiaszu mniejszym przestawały być żartem dla niego. „Kto wie ostatecznie, tak mógł sobie myśleć wtedy, kto wie, czy mędrzec, który się krępuje i odmawia sobie, i opanowuje swój temperament, aby przejść przez życie bez niczyjej krzywdy, kto wie, czy nie przegrywa stawki życia? Kto wie, czy ma jakikolwiek sens zabraniać czegokolwiek człowiekowi mądremu; czegokolwiek zechce i cokolwiek zrobi człowiek mądry, zawsze on więcej wart niż nieodpowiedzialny typ intelektualnego kaleki”.
+
+Te myśli nie mogły być dalekie od Platona samego; rozwinął je w Gorgiaszu w ustach Kaliklesa. Stąd nie żartuje Sokrates, kiedy się spowiada z pokus w tym kierunku. Momenty, w których świadomi, inteligentni zbrodniarze wydawali mu się więcej warci od nieświadomych i mimowolnych przestępców, a ci ograniczeni i głupotą mimo woli zło powodujący w najgorszym stawali świetle, te momenty dają się doskonale pojąć u Platona i Sokratesa na tle ich kultu dla rozumu, a musiały im się szczególniej wyraźnie narzucać wtedy, gdy nadprzyrodzony świat tracił dla nich na chwilę charakter niewątpliwej rzeczywistości.
+
+Stąd i sobie samemu, i sofistom świeckim mógł Platon słusznie postawić to pytanie: Kogo mam cenić wyżej: świadomego, inteligentnego człowieka, który wie co i dlaczego robi, wszystko jedno, co by robił, czy nieinteligentnego i nieodpowiedzialnego, który nie wie, co robi, wszystko jedno, czy złego coś popełnia, czy też mu się coś dobrego udało? Pytanie to nie jest figlem aż do rdzenia, a odpowiedź na nie uzyskana nie jest tylko żartem, choć ma minę figlarną, coś jak to: Lepiej z mądrym zgubić, niż z głupim znaleźć.
+
+Dobro etyczne jako zdrowie i sprawność człowieka
+
+XVI. Chodzi teraz o uzasadnienie twierdzenia, że lepsi są ci, którzy źle robią umyślnie, niż ci, co błądzą mimo woli. Jakie znaczenie ma użyty tutaj ważny wyraz „lepszy”, widać z toku dowodzenia.
+
+Dzisiejszy człowiek nauczył się w jakimś innym znaczeniu mówić o dobroci człowieka, a w innym o dobroci narzędzia. Dobry człowiek to u jednych postępujący wedle przepisów religii, wedle innych człowiek łagodny i życzliwy całemu światu i gotów pomagać każdemu; podczas gdy narzędzie dobre znaczy narzędzie sprawne, celowo zbudowane, nieuszkodzone, dokładnie spełniające swe zadanie, doskonałe.
+
+Platon chce używać wyrazu „dobry, lepszy”, kiedy o człowieku mówi, w tym samym znaczeniu, w jakim go używa o narzędziu lub czynności jakiejkolwiek. Stąd u niego dobry znaczy wszędzie w tym samym odcieniu sprawny, tęgi, wart pochwały, nie uszkodzony, doskonały; czy to o człowieku mowa, czy o zwierzęciu, narzędziu lub czynności. Zły zaś znaczy tyle, co lichy, niesprawny, popsuty, do niczego, nieudolny — czy to będzie człowiek, czy rzecz.
+
+I to nie pomyłka z jego strony lub nieuwaga. On naprawdę tak rzeczy widział i tak je rozumiał. Człowiek zły był w jego oczach kaleką intelektualnym, miał popsuty wzrok ducha, nie widział, jaki sobie samemu los gotuje po śmierci, jaką szkodę i brzydotę przynosi swymi postępkami własnej duszy. A dobry człowiek to był, jego zdaniem, typ sprawny w stosunku do rzeczywistości, ale niezmysłowej, ukrytej przed oczyma pospolitych ludzi. Stąd z całą świadomością zaczyna teraz rozważanie od zestawienia różnych przykładów niesprawności fizycznej. Uogólnia luźne uwagi przy końcu rozdziału, twierdząc, że lepsze, bardziej pożądane są narzędzia zmysłowe sprawne, którymi by można pracować w sposób właściwy lub, jeśliby kto zechciał, w sposób umyślnie niewłaściwy, lichy.
+
+Platon ma ten sam punkt wyjścia co i sofiści. Używa przecież tego samego języka. I u niego, i u nich dobry znaczy sprawny; i on, i oni odczuwają szacunek na widok jednostki zwycięskiej, przełamującej się, mimo przeszkód i trudności, na górę, na słońce, aby chodzić w triumfie i bezpieczeństwie wszelkim. To jest „dobry typ” w zasadniczym pojęciu i Platona, i sofistów; ten sam ideał. Tylko u Platona ideał ten powiada: „Znalazłem znakomitą drogę na wierzch, której ci głupcy z tego świata nie znają. Dalejże. Znośmy krzywdy, panujmy nad sobą, odmawiajmy sobie za życia, a zrobimy brylantowy interes po śmierci”. Taki sam typ u sofistów powiada: „Nie głupim puszczać wróbla z garści dla malowanego kanarka na dachu. Rób, rób interes pośmiertny; ja tymczasem zrobię doczesny. Gwałcić i łamać lubimy obaj. Tylko ty siebie samego, ja wolę to, co poza mną”.
+
+XVII. Z wolna i duszę ludzką Platon pojmować zaczyna jako narzędzie, którym rozum — kierownik rządzi.
+
+W Fajdrosie przedstawia stosunek między rozumem a niższymi stronami duszy, zapalczywą i pożądliwą. Niższe części duszy to niby konie dwa u rydwanu, którym rozum kieruje.
+
+Jeżeli z tymi częściami duszy ludzkiej ma się rzecz podobnie jak z wszelkimi innymi narzędziami, to tak samo jak w poprzednich wypadkach będzie i tu: kto potrafi źle robić umyślnie, kiedy by zechciał, a nie musi źle robić mimo woli, choćby nie chciał, ten, widać, sprawniejszą ma parę rumaków w sobie i pewniejszego woźnicę nosi w głowie. Tak by kiedyś powiedział Platon językiem Fajdrosa. Więc np. kto potrafi błędnie rozumować, jeśliby zechciał, a kiedy zechce, rozumuje trafnie, kto potrafi zapomnieć, co zechce, kto potrafi pić nad miarę, jeżeliby zechciał, ale wcale nie musi tego robić, choćby nie chciał, i kto potrafiłby się zemścić straszliwie, gdyby zechciał, a nie ma wewnętrznego musu, który by go wbrew jego woli nieodparcie do zemsty popychał itd., ten lepszy jest, sprawniejszy, niż ktoś, kto by te wszystkie nieładne rzeczy robił pod przymusem wewnętrznym, a więc robił nieumyślnie, nie wtedy, kiedy by tego rozumnie chciał.
+
+To są myśli, na które i zgodzić się można, i łatwo je pojąć u Platona. Wyrażone jednak w formie figlarnej przez to, że Platon opuszcza słówko „potrafi” w zwrocie: Lepsza dusza umyślnie źle robi. Podobnie jak na początku dialogu mówił, że dobry astronom znakomicie o gwiazdach kłamie, zamiast „kłamać by potrafił”, o co mu przecież najwidoczniej szło — tak i teraz czytelnik wraz z Hippiaszem w zdumienie wpada nad tymi umyślnymi zbrodniami „dobrej duszy”, podczas gdy chodzi przecież tylko o intelektualne warunki tych zbrodni, które niewątpliwie siedzą w człowieku tęgim.
+
+Jeśli Platon to ważne słówko opuszcza, to znowu nie musi być jego pomyłką ani świadectwem nieudolności. Mówi z Hippiaszem, który nie uznaje świata nadziemskiego i Platońskich nadprzyrodzonych pobudek postępowania. Dla niego więc nie istnieją hamulce, które by tęgiego, zdolnego człowieka miały powstrzymywać od czynów złych, a docześnie korzystnych. On je, dzięki swym zdolnościom, najsprawniej popełniać potrafi i Hippiaszowy ideał popełnia je naprawdę, bez żenady, byle tylko uniknąć skazania. Słusznie tedy robi Platon, kiedy Hippiasza stawia przed pytanie wysnute z jego założeń, na które sofista, gdyby był szczery i miał cywilną odwagę, powinien odpowiedzieć twierdząco.
+
+Główne pytanie dialogu
+
+Pytanie, do którego doprowadza Sokrates Hippiasza da się tak sformułować, jeżeli się chce uniknąć wieloznaczności, którą w dialogu zwięzła forma pytania może za sobą pociągnąć. „Zastanów się, czy chcąc być konsekwentnym, nie powinieneś chwalić ludzi, którzy planowo i sprawnie popełniają czyny powszechnie ganione i cieszą się przy tym powodzeniem, a niżej stawiać w swojej ocenie ludzi, którzy takie czyny popełniają niechcący? A pamiętaj, że sprawność cenisz nade wszystko”.
+
+Tak jest, powinien by powiedzieć Hippiasz. Dzielny człowiek, w moim rozumieniu, popełnia i „zbrodnie” planowo, umyślnie, kiedy to uważa za właściwe. „Zbrodnie” jego to nie są upadki i fałszywe kroki, i niezgrabności moralne, to są świadomie obrane, choć powszechnie ganione, metody działania, przed którymi on się nie cofa, choć je tłum potępia. Tak; dzielny człowiek robi źle umyślnie, a człowiek lichy robi źle niechcący.
+
+Na taką odwagę zdobędzie się Kalikles w Platońskim Gorgiaszu; on to powie otwarcie i szeroko; Hippiasz jest „mniejszy” od Kaliklesa, bo się wstydliwie chowa przed konsekwencjami swego zasadniczego stanowiska za parkan kursujących opinii i naraża się na to, że mu Sokrates musi na początku rozdziału ostatniego mówić z cicha, a z zimnym uśmiechem: „Myślałem, że i dla ciebie coś wynikło”. Przecież przede wszystkim dla niego.
+
+XVIII. Sokrates stawia Hippiasza przed ostatnią nieprzyjemną konsekwencją. Jeśli uważasz, że sprawiedliwość to moc lub wiedza, lub jedno i drugie, czyli jeśli sprawiedliwym nazywasz człowieka sprawnego życiowo (wiedza jest także objawem i warunkiem sprawności życiowej), to nazywaj sprawiedliwymi, a więc oceniaj etycznie dodatnio ludzi, którzy planowo i z powodzeniem popełniają czyny powszechnie ganione — to są przecież typy sprawne życiowo przy twoim rozumieniu życia — przyznasz, i posiadają wiedzę w twoim rozumieniu. Wiedzą, jak najsprytniej i bezkarnie kraść i oszukiwać, i mordować skrycie. To będą, w twoim systemie wartości, typy sprawiedliwe i dobre. Będą, bo czym się zasłonisz przeciw tej konsekwencji, skoro sprawność życiową cenisz nade wszystko i sprawiedliwość do niej sprowadzasz?
+
+Hippiasz nie mógł znaleźć odpowiedzi; Platon znajdował ją dla siebie w fantastycznym pomyśle życia przyszłego i sądu, i kary po śmierci, ale w momentach, kiedy krytycyzm brał w nim górę nad fantazją, gorzko mu być musiało. I może nie jest tylko figlem bezradna mina Sokratesa, który się do byle Hippiasza zwraca o pomoc i radę, sam jej chwilami nie znajdując w granicach świata doczesnego.
+
+Furtkę swoją na drugi świat Platon zaznacza w jednym ze zdań ostatnich. Ono brzmi: „Jeśli tylko istnieje ktokolwiek taki”. Czyli: żaden człowiek nie robi źle umyślnie. Każdy chce „właściwie” dobra, a tylko przez ograniczenie rozumu i słabość woli upada. Nie ma więc umyślnych zbrodni i występków, są tylko upadki dusz mimowolne. Tę naukę rozwinie Platon w Gorgiaszu. Tu powiada niejako: „Gdybym nie wierzył w całą moją, dość osobliwą, naukę o zaświatach, nie wiedziałbym sam, na czym właściwie oprzeć etykę i czym powstrzymać od zbrodni człowieka, który by jej dokonać potrafił, a przydałaby mu się na coś”.
+
+Czym jest ten dialog dla Platona
+
+Tak więc, rozmawiając ustami Sokratesa z Hippiaszem, rozmawia i sam ze sobą. Z wysokiego kultu dla rozumu i sprawności życiowej wysnuwa ostateczne konsekwencje, które go niepokoją chwilami, a Hippiasza stale niepokoić powinny. Źle się czuje w swoim niepokoju Sokrates, ale w gorszej sytuacji poznawczej zostaje Hippiasz, jeżeli niepokoju nie odczuwa, a nie może przyjąć następstw, do których jego własne stanowisko prowadzi.
+
+Ostatnie słowa Sokratesa najwyraźniej ostrzegają, żeby bezwzględnego kultu dla rozumu w znaczeniu doczesnym, któryśmy w jego ustach słyszeli, aż do kolizji z zakorzenionym poczuciem etycznym, nie brać za jego trwałą własność, tylko za pokusę, za eksperyment myślowy. Wyznanie bardzo cenne i interesujące. Jeżeli Sokrates Platoński wyraźnie i wprost powiada, że przecież niekiedy i sam staje na tym świeckim stanowisku, to łatwiej pojąć, dlaczego Kalikles w Gorgiaszu, ów praojciec Nietzschego, mówi tak przekonująco, barwnie i tak od serca. Platon nie potrzebował podsłuchiwać i podpatrywać, jak jego przeciwnicy mówili w podobnym duchu. Tu wyznaje, że przeciwnika nosił w sobie samym. A wyznać mu było tym łatwiej, że Hippiasz, a z nim może i który z czytelników wziął to wyznanie za żart lub nie zwrócił na te słowa uwagi.
+
+Czym powinien być dla czytelnika
+
+Obok toku myśli spotkanego w Hippiaszu mniejszym nie powinien czytelnik współczesny przechodzić mimo, bo kwestie i kłopoty w nim dotknięte żyją równie dobrze dziś, jak przed dwoma tysiącami lat i więcej.
+
+Dziś tak samo, jak wtedy, żywa istnieje potrzeba uzasadnienia systemu wskazań obyczajowych w sposób trwały, wolny od sprzeczności wewnętrznych. Tymczasem i wtedy, i dziś kładzie się najczęściej pod etykę fundament z mitu i legendy. Materiał to jest kruchy ogromnie i nie ostoi się w głowach otwartych; pęka i kruszeje zazwyczaj już bardzo wcześnie: kiedy tylko człowiek przestaje powtarzać bezmyślnie to, co mu w dziecinne uszy kładziono, a zaczyna myśleć nad tym, co widzi i czyta. Wtedy też traci ów etyczny grunt pod nogami i jeśli się w ogóle czego trzyma, to konwenansu, opinii publicznej, o ile ona istnieje i sięga aż do jego dróg osobistych, trzyma się nawyknień pozbawionych teraz legitymacji intelektualnej albo tych wskazań, jakie mu dobrze zrozumiany własny interes dyktuje. I gdyby mu kto, jak Sokrates Hippiaszowi, pytanie postawił: dlaczego właściwie nie kradniesz i nie kłamiesz, choćby cię nie schwytano, na jakiej się opierasz zasadzie ogólnej i jakie cię od tego powstrzymują pobudki, byłby w kłopocie.
+
+Spod tego kłopotu wyziera wielki pesymizm. On mówi: nie ma innych podstaw pod reguły obyczaju poza mitem i legendą dla małych dzieci i bezkrytycznego ludu.
+
+Pesymizm zupełnie nieuzasadniony. Ten człowiek powinien by to tylko powiedzieć: Ja nie znam innej etyki, jak tylko tę, opartą na micie i legendzie, bo nie pokazano mi innej i zawsze mi mówiono, że innej nie ma i być nie może. Ten pesymizm we mnie zaszczepiono w dzieciństwie, a ja miałem ważniejsze rzeczy do roboty, niż się oglądać za świeckimi podstawami etyki, tym bardziej że i bez nich doskonale żyć można.
+
+Tymczasem świeckie podstawy norm obyczajowych dadzą się sformułować i oprzeć na właściwym większości dzieci i dorosłych instynkcie społecznym. Ten daje sankcję najogólniejszym jej zasadom, a odzywa się u lepszej większości ludzi, tylko go kultywować potrzeba. On potrafi oświecić dodatnio najogólniejsze ramy współżycia jednostek w społeczeństwie, a szczegółowe wskazania dadzą się z pewnym przybliżeniem uzasadnić na tej ogólnej podstawie.
+
+Oczywista rzecz, że szkicowanie takiego systemu nie tutaj jest na miejscu — ale myślący czytelnik potrafi się rozejrzeć w już istniejących, o ile by nie miał „ważniejszej” rzeczy do roboty. Dialog Platoński powinien go do tego zachęcić.

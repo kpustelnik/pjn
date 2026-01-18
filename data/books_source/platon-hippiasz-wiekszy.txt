@@ -1,0 +1,1034 @@
+Platon
+
+Hippiasz większy
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-6922-6
+
+
+
+
+
+Wstęp tłumacza
+
+Hippiasza większego uważają niektórzy za dialog związany treścią z Hippiaszem mniejszym. I tak O. Apelt, autor nowego tłumaczenia niemieckiego dwóch tu zebranych dialogów, widzi w dialogu większym pewnego rodzaju pieśń przebłagalną. Sokrates miał się jakoby skompromitować, a przynajmniej zbałamucić czytelnika swymi sofizmatami z rozmowy poprzedniej; dlatego naprawia swą reputację z pomocą nowej rozprawy z tym samym znajomym.
+
+Przypuszczenie to nie wydaje się jednak konieczne. W poprzednim dialogu szło o kwestię dobra, o sprawę idealnego typu człowieka, w tym chodzi o istotę piękna, które autor pragnie odróżnić czymś od dobra, chociaż nie bardzo wie, jak to zrobić. W każdym razie temat rozmowy wydaje się inny.
+
+Poza tym już w objaśnieniach do dialogu poprzedniego znajdują się uwagi, których celem jest wykazać, że stanowisko, jakie tam Sokrates zajmuje, nie powinno bałamucić czytelnika; uwagi oparte na tekście dialogu.
+
+Trudno odpowiedzieć na pytanie, dlaczego te oba dialogi mają tę właśnie osobę w tytule. Ma się dziś wrażenie, że równie dobrze mógł Sokrates z każdym innym sofistą rozmawiać o tym, czy dzielny człowiek robi źle świadomie i na czym polega piękno. Może się je kiedyś uda rozwiązać — filologom. Jednakże i bez odpowiedzi na to pytanie z zajęciem można oba dialogi przemyśleć.
+
+Hippiasz większy wydaje się późniejszym od Mniejszego, jeżeli brać pod uwagę stosunek osobisty rozmawiających. W poprzednim Sokrates zachowywał wobec sofisty jakieś pozory towarzyskie uszanowania, pewną rezerwę. Hippiasz bywał bliski obrazy, potrzeba było pośrednictwa Eudikosa, żeby dyskusja mogła jako tako dobrnąć do końca. Sokrates przybierał pozę nieśmiałą, ostrożną — w tym dialogu ma ton poufały, bezceremonialny, dający się pomyśleć między starymi znajomymi, którzy się nie rozumieją, wobec czego jeden nabiera drugiego gruntownie. Sokrates jest swobodny i w dobrym humorze — Hippiasz w jeszcze lepszym, robi poufałe zwierzenia, improwizuje lekcję, daje odpowiedzi na żart, nie obraża się o zupełnie otwarte aluzje Sokratesa, które kijem pachną, słucha delikatnych wzmianek pod swoim adresem o kamieniu młyńskim bez uszu i bez mózgu, które jego pojętność malują; udaje, że nie słyszał. Trudno pomyśleć, żeby Platon, mający tak dobrze uzasadnione ambicje pisarskie i umiejący tak doskonale malować w rozmowie psychologiczne tło osobistego stosunku rozmawiających, naprzód czytelnikom pokazywał ludzi spoufalonych na koleżeńskiej stopie, a później zapoznawał ich niejako i dopiero ośmielał się za pośrednictwem Eudikosa. To się więc wydaje rzeczą niewątpliwą, że Hippiasz większy wyszedł po Mniejszym, ale koniecznego wewnętrznego związku między nimi dopatrzyć się trudno, jeżeli się treść dialogów bierze pod uwagę.
+
+Jakiś związek treściowy jest, bo piękno niedaleko odbiegło od dobra, kwestia mocy jest dotknięta w jednej i w drugiej rozmowie, ale dialog drugi mimo to trudno uważać za dalszy ciąg, dopełnienie czy przeciwstawienie pierwszego. Hippiasz większy stanowi całość sam dla siebie.
+
+Dzieje się, być może, na ulicy — otoczenie nie odgrywa żadnej roli w dialogu. Tyle tylko widać, że gdzieś jesteśmy w Atenach i przysłuchujemy się pogawędce dwóch dobrych, dalekich znajomych.
+
+Dodać nie zaszkodzi, że U. von Wilamowitz-Moellendorff, autor znakomitego dzieła o Platonie, które w r. 1920 wyszło w drugim wydaniu, uważa ten dialog za nieautentyczny, jakkolwiek pochodzący ze szkoły Platona i za życia jego wydany. Opiera się na tym, że nie widać w nim jakoby Platońskiego humoru i wdzięku i Sokrates ma być jakoby mało charakterystyczny. Zarzutów przeciw stylowi dialogu nie umie jednak nawet taki znawca języka jak Wilamowitz sformułować i sam to szczerze wyznaje. Zostają tedy bardzo podmiotowe kryteria, które żadną miarą wystarczyć nie mogą, gdyby ktoś nawet podzielał impresje Moellendorffa.
+
+Gdyby jednak i odkryto kiedyś w jakimś Oksyrynchos nawet własnoręczny list Platona, który by dialogowi temu autentyczności zaprzeczał, on zostanie mimo to dziełem wielkiej wartości literackiej, które zdolnego czytelnika zawsze potrafi pobudzić do myślenia, a z obrazem Sokratesa z innych dialogów Platona harmonizuje znakomicie.
+
+
+
+
+Hippiasz większy
+
+
+Osoby dialogu:
+ * Sokrates
+ * Hippiasz
+
+
+Sokrates: Hippiaszu piękny i mądry — jakże cię dawno nie było u nas w Atenach!
+
+Hippiasz: Bo czasu nie było, Sokratesie. Elis, ile razy ma jakiś interes do którego z państw, zawsze się naprzód do mnie zwraca spośród obywateli i wybiera na posła, bo uważa, że najlepiej potrafię osądzić i donieść słowa od każdego państwa pochodzące. Więc nieraz i do innych państw bywałem posłem, a najczęściej i w najliczniejszych, i największych sprawach do Lacedemonu. I dlatego też to, o co się pytasz: nieczęsto bywam w tych stronach.
+
+Sokrates: Tak to, tak, Hippiaszu: być naprawdę mądrym i doskonałym człowiekiem. Bo ty i w prywatnym życiu potrafisz od młodych ludzi brać grube pieniądze, a jeszcze więcej im świadczyć, niż sam dostajesz, a w publicznym życiu potrafisz około własnego państwa kłaść zasługi; tak potrzeba, jeżeli chcesz, żeby ludzie na ciebie nie patrzyli przez ramię, ale żebyś miał sławę w szerokich kołach.
+
+Ale, wiesz, Hippiaszu, co to będzie za przyczyna, że owi starożytni, których imiona wielkie okrywa sława mądrości, taki Pittakos i Bias, i ci około Talesa z Miletu, i jeszcze ci potem aż do Anaksagorasa, że też oni wszyscy albo wielu z nich podobno trzymali się z daleka od działalności politycznej?
+
+Hippiasz: A cóż myślisz, Sokratesie, innego, jak nie to, że nie umieli, nie mieli na tyle zdolności, żeby nastarczyć rozumem na jedno i na drugie zarazem: na sprawy publiczne i prywatne?
+
+II. Sokrates: Na Zeusa, więc niby tak, jak inne sztuki postąpiły naprzód i w porównaniu do dzisiejszych artystów i rzemieślników dawniejsi są partaczami, tak samo, powiemy, i wasza sztuka postąpiła naprzód: sztuka mędrców, i starożytni, ci od mądrości, to partacze w porównaniu do was?
+
+Hippiasz: Bardzo słusznie mówisz.
+
+Sokrates: Więc, gdyby nam tak teraz, Hippiaszu, Bias powstał z grobu, słusznie byście się śmieli z niego tak, jak i o Dedalu powiadają rzeźbiarze, że gdyby się dziś urodził i robił takie rzeczy, jak te, za które został sławnym, to by się śmiać z niego potrzeba?
+
+Hippiasz: Jest tak naprawdę, Sokratesie, jak ty mówisz. Co do mnie jednak, to zwykłem starożytnych i poprzedników, a poprzedników nawet więcej chwalić niż współczesnych; wystrzegam się zazdrości tych, co żyją, a obawiam się gniewu tych, co zmarli.
+
+Sokrates: Pięknie ty, Hippiaszu, sądzisz i miarkujesz sobie, jak się przynajmniej mnie widzi. A ja bym ci przyświadczyć potrafił, że prawdę mówisz i że istotnie postąpiła wasza sztuka pod tym względem, żeby i publiczne sprawy umieć załatwiać obok swoich osobistych. Ot, przyjechał tu taki Gorgiasz, mędrzec z Leontiniów; w charakterze urzędowym przybył z domu jako poseł, jako najzdolniejszy między obywatelami Leontiniów do załatwienia spraw publicznych, i na Zgromadzeniu Ludowym przemawiał, podobno bardzo pięknie, a znowu w charakterze prywatnym urządzał popisy retoryczne i obcował z młodymi ludźmi, na czym grube pieniądze zarobił i wziął z tego miasta.
+
+A jeśli wolisz — to mój przyjaciel Prodikos — ten często i w inne strony jeździł w charakterze urzędowym, a w końcu niedawno był tutaj z ramienia państwa; przybył z Keos, przemawiał na Wielkiej Radzie, zdobył sobie wielkie uznanie i znowu prywatnie robił popisy oratorskie, i obcował z młodymi ludźmi, i wziął za to pieniędzy nieprawdopodobnie wiele.
+
+A z tamtych, ze starożytnych żaden nigdy nie uważał za właściwe brać pieniędzy jako umówionej zapłaty ani się swoim rozumem popisywać przed mieszaną publicznością; tacy byli naiwni; nie wiedział jeden z drugim, że pieniądze to rzecz bardzo cenna. A z tych dwóch każdy więcej pieniędzy zrobił na mądrości niż jaki bądź inny fachowiec na jakiejkolwiek innej sztuce. A jeszcze przed nimi Protagoras.
+
+III. Hippiasz: Bo ty, Sokratesie, nic a nic nie wiesz o tym, co piękne na tym punkcie. Gdybyś ty wiedział, ilem ja pieniędzy zarobił, dopiero byś się dziwił. Już pomijam inne sposobności, ale kiedym raz przyjechał do Sycylii, to chociaż tam siedział Protagoras i miał wielką sławę, i starszy był ode mnie, to ja, choć znacznie młodszy od niego w krótkim czasie zarobiłem znacznie więcej niż sto pięćdziesiąt min, a z jednego tylko miasteczka bardzo małego, z Inykos, wywiozłem więcej niż dwadzieścia min. Przywiozłem to do domu i dałem ojcu, a on i inni obywatele osłupieli ze zdziwienia. Ja po prostu mam to wrażenie, żem więcej pieniędzy zarobił niż którykolwiek z dwóch mędrców razem wziętych.
+
+Sokrates: Piękne to, Hippiaszu, co mówisz, i to wielkie świadectwa mądrości i twojej, i ludzi dzisiejszych w porównaniu do dawnych: jak bardzo się różnią.
+
+Toż z twoich słów wynika wielka głupota ludzi dawnych, z czasów choćby Anaksagorasa. Bo powiadają, że Anaksagorasowi miało się trafić coś wprost przeciwnego niż wam. Kiedy dostał wielki majątek w spadku, zaniedbał go i stracił wszystko. Taki to był mędrzec bez rozumu. A powiadają podobne rzeczy i o innych starożytnych. Więc to, uważam, piękne świadectwo pokazujesz mądrości dzisiejszych w porównaniu do dawnych; wielu sądzi podobnie jak ty: że mędrzec powinien być przede wszystkim mądry dla siebie samego. A znaczy to chyba, żeby jak najwięcej pieniędzy zarobił.
+
+IV. Dość już o tym; ale o, to mi powiedz. Ty sam, gdzieś najwięcej pieniędzy zarobił, z tych miast, do których jeździsz? Z pewnością w Lacedemonie, bo tam i najczęściej bywasz?
+
+Hippiasz: Nie, za Zeusa, Sokratesie.
+
+Sokrates: Jak mówisz? Więc najmniej?
+
+Hippiasz: Otóż nic w ogóle, nigdy.
+
+Sokrates: To cud opowiadasz przedziwny, Hippiaszu. A powiedzże mi: twoja mądrość nie potrafi, jeżeli ktoś z nią obcuje i uczy się, zrobić go lepszym, dzielniejszym?
+
+Hippiasz: I bardzo, Sokratesie.
+
+Sokrates: Więc synów obywateli Inykos umiałeś zrobić lepszymi, a Spartiatów nie potrafiłeś?
+
+Hippiasz: Daleko mi do tego.
+
+Sokrates: A, to pewnie Sycylijczycy chcą się stawać lepszymi, a Lacedemończycy nie?
+
+Hippiasz: Owszem, Sokratesie, i Lacedemończycy.
+
+Sokrates: To może z braku pieniędzy unikali obcowania z tobą?
+
+Hippiasz: Ależ nie; oni mają dość.
+
+Sokrates: Więc cóż by to było, że choć chcą i mają pieniądze, a ty możesz im oddać nieocenione zasługi, nie odesłali cię z pełnym workiem? Chybaż przecie nie to, żeby Lacedemończycy lepiej od ciebie wychowywali swoich synów? Czy może powiemy tak i ty się na to zgodzisz?
+
+Hippiasz: Ani troszeczkę.
+
+Sokrates: Więc czyś młodych ludzi nie umiał nakłonić w Lacedemonie, że obcując z tobą, więcej by w dzielność postąpili niż ze swymi najbliższymi, czy też ich ojców nie umiałeś namówić, że raczej tobie powinni synów oddawać, niż się osobiście nimi zajmować, jeżeli im coś na synach zależy? Przecieżby nie żałowali własnym dzieciom możliwie największego postępu w dzielności.
+
+Hippiasz: Ja też nie myślę, żeby żałowali.
+
+Sokrates: Tak jest; przecież Lacedemon jest praworządny.
+
+Hippiasz: Jakżeby nie?
+
+Sokrates: A w praworządnych państwach w największej czci zostaje dzielność.
+
+Hippiasz: Tak jest.
+
+Sokrates: A ty jej udzielać drugiemu umiesz najpiękniej w świecie.
+
+Hippiasz: I to bez żadnego porównania, Sokratesie.
+
+V. Sokrates: A przecież, kto by najpiękniej umiał udzielać hodowli koni, czyżby nie w Tesalii miał największe zachowanie z całej Grecji i największe by stamtąd brał pieniądze i skądinąd, gdzie by o tę rzecz poważnie dbano?
+
+Hippiasz: Zdaje się.
+
+Sokrates: A kto umie udzielać najcenniejszych nauk w rzeczach dzielności, ten nie w Lacedemonie największą znajdzie cześć i największy zrobi majątek, jeżeli zechce, ani w innym praworządnym państwie greckim, tylko w Sycylii raczej, uważasz, przyjacielu, i w Inykos? Będziemy w to wierzyli, Hippiaszu? Jak ty każesz, to trzeba wierzyć.
+
+Hippiasz: Duch narodowy, Sokratesie, nie pozwala Lacedemończykom zmieniać praw ani synów chować wbrew zwyczajom.
+
+Sokrates: Jak mówisz, Lacedemończykom duch narodowy nie pozwala postępować słusznie, tylko błądzić?
+
+Hippiasz: Ja bym tego nie powiedział, Sokratesie.
+
+Sokrates: A przecież postępowaliby słusznie, chowając synów lepiej, a nie gorzej.
+
+Hippiasz: Słusznie; ale obcego wychowania prawo u nich dawać nie pozwala; bądź przekonany: jeżeliby stamtąd ktokolwiek i kiedy bądź był wziął pieniądze za wychowanie, to i ja bym był wziął przede wszystkim. Bo mnie tam słuchają bardzo chętnie i chwalą; tylko, jak mówię, prawo nie daje.
+
+Sokrates: A prawo, powiadasz Hippiaszu, to szkoda czy pożytek państwa?
+
+Hippiasz: Nadają, moim zdaniem, prawo dla pożytku, ale niekiedy i szkodę przynosi prawo, jeżeli źle zostanie nadane.
+
+Sokrates: Jak to? Czyż nie jako dobro największe dla państwa nadają prawo prawodawcy i bez niego nie sposób mieszkać praworządnie?
+
+Hippiasz: Prawdę mówisz.
+
+Sokrates: I jeśli się z dobrem rozminą ci, co się biorą do nadawania praw, to się minęli i z tym, co prawne, i z prawem, czy jak mówisz?
+
+Hippiasz: Ściśle biorąc, Sokratesie, to tak jest, ale doprawdy, że ludzie nie zwykli tak rzeczy nazywać.
+
+Sokrates: Hippiaszu, czy ci, co znają rzecz, czy też ci, co się nie znają?
+
+Hippiasz: Szerokie koła.
+
+Sokrates: A te znają prawdę, te szerokie koła?
+
+Hippiasz: Ależ nie.
+
+Sokrates: A za to ci, co ją znają, uważają, że naprawdę prawem jest dla wszystkich raczej to, co większy pożytek przynosi, niż to, co więcej szkodzi. Czy też się nie zgadzasz?
+
+Hippiasz: Tak, zgadzam się, że naprawdę, to tak.
+
+Sokrates: Nieprawdaż; jest tak i tak się rzeczy mają, jak sądzą ci, co się znają na rzeczy?
+
+Hippiasz: Tak jest.
+
+VI. Sokrates: A Lacedemończykom, powiadasz, większy pożytek przynosi pobierać wychowanie od ciebie, choć ono nieswojskie, niż odbierać wychowanie ojczyste?
+
+Hippiasz: I prawdę mówię.
+
+Sokrates: I że co pożyteczniejsze, to też i bardziej prawne, i to mówisz, Hippiaszu?
+
+Hippiasz: A powiedziałem.
+
+Sokrates: Zatem wedle twego rozumowania to i bardziej prawem jest, żeby się synowie Lacedemończyków wychowywali u Hippiasza, a mniej prawem, żeby u własnych ojców, jeżeli naprawdę od ciebie więcej skorzystają.
+
+Hippiasz: Ależ i jak skorzystają, Sokratesie!
+
+Sokrates: Zatem prawo łamią Lacedemończycy, kiedy ci złota nie dają i nie powierzają swoich synów?
+
+Hippiasz: Ja się na to zgadzam. Mam wrażenie, że twoje argumenty przemawiają za mną i nie mam żadnego powodu, żeby się im sprzeciwiać.
+
+Sokrates: Bezprawie tedy, przyjacielu, znajdujemy u Lakonów, i to największe u nich, gdzie, zdawało się, prawo najwyżej stoi. A oni ciebie chwalą, na bogów, Hippiaszu, i chętnie od ciebie słuchają czego? Naturalnie, że tego, co ty najlepiej umiesz — tych rzeczy o gwiazdach i co się dzieje na niebie?
+
+Hippiasz: Ani troszkę; tego to nawet znosić nie mogą.
+
+Sokrates: A to pewnie czegoś z geometrii chętnie słuchają.
+
+Hippiasz: Nigdy; bo nawet rachować, powiem po prostu, wielu z nich nie potrafi.
+
+Sokrates: To trudno, żeby znieśli, jak ty wykładasz o rachunkach.
+
+Hippiasz: Bardzo trudno, na Zeusa.
+
+Sokrates: A więc to, co ty najjaśniej i najściślej ze wszystkich umiesz rozbierać: o doniosłości głosek i zgłosek, o rytmach i harmoniach?
+
+Hippiasz: O jakich tam, mój kochany, harmoniach i głoskach?
+
+Sokrates: Więc co to za rzeczy, których chętnie od ciebie słuchają i chwalą? Sam mi powiedz, skoro ja nie znajduję.
+
+Hippiasz: O rodach, Sokratesie, bohaterach i zwykłych ludziach, i osadnictwach, jak to się dawnymi czasy zakładało państwa, i w ogóle całej archeologii najchętniej słuchają tak, że ja się przez nich musiałem wyuczyć i powykuwać na pamięć wszelkie tego rodzaju rzeczy.
+
+Sokrates: Na Zeusa, Hippiaszu, masz szczęście, że Lacedemończycy nie słuchają chętnie, jak im ktoś naszych archontów wylicza od Solona zacząwszy; inaczej miałbyś kłopot z nauką.
+
+Hippiasz: Skądże, Sokratesie? Jak raz usłyszę, to pięćdziesiąt imion z pamięci powtórzę!
+
+VII. Sokrates: Prawda; nie zmiarkowałem, że ty posiadasz sztukę pamiętania. Ale tak, to rozumiem, że się, oczywista rzecz, Lacedemończycy tobą cieszą, bo dużo wiesz i taki z ciebie mają pożytek, jak dzieci ze starych babek. Przyjemne im bajki opowiadasz.
+
+Hippiasz: I jeszcze, na Zeusa, Sokratesie, o zajęciach pięknych niedawno się tam bardzo podobał mój wykład; o tym, czym się młody człowiek zajmować powinien. Bo ja mam na ten temat napisaną bardzo piękną mowę. W ogóle dobrze zrobiona, a przede wszystkim dobór słów. A wstęp i początek mam taki: Kiedy Troję zdobyto, mówi podanie, że Neoptolemos miał zapytać Nestora, jakie też są piękne zajęcia, do których by się za młodu brać należało, żeby mieć sławę w przyszłości. A potem tam mówi Nestor i przedkłada mu rozliczne zajęcia prawe i piękne bardzo. Więc to wziąłem na popis wtedy i tutaj mam zamiar ten sam popis urządzić za dwa dni w szkole Fejdostratosa, i innych wiele, których warto posłuchać. Bo mnie Eudikos zaprosił, syn Apemanta. Pamiętaj, żebyś przyszedł sam i innych przyprowadził, takich, co potrafią po wysłuchaniu ocenić mowę.
+
+VIII. Sokrates: Będziemy, jak Pan Bóg da, Hippiaszu. Ale teraz mi pokrótce coś o tym powiedz. Boś mi przypomniał piękno. A niedawno ktoś mnie, mój kochany, w kłopot wprawił, kiedym w jakimś rozumowaniu jedne rzeczy ganił jako szpetne, a drugie chwalił jako piękne — ten mnie tak jakoś pyta, a bardzo zuchwale: „Skądże ty, mój Sokratesie, wiesz, która rzecz piękna, a która szpetna; bo, proszę cię, mógłbyś mi powiedzieć, co to jest piękno?”. I ja, przez moje niedołęstwo, byłem w kłopocie i nie umiałem mu odpowiedzieć metodycznie. Więc odchodząc z tego zebrania, gniewałem się sam na siebie, łajałem się sam w duchu i odgrażałem, że jak tylko spotkam kogoś z was, mędrców, to będę słuchał, nauczę się, wykuję na pamięć i wrócę znowu do tego, co mnie pytał, odnowić walkę argumentów. Więc teraz, jak powiadam, w sam czas cię spotykam. Nauczże mnie, jak się należy, o pięknie samym, co to jest, i spróbuj mi możliwie najjaśniejsze dawać odpowiedzi, abym po raz drugi nie upadł w dyskusji i drugi raz na śmiech nie zasłużył. Ty przecież wiesz to zupełnie jasno i chyba to będzie jakaś mała nauka spośród tych wielu, które ty posiadasz i znasz.
+
+Hippiasz: Mała, Sokratesie, doprawdy, i nic nie warta, żeby się tak wyrazić.
+
+Sokrates: Więc ja się łatwo nauczę i nikt mnie już więcej nie pobije w dyskusji?
+
+Hippiasz: Nikt z pewnością. Inaczej licha by była moja robota i niefachowa.
+
+Sokrates: Dobrze mówisz, na Herę, Hippiaszu! Może pobijemy tego obywatela. A może to nie zaszkodzi, jeżeli ja go będę udawał i kiedy ty będziesz dawał odpowiedzi, ja będę argumenty zaczepiał z drugiej strony, abyś mnie wyćwiczył jak najwięcej; ja już trochę umiem tak podchwytywać. Więc, jeżeli ci to nie zrobi różnicy, to będę cię zaczepiał, abym tym więcej sił nabrał przy lekcji.
+
+Hippiasz: Ależ chwytaj! Przecież, jak mówię, to niewielkie pytanie; ja bym cię nauczył odpowiadać i na znacznie trudniejsze, tak żeby cię żaden człowiek zbić nie potrafił.
+
+IX. Sokrates: Joj, jak ty dobrze mówisz. Więc dalej, skoroś taki łaskaw, to ja się zrobię jak najwięcej tamtym człowiekiem i będę cię próbował pytać. Bo gdybyś się przed nim popisywał tą mową, o której wspominasz, tą o pięknych zajęciach, to on by słuchał; a gdybyś skończył mówić, on by cię zaraz zapytał o nic innego, tylko o piękno; on już ma taki zwyczaj jakiś i powiedziałby: „Gościu z Elis, nieprawdaż, że ludzie sprawiedliwi są *sprawiedliwością* sprawiedliwi?”. Odpowiadajże, Hippiaszu, tak, jakby cię tamten pytał.
+
+Hippiasz: Odpowiem, że sprawiedliwością.
+
+Sokrates: Nieprawdaż, jest coś takiego: sprawiedliwość?
+
+Hippiasz: Tak jest.
+
+Sokrates: Nieprawda, że dzięki mądrości mądrzy są mądrymi, a dzięki dobru dobrym jest wszystko, co dobre?
+
+Hippiasz: Jakżeby nie?
+
+Sokrates: I czymś są te rzeczy, bo przecież nie dzięki czemuś, co nie istnieje?
+
+Hippiasz: Są naprawdę.
+
+Sokrates: I nieprawdaż, że i wszystkie piękne rzeczy dzięki pięknu są piękne?
+
+Hippiasz: Tak, dzięki pięknu.
+
+Sokrates: I ono też czymś jest?
+
+Hippiasz: No jest, ale o cóż chodzi?
+
+Sokrates: Powiedzże, przybyszu — tak będzie mówił — co to jest to piękno, Hippiaszu?
+
+Hippiasz: Więc o nic innego nie chce się dowiedzieć ten pytający, tylko o to, co jest piękne?
+
+Sokrates: Zdaje mi się, że nie; tylko o to, co to jest piękno, Hippiaszu.
+
+Hippiasz: Ale co mu na tym zależy?
+
+Sokrates: Ty myślisz, że to wszystko jedno?
+
+Hippiasz: Ależ to zgoła wszystko jedno.
+
+Sokrates: No tak — widać, że ty wiesz lepiej; a jednak przypatrz się, mój kochany — on cię pyta nie o to, co jest piękne, tylko czym jest piękno?
+
+Hippiasz: Rozumiem, poczciwa duszo, i odpowiem mu, co to jest piękno, i nie dam się zbić żadną miarą. Otóż jest to, Sokratesie, dobrze sobie to spamiętaj, żeby tak naprawdę powiedzieć: ładna panna — to piękno.
+
+Sokrates: Piękną, Hippiaszu, dalipies, i sławną dałeś odpowiedź. Więc jakże, jeżeli ja tak odpowiem, to załatwię się z odpowiedzią, i to trafnie, i nie dam się zbić żadną miarą?
+
+Hippiasz: Ależ jakbyś się miał dać zbić, kiedy tak sądzą wszyscy i przyświadczy ci każdy słuchający, że słusznie mówisz?
+
+Sokrates: Niechże będzie i tak. Pozwólże, Hippiaszu, że sobie w duchu rozbiorę to, co mówisz. Bo ten mnie zapyta tak jakoś: Proszę cię, mój Sokratesie, odpowiedz no: Jeżeli jest czymś piękno samo, to wszystkie rzeczy, które pięknymi nazywasz, byłyby takie dzięki niemu? A ja powiem, że jeśli ładna panna jest pięknem, przez które te rzeczy mają być piękne…
+
+Hippiasz: A cóż ty myślisz, że on cię jeszcze będzie próbował zbijać, że to nie jest piękne, co mówisz; albo, jeśliby próbował, to się nie ośmieszy?
+
+Sokrates: Że będzie próbował, przedziwny człowieku, to ja dobrze wiem. A czy się tą próbą ośmieszy, to się dopiero pokaże. A co będzie mówił, to ci spróbuję powiedzieć.
+
+Hippiasz: Powiedzże.
+
+X. Sokrates: On powie: Jakiś ty słodki, Sokratesie. A ładna kobyła to nie piękna? Przecież ją i bóg w wyroczni pochwalił? Cóż odpowiemy, Hippiaszu? Nic innego, tylko powiemy, że i kobyła jest piękna, jak ładna? Bo jakże byśmy śmieli zaprzeczać, że co piękne, to piękne?
+
+Hippiasz: Prawdę mówisz, Sokratesie. I słusznie to bóg powiedział; przecież u nas się bardzo piękne klacze rodzą.
+
+Sokrates: Dobrze, ależ on powie: A cóż lira ładna? Czy to nie piękne? Zgodzimy się, Hippiaszu?
+
+Hippiasz: Tak.
+
+Sokrates: To ów powie potem, ja dobrze wiem, co; bo ja znam jego zwyczaj: Duszo ty dobra, a cóż ładny garnczek? Może to nie piękne?
+
+Hippiasz: Sokratesie, a cóż to za człowiek? To ktoś bez wychowania, kiedy śmie wymieniać takie grube słowa w poważnej dyskusji.
+
+Sokrates: Taki jeden, Hippiaszu; nie tyle elegant, ile obszarpaniec, który o nic innego nie dba, tylko o prawdę. A jednak trzeba odpowiedzieć temu człowiekowi i ja naprzód powiem, co. Gdyby garnek był robotą dobrego garncarza, gładki i okrągły, i pięknie wypalony, jak to bywają nieraz piękne garnki, takie dwuuszne, co to sześć miar zawierają, bardzo ładne — więc gdyby o taki garnek pytał, to by się trzeba zgodzić, że piękny. Bo jakże byśmy mogli powiedzieć, że nie jest piękne to, co jest piękne?
+
+Hippiasz: Nigdy, Sokratesie.
+
+Sokrates: Nieprawdaż, powie, że i garnek ładny to rzecz piękna? Odpowiadaj!
+
+Hippiasz: Tak, Sokratesie, tak się rzeczy mają, uważam. Ładne i to naczynie, jeśli pięknie wyrobione, ale o tym wszystkim nie warto mówić, że piękne w porównaniu do konia albo panny i do wszystkich innych rzeczy pięknych.
+
+Sokrates: Dobrze. Rozumiem, Hippiaszu, że mu na te jego pytania trzeba odpowiedzieć tak: „Człowiecze, nie wiesz, że dobrze powiedział Heraklit: najpiękniejsza małpa jest szpetna w porównaniu z rodem ludzi, i z garnków najpiękniejszy szpetny jest w porównaniu z rodem panien, jak powiada Hippiasz mędrzec”. Czy nie tak, Hippiaszu?
+
+Hippiasz: Tak jest, Sokratesie, bardzo słusznieś odpowiedział.
+
+XI. Sokrates: Słuchajże. Potem doskonale wiem, że on powie: Jak to, Sokratesie, a gdyby ród panien porównać z rodem bogów, czyż nie przedstawi się tak samo, jak rodzaj garnków w porównaniu z pannami? Czyż się wtedy znowu i najpiękniejsza panna nie wyda szpetną? I czy Heraklit, na którego się powołujesz, nie mówi tego samego, że najmądrzejszy z ludzi małpą się wyda w porównaniu do boga i co do mądrości, i co do piękności, i pod wszystkimi względami? Zgodzimy się, Hippiaszu, że najpiękniejsza panna szpetna jest w porównaniu z rodem bogów?
+
+Hippiasz: Któż by temu przeczył, Sokratesie?
+
+Sokrates: Więc, jeżeli się na to zgodzimy, będzie się śmiał i powie: Sokratesie, pamiętasz, jakieś miał pytanie? Pamiętam, powiem, że pytanie było, co to jest piękno samo. Tak, a ty, powie, na pytanie o piękno podajesz w odpowiedzi coś, co, jak sam mówisz, nie jest ani odrobinę więcej piękne niż szpetne. Zdaje się, powiem. Albo co mi doradzisz, przyjacielu, odpowiedzieć?
+
+Hippiasz: To właśnie, co do mnie przynajmniej. A doprawdy, że w porównaniu do bogów ludzki ród nie jest piękny, to przecież prawdę powie.
+
+Sokrates: Przecież, gdybym cię był z początku pytał, tak mi powie, co jest i piękne, i szpetne *równocześnie*, a ty byś mi był dał odpowiedź taką, jak teraz, bardzo byś był słusznie odpowiedział. I czyż jeszcze ci się zdaje, że piękno samo, przez które wszystkie inne rzeczy się zdobią i wydają się pięknymi, jeśli która z nich ma w sobie coś z tej istoty, myślisz, że to jest panna albo koń, albo lira?
+
+Hippiasz: Ach tak, Sokratesie, jeżeli ci o to chodzi, to bardzo łatwo odpowiedzieć mu na pytanie, co to jest piękno, przez które się i wszystkie inne rzeczy zdobią i wydają pięknymi, jeśli która ma w sobie coś z niego. To przecież strasznie naiwny człowieczysko i nic się nie rozumie na rzeczach pięknych. Więc jeżeli mu odpowiesz, że to, o co pytasz: piękno, to nic innego jak złoto, zmiesza się i nie będzie próbował cię zbijać. Bo przecież wiemy chyba wszyscy, że cokolwiek ma w sobie coś z niego, to choćby się przedtem wydawało szpetne, wyda się piękne, kiedy się je złotem ozdobi.
+
+Sokrates: Ty nie znasz tego człowieka, Hippiaszu, jaka to bestia uparta i niczego łatwo nie przyjmie.
+
+Hippiasz: Co tam, Sokratesie! Słuszne słowo musi przyjąć — a jak nie przyjmie, to się ośmieszy.
+
+XII. Sokrates: Ależ on z pewnością tej odpowiedzi nie tylko nie przyjmie, ale będzie ze mnie mocno drwił i powie: Zarozumialcze ty; Fidiasz, uważasz, złym był rzemieślnikiem? A ja chyba powiem, że ani trochę.
+
+Hippiasz: Słusznie powiesz, Sokratesie.
+
+Sokrates: Słusznie, doprawdy. Więc tamten, kiedy ja się zgodzę, że dobrym rzemieślnikiem był Fidiasz, powie potem: Cóż ty myślisz, że Fidiasz nie znał tego piękna, o którym ty mówisz? A ja powiem: Dlaczego właściwie? Bo, powie mi, Atenie nie zrobił oczu złotych ani reszty twarzy, ani stóp, ani rąk, chociaż złote powinny by się były najpiękniejszymi wydawać, tylko z kości słoniowej. Widocznie, że ten błąd popełnił przez nieuctwo; nie wiedział, że złoto czyni wszystko pięknym, w czym się tylko znajdzie. Jeżeli on tak powie, co mu odpowiemy, Hippiaszu?
+
+Hippiasz: Nic trudnego. Powiemy, że słusznie zrobił, bo i kość słoniowa, uważam, to ładna rzecz.
+
+Sokrates: A dlaczegóż, on mi powie, i środków oczu nie zrobił z kości słoniowej, tylko z kamienia, wyszukawszy kamień możliwie najpodobniejszy do kości słoniowej? Czy i ładny kamień jest czymś pięknym? Przyznamy mu słuszność, Hippiaszu?
+
+Hippiasz: Przyznamy, jeżeli tylko jest stosowny.
+
+Sokrates: A jeżeli niestosowny, to szpetny? Mam się zgodzić czy nie?
+
+Hippiasz: A zgódź się, jeżeli się tylko nie stosuje…
+
+Sokrates: Jakże to? Kość słoniowa i złoto, powie, ty mędrcze jeden, kiedy jest stosowna, nadaje wygląd piękny, a kiedy nie, szpetny? Zaprzeczymy czy zgodzimy się z nim, że słusznie mówi?
+
+Hippiasz: Zgodzimy się, że co jest stosowne do jakiejś rzeczy, to też ją czyni piękną.
+
+Sokrates: A on powie: A cóż będzie stosowne, kiedy by ktoś w tym garnczku, o którym przed chwilą mówiliśmy, w tym pięknym, gotował pełno pięknego grochu — złota kopystka więcej się do tego stosuje czy figowa?
+
+XIII. Hippiasz: Na Heraklesa, a cóż to za człowiek, Sokratesie? Nie chciałbyś mi powiedzieć, kto to taki?
+
+Sokrates: Nie poznałbyś go, gdybym ci powiedział nazwisko.
+
+Hippiasz: Ależ ja i teraz poznaję, że to jakiś dureń.
+
+Sokrates: Utrapieniec okropny, Hippiaszu. Ale przecież, co mu odpowiemy? Oczywista, że figowa. Bo naprzód jakiś lepszy zapach nadaje grochowi, a potem, przyjacielu, nie rozbije nam garnka, nie wyleje grochu, nie zgasi ognia i tych, którzy chcieli jeść, nie pozbawi znakomitego śniadania… A tamta, złota, wszystko by to zrobiła, tak że my chyba powiemy, że raczej stosowna będzie figowa niźli złota. Tak się mnie wydaje, chyba że ty będziesz może innego zdania.
+
+Hippiasz: Stosowniejsza będzie, Sokratesie. Ale ja bym z człowiekiem, który o takie rzeczy pyta, w ogóle nie dyskutował.
+
+Sokrates: Słusznie, przyjacielu, to by nawet nie było stosowne, żebyś ty się miał takich słów nasłuchiwać; ty, tak pięknie ubrany i pięknie obuty, a sławny z mądrości między wszystkimi Hellenami. Ale mnie tam to wszystko jedno ocierać się o tego człowieka. Więc mnie naprzód poucz i zrób to dla mnie: dawaj odpowiedzi. Bo widzisz, jeżeli serio stosowniejsza jest figowa od złotej, to ten człowiek powie, że figowa jest też i piękniejsza, skoroś się, Sokratesie, zgodził, że to, co stosowne, piękniejsze jest od tego, co niestosowne. Cóż więc, zgodzimy się, Hippiaszu, że figowa piękniejsza od złotej?
+
+Hippiasz: Chcesz, Sokratesie, to ci powiem coś, co jeśli pięknem nazwiesz, uwolnisz się od tych wielu słów.
+
+Sokrates: Naturalnie; tylko nie prędzej, aż mi powiesz, na którą się mam zgodzić z tych dwóch kopystek, o którycheśmy przed chwilą mówili, że jest stosowna i piękniejsza.
+
+Hippiasz: Ależ jak chcesz, to mu odpowiedz, że ta zrobiona z figi.
+
+Sokrates: Powiedzże teraz, coś właśnie miał powiedzieć. Bo tamtą odpowiedzią, że piękno to złoto, zgoła chyba nie dowiodę, żeby złoto piękniejsze było od drewna figowego. A teraz to czym znowu, powiadasz, jest piękno?
+
+Hippiasz: Ja ci powiem, bo zdaje mi się, że ty szukasz w odpowiedzi takiego piękna, które się nigdy nigdzie nikomu szpetnym nie wyda.
+
+Sokrates: Tak jest, Hippiaszu; i pięknie teraz przypuszczasz.
+
+Hippiasz: Słuchajże. Bo przeciw temu, pamiętaj sobie, jeśliby kto miał co odpowiedzieć, to ja powiem, że się w ogóle na niczym nie rozumie.
+
+Sokrates: Mówże jak najprędzej, na bogów!
+
+Hippiasz: Mówię tedy, że zawsze i dla każdego, i wszędzie, najpiękniejszą rzeczą jest zrobić majątek, mieć zdrowie i sławę u Hellenów, dożyć starości, rodziców zmarłych pięknie pochować, a własne dzieci, żeby człowieka pięknie i wspaniale pogrzebały.
+
+XIV. Sokrates: Ojoj, Hippiaszu, jakie tu cudowne i wielkie, i godne ciebie słowa! I, na Herę, ja ciebie lubię, bo mi się zdaje, że ty tak poczciwie pomagasz mi, ile tylko potrafisz. Ale w tego człowieka nie trafimy; przeciwnie, on się dopiero teraz będzie z nas śmiał najwięcej. Bądź przekonany!
+
+Hippiasz: Ale to szelmowski śmiech, Sokratesie. Bo kiedy nie potrafi na to nic odpowiedzieć, a będzie się śmiał, to chyba z siebie samego i słusznie się z niego będą śmiali otaczający.
+
+Sokrates: Może i tak, a może znowu po takiej odpowiedzi, jak ja się obawiam, gotów się śmiać nie tylko ze mnie.
+
+Hippiasz: Ale cóż znowu?
+
+Sokrates: I jak będzie miał kij pod ręką, a ja nie umknę na czas, to mnie będzie gonił, aż miło.
+
+Hippiasz: Co ty mówisz! To może twoim panem jest ten człowiek i czyż takim postępkiem nie ściągnie na siebie ciężkiej winy i kary? A może też tu u was w państwie nie ma karności i wolno się nawzajem tłuc niesprawiedliwie obywatelom?
+
+Sokrates: Ależ nie wolno, zgoła.
+
+Hippiasz: A więc będzie karany, kiedy cię niesprawiedliwie obije.
+
+Sokrates: Nie zdaje mi się, Hippiaszu; nie, jeżelibym mu taką dał odpowiedź. Biłby sprawiedliwie, jak mi się zdaje.
+
+Hippiasz: A, to i mnie się zdaje, skoro ty sam tak uważasz.
+
+Sokrates: A wolno ci powiedzieć, za co bym słusznie wziął w skórę po takiej odpowiedzi? Czy i ty mnie obijesz bez sądu? Czy też przyjmiesz wytłumaczenie?
+
+Hippiasz: Dopieroż by to było, żebym nie przyjął. Więc jak mówisz?
+
+XV. Sokrates: Ja ci powiem w ten sam sposób, jak teraz; będę udawał tamtego, ale nie będę do ciebie używał słów takich, jak on do mnie, takich przykrych i niesamowitych. Ja ci mówię, on mnie zapyta: „Proszę cię, Sokratesie, ty uważasz, żeś może niesprawiedliwie wziął kije, ty, któryś taki długi hymn uroczysty wyśpiewał, a tak niemuzykalnie, że śpiew daleko odbiegł od pytania”. „Jak to?” — powiem. „Jak? — powie. – To nie potrafisz zapamiętać, żem cię o piękno samo pytał, o to, co niech się tylko w jakiejś rzeczy znajdzie, zaraz ona się robi piękna: i kamień, i drewno, i człowiek, i bóg, i każdy czyn, i każda nauka. Człowiecze, ja się pytam o piękność samą, czym ona jest, i tak daremnie krzyczę do ciebie, jakby przy mnie kamień siedział i to młyński, bez uszu i bez mózgu”. Więc gdybym, przestraszony, dał na to taką odpowiedź, czyżbyś się nie gniewał, Hippiaszu? Doprawdy, sam Hippiasz powiedział, że to jest piękno. Chociaż ja go tak pytałem, jak ty mnie, co jest piękne dla wszystkich i zawsze. Więc jak mówisz? Nie pogniewa się, jeżeli ja tak powiem?
+
+Hippiasz: A ja dobrze wiem, Sokratesie, że dla wszystkich piękne jest to, co powiedziałem, i pięknem się zawsze wyda.
+
+Sokrates: A nawet i będzie, powie tamten. Bo, co piękne, to zawsze piękne.
+
+Hippiasz: Tak jest.
+
+Sokrates: I zawsze było? — powie.
+
+Hippiasz: I było.
+
+Sokrates: A on powie: Czy i dla Achillesa, zdaniem gościa z Elis, piękne było zostać pogrzebanym po przodkach i dla dziadka jego Ajakosa, i dla innych, którzy się z bogów porodzili, i dla samych bogów?
+
+XVI. Hippiasz: Cóż znowu? A niechże go licho porwie! Toż nawet bluźniercze te pytania tego człowieka.
+
+Sokrates: Jak to? Na zapytanie drugiego powiedzieć, że tak się rzeczy mają, to może znowu nie takie bluźnierstwo?
+
+Hippiasz: Może być.
+
+Sokrates: A może ty sam jesteś taki, tak on powie, bo ty mówisz, że dla każdego i zawsze piękne jest, jeżeli go dzieci pogrzebią, a on sam pochowa rodziców. Czyż jednym ze wszystkich nie był i Herakles, i ci wszyscy, o którycheśmy teraz mówili?
+
+Hippiasz: Ale ja nie mówiłem, że i dla bogów.
+
+Sokrates: Ani też dla bohaterów, jak się zdaje.
+
+Hippiasz: A nie, o ile byli dziećmi bogów.
+
+Sokrates: A tylko, jeśli nie?
+
+Hippiasz: Tak jest.
+
+Sokrates: Nieprawdaż, wedle swego obecnego zdania, dla jednych bohaterów, jak Tantalos, Dardanos i Zetos będzie to straszne i bezbożne, i haniebne, a dla Pelopsa i dla innych, którzy się tak jak on porodzili, piękne?
+
+Hippiasz: Tak mi się wydaje.
+
+Sokrates: A więc tobie się wydaje to, czemuś przed chwilą przeczył, a mianowicie, że niekiedy i dla niektórych szpetną jest rzeczą, pochowawszy przodków, pogrzebionym być rękoma potomków. A jeszcze więcej chyba to, że to nie dla wszystkich możliwe ani piękne; a więc to tyle samo warte, co owe rzeczy przedtem: i panna, i garnek, a nawet jeszcze śmieszniej. Dla jednych to jest piękne, a dla drugich niepiękne. Zatem i teraz jeszcze, tak mi on powie, nie umiesz, Sokratesie, odpowiedzieć mi, co to jest piękno. Te i tym podobne rzeczy będzie na mnie sypał słusznie, jeżeli mu tak odpowiem.
+
+XVII. Nieraz on tak ze mną rozmawia, Hippiaszu, a czasem, jakby się zlitował nad moją niewiedzą i brakiem kultury umysłowej, sam mi w pytaniu podaje coś na próbę, czy mi się czymś takim nie wydaje piękno, albo się mnie o co bądź innego pytając, albo o coś z tematu rozmowy.
+
+Hippiasz: Jak to mówisz, Sokratesie?
+
+Sokrates: Ja ci powiem. Ty dziwaku, tak on mówi, Sokratesie; daj spokój tego rodzaju odpowiedziom. Bo one bardzo naiwne i łatwo je obalić. Ale na to popatrz, czy ci się nie wyda pięknem coś, czegośmy i teraz dotknęli w odpowiedzi, kiedyśmy mówili, że złoto, gdzie się stosuje, tam jest piękne, a gdzie nie, tam nie, i wszystkie inne rzeczy, w których ono występuje. Zastanówże się nad samą stosownością, nad jej naturą, czy to właśnie nie jest piękno. A ja zwykłem się zawsze zgadzać na takie słowa. Bo nie mam co powiedzieć. Otóż tobie się wydaje, że stosowność to piękno?
+
+Hippiasz: Ze wszech miar, Sokratesie.
+
+Sokrates: Przypatrzmy się, abyśmy zaś nie pobłądzili.
+
+Hippiasz: A, to trzeba się przypatrzyć.
+
+Sokrates: Zobacz więc. Stosownym nazywamy to, co dołączając się do jakiejś rzeczy, sprawia, że się ta rzecz wydaje piękną, czy też, że jest piękną, czy może ani jedno, ani drugie?
+
+Hippiasz: Mnie się zdaje.
+
+Sokrates: Więc czy to, co sprawia pozory piękności? Na przykład, jeżeli ktoś weźmie odzież albo buciki stosowne, to choćby był śmieszny, wydaje się piękniejszy? Nieprawdaż, jeśli stosowność sprawia, że się dana rzecz wydaje piękniejszą, niż jest, to stosowność byłaby pewnym oszukaństwem w sprawie piękna i to by nie było to, czego szukamy, Hippiaszu. Bo myśmy szukali tego, dzięki czemu wszystkie rzeczy wielkie są wielkie dzięki przewyższaniu. Dzięki temu wszystko jest wielkie i choćby się która rzecz nie wydawała taką, a przewyższała inne, musi koniecznie być wielka. Więc tak samo, powiemy, i piękno, dzięki któremu wszystko jest piękne — czy się tam wydaje takim, czy nie — co by to było takiego? Bo stosowność to nie będzie. Ona sprawia, że się rzeczy wydają piękniejsze, niż są, wedle twoich słów, a nie pozwala im wydawać się takimi, jak są. Ale to, co sprawia, że rzeczy są piękne, jak przecież teraz powiedziałem, wszystko jedno, czy się wydają takimi, czy nie — to próbujemy powiedzieć, czym jest. Tego przecież szukamy, skoro szukamy piękna.
+
+Hippiasz: Ależ stosowność, Sokratesie, sprawia, że rzeczy i są, i wydają się piękne, jeśli ona jest.
+
+Sokrates: I nie może być, żeby się coś naprawdę pięknego nie wydawało pięknym, skoro niby ma w sobie to coś, co mu pozory piękna nadaje?
+
+Hippiasz: To niemożliwe.
+
+XVIII. Sokrates: Więc zgodzimy się na to, Hippiaszu, że wszystko, co istotnie piękne i prawe, na przykład zajęcia, te i uchodzą za piękne, i wydają się takimi zawsze i każdemu, czy też wprost przeciwnie: nie wie się o tym i przede wszystkim o to właśnie toczą się spory i walki, prywatne między poszczególnymi jednostkami i publiczne między państwami?
+
+Hippiasz: Raczej tak, Sokratesie; nie wie się o tym.
+
+Sokrates: A nie byłoby tak, gdyby one miały w sobie pozór piękna. A miałyby go w sobie, gdyby stosowność była pięknem i sprawiała nie tylko to, że rzeczy są, ale i to, że się wydają pięknymi. Zatem stosowność, jeśli sprawia, że przedmioty są piękne, to byłaby pięknem, którego szukamy, ale nie byłaby przyczyną pozoru piękna. A jeśli z drugiej strony przyczyną pozoru jest stosowność — to nie może być pięknem, którego szukamy. Ono przecież sprawia, że przedmioty są piękne. A zrobić, żeby się coś wydawało i żeby było rzeczywiście nie tylko pięknem, ale i jakimkolwiek innym — tego nie potrafi jedno i to samo. Więc wybierajmy, czy zdaniem naszym, stosowność sprawia, że się rzeczy wydają, czy też, że są piękne?
+
+Hippiasz: Że się wydają, wedle mego zdania, Sokratesie.
+
+Sokrates: Oho, gdzieś nam uciekło i poszło sobie, Hippiaszu, poznanie piękna, czym ono jest, skoro stosowność okazała się czymś innym niż piękno.
+
+Hippiasz: Tak, na Zeusa, Sokratesie; to mi coś bardzo głupia rzecz.
+
+Sokrates: A jednak, przyjacielu, jeszcze go nie puszczajmy: jeszcze mam trochę nadziei, że się pokaże, co to jest piękno.
+
+Hippiasz: Naturalnie, Sokratesie. To nawet nie tak trudno znaleźć. Ja wiem, że gdybym na chwilę odszedł i na osobności sam się nad tym zastanowił, to bym ci to jaśniej powiedział z wszelką ścisłością.
+
+XIX. Sokrates: Ej, Hippiaszu; nie mów wielkich słów! Widzisz, jaki z nim już mamy kłopot. Gotowe się na nas pogniewać i jeszcze nam dalej ucieknie. Chociaż głupstwom palnął. Bo ty pewnie łatwo to znajdziesz, kiedy będziesz sam. Ale na bogów, znajdźże je tu, przy mnie, albo jeśliś łaskaw, szukaj go razem ze mną, jak teraz. Jak znajdziemy, to będzie cudnie. A jak nie, to ja się chyba pogodzę z moim losem, a ty sobie pójdziesz i znajdziesz rzecz z łatwością. A jeżeli teraz znajdziemy, to z pewnością nie będę ci się naprzykrzał pytaniami, co to jest takiego, coś ty sam u siebie wynalazł. Ale teraz zobacz no to znowu, czy ci się tym nie wyda piękno. Powiadam tedy, że ono jest — a uważaj dobrze, żeby mi się jakie głupstwo nie przemówiło — otóż niechaj nam pięknem będzie to, co jest przydatne. Powiedziałem to, opierając się na takiej podstawie. Piękne, powiadamy, są oczy nie takie, które tak wyglądają, jakby nie umiały patrzeć, tylko takie, które potrafią i przydatne są do widzenia. No nie?
+
+Hippiasz: Tak.
+
+Sokrates: Nieprawdaż, i całe ciało tak samo nazywamy pięknym: jedno do biegu, drugie do walki na pięści i podobnie zwierzęta wszystkie, czy to koń piękny, czy kogut, czy przepiórka i przybory wszelkie, i środki lokomocyjne używane na ziemi i na morzu, statki i trójrzędowce, i narzędzia wszelkie, czy to do muzyki, czy do jakiej innej sztuki, a jeśli chcesz, to i zatrudnienia, i prawa — bodajże wszystko to nazywamy pięknem w ten sam sposób; patrzymy za każdym razem, jak dana rzecz urosła albo jak jest zrobiona, w jakim stanie zostaje; patrzymy, czy przydatna i czym, i do czego przydatna, i kiedy, i to nazywamy pięknem, a coś, co pod tymi wszystkimi względami nieprzydatne, to szpetne. Czy się i tobie tak samo nie wydaje, Hippiaszu?
+
+Hippiasz: I mnie tak.
+
+XX. Sokrates: Więc słusznie teraz mówimy, że na wszelki sposób to, co przydatne, jest piękne?
+
+Hippiasz: Słusznie, doprawdy, Sokratesie.
+
+Sokrates: A nieprawdaż, że to, co zdolne coś zrobić, jest i przydatne do tego, do czego jest zdolne, a co niezdolne, to nieprzydatne?
+
+Hippiasz: Tak jest.
+
+Sokrates: Zatem moc to piękno, a niemoc to brzydota?
+
+Hippiasz: Bardzo stanowczo tak! Różne okoliczności, Sokratesie, świadczą, że tak jest, a między innymi i polityka, bo w polityce i w państwie własnym mieć moc to najpiękniejsza rzecz ze wszystkich, a nie mieć mocy to najszpetniejsza ze wszystkich.
+
+Sokrates: Dobrze mówisz. A może, na bogów, Hippiaszu, i mądrość jest dzięki temu najpiękniejszą rzeczą ze wszystkich, a głupota największą ze wszystkich hańbą?
+
+Hippiasz: A co myślisz, Sokratesie?
+
+Sokrates: Cicho, przyjacielu kochany; jak ja się boję, co my też mówimy!
+
+Hippiasz: Czemu się znowu boisz, Sokratesie, skoro ci rozumowanie teraz tak ślicznie poszło?
+
+Sokrates: Ja bym rad, ale zastanów no się razem ze mną: czy zrobi ktoś rzecz, której by ani nie znał, ani w ogóle nie mógł?
+
+Hippiasz: Nigdy; jakżeby zrobił coś, czego by nie mógł?
+
+Sokrates: Więc ci, którzy błądzą i źle robią, i działają źle niechcący — cóż oni — gdyby nie mogli tego robić, nigdy by też nie robili?
+
+Hippiasz: Oczywista.
+
+Sokrates: A prawda, że dzięki mocy mogą ci, którzy mogą. Boć przecież nie dzięki niemocy.
+
+Hippiasz: Ależ nie.
+
+Sokrates: A którzy coś robią, ci mogą robić to, co robią?
+
+Hippiasz: Tak.
+
+Sokrates: A złego znacznie więcej niż dobrego robią wszyscy ludzie, od dziecięcego wieku zacząwszy, i błądzą mimo woli?
+
+Hippiasz: Jest tak naprawdę.
+
+Sokrates: Cóż tedy? A tę moc i zdolność, i te rzeczy przydatne, które się przydają do zrobienia czegoś złego, czy powiemy, że one są piękne, czy też daleko do tego?
+
+Hippiasz: Daleko, zdaje mi się, Sokratesie.
+
+Sokrates: Jakże, Hippiaszu; toż u nas to, co zdolne i przydatne, zdaje się, jest pięknem?
+
+Hippiasz: Tak, Sokratesie; jeżeli jest do dobrego zdolne i do dobrego przydatne.
+
+XXI. Sokrates: Więc tamto sobie idzie precz: jakoby piękne było to, co zdolne i przydatne po prostu. Ale może dusza nasza, Hippiaszu, pragnęła to powiedzieć, że to, co jest przydatne i zdolne do zrobienia czegoś dobrego, że to jest piękno?
+
+Hippiasz: Mnie się tak wydaje.
+
+Sokrates: Ależ to przecież jest to, co pożyteczne! Czy nie?
+
+Hippiasz: Tak jest.
+
+Sokrates: W ten sposób przecież i piękne ciała, i piękne prawa, i mądrość, i to wszystko, cośmy teraz wymieniali, piękne jest, bo pożyteczne.
+
+Hippiasz: Oczywista, że tak.
+
+Sokrates: Więc to, co pożyteczne, wydaje się nam tym, co piękne, Hippiaszu?
+
+Hippiasz: Ze wszech miar, Sokratesie.
+
+Sokrates: A to co pożyteczne, to jest to, co robi dobro?
+
+Hippiasz: A jest.
+
+Sokrates: A to, co robi coś, to nic innego, tylko przyczyna. Nie?
+
+Hippiasz: Tak jest.
+
+Sokrates: Więc piękno to przyczyna dobra?
+
+Hippiasz: Jest tak, jest.
+
+Sokrates: Słuchajże, Hippiaszu, a przyczyna czegoś to co innego niż to, czego przyczyna jest przyczyną? Boć przecie przyczyna nie będzie przyczyną przyczyny. Ale tak sobie pomyśl: czyż przyczyna nie zdaje się być czymś czynnym?
+
+Hippiasz: Tak jest.
+
+Sokrates: Nieprawdaż, coś czynnego czyni coś, co powstaje, a nie coś, co czyni?
+
+Hippiasz: Tak jest.
+
+Sokrates: Nieprawdaż, że coś innego jest coś, co powstaje, a coś innego coś, co czyni?
+
+Hippiasz: Tak.
+
+Sokrates: I prawda, że przyczyna nie jest przyczyną przyczyny, ale czegoś, co pod jej wpływem powstaje.
+
+Hippiasz: Tak jest.
+
+Sokrates: Więc jeśli piękno jest przyczyną dobra, to chyba powstaje pod wpływem piękna to, co dobre. I dlatego chyba troszczymy się tak poważnie o roztropność i inne wszystkie rzeczy piękne, że wytwór ich i to, co się z nich rodzi — dobro, godne jest zachodu, i z tego, cośmy znaleźli, bodajże wynika to, że piękno ma w sobie coś jakby z istoty ojca względem dobra.
+
+Hippiasz: Tak jest. Pięknie mówisz, Sokratesie.
+
+Sokrates: Nieprawdaż, i to pięknie mówię, że ani ojciec nie jest synem, ani syn ojcem.
+
+Hippiasz: Pięknie, doprawdy.
+
+Sokrates: Ani przyczyna nie jest czymś powstającym, ani coś, co powstaje, przyczyną?
+
+Hippiasz: Prawdę mówisz.
+
+Sokrates: Na Zeusa, duszo dobra, więc ani piękno nie jest dobrem, ani dobro pięknem. Czy też wydaje ci się, że to możliwe, wedle tego, cośmy powiedzieli?
+
+Hippiasz: Nie, na Zeusa, nie wydaje mi się.
+
+Sokrates: Więc podoba się nam to i gotowi byśmy powiedzieć, że piękno nie jest dobrem, ani dobro pięknem?
+
+Hippiasz: Nie, na Zeusa, nie bardzo mi się to podoba.
+
+Sokrates: Tak, na Zeusa, Hippiaszu; mnie się to najmniej podoba ze wszystkich myśli, któreśmy wypowiedzieli.
+
+Hippiasz: Zdaje się, że tak.
+
+XXII. Sokrates: Więc jakoś może nie tak, jak się nam przed chwilą wydawało, że to najpiękniejsze twierdzenie, jako iż pięknem jest to, co pożyteczne i przydatne, i to, co zdolne uczynić coś dobrego; nie tak więc mają się rzeczy, ale, jeśli to być może, to obecna teza jest jeszcze śmieszniejsza niż owe pierwsze, w których pannę uważaliśmy za piękno i te wszystkie rzeczy, któreśmy przedtem wymieniali.
+
+Hippiasz: Zdaje się.
+
+Sokrates: I ja, Hippiaszu, nie wiem jeszcze, w którą się stronę obrócić — mam kłopot; a ty masz co powiedzieć?
+
+Hippiasz: Nie tak w tej chwili, ale, jak dopiero co powiedziałem: po zastanowieniu dobrze wiem, że znajdę.
+
+Sokrates: Ale mnie się zdaje, że ja, przez żądzę wiedzy, nie potrafię czekać na ciebie, choć chcesz. Tym bardziej że doprawdy jakieś, zdaje mi się, w tej chwili znalazłem wyjście. Bo zobacz: Jeśli to, co nas cieszy, ale nie wszystkie przyjemności, tylko to, co przez uszy i oczy przechodzi, jeślibyśmy to nazwali pięknem, to jakżebyśmy się jeszcze mogli spierać. Przecież piękni ludzie, Hippiaszu, i różnobarwne wzory wszelakie, i obrazy figuralne, i rzeźby cieszą nasze oczy, o ile są piękne, i dźwięki piękne, i muzyka wszelka, i słowa mądre, i opowieści również to samo wywołują, tak, że gdybyśmy owemu śmiałkowi odpowiedzieli: słuchaj no ty, łepaku: piękne jest to, co jest za pośrednictwem słuchu i wzroku przyjemne, to nie myślisz, żebyśmy go w tej jego śmiałości powstrzymali?
+
+Hippiasz: Mnie się też zdaje, Sokratesie, że to dobrze powiedziane, czym jest piękno.
+
+Sokrates: Ależ jak to? A zajęcia piękne i prawda, Hippiaszu, to, powiemy, jako za pośrednictwem słuchu i wzroku przyjemne, piękne jest, czy też to ma jakąś inną istotę?
+
+Hippiasz: To… być może, Sokratesie, to może ujdzie uwagi tego człowieka.
+
+Sokrates: Na psa, Hippiaszu; nie tego, którego bym ja się najbardziej wstydził, bredząc i udając, że mówię do rzeczy, a mówiąc od rzeczy.
+
+Hippiasz: Kogóż takiego?
+
+Sokrates: Sokratesa, syna Sofroniska: ten by mi nie darował, że tak łatwo mówię o rzeczach niezgłębionych, jak gdybym wiedział to, czego nie wiem.
+
+Hippiasz: Istotnie tak, mnie się i samemu, skoroś to powiedział, wydaje, że z prawami rzecz się ma jakoś inaczej.
+
+XXIII. Sokrates: Cicho no, Hippiaszu! Bodaj, żeśmy w tę samą biedę wleźli w sprawie piękna, w tę teraz przecież, a zdaje się nam, żeśmy znaleźli jakąś inną drogę wyjścia.
+
+Hippiasz: Jak to mówisz, Sokratesie?
+
+Sokrates: Ja ci powiem, co mi świta; może coś od rzeczy. Bo co się tych praw tyczy i zajęć, to jednak mogłoby się pokazać, że to przecież ma coś wspólnego z wrażeniami, jakie właśnie odbieramy za pomocą słuchu i wzroku. Ale zaryzykujmy to twierdzenie, że co przyjemne na tej drodze, to jest piękne, a nie tykajmy na razie kwestii praw. Otóż, gdyby nas tak zapytał albo ten, o którym mówię, albo ktokolwiek inny: Jakże to, Hippiaszu i Sokratesie; określiliście przyjemność tego rodzaju, jak mówicie, jako piękno, a przyjemności związanej z innymi wrażeniami odbieranymi od pokarmów i napojów, i w sprawach seksualnych, i w innych wszystkich tego rodzaju rzeczach — tej nie nazywacie pięknem? Alboż to nie przyjemne i wy powiadacie, że w tego rodzaju rzeczach zupełnie nie ma przyjemności, ani też w czymkolwiek poza widzeniem i słyszeniem? Cóż powiemy, Hippiaszu?
+
+Hippiasz: Owszem, Sokratesie, powiemy, że i gdzie indziej są bardzo wielkie przyjemności.
+
+Sokrates: Więc jakże to, powie, skoro to są przyjemności, równie dobre jak i tamte, wy im to imię odrywacie i pozbawiacie je tego, żeby były piękne? Bo, odpowiemy, śmiałby się z nas, kto by tylko chciał i nie chciał, gdybyśmy powiedzieli, że nie: przyjemnie jest jeść, tylko pięknie, i przyjemny zapach czuć nie: przyjemnie, tylko pięknie. A o sprawy seksualne, to wszyscy by z nami walczyli, że to rzecz najmilsza na świecie, ale jeśli to już kto robi, to tak to trzeba robić, aby nikt nie widział, bo to bardzo szpetny widok. Gdybyśmy to mówili, Hippiaszu, wówczas on by pewnie powiedział: wiem i ja, że od dawna wstydzicie się mówić o tych przyjemnościach, że są piękne, bo się ludziom tak nie wydaje. Ale ja się nie o to pytałem, co się szerokim kołom wydaje pięknem, ale o to, czym ono jest. Odpowiemy, przypuszczam, to, cośmy przyjęli, że my tę cząstkę przyjemności, która powstaje za pośrednictwem wzroku i słuchu, nazywamy pięknem. Masz tedy co począć z tym twierdzeniem, czy jeszcze i coś innego powiemy, Hippiaszu?
+
+Hippiasz: Koniecznie, Sokratesie, na to potrzeba nie inaczej, tylko tak powiedzieć.
+
+XXIV. Sokrates: A on powie: pięknie, doprawdy, mówicie. A nieprawdaż, że jeśli to, co przyjemne przez wzrok i przez słuch, jest pięknem, to jasna rzecz, że wszelka inna przyjemność nie może być pięknem. Zgodzimy się?
+
+Hippiasz: Tak.
+
+Sokrates: A to, co przyjemne przez wzrok, powie on, jest przyjemne przez wzrok i słuch zarazem, czy też to, co przez słuch przyjemne, jest przyjemne równocześnie przez słuch i wzrok? Nigdy w świecie, powiemy — toż to, co jest skutkiem jednego i drugiego z dwojga, byłoby skutkiem jednego. Bo to, zdaje mi się, mówisz. A myśmy mówili, że i każda z tych dwóch rodzajów przyjemności sama w sobie jest piękna, i obie razem. Czy nie tak odpowiemy?
+
+Hippiasz: Ależ naturalnie.
+
+Sokrates: A on powie: Czyż się jakakolwiek przyjemność różni od jakiejkolwiek innej pod tym względem właśnie, że jest przyjemnością? Bo nie o to, czy większa jakaś przyjemność, czy mniejsza, czy silniejsza, czy słabsza, ale czy się jakaś przyjemność różni tym oto właśnie od innej, że jedna jest przyjemnością, a druga nie jest przyjemnością? Nie zdaje się nam. Czy nie?
+
+Hippiasz: No, nie zdaje się przecież.
+
+Sokrates: Nieprawdaż, powie on, przez coś innego, czy też przez to, że są przyjemnościami, wybraliście te przyjemności przed innymi i spośród innych, boście na nich obu coś takiego zauważyli, co je od innych odróżnia, i patrząc na to coś, mówicie o nich, że są piękne? Boć przecie nie dlatego piękna jest przyjemność, która przez oczy przychodzi, że przez oczy idzie! Bo gdyby tu była przyczyna jej piękności, nie byłaby piękna ta druga, która przez uszy idzie, bo ona nie jest przyjemnością wzrokową. Prawdę mówisz, powiemy?
+
+Hippiasz: Powiemy.
+
+Sokrates: Ani znowu przyjemność przez uszy przychodząca nie jest piękna dlatego właśnie, że przez uszy płynie. Boby w takim razie nie była piękna znowu ta, która idzie przez oczy, bo ta nie jest przyjemnością słuchową. Prawdę mówi, Hippiaszu, człowiek, który to mówi?
+
+Hippiasz: Prawdę.
+
+Sokrates: A mimo to jedna i druga jest piękna, jak twierdzicie. Twierdzimy przecież?
+
+Hippiasz: Twierdzimy.
+
+Sokrates: Więc może mają coś identycznego, co je czyni pięknymi, coś wspólnego, coś, co i obie razem cechuje, i każdą z osobna. Przecież w przeciwnym razie nie byłyby piękne obie razem i każda z osobna. Odpowiadaj mi tak, jakby tamtemu.
+
+Hippiasz: Odpowiadam i zdaje mi się, że tak się rzeczy mają, jak mówisz.
+
+Sokrates: A może, jeśli te przyjemności obie razem mają jakąś cechę, a każda z osobna nie, to chyba nie mogą być dzięki temu właśnie znamieniu piękne.
+
+Hippiasz: Ależ jakby to mogło być, Sokratesie, żeby żadna z nich nie nosiła jakiejś cechy, wszystko jedno jakiej, a potem by tę cechę, której żadna z dwu nie posiada, miały nosić obie?
+
+Sokrates: Nie wydaje ci się?
+
+Hippiasz: Bo zgoła bym nie pojmował ani natury tych rzeczy, ani jak to rozumieć, co się teraz mówi!
+
+XXV. Sokrates: To dopiero przyjemne, Hippiaszu. Ale mnie się może tylko zdaje, że coś widzę w tej chwili: coś, co jak ty powiadasz, być nie może, i może nic nie widzę.
+
+Hippiasz: Nie ma obawy, Sokratesie, tylko ty umyślnie niedowidzisz.
+
+Sokrates: Ach, doprawdy, tyle mi takich rzeczy jasno staje przed oczyma duszy, ale im nie dowierzam, bo się nie zjawiają tobie, mężowi, który największe pieniądze zrobił na mądrości spośród współczesnych, tylko mnie, którym nigdy nic nie zarobił. I w duchu sobie myślę, przyjacielu, czy ty aby nie żartujesz ze mnie i umyślnie mnie w błąd nie wprowadzasz. Tak wyraźnie i tyle rzeczy jasno widzę.
+
+Hippiasz: Sokratesie, nikt lepiej od ciebie nie będzie wiedział, czy żartuję, czy nie, jeśli spróbujesz powiedzieć to, co ci tak świta przed oczyma. Pokaże się przecież, że mówisz nie do rzeczy. Bo za nic w świecie nie znajdziesz takiej cechy, której bym ani ja nie nosił, ani ty, a nosilibyśmy ją obaj razem.
+
+Sokrates: Jak ty mówisz, Hippiaszu? Może mówisz do rzeczy, tylko ja nie rozumiem. Posłuchajże mnie jaśniej, co chcę powiedzieć. Bo mnie się widzi, że znamię, którego ani ja nie noszę, ani tym czymś nie jestem, ani ty tym nie jesteś, to znamię obaj razem nosić możemy. A inne znowu cechy nosimy obaj, a żaden z nas tym czymś nie jest.
+
+Hippiasz: Cuda niby znowu odpowiadasz, Sokratesie; jeszcze większe niż twoja odpowiedź przed chwilką. Bo zobacz: Czy jeśli obaj jesteśmy sprawiedliwi, czy nie musi takim być i ten, i drugi, albo jeśli jeden i drugi niesprawiedliwy, czy nie muszą znowu i obaj, albo jeśli zdrowi, to czyż nie jeden i drugi? Albo: jeśliby chory czy ranny, czy zbity, czy jakąkolwiek inną cechą dotknięty był każdy z nas dwóch, to czyż nie musielibyśmy być nią dotknięci i obydwaj? I toż samo, gdybyśmy ze złota czy ze srebra, czy z kości słoniowej byli, czy, jeśli chcesz, byli właśnie dzielni czy mądrzy, sławni czy starzy, naprawdę, czy młodzi, czy co tylko chcesz z ludzkich znamion, gdybyśmy obaj nosili, to czyż nie zachodzi bezwzględna konieczność, żeby i każdy z nas dwóch tym był?
+
+Sokrates: Ze wszech miar, przecież.
+
+Hippiasz: Otóż to jest, Sokratesie, że ty nie obejmujesz wzrokiem całości sprawy ani ci, z którymi zwykłeś dyskutować; brutalnie odrywa jeden z drugim piękno i każdy byt tak samo i rżnie na kawałki w rozważaniach. Dlatego nie widzicie, jak się wam wymykają tak wielkie i tak doniosłe człony bytu. I teraz ty takiej wielkiej rzeczy nie zobaczyłeś i zdaje ci się, że jest albo znamię jakieś, albo byt, który dotyczy wprawdzie tych obu rzeczy razem, a nie dotyczy każdej z osobna, albo znowu dotyczy każdej z osobna, a obu razem nie. Tak nierozumnie, tak bezkrytycznie i naiwnie, i nierozważnie wszystko traktujecie.
+
+XXVI. Sokrates: U nas już tak, Hippiaszu; nie jakby człowiek chciał, jak to powiadają, tylko tak, jak potrafi; ale ty nam zawsze oddajesz przysługę zbawiennymi napomnieniami. Ot i teraz, zanim od ciebie dostałem to napomnienie za naszą naiwność, czyż mam ci jeszcze pokazać i powiedzieć, cośmy o tych rzeczach myśleli, czy nie mówić?
+
+Hippiasz: Będziesz, Sokratesie, mówił takiemu, co wie. Ja tych wszystkich, którzy się rozważaniami bawią, doskonale znam. Ale wszystko jedno; jeżeli ci to przyjemność sprawia, to mów.
+
+Sokrates: Sprawia, doprawdy. Bo myśmy, kochanie, tacy byli do niczego, zanimeś ty to stwierdził, żeśmy żywili mniemanie o mnie i o tobie, jako iż każdy z nas dwóch jest jeden, a tym, czym jest każdy z nas, nie jesteśmy obaj. Bo przecież nie jesteśmy jeden, tylko dwaj; tacyśmy byli naiwni. A teraześmy się już od ciebie poduczyli, że jeśli obaj jesteśmy dwaj, to i każdy z nas musi być dwa, a jeśli każdy z nas jest jeden, to i obaj muszą być jednym. Albowiem niepodobna, żeby wedle doniosłego prawa bytu, jak powiada Hippiasz, mogło być inaczej, tylko tak, że czymkolwiek są obaj, tym samym jest i każdy z dwóch, a czymkolwiek jest każdy z dwóch, tym samym i obaj. Zupełnie teraz przekonany przez ciebie tutaj siedzę. Ale naprzód jeszcze, Hippiaszu, przypomnij mi, czy ja i ty jesteśmy jednym, czy też ty jesteś dwóch i ja dwóch?
+
+Hippiasz: Co ty mówisz, Sokratesie?
+
+Sokrates: To, co powiadam. Ja się boję mówić jasno, bo ty się na mnie gniewasz, kiedy ci się zdaje, że mówisz do rzeczy. A jednak, jeszcze mi powiedz: czy nie jest każdy z nas dwóch jednym i nie ma tej cechy: bycia jednym?
+
+Hippiasz: Ależ tak.
+
+Sokrates: Nieprawdaż, jeśli jest jednym, to i nieparzystym być musi każdy z nas dwóch. Czy też nie uważasz jednostki za coś nieparzystego?
+
+Hippiasz: Owszem, tak.
+
+Sokrates: A to z pewnością i my obaj jesteśmy czymś nieparzystym, choć nas jest dwóch.
+
+Hippiasz: Ależ nie może być, Sokratesie.
+
+Sokrates: Więc czymś parzystym my obaj; tak?
+
+Hippiasz: Tak jest.
+
+Sokrates: A czy w takim razie dlatego, że obaj razem jesteśmy czymś parzystym, to każdy z nas z osobna jest parzysty?
+
+Hippiasz: Ależ nie.
+
+Sokrates: Zatem nie ma bezwzględnej konieczności, jak przecież teraz sam mówiłeś, żeby i każde z dwóch było tym, czym są oba, ani żeby oba były tym samym, czym każde z dwóch.
+
+Hippiasz: No, nie w takich rzeczach, ale w takich, jak ja przedtem mówiłem.
+
+XXVII. Sokrates: Wystarczy, Hippiaszu; miłe i to, skoro widać, że jedne rzeczy tak się mają, a drugie nie tak. I ja też mówiłem, jeśli pamiętasz, skąd to rozważanie poszło, że przyjemność przychodząca przez oczy i ta, która przychodzi przez uszy, nie przez to znamię są piękne, które każda z nich z osobna nosi, a obie razem nie, albo obie tak, a każda z osobna nie, tylko przez coś, przez co obie razem i każda z osobna, i dlategoś się zgodził, że i one obie są piękne, i każda z osobna. I dlatego też, dzięki istocie, która idzie za obiema, sądziłem, jeśli obie są piękne, a nie dzięki tej, która z jedną z nich nie ma nic wspólnego; i jeszcze teraz jestem tego samego zdania. Ale mi powiedz tak jak na początku: przyjemność wzrokowa i słuchowa — jeśli one obie są piękne i każda z osobna, to czyż to, co je pięknymi czyni, nie kryje się i za obiema, i za każdą z osobna?
+
+Hippiasz: Tak jest.
+
+Sokrates: Więc czy dlatego, że przyjemnością jest każda i one obie razem, czy dlatego może są piękne? Czy też dlatego i wszystkie inne mogłyby nie mniej od tych być piękne? Boć przecież okazały się przyjemnościami zgoła nie mniej niż te, jeśli pamiętasz.
+
+Hippiasz: Pamiętam.
+
+Sokrates: Ale dlatego, że te idą przez oczy i uszy; dlatego mówiło się, że one są piękne?
+
+Hippiasz: A powiedziało się tak.
+
+Sokrates: Zobaczże, czy mówię prawdę. Bo mówiło się, o ile pamiętam, że to jest piękno: przyjemność, nie wszelka jednak, ale ta, która przychodzi przez wzrok i słuch.
+
+Hippiasz: Prawda.
+
+Sokrates: Nieprawdaż, ta cecha idzie za obiema, ale za każdą z osobna nie? Bo, jak się przedtem mówiło, każde z nich nie jest wynikiem obojga, ale oboje wynikiem obojga, a każde z osobna nie. Jest tak?
+
+Hippiasz: Jest.
+
+Sokrates: Może więc nie dzięki temu piękne jest każde z nich dwojga, co nie idzie za każdym z osobna; bo „oboje” nie idzie za każdym z dwojga. Tak że obie te rzeczy nazwać pięknymi wedle założenia wolno, ale każdej z dwóch nie wolno; czy jak powiemy? Niekoniecznie?
+
+Hippiasz: Zdaje się.
+
+XXVIII. Sokrates: Więc powiemy, że obie są piękne, a o każdej z osobna tego nie powiemy?
+
+Hippiasz: A cóż nam przeszkadza?
+
+Sokrates: To, mój kochany, przeszkadza, moim zdaniem, żeśmy mieli cechy tak przysługujące każdemu przedmiotowi, że jeśli przysługują obu, to i każdemu z dwóch, i jeśli każdemu z dwóch, to i obu; te wszystkie, które ty przytoczyłeś; prawda?
+
+Hippiasz: Tak.
+
+Sokrates: A te znowu, które ja przytoczyłem, te nie; i do tych należało i samo bycie każdym z dwóch, i bycie oboma. Jest tak?
+
+Hippiasz: Jest.
+
+Sokrates: Którymże więc z dwojga wydaje ci się piękno, Hippiaszu? Czy jedna z tych rzeczy, któreś ty przytaczał: jeślim ja mocny i ty, to i obaj, i jeślim ja sprawiedliwy i ty, to i my obaj; a jeśli obaj, to i każdy z dwóch. Otóż tak samo, jeślim ja piękny i ty, to i obaj, a jeśli obaj, to i każdy z dwóch? Czy też nic nie przeszkadza, żeby tak jak oba jakieś przedmioty są parzyste, a każdy z dwóch jest nieparzysty, to znów parzysty; albo znowu każde z dwojga nie da się wymówić, a wnet oboje razem dadzą się wymówić, to znów nie dadzą, i setki innych podobnych przykładów, o których ja znowu mówiłem, że mi świecą przed oczyma — do których tedy zaliczasz piękno? Czy tak, jak się mnie co do niego rzecz przedstawia, tak i tobie? Bo mnie się wydaje wielkim głupstwem, żebyśmy my obaj byli pięknymi, a każdy z nas dwóch nie, albo żeby każdy z dwóch był, a obaj razem nie. Albo cokolwiek innego z tego rodzaju rzeczy, ty tak bierzesz, jak ja, czy w tamten drugi sposób?
+
+Hippiasz: Ja tak, Sokratesie.
+
+Sokrates: Dobrze robisz, doprawdy, Hippiaszu, abyśmy się też zbyli dalszego dochodzenia. Bo jeśli piękno należy do tego rodzaju rzeczy, to nie może być pięknem przyjemność, która przychodzi przez wzrok i słuch. Bo to przychodzenie przez „wzrok i słuch” czyni pięknymi obie przyjemności razem, a każdej z osobna nie. A to było niemożliwe, jakeśmy się z tobą zgodzili, Hippiaszu.
+
+Hippiasz: A zgodziliśmy się.
+
+Sokrates: Więc może niepodobna, żeby przyjemność przychodząca przez wzrok i słuch miała być pięknem, skoro piękno powstające nastręcza coś z niemożliwości.
+
+Hippiasz: Jest tak.
+
+XXIX. Sokrates: Więc mówcie na nowo od początku, powie tamten, skoroście nie trafili w sedno. Czym jest, powiecie, to piękno, które na obu tych przyjemnościach leży, przez coście te dwie przed innymi uczcili i nazwali je pięknymi? Koniecznie, Hippiaszu, zdaje mi się, powiedzieć potrzeba, że te właśnie są najmniej szkodliwe spośród przyjemności i najlepsze, i obie razem, i każda z dwóch; a może ty potrafisz coś innego powiedzieć, czym się one od drugich różnią?
+
+Hippiasz: Nigdy; one w istocie są najlepsze.
+
+Sokrates: Więc to, powie, nazywacie pięknem: przyjemność pożyteczną? Zdaje się, że tak, odpowiem ja przynajmniej. A ty?
+
+Hippiasz: I ja.
+
+Sokrates: Nieprawdaż, powie, to, co pożyteczne, to jest to, co robi dobro, a to, co robi, i to, co jest robione, okazało się, no teraz przecież, czymś różnym i oto do pierwszego zdania powraca nasze rozważanie; bo ani dobro nie może chyba być pięknem, ani piękno dobrem, jeśli każde z nich jest czymś innym niż drugie. Pewnie, że raczej tak powiemy, Hippiaszu, jeżeli się spokojnie zastanowimy; nie wypada przecież nie zgodzić się z tym, co słusznie mówi.
+
+Hippiasz: I proszę cię, Sokratesie, co to wszystko razem warte, jak sądzisz? Toż ci to są opiłki i obrzynki myśli, rozmienianych na drobne, jakem przed chwilą powiedział. A co piękne i cenne nade wszystko, to umieć dobrze i pięknie mowę ułożyć przed sądem czy w radzie, czy wobec innej jakiej władzy, do której by się mowa odnosiła, nakłonić ją i pójść, a wziąć, nie najmniejszą, ale największą z nagród, bo całość własnej osoby i majątku własnego, i przyjaciół. Tego się chwytać i trzymać należy, a dać pokój takim, o, drobiazgom, aby człowiek nie zaczął za wielkiego durnia uchodzić, gdyby się tak jak teraz bawił czczymi gadaniami.
+
+XXX. Sokrates: Hippiaszu kochany, tobie dobrze mówić, skoro wiesz, do czego się człowiek brać powinien, a tyś się nabrał dosyć, jak powiadasz. Ale we mnie jakieś chyba licho siedzi nieodparte i błąkam się ciągle, i rady sobie dać nie mogę, a jeśli swoją biedę odsłaniam przed wami, mędrcami, to mnie błotem obrzucacie w rozważaniach, jeśli mi się dowód uda. Mówicie o mnie tak, jak i ty teraz mówisz, że mnie głupstwa interesują i drobiazgi, i rzeczy nic niewarte. A jeżeli się wam dam nakłonić i mówię tak jak wy, że najlepsza rzecz ze wszystkich to umieć mowę dobrze i pięknie ułożyć i mieć powodzenie w sądzie czy w innym jakim zebraniu, to ze strony innych ludzi tutaj i z ust tego, wiesz, człowieka, co to mnie zawsze zbija i hańbi, najgorszych rzeczy muszę wysłuchiwać. A to jeszcze mój bliski krewny i mieszka razem ze mną. Więc kiedy przyjdę do domu, do siebie, a on usłyszy, że ja tak mówię, to się pyta, czy mi nie wstyd z takim człowiekiem rozprawiać o pięknych zajęciach, skorom się tak oczywiście dał przekonać w sprawie piękna, że nawet tego oto nie wiem, czym ono jest. A jakże ty, powiada, będziesz wiedział, albo która mowa pięknie ułożona, a która nie, czy jakakolwiek inna robota, skoro piękna nie znasz? A skoroś taki, to uważasz, że ci lepiej żyć raczej, czy umrzeć?
+
+Trafiało mi się, jak powiadam, słuchać od was gorzkich uwag i obelżywych i gorzkich rzeczy od niego. Ale chyba już potrzeba jakoś znosić to wszystko. Nie zdziwiłbym się nawet, gdybym na tym skorzystał. Bo mnie się zdaje, Hippiaszu, że ja korzystam na obcowaniu z wami oboma. Przynajmniej znaczenie przysłowia, które mówi, że piękno jest rzeczą trudną, zdaje mi się, że rozumiem.
+
+
+
+
+Objaśnienia tłumacza
+
+Dwa typy przeciwne
+
+Podtytulik, pochodzący z ręki późniejszej, oddaje treść dialogu: O pięknie. Już w pierwszych słowach Sokratesa zjawia się przymiotnik „piękny” w ironicznym powitaniu sofisty. Wyraz „piękno” figuruje i w ostatnim zdaniu dialogu. Odpowiedź Hippiasza nawiązuje wstęp, którego treść dość luźnie się łączy z główną treścią rozmowy. Nabieranie Hippiasza o to, że wydrwiwa pieniądze po miastach, udając, że się na coś przydaje demokratom, podczas gdy spartańskie wychowanie więcej warte niż ten polor literacki, którego Ateńczycy nabierali od sofistów.
+
+Za to charakterystyka Hippiasza, dana we wstępie obok satyrycznych rysów innych sofistów współczesnych, tłumaczy psychologicznie, dlaczego zajęcia i zabiegi sokratyków musiały otoczeniu wyglądać głupio i marnie.
+
+Sokrates swoim zwyczajem zaraz po wstępnym komplemencie, a nazwał Hippiasza pięknym, i co gorsza, mądrym, wbrew swemu oczywistemu przekonaniu, zwraca uwagę na zasadniczą różnicę między nimi a znanymi, niewątpliwymi mędrcami z VII i VI wieku przed Ch. Anaksagoras dopiero jest współczesny Peryklesowi — tamci to starożytni dla naszych znajomych. Starożytni mędrcy byli bezinteresowni. Główną ich pasją była wiedza, główną sofistów: chciwość. Hippiasz jednak, zgodnie ze swym stanowiskiem w dialogu poprzednim, uważa, że starożytni to byli ludzie lichszego typu, niższego poziomu intelektualnego: nie umieli robić pieniędzy lekkim sposobem i dlatego ich nie robili.
+
+II. Znajomi nasi żyją w epoce postępu i nowej mody. Sokrates udaje, że bierze słowa Hippiasza za dobrą monetę i rzekomo podziela jego lekceważenie dla staroświeckiej bezinteresowności. Hippiasz buduje popisowo zwięzłą odpowiedź, strojną w antytezy o zazdrości tych, co żyją, o gniewie tych, co zmarli i, najdalszy do zorientowania się w ironicznym tonie Sokratesa, bierze jego zachwyt nad zmysłem spekulacyjnym nowszych filozofów serio; chce jednak jeszcze bardziej zaimponować znajomemu swą obrotnością.
+
+III. Sto pięćdziesiąt min to jest piętnaście tysięcy marek przedwojennych, a życie było w Atenach i Sycylii bez porównania tańsze niż w Europie nowoczesnej przed wojną. Zatem majątek. Sokratesowi to nie imponuje. Wie teraz, na czym polega sprawność intelektualna sofistów — jest to spryt do interesów, inteligencja wykpigroszy, co się ma jaśniej okazać w rozdziale następnym.
+
+IV. Liche zarobki właśnie w Sparcie kompromitują sofistę. Najwięcej w oczach Sokratesa i Platona. Ton Sokratesa bardzo śmiały. Nie ironia, ale kpiny w żywe oczy. Sokrates nawet się nie sili na poważną minę, aż do VIII rozdziału.
+
+V. Sokrates w tonie figlów ryzykuje zasadę, którą, gdyby brał całkiem poważnie, nie byłby po wyroku został w więzieniu, a Platon nie napisałby Kritona. Filozof mówi: Jeśli się z dobrem rozminą ci, co się do nadawania praw biorą, to się minęli i z prawem. Ateńczycy jednak, skazując go na śmierć, minęli się z dobrem — sam im tego w Obronie dowodził, a jednak w Kritonie Sokrates przekonywał starego przyjaciela, że zostać w więzieniu musi, jak gdyby nie pamiętał, że wyrok ateński był bezprawiem wedle jego własnej, tu wygłoszonej zasady. A bezprawiu się poddawać nie należało, tylko mu przeciwdziałać. W zasadzie tej przyjmuje Sokrates wyraz „prawo” w dwojakim znaczeniu. Raz jako dobro rzeczywiste, drugi raz jako ustawę pisaną. Hippiasz z trudnością słucha pierwszego znaczenia, operuje tylko drugim.
+
+Czytając ten rozdział, ma się wrażenie, że i Platonowi się jego Kriton przypomniał w tym miejscu. Przecież tuż po omawianej zasadzie padają z ust Sokratesa słowa dotyczące opinii szerokich kół, tak uderzająco podobne do ustępu rozmowy z Kritonem.
+
+VI. Sokrates w dobrym humorze udaje głośne zgorszenie nad bezprawiem u Lakonów i nie wstrzymuje się od uśmiechu ani w tej chwili, ani gdy żartem zaczyna wytykać sofiście pewne oderwanie jego studiów od życia codziennego, obywatelskiego, ani gdy przedrwiwa jego zachwalaną sztukę pamiętania.
+
+VII. Sofista, niezrażony złośliwą uwagą o starych babkach, przechwala się przygotowanym tematem popisowym. W tytule i w streszczeniu znajduje się pojęcie, które obaj znajomi będą próbowali określić w rozmowie. Pada wyraz „piękno”.
+
+Pytanie o istotę piękna wysnute z głębi własnej
+
+VIII. Tu dopiero zaczyna się dialog właściwy. Zdaniem Apelta Sokrates przypomina w tej chwili rozmowę ze sobą samym podczas dyskusji, którąśmy słyszeli w dialogu poprzednim. Nie można tego przypuszczenia wykluczyć, bo równie dobrze w tej rozmowie, jak w każdej innej, gdzie tylko Sokrates pewne rzeczy chwalił jako piękne, a inne ganił jako szpetne, mogły mu przyjść na myśl te wyrzuty sumienia poznawczego, którymi się dzieli w tej chwili. Jednakże Sokrates daje w tej chwili do zrozumienia, że nie było to podczas rozmowy „z kimś z was, mędrców”, bo tej postanowił dopiero szukać, natrafiwszy na kłopot u siebie. Jeżeli tak, to nie mogło to też być podczas znanej nam rozmowy z Hippiaszem, bo tego Sokrates, i tam, i tu stale nazywa: „ty mędrcze!”. Nie z nim tedy rozmawiał — tylko raczej sam ze sobą. Sam przeciw sobie szukał argumentów, sam upadł w dyskusji z sobą i sam ze sobą chce odnowić walkę — nie z Hippiaszem. Z nim przecież po raz pierwszy porusza ten temat.
+
+Hippiasz jest i tak zarozumiały, ale Sokrates podbija mu bębenka, przybierając komiczną pozę ucznia, który o światło prosi i przyszedł wiedzy zaczerpnąć. Chce się wytrenować do zapasów z przeciwnikiem, którego w sobie nosi. Z tej pozy śmieszne sytuacje płyną w dalszym ciągu. Cały dialog ma nastrój humorystyczny. Sokrates nie traci humoru cały czas, Hippiasz ma teraz najlepszy.
+
+IX. Na kilku przykładach: sprawiedliwości, mądrości i piękna stara się Sokrates wprowadzić zasadę: Jeżeli jakiś przedmiot posiada jakąś cechę, to posiada ją dzięki czemuś, co istnieje, a nosi nazwę urobioną z tego samego pnia, co nazwa cechy. Dzięki, przez coś, czym — Platon posługuje się tu samym szóstym przypadkiem, bez przyimka. Przegląda więc w tym miejscu naukę o ideach, o rzeczywistości przedmiotów, których nazwami są rzeczowniki oderwane, a bez których przedmioty tego świata nie byłyby tym, czym są.
+
+Hippiasz bez trudności odpowiada twierdząco na trzy pierwsze pytania, bo przyzwyczajony jest do języka, który dopuszcza zwroty zakwestionowane — nie przeczuwa, do czego zmierza znajomy, co ma na myśli w tej chwili. Na razie niewinnie to wygląda, ale wielki z tego urośnie kłopot w rozdziale XXI.
+
+Sokrates Platoński sądzi, że przedmioty rzeczywiste odpowiadające wyrażeniom abstrakcyjnym nie są jednakie — każdy z nich ma jakieś znamię jemu tylko właściwe, przez które jest tym, czym jest, znamię, które go odróżnia od innych przedmiotów rzeczywistych odpowiadających innym wyrażeniom abstrakcyjnym. Piękno np. musi mieć jakieś znamię istotne, którym się różni np. od mądrości lub panowania nad sobą. Znamię istotne określamy, podając, do jakich przedmiotów należy dany przedmiot, bo jest do nich podobny i czymś się przecież od innych, podobnych sobie, odróżnia.
+
+Pierwszy żart Hippiasza
+
+Sokrates żąda w tej chwili od Hippiasza, żeby istotę piękna dojrzał i określił ją, podając rodzaj najbliższy, do którego należy piękno, i różnicę gatunkową, która piękno w obrębie jego rodzaju wyróżnia. Hippiasz, daleki od wszelkiego przeczucia przedmiotów rzeczywistych odpowiadających wyrazom oderwanym, myśli, że chodzi o przykład jednostkowy, o wskazanie któregokolwiek gatunku przedmiotów pięknych, a treści i doniosłości pytania zgoła nie pojmuje. Od niechcenia, na żart, podaje ładną pannę.
+
+Sokrates ma stąd pociechę.
+
+X. Przytacza, przedrzeźniając się sofiście, szereg innych gatunków, którym piękno przysługuje, ale żaden z nich nie jest przecież tym czymś, dotąd nieokreślonym a żądanym, przez co i dzięki czemu pewne przedmioty są piękne.
+
+XI. Prócz tego przedmioty należące do przytoczonych gatunków piękne są względnie, czyli: w porównaniu z jednymi przedmiotami posiadają tę cechę, a w porównaniu z innymi jej nie posiadają. Sokrates zaś zakłada z góry, że piękno samo będzie czymś bezwzględnym.
+
+Hippiasz na miejsce panny proponuje złoto, zwiedziony brzmieniem słów Sokratesa, które dotyczyły stosunku idei do przedmiotu konkretnego, a nie miały znaczenia przestrzennego. Piękna nie pojmował Sokrates jako przestrzennej cząstki jakiegokolwiek przedmiotu i żadnej cząstki przestrzennej jakiegokolwiek przedmiotu nie nazwie pięknem — choćby nią było i złoto.
+
+Pospolity gust sofisty wychodzi na jaw. Przychodzą na myśl tynktury brązowe, którymi pozbawione smaku gospodynie i dziś jeszcze usiłują „upiększać” rzeczy szpetne w konstrukcji lub materiale.
+
+Pierwsza poważna próba: piękne to, co stosowne
+
+XII. Przykład Fidiaszowej Ateny dowodzi, że jeśli kiedy złoto czyni przedmioty pięknymi, to nie dlatego, żeśmy do nich dołączyli złoto — tylko dlatego, że coś stosownego. Jako istotę piękna widzi zatem Hippiasz już nie złoto, ale to, co stosowne. Równocześnie traci humor, poważnieje; niezadowolony, że mu lekcja nie idzie. I tu mu Sokrates podaje garnek grochu z kopystką do rozważenia.
+
+Druga próba: piękno to doczesny ideał życiowy
+
+XIII. To sofistę wyprowadza z równowagi; chce poznać swego przeciwnika; Sokrates jednak zwraca uwagę na przepaść, jaka ich dzieli od siebie. Imię jej nie zapełni. Hippiasz jest zniecierpliwiony. Nie chce odpowiadać na pytanie, która z dwóch kopystek piękniejsza. Cokolwiek by odpowiedział, Sokrates nie byłby zadowolony, bo „to, co stosowne” ma w sobie zaród względności, a Sokrates z góry już szuka czegoś, co bezwzględne. Czy ma słuszność, twierdząc już z góry, że to, co piękne, zawsze i wszędzie, i dla każdego, i pod każdym względem będzie piękne — o tym można dyskutować; w każdym razie nie mogło Sokratesa zadowolić takie określenie piękna, jakie w tej chwili podaje Hippiasz, malując w kilku słowach ideał powodzenia życiowego. Za ciasne przecież w stosunku do mowy potocznej, gdyby nawet ten kompleks wypadków miał w sobie naprawdę coś niezmiernie pięknego.
+
+XIV. Sokrates urządza scenę z komedii. W potoku żartów gubi się tu i ówdzie wątek rozważań. Czytelnik nie wie, co się stało właściwie z „tym, co stosowne”. Ono wróci jednak w rozdziale XVII.
+
+XV. Na razie Sokrates, nie żałując mocnych słów przeciwnikowi, które rzekomo do kogoś innego kieruje, powtarza jeszcze raz pytanie o istotę piękna i znajduje w ostatniej odpowiedzi sofisty trudność natury religijnej. Trudność w tym, że tak pojęte piękno byłoby dla synów bożych z mitu greckiego niedostępne, bogowie bowiem nie umierają, a oprócz tego nazwać pięknem coś, w czym się śmierć boga mieści, to mocno pachnie bluźnierstwem.
+
+Jeżeli Sokrates, który przecież mitów nie bierze serio, podnosi tę trudność mimo to, chce chyba stanąć na stanowisku sofisty i powiedzieć mu: Nawet twój niezbyt mądrze zmyślony zaświat nie da się pogodzić z tym ciasnym pojmowaniem piękna jako powodzenia życiowego, tutejszego. Przecież i w tym twoim zaświecie musi być miejsce dla piękna, a tam przecież mają istnieć zupełnie inne niż u nas warunki życia. Zatem nie można ograniczać piękna do tak ciasnego miejsca i czasu, jak tu i teraz — w Atenach. Piękno musi mieć takie określenie, żeby je stosować można do wszystkich miejsc, czasów, stosunków, przedmiotów.
+
+Żaden wypadek szczegółowej oceny spotkanej w żywym języku nie powinien kolidować z określeniem istoty piękna. Tego wymaga Sokrates. Widać stąd, że pytając, czym są właściwie przedmioty rzeczywiste oznaczone wyrazami oderwanymi, pyta tym samym, co mają na myśli i co chcą właściwie powiedzieć ludzie, używający wyrazów oderwanych w chwili, gdy ich używają. Jego usiłowana analiza rzeczywistości jest właściwie analizą języka ze względu na intencje znaczeniowe słów. Stąd może ją uprawiać w rozmowie z każdym spotkanym, bo każdy spotkany tego samego używa języka. Sokrates nie stwarza uogólnień nowych, ale wyszukuje te, które się jego zdaniem od dawna kryją w żywym języku, jako niesformułowane zasady ogólne poszczególnych zwrotów.
+
+XVI. W tej chwili bawi się pobożnym zgorszeniem swego znajomego, przypomina mu synów Zeusa: Tantala, Dardana i Zetosa, oraz Pelopsa, syna Tantala i Diony. Ten ideał powodzenia życiowego, w którym Hippiasz widział istotę piękna, byłby nieszczęściem dla trzech pierwszych postaci, a nie czymkolwiek pięknym. Skrupuł religijny skłania sofistę, żeby odstąpił od swego, poza wszystkimi skrupułami, za ciasnego określenia. Za ciasnego w stosunku do jego własnych przyzwyczajeń.
+
+XVII. Sokrates zaczyna teraz sam prowadzić rozważania i tu się zaczyna druga, właściwa część dialogu. Powraca zapomniana poprzednio stosowność. Hippiasz widzi w niej istotę rzeczy, o której mowa. Sokrates uważa, że w stosowności mieszka tylko pozór piękna. Hippiasz jednak, niezbyt skłonny do rozłączania pozoru i istoty rzeczy, wolał w stosowności widzieć i pozór, i istotę.
+
+Krytyka pierwszej próby i jej rozbiór
+
+XVIII. W tym miejscu Sokrates zapomniał o swoim stanowisku, jakie zajął w rozdziale VIII. Oświadczył tam, że jak długo nie dojrzy i nie określi istoty piękna, jak długo nie będzie wiedział, czym jest piękno samo, tak długo nie będzie wiedział, która rzecz jest istotnie piękna, a która nie. Dotychczas nie udało się ani jemu, ani Hippiaszowi znaleźć zadowalającego określenia piękna, zatem i w tej chwili, zdaniem Sokratesa, obaj jeszcze nie wiedzą, która rzecz jest istotnie piękna, a która nie. Zatem kiedy Sokrates pyta w tej chwili, czy wszystko, co istotnie piękne i prawe… to i uchodzi za piękne, powinien mu Hippiasz, gdyby chciał czy umiał być złośliwym, odpowiedzieć: „Ja nie wiem, Sokratesie, i ty tego nie wiesz jeszcze, bo obaj nie wiemy dotąd, czym jest piękno, a więc nie możemy też, twoim zdaniem, nic wiedzieć, co jest istotnie piękne, a co nie, i niczego o rzeczach istotnie pięknych twierdzić ani przeczyć, jak długo nie wiemy przecież, które to są właściwe. Nie opierajmy się na tym, czego dopiero szukamy, nie uprzedzajmy tezy”.
+
+Poza tym wywód Sokratesa przeciw Hippiaszowi wygląda na dowód nie wprost i dałby się tak przedstawić. Sokrates zwalcza w nim tezę, że stosowność łączy w sobie istotę i pozór piękna, czyli że cokolwiek jest stosowne, to piękne naprawdę, a zarazem wygląda na piękne. A rozumuje w ten sposób:
+
+Jeżeli:
+
+1) Cokolwiek jest stosowne, to jest naprawdę piękne i na piękne wygląda,
+
+to:
+
+2) Nie byłoby sporów o to, czy naprawdę piękne to, co jest rzeczywiście stosowne,
+
+bo:
+
+3) Nigdy nie ma sporów o to, czy naprawdę ma pewną cechę coś, co na tę cechę wygląda.
+
+Ponieważ jednak:
+
+4) Są spory o to, czy naprawdę jest piękne to, co jest rzeczywiście stosowne,
+
+przeto:
+
+5) Nieprawdą jest, jakoby wszystko, co stosowne, to i naprawdę było piękne, wyglądało na piękno.
+
+W rozumowaniu tym uderza założenie 3), ale trudno; tak, widać, rozumie Sokrates pozór i wygląd: coś, co wszystkich zmusza do zgodnego uznania pewnej cechy. Inna rzecz, czy słusznego, czy mylnego. Przy zwyczajnym rozumieniu wyglądu zdanie to jest jaskrawo fałszywe.
+
+Mocno podejrzana jest przesłanka 4), bo trudno znaleźć przykład sporu o piękno czegoś, co by było rzeczywiście stosowne. Rzeczywiście (!). Gdyby jednak i nie kwestionować przesłanek, to wniosek nie zamyka Hippiaszowi wszystkich drzwi. Bo przecież przyjąwszy nawet, że wniosek 5) jest prawdziwy, mamy jeszcze przed sobą dwie ewentualności, a mianowicie: a) cokolwiek jest stosowne, to jest naprawdę piękne, choćby tak nie wyglądało i b) cokolwiek jest stosowne, to wygląda pięknie, choć by takim nie było.
+
+Hippiasz mógłby śmiało reklamować pierwszą ewentualność, a), nie bojąc się nieoczywistej a podejrzanej zasady Sokratesa, która powiada, że jedno i to samo nie potrafi zrobić, żeby coś i było jakimś i wydawało się takim. Przecież światło sprawia, że rzeczy są i wydają się jasne.
+
+Tymczasem sofista jest ustępliwy i dobrowolnie rezygnuje z punktu, który wart zastanowienia. To, co stosowne, jest przecież tak wdzięcznym i ciekawym materiałem dla szukających istoty piękna. Kto wie, czy się pod tym słowem nie kryją warunki piękna formy, zasady harmonii nie tylko dźwięków, ale barw, kształtów, postaci ludzkich, sytuacji. Kto wie, czy Platon nie urwał tutaj nici, po której w ciekawe można było zajść strony.
+
+Hippiasz mógł i drugiego wyjścia próbować. Cokolwiek jest stosowne, to wygląda pięknie. Spróbował, ale Sokrates przeciął tę kwestię, bo nie o to szło w dyskusji, co wygląda pięknie, tylko o to, czym jest piękno samo i które przedmioty są piękne naprawdę. Można było w końcu próbować, czyby się pięknem naprawdę nie okazało to, co się pewnym ludziom wydaje pięknem. I to by nie było herezją.
+
+Nie można się dziwić Hippiaszowi, że mu się w głowie kręci po tym potoku zdań Sokratesa, niezbyt przezroczystym i niezbyt prostym. Ma się wrażenie, że Sokratesowi również nie było całkiem jasno w tym ustępie. Spróbował tej stosowności, nie ugryzł, obrócił parę razy językiem i rzucił.
+
+Po krótkim odetchnieniu spróbuje czegoś innego.
+
+Trzecia próba: piękne to, co przydatne
+
+XIX. Może pięknem jest to, co przydatne. Przykłady przytoczone wskazują, że przydatność znaczy tyle, co celowa budowa. Ten przedmiot byłby piękny, którego część każda oraz ich układ umożliwia cel danego przedmiotu. Pojęcie to, żywe w architekturze i sprzęcie starożytnym, odżyło na nowo w klasycyzującym przemyśle artystycznym dziewiętnastego wieku i w najnowszych poważnych dążeniach na tym polu, z których wyszła architektura angielska i sprzęt racjonalnie budowany. Piękno automobilu i żelaznego mostu, i amerykańskiego buta. Tak pojęte piękno nie wyklucza ornamentu. Przecież zadaniem, celem każdego pięknego domu i sprzętu jest nie tylko służyć, ale i bawić oko. Tak pojęte piękno obejmuje nie tylko gmach i sprzęt — bez względu na to, czy wyczerpuje całkowicie to, co się pod wyrazem „piękno” kryć zdaje. Zgodzić się jednak musimy, że uchybienie przeciw zasadzie celowości konstrukcji obniża wartość estetyczną wszelkiego przedmiotu, który mógłby mieć pretensję do piękna — nie tylko użytkowego i nie tylko wzrokowego. Ta zasada zabiłaby wybryki pseudoartystyczne wielu nowych „izmów”, gdyby tylko ich dzieła miały jasno określone zadanie, cel. Jeśliby jednak ktoś utrzymywać chciał, że jedynym zadaniem tych dzieł jest robić rozgłos i przysparzać niejakiego dochodu autorom — nic im ta zasada nie zrobi. Przeciwnie. Dzieła te przecież są ze względu na takie zadanie celowe. Gdybyśmy ich mimo to za piękne uznać nie chcieli, musielibyśmy zasadę w tym sformułowaniu odrzucić jako zbyt obszerną i przyznać, że i jakość celu wchodzi tu w rachubę. Dla piękności dzieła gotowo nie być obojętnym, do jakiego celu budowa jego jest celowo ułożona. Na podobną trudność natrafia i Sokrates.
+
+XX. W tej chwili spojrzał głębiej, szukając, czemu by właściwie przydatność, celowość budowy czy układu miała być pięknem i czym by była właściwie. Zobaczył, że to objaw zdolności, mocy, i ma wrażenie, że teraz bliski jest istoty piękna. W tym świetle łatwo pojąłby piękno mądrości i brzydotę głupoty i niedołęstwa, ale świeckie przytakiwania sofisty, któremu polityka w głowie, przypominają mu ustęp z poprzedniej rozmowy, jaką z nim wiódł po odczycie popisowym u Eudikosa.
+
+Zbyt obszernym wydaje mu się obecne określenie piękna, więc je zacieśnia: nie każda w ogóle moc będzie jego istotą; to tylko, co do dobrego zdolne, co do dobrego celu przydatne, będzie pięknem. Co znaczy „dobry” cel, tego nie tyka, a wielkich by dotknął trudności, które znał i czuł już podczas pierwszej rozmowy.
+
+Czwarta: piękne to, co pożyteczne
+
+XXI. To, co zdolne do zrobienia czegoś dobrego, nazywa się czymś pożytecznym — pierwiastek użyteczności byłby tedy istotą piękna. Sokrates nie patrzy nawet, czy to określenie nie dałoby się w jakiś sposób pogodzić z poprzednim, które sprowadzało piękno do czynników formalnych, do tego, co stosowne. Ma nową trudność. Piękno pojęte jako użyteczność w najszerszym znaczeniu będzie przyczyną dobra, a nie będzie dobrem samym. On zaś pragnąłby nie odróżniać dobra i piękna, a z drugiej strony pragnąłby piękno jakoś określić. Określić jednak czegoś niepodobna, nie wyróżniając. Sokrates chciałby i jednego, i drugiego. Zatroskany, stawia kroki jak po omacku, pytając całkiem ślepego na te kłopoty sofistę, czy dobrze idzie, czy źle.
+
+Czytającemu znowu niełatwo podzielać wszystkie troski i kłopoty, jakimi się tu dzieli z Hippiaszem Sokrates. Dzieli się w ten sposób, że mówi właściwie sam do siebie szereg pytań, szereg ewentualności ze znakiem zapytania, a Hippiasz, nic z tego nie rozumiejąc, odpowiada machinalnie, jak automat, potwierdzając lub przecząc, zależnie od tonu pytania.
+
+W całym tym ustępie Platon właściwie nic nie twierdzi; pyta tylko, próbuje; odpowiedzialność za twierdzenia zrzuca milcząco na Hippiasza, tak że niełatwo dojść na pewno, czego chce właściwie.
+
+Trudno zrozumieć, dlaczego powtarza dwukrotnie zwrot „przyczyna nie jest przyczyną przyczyny”, dlaczego tak przeciwstawia sobie dwa pojęcia: coś, co wywołuje, i coś, co powstaje, przyczyna i skutek. Przecież każdą rzecz i zjawisko każde z wyjątkiem usuwającej się spod naszych badań i tonącej w mrokach paradoksu rzeczy czasowo pierwszej, każdą zwykliśmy uważać za skutek poprzedniej, a przyczynę jakiejś następnej. Jakikolwiek przykład z otaczającego nas świata weźmiemy, zawsze natrafimy na rzecz lub zjawisko, które powstaje pod wpływem jakiegoś zjawiska i samo jakieś inne zjawisko wywołuje.
+
+Jeśli mówić słownikiem stosunków rodzinnych, to również trudno się zgodzić, żeby którykolwiek ojciec, oprócz Adama, nie był synem, jakkolwiek przyznać trzeba, że (niejeden) syn nie jest ojcem, choć i to nie jest wykluczone, ale też nie jest ani konieczne, ani oczywiste.
+
+Więc nasuwa się znowu przypuszczenie, że Sokrates ma na myśli nie stosunki i przedmioty konkretne, ze świata, który nas otacza, a my z nim zmysłami obcujemy, tylko jakieś inne, wieczne, nadzmysłowe przedmioty „rzeczywiste”, różne od przedmiotów konkretnych, tutejszych, które sobie oznacza niekiedy wyrazami: syn, ojciec, przyczyna, coś, co powstaje, sprawiedliwość, mądrość itd.
+
+Tak jak, innym językiem mówiąc: „być synem” znaczy przecież coś innego niż „być ojcem” i „być przyczyną” znaczy coś innego niż „być czymś, co powstaje”, tak w języku Platona krótko: syn nie jest ojcem i przyczyna nie jest czymś, co powstaje. Krótko, ale osobliwie. Bo tak samo mógłby ktoś twierdzić, że pies nie jest głodny, bo coś innego przecież: być psem, a coś innego jest: być głodnym.
+
+Krytyka czwartej i krytyki rozbiór
+
+Rozumowanie Sokratesa tak mniej więcej wygląda, a przynajmniej zdaje się wyglądać: Pierwiastek użyteczności nie stanowi istoty piękna, czyli to, co piękne, nie jest tym, co wywołuje dobro, bo na to nie pozwalają pewne oczywiste założenia i ich następstwa, a mianowicie:
+
+1) Nigdy coś, co powstaje, nie jest tym samym, co i ten czynnik wywołujący, pod którego wpływem to coś powstaje. Skutek nie jest przyczyną (pierwsze założenie oczywiste).
+
+Jeżeliby więc:
+
+2) Dobro było czymś, co powstaje pod wpływem piękna, a piękno czymś, co wywołuje dobro,
+
+wówczas:
+
+3) Dobro nie byłoby tym samym, co piękno.
+
+Tymczasem:
+
+4) Dobro wydaje się koniecznie tym samym, co piękno (drugie założenie oczywiste).
+
+Wobec czego nieprawdą jest: 2), czyli piękno nie jest tym, co wywołuje dobro. Q.E.D. Inaczej: Jeżeli, wedle 4), dobro jest tym samym, co piękno, a to jest założenie, które Sokrates koniecznie pragnie utrzymać, i jeżeli 2) dobro powstaje pod wpływem piękna, to:
+
+5) Dobro powstaje pod wpływem dobra,
+
+co jest sprzeczne z 1), założeniem oczywistym; ono zabrania utożsamiać skutek i przyczynę. Zatem nieprawdą jest 2), jakoby dobro powstawało pod wpływem piękna, czyli piękno nie jest tym, co wywołuje dobro. Q.E.D. Mówiąc psychologicznie: Wiara w tożsamość dobra i piękna (4) oraz różność przyczyny i skutku (1) odstraszają Sokratesa od utożsamienia piękna z przyczyną dobra (2).
+
+Najkrócej może tak można by stanowisko Sokratesa sformułować:
+
+1) Przyczyna jest innym przedmiotem niż skutek.
+
+Przypuściwszy tedy, że:
+
+2) Piękno jest przyczyną dobra,
+
+musielibyśmy przyjąć, że:
+
+3) Piękno jest innym przedmiotem niż dobro.
+
+Co byłoby sprzeczne z twierdzeniem, które chcemy uważać za prawdziwe, że:
+
+4) Piękno jest tym samym przedmiotem, co i dobro.
+
+Zatem odrzucamy przypuszczenie 2) i mówimy, że piękno nie jest przyczyną dobra. Zasada pierwsza, najprościej można by ją wyrazić po łacinie: nemo causa sui, nie wydawała się wcale oczywistą tym, którzy formułowali pojęcie Boga chrześcijańskiego, Spinozie, kiedy pojęcie Natury formował, nie przerażała też więc Sokratesa Platońskiego, kiedy w Fajdrosie o duszy mówił, że sama jest dla siebie ruchu swojego źródłem i początkiem. Z reguły robiono od tej zasady wyjątek dla przyczyny pierwszej, którą przedstawiano jako swój własny skutek. Jednakże w granicach świata, z którym mamy do czynienia w życiu i w naukach na doświadczeniu opartych, uważa się tę zasadę za słuszną.
+
+Istnieje tylko różnica zdań co do znaczenia użytych w tym rozumowaniu wyrazów. Niektórzy bowiem powiadają: wyraz „przyczyna” nie dotyczy wcale jakiegoś jednego przedmiotu wiecznego, niedostępnego zmysłom, bo takich przedmiotów w ogóle nie ma. Podobnie wyraz „skutek” nie jest nazwą czegoś jednego nadzmysłowego, ani wyraz „dobro”, ani wyraz „piękno”. Istnieją tylko liczne przedmioty zmysłowe, które zostają ze sobą w różnych zależnościach. Jedną z takich zależności nazywamy stosunkiem przyczynowym i jeżeli tę zależność między jakimikolwiek dwoma przedmiotami zauważymy, nazywamy pierwszy z tych przedmiotów przyczyną, a drugi skutkiem. Każdy przedmiot, któremu taką nadajemy nazwę, nosi ją ze względu na jakiś inny przedmiot, który otrzymuje nazwę współwzględną: skutku. W ten sposób żaden przedmiot nie nazywałby się ani przyczyną, ani skutkiem, gdyby był sam jeden na świecie, a nie miałby drugiego, ze względu na który mógłby od nas taką nazwę otrzymać. Stąd, chociaż być skutkiem znaczy coś innego niż być przyczyną, to jednak nic nie przeszkadza, żeby jeden i ten sam przedmiot był nazywany i przyczyną, i skutkiem zarazem. Przyczyną ze względu na to, co z niego wynikło, a skutkiem ze względu na to, z czego sam powstał, czy co go wywołało. Dlatego, przy tym użyciu wyrazów, Sokratesowska zasada pierwsza nie jest wcale oczywista. Przeciwnie: zawsze prawie jeden i ten sam przedmiot nazywa się i przyczyną, i skutkiem (oczywiście ze względu na różne przedmioty).
+
+Co do drugiej zasady zaś, która utożsamia piękno i dobro, to znowu zważyć potrzeba, że to są wyrazy tylko, którymi chwalimy znane nam dobrze z doświadczenia przedmioty i zjawiska, a nie nazwy dwie jakiejś jednej istoty w dwóch osobach, czy innej tajemnicy wiary. Jeśli nie przyjmiemy takiej jednej nadzmysłowej istoty o dwóch imionach, nie będą nas straszyły ciężkie sny o tym ojcu, który gotów zostać własnym synem, ani dobro uosobione mówić do nas nie będzie: „ja i ojciec mój jedno jesteśmy” i zasada tak miła Sokratesowi i tak rzekomo sympatyczna Hippiaszowi, jakoby dobro i piękno było jednym i tym samym, nie wyda się nam wcale oczywistą. Potrafimy przytoczyć przykłady takich przedmiotów, którym jedną z tych pochwał przyznajemy, a odmawiamy im drugiej.
+
+Pierwszym przykładem będzie sam Sokrates, który był bardzo dobry (jako hoplita), a wcale nie był piękny (jako model Apollina). I takich rzeczy znajdziemy więcej.
+
+Na zasadę, którą się kieruje Sokrates i Hippiasz, nie musimy się zgodzić z góry w żadnym razie. Bo dobro i piękno to nic innego, jak tylko wyrazy, tylko dźwięki pewne odpowiadające tym wyrazom, chwalebne cechy przedmiotów. Jeżeli dźwięki, to dobro i piękno są czymś bardzo różnym, tylko końcówki mają jednakie. A jeżeli to chwalebne cechy przedmiotów, to z góry nic nas nie zmusza do przyznania, że to cechy te same, że więc za to samo chwalimy każdy przedmiot dźwiękiem „dobry”, za co go chwalimy wyrazem „piękny”. Zapewne, że w wielu wypadkach stosujemy jeden i drugi wyraz do tego samego przedmiotu lub zjawiska, ale gdybyśmy je nawet zawsze stosowali równocześnie, jeszcze nie musiałyby znaczyć jednego i tego samego. Podobnie jak co innego znaczy rozciągły, a co innego kolorowy, mimo że zawsze oba te przymioty przysługują jednemu i temu samemu przedmiotowi.
+
+W końcu nie jest wcale rzeczą pewną, czy wszyscy ludzie i czy zawsze używają wyrazów dobro lub piękno w jednym i tym samym znaczeniu, w jednej i tej samej intencji. Stąd łatwo się trafić może, że ustaliwszy jedno z tych znaczeń, zauważymy drugie, które się z poprzednim krzyżuje. Doszedłszy z wielkim trudem, czym jest piękno w ustach pewnego człowieka i w pewnym czasie, możemy się przekonać, że to wcale nie było pięknem w ustach innego człowieka i w innym czasie. A to samo z dobrem. Stąd i stosunek wzajemny między dobrem a pięknem raz tak, a raz inaczej się ludziom przedstawia. Podczas gdy jeden zachce używać tych wyrazów zamiennie, drugi może wiązać z każdym znaczenie nieco odmienne. Dlatego jeden powie, że dobro to piękno, a drugi, że jedno jest czymś innym niż drugie.
+
+Rzeczowe badanie przedmiotów idealnych
+
+Stając przed pytaniem Sokratesa, czy piękno jest dobrem i na odwrót, nie możemy chyba nic innego zrobić, jak naprzód odpowiedzieć na pytanie, którego w tej chwili ani Hippiasz, ani Sokrates jeszcze nie rozwiązali dla siebie, a mianowicie: co my nazywamy dobrem i co my nazywamy pięknem. Dopiero wtedy będzie nas stać na odpowiedź temu, kto pyta o stosunek wzajemny dobra i piękna.
+
+Chcąc zaś odpowiedzieć na pytanie, co my nazywamy dobrem, będziemy chyba musieli zebrać i porównać ze sobą możliwie wielką ilość przykładów poszczególnych nazywań naszych, podobnie jak to kiedy indziej robi Sokrates, i przyjrzeć się, czy wypadki, które tym wyrazem określamy, mają jakąś wspólną cechę, im tylko właściwą. Jeśliby się nam udało taką cechę znaleźć, nazwiemy ją istotną cechą dobra. Tak samo postąpimy z wypadkami piękna.
+
+Wtedy się może pokazać, że w obu szeregach wypadków znajdujemy tę samą cechę wspólną i charakterystyczną. Jeżeli tak, zgodzimy się z Sokratesem; jeśli się zaś pokaże, że się pierwszy szereg czymś ważnym różni od drugiego, odpowiemy, że w naszym języku dzisiaj zasada jego nie jest słuszna. Nie zapomnimy zaś podać wyraźnie, jak szeroko rozumiemy to: my i nasz.
+
+Hippiasz nie próbuje tej pracy i odpowiada bez namysłu; zgadza się tedy z Sokratesem, sam dobrze nie wiedząc, na co się zgodził właściwie.
+
+Podmiotowe fantazjowanie
+
+Sokrates zazwyczaj taką pracę w rozmowach swoich przeprowadza — tutaj jakby sam rozgrzeszał lekkomyślność Hippiasza, kiedy mu z miejsca odpowiedzieć każe, jaki stosunek łączy dobro i piękno, zanim jeszcze obaj dokonali analizy jednego i drugiego. Jak gdyby zachęcał do zupełnie innej metody odpowiadania na tego rodzaju pytanie. Ta inna metoda to wsłuchiwanie się w dźwięk oderwanego wyrazu i wczuwanie się w to, co dźwięk wyrazu mówi. To, co wyraz mówi, nie musi być wcale jasne i określone; nastrój pewien, mgła wyobrażeń na wpół uświadomionych i kompleks dyspozycji do przeróżnych sądów. Pogrążając się w nią, gotów człowiek jedne pytania potwierdzać, drugim przeczyć i może mieć wrażenie, jak gdyby z jakimś jednym przedmiotem obcował, którego oczyma nie widzi, ale jak gdyby go miał przed sobą. Dobro samo we własnej osobie, piękno samo, w swojej istocie, jedno, bezwzględne, wieczne, niezniszczalne, a wszystkie inne przedmioty piękne uczestniczą w nim w pewien sposób, tak że podczas gdy one ulegają zmianom, gdy powstają i giną, i są z jednej tylko strony takie, a z innej nie, ono ani się pełniejszym nie staje, ani go nie ubywa przy tym, ani go żadna w ogóle zmiana nie dotyka.
+
+W taki nastrój wpada Sokrates w Uczcie i tak mniej więcej opisuje to, co ma w tym stanie przed oczyma duszy. Dwudziesty pierwszy rozdział naszego dialogu zdaje się nosić ślady takich stanów.
+
+Piąta próba: przyjemność oka i ucha
+
+XXII. Sokrates obśmiewa zawsze przy tępym akompaniamencie sofisty swą ostatnią próbę ujęcia piękna, chociaż w końcu wróci do niej.
+
+Próbuje inaczej: Pięknem będzie może to, co sprawia naszą radość wywołaną optycznie i akustycznie, czyli po prostu to, co bawi oko i ucho.
+
+Znowu nie próbują nasi znajomi zobaczyć, czy się to znamię nie da jakoś pogodzić z poprzednim, ale zrobią to później. Na razie obawa ich oblatuje, czy określenie nie za ciasne w stosunku do potocznej mowy, znajdują bowiem w potocznej mowie zwroty o pięknie praw i zajęć, przypominają sobie, że je chwalić zwykli jako piękne, a nie mogą w danej chwili znaleźć w nich tego czynnika wzrokowego i słuchowego, który występował na pierwszy plan w innych wypadkach i wymagał dla siebie pochwały w wyrazie „piękno”.
+
+Sokrates zdejmuje przyłbicę, ale to nie robi żadnego wrażenia na sofiście.
+
+XXIII. Odkładają na razie kłopot, czy określenie to nie jest za ciasne ze względu na ocenę praw i zajęć, a próbują, czy nie można by do rzędu rzeczy pięknych zaliczyć także innych źródeł przyjemności poza tymi, które do uszu mówią i do oczu. Sumienie, ten drugi człowiek, którego Sokrates w sobie nosi, mówi mu wyraźnie, że nie kieruje się w swej analizie niczym innym, jak zwyczajami mowy potocznej szerokich kół, których nienawidzi. Sokrates nie umie podać innego kryterium, sam te zwyczaje językowe podziela, sam rozumie wiele wyrazów tak, jak szerokie koła. Ustalając więc określenia zgodnie z tymi zwyczajami, daje wyraz ocenom i poczuciom językowym własnym i powszechnym w swoim czasie i miejscu.
+
+„Widok ludzi splecionych w uścisku jest szpetny”. To zdanie nie jest prawdą wieczną. Ono w ustach Platona mówi tyle tylko, że widok ten raził Ateńczyków IV wieku przed Chrystusem. Podobnie: „przeżycia węchowe nie mogą stanowić materiału dla stanów estetycznych” to także nie jest odkrycie prawdy wiecznej. Prawdą wieczną zostanie tylko to, że Grecy nie mówili o pięknie zapachów ani o pięknie dotykowym. Ciasno używali wyrazu piękno. Nas dziś nic nie może zmusić do używania wyrazu „piękno” w tym samym, greckim zakresie, bylebyśmy go używali konsekwentnie. Prawdy wydobyte z dna języka powszechnie używanego w jakimś kraju i czasie obowiązują w swej formie pierwotnej tylko tak długo, jak długo się znaczenie wyrazów nie zmieni, a znaczenia wyrazów ulegają zmianom z biegiem wieków.
+
+XXIV. Chodzi teraz o znamię wspólne, które by znaleźć można na przedmiotach przyjemnych wzrokowo i przyjemnych słuchowo, znamię istotne dla piękna. Nie będzie nim zdolność do wywoływania uczuć przyjemnych, bo to by zakres piękna rozszerzyło wbrew zwyczajom współczesnej greki i poczuciom obu rozmawiających. Nie będzie geneza drogą tego, a nie innego organu zmysłowego, bo to różni przedmioty słuchowe i wzrokowe. Musi nim być coś, co byłoby właściwe i obu szeregom, i każdemu z osobna.
+
+Tu trudność dla Hippiasza.
+
+XXV. Zniecierpliwiony sofista wyzyskuje moment pozornego triumfu nad przeciwnikiem, zbyt długo już górującym, na to, żeby mu kazanie powiedzieć. Kto wie, czy w jego reprymendzie nie brzmią jakieś echa własnych, Platońskich wyrzutów sumienia intelektualnego. Te uwagi o nadużyciach abstrakcji. Oczywiście, że nie ustęp ostatni.
+
+XXVI. Na przykładzie z zakresu liczb pokazuje się, że cecha przysługująca każdemu elementowi jakiejś grupy z osobna nie musi przysługiwać wszystkim jej elementom zbiorowo.
+
+XXVII. Powtórzenie wątku, który się był zgubił podczas figlów z liczbami.
+
+XXVIII. Określenie piękna jako wszystkiego, co wywołuje przyjemność wzrokową i słuchową, okazuje się niedostateczne. Brak ciągle czegoś wspólnego między dwoma rodzajami przedmiotów. Wspólnego, ale zarazem tym tylko dwom rodzajom właściwego, a żadnemu innemu rodzajowi.
+
+Powrót do czwartej; niejasny
+
+XXIX. W końcu zjawia się oczekiwane znamię na przyjemnościach wzrokowych i słuchowych. Pożyteczność, którąśmy poznali już w rozdziale XX i XXI. Niestety, Sokrates mówi tak, że słowa jego nie wypadają jednoznacznie.
+
+Jednym i tym samym wyrazem oznacza i podnietę uczuć przyjemnych, i same uczucia przyjemne. Jedno i drugie nazywa się u niego przyjemnością. W rozdziale XXII na początku pomieszał w jednym zdaniu to, co nas cieszy (to, co robi, że się cieszymy, to chyba podnieta przyjemna, przedmiot jakiś poza nami), i przyjemność samą, coś w nas. Potem już stale miesza te dwa znaczenia wyrazu „przyjemność”. Stąd można jego określenie rozumieć w ten sposób, że piękne są wszystkie uczucia przyjemne powstające na drodze słuchowej i wzrokowej, ponieważ są najbardziej pożyteczne (1).
+
+Można by jednak i tak: Piękne są niektóre uczucia przyjemne powstające na drodze słuchowej i wzrokowej, a mianowicie te tylko, które są najbardziej pożyteczne (2).
+
+Wprawdzie słowa Sokratesa nie przemawiają za rozumieniem drugim, ale Sokrates, tak jak go znamy, niewątpliwie nie widziałby nic pięknego np. w rozkoszy wzrokowej i słuchowej, jaką by znajdować mógł okrutnik jakiś w oglądaniu i przysłuchiwaniu się mękom swych niesprawiedliwie katowanych ofiar. Przyjemności tej Sokrates niewątpliwie odmówiłby wszelkiego udziału w pięknie — zatem nie wszystkie przyjemności wzrokowe i nie wszystkie słuchowe uważa za piękne, tylko niektóre z nich: pożyteczne, robiące człowieka lepszym lub coś w tym rodzaju.
+
+Można jednak pojmować słowa Sokratesa i tak: Piękne są wszystkie przedmioty, które zdolne są wywołać w człowieku uczucia przyjemne wzrokowe lub słuchowe, ponieważ takie przedmioty przyjemne przyczyniają się do dobra (robią człowieka lepszym) (3). Sformułowanie bliskie słowom Sokratesa, ale tak dalekie od prawdy przy zwyczajnym znaczeniu wyrazów, że nie warto się nim zajmować.
+
+Jest i czwarte możliwe rozumienie: Piękne są niektóre przedmioty zdolne wywołać uczucia przyjemne wzrokowe i słuchowe, a mianowicie te przedmioty, których budowa jest należycie dobrana do ich celu, a cel jest dobry (4). Mieści się tu wielka niewiadoma: „dobry”. Prócz tego takie pojęcie piękna, zdaje się, wprowadza kryteria etyczne do oceny estetycznej dzieł sztuk pięknych. Niewielu ludzi zajmujących się bliżej sztuką przyzna się do tak ciasnego stanowiska. Poza tym nie pozwala takie określenie mówić o pięknie pożaru, zamieci śnieżnej, wybuchu wulkanu, wszystkich w ogóle zjawisk, przy których trudno z czystym sumieniem mówić o jakimkolwiek dobrym celu. My jednak mówimy o takim pięknie i mamy ochotę mówić. Jeżeli tak, to wypadnie nam uznać określenie Sokratesa za zbyt ciasne w stosunku do intencji naszego współczesnego języka.
+
+Sokrates ma znowu skrupuły; te same, co w rozdziale XXI. Martwi się, że określając piękno, odróżnił je od dobra. Wolałby go nie odróżniać, a chciałby je mimo to określić. Omnis determinatio est negatio. Trudna rada. Filozof chce rzeczy, które się wykluczają. A wszystko to stąd, że chciałby w zgodzie zostać z intencjami zbyt wielu różnych zwrotów mowy, którą się z przyzwyczajenia posługuje. Na tle przyzwyczajeń językowych, a mowa przecież nie jest systemem sygnałów automatycznych, przyporządkowanych przez Pana Boga przedmiotom — tylko jest wyrazem zmysłowych ludzkich poczuć i przekonań — filozof, który jej świadomie używał, znajduje w sobie związane z używanymi zwrotami poczucia, które się wykluczają. Coś mu teraz mówi, że dobro i piękno to jedno, i coś szepce, że to jednak nie to samo. Wypadałoby wybrać jedno z dwojga.
+
+Sokrates mija rozdroże
+
+Sokrates zrazu nie widzi wyjścia. Nie chce stwarzać myślami przedmiotów sprzecznych, nie chce żadnemu przedmiotowi przypisywać cech, które by się wykluczały, a ma wrażenie, że go to czeka przy formowaniu najdonioślejszych pojęć w systemie. Z wielkim smutkiem decyduje się w końcu zaprzeczyć tożsamości dobra i piękna, przed czym się wzdrygał w rozdziale XXI.
+
+W paręset lat później Platońska skłonność do przenośni, do widzenia postaci, osób ukrytych pod nazwami oderwanymi, przyczyniła się do uformowania pojęcia Boga chrześcijańskiego. Pojęcie, którego przedmiot nazwano niepojętym: osoba, której istotą piękność, dobroć, rzeczywistość, mądrość i przeróżne doskonałości, z których żadna nie jest w niej różna od drugiej, a całość ich wszystkich niezłożona z żadnych części.
+
+Dla Platona sprzeczność miała duży urok; w ostateczności jednak decydował się i z dwóch wykluczających się orzeczeń wybierał przecież tylko jedno.
+
+Sytuacja intelektualna ma tu dla Sokratesa pewne napięcie dramatyczne — Hippiasz w nim żadnego nie bierze udziału. Zniecierpliwiony i zmęczony próbami analizy, do której nie przywykł, daje upust żółci wzburzonej w sposób zgoła szorstki.
+
+Trudno mu się dziwić. Nie brał udziału w kłopotach i próbnych lotach Sokratesa; nic nie wyniósł z dyskusji dla siebie.
+
+XXX. Sokrates umie się odciąć. A potem, wiedząc dobrze, że słowa jego padają jak groch o ścianę, spowiada się przed głuchym. W samotności tylko jest u siebie, w domu. Wtedy się w nim budzą i grają potrzeby intelektualne. Narzuca mu się potrzeba uświadomienia sobie, ujęcia i określenia ogólnych pojęć i zasad, które nieświadomie stosuje, rozróżniając, klasyfikując, oceniając w żywej mowie codziennej poszczególne wypadki, jakie mu strumień życia przynosi. Potrzeba wyzbycia się sprzeczności, potrzeba zgodności między przekonaniami a tym, co istnieje naprawdę.
+
+Hippiasze tych potrzeb nie odczuwają i dobrze im na świecie; rozmowa z nimi jednak ma wartość dla filozofa. On słucha, jak mówią. Dostarczają mu materiału do rozważań; mówią przecież tym samym językiem co on, tylko nie przeczuwają założeń, którymi się, mówiąc, posługują. A w tych założeniach może gdzieś spoczywa uwikłana: prawda.
+
+Jeśli ktoś Hippiasza większego podrobił, to głęboko wziął w siebie Sokratesa z Uczty, a talentu pisarskiego pożyczył od Platona.

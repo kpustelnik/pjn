@@ -1,0 +1,2380 @@
+Platon
+
+Sofista
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-7064-2
+
+
+
+Osoby dialogu:
+ * Teodor
+ * Sokrates
+ * Gość z Elei
+ * Teajtet
+
+
+Teodor: Zgodnie z wczorajszą umową, Sokratesie, przychodzimy sami, jak się należy, i przyprowadzamy kogoś jeszcze: tego oto Gościa. On pochodzi z Elei; bliskie mu są koła związane z Parmenidesem i Zenonem i to jest wielki miłośnik wiedzy.
+
+Sokrates: A może ty sam nie wiesz, Teodorze, że nie gościa, tylko jakiegoś boga prowadzisz, jak to Homer powiada? On mówi, że niejeden bóg ludziom towarzyszy, którzy mają w sobie wstyd i uczciwość, a nie najmniej bóg-opiekun gości. Z góry patrzy na dobre szelmostwa i dobre postępki. Więc kto tam wie — może tak i z tobą ktoś taki z wyższych sfer chodzi, żeby z góry patrzeć, jak my tu nic myśleć nie umiemy, i żeby nas kłaść w dyskusjach — jakiś taki bóg pogromca w dysputach?
+
+Teodor: To nie jest charakter naszego Gościa, Sokratesie. On zna miarę we wszystkim, lepiej niż ci, co się zawodowo zajmują sporami. I mam wrażenie, że bogiem ten człowiek nie jest w żadnym razie, ale coś boskiego w nim jest. Bo ja to mówię o wszystkich filozofach.
+
+Sokrates: To ładnie, przyjacielu. Ale ten rodzaj bodaj że jakoś nie łatwiej rozpoznać niż rodzaj boga, żeby tak powiedzieć, bo ci ludzie w przeróżnych postaciach grody przebiegają, korzystając z tego, że ich nikt nie zna. Nie tacy malowani, ale prawdziwi filozofowie, patrzą z góry, z wysoka, na to życie tutaj na dole i jednym ludziom się zdaje, że nie są nic warci, a drugim, że są godni wszystkiego. I raz się zjawiają jako politycy, raz jako sofiści, a zdarza się też, że mogą się komuś przedstawiać jako skończeni obłąkańcy. Więc ja bym się chętnie od naszego Gościa dowiedział, gdyby był taki łaskaw, co też to w tamtych stronach o tym myślano i jak to nazywano.
+
+Teodor: Ale o czym właściwie?
+
+Sokrates: O sofiście, o polityku i o filozofie.
+
+Teodor: Ale co właściwie i czego takiego tyś o nich dobrze nie wiedział, więc chciałeś się zapytać?
+
+Sokrates: Tego: czy oni tam to wszystko uważali za jedno, czy za dwie rzeczy, czy też tak jak nazwy są trzy, tak i trzy rodzaje rozróżniali i z każdą nazwą łączyli jeden rodzaj?
+
+Teodor: No, ja myślę, że on nie będzie skąpił tej informacji. Czy też jak powiemy, Gościu?
+
+Gość: Tak jest, Teodorze. O skąpstwie nie ma mowy i to nietrudna rzecz powiedzieć, że uważali to za trzy rzeczy. Ale jasno określić każdą z osobna, co to właściwie jest, to nie jest ani mała, ani łatwa robota.
+
+Teodor: Doprawdy, Sokratesie, przypadkiem zaczepiłeś o ten sam temat, o który myśmy go też pytali, zanimeśmy tu przyszli. I on się wtedy wobec nas zasłaniał tak samo jak teraz wobec ciebie. Bo przecież mówi, że nasłuchał się dość i pamięta dobrze.
+
+II. Sokrates: W takim razie, Gościu, nie odmawiaj nam tej pierwszej łaski, o którąśmy poprosili. A tylko to nam powiedz: Czy wolisz zwykle sam, na własną rękę, dawać dłuższy wykład, mówiąc to, co byś chciał komuś wyłożyć, czy też wolisz metodę pytań? Tak jak to swojego czasu i Parmenides się nią posługiwał i bardzo piękne myśli rozwijał. Byłem przy tym jako młody człowiek, a on był już wtedy bardzo stary.
+
+Gość: Jeżeli ktoś, Sokratesie, pozwala się w dyskusji bez problemów prowadzić, to łatwiej tak, z kimś drugim. A jak nie, to już lepiej samemu.
+
+Sokrates: Toż możesz sobie wybrać kogo bądź z obecnych; wszyscy ci będą powolni i łagodni. A gdybyś mojej rady posłuchał, tobyś sobie wybrał kogo z młodych; ot, tego, Teajteta, albo i z tych innych, jeżeli ci ktoś odpowiada.
+
+Gość: Sokratesie, ja się trochę wstydzę — bo teraz pierwszy raz się z wami zetknąłem — nie prowadzić rozmowy drobnymi krokami: ja słówko, ktoś słówko, tylko samemu ciągnąć długą przemowę, choćby i do kogoś drugiego, jakby człowiek popis urządzał. Bo doprawdy to zagadnienie, rzucone w tej chwili, to nie jest taki drobiazg, jakby się to mogło komuś przedstawiać przy zadawaniu pytania, to wymaga bardzo długiego wywodu. A znowu nie spełnić twojej prośby i tych innych — tym bardziej, żeś to mi tak powiedział — wydaje mi się, że gościowi tak nie wypada i to byłoby nieprzyzwoicie. Teajteta przyjmuję jako partnera dyskusji, bo już i przedtem z nim rozmawiałem, i ty mi to w tej chwili doradzasz.
+
+Teajtet: To zrób tak, Gościu, a jak mówi Sokrates, zrobisz przyjemność wszystkim.
+
+Gość: Zdaje się, Teajtecie, że na to już nic nie można powiedzieć. Więc już teraz może niech do ciebie będzie skierowany wywód. A jeżeli ci się to sprzykrzy, kiedy się zmęczysz, bo to będzie długie, to nie miej o to pretensji do mnie, tylko do tych tutaj twoich towarzyszów.
+
+Teajtet: Ależ ja myślę, że w ten sposób jak teraz nie zbraknie mi sił. A gdyby coś takiego miało zajść, to weźmiemy do pomocy tego Sokratesa. To jest imiennik Sokratesa, a mój rówieśnik i kolega z gimnazjum, jemu to nie pierwszyzna znosić trudy razem ze mną. Nieraz to robił.
+
+III. Gość: Dobrze mówisz. Ale to już będzie twoje własne zmartwienie w dalszym toku rozmowy. A razem ze mną wypadnie ci rozpatrzyć, zaczynając — takie mam wrażenie — od sofisty, poszukać i ująć w słowa, czym też on jest. Bo przecież w tej chwili ty i ja w odniesieniu do tej sprawy mamy tylko wspólną nazwę. A rzecz, którą tak nazywamy — bardzo być może, każdy z nas ma osobną dla siebie. A trzeba zawsze, o cokolwiek by szło, raczej rzecz samą z pomocą ścisłych ujęć wspólnie ustalić niż samą tylko nazwę przyjmować, bez ścisłego ujęcia. A to plemię, które teraz zamierzamy zbadać, nie jest najłatwiej ująć i dojść, co to właściwie jest: sofista. Ale kiedy trzeba ładnie opracować jakąś sprawę wielką w tym rodzaju, to wszyscy uważają, i to od dawna, że wypada najpierw zrobić to na przykładach małych i łatwych, zanim się kto weźmie do samych spraw największych. Więc teraz, Teajtecie, ja i nam samym tak radzę; uważamy, że rodzaj sofisty jest trudny i uchwycić go niełatwo, więc przećwiczmy sobie naprzód drogę do tego na jakimś innym przykładzie, łatwiejszym — chyba że ty potrafisz skądś podać jakąś inną drogę, gładszą.
+
+Teajtet: Ależ nie potrafię.
+
+Gość: Więc jeżeli chcesz, to zajmijmy się jakimś drobiazgiem i próbujmy zrobić z niego przykład dla sprawy większej?
+
+Teajtet: Tak jest.
+
+Gość: Więc, co by to tak wziąć na pierwszy ogień, coś, co poznać łatwo, jakiś drobiazg, który by jednak dopuszczał ujęcie nie mniej ścisłe niż rzeczy większe. Ot, na przykład: wędkarz. Czyż to nie jest coś, co wszyscy znają, i rzecz nie taka znowu zbyt poważna?
+
+Teajtet: Tak jest.
+
+Gość: Ale ja się spodziewam, że będzie go dotyczyła jakaś metoda i że znajdzie się dla niego ujęcie słowne, które się nam może przydać do naszych celów.
+
+Teajtet: Pięknie by było.
+
+IV. Gość: Więc proszę cię, tedy się do niego bierzmy. Powiedz mi: przyjmiemy, że on ma pewną umiejętność, czy też nie ma żadnej, tylko jakąś inną zdolność?
+
+Teajtet: Nie jest przecież bez umiejętności.
+
+Gość: A prawda, że wszystkich umiejętności są mniej więcej dwa rodzaje?
+
+Teajtet: Jak to?
+
+Gość: No, rolnictwo i hodowla wszelkich ciał śmiertelnych, i produkcja ciał złożonych i wytworów plastycznych, które nazywamy sprzętami, i naśladownictwo, wszystko to powinno by najsłuszniej nosić jedną nazwę.
+
+Teajtet: Jaką i którą?
+
+Gość: Zawsze jeżeli ktoś to, co przedtem nie istniało, później do bytu powołuje, to mówimy chyba, że to, co przychodzi do bytu, jest tworem, a ten, kto to do bytu powołuje, jest twórcą.
+
+Teajtet: Słusznie.
+
+Gość: A to wszystko, cośmy w tej chwili przeszli, czy miało swoją zdolność do tego?
+
+Teajtet: No, miało.
+
+Gość: W takim razie uogólnijmy to i nazwijmy to twórczością.
+
+Teajtet: Niech będzie.
+
+Gość: A teraz cały zakres matematyki i nauk, i dochodzenie do pieniędzy, i walka, i polowanie — to przecież nie wykonywa niczego, tylko przedmioty już istniejące i powstałe bądź to zagarnia słowami i czynami, bądź też ich drugim zagarniać nie pozwala. Więc może by właśnie dlatego te wszystkie części najlepiej było nazwać jakąś umiejętnością nabywczą.
+
+Teajtet: Tak, wypadałoby.
+
+V. Gość: Więc ponieważ twórczość i nabywczość — to są wszystkie umiejętności razem wzięte, w której my, Teajtecie, pomieścimy umiejętność wędkarza?
+
+Teajtet: Chyba w nabywczości — to oczywiste.
+
+Gość: A nabywczości, czyż nie dwa są rodzaje? Jeden to wymiana, dobrowolna z obu stron, za pomocą darów i układów najmu i sprzedaży; a reszta to wszelkie zagarnianie czynami albo słowami — to byłaby umiejętność zagarniania?
+
+Teajtet: No tak, widać, wedle tego, co się powiedziało.
+
+Gość: No cóż? A tego zagarniania — czyby nie rozciąć na dwoje?
+
+Teajtet: Jak?
+
+Gość: Wszelkie zagarnianie jawne to walka, a każde skryte to polowanie.
+
+Teajtet: Tak.
+
+Gość: A byłoby głupio nie rozciąć i polowania na dwoje.
+
+Teajtet: Powiedz, jak?
+
+Gość: Wyróżnić polowanie na to, co nie żyje, i na to, co żyje.
+
+Teajtet: No cóż? Jeżeli rzeczywiście istnieją te dwa rodzaje.
+
+Gość: Jakże nie istnieją? Tylko my dajmy pokój polowaniu na to, co nie żyje, ono nie ma nazwy osobnej, oprócz pewnych tam gałęzi w umiejętności nurków i innych drobiazgów, a łowy na istoty obdarzone duszą nazwijmy polowaniem na istoty żywe.
+
+Teajtet: Niech będzie.
+
+Gość: A polowania na istoty żywe czy nie można słusznie wymienić dwóch rodzajów? Jeden to na czworonogi. Ten się dzieli na liczne gatunki i nosi różne nazwy. To jest polowanie na to, co chodzi. A drugi rodzaj — na zwierzęta pływające — to wszystko jest polowanie wodne.
+
+Teajtet: Tak jest.
+
+Gość: A pośród pływaków widzimy jedno plemię: skrzydlate, a drugie żyjące w wodzie?
+
+Teajtet: Jakżeby nie?
+
+Gość: A wszelkie polowanie na rodzaj skrzydlaty nazywa się u nas chyba polowaniem na ptaki.
+
+Teajtet: A nazywa się.
+
+Gość: A wszelkie polowanie na to, co żyje w wodzie, to rybołówstwo.
+
+Teajtet: Tak.
+
+Gość: No cóż? A tego polowania czy nie moglibyśmy rozebrać na dwie części największe?
+
+Teajtet: Na jakie?
+
+Gość: Na takie. Jeden rodzaj po prostu poluje przy pomocy pułapek, a drugi przy pomocy uderzeń.
+
+Teajtet: Jak mówisz i w jaki sposób rozróżniasz jedno i drugie?
+
+Gość: W ten sposób, że wszystko, cokolwiek otacza i zamyka coś, aby stanowić dla niego przeszkodę, wypada nazywać pułapką.
+
+Teajtet: Tak jest.
+
+Gość: Zatem więcierze i sieci, i sidła, i saki, i tym podobne trzeba nazywać nie inaczej, tylko pułapkami.
+
+Teajtet: Nie inaczej.
+
+Gość: Więc tę część polowania nazwiemy polowaniem z pomocą pułapek albo jakoś tak.
+
+Teajtet: Tak.
+
+Gość: A polowanie z pomocą ości albo trójzębów, przy czym się uderza, jest różne od tamtego i to musimy teraz jednym słowem nazwać — to będzie jakieś rybobicie. Albo jaki ładniejszy wyraz potrafiłby ktoś znaleźć, Teajtecie?
+
+Teajtet: Mniejsza o wyraz. Wystarczy i ten.
+
+Gość: Otóż mam wrażenie, że tego bicia jeden rodzaj jest nocny; odbywa się przy świetle ognia i zdaje mi się, sami łowcy mówią, że to połów ogniowy.
+
+Teajtet: Tak jest.
+
+Gość: A to dzienne, ponieważ także i trójzęby mają na końcach haczyki, nazywa się w ogóle połów „na ość”.
+
+Teajtet: No, nazywa się.
+
+VI. Gość: Otóż w tym rybobiciu na ość raz ość idzie z góry na dół — tak się przeważnie używa trójzębów i to się nazywa jakoś „na trójząb”.
+
+Teajtet: Mówią tak niektórzy.
+
+Gość: A to, co zostaje, to jest jeszcze jeden tylko rodzaj, żeby tak powiedzieć.
+
+Teajtet: Jaki?
+
+Gość: Ten, w którym uderzenie idzie w przeciwnym kierunku. Tak idzie ość. I ryba ją dostaje nie byle gdzie, jak się trafi, jak to przy trójzębach, ale ość trafia zawsze w głowę i w pysk ofiary, idzie z dołu do góry, bo się ją na kijach i trzcinkach wyciąga na górę. Co powiemy, Teajtecie? Jak to wypadnie nazwać?
+
+Teajtet: Mam wrażenie, że cośmy sobie przed chwilą przedsięwzięli odszukać, to się teraz dokonało.
+
+VII. Gość: Więc teraz, jeżeli chodzi o wędkarstwo, to ty i ja zgodziliśmy się nie tylko na ten wyraz, ale i pojęcie rzeczy samej uchwyciliśmy należycie. Bo z umiejętności wszystkiej połowa jedna to jest nabywczość, połowa nabywczości to zagarnianie, zagarniania — polowanie, polowania połowa to polowanie na istoty żywe. Polowania na istoty żywe pół to polowanie wodne. Z tego wodnego cały odcinek dolny to rybołówstwo. Rybołówstwa pół to rybobicie, rybobicia pół: „na ość”. A z tego — uderzanie ością z dołu do góry i wyciąganie na wierzch od samej tej roboty dostało nazwę podobną i to jest to wędkarstwo, któregośmy teraz szukali.
+
+Teajtet: Więc to jest ze wszech miar należycie wyjaśnione.
+
+VIII. Gość: Więc proszę cię. Według tego przykładu spróbujmy i sofistę znaleźć, czym też on jest.
+
+Teajtet: Doskonale.
+
+Gość: Otóż tam było pierwsze pytanie, czy wędkarza przyjąć jako tego, co nic nie umie, czy też jako posiadającego pewną umiejętność.
+
+Teajtet: Tak.
+
+Gość: I czy teraz tego przyjmiemy jako nieuka, Teajtecie, czy też w każdym razie on ma naprawdę coś wspólnego z mądrością.
+
+Teajtet: Nigdy jako nieuka. Ja rozumiem, co ty myślisz. Że w każdym razie musi być taki ktoś, kto się tak nazywa.
+
+Gość: Więc wypadnie nam, zdaje się, przypisać mu jakąś umiejętność.
+
+Teajtet: Ale jaką właściwie?
+
+Gość: Dla bogów, czy my nie widzimy, że ten człowiek jest krewny tamtego?
+
+Teajtet: Który którego?
+
+Gość: Wędkarz sofisty.
+
+Teajtet: W jaki sposób?
+
+Gość: Łowcami pewnego rodzaju wydają mi się jeden i drugi.
+
+Teajtet: Na co poluje ten drugi? Bo na co tamten, tośmy powiedzieli.
+
+Gość: Na dwie części chyba przed chwilą rozdzieliliśmy łowy wszelkie; odcięliśmy łowy na istoty pływające i na to, co chodzi.
+
+Teajtet: Tak.
+
+Gość: I omówiliśmy łowy na istoty pływające, na istoty żyjące w wodzie. A polowanie na istoty chodzące zostawiliśmy niepodzielone. Powiedzieliśmy, że ono ma wiele postaci.
+
+Teajtet: Tak jest.
+
+Gość: Więc aż do tego punktu sofista i wędkarz, obaj razem, wychodzą ze sztuki nabywczej.
+
+Teajtet: Zdaje się, że obaj.
+
+Gość: I teraz, od polowania na istoty żywe, ich drogi się rozchodzą. Jeden idzie na morze gdzieś tam i na rzeki, na bagna i będzie polował na zwierzęta, które tam żyją.
+
+Teajtet: No cóż?
+
+Gość: A drugi idzie na ziemię i na rzeki znowu innego rodzaju: rzeki bogactwa i młodości, niby na łąki obfite, i będzie zagarniał to, co na nich żyje.
+
+Teajtet: Jak to rozumiesz?
+
+Gość: Polowania na lądzie są dwa największe chyba rodzaje.
+
+Teajtet: Jaki jest każdy z tych dwóch?
+
+Gość: Jedno na zwierzęta łaskawe, a drugie dzikie.
+
+IX. Teajtet: No, ale czyż istnieje jakieś polowanie na zwierzęta łaskawe?
+
+Gość: Jeżeli tylko człowiek jest zwierzęciem łaskawym. Załóż sobie jak ci się podoba: albo nie przyjmuj żadnego zwierzęcia łaskawego, albo przyjmij jakieś inne zwierzę łaskawe, a powiedz, że człowiek to dzikie, albo mówisz, że człowiek to łaskawe, ale uważasz, że nie istnieje żadne polowanie na ludzi. Którekolwiek z tych zdań miło ci jest wypowiedzieć, wyjaśnij je nam.
+
+Teajtet: Ja, Gościu, uważam, że my jesteśmy zwierzęta łaskawe, i mówię, że istnieje polowanie na ludzi.
+
+Gość: Więc powiedzmy, że polowanie na istoty łaskawe dzieli się też na dwa rodzaje.
+
+Teajtet: Według czego, powiemy?
+
+Gość: Jeden rodzaj — to rozbój i porywanie ludzi, i rządy despotyczne, i w ogóle wojna. Wszystko to razem określamy jako jedno: polowanie gwałtem.
+
+Teajtet: Pięknie.
+
+Gość: A wymowa sądowa i polityczna, i obcowanie osobiste to znowu jedna całość. Nazwijmy ją może umiejętnością wywierania wpływu.
+
+Teajtet: Słusznie.
+
+Gość: I powiedzmy, że istnieją dwa rodzaje umiejętności wpływania.
+
+Teajtet: Jakie?
+
+Gość: Jeden w życiu prywatnym, a drugi w życiu publicznym.
+
+Teajtet: A są te oba rodzaje.
+
+Gość: I z tego polowania prywatnego jedno bierze za to pieniądze, a drugie daje prezenty.
+
+Teajtet: Nie rozumiem.
+
+Gość: Na łowy zakochanych, widać, jeszcze nie zwróciłeś uwagi.
+
+Teajtet: Że co?
+
+Gość: Że tym, których upolowali, dają w dodatku prezenty.
+
+Teajtet: Świętą prawdę mówisz.
+
+Gość: Więc ten rodzaj — to niech będzie umiejętność erotyczna.
+
+Teajtet: Tak jest.
+
+Gość: A z tego rodzaju, który bierze pieniądze, jedna część zbliża się towarzysko i uprzejmie, i przyjemność wystawia jako przynętę, a za to dostaje dla siebie tylko utrzymanie. Mam wrażenie, że wszyscy byśmy to nazwali jakąś umiejętnością schlebiania albo robienia się przyjemnym.
+
+Teajtet: Jakżeby nie?
+
+Gość: A taki rodzaj, który się ogłasza, że dopuszcza do obcowania z sobą dla postępu w dzielności, a w nagrodę za to bierze pieniądze — czy tego rodzaju nie należałoby nazwać innym wyrazem?
+
+Teajtet: Jakżeby nie?
+
+Gość: A jakim by? Spróbuj powiedzieć.
+
+Teajtet: To przecież jasna rzecz. Mam wrażenie, żeśmy odszukali sofistę. Więc jeżeli powiem to słowo, to myślę, że go nazwę właściwym imieniem.
+
+X. Gość: Więc, Teajtecie, według obecnego toku myśli, zdaje się, że należące do umiejętności przywłaszczania sobie, zagarniania, polowania, i to na istoty żywe, na lądzie, na łaskawe, na istoty ludzkie, w życiu prywatnym, za pieniądze i dla pieniędzy, a niby to dla wychowywania ludzi młodych, bogatych i obiecujących — takie polowanie, jak nam z obecnego toku myśli wynika, powinno się nazywać sofistyką.
+
+Teajtet: Ze wszech miar przecież.
+
+Gość: A jeszcze i z tej strony popatrzmy. Bo to, czego teraz szukamy, nie należy do umiejętności byle jakiej, tylko do bardzo wielostronnej. Toż i w tym, co się poprzednio powiedziało, ono się nam ukazuje nie w tej postaci, jak to teraz mówimy, że jest, tylko w nieco innym rodzaju.
+
+Teajtet: Jak mianowicie?
+
+Gość: Były chyba dwa rodzaje umiejętności nabywczej. Ona miała część łowczą i część polegającą na wymianie.
+
+Teajtet: No, tak było.
+
+Gość: Otóż, powiedzmy, że wymiana ma dwie postacie. Jedna posługuje się prezentami, a druga sprzedaje.
+
+Teajtet: Powiedzmy.
+
+Gość: A powiemy też, że sprzedawanie dzieli się znowu na dwie części?
+
+Teajtet: Jak?
+
+Gość: Wyróżnimy część jedną, która sama sprzedaje własne wytwory, i drugą, która wymienia roboty cudze. To wymiana.
+
+Teajtet: Tak jest.
+
+Gość: No cóż? A tej wymiany część jedna, odbywająca się na mieście — ta wymiana jest bodaj że połową całości — czy nie nazywa się kramarstwem?
+
+Teajtet: Tak.
+
+Gość: A wymiana międzymiastowa w drodze kupna i sprzedaży to handel?
+
+Teajtet: Czemu nie?
+
+Gość: A czyśmy nie zauważyli, że jedna część handlu wymienia za pieniądze to, czym się ciało żywi i czym się posługuje, a druga to, czym dusza?
+
+Teajtet: Jak to myślisz?
+
+Gość: Tej części, która duchowe wartości wymienia, może być, że nie znamy, ale z tej drugiej chyba zdajemy sobie sprawę.
+
+Teajtet: Tak.
+
+Gość: Więc powiedzmy: cała służba muzom. Wciąż ją wożą z miasta do miasta, tu kupili, gdzieś indziej zawożą i sprzedają. I malarstwo, i teatrzyki, i wiele innych wartości duchowych — jedne się wozi i sprzedaje dla rozrywki, drugie na serio. Czy takiego kogoś, kto te rzeczy wozi i sprzedaje, nie należy z równą słusznością nazywać kupcem, jak gdyby sprzedawał pokarmy i napoje?
+
+Teajtet: Świętą prawdę mówisz.
+
+Gość: Nieprawdaż? I takiego, co sobie nakupił nauk i jeździ z miasta do miasta wymieniać je na pieniądze, i tego tą samą nazwą oznaczysz?
+
+Teajtet: Stanowczo.
+
+XI. Gość: Tego handlowania wartościami duchowymi jedna część czy nie powinna by się najsłuszniej nazywać umiejętnością prelegentów popisowych? A druga, nie mniej zabawna od pierwszej, ponieważ to jest sprzedaż nauk — czy nie trzeba jej naznaczyć jakiejś nazwy pokrewnej tej robocie?
+
+Teajtet: Tak jest.
+
+Gość: Więc tego handlu naukami część jedną, która sprzedaje wiedzę z innych umiejętności, trzeba nazywać inaczej, a tę, która ma na sprzedaż dzielność, inaczej?
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc handel umiejętnościami to by była nazwa stosowna dla tych innych. A dla tego tu staraj się ty podać nazwę.
+
+Teajtet: Jakąż by inną nazwę mógł ktoś podać i nie strzelić głupstwa, jeżeli nie sofistykę, rodzaj, którego właśnie w tej chwili szukamy?
+
+Gość: Nie ma innej. Więc proszę cię, zbierzmy to razem i powiedzmy, że częścią umiejętności nabywania, wymiany, sprzedaży, handlu, i to handlu wartościami duchowymi, myślami i naukami, tą częścią, która ma dzielność na sprzedaż, za drugim razem okazała się umiejętność sofisty.
+
+Teajtet: Zupełnie słusznie.
+
+Gość: A myślę, że trzeciego też nie nazwiesz inaczej, tylko tak samo jak teraz, gdyby ktoś osiadł na stałe tu w mieście i kupowałby sobie jedne nauki, a drugie by sam składał na te same tematy i sprzedawałby je, i zamierzałby się z tego utrzymywać.
+
+Teajtet: Czemuż bym nie miał tak nazwać?
+
+Gość: Zatem część umiejętności nabywania, wymiany, sprzedawania i kramarstwa, choćby ktoś nawet i własne wytwory sprzedawał, to w każdym razie, o jakikolwiek by tutaj szło rodzaj handlu naukami, ty to, zdaje się, zawsze nazwiesz sofistyką.
+
+Teajtet: Z konieczności. Trzeba przecież iść za tokiem myśli.
+
+XII. Gość: A zastanówmy się jeszcze, czy może rodzaj, którego w tej chwili dochodzimy, nie jest podobny do czegoś takiego.
+
+Teajtet: Do czego tak?
+
+Gość: U nas walka była pewną częścią nabywania.
+
+Teajtet: A była.
+
+Gość: To nie od rzeczy będzie rozdzielić ją na dwie części.
+
+Teajtet: Według czego, mów!
+
+Gość: Załóżmy, że jedna jej część to rywalizacja, a druga to bój.
+
+Teajtet: Zgoda.
+
+Gość: Otóż część boju, w której się walczy wręcz, można i wypada też nazwać. Przyjmijmy coś takiego, jak zmaganie.
+
+Teajtet: Dobrze.
+
+Gość: A tamtą, gdzie słowa padają przeciw słowom, jakby ktoś mógł nazwać inaczej, jeżeli nie sporem?
+
+Teajtet: Niczym innym.
+
+Gość: A spory trzeba rozróżnić dwojakie.
+
+Teajtet: Jak?
+
+Gość: O ile się odbywają z pomocą długich przemów i dotyczą tego, co sprawiedliwe i niesprawiedliwe, a odbywają się publicznie — to będą spory sądowe.
+
+Teajtet: Tak.
+
+Gość: A odbywające się na terenie prywatnym i posiekane na pytania i odpowiedzi, tych przecież nie zwykliśmy nazywać inaczej, jak tylko sprzeczkami.
+
+Teajtet: Nie inaczej.
+
+Gość: A ze sprzeczek jedna część obraca się około umów, kłóci się byle jak i nie trzyma się reguł umiejętnych — trzeba to też uważać za pewien rodzaj, skoro to jako coś osobliwego tok naszej myśli wyróżnił, ale nazwy to nie dostało ani od naszych przodków, ani też nie warto, żeby ją teraz dostało od nas.
+
+Teajtet: Prawda. Bo to się rozpada na bardzo małe i różne gatunki.
+
+Gość: Ale spory prowadzone umiejętnie o sprawiedliwość samą i o niesprawiedliwość, i o inne rzeczy w ogóle, czyż nie przywykliśmy ich nazywać dysputami?
+
+Teajtet: Jakżeby nie?
+
+Gość: A z dysput jedne służą do marnowania, a drugie do przysparzania pieniędzy.
+
+Teajtet: Ze wszech miar.
+
+Gość: To spróbujmy powiedzieć, jak należy nazywać jedne i drugie z nich.
+
+Teajtet: No tak, trzeba.
+
+Gość: Ja uważam, że gdy zamiłowanie do tego zajęcia prowadzi do zaniedbywania domu i majątku, a styl tych rozpraw większości spośród słuchaczy nie sprawia przyjemności dla ucha, wtedy to się, według mego zdania, nazywa nie inaczej, jak tylko: niepotrzebne mielenie językiem.
+
+Teajtet: A mówią tak jakoś.
+
+Gość: Więc jego przeciwieństwo, które zbija majątek na sporach prywatnych, z kolei ty próbuj teraz nazwać.
+
+Teajtet: Jakąż by można inną znowu podać nazwę i nie chybić? Nic, tylko znowu wraca, po raz czwarty, ten przedziwny sofista, za którym wciąż gonimy.
+
+Gość: No nic, tylko zdaje się, że sofista to właśnie jest rodzaj, który sobie przysparza pieniędzy, a zalicza się do umiejętności dysputowania, która należy do umiejętności sprzeczania się, do umiejętności prowadzenia sporów, a więc jest pewnym bojem, rodzajem walki i umiejętności nabywania. Tok myśli znowu tak nam pokazał sofistę.
+
+Teajtet: No całkowicie.
+
+XIII. Gość: Widzisz, jaka to prawda, że ten okaz wielostronny mieni się w oczach i, jak to mówią, nie złapiesz go jedną ręką.
+
+Teajtet: To brać go dwiema — nieprawdaż?
+
+Gość: No, trzeba to zrobić, i to co siły, śledząc jakiś jego ślad. Powiedz mi, z takich wyrazów, co to przy gospodarstwie, używamy chyba niektórych?
+
+Teajtet: Nawet i niejednego. Ale o które ty się pytasz spośród tych wielu?
+
+Gość: O takie, jak to mówimy: cedzić, przesiewać i przewiewać, i przebierać.
+
+Teajtet: No cóż?
+
+Gość: A do tego jeszcze rozczesywać, prząść, tkać, i bez końca znamy takich innych wiele; wiemy, że są takie rzeczy wśród umiejętności. Czy nie?
+
+Teajtet: A coś ty chciał o nich powiedzieć, bo podałeś je jako przykłady i zapytałeś o wszystkie.
+
+Gość: W tych wszystkich słowach mówi się chyba o rozłączaniu.
+
+Teajtet: Tak.
+
+Gość: Otóż, według mego zdania, ponieważ w tym wszystkim jest jedna umiejętność, zaszczycimy ją jednym imieniem.
+
+Teajtet: I jak ją nazwiemy?
+
+Gość: Umiejętnością rozłączania.
+
+Teajtet: Niech będzie.
+
+Gość: A zobacz no. Tego rozłączania potrafimy chyba dojrzeć dwa rodzaje.
+
+Teajtet: Szybkiego, jak na moje siły, żądasz spostrzegania.
+
+Gość: No tak. Przecież w wymienionych rozłączaniach raz szło o oddzielenie czegoś gorszego od lepszego, a drugi raz — czegoś podobnego od podobnego.
+
+Teajtet: Tak mniej więcej wygląda to, co się przytoczyło.
+
+Gość: Otóż dla tego drugiego nie mam nazwy używanej, ale dla takiego rozłączania, które zostawia to co lepsze, a to co gorsze odrzuca, mam.
+
+Teajtet: Powiedz, jaką?
+
+Gość: Wszelkie takie rozłączanie, o ile ja rozumiem, wszyscy nazywają pewnym oczyszczaniem.
+
+Teajtet: A nazywają.
+
+Gość: Nieprawdaż? A że oczyszczanie bywa dwojakie, to chyba każdy potrafi dojrzeć?
+
+Teajtet: Tak — przy wolnym czasie, to może być, ale ja tego w tej chwali nie dostrzegam.
+
+XIV. Gość: O tak. Jednym wyrazem wypada objąć wiele rodzajów oczyszczeń cielesnych.
+
+Teajtet: Jakie i którym wyrazem?
+
+Gość: Oczyszczania ciał żywych wewnętrzne, w których umiejętność gimnastyczna i lekarska właściwych rozłączeń dokonywa i one się przez to oczyszczają. A zewnętrznych, o których niemiło mówić, dokonywa umiejętność służby kąpielowej. A oczyszczaniem ciał nieożywionych zajmuje się umiejętność sukienników i wszelkie zdobnictwo. Ono się dzieli na wiele drobnych działów, które podostawały śmiesznie brzmiące nazwy.
+
+Teajtet: Bardzo zabawne.
+
+Gość: Ze wszech miar, Teajtecie. Ale metodzie myślenia zgoła nie chodzi o umiejętność posługiwania się gąbką albo lekarstwami, ani też mniej ani więcej o to, czy jedna z nich mały, a druga wielki nam pożytek przynosi, kiedy nas czyści. Ta metoda stara się dojrzeć pokrewieństwo i brak pokrewieństwa wszystkich umiejętności, chcąc zyskać pełne zrozumienie, i poza tym ona szanuje każdą zarówno i nie uważa, żeby jedne umiejętności przez jakieś podobieństwo były bardziej zabawne niż inne, i nie wydaje się jej ani o włos poważniejszy ktoś, kto jako przykład objaśniający umiejętność łowiecką podaje strategikę, niż ten, kto podaje bicie wszy. Poważniejszy nie — tylko bardziej nadęty. Więc tak i teraz tyś zapytał, jak nazwiemy wszystkie czynniki, którym w udziale przypada oczyszczanie ciała żywego lub nieożywionego, i dla metody to będzie zupełnie obojętne, który wyraz wyda się najprzyzwoitszy, byleby tylko odgraniczał od oczyszczeń duszy i wiązał razem wszystko, co oczyszcza cokolwiek innego. Bo tok myśli zaczął w tej chwili odgraniczać oczyszczenie duchowe od innych oczyszczeń, jeżeli dobrze rozumiemy do czego zmierza.
+
+Teajtet: Ja rozumiem i zgadzam się, że istnieją dwa rodzaje oczyszczenia; jeden dotyczy duszy i jest różny od oczyszczenia cielesnego.
+
+Gość: Bardzo pięknie. Ale posłuchaj jeszcze tego, co potem, i próbuj znowu rozciąć na dwoje to, co powiem.
+
+Teajtet: Jakąkolwiek poprowadzisz drogą, będę próbował ciąć razem z tobą.
+
+XV. Gość: Mówimy, że zły charakter to jest coś innego w duszy niż dzielność?
+
+Teajtet: Jakżeby nie?
+
+Gość: A prawda, że oczyszczenie polegało na tym, by jedno z dwojga zostawić, a wyrzucić drugie, o ile by było gdzieś coś lichego.
+
+Teajtet: No, tak było.
+
+Gość: Zatem i w duszy, jeśli znajdujemy jakieś usuwanie tego, co złe, to jeśli je nazwiemy oczyszczaniem, będzie to brzmiało właściwie?
+
+Teajtet: I bardzo.
+
+Gość: Trzeba powiedzieć, że w duszy bywa dwojakie zło.
+
+Teajtet: Jakie?
+
+Gość: Jedno to tak jak choroba w ciele, a drugie to jak oszpecenie.
+
+Teajtet: Nie zrozumiałem.
+
+Gość: A może ty choroby i rozterki nie uważasz za jedno i to samo?
+
+Teajtet: Na to też nie wiem, co mam odpowiedzieć.
+
+Gość: Czy nie uważasz, że rozterka to nic innego, tylko skutkiem jakiegoś zepsucia poróżnienie się pierwiastków pokrewnych?
+
+Teajtet: Nic innego.
+
+Gość: A szpetność to nic innego, tylko to, że w środku jest jakiś brak miary. On wszystko zawsze oszpeca.
+
+Teajtet: No, to nie może być nic innego.
+
+Gość: A cóż? Czy nie zauważyliśmy, że w duszach ludzi lichych przekonania kłócą się z żądzami i serce z przyjemnościami, i rozum ze smutkami, i wszystko to się sprzecza jedno z drugim?
+
+Teajtet: I bardzo.
+
+Gość: A to wszystko przecież z konieczności stanowi jedną rodzinę.
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc jeżeli mówimy, że zły charakter to jest rozterka i choroba, to powiemy słusznie?
+
+Teajtet: Najsłuszniej przecież.
+
+Gość: No cóż? Jeżeli coś ma ruch w sobie, zakłada sobie jakiś cel i stara się w niego trafić, a co się zamierzy, zawsze chybia celu, wtedy my powiemy, że mu się to zdarza dzięki proporcjonalności wewnętrznej, czy też na odwrót, dlatego że w nim miary nie ma?
+
+Teajtet: Jasna rzecz, że to przez brak miary.
+
+Gość: Ale my wiemy też, że żadna dusza nie chce pozostawać w zupełnej niewiedzy.
+
+Teajtet: Bardzo mocno przecież.
+
+Gość: A wobec tego, że dusza dąży do prawdy, to niewiedza nie jest niczym innym, jak chybianiem celu, kiedy rozum nie trafia gdzie trzeba.
+
+Teajtet: Tak jest.
+
+Gość: Więc trzeba przyjąć, że dusza nierozumna jest szpetna i nie ma miary w sobie.
+
+Teajtet: Zdaje się.
+
+Gość: Więc pokazuje się, że istnieją w duszy te dwa rodzaje zła. Jeden z nich szerokie koła nazywają złym charakterem, a to jest najoczywiściej choroba duszy.
+
+Teajtet: Tak.
+
+Gość: A drugi rodzaj nazywają niewiedzą, ale nie chcą się zgodzić, że to jest zło, które tylko w duszy powstaje.
+
+Teajtet: Całkowicie trzeba się na to zgodzić, chociaż ja w tej chwili w to wątpiłem, kiedyś ty to powiedział, że istnieją w duszy dwa rodzaje zła. Jednakże i tchórzostwo, i rozpustę, i niesprawiedliwość — to wszystko trzeba uważać za chorobę tkwiącą w nas, a stan niewiedzy obfitej i różnorodnej uważać za oszpecenie.
+
+XVI. Gość: Nieprawdaż, jeśli o ciało chodzi, to w związku z tymi dwoma stanami powstały dwie umiejętności?
+
+Teajtet: Które to?
+
+Gość: W związku ze szpetotą — gimnastyka, a w związku z chorobą — medycyna.
+
+Teajtet: Tak to wygląda.
+
+Gość: Nieprawdaż? I czy w związku z butą i z niesprawiedliwością, i z tchórzostwem nie istnieje umiejętność karania, najbardziej ze wszystkich umiejętności związana z boginią sprawiedliwości?
+
+Teajtet: Tak wypada, żeby odpowiedzieć zgodnie z tym, co ludzie myślą.
+
+Gość: No cóż? A przeciwko wszelkiej niewiedzy chyba nikt nie mógłby słuszniej wymienić niczego innego, jak tylko umiejętność nauczania?
+
+Teajtet: Żadnej innej.
+
+Gość: No, proszę cię. A umiejętności nauczania trzeba przyjąć jeden tylko rodzaj, czy też więcej? Dwa z nich są największe, uważaj!
+
+Teajtet: Uważam.
+
+Gość: Mam wrażenie, że w ten sposób najprędzej znajdziemy.
+
+Teajtet: W jaki sposób?
+
+Gość: Zobaczmy niewiedzę, czy w niej nie ma jakiegoś rozcięcia przez środek. Bo jeżeli ona jest dwojaka, to musi też umiejętność nauczania mieć dwie części — jedną i drugą przyporządkowaną jednemu rodzajowi niewiedzy.
+
+Teajtet: Więc co? Jakoś ci się tam zjawia to, czego teraz szukamy?
+
+Gość: Zdaje mi się, że widzę pewien wielki i przykry, osobliwy rodzaj niewiedzy — równie ciężki jak wszystkie inne jej części, razem wzięte.
+
+Teajtet: Jakiż to rodzaj?
+
+Gość: Nie wiedząc czegoś, myśleć, że się wie. Bodaj że stąd się u nas wszystkich biorą wszelkie błędy naszego umysłu.
+
+Teajtet: Prawda.
+
+Gość: I zdaje mi się, że ten jeden rodzaj niewiedzy powinien się nazywać głupotą.
+
+Teajtet: Tak jest.
+
+Gość: A jak nazwać tę część nauczania, która ten rodzaj usuwa?
+
+Teajtet: Ja mam wrażenie, Gościu, że poza tym są umiejętności specjalne, a to tutaj u nas się nazywa pracą nad kulturą umysłową.
+
+Gość: I bodaj że u wszystkich Hellenów, Teajtecie. Ale my jeszcze musimy i na to popatrzeć, czy to już jest niepodzielne, czy też ma jakieś działy, godne nazwy.
+
+Teajtet: Nieprawdaż — trzeba zobaczyć.
+
+XVII. Gość: Więc mnie się wydaje, że i to jeszcze się jakoś rozdziela.
+
+Teajtet: Jak?
+
+Gość: Jeżeli chodzi o nauczanie słowem, to jedna droga wydaje mi się jakaś bardziej szorstka, a druga jego cząstka gładsza.
+
+Teajtet: A jak nazwiemy jedną z nich i drugą?
+
+Gość: Jedna cząstka — to starożytna raczej; posługiwali się nią nasi ojcowie w stosunku do swoich synów i wielu się jeszcze i dziś nią posługuje, kiedy im synowie popełniają jakieś wykroczenie; wtedy się jeden ojciec gniewa, a drugi łagodniej syna strofuje. Ale to wszystko razem najsłuszniej mógłby ktoś nazwać upominaniem.
+
+Teajtet: Jest tak.
+
+Gość: A co do drugiej części, to niektórzy znowu zastanowili się nad tym i doszli, zdaje się, do przekonania, że wszelka głupota jest nieumyślna i nauczyć się w ogóle niczego nie zechce ktoś, kto się uważa za mądrego w tej dziedzinie, którą — jak sądzi — opanował, i że wszelkie upominanie go kosztuje wiele trudu, a niedaleko prowadzi.
+
+Teajtet: Oni słusznie myślą.
+
+Gość: Więc, żeby to mniemanie usunąć, zabierają się do tego w inny sposób.
+
+Teajtet: W jaki sposób?
+
+Gość: Rozpytują takiego o te rzeczy, o których mu się wydaje, że mówi z sensem, a mówi ni to, ni owo. I potem z łatwością wykazują, że to są mniemania tych, co błądzą. Zbierają je w dyskusji razem i zestawiają je obok siebie. Zestawiwszy je, pokazują, że one się same z sobą równocześnie sprzeczają, choć odnoszą się do tego samego i chodzi o ten sam stosunek i o ten sam wzgląd. Ci, kiedy to widzą, źli są sami na siebie i stają się łaskawsi w stosunku do innych. W ten sposób pozbywają się wielkich i upartych opinii o sobie samych. A z wszelkich pozbywań się najmilej słuchać o takim i ono najtrwalszy pożytek przynosi pacjentowi. Bo ci, którzy takich przeczyszczają, sądzą, kochany chłopcze, podobnie jak sądzą lekarze, którzy ciała leczą, że ciało nie prędzej potrafi skorzystać z podawanych pokarmów, aż ktoś z niego wyrzuci to, co w nim w środku leży i przeszkadza; tak samo myślą tamci i o duszy, że ona nie prędzej będzie miała pożytek z podawanych nauk, aż ktoś takiego wziętego na spytki pobije w dyskusji i wstydu mu napędzi; usunie z niego mniemania, które naukom na przeszkodzie stoją, i zrobi go czystym, bo przekonanym, że to tylko wie, co wie, a więcej nic.
+
+Teajtet: Najlepszy to stan i najrozsądniejszy ze wszystkich.
+
+Gość: Z tych wszystkich też powodów my, Teajtecie, musimy powiedzieć, że zbijanie w dyskusji — to największe i najbardziej skuteczne z wszystkich oczyszczeń, i musimy uważać, że kto nigdy nie padał w dyskusji, ten, choćby był samym królem perskim, zostanie w nim nieczystość największa, zabraknie mu kultury umysłowej. On będzie kaleką pod tym względem, pod którym najczystszy i najpiękniejszy powinien być ten, co ma być istotnie szczęśliwy.
+
+Teajtet: No, ze wszech miar.
+
+XVIII. Gość: No cóż? Powiemy, że kto się posługuje tą umiejętnością? Bo ja się boję, że sofiści. Że tak powiemy.
+
+Teajtet: A dlaczego?
+
+Gość: Żebyśmy im nie przyznali odznaczenia zbyt wielkiego jak na nich.
+
+Teajtet: Ale jednak to, co się teraz powiedziało, to jest podobne do czegoś takiego.
+
+Gość: Wilk jest też podobny do psa; najdzikszy zwierz do najłagodniejszego. Kto jest ostrożny, ten musi zawsze najwięcej się mieć na baczności, kiedy chodzi o podobieństwa. To są rzeczy najbardziej śliskie. Ale niech tam będą. Myślę, że nie będzie sporów o drobne rozgraniczenia, o ile się będziemy dostatecznie mieli na baczności.
+
+Teajtet: Nieprawdaż? Tak by powinno być.
+
+Gość: Więc niech do umiejętności rozłączania należy umiejętność oczyszczania. A w niej niech będzie oddzielona część dotycząca duszy. Do niej należy umiejętność nauczania, a umiejętności nauczania częścią jest praca nad kulturą umysłową. A do tej pracy należy zbijanie w dyskusji, stosowane przeciwko głupiemu i wysokiemu mniemaniu o własnej mądrości. Pokazało się ubocznie w obecnej rozmowie, że to nic innego, jak tylko umiejętność sofistów, ta w dobrym rodzaju i prawego pochodzenia. I to my powiedzmy.
+
+Teajtet: A powiedzmy. Ale ponieważ pokazało się tyle rzeczy, więc ja już nie wiem, co właściwie trzeba powiedzieć, mówiąc prawdę, i czego się trzymać, że czym w istocie rzeczy jest sofista.
+
+Gość: To naturalne, że ty jesteś w kłopocie. Ale trzeba myśleć, że on też jest w wielkim kłopocie i nie wie, jaką drogą potrafi się nam jeszcze wymknąć z rozważań. To słuszne przysłowie, że wszystkich pułapek uniknąć nie jest łatwo. No więc teraz bierzemy się do niego na dobre.
+
+Teajtet: Dobrze mówisz.
+
+XIX. Gość: Więc przede wszystkim zatrzymajmy się, żeby chwilę odetchnąć, i tak, odpoczywając, pomówmy, proszę cię, o tym, w ilu to postaciach zjawia się nam sofista. Bo naprzód znaleźliśmy, że to jest płatny łowca młodych i bogatych ludzi.
+
+Teajtet: Tak.
+
+Gość: Po drugie: jakby jakiś kupiec handlujący naukami dla duszy.
+
+Teajtet: Tak jest.
+
+Gość: Po trzecie, czy nie okazał się kramarzem, odsprzedawcą w tej samej branży?
+
+Teajtet: Tak, i po czwarte: był dla nas sprzedawcą własnych wytworów w dziedzinie nauk.
+
+Gość: Słusznieś przypomniał. A to piąte ja spróbuję przypomnieć. Bo to był jakiś zapaśnik w dziedzinie walki na słowa, wyróżniający się jako mistrz w dyspucie.
+
+Teajtet: A no był.
+
+Gość: A po szóste, i to był punkt sporny, a jednak przyznaliśmy mu to zgodnie, że on jest tym, który dusze oczyszcza od mniemań stojących na przeszkodzie naukom.
+
+Teajtet: Ze wszech miar.
+
+Gość: A czy ty rozumiesz, że gdy się ktoś wydaje specjalistą w wielu umiejętnościach, a nazywa się go imieniem wziętym od jednej umiejętności, to jest w tym coś niezdrowego i ten, komu się tak wydaje, bierze pod uwagę jakąś umiejętność, a nie potrafi dostrzec tego jej rysu, do którego zmierzają te wszystkie nauki, i dlatego nazywa posiadacza ich wszystkich wieloma nazwami, a nie jedną tylko?
+
+Teajtet: Zdaje się, że tu gotowo być jakoś tak właściwie.
+
+XX. Gość: Więc my sobie na to nie pozwalajmy w naszym rozważaniu, tylko naprzód weźmy znowu pod uwagę coś z tego, co się powiedziało o sofiście. Bo jedno mi się wydało jego cechą najbardziej znamienną.
+
+Teajtet: Co takiego?
+
+Gość: Powiedzieliśmy tam gdzieś, że on jest mistrzem sporów?
+
+Teajtet: Tak.
+
+Gość: No cóż? A czy on też nie naucza innych tego samego?
+
+Teajtet: No tak.
+
+Gość: A zobaczmy, na jaki to właściwie temat oni twierdzą, że doprowadzają uczniów do mistrzostwa w sporach. A rozważajmy to sobie jakoś tak na początek. Proszę cię, jeżeli chodzi o bogów, których szerokie koła nie widzą, czy sofiści kwalifikują do sporów na ten temat?
+
+Teajtet: No, mówi się to przecież o nich.
+
+Gość: A co, jeżeli chodzi o rzeczy widzialne na ziemi i na niebie, i tym podobne?
+
+Teajtet: Czemu by nie?
+
+Gość: No tak. A w prywatnych zebraniach, kiedy się coś mówi o powstawaniu i o istnieniu, a mówi się ogólnie, to wiemy, że oni kwalifikują do sporów na te tematy i sami są do nich zdolni.
+
+Teajtet: Ze wszech miar.
+
+Gość: A cóż, jeżeli chodzi o prawa i o wszelkie sprawy polityczne, czy nie obiecują zrobić każdego mistrzem w sporach z tego zakresu?
+
+Teajtet: Przecież by nikt z nimi nawet nie gadał, żeby się tak wyrazić, gdyby tego nie przyrzekali.
+
+Gość: Chociaż jeżeli idzie o umiejętności wszelkie i każdą z osobna, to to, co powinien sam mistrz każdemu odpowiedzieć w sporze, to jest chyba wszystko ogłoszone, zebrane, spisane i dostępne dla każdego, kto się zechce nauczyć.
+
+Teajtet: Mam wrażenie, że ty mówisz o pracy Protagorasa o zapasach i o innych umiejętnościach.
+
+Gość: I o wielu innych, dobra duszo. Ale umiejętność prowadzenia sporów czy nie wydaje się w ogóle jakąś kwalifikacją do sporów na wszelkie tematy?
+
+Teajtet: Wydaje się, że ona chyba żadnego tematu nie zostawia na boku.
+
+Gość: A ty, chłopcze, na bogów, czy ty myślisz, że to jest rzecz możliwa? Bo może być, że wy, młodzi, wyraźnie to widzicie, a my patrzymy mętniej.
+
+Teajtet: Ale o co chodzi i co właściwie masz na myśli? Bo jeszcze jakoś nie rozumiem tego pytania teraz.
+
+Gość: Czy to jest możliwe, żeby jakiś człowiek wiedział to wszystko.
+
+Teajtet: Szczęśliwy byłby wtedy, Gościu, nasz rodzaj.
+
+Gość: Więc w jaki sposób ktoś, co sam nic nie wie, może coś z sensem odpowiedzieć w sporze z kimś, co wie?
+
+Teajtet: W żaden sposób.
+
+Gość: Więc cóż by to był za cud w tej zdolności sofisty?
+
+Teajtet: Pod jakim względem cud?
+
+Gość: To, jakim sposobem oni potrafią u młodych ludzi wyrobić sobie tę opinię, że sami są ze wszystkich ludzi najmądrzejsi pod każdym względem. Bo to jasna rzecz, że gdyby ani sporów nie prowadzili poprawnie, aniby się tak młodym ludziom nie wydawało, a gdyby nawet, to wcale by się przez to nie wydawali mądrzy — to wyszłoby przecież na twoje, że nikt by im pieniędzy nie dawał i nie chciałby zostawać ich uczniem.
+
+Teajtet: Trudno, żeby chciał.
+
+Gość: A tymczasem przecież chcą.
+
+Teajtet: I bardzo.
+
+Gość: Bo mam wrażenie, że oni sami wyglądają na znawców przedmiotu, jeżeli się tylko o coś spierają.
+
+Teajtet: Jakżeby nie?
+
+Gość: I oni to robią przy każdym temacie? Zgodzimy się?
+
+Teajtet: Tak.
+
+Gość: I dlatego uczniom wydają się mądrzy pod każdym względem.
+
+Teajtet: No tak.
+
+Gość: A przecież nie są. Bo to się okazało niemożliwe.
+
+Teajtet: Jakżeby nie miało być niemożliwe?
+
+XXI. Gość: Więc nam się sofista objawia jako posiadacz pewnej umiejętności wywoływania mniemań, a nie jako posiadacz prawdy.
+
+Teajtet: Ależ ze wszech miar. I bodaj że to w tej chwili powiedziane słowo najsłuszniej ich charakteryzuje.
+
+Gość: Więc weźmy jakiś wyraźniejszy przykład na to.
+
+Teajtet: Jakiż?
+
+Gość: Ano taki. Ale staraj się uważać i bardzo dobrze odpowiadać.
+
+Teajtet: Na jakie pytanie?
+
+Gość: Gdyby ktoś powiedział, że nie: mówić o czymś ani spierać się, ale zrobić i wykonać z pomocą jednej umiejętności potrafi wszystkie rzeczy.
+
+Teajtet: Jak ty rozumiesz: wszystkie?
+
+Gość: Zaraz z samego początku zdania nie wiesz, o co chodzi. Bo zdaje się, że nie rozumiesz słowa „wszystkie”.
+
+Teajtet: A nie rozumiem.
+
+Gość: Więc ja mam na myśli ciebie i siebie spośród wszystkich, a oprócz nas, inne istoty żywe i drzewa.
+
+Teajtet: Więc jak mówisz?
+
+Gość: Gdyby ktoś powiedział, że zrobi mnie i ciebie, i wszystko inne, co rośnie.
+
+Teajtet: O jakiej też ty mówisz robocie? Chyba nie powiesz, że chodzi o jakiegoś rolnika. Przecież nazwałeś go twórcą nawet zwierząt.
+
+Gość: Owszem. A oprócz tego — morza i ziemi, i nieba, i bogów, i wszystkiego innego. On to wszystko prędko robi i sprzedaje za tanie pieniądze.
+
+Teajtet: Ty mówisz chyba żartem.
+
+Gość: No cóż? A jeśli ktoś mówi, że wszystko wie i kogoś drugiego tego nauczyć potrafi za małą zapłatą i w krótkim czasie, to czy tego nie wypada uważać za żart?
+
+Teajtet: Chyba ze wszech miar.
+
+Gość: A żartu czy masz postać bardziej umiejętną i wdzięczną niż naśladownictwo?
+
+Teajtet: Nigdy w świecie. Wymieniłeś rodzaj niezmiernie obfity, sprowadziłeś do jedności wszystko. To jest rodzaj chyba najbardziej różnorodny.
+
+XXII. Gość: Nieprawdaż? Przecież ten, co przyrzeka, że potrafi z pomocą jednej umiejętności wykonać wszystko — to chyba rozumiemy — że on z pomocą umiejętności malarskiej wykonywa imitacje, noszące te same nazwy, co i rzeczy istniejące, i potrafi w oczach niemądrych młodych chłopców, którym z daleka malowane obrazki pokazuje, ujść za takiego niesłychanie zdolnego, co to potrafi w rzeczywistości wykonać wszystko, cokolwiek by zechciał zrobić.
+
+Teajtet: Jakżeby nie?
+
+Gość: No cóż? A jeśli chodzi o słowa, to czy nie spodziewamy się, że istnieje pewna inna umiejętność, z pomocą której można młodych chłopców, stojących jeszcze z dala od faktów prawdziwych, przez uszy słowami czarować, pokazując im słowne wizerunki wszystkich rzeczy, tak żeby oni te słowa brali za prawdy, a mówiącego uważali za najmądrzejszego ze wszystkich w każdym zakresie?
+
+Teajtet: Czemużby nie miała istnieć jakaś inna tego rodzaju umiejętność?
+
+Gość: A czy ci liczni chłopcy, Teajtecie, którzy wtedy byli słuchaczami, kiedy pewien czas, dla nich wystarczający, nadejdzie, kiedy się w lata posuną i zetkną się z bliska z rzeczywistością, a cierpienia ich zmuszą dotykać się jasno i wyraźnie tego, co jest, czy oni wtedy nie muszą zmienić nabytych niegdyś opinii tak, że się im wielkie rzeczy wydadzą małe i trudne się im wydadzą rzeczy łatwe, i wszystkie widziadła ze słów budowane pod każdym względem przewrócą się im do góry nogami pod wpływem faktów, z którymi się zetkną w działaniu?
+
+Teajtet: O ile ja mogę o tym sądzić w moim wieku. Mam wrażenie, że i ja należę do tych, którzy jeszcze stoją z daleka.
+
+Gość: Dlatego też my, ci tutaj wszyscy, będziemy próbowali i staramy się o to w tej chwili, żeby cię jak najbliżej, a bez przykrości podprowadzić do tego, co jest. A co do sofisty, to powiedz mi taką rzecz. Czy to już jasne, że to jest pewnego rodzaju czarodziej, naśladowca rzeczywistości, czy też różnimy się jeszcze co do tego, czy on naprawdę posiada wiedzę o wszystkim, czemu — jak się zdaje — potrafi się przeciwstawić?
+
+Teajtet: Ależ jakim by sposobem, Gościu? To już chyba jasne na podstawie tego, co się powiedziało, że to jest jeden z tych, którzy zawodowo uprawiają żarty.
+
+Gość: Więc trzeba przyjąć, że to jest jakiś czarodziej i naśladowca?
+
+Teajtet: Jakże tego nie przyjąć?
+
+XXIII. Gość: Więc dalej naprzód. Teraz nasza rzecz już nie wypuścić zwierza z ręki. Jużeśmy go prawie schwytali w takie narzędzie myślowe, które jest jak sieć na takie rzeczy. Już się teraz nie wymknie. Z tego tu przynajmniej.
+
+Teajtet: Z czego?
+
+Gość: Z tego, żeby taki jak on nie należał do rodzaju kuglarzy.
+
+Teajtet: Mnie się co do niego też to samo wydaje — tak samo jak tobie.
+
+Gość: Więc uchwalamy, żeby jak najprędzej rozebrać umiejętność stwarzania wizerunków, zejść w jej głąb i jeżeli nam tam zaraz sofista stawi czoło, to schwycić go podług rozkazu królewskiego, oddać go królowi i zgłosić, cośmy upolowali. A jeżeliby się gdzieś zaszył w cząstki umiejętności naśladowczej, to iść za nim w tropy, rozdzielając zawsze tę cząstkę, która go przyjmie, aż się go schwyci. W ogóle ani on, ani żaden inny rodzaj nie będzie się mógł nigdy poszczycić, że umknął przed takim postępowaniem tych, którzy się umieją w ten sposób brać do wszystkich razem rzeczy i do każdej z osobna.
+
+Teajtet: Mówisz dobrze i tak to trzeba zrobić.
+
+Gość: Więc tak samo, jakeśmy przedtem dzielili, ja przynajmniej i teraz mam wrażenie, że dostrzegam dwa rodzaje naśladownictwa (mimetyki), ale w którym z nich tkwi postać w tej chwili szukana, zdaje mi się, że jeszcze nie umiem dojść.
+
+Teajtet: Powiedz tylko, zrób ten podział, o jakich ty dwóch rodzajach mówisz?
+
+Gość: Widzę w nim jedną część — to umiejętność wykonywania podobizn. Ona występuje wtedy, gdy ktoś, zgodnie z proporcjami modela w długości, szerokości i głębokości, wykonywa jego naśladownictwo i nadaje mu w dodatku barwy odpowiednie dla każdej części.
+
+Teajtet: Jak to? Czyż nie wszyscy naśladowcy usiłują robić coś takiego?
+
+Gość: Nie ci, którzy rzeźbią albo malują jakieś dzieło o wielkich rozmiarach. Bo gdyby zachowali prawdziwą proporcję pięknych modeli, to wiesz, że części wysokie wydawałyby się mniejsze niż potrzeba, a za duże wydawałyby się części niskie, bo widzielibyśmy tamte z daleka, a te z bliska.
+
+Teajtet: Tak jest
+
+Gość: Więc czyż nie tak jest, że wykonawcy nie troszczą się o prawdę i nadają swoim wizerunkom nie te proporcje, które są, ale te, które się będą wydawały piękne?
+
+Teajtet: Tak jest istotnie.
+
+Gość: Więc po pierwsze, skoro jest podobne, czy nie powinno się nazywać podobizną?
+
+Teajtet: Powinno.
+
+Gość: I część naśladownictwa, która się tym zajmuje powinna się nazywać, jakeśmy to przedtem powiedzieli: umiejętnością wykonywania podobizn.
+
+Teajtet: Niechże się nazywa.
+
+Gość: No cóż? A to, co wygląda wprawdzie, dzięki oglądaniu z pewnego punktu, na coś podobnego do rzeczy pięknej, ale gdyby ktoś mógł te ogromy należycie obejrzeć, to nawet niepodobne są do pierwowzorów — jak my to nazwiemy? Skoro to tak wygląda wprawdzie, ale podobne nie jest — więc czy tego nie nazwać złudnym wyglądem?
+
+Teajtet: No czemu by nie?
+
+Gość: A tej umiejętności, która stwarza złudny wygląd, ale nie podobiznę, czybyśmy nie powinni najsłuszniej nazywać umiejętnością stwarzania złudnych wyglądów?
+
+Teajtet: Najlepiej.
+
+Gość: Więc ja mówiłem o tych dwóch rodzajach stwarzania wizerunków: o stwarzaniu podobizn i stwarzaniu złudnych wyglądów.
+
+Teajtet: Słusznie.
+
+Gość: A to, co do czegom się i przedtem wahał, w której z tych dwóch klas umieścić sofistę, tego jeszcze i w tej chwili nie umiem dojrzeć jasno. To jest doprawdy mąż przedziwny i dojrzeć go strasznie trudno. Przecież i w tej chwili dobrego nam spłatał figla. Schował się w taką klasę, którą trudno przetrząsnąć.
+
+Teajtet: Zdaje się.
+
+Gość: Ale czy ty się ze mną zgadzasz dlatego, że tak to widzisz, czy też to u ciebie taki rozpęd w dyskusji i nawyknienie cię poniosło, żeby się tak prędko ze mną zgodzić?
+
+Teajtet: Jak to rozumiesz i do czego to odnosisz?
+
+XXIV. Gość: Istotnie, dobra duszo, wpadliśmy w rozważanie trudne ze wszech miar. Bo to, żeby coś mogło wyglądać i wydawać się czymś, a nie być, i żeby można mówić coś, ale prawdy nie — to wszystko jest pełne kłopotów zawsze, i dawniej, i teraz. Bo jak się trzeba wyrazić, żeby przyznać istnienie fałszywym zdaniom albo fałszywym sądom i nie popaść w tym wyrażeniu w sprzeczność — to jest strasznie trudna rzecz, Teajtecie.
+
+Teajtet: No cóż tam takiego?
+
+Gość: Bo to wyrażenie ośmiela się zakładać, że istnieje to, co nie istnieje. Przecież inaczej nie mógłby powstać fałsz. Wielki Parmenides, mój chłopcze, od czasu kiedyśmy byli dziećmi, do końca życia tego się zarzekał i zawsze prozą i wierszami tak mówił:
+
+
+Bo nigdy to nie przeważy, że są też jakieś niebyty.
+Zawsze się od tej drogi w myśleniu trzymaj z daleka!
+
+Więc przemawia za tym jego świadectwo, a najlepiej potrafi to pokazać samo to twierdzenie, jeżeli mu się w miarę przypatrzymy. Więc zobaczmy naprzód właśnie to, jeżeli ci to nie zrobi różnicy.
+
+Teajtet: O moim zdaniu możesz sądzić co chcesz, a tę myśl rozważaj tak, żeby wyszła jak najlepiej. Sam tak idź i mnie tą drogą prowadź.
+
+XXV. Gość: Trzeba tak zrobić. Więc powiedz mi, czy my śmiemy jakoś wyrazić to, co w żaden sposób nie istnieje?
+
+Teajtet: Czemużby nie?
+
+Gość: Więc nie na to, żeby się spierać, ani dla żartu, tylko na serio, gdyby ktoś ze słuchaczy miał się nad tym zastanowić i odpowiedzieć, co to właściwie trzeba tak nazywać: „coś, czego nie ma”. Jak się nam wydaje, do czego właściwie, do jakiego przedmiotu powinien by zapytany sam tę nazwę stosować i pokazać to pytającemu?
+
+Teajtet: To jest trudne pytanie i powiedziałbym, że ktoś taki jak ja zupełnie nie znajduje odpowiedzi.
+
+Gość: Ale to przecież jasne, że niczego, co jest czymś, nie można odnosić do niebytu?
+
+Teajtet: No jakżeby?
+
+Gość: Nieprawdaż? Jeżeli do niczego, co jest czymś, to i do żadnego *coś* nikt nie może tej nazwy słusznie odnosić.
+
+Teajtet: No jakże?
+
+Gość: I to nam chyba jasne, że i słówko „coś” zawsze do czegoś odnosimy, bo niepodobna wypowiedzieć go samego, żeby było niejako gołe i odosobnione od wszystkiego, co jest. Czy tak?
+
+Teajtet: Tak, to niemożliwie.
+
+Gość: A może, patrząc od tej strony, zgodzisz się, że kto mówi „coś”, ten mówi o czymś jednym?
+
+Teajtet: Tak jest.
+
+Gość: Bo powiesz, że to „coś” jest znakiem czegoś jednego, a „dwa cosie” dwóch, a „cosie” — wielu.
+
+Teajtet: Jakżeby nie?
+
+Gość: A kto mówi „nie coś”, ten chyba z konieczności nic w ogóle nie mówi.
+
+Teajtet: No, bezwzględnie tak musi być.
+
+Gość: Więc i tego nawet nie można dopuścić, że kto to mówi, ten wprawdzie mówi, ale mówi nic, tylko wypada powiedzieć, że taki, co by chciał wyrazić coś, czego nie ma, ten w ogóle nic nie mówi?
+
+Teajtet: No, i byłby koniec kłopotu.
+
+XXVI. Gość: Nie tryumfuj jeszcze. Bo jeszcze zostaje, dobra duszo, kłopot największy i pierwszy. On się wiąże ze sprawą najbardziej zasadniczą dla naszych rozważań.
+
+Teajtet: Jak mówisz? Powiedz bez wahania.
+
+Gość: Z czymś, co istnieje (z bytem), może chyba wiązać się coś innego (jakiś inny byt)?
+
+Teajtet: Jakżeby nie?
+
+Gość: A z czymś, co nie istnieje (z niebytem), czy może coś (jakiś byt) się wiązać? Co powiemy?
+
+Teajtet: Jakimże sposobem?
+
+Gość: A liczbę wszelką uważamy za coś, co jest (za byt)?
+
+Teajtet: Jeżeli i cokolwiek innego za byt uważać.
+
+Gość: Zatem nie próbujmy odnosić ani liczby mnogiej, ani pojedynczej do czegoś, czego nie ma (do niebytu).
+
+Teajtet: Zdaje się, że takie próby nie byłyby z naszej strony słuszne — tak mówi tok myśli.
+
+Gość: Więc jakby ktoś mógł albo ustami wypowiedzieć, albo w ogóle myślą uchwycić to, co nie istnieje bez liczby?
+
+Teajtet: Powiedz, jak?
+
+Gość: Kiedy mówimy o rzeczach nieistniejących, czy nie próbujemy stosować tu liczby mnogiej?
+
+Teajtet: No cóż?
+
+Gość: A gdy mówimy o czymś nieistniejącym (o niebycie), to czy nie stosujemy znowu liczby pojedynczej?
+
+Teajtet: Najwyraźniej przecież.
+
+Gość: A mówimy, że to ani sprawiedliwie, ani słusznie: dopasowywać coś istniejącego do czegoś, czego nie ma (byt do niebytu).
+
+Teajtet: Świętą prawdę mówisz.
+
+Gość: Więc ty rozumiesz, że ani wypowiedzieć nie można słusznie, ani orzec, ani pomyśleć sobie tego, co nie istnieje (niebytu), samego dla siebie. To jest coś nie do pomyślenia, coś nie do wypowiedzenia i nie do wyrażenia, coś bez sensu.
+
+Teajtet: Ze wszech miar.
+
+Gość: Więc czy ja się pomyliłem przed chwilą, mówiąc, że podam w związku z niebytem największą trudność?
+
+Teajtet: A czy możemy podać inną, jeszcze większą od tego?
+
+Gość: Cóż to? Jakiś ty dziwny. Czy nie rozumiesz po tym już, co się powiedziało, że „to, czego nie ma” (niebyt) wprowadza swego przeciwnika w taki kłopot, że ile razy ktoś to próbuje odrzucić, musi mówić o nim rzeczy sprzeczne?
+
+Teajtet: Jak mówisz? Powiedz jeszcze jaśniej.
+
+Gość: Nie ma co patrzeć we mnie tego „jaśniej”. Ja przecież założyłem, że do „tego, czego nie ma”, do niebytu, nie powinna mieć zastosowania ani liczba pojedyncza, ani mnoga, a tymczasem przed chwilą i teraz nazywam to czymś jednym. Przecież mówię: „niebyt”, „to, czego nie ma”. Rozumiesz?
+
+Teajtet: Tak.
+
+Gość: A znowu przed chwilką powiedziałem, że ono, ten niebyt, jest nie do wypowiedzenia i nie do wyrażenia, i jest bez sensu. Czy idziesz za mną?
+
+Teajtet: Idę za tobą. Jakżeby nie?
+
+Gość: Nieprawdaż? Bycie doczepić mu próbowałem i mówiłem rzeczy sprzeczne z tym, co przedtem.
+
+Teajtet: Widocznie.
+
+Gość: No cóż? Doczepiając to bycie, czy nie zwracałem się do niego jako do czegoś jednego?
+
+Teajtet: Tak.
+
+Gość: I mówiąc, że niebyt jest bez sensu i nie do wypowiedzenia, i nie do wyrażenia, mówiłem o nim jako o czymś jednym.
+
+Teajtet: Jakżeby nie?
+
+Gość: A mówimy, że jeśli się ktoś ma wyrażać poprawnie, to nie powinien niebytu ujmować ani pojedynczo, ani mnogo, ani go w ogóle nazywać. Bo już by go i w tym wyrażeniu ujmował w postaci czegoś jednego.
+
+Teajtet: Ze wszech miar przecież.
+
+XXVII. Gość: Jeżeli o mnie chodzi, to co tam już o mnie mówić? Już i dawno, i teraz też było widać, że mi się nie udaje odrzucić „tego, co nie istnieje”. Więc kiedy ja sam mówię, to, jak powiedziałem, nie ma tam co szukać poprawności w wyrażaniu się o tym, czego nie ma (o niebycie). Ale co tam ja — zobaczmy teraz, jak się to u ciebie przedstawia.
+
+Teajtet: Jak mówisz?
+
+Gość: No, proszę cię; tak, śmiało i jak się należy — przecieżeś ty młody, więc staraj się skupić, jak tylko potrafisz najbardziej, i staraj się ani istnienia, ani jedności, ani mnogiej liczby nie doczepiać do „tego, czego nie ma”, a powiedzieć o niebycie cokolwiek poprawnie.
+
+Teajtet: Doprawdy, że wielka i niepojęta musiałaby mnie do tego przedsięwzięcia skłaniać żądza, gdybym się sam do tego brał, widząc, co się z tobą dzieje.
+
+Gość: Więc może — tobie i mnie dajmy pokój, a dopóki nie natrafimy na kogoś, kto potrafi to zrobić, to tymczasem mówmy, że właściwie ten szelma, sofista, zaszył się w takie miejsce, gdzie ani w prawo, ani w lewo.
+
+Teajtet: To zupełnie tak wygląda.
+
+Gość: Więc też jeżeli powiemy, że on posiada pewną umiejętność stwarzania złudnych wyglądów, to skutkiem takiego użycia wyrazów on się nas z łatwością uczepi i odwróci nam kota ogonem. Kiedy go nazwiemy wytwórcą wizerunków, on nas zapyta, co też my w ogóle nazywamy wizerunkiem. Więc trzeba zobaczyć, Teajtecie, co ktoś temu śmiałkowi odpowie na takie pytanie.
+
+Teajtet: Jasna rzecz, że wymienimy wtedy odbicia w wodach i w lustrach i malowidła, i rzeźby, i inne takie, jakie tylko istnieją.
+
+XXVIII. Gość: Widać, Teajtecie, żeś ty nie oglądał sofisty.
+
+Teajtet: Cóż znowu?
+
+Gość: Będzie ci się zdawało, że on ma zmrużone oczy albo że ich nie ma wcale.
+
+Teajtet: Jakim sposobem?
+
+Gość: Kiedy mu dasz taką odpowiedź, jak tylko wspomnisz o czymś w lustrach albo o dziełach plastyki, on się zacznie śmiać z twoich słów, gdy będziesz do niego mówił jak do kogoś, kto widzi. On uda, że nie zna ani wód, ani luster, ani wzroku w ogóle, a będzie cię pytał wyłącznie o to, co wynika ze słów.
+
+Teajtet: O co takiego?
+
+Gość: O to, co dotyczy tego wszystkiego. Tyś tego dużo wymieniał i uważałeś za właściwe nazwać to wszystko wizerunkiem, jakby to było czymś jednym. Więc mów teraz i broń się, nie ustępuj na krok temu typowi.
+
+Teajtet: Gościu, czymże innym, moglibyśmy powiedzieć, jest wizerunek, jak nie tym tylko, że to jest coś podobnego do tego, co prawdziwe, ale ono jest czymś innym takim.
+
+Gość: A „innym takim” nazywasz to prawdziwe, czy do czego to odnosisz?
+
+Teajtet: W żadnym razie: to prawdziwe, tylko: to podobne.
+
+Gość: Czy to prawdziwe nazywasz czymś istniejącym istotnie?
+
+Teajtet: Tak.
+
+Gość: No cóż? A to nieprawdziwe czy jest przeciwieństwem prawdziwego?
+
+Teajtet: No tak.
+
+Gość: Zatem mówisz, że to podobne nie istnieje istotnie, skoro je nazwiesz czymś nieprawdziwym.
+
+Teajtet: Ale ono przecież istnieje jakoś.
+
+Gość: Ale nieprawdziwie istnieje, mówisz.
+
+Teajtet: No nie przecież. To tylko podobizna — w istocie rzeczy.
+
+Gość: Zatem, nie istniejąc istotnie, jest jednak istotnie tym, co nazywamy podobizną?
+
+Teajtet: Bodaj że tak się jakoś poplątało to, co nie istnieje, z tym, co istnieje — niebyt z bytem — kłębek bardzo głupi.
+
+Gość: I jaki jeszcze głupi! Widzisz przecież, że i teraz przez to poplątanie ten wielogłowy sofista zmusił nas do przyznania mimo woli, że to, co nie istnieje, niebyt — jednak istnieje jakoś.
+
+Teajtet: Ja to widzę — nawet bardzo dobrze.
+
+Gość: No więc co? Jak mamy określić jego umiejętność, żebyśmy potrafili pozostać w zgodzie sami z sobą?
+
+Teajtet: Jak to i czego właściwie ty się boisz, skoro tak mówisz?
+
+Gość: Kiedy powiemy, że on w błąd wprowadza złudnym wyglądem i że jego umiejętność jest pewnego rodzaju oszustwem, czy powiemy, że wtedy nasza dusza wydaje fałszywe sądy pod wpływem jego umiejętności, czy co właściwie powiemy?
+
+Teajtet: No — to. Cóż byśmy mogli powiedzieć innego?
+
+Gość: A sąd fałszywy to będzie ten, który stwierdza coś przeciwnego niż to, co jest. Czy jak?
+
+Teajtet: Coś przeciwnego.
+
+Gość: Więc ty mówisz, że sąd fałszywy stwierdza to, czego nie ma? Stwierdza niebyty?
+
+Teajtet: Koniecznie.
+
+Gość: Czy on stwierdza, że nie istnieje to, czego nie ma, czy też, że jakoś istnieje to, czego w żaden sposób nie ma?
+
+Teajtet: Istnieć jakoś muszą niebyty, jeżeli się czasem myli ktoś w czymś — choćby i trochę.
+
+Gość: No cóż? Czy nie twierdzi się też, że nie istnieje żaden sposób na to, co na wszelki sposób istnieje?
+
+Teajtet: Tak.
+
+Gość: Więc i to jest fałsz?
+
+Teajtet: I to.
+
+Gość: Więc i to twierdzenie, mam wrażenie, będziemy uważali za fałszywe, które mówi, że nie istnieje to, co istnieje, i to, które mówi, że istnieje to, czego nie ma.
+
+Teajtet: Jakżeby inaczej mogło powstać twierdzenie tego rodzaju?
+
+Gość: Chyba w żaden inny sposób. Ale tego ci sofista nie przyzna. Albo jak może się na to zgodzić ktoś przy zdrowych zmysłach, kiedy nasza dodatkowa uchwała określa jako coś nie do wyrażenia i nie do wypowiedzenia, jako coś bez sensu i nie do pojęcia to, cośmy przed chwilą wspólnie przyjęli? Czy rozumiemy, Teajtecie, co on powie?
+
+Teajtet: Jakżebyśmy nie rozumieli? On powie, że twierdzimy coś sprzecznego z tym, co przed chwilą. Bośmy się odważyli powiedzieć, że fałsz istnieje w sądach i w słowach. I tak musimy nieraz doczepiać istnienie do tego, co nie istnieje, do niebytu, a zgodziliśmy się przed chwilą, że to jest rzecz ze wszystkich rzeczy niemożliwych najbardziej niemożliwa.
+
+XXIX. Gość: Dobrześ to zapamiętał i powtórzył. Ale czas nam się zastanowić, co zrobić z sofistą. Bo jeżeli go odszukamy i umieścimy w zakresie umiejętności oszustów i czarodziejów, to sam widzisz, jak łatwo nas będzie można byle o co zaczepić i będą z tego kłopoty.
+
+Teajtet: I bardzo duże.
+
+Gość: Myśmy ich przeszli małą cząstkę, a jest ich, żeby tak powiedzieć, bez końca.
+
+Teajtet: W takim razie, zdaje się, że się nie uda uchwycić sofisty, jeżeli to tak jest.
+
+Gość: Więc co? Damy teraz pokój wszystkiemu, bo nam sił zabrakło?
+
+Teajtet: Ja mówię, że nie trzeba — jeżeli potrafimy choć trochę jakoś przychwycić ten typ.
+
+Gość: Więc wybaczysz mi i, jakeś teraz powiedział, wystarczy ci, jeżeli sobie jakoś choć trochę skubniemy z tego wielkiego zagadnienia.
+
+Teajtet: Jakżebym nie miał wybaczyć?
+
+Gość: Zatem ja cię jeszcze bardziej proszę o jedną rzecz.
+
+Teajtet: O co takiego?
+
+Gość: Żebyś sobie nie myślał, że ja jestem jakiś ojcobójca.
+
+Teajtet: Cóż znowu?
+
+Gość: Myśl ojca Parmenidesa będziemy musieli we własnej obronie rozebrać krytycznie i z naciskiem bronić tezy, że z jednej strony to, co nie istnieje, istnieje jednak jakoś, i że to, co istnieje — jednak w pewnym sposobie nie istnieje.
+
+Teajtet: Widać, że coś takiego trzeba przeprowadzić w dyskusji.
+
+Gość: Jakżeby nie? To nawet i ślepy zobaczy, jak to mówią. Bo jeżeli się tych rzeczy ani nie odrzuci, ani nie przyjmie, to będzie trudno, żeby ktoś potrafił mówić o słowach fałszywych albo o sądzie mylnym, czy to o wizerunkach, czy o podobiznach, czy o naśladownictwie, czy o złudnych wyglądach samych, albo o umiejętnościach, które się nimi zajmują, i nie naraził się na śmieszność, kiedy będzie musiał być w sprzeczności sam z sobą.
+
+Teajtet: Święta prawda.
+
+Gość: Dlatego miejmy teraz odwagę zaczepić zdanie ojcowskie albo w ogóle dajmy pokój wszystkiemu, jeżeli się w nas coś przed takim czynem wzdryga.
+
+Teajtet: Żaden taki skrupuł niech do nas nie ma przystępu z żadnej strony!
+
+Gość: Więc ja ciebie jeszcze o trzecią rzecz poproszę, ale to drobiazg.
+
+Teajtet: Powiedz tylko.
+
+Gość: Powiedziałem tu przed chwilą w rozmowie, że jeśli chodzi o zbijanie tego stanowiska, to zawsze mi jakoś sił nie staje i tak samo jest mi w tej chwili.
+
+Teajtet: Powiedziałeś.
+
+Gość: Boję się tego, com powiedział, aby ci się przez to nie zdawało, że jestem narwany i dlatego tak z miejsca robię koziołki i odwracam swoje stanowisko. Doprawdy, że to tylko ze względu na ciebie będziemy próbowali tę myśl zwalczać, jeżeli tylko nam się to uda.
+
+Teajtet: Co do mnie, to żadną miarą nie będę miał tego wrażenia, że u ciebie jest coś nie w porządku, jeżeli przystąpisz do zwalczania tej myśli i zaczniesz dowodzić; więc jeżeli o to chodzi, to śmiało idź naprzód.
+
+XXX. Gość: Więc proszę cię, jakby to zacząć to roztrząsanie niebezpieczne? Ja mam wrażenie, mój chłopcze, że na taką drogę musimy wejść bezwzględnie.
+
+Teajtet: Na jaką?
+
+Gość: Przede wszystkim rozpatrzyć to, co się nam w tej chwili wydaje jasne, abyśmy się w tym jakoś nie poplątali i nie zgadzali się z sobą zbyt łatwo, jak gdybyśmy byli w zupełnym porządku.
+
+Teajtet: Powiedz no jaśniej to, co mówisz.
+
+Gość: Ja mam wrażenie, że tak sobie, od niechcenia mówił z nami Parmenides i każdy, kto się kiedykolwiek zabierał do ustalenia i rozgraniczenia tego, co istnieje, ile tego jest i jakie to jest.
+
+Teajtet: Jakże to?
+
+Gość: Zdaje mi się, że każdy z nich opowiadał pewną bajkę, jakbyśmy dziećmi byli. Więc jeden mówił, że istnieją trzy rzeczy i niektóre z nich niekiedy jakoś walczą z sobą, a czasem się zaczynają kochać i wtedy się tam zaczynają małżeństwa i narodziny, i chowanie dzieci. A inny powiedział, że istnieją dwie rzeczy: wilgotność i suchość, albo ciepło i zimno, więc on je ściąga do jednego domu i żeni. A nasza grupa, eleatów, od czasów Ksenofanesa i jeszcze dawniej mówi, że jednym jest to, tak zwane wszystko, co istnieje, i takie bajki opowiada. A jońskie muzy i później niektóre sycylijskie zauważyły, że najbezpieczniej będzie powiązać jedno z drugim i powiedzieć, że tego, co istnieje, jest dużo i że to jest jednym, a nienawiść i miłość trzyma to w kupie. Bo wciąż się to rozpada i wiąże, jak mówią muzy surowsze. A te łagodniejsze zarzuciły myśl, żeby to zawsze tak było, i mówią, że to po kolei raz wszystko jest jednym i miłym pod wpływem Afrodyty, a raz tego jest dużo i to jedno z drugim walczy, bo tam jest jakiś spór. A w tym wszystkim, czy ktoś z nich prawdę powiedział, czy nieprawdę, bardzo to jest trudno powiedzieć i nieładnie podnosić tak wielkie zarzuty przeciw mężom sławnym z dawnych czasów. Jedno tylko można oświadczyć, nie narażając się na zarzuty.
+
+Teajtet: Co takiego?
+
+Gość: Że oni sobie nas, których jest wielu, bardzo lekceważyli i nie dbali o nas zgoła. Zupełnie się nie troszczyli o to, czy nadążamy za nimi, kiedy mówią, czy też zostajemy w tyle, a oni ciągną dalej — każdy swoje.
+
+Teajtet: Jak mówisz?
+
+Gość: Kiedy się ktoś z nich odezwie i mówi, że jest albo powstało, albo powstaje rzeczy wiele albo jedna, albo dwie, i ciepło się miesza z zimnem, a gdzieś tam indziej przyjmuje rozkłady i syntezy — wtedy, na bogów, Teajtecie, czy ty wtedy rozumiesz coś z tego, co oni mówią? Bo ja, kiedym był młodszy, to zdawało mi się, że doskonale rozumiem to, z czym sobie dziś nie umiem dać rady, kiedy ktoś mówił o „tym, co nie istnieje” (niebycie). Dzisiaj widzisz, jaka z tym na nas przyszła nieporadna godzina.
+
+Teajtet: Widzę.
+
+Gość: A może być, że nie mniej i z bytem to samo na nas przyjdzie i będziemy mówili, że wiemy, o co chodzi, i rozumiemy, kiedy ktoś to słowo powie, tylko tamtego drugiego nie — a podobna bieda z jednym i z drugim.
+
+Teajtet: Może być.
+
+Gość: A o wszystkich innych rzeczach, o których się przedtem mówiło, powiedzmy sobie to samo.
+
+Teajtet: Dobrze.
+
+XXXI. Gość: Więc jeżeli idzie o wiele innych określeń, to sobie je później rozpatrzymy, jeżeli zechcemy. A teraz rozejrzyjmy się w tym, co jest największe i pierwsze — i stoi na czele wszystkiego.
+
+Teajtet: O czym ty mówisz? Oczywista, ty twierdzisz, że naprzód trzeba rozgrzebać byt: co też to sądzą o nim ci, którzy się tym wyrazem posługują.
+
+Gość: Z miejsca, Teajtecie, pochwyciłeś, o co mi chodzi. Ja mówię, że powinniśmy tak iść w rozważaniach, jakby oni tu przy nas byli, a my byśmy ich pytali w ten sposób. Proszę was, wy, którzy mówicie, że wszystko jest ciepłem i zimnem, albo że to są jakieś takie dwa pierwiastki, co to wy mówicie o nich obu? Mówicie, że one oba i każdy z osobna istnieją. Za cóż mamy uważać to wasze istnienie? Czy to jest coś trzeciego obok tamtych dwóch pierwiastków, za czym musielibyśmy założyć z wami, że wszystko, co jest, to są trzy rzeczy, a już nie dwie? Przecież jeśli o jednym z dwojga mówicie, że to pewien byt, to nie mówicie, że oba również stanowią byt. Wtedy bowiem w obu wypadkach byłoby jedno, a nie dwa.
+
+Teajtet: Prawdę mówisz.
+
+Gość: Więc oba razem chcecie nazywać bytem.
+
+Teajtet: Może tak.
+
+Gość: Ależ, moi kochani, powiemy, nawet i tak mówilibyście najwyraźniej, że dwa to jeden.
+
+Teajtet: Zupełnie słusznieś powiedział.
+
+Gość: Więc ponieważ myśmy byli w kłopocie, to wy nam to wyjaśnijcie należycie, co wy chcecie oznaczyć, kiedy mówicie „byt”. Bo jasna rzecz, że wy to wiecie od dawna, a nam się przedtem zdawało, że to wiemy, a teraześmy wpadli w kłopot. Więc przede wszystkim nauczcie nas tego właśnie, aby się nam nie zdawało, że rozumiemy wasze słowa, kiedy jest wprost przeciwnie. Kiedy tak powiemy i zgłosimy tę pretensję do nich i do innych, którzy mówią, że wszystko co jest, to jest coś więcej niż jedno, nie popełnimy chyba, chłopcze, żadnego fałszywego kroku?
+
+Teajtet: Zgoła nie.
+
+XXXII. Gość: No cóż? A od tych, którzy mówią, że wszystko jest jednym, czy nie można się, o ile potrafimy, dowiedzieć, co też oni nazywają bytem?
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc niech odpowiedzą na to pytanie. Wy mówicie podobno, że istnieje tylko jedno? — No, mówimy tak — odpowiedzą. — Czy nie?
+
+Teajtet: Tak.
+
+Gość: Więc cóż? Bytem nazywacie coś?
+
+Teajtet: Tak.
+
+Gość: Czy to samo, co nazywacie jednym? Jedno i to samo nazywacie dwiema nazwami, czy jak?
+
+Teajtet: A jakaż byłaby dalsza odpowiedź, zaraz po tej, Gościu?
+
+Gość: To jasna rzecz, Teajtecie, że człowiekowi, który by zajmował to stanowisko, nie jest zbyt łatwo odpowiadać na obecne pytanie ani na jakiekolwiek inne.
+
+Teajtet: Jak to?
+
+Gość: Bo przyjmować nazwy dwie, nie zakładając nic więcej oprócz jednego — to chyba śmiesznie.
+
+Teajtet: Jakżeby nie?
+
+Gość: A w ogóle: pozwolić komuś twierdzić, że sama nazwa jest czymś, nie miałoby sensu.
+
+Teajtet: Jak to?
+
+Gość: Bo kto zakłada nazwę różną od rzeczy, ten chyba przyjmuje dwa „cosie”.
+
+Teajtet: Tak.
+
+Gość: A jeżeli przyjmie, że nazwa i rzecz to jedno i to samo, to będzie musiał albo powiedzieć, że to jest nazwa niczego w ogóle, a jeżeli powie, że czegoś, to mu wyjdzie, że to tylko nazwa nazwy i niczego więcej.
+
+Teajtet: Tak.
+
+Gość: I że to jedno jest nazwą jednego i że znowu ten jeden byt to tylko nazwa.
+
+Teajtet: Koniecznie.
+
+Gość: No cóż? A wszystko, powiedzą, jest czymś innym od jednego bytu, czy tym samym co on?
+
+Teajtet: Jakże nie powiedzą? Oni to mówią.
+
+Gość: Ale jeżeli wszechświat jest, jak to i Parmenides mówi:
+
+
+Zewsząd do kuli porządnie okrągłej podobna ta masa,
+W każdą stronę od środka jednaki ciężar zawiera,
+Tędy ani tamtędy nic więcej w niej nie ma i nic mniej —
+
+więc jeżeli wszechświat jest taki, to ma środek i krańce. A jeżeli to ma, to koniecznie musi mieć części. Czy jak?
+
+Teajtet: Tak.
+
+Gość: Ale nic nie przeszkadza, żeby całość dzieląca się na części, z których każda jest czymś jednym, była i tak jedną całością, jak jest całym bytem.
+
+Teajtet: Czemu nie?
+
+Gość: Ale jeżeli ona jest taka, to czy nie jest rzeczą niemożliwą, żeby to była sama jedność?
+
+Teajtet: Jak to?
+
+Gość: Przecież, na rozum powiedziawszy, to, co naprawdę jest jednością, musi być bezwzględnie niepodzielne.
+
+Teajtet: No, powinno być.
+
+Gość: A coś takiego składa się z wielu części, więc to się nie zgodzi z tym pojęciem.
+
+Teajtet: Ja rozumiem.
+
+Gość: Więc czy byt ma cechę jedności i w ten sposób ma być czymś jednym i całością, czy też w ogóle nie mówmy, że byt stanowi całość?
+
+Teajtet: Przed trudnym mnie stawiasz wyborem.
+
+Gość: Świętą prawdę mówisz. Bo zdaje się, że jeżeli byt jakoś tam jest czymś jednym, to widocznie nie jest tym samym co jedność i wszechrzeczy będzie więcej niż jedna.
+
+Teajtet: Tak.
+
+Gość: Ale jeżeli byt nie jest całością dlatego, że nosi tamtą cechę: jedności, a istniałaby całość sama dla siebie, to wychodzi, że bytowi zabrakłoby bytu.
+
+Teajtet: Tak jest.
+
+Gość: I z tej samej racji byt pozbawiony siebie samego, nie będzie bytem.
+
+Teajtet: Tak.
+
+Gość: I znowu wszystkiego zaczyna się robić więcej niż jedno, jeżeli i byt, i całość, a więc i jedno, i drugie przybiera każde swoją osobną naturę.
+
+Teajtet: Tak.
+
+Gość: A jeżeli całość w ogóle nie istnieje, to ta sama cecha przysługuje bytowi i byt nie tylko nie istnieje, ale nigdy nie mógłby był powstać.
+
+Teajtet: Jakże to?
+
+Gość: Cokolwiek powstaje, zawsze powstaje jako całość. Tak że ani istnienia, ani powstawania nie można przypisać całości, jeżeli się nie założyło, że całość należy do bytów.
+
+Teajtet: Ze wszech miar zdaje się, że to tak jest.
+
+Gość: O tak. I co nie jest całością, to nie może też być jakkolwiek bądź wielkie. Bo mając jakąś wielkość, jakakolwiek by ona była, musiałoby być odpowiedniej wielkości całością.
+
+Teajtet: Oczywiście.
+
+Gość: Otóż setki innych zagadnień — każde najeżone nieskończonymi trudnościami — wynurzają się przed każdym, kto powie, że byt to są jakieś dwa pierwiastki czy też tylko jeden.
+
+Teajtet: To widać i z tego, co się teraz już pokazało, bo to się ciągnie jedno za drugim i powoduje coraz większe i coraz cięższe błąkanie się w związku z tym, co się przedtem mówiło.
+
+XXXIII. Gość: Myśmy nie przeszli wszystkich, którzy się wymądrzają na temat bytu i niebytu, ale dość już i tego. Trzeba z kolei zobaczyć tych, którzy mówią inaczej, żebyśmy się od wszystkich dowiedzieli, że czy to chodzi o byt, czy o niebyt, wcale nie jest łatwiej powiedzieć, czym właściwie jest jedno lub drugie.
+
+Teajtet: Nieprawdaż, trzeba pójść i do tych.
+
+Gość: O tak. Tam między nimi, zdaje się, wre jakaś walka olbrzymów; tak się kłócą jedni z drugimi o istnienie.
+
+Teajtet: Jak to?
+
+Gość: Jedni z nich z nieba i ze świata niewidzialnego wszystko na ziemię ściągają, po prostu rękami skały i drzewa obejmując. Bo dotykając wszystkich takich rzeczy, upierają się przy tym, że istnieje to tylko, co można uderzyć i czego można jakoś dotknąć, określają ciało i istnienie jako jedno i to samo, a jeżeli ktoś inny powie, że istnieje coś, co ciała nie ma, gardzą nim w ogóle i nie chcą już niczego dalej słuchać.
+
+Teajtet: Doprawdy straszne typy wymieniłeś. Ja już niejednego takiego spotkałem.
+
+Gość: Toteż ci, co z nimi walczą, bardzo ostrożnie dla swej obrony, z góry, ze świata niewidzialnego, skądś tam ściągają jakieś tylko dla umysłu dostępne i bezcielesne idee (postacie) i twierdzą uparcie, że one są tym, co istnieje naprawdę. A tamte ich ciała i tę tak zwaną przez tamtych prawdę na drobne kawałki w dyskusjach kruszą i nazywają to dziedziną powstawania, która wciąż jest w ruchu, a nie: dziedziną istnienia. I o to, Teajtecie, toczy się między nimi wiecznie niesłychana walka.
+
+Teajtet: To prawda.
+
+Gość: Więc od obu stron po kolei weźmy sprawozdanie o tym, co one zakładają jako istnienie.
+
+Teajtet: Więc jak my je dostaniemy?
+
+Gość: Od tych, którzy je przyjmują w ideach, łatwiej je dostać. Bo ci są łagodniejsi. Ale od tych, którzy wszystko gwałtem do ciała ściągają, trudniej. A może nawet to będzie po prostu niemożliwe. Ja jednak myślę, że z nimi tak trzeba zrobić.
+
+Teajtet: Jak?
+
+Gość: Przede wszystkim, gdyby to tylko było jakoś możliwe, zrobić ich rzeczywiście lepszymi. A jeżeli się nie da, to zróbmy ich takimi w myśli i załóżmy, że oni by chcieli odpowiadać poprawniej, niż to robią teraz. Bo więcej znaczy to, na co się zgodzą ludzie lepsi, niż to, na co gorsi. Ale my się o to nie troszczymy, tylko szukamy prawdy.
+
+Teajtet: Zupełnie słusznie.
+
+XXXIV. Gość: Więc ich poproś, skoro się poprawili, żeby ci odpowiadali, a ty tłumacz to, co oni powiedzą.
+
+Teajtet: Tak będzie.
+
+Gość: Więc niech powiedzą, czy twierdzą, że istnieje jakaś śmiertelna istota żywa.
+
+Teajtet: Jakżeby nie?
+
+Gość: A czy zgadzają się, że to jest ciało, w którym jest dusza?
+
+Teajtet: Tak jest.
+
+Gość: Przyjmują, że pewien byt jest duszą?
+
+Teajtet: Tak.
+
+Gość: No cóż? A czy nie mówią, że jedna dusza jest sprawiedliwa, a druga niesprawiedliwa, i jedna rozumna, a druga głupia?
+
+Teajtet: No tak.
+
+Gość: A czy to nie dzięki posiadaniu sprawiedliwości, przez to, że jest w niej sprawiedliwość, staje się taką każda dusza, a gdy w niej tkwi coś przeciwnego, robi się przeciwna?
+
+Teajtet: Tak. Oni się zgodzą i na to.
+
+Gość: A czy zgodzą się, że to, co może w czymś tkwić lub nie tkwić, jest czymś w każdym razie?
+
+Teajtet: No, oni to przyznają.
+
+Gość: Więc jeśli istnieje sprawiedliwość i rozum, i inne dzielności, oraz ich przeciwieństwa, i jeśli istnieje dusza, w której te rzeczy tkwią, czy oni mówią, że coś z tego jest widzialne i dotykalne, czy też, że to wszystko jest niewidzialne?
+
+Teajtet: Bodaj że to wszystko jest niewidzialne.
+
+Gość: A jeżeli chodzi o takie rzeczy, to mówią, że coś z nich ma ciało?
+
+Teajtet: Na to pytanie oni w ogóle nigdy nie odpowiadają jednakowo. Uważają, że tylko dusza ma jakieś ciało, a jeżeli chodzi o rozum i te inne rzeczy, wymienione w twoim pytaniu, to wstydzą się; nie mają odwagi powiedzieć ani tego, że te rzeczy nie istnieją, ani się upierać przy tym, że to wszystko są ciała.
+
+Gość: To dla nas już jasne, Teajtecie, że się ci ludzie poprawili, bo takie rodzime typy spośród nich, co to wyrosły z ziemi i ze smoczych zębów, ci by się nie wstydzili żadnego z tych twierdzeń, utrzymywaliby uparcie, że w ogóle nie istnieje nic, czego nie potrafią zdusić w rękach.
+
+Teajtet: Mówisz mniej więcej to, co oni myślą.
+
+Gość: Więc zapytajmy ich na nowo. Bo jeżeli zechcą się zgodzić na jakiś, choćby i niewielki, byt bezcielesny, to wystarczy. Niech powiedzą, co jest wspólne i tym rzeczom, i tym, które mają ciało z nimi od urodzenia zrosłe, i co oni pod uwagę biorą, mówiąc, że jedne i drugie istnieją. Może być, że nie będą wiedzieli, co odpowiedzieć, to uważaj, kiedy im zaproponujemy, może by zechcieli przyjąć i zgodzić się, że byt jest czymś takim.
+
+Teajtet: Jakim? Powiedz! Zaraz będziemy wiedzieli.
+
+Gość: Więc mówię, że to, co posiada jakąkolwiek możność — czy to żeby zmienić cokolwiek dowolnej natury, czy też żeby doznać choćby czegoś najdrobniejszego pod wpływem czegoś najdrobniejszego, i to choćby tylko raz jeden — że to wszystko istotnie istnieje. Bo taką daję definicję określającą byt: to nie jest nic innego, jak tylko możność.
+
+Teajtet: No, oni sami na razie nie umieją podać lepszej, więc przyjmą i tę.
+
+Gość: Pięknie. Może być, że kiedyś później i nam, i im rzecz się będzie przedstawiała inaczej. Więc jeżeli chodzi o tych, to zostańmy przy tym stanowisku, tutaj wspólnie przyjętym.
+
+Teajtet: Zostajemy.
+
+XXXV. Gość: A do tych drugich pójdźmy, do przyjaciół idei. A ty nam tłumacz stanowisko także i tych.
+
+Teajtet: Tak będzie.
+
+Gość: Wy rozróżniacie jako coś oddzielnego: powstawanie i istnienie? Czy tak?
+
+Teajtet: Tak.
+
+Gość: I mówicie, że my ciałem za pośrednictwem wrażeń zmysłowych uczestniczymy w powstawaniu, a za pośrednictwem rozumu uczestniczymy duszą w istotnym bycie, o którym mówicie, że jest zawsze taki sam pod tym samym względem, a powstawanie jest raz takie, a raz inne.
+
+Teajtet: No, mówimy tak.
+
+Gość: A to uczestniczenie, moi najlepsi, jak mamy to rozumieć? Wy to mówicie o jednych i o drugich. Czy nie tak, jak użyliśmy przed chwilą tego wyrazu?
+
+Teajtet: Jak?
+
+Gość: To jest stan bierny albo stan czynny, wynikający z jakiejś możności, kiedy się jedno zejdzie z drugim. Może być Teajtecie, że ty nie dosłyszysz ich odpowiedzi na to pytanie, a ja lepiej, bom przywykł.
+
+Teajtet: Więc jaką oni myśl wypowiadają?
+
+Gość: Oni się z nami nie zgadzają w tym, cośmy przed chwilą powiedzieli synom ziemi o istnieniu.
+
+Teajtet: W czym?
+
+Gość: Myśmy podali jako wystarczające określenie bytów, jeżeli czemuś przysługuje możność, żeby doznawać albo działać, choćby w najdrobniejszej mierze?
+
+Teajtet: Tak.
+
+Gość: Oni na to mówią, że w powstawaniu tkwi możność doznawania i działania, a do istnienia nie pasuje możność ani jedna, ani druga.
+
+Teajtet: Czyż w ten sposób mówią coś do rzeczy?
+
+Gość: My na to musimy powiedzieć, że pragniemy się od nich jeszcze dowiedzieć dokładniej, czy się oprócz tego nie zgodzą, że dusza poznaje, a byt jest poznawany.
+
+Teajtet: Przecież oni to mówią.
+
+Gość: No cóż? A poznawać i być poznawanym wy to nazywacie stanem czynnym, czy biernym, czy jednym i drugim? Czy też jedno to stan bierny, a drugie — czynny? Czy też ani jedno, ani drugie nie uczestniczy w niczym takim?
+
+Teajtet: Jasna rzecz, że ani jedno, ani drugie w niczym takim. Bo inaczej mówiliby coś sprzecznego z tym, co przed chwilą.
+
+Gość: Ja rozumiem; tyle przynajmniej, że jeśli poznawanie będzie czynnością, to w stanie biernym zostawać musi to, co jest poznawane. Więc byt, według tego poglądu, ponieważ jest przedmiotem poznawania dla intelektu, musi, o ile jest poznawany, o tyle zostawać w ruchu, ponieważ doznaje czegoś, a twierdzimy, że to by się nigdy dziać nie mogło z czymś, co by zostawało w spokoju.
+
+Teajtet: Słusznie.
+
+Gość: No cóż tam, na Zeusa? Czy my się naprawdę damy tak łatwo przekonać, że byt bezwzględny i doskonały nie ma w sobie ruchu i życia, i duszy, i rozumu, że ani nie żyje, ani nie myśli, tylko uroczysty i święty, bez rozumu i bez ruchu, trwa na miejscu?
+
+Teajtet: Tobyśmy się na straszny pogląd zgodzili. Doprawdy, Gościu.
+
+Gość: Więc powiemy, że rozum ma, tylko życia nie?
+
+Teajtet: Jakże tak?
+
+Gość: Więc powiemy, że jest w nim i jedno, i drugie, tylko że on ich nie ma w duszy?
+
+Teajtet: A w jakiż inny sposób mógłby je mieć?
+
+Gość: Więc niby, że ma rozum i życie, i duszę, tylko że całkowicie nieruchomo stoi, choć ma duszę w sobie?
+
+Teajtet: To mi się wszystko wydaje bez sensu.
+
+Gość: Więc trzeba przyznać, że i to, co się porusza, i ruch istnieje.
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc wynika, Teajtecie, że jeśli ruch nie istnieje, to dla nikogo nie ma nigdy nigdzie rozumnego poznania.
+
+Teajtet: Całkowicie.
+
+Gość: No tak, ale jeżeli znowu przyznamy, że wszystko się rusza i lata, to tym poglądem również usuniemy z dziedziny bytu rozum.
+
+Teajtet: Jak?
+
+Gość: Czy ty myślisz, że tożsamość i niezmienność przedmiotu może kiedykolwiek powstać bez stanu spoczynku?
+
+Teajtet: Nigdy.
+
+Gość: No cóż? I bez tego, czy widzisz gdziekolwiek, żeby rozum istniał lub powstawał?
+
+Teajtet: Bynajmniej.
+
+Gość: A z takim człowiekiem trzeba walczyć przy pomocy wszelkich argumentów, który ruguje wiedzę albo rozum, albo umysł, a upiera się przy jakimkolwiek twierdzeniu.
+
+Teajtet: Bardzo energicznie.
+
+Gość: Więc filozof, który te rzeczy ceni najwyżej, powinien wobec tego bezwzględnie nie zgadzać się ani z tymi, którzy przyjmują jedną albo więcej idei i pojmują wszechświat jako stojący, a wcale nie powinien słuchać tych, którzy byt na wszelki sposób w ruch wprowadzają, tylko powinien — tak jak się dzieci modlą: „wszystko, co się rusza i co się nie rusza” bytowi i wszem rzeczom przypisywać i ruch, i spoczynek.
+
+Teajtet: Święta prawda.
+
+XXXVI. Gość: Więc cóż? Czy już widać, żeśmy należycie myślą ogarnęli byt?
+
+Teajtet: Tak jest.
+
+Gość: Ach, doprawdy, Teajtecie, ja mam wrażenie, że my teraz dopiero poznamy beznadziejność rozważań na ten temat.
+
+Teajtet: Co znowu i co też ty mówisz?
+
+Gość: Poczciwa duszo! Czy nie widzisz, że teraz jesteśmy na dnie niewiedzy o bycie, a zdaje się nam, że coś o nim mówimy do rzeczy? Nam samym.
+
+Teajtet: No, mnie się tak wydaje. Ale jak to się właściwie stało, że my o tym swoim stanie nie wiemy, w tym się nie bardzo orientuję.
+
+Gość: Przypatrzże się jaśniej i zobacz, czy przyjmując wspólnie to stanowisko teraz, nie moglibyśmy się słusznie narazić na to samo pytanie, któreśmy wtedy zadali tym, co to mówią, że wszystko jest czymś ciepłym i czymś zimnym.
+
+Teajtet: Jakie pytanie? Przypomnij mi.
+
+Gość: Tak jest. Ja spróbuję to zrobić i zapytam ciebie tak samo, jak ich wtedy, abyśmy się też trochę posunęli naprzód.
+
+Teajtet: Słusznie.
+
+Gość: No niech tam. Czy ty nie uważasz, że ruch i spoczynek to największe przeciwieństwa wzajemne?
+
+Teajtet: Jakżeby nie?
+
+Gość: No tak. I mimo to mówisz, że istnieją oba razem i każde z osobna?
+
+Teajtet: No, mówię przecież.
+
+Gość: Czy ty mówisz, że porusza się jedno i drugie razem i każde z osobna, kiedy przyjmujesz, że istnieją?
+
+Teajtet: W żaden sposób.
+
+Gość: Więc mówisz, że oba stoją, twierdząc, że oba istnieją?
+
+Teajtet: Jakim sposobem?
+
+Gość: Więc byt uważasz w duszy za coś trzeciego, co obejmuje i spoczynek, i ruch; zbierasz je razem i zważywszy, że one uczestniczą w istnieniu, mówisz o nich obu, że istnieją?
+
+Teajtet: Kto wie, może być, że my naprawdę odgadujemy byt jako coś trzeciego, kiedy mówimy, że ruch i spoczynek istnieją.
+
+Gość: Zatem nie ruch i spoczynek, razem wzięte, stanowią byt, tylko byt to jest coś od nich różnego.
+
+Teajtet: Zdaje się.
+
+Gość: Więc jeżeli chodzi o jego własną naturę, to byt ani nie stoi, ani się nie rusza.
+
+Teajtet: Chyba tak.
+
+Gość: Więc dokąd jeszcze powinien swoją myśl obrócić ktoś, kto sobie chce coś jasnego ustalić o bycie?
+
+Teajtet: Rzeczywiście, dokąd?
+
+Gość: Mam wrażenie, że już w żadną stronę nie jest łatwo. Bo jeżeli się coś nie rusza, to jakże nie ma zostawać w spoczynku? Albo to, co w żadnym sposobie nie stoi, jakże powiedzieć, że się nie rusza? A tu się nam byt pokazuje poza jednym i drugim. Czy to jest rzecz możliwa?
+
+Teajtet: Ależ to najbardziej niemożliwe ze wszystkich niemożliwości.
+
+Gość: Zatem to sobie warto przypomnieć w dodatku.
+
+Teajtet: Co takiego?
+
+Gość: Że kiedy nas zapytano, co właściwie należy oznaczać mianem niebytu, znaleźliśmy się w kłopocie niesłychanym. Pamiętasz?
+
+Teajtet: Jakżeby nie?
+
+Gość: A jesteśmy chyba w nie mniejszym, kiedy idzie o byt?
+
+Teajtet: Mnie się, Gościu, wydaje, że jeśli tak można powiedzieć, jesteśmy w kłopocie jeszcze większym.
+
+Gość: Zatem ta sprawa niech tu leży nierozwiązana. Ale ponieważ i byt, i niebyt zarówno w jednakich mętach toną, więc świta promyk nadziei, że o ile się jedno lub drugie z nich okaże bardziej mętne albo i bardziej jasne, tak samo się przedstawi i drugie. A jeżeli ani jednego, ani drugiego dojrzeć nie potrafimy, to jednak tę rozmowę, jak tylko będziemy mogli najprzyzwoiciej dla nich obu, doprowadzimy do końca.
+
+Teajtet: Pięknie.
+
+Gość: Więc powiedzmy, jak też to się dzieje, że my zawsze jedno i to samo nazywamy wieloma nazwami.
+
+Teajtet: Na przykład co? Przykład podaj.
+
+XXXVII. Gość: Więc powiedzmy: człowiekowi nadajemy liczne tam nazwy, przypisując mu barwy i kształty, i wielkości, i wady, i zalety; w tych zwrotach i w setkach takich innych mówimy nie tylko to, że on jest człowiekiem, ale też, że jest dobry i jakiś tam inny. W ten sam sposób o każdym danym przedmiocie, zakładając, że jest jeden, mówimy wiele rzeczy z pomocą wielu orzeczników.
+
+Teajtet: To prawda.
+
+Gość: I w ten sposób, mam wrażenie, zgotowaliśmy ucztę dla młodych ludzi i dla starszych panów, tych, którzy się późno uczyć zaczęli. Bo zaraz każdemu łatwo się uczepić, że to niemożliwe, żeby wiele było jednym, a jedno żeby było i tym, i owym, więc się bawią i nie pozwalają mówić, że człowiek jest dobry, tylko że dobry jest dobry, a człowiek jest człowiek. Spotykasz, Teajtecie, nieraz, jak sądzę, takich, którzy tego rodzaju rzeczy serio biorą. Nieraz i starsi ludzie z powodu ubóstwa umysłowego podziwiają takie koncepty i zdaje się im, że coś strasznie mądrego w tym pomyśle wynaleźli.
+
+Teajtet: Tak jest.
+
+Gość: Więc żeby się rozprawić ze wszystkimi, którzy kiedykolwiek coś mówili o istnieniu, chociażby coś nieznacznego, niech to, co teraz powiemy w formie pytań, pójdzie pod ich adresem i tych innych, z którymiśmy przedtem rozmawiali.
+
+Teajtet: Więc co to takiego?
+
+Gość: Czy my nie mamy doczepiać istnienia ani do ruchu i spoczynku, ani też nic innego do niczego innego, ale mamy przyjmować, że byty nie mają się z sobą mieszać i jeden nie może w drugim uczestniczyć, czy mamy ściągnąć wszystko — do tego samego, bo wszystko może uczestniczyć we wszystkim? Czy też jedne rzeczy tak, a drugie nie? Czy moglibyśmy powiedzieć, Teajtecie, którą z tych ewentualności oni wybiorą?
+
+Teajtet: Ja tam w ich imieniu nie mam na to żadnej odpowiedzi.
+
+Gość: A czemu byś nie miał na to odpowiadać po jednemu i patrzeć, co za każdym razem wyniknie.
+
+Teajtet: Dobrze mówisz.
+
+Gość: Więc przyjmijmy, jeżeli chcesz, naprzód, że oni mówią tak: nic nie może mieć żadnej wspólności z niczym. Nieprawda, że wtedy ruch i spoczynek w żaden sposób nie będą miały udziału w istnieniu?
+
+Teajtet: No, nie będą.
+
+Gość: No cóż? A czy jeszcze będzie którekolwiek z nich, jeżeli nie będzie miało udziału w istnieniu?
+
+Teajtet: Nie będzie.
+
+Gość: I zaraz ta nasza uchwała przewróciła wszystko do góry nogami. Zdaje się, że obaliła i stanowisko tych, którzy wszystko w ruch puszczają, i tych, którzy wszystko jako jedność trzymają w spoczynku, i tych, co przyjmują idee i sądzą, że są niezmienne i wieczne. Bo oni wszyscy przyczepiają to „istnieć, być”. Jedni, mówiąc, że wszystko jest istotnie w ruchu, drudzy, że ono jest istotnie w spoczynku!
+
+Teajtet: No, całkowicie tak.
+
+Gość: Ale i ci, co to raz zbierają wszystko do kupy, a raz rozdzielają, czy to w jedną zbierają całość i jedną na nieskończoną ilość pierwiastków rozdzielają, czy też ją na skończoną ilość pierwiastków rozbierają i z tych ją znowu składają— wszystko jedno, czy zakładają, że to się dzieje kolejno, czy stale tak — oni w tym wszystkim nie mówią nic do rzeczy, jeżeli nie istnieje żadne mieszanie się.
+
+Teajtet: Słusznie.
+
+Gość: Więc najzabawniejsze ze wszystkich stanowisko zajmowaliby ci, którzy niczego nie pozwalają nazywać inaczej, co uczestniczy w jakimś innym stanie.
+
+Teajtet: Jak to?
+
+Gość: Przecież w odniesieniu do każdej rzeczy muszą się posługiwać słowem „być” i „osobno”, i „od innych”, i „samo dla siebie”, i setkami innych. Nie mają siły powstrzymać się od nich i nie przyczepiać ich, kiedy mówią. Nie potrzeba im, żeby ich ktoś inny zbijał; mają, jak to się mówi, wroga we własnym domu. On się z nich samych, im samym na przekór, odzywa i tak go wciąż w sobie noszą jak jakiegoś osobliwego Euryklesa.
+
+Teajtet: To zupełnie podobne, to, co mówisz, i to prawda.
+
+Gość: A co, gdybyśmy wszystkiemu zostawili możność uczestniczenia w sobie nawzajem?
+
+Teajtet: To już nawet i ja potrafię rozwiązać.
+
+Gość: Jak?
+
+Teajtet: Że sam ruch stanąłby zaraz bezwarunkowo, a sam spoczynek odwrotnie: zacząłby się ruszać, gdyby jedno wpadło na drugie.
+
+Gość: Ale to przecież najbardziej bezwzględna konieczność wyklucza, żeby ruch stał i żeby się stan spoczynku poruszał.
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc zostaje tylko to trzecie.
+
+Teajtet: Tak.
+
+XXXVIII. Gość: Więc jedna z tych trzech ewentualności musi zachodzić: Albo wszystko się może mieszać ze wszystkim, albo nic z niczym, albo jedne rzeczy z drugimi tak, a inne nie.
+
+Teajtet: Jakżeby nie?
+
+Gość: A pokazało się, że dwie ewentualności są niemożliwe.
+
+Teajtet: Tak.
+
+Gość: Więc kto chce dać słuszną odpowiedź, przyjmie ewentualność pozostałą.
+
+Teajtet: Całkowicie.
+
+Gość: Więc kiedy jedne rzeczy chcą się łączyć, a drugie nie chcą, to z nimi jest mniej więcej tak, jak z literami. Bo jedne z nich też jakoś nie pasują do siebie nawzajem, a inne pasują.
+
+Teajtet: Jakżeby nie?
+
+Gość: A samogłoski w odróżnieniu od innych liter, niby oś wiążąca, między wszystkimi literami poruszają się tak, że bez jakiejś samogłoski żadna inna litera nie może pasować do drugiej.
+
+Teajtet: Z pewnością.
+
+Gość: Więc to każdy wie, jakie litery mogą się wiązać z jakimi, czy też potrzeba umiejętności, żeby to móc robić należycie?
+
+Teajtet: Umiejętności.
+
+Gość: Jakiej?
+
+Teajtet: Gramatyki.
+
+Gość: No cóż? A z wysokimi i niskimi dźwiękami czy nie to samo? i Komu umiejętność pozwala rozpoznawać te, co się mieszają, i te, co nie, ten jest muzyk, a kto się na tym nie zna — ten niemuzykalny.
+
+Teajtet: Tak.
+
+Gość: I w innych umiejętnościach i nieumiejętnościach znajdziemy inne podobne stosunki.
+
+Teajtet: Jakżeby nie?
+
+Gość: No cóż? Skorośmy się zgodzili, że z mieszaniem się rodzajów jest tak samo, czy nie potrzebuje pewnej wiedzy, żeby się móc posuwać w dyskusji, ten, kto by miał słusznie pokazać, jakie rodzaje zgadzają się z jakimi, a jakie się nawzajem nie znoszą? I w ogóle, czy niektóre z nich nie obejmują innych tak, że te się mogą mieszać, i na odwrót, kiedy się rodzaje trzymają z daleka, czy inne nie są powodem tego rozdzielenia?
+
+Teajtet: Jakże się to może obejść bez wiedzy? Do tego potrzeba wiedzy, bodaj że największej.
+
+XXXIX. Gość: Jakże my ją nazwiemy, Teajtecie? A możeśmy, na Zeusa, nieświadomie wpadli na wiedzę ludzi wolnych i kto wie, czy szukając sofisty, nie znaleźliśmy filozofa.
+
+Teajtet: Jak mówisz?
+
+Gość: Dzielić rzeczy na rodzaje i ani tego samego gatunku rzeczy nie brać za inny, ani innego za ten sam, czy nie powiemy, że to rzecz wiedzy dialektycznej?
+
+Teajtet: Tak jest. Powiemy.
+
+Gość: Nieprawdaż? Kto to robić potrafi, ten należycie dostrzega, jak się jedna postać ciągnie poprzez wiele rodzajów, chociaż każdy z nich leży osobno. I jak wiele różnych od siebie jedna postać z zewnątrz obejmuje i jak się jedna poprzez wiele rodzajów w jedno łączy, i jak się ich wiele wyróżnia, określonych z każdej strony. Na tym polega wiedza, która pozwala rozstrzygać o każdym rodzaju, czy i jak on się może wiązać z innym, czy też i jak nie.
+
+Teajtet: Ze wszech miar.
+
+Gość: A umiejętność dialektyczną, zdaje mi się, przyznasz nie komu innemu, tylko temu, kto się oddaje filozofii czysto i sprawiedliwie!
+
+Teajtet: Jakżeby ją ktoś mógł przyznać komuś innemu?
+
+Gość: Zatem filozofa i teraz, i później w jakimś takim miejscu odnajdziemy, jeżelibyśmy go szukali. Jasno go zobaczyć też nie jest łatwo. Ale inna jest trudność z sofistą, a inna z nim.
+
+Teajtet: Jak to?
+
+Gość: Jeden ucieka w mroki niebytu, przystosowany do nich zawodowo — tam jest tak ciemno, że rozpoznać go trudno. Czy nie?
+
+Teajtet: Zdaje się.
+
+Gość: A filozof w swoich rozumowaniach oddaje się zawsze oglądaniu postaci bytu wiecznego. Koło niego znowu jest tak jasno, że w żaden sposób dojrzeć go niełatwo. Duchowe oczy szerokich kół nie potrafią strzymać tego, co boskie, i słabną.
+
+Teajtet: Zdaje się, że i to tak jest. Nie mniej niż tamto.
+
+Gość: Nieprawdaż, o filozofie pogadamy sobie niezadługo jaśniej, jeżeli się nam jeszcze zechce. A jeżeli chodzi o sofistę, to chyba jasne, że nie trzeba ustawać, zanim go należycie nie obejrzymy.
+
+Teajtet: Dobrześ powiedział.
+
+XL. Gość: Otóż, skorośmy się zgodzili, że jedne rodzaje chcą się wiązać z drugimi, a inne nie, i jedne mało co, a inne w wielu wypadkach, a innym jeszcze nawet nic nie przeszkadza doczepiać się do wszystkich rodzajów — to pójdźmy trochę naprzód w naszej rozmowie i popatrzmy w tę stronę; nie zajmujmy się wszystkimi postaciami, abyśmy się nie zgubili w tej ciżbie, tylko wybierzmy sobie naprzód niektóre z tych tak zwanych największych i popatrzmy naprzód, jaka jest każda z nich, a potem, jaką ma możność wiązania się z innymi, żebyśmy, jeśli już bytu i niebytu nie potrafimy uchwycić z zupełną jasnością, jednak nie byli pozbawieni wszelkiego ich ujęcia, o ile tylko na to pozwala sposób naszego obecnego rozważania; może się nam jakoś przecież uda ujść bezkarnie, jeżeli będziemy mówili, że niebyt jest istotnie niebytem.
+
+Teajtet: No, trzeba.
+
+Gość: Więc największe rodzaje to te, któreśmy właśnie teraz przeszli: byt sam i spoczynek, i ruch.
+
+Teajtet: Bez porównania największe.
+
+Gość: I powiedzieliśmy, prawda, że dwa z nich nie mogą się mieszać z sobą.
+
+Teajtet: Stanowczo tak.
+
+Gość: A byt może się mieszać z obydwoma. Istnieją przecież oba.
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc to są trzy rzeczy?
+
+Teajtet: No cóż?
+
+Gość: I prawda, że każda z nich jest czymś różnym od dwóch pozostałych, a sama z sobą identyczna?
+
+Teajtet: Tak.
+
+Gość: Ale co to jest to, co myśmy tak w tej chwili wypowiedzieli, to: identyczne i różne. Czy to są jakieś dwa rodzaje, inne od tamtych trzech, i one się z tamtymi zawsze z konieczności łączą i trzeba brać nie trzy, ale pięć klas bytów pod uwagę, czy też sami nie wiemy, że to identyczne i to różne — to jest jeden z tamtych trzech rodzajów?
+
+Teajtet: Może być.
+
+Gość: Ale chyba ruch i spoczynek to nie jest ani tym różnym, ani tym identycznym.
+
+Teajtet: Jak to?
+
+Gość: Bo cokolwiek byśmy wspólnie orzekli o ruchu i spoczynku, to nie może być ani tym, ani tym drugim.
+
+Teajtet: No czemu?
+
+Gość: Bo ruch stanie, a spoczynek się zacznie ruszać. Bo jak na jedno czy drugie z nich przyjdzie to różne, to zmusi jedno i drugie do tego, żeby swoją naturę zmieniło na coś przeciwnego, bo ono brałoby udział w swym przeciwieństwie.
+
+Teajtet: Zupełnie tak.
+
+Gość: A jedno i drugie bierze udział i w tożsamości, i w różności.
+
+Teajtet: Tak.
+
+Gość: Więc nie mówmy, że ruch jest tym samym lub różnym ani też spoczynek.
+
+Teajtet: No nie.
+
+Gość: A może byt i tożsamość wypadnie nam brać za coś jednego?
+
+Teajtet: Może.
+
+Gość: Ależ jeżeli byt i tożsamość nie oznaczają niczego różnego, to kiedy przypisujemy byt ruchowi i spoczynkowi zarówno, to je będziemy uważali za toż samo, uważając je oba za coś istniejącego.
+
+Teajtet: Ależ to niemożliwe.
+
+Gość: Zatem byt i tożsamość nie może być jednym i tym samym.
+
+Teajtet: No chyba.
+
+Gość: Zatem jako czwarty rodzaj do tamtych trzech mamy dodać tożsamość?
+
+Teajtet: Tak jest.
+
+Gość: No cóż? A czy mamy powiedzieć, że różność to rodzaj piąty? Czy też to i byt trzeba uważać za dwie nazwy dla jednego rodzaju?
+
+Teajtet: A może by?
+
+Gość: Ja jednak myślę, że — ty się zgodzisz — spośród bytów o jednych się mówi zawsze jako o samych dla siebie, a o drugich w stosunku do innych.
+
+Teajtet: Czemu nie?
+
+Gość: A różne to zawsze w stosunku do czegoś różnego. Czy nie?
+
+Teajtet: Tak.
+
+Gość: Tak by nie było, gdyby się przecież byt i różność nie różniły gwałtownie. Gdyby i drugie z nich mogło uczestniczyć w obu ideach tak jak byt, toby i z dwóch rzeczy różnych jedna mogła być różna nie w stosunku do drugiej. A tymczasem wychodzi nam całkiem po prostu, że cokolwiek byłoby różne, to z konieczności jest tym, czym jest, w stosunku do czegoś drugiego.
+
+Teajtet: Mówisz tak, jak jest.
+
+Gość: Zatem mamy powiedzieć, że natura różności to piąta postać z tych, które sobie wybieramy.
+
+Teajtet: Tak.
+
+Gość: I powiemy, że ona przenika je wszystkie. Bo każda z nich jest czymś różnym — nie dzięki swojej własnej naturze, tylko dlatego, że bierze udział w idei różności.
+
+Teajtet: Stanowczo tak.
+
+XLI. Gość: A teraz tak powiedzmy o tych pięciu, biorąc je po jednej pod uwagę.
+
+Teajtet: Jak?
+
+Gość: Naprzód o ruchu, że jest ze wszech miar czymś różnym od spoczynku. Czy jak powiemy?
+
+Teajtet: Tak.
+
+Gość: Zatem to nie jest spoczynek.
+
+Teajtet: Żadną miarą.
+
+Gość: A istnieje dlatego, że ma w sobie byt.
+
+Teajtet: Istnieje.
+
+Gość: A dalej, ruch to jest coś różnego od tożsamości.
+
+Teajtet: No chyba.
+
+Gość: Więc on nie jest ten sam.
+
+Teajtet: No nie.
+
+Gość: Ale jest ten sam, bo tożsamość mają w sobie wszystkie rzeczy.
+
+Teajtet: I bardzo.
+
+Gość: Więc trzeba się zgodzić, że ruch jest ten sam i nie ten sam, i nie ma się co o to martwić. Bo kiedyśmy powiedzieli, że on jest ten sam i nie ten sam, to nie w tym samym znaczeniu, tylko gdyśmy go nazwali tym samym, to dlatego, że ma tożsamość w sobie, a gdy nie tym samym, to dlatego, że ma w sobie różność, dzięki czemu odgraniczał się od tożsamości i zrobił się nie tym samym, co ona, tylko czymś różnym. Tak, że słusznie się znowu nazywa nie ten sam.
+
+Teajtet: Tak jest.
+
+Gość: Nieprawdaż? I gdyby w jakiś sposób ruch uczestniczył w spoczynku, to nic by w tym nie było dziwnego, żeby go nazywać spoczynkowym?
+
+Teajtet: Zupełnie słusznie, skorośmy się zgodzili, że spośród rodzajów jedne chcą się z sobą mieszać, a drugie nie.
+
+Gość: I tak wróciliśmy do poprzedniego dowodu, że tak jest. Dowiedliśmy, że tak jest, zgodnie z naturą rzeczy.
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc powtórzmy sobie. Ruch jest czymś różnym od czegoś różnego, tak jak był czymś innym niż tożsamość i czymś innym niż spoczynek?
+
+Teajtet: To konieczne.
+
+Gość: Więc w pewnym sposobie nie jest czymś różnym i jest czymś różnym — według obecnego stanowiska.
+
+Teajtet: Prawda.
+
+Gość: No, a jak będzie z następnym punktem? Czy nie powiemy, że ruch jest czymś różnym od trzech rodzajów, ale nie od czwartego, bośmy się zgodzili, że jest ich pięć, któreśmy sobie wzięli pod uwagę, by je rozpatrzyć?
+
+Teajtet: I jakże? Przecież nie można przyjąć ich liczby mniejszej niż ta, która się pokazała.
+
+Gość: Zatem bez żadnej obawy powiemy, że ruch jest czymś różnym od bytu i gotowiśmy o to walczyć?
+
+Teajtet: Bez najmniejszej obawy.
+
+Gość: Nieprawdaż, jasna rzecz, że ruch istotnie, nie będąc bytem, jest też i bytem, skoro ma byt w sobie?
+
+Teajtet: Najjaśniejsza.
+
+Gość: Zatem z konieczności niebyt jest i w ruchu, i we wszystkich rodzajach. Bo ze wszystkimi natura różności robi to, że są czymś różnym od bytu, i robi każdy rodzaj niebytem; i w ten sposób możemy je wszystkie razem nazwać niebytem, a z drugiej strony, ponieważ one mają byt w sobie, więc istnieją i są bytami.
+
+Teajtet: Bodaj że tak.
+
+Gość: Więc dla każdej postaci byt stanowi wiele, ale niebytu jest ilość nieskończona.
+
+Teajtet: Zdaje się.
+
+Gość: Nieprawdaż? Trzeba też powiedzieć, że byt sam jest czymś innym niż wszystko inne.
+
+Teajtet: Koniecznie.
+
+Gość: I dla nas byt o tyle nie istnieje, ile jest innych rodzajów. Bo on nie jest żadnym z nich, on jest jeden sam dla siebie, a tych innych znowu jest nieskończona ilość, tych niebytów.
+
+Teajtet: Jakoś niby tak.
+
+Gość: Nieprawdaż? I tym się też martwić nie trzeba, skoro w naturze rodzajów tkwi to, że się z sobą mieszają. A jeżeli się ktoś z tym nie zgadza, to niech obali nasze poprzednie stanowisko, a potem to, co z niego wynika.
+
+Teajtet: Bardzo słusznieś powiedział.
+
+Gość: Więc zobaczmy jeszcze i to.
+
+Teajtet: Co takiego?
+
+Gość: Kiedy mówimy „niebyt”, to zdaje się, że wymieniamy nie przeciwieństwo bytu, tylko coś różnego od bytu.
+
+Teajtet: Jak to?
+
+Gość: Tak na przykład, gdybyśmy powiedzieli: „niewielkie”, to czy ci się zdaje, że wtedy raczej wypowiadamy tym wyrazem to, co małe, niż to, co równe?
+
+Teajtet: Ależ skąd?
+
+Gość: Zatem nie zgodzimy się, gdyby mówiono, że taki wyraz oznacza przeciwieństwo; powiemy tyle tylko, że nazwy przybierające na początku „nie” lub „bez” oznaczają coś z rzeczy innych niż wyrazy, które po tym „nie” lub „bez” następują, a raczej: z innych niż te rzeczy, których dotyczą nazwy następujące po przeczeniu.
+
+Teajtet: Ze wszech miar.
+
+XLII. Gość: A zastanówmy się nad tym też — czy i ty jesteś tego samego zdania.
+
+Teajtet: Cóż to takiego?
+
+Gość: Natura tego różnego wydaje mi się tak samo pokrajana na kawałki, jak wiedza.
+
+Teajtet: Jak to?
+
+Gość: Bo chyba ona też jest jedna, a każda jej cząstka, dotycząca czegokolwiek, jest oddzielna i posiada jakąś swoją własny nazwę. Dlatego mówi się o wielu umiejętnościach i o wielu naukach.
+
+Teajtet: Tak jest.
+
+Gość: Prawda, że z cząstkami natury czegoś różnego ta sama sprawa, choć ona jest jedna.
+
+Teajtet: Może być, ale od której strony to bierzemy?
+
+Gość: Czy istnieje w tym, co różne, jakaś jego cząstka przeciwstawiona pięknu?
+
+Teajtet: Istnieje.
+
+Gość: A powiemy, że ona jest bez nazwy, czy też ona ma jakąś nazwę?
+
+Teajtet: Ma nazwę. Bo to, co w każdym wypadku nazywamy niepięknym, to nie jest różne od czegoś innego, lecz tylko od natury piękna.
+
+Gość: A proszę cię, powiedz mi taką rzecz.
+
+Teajtet: Jaką?
+
+Gość: Czy nie prawda, że to niepiękne, to jest coś odgraniczonego w jednym rodzaju bytów i przeciwstawionego czemuś też spośród bytów?
+
+Teajtet: Tak.
+
+Gość: Więc zdaje się, że to niepiękne, to jest przeciwstawienie jednego bytu innemu bytowi.
+
+Teajtet: Zupełnie słusznie.
+
+Gość: Więc cóż? Według tego toku myśli, czy piękno bardziej należy do bytów, a niepiękno mniej?
+
+Teajtet: Wcale nie.
+
+Gość: Więc podobnie też trzeba powiedzieć, że i to, co niewielkie, i samo to, co wielkie, istnieje?
+
+Teajtet: Jednakowo.
+
+Gość: Nieprawdaż? I tak samo trzeba przyjąć, że to, co niesprawiedliwe w stosunku do tego, co sprawiedliwe, zgoła nie więcej istnieje jedno od drugiego?
+
+Teajtet: No tak.
+
+Gość: I tak samo powiemy w innych wypadkach. Skoro się pokazało, że natura tego, co różne, należy do bytów, więc skoro ona istnieje, to w nie mniejszym stopniu i jej cząstki trzeba traktować jako byty.
+
+Teajtet: Jakżeby nie?
+
+Gość: Nieprawdaż? Zdaje się, że przeciwieństwo wzajemne bytu i natury pewnej cząstki tego, co różne, kiedy się jedno drugiemu przeciwstawia, jest zgoła nie mniej niż sam byt czymś istniejącym, jeżeli tak powiedzieć wolno, i nie oznacza żadnego przeciwieństwa bytu, tylko coś inne niż byt, i nic więcej.
+
+Teajtet: To bardzo jasne.
+
+Gość: A jak my to nazwiemy?
+
+Teajtet: Jasna rzecz, że to niebyt. To jest właśnie to, czego szukaliśmy przez tego sofistę.
+
+Gość: Więc czy to, jakeś powiedział, jest wcale nie bardziej pozbawione istnienia niż cokolwiek innego i trzeba już śmiało powiedzieć, że niebyt na pewno istnieje i ma swoją naturę; podobnie jak to, co wielkie, jest wielkie, a to, co piękne, jest piękne, tak samo i niebyt jest i zostanie niebytem, jednym rodzajem pośród wielu? Czy też mamy, Teajtecie, jeszcze pewne niedowierzanie co do tego?
+
+Teajtet: Żadnego.
+
+XLIII. Gość: A wiesz ty, że myśmy Parmenidesa nie posłuchali i przekroczyliśmy granice jego zakazu.
+
+Teajtet: Jak to?
+
+Gość: On zabronił pewnych rozważań, a myśmy tą drogą poszli naprzód i dowiedliśmy mu więcej, niż na to jego zakaz pozwala.
+
+Teajtet: Jak?
+
+Gość: Bo on przecież mówi:
+
+
+Bo nigdy to nie przeważy, że są też jakieś niebyty.
+Zawsze się od tej drogi w myśleniu trzymaj z daleka!
+
+Teajtet: No, on tak mówi.
+
+Gość: A myśmy nie tylko dowiedli, że niebyty istnieją, aleśmy pokazali postać niebytu, co to właściwie jest. Bośmy wykazali, że natura tego, co różne, jest rozdrobniona na wszystkie byty w ich stosunkach wzajemnych, i każdą jej cząstkę przeciwstawioną bytowi ośmieliliśmy się nazwać niebytem. Właśnie to jest niebyt.
+
+Teajtet: Ależ, ze wszech miar, Gościu. Zdaje mi się, że to najzupełniejsza prawda, cośmy powiedzieli.
+
+Gość: Więc niech nikt o nas nie mówi, żeśmy niebyt podali za przeciwieństwo bytu i mamy odwagę twierdzić, że on istnieje. Bo myśmy się dawno przestali bawić jakimś tam przeciwieństwem bytu i patrzeć, czy coś takiego istnieje, czy nie, czy da się ująć ściśle, czy też w ogóle sensu nie ma. A kiedy teraz mówimy, co to jest niebyt, to albo niech nas ktoś przekona, że niedobrze mówimy, niech tego dowiedzie, albo dopóki nam tego dowieść nie potrafi, to niech i sam mówi tak jak my, że rodzaje mieszają się z sobą i byt oraz to, co różne, przenikają wszystko oraz siebie nawzajem, i że to, co różne, ponieważ ma byt w sobie, istnieje dzięki temu, ale nie jest tym, co ma w sobie, tylko czymś różnym, a będąc czymś różnym od bytu, jest z konieczności niebytem. To zupełnie jasne. A znowu byt, ponieważ ma w sobie to, co różne, musi być czymś różnym od innych rodzajów, a będąc czymś od nich różnym, nie jest żadnym z nich z osobna ani wszystkimi razem, tylko jest sobą. Tak że byt niewątpliwie nie istnieje w niezliczonych wypadkach, a z wszystkich innych rodzajów znowu każdy z osobna i wszystkie razem w wielu wypadkach istnieją, a w wielu nie istnieją.
+
+Teajtet: Prawda.
+
+Gość: Jeżeli kogoś nie przekonują te nasze przeciwstawienia, to niech sobie rozważa i mówi coś lepszego niż się powiedziało teraz. Jeżeli mu się zdaje, że dostrzegł jakąś trudność i miło mu upierać się raz przy tym, raz przy tamtym naciąganym stanowisku, to poważnie traktuje rzeczy, których nie warto brać zbyt serio, jak to obecne rozważania pokazują. Bo to ani dowcip nie jest, ani wielka sztuka wpaść na to, a tamto jest i trudne, i ładne.
+
+Teajtet: Które?
+
+Gość: To, co się i przedtem powiedziało. Żeby dać pokój temu, bo to każdy potrafi, a umieć iść za naszą myślą krok za krokiem i umieć to zbić, kiedy ktoś mówi, że to, co różne, jest w pewnym sposobie identyczne, i kiedy to, co identyczne, nazywa czymś różnym i to z tego względu i od tej właśnie strony, która jest właściwa — jego zdaniem — jednemu i drugiemu. A pokazywać, że to samo jest nie to samo, byle jak, i że nie to samo jest to samo, i że wielkie jest małe, i podobne niepodobne, i bawić się w ten sposób, wciąż wysuwając sprzeczności w dyskusjach, to nie jest żadne zbijanie prawdziwe i tak robi tylko nowicjusz, który bardzo od niedawna zaczął się stykać z tym, co istnieje.
+
+Teajtet: Zupełnie tak przecież.
+
+XLIV. Gość: Tak jest, przyjacielu; próbować wszystko oddzielić od wszystkiego to nie tylko niewłaściwe, ale to świadczy, że ktoś jest z gruntu niewykształcony i nie ma nic wspólnego z filozofią.
+
+Teajtet: No czemu?
+
+Gość: Rozdzierać związek każdej rzeczy z wszystkimi innymi to znaczy uniemożliwiać całkowicie wszelkie formułowanie myśli w słowach. Przecież u nas słowne ujęcie myśli powstaje dzięki wzajemnemu powiązaniu pojęć.
+
+Teajtet: Prawda.
+
+Gość: Więc zauważ, jak to w sam czas dzisiaj myśmy się rozprawili z tymi ludźmi i wymusiliśmy na nich to, żeby się jedno mogło wiązać z drugim.
+
+Teajtet: Żeby co?
+
+Gość: Żeby u nas słowne ujęcie myśli zostało jako jeden z rodzajów bytów. Gdyby nam to zabrano, to zabrano by nam filozofię i to byłaby klęska największa. W tej chwili wypada nam ustalić, co to jest ujęcie słowne. Gdyby go nam zabrakło, to nie byłoby go w ogóle, nie bylibyśmy już w stanie mówić o niczym. A zabrakłoby go nam, gdybyśmy się zgodzili, że nie istnieje żadne mieszanie się niczego z niczym.
+
+Teajtet: To słuszne. Ale dlaczego mamy teraz wspólnie ustalić, co to jest ujęcie słowne, tego nie zrozumiałem.
+
+Gość: A może, idąc za mną tędy, najłatwiej to zrozumiesz.
+
+Teajtet: Którędy?
+
+Gość: Pokazało się nam, że niebyt jest rodzajem jednym z wielu innych i jest rozsiany po wszystkich bytach.
+
+Teajtet: Tak.
+
+Gość: Nieprawdaż? Wypada teraz zobaczyć, czy on się miesza z sądem i ze zdaniem.
+
+Teajtet: Czemu nie?
+
+Gość: Jeżeli on się z nimi nie miesza, to one wszystkie muszą być prawdziwe, a jeżeli się miesza, to robi się sąd fałszywy i zdanie mylne. Bo przyjmowanie niebytu w sądzie albo w zdaniu — to jest fałsz tworzący się w myśli i w słowach.
+
+Teajtet: Tak.
+
+Gość: A jeśli istnieje fałsz, to istnieje wprowadzanie w błąd.
+
+Teajtet: Tak.
+
+Gość: A jeśli istnieje wprowadzanie w błąd, to już wszędzie musi być pełno wizerunków i podobizn, i wyglądów złudnych.
+
+Teajtet: Jakżeby nie?
+
+Gość: A mówiliśmy, że sofista schronił się gdzieś tu w te okolice, a zaprzeczył, żeby w ogóle miał istnieć fałsz. Bo niebytu nikt nie może mieć na myśli ani on być nie może w niczyich słowach. Bo żaden niebyt w żadnym sposobie w istnieniu nie uczestniczy.
+
+Teajtet: Było tak.
+
+Gość: No a teraz się pokazało, że niebyt uczestniczy w bycie. Tak że on by się już może tą bronią nie zasłaniał. Ale mógłby może powiedzieć, że jedne idee mają w sobie niebyt, a drugie nie, a zdanie i sąd należą do tych, co niebytu w sobie nie mają, za czym co do umiejętności stwarzania wizerunków i złudnych wyglądów, w której mówiliśmy, że on tkwi — on by się znowu spierał, że ich w ogóle nie ma, skoro sąd i zdanie nie uczestniczą w niebycie. Fałszu w ogóle nie ma, jeżeli nie ma tego uczestniczenia. Dlatego trzeba naprzód rozgrzebać, co to jest zdanie i sąd, i wydawanie się, abyśmy, jak się to zrobi jasne, mogli dostrzec także ich uczestniczenie w niebycie. A jak dojrzymy, dowiedziemy, że fałsz istnieje, a jak tego dowiedziemy, to złapiemy sofistę, jeżeli on tam siedzieć powinien. A jak nie, to puśćmy go i szukajmy go gdzie indziej.
+
+Teajtet: Zdaje się, Gościu, że to była najzupełniejsza prawda, to, co się o sofiście na samym początku powiedziało, że ten rodzaj upolować — strasznie trudno. Widać przecież, że pełno przy nim pocisków obronnych, a kiedy rzuci przed siebie który z tych pocisków, trzeba się naprzód z nim uporać, nim się człowiek do samego sofisty dostanie. Przed chwilą rzucił ten niebyt, że niby to nie istnieje, i ledwieśmy się przez to przegrzebali, a oto już coś innego leży pod nogami i trzeba znowu dowodzić, że istnieje fałsz w zdaniu i w sądzie, a potem może znowu coś innego przyjdzie i znowu co innego, a końca gotowiśmy nigdy nie zobaczyć.
+
+Gość: Człowiek powinien być dobrej myśli, Teajtecie, jeżeli się choć trochę potrafi posunąć naprzód. Bo kto traci otuchę w tych warunkach, to co by zrobił w innych? Alboby w nich i kroku naprzód nie postawił, alboby go z powrotem wstecz odepchnięto. Długo by taki, jak to przysłowie mówi, warowne miasto zdobywał. Tymczasem teraz, dobra duszo, kiedyśmy przebiegli to, co mówisz, mielibyśmy największy mur już za sobą. Te inne już są łatwiejsze i mniejsze.
+
+Teajtet: Pięknieś powiedział.
+
+XLV. Gość: Więc weźmy naprzód zdanie i sąd, jak się to w tej chwili mówiło, abyśmy sobie jaśniej zdali sprawę, czy się ich niebyt chwyta, czy też jedno i drugie jest zawsze prawdziwe i żadne z nich nie jest nigdy fałszem.
+
+Teajtet: Słusznie.
+
+Gość: Więc, proszę cię, tak jakeśmy mówili o ideach i o literach, zastanówmy się znowu tak samo nad słowami, bo gdzieś tutaj pokaże się to, czego teraz szukamy.
+
+Teajtet: Więc czego to wypadnie posłuchać o nazwach?
+
+Gość: Czy wszystkie pasują jedna do drugiej, czy żadna, czy też jedne chcą pasować, a drugie nie?
+
+Teajtet: To przecież jasne, że jedne chcą, a drugie nie.
+
+Gość: Ty może mówisz to, że słowa, które są ułożone w szereg i coś mówią, trzymają się kupy, a te, które swym zestawieniem obok siebie nic nie oznaczają, nie trzymają się kupy.
+
+Teajtet: Jak to, coś to ty powiedział?
+
+Gość: To, co, zdawało mi się, miałeś na myśli, kiedyś się zgodził. Bo mamy chyba dwa rodzaje sposobów wyrażania tego, co istnieje.
+
+Teajtet: Jak to?
+
+Gość: Jedne się nazywają rzeczownikami, a drugie czasownikami.
+
+Teajtet: Wyjaśnij jedno i drugie.
+
+Gość: No, wyraz oznaczający czynności nazywamy chyba czasownikiem.
+
+Teajtet: Tak.
+
+Gość: A znak słowny na oznaczenie tych, którzy te czynności wykonują, to rzeczownik.
+
+Teajtet: Zupełnie tak.
+
+Gość: Nieprawdaż? Z samych tylko rzeczowników wymawianych jeden po drugim, nigdy się nie zrobi zdanie, ani z czasowników, wymawianych bez użycia rzeczowników.
+
+Teajtet: Tego nie zrozumiałem.
+
+Gość: To widać, że co innego miałeś na myśli, kiedyś się przed chwilą zgodził. Bo ja to samo chciałem powiedzieć, że jak w ten sposób mówić jednym ciągiem, to jeszcze nie jest zdanie.
+
+Teajtet: Jak?
+
+Gość: Na przykład chodzi, biegnie, śpi i inne czasowniki, które oznaczają czynności — choćby je ktoś wszystkie po kolei wypowiedział, to jeszcze zdania nie zrobi.
+
+Teajtet: No bo jak?
+
+Gość: Nieprawdaż? I znowu, gdyby mówił: lew, jeleń, koń i inne rzeczowniki wymieniał, tych, co czynności spełniają, to i z takiego zestawienia w żaden sposób żadne się zdanie nie zbuduje. Bo te słowa ani w ten sposób zestawione, ani w tamten, żadnej czynności ani bezczynności, ani istnienia bytu ani niebytu nie wyrażają, zanim ktoś do rzeczowników nie domiesza czasowników. Wtedy to się zaczyna trzymać kupy i robi się zdanie — chociażby pierwsze i najmniejsze zdanie.
+
+Teajtet: Jak ty to mówisz?
+
+Gość: Kiedy ktoś powie: „człowiek się uczy”, to ty powiesz, że to jest zdanie — najmniejsze i pierwsze?
+
+Teajtet: Tak jest.
+
+Gość: Bo to już coś wypowiada o tym, co istnieje albo staje się, albo się stało, albo się ma stać, i ono nie tylko wymienia, ale coś określa, splatając czasowniki z rzeczownikami. Dlategośmy powiedzieli, że już coś mówi, a nie tylko wymienia, i nazwaliśmy ten splot zdaniem.
+
+Teajtet: Słusznie.
+
+XLVI. Gość: Więc tak samo, jak rzeczy jedne pasowały do siebie, a drugie nie, tak i znaki słowne jedne nie przystają do siebie, a drugie pasują i tworzą zdanie.
+
+Teajtet: Ze wszech miar.
+
+Gość: A jeszcze taki drobiazg.
+
+Teajtet: Jaki?
+
+Gość: Zdanie, jeżeli już jest, to musi czegoś dotyczyć, a nie może dotyczyć niczego.
+
+Teajtet: Tak.
+
+Gość: Nieprawdaż? I musi mieć pewną jakość?
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc uważajmy jeden na drugiego.
+
+Teajtet: No, trzeba.
+
+Gość: Więc ja ci powiem zdanie, zestawię rzecz z czynnością za pomocą rzeczownika i czasownika. A czego by to zdanie dotyczyło, to mi powiedz.
+
+Teajtet: Będzie tak, ile możności.
+
+Gość: Teajtet siedzi. Chyba to niedługie zdanie?
+
+Teajtet: Nie. Takie w sam raz.
+
+Gość: Więc twoja rzecz powiedzieć, o czym ono jest i czego dotyczy.
+
+Teajtet: Jasna rzecz, że o mnie i mnie dotyczy.
+
+Gość: A co będzie z takim zdaniem?
+
+Teajtet: Z jakim?
+
+Gość: Teajtet, z którym ja teraz rozmawiam, lata.
+
+Teajtet: I o tym zdaniu nikt nie może powiedzieć inaczej, jak tylko to, że ono dotyczy mnie i mówi o mnie.
+
+Gość: A mówimy, że każde zdanie musi mieć pewną jakość.
+
+Teajtet: Tak.
+
+Gość: A z tych dwóch zdań jaką każdemu trzeba przyznać jakość?
+
+Teajtet: Jedno z nich chyba fałszywe, a drugie prawdziwe.
+
+Gość: To prawdziwe z nich mówi o tobie coś tak, jak jest.
+
+Teajtet: No tak.
+
+Gość: A to fałszywe mówi coś innego, niż jest.
+
+Teajtet: Tak.
+
+Gość: Więc o czymś, czego nie ma, mówi tak, jakby to istniało.
+
+Teajtet: Jakoś tak.
+
+Gość: Zatem mówi o tobie coś innego, niż jest. Bo mówiliśmy, że każdego dotyczy jakoś wiele z tego, co jest, i wiele z tego, czego nie ma.
+
+Teajtet: Całkowicie.
+
+Gość: To drugie zdanie, które powiedziałem o tobie, to według naszego określenia, co to jest zdanie, z konieczności musi być jednym z najkrótszych zdań.
+
+Teajtet: W tej chwili przecież zgodziliśmy się co do tego.
+
+Gość: A potem, że dotyczy czegoś.
+
+Teajtet: Tak.
+
+Gość: A jeżeli nie dotyczy ciebie, to i nikogo innego.
+
+Teajtet: Jakżeby?
+
+Gość: Gdyby nie dotyczyło niczego, to w ogóle nie byłoby zdaniem. Bośmy pokazali, że niemożliwością jest, żeby coś było zdaniem, a nie dotyczyło niczego.
+
+Teajtet: Zupełnie słusznie.
+
+Gość: Więc to, co mówi o tobie, ale podaje coś innego jako to samo i coś nieistniejącego jako coś istniejącego — taka grupa słów, zbudowana z czasowników i z rzeczowników, to będzie, zdaje się, istotnie i naprawdę zdanie fałszywe.
+
+Teajtet: Najzupełniejsza prawda.
+
+XLVII. Gość: No cóż tedy? Czy nie jest już rzeczą jasną, że myśl i sąd, i wydawanie się, że te wszystkie trzy rodzaje rodzą się w naszych duszach fałszywe i prawdziwe?
+
+Teajtet: Jak?
+
+Gość: Łatwiej to zrozumiesz w ten sposób, jeżeli naprzód pojmiesz, co to jest każde z nich i czym się każde z nich różni od innych.
+
+Teajtet: Dawaj tylko.
+
+Gość: Nieprawdaż, myśl i zdanie to jedno i to samo. Tylko że wewnętrzna rozmowa duszy samej z sobą, odbywająca się bez głosu — to się u nas nazywa myślą.
+
+Teajtet: Tak jest.
+
+Gość: A ten strumień, który od niej idzie przez usta i brzmi, nazywa się zdaniem?
+
+Teajtet: Prawda.
+
+Gość: A pośród zdań wiemy, że jest…
+
+Teajtet: Co takiego?
+
+Gość: Twierdzenie i przeczenie.
+
+Teajtet: Wiemy.
+
+Gość: Więc kiedy się to w duszy robi w milczeniu i w myśli, czy umiesz to wtedy nazwać inaczej niż sądem?
+
+Teajtet: Jakżeby?
+
+Gość: A co, jeśli znowu na kogoś przyjdzie taki stan, nie sam z siebie, ale za pośrednictwem wrażeń zmysłowych, czy można to słusznie nazwać czymś innym, a nie wydawaniem się?
+
+Teajtet: Niczym innym.
+
+Gość: Nieprawdaż, skoro zdanie jest prawdziwe i fałszywe, a myśl okazała się rozmową duszy samej z sobą, a sąd wykończeniem myśli, i to, co to mówimy „wydaje się”, to jest połączenie wrażenia zmysłowego i sądu — to z konieczności, ponieważ i te rzeczy są spokrewnione ze zdaniem, więc muszą niektóre z nich niekiedy być fałszywe.
+
+Teajtet: Jakżeby nie?
+
+Gość: Więc widzisz, że fałszywy sąd i zdanie fałszywce znalazły się prędzej, niżeśmy się spodziewali. Baliśmy się przed chwilą, czy może nie podejmujemy się daremnej roboty, szukając tego.
+
+Teajtet: Widzę.
+
+XLVIII. Gość: Więc nie traćmy otuchy i co do reszty. Skoro się to pokazało, to przypomnijmy sobie poprzednie podziały na rodzaje.
+
+Teajtet: Jakie podziały?
+
+Gość: Rozróżniliśmy dwa rodzaje tworzenia wizerunków: tworzenie podobizn i tworzenie złudnych wyglądów.
+
+Teajtet: Tak.
+
+Gość: I powiedzieliśmy, że nie wiemy, w której z tych dwóch klas pomieścić sofistę.
+
+Teajtet: Było tak.
+
+Gość: I kiedyśmy nie wiedzieli, co z tym począć, jeszcze większa padła na nas ciemność i zawrót głowy, gdy się ukazało stanowisko, które się przeciwstawia wszystkim: że w ogóle nie istnieje żadna podobizna ani wizerunek, ani wygląd złudny, ponieważ fałsz nie istnieje w żaden sposób nigdy i nigdzie.
+
+Teajtet: Ty mówisz prawdę.
+
+Gość: A teraz, skoro widać, że istnieje zdanie fałszywe i sąd fałszywy, to już mogą istnieć imitacje bytów i może się z takiego stanu rzeczy rodzić umiejętność oszukańcza.
+
+Teajtet: Może.
+
+Gość: I że sofista jest w jednej z tych dwóch klas, to u nas zostało przedtem ustalone.
+
+Teajtet: Tak.
+
+Gość: Więc próbujmy znowu rozciąć na dwoje rodzaj, który mamy przed sobą, i iść wciąż prawą stroną części rozciętej, trzymając się towarzystwa sofisty, aż z niego zdejmiemy wszystkie cechy wspólne, a zostawimy mu jego własną naturę i wystawimy go na pokaz — najbardziej dla nas samych, a potem dla tych, którym ten rodzaj metody jest z natury najbliższy.
+
+Teajtet: Słusznie.
+
+Gość: Nieprawdaż? Wtedy zaczęliśmy od rozróżnienia umiejętności twórczej i nabywczej?
+
+Teajtet: Tak.
+
+Gość: I on się nam majaczył w części nabywczej, w łowach, w walkach, w sprzedawaniu i w jakichś takich postaciach.
+
+Teajtet: Tak jest.
+
+Gość: A teraz, skoro go ogarnęła umiejętność naśladowcza, jasna rzecz, że naprzód trzeba rozciąć na dwoje umiejętność twórczą. Bo naśladowanie to jest pewna twórczość, a mianowicie tworzenie wizerunków — to przyznamy — a nie przedmiotów samych każdego rodzaju. Czy tak?
+
+Teajtet: Ze wszech miar.
+
+Gość: A twórczości niech będą dwie części.
+
+Teajtet: Jakie dwie?
+
+Gość: Jedna boska, a druga ludzka.
+
+Teajtet: Jeszcze nie rozumiem.
+
+XLIX. Gość: Twórczość wszelka — jeżeli tylko pamiętamy, co się na początku powiedziało — mówiliśmy, jest to siła, która staje się przyczyną powstawania rzeczy nieistniejących poprzednio.
+
+Teajtet: Pamiętamy.
+
+Gość: Otóż wszystkie żywe istoty śmiertelne i rośliny, które na ziemi z nasion i z korzeni rosną, i te ciała nieożywione, które się w ziemi tworzą — topliwe i nietopliwe — czyż one, powiemy, powstają pod wpływem kogoś innego, a nie Boga, który je robi, i one powstają, a przedtem ich nie było? Czy też mamy stanąć na stanowisku, które zajmuje wielu, i powiedzieć…
+
+Teajtet: Co takiego?
+
+Gość: To, że je natura rodzi z pewnej przyczyny samorodnej bez żadnej myśli? Czy też stwarza je Bóg rozumem i boską wiedzą, która od niego pochodzi?
+
+Teajtet: Ja tam — może to sprawa mojego wieku — często zmieniam zdanie na tym punkcie. W tej chwili patrzę na ciebie i przypuszczam, że ty powstawanie tych rzeczy odnosisz do Boga, więc i ja tak uważam.
+
+Gość: To ładnie, Teajtecie. I jakkolwiek sądzę, że ty należysz do tych, którzy w przyszłości będą jakoś inaczej myśleli, to jednak teraz próbowałem cię racjonalnie, przy pomocy nieodpartego wpływu nakłonić do wspólnego stanowiska. Ja się orientuję w twojej naturze, ona i bez moich słów podchodzi sama do tego, do czego mówisz, że cię teraz ciągnie. Więc ja ci dam pokój. Bo to by była strata czasu. Ja tylko założę, że to, co rzekomo natura wytwarza, tworzy się pod wpływem umiejętności boskiej, a to, co z tego materiału ludzie zestawiają, powstaje pod wpływem ludzkiej; i w tym sensie istnieją dwa rodzaje twórczości: jeden to twórczość ludzka, a drugi — boska.
+
+Teajtet: Słusznie.
+
+Gość: Więc skoro one są dwie, to tnij każdą z nich znowu na dwoje.
+
+Teajtet: Jak?
+
+Gość: Tak jak przedtem przeciąłeś całą twórczość wszerz, tak ją teraz przetnij wzdłuż.
+
+Teajtet: Niech będzie rozcięta.
+
+Gość: W ten sposób tworzą się jej cztery części. I to są jej części wszystkie. Dwie od naszej strony: ludzkie. A dwie od strony bogów: boskie.
+
+Teajtet: Tak.
+
+Gość: Ale gdy się je rozetnie inaczej, to jedna część każdej z dwóch połów będzie tworzeniem rzeczy samych, a te dwie części, które zostają, może by najlepiej nazwać tworzeniem wizerunków. W ten sposób na nowo się twórczość rozpada na dwie części.
+
+Teajtet: Powiedz no, jak to właściwie jest z każdą z dwóch połów. Jeszcze raz.
+
+L. Gość: Nas więc i inne istoty żywe, i to, z czego istoty żywe się składają, więc ogień i wodę, i im pokrewne — wiemy, że to Bóg zrodził i wykonał wszystko. Czy tak?
+
+Teajtet: Tak.
+
+Gość: A za każdą z tych rzeczy chodzą ich wizerunki — nie one same. Ale wizerunki też powstają boskim przemysłem.
+
+Teajtet: Jakie to?
+
+Gość: Zjawy senne i te, co w dzień powstają rzekomo same z siebie: cień, kiedy światło ciemny przedmiot napotka albo jak się dwojakie światło, własne i cudze, w sąsiedztwie przedmiotów świecących i gładkich w jedno zejdzie i zrobi postać, która daje widok odwrócony w stosunku do zwykłych widoków.
+
+Teajtet: Więc to są dwa dzieła twórczości boskiej: przedmiot sam i wizerunek, który każdemu przedmiotowi towarzyszy.
+
+Gość: A jak jest z naszą umiejętnością? Czy nie powiemy, że ona z pomocą architektury stwarza dom, a z pomocą malarstwa pewien dom inny — niby widziadło senne, ludzką ręką wykonane dla tych, którzy nie śpią?
+
+Teajtet: Tak jest.
+
+Gość: Nieprawdaż? I poza tym, powiemy, tak samo dwojakie istnieją wytwory działalności twórczej. Tu sam przedmiot, dzieło twórczości autentycznej — tam wizerunek, wytwór umiejętności stwarzania wizerunków.
+
+Teajtet: Teraz lepiej zrozumiałem i przyjmuję po dwóch stronach dwie postacie twórczości: boską i ludzką, według jednego podziału. A według drugiego: z jednej strony wytwarzanie samych rzeczy, a z drugiej jakichś tam do nich podobieństw.
+
+LI. Gość: Otóż przypomnijmy sobie, że umiejętność stwarzania wizerunków miała mieć dwa rodzaje: stwarzanie podobizn i stwarzanie złudnych wyglądów, jeżeliby fałsz był istotnie fałszem i miałby uchodzić za jeden z bytów.
+
+Teajtet: Tak było.
+
+Gość: Nieprawdaż, pokazało się, że tak jest i dlatego teraz wyliczamy bezspornie te dwa rodzaje.
+
+Teajtet: Tak.
+
+Gość: Otóż tworzenie złudnych wyglądów rozdzielmy znowu na dwoje.
+
+Teajtet: Jak?
+
+Gość: Jedno się odbywa bez pomocy narzędzi, a w drugim człowiek się sam oddaje za narzędzie dla twórcy wyglądu.
+
+Teajtet: Jak mówisz?
+
+Gość: Kiedy, myślę sobie, ktoś twoją postać z pomocą własnego ciała skopiuje albo swoim głosem twój głos podrobi, to ta część stwarzania złudnych wyglądów nazywa się może imitatorstwem.
+
+Teajtet: Tak.
+
+Gość: Więc nazwijmy tę część imitatorstwem i oddzielmy ją. A całą resztę zostawmy, bo już mamy dość — niech to sobie ktoś inny sprowadza do jedności i niech temu nada jakąś nazwę odpowiednią.
+
+Teajtet: To niech będzie oddzielone, a tamto niech sobie idzie precz.
+
+Gość: Tak jest. Ale i to jeszcze, Teajtecie, należy uważać za dwojakie. A dlaczego, zobacz?
+
+Teajtet: Mów.
+
+Gość: Spośród imitatorów jedni robią to, wiedząc, co imitują, a drudzy nie wiedzą. Jakąż mamy przyjąć większą różnicę niż świadomość i nieświadomość?
+
+Teajtet: Żadnej.
+
+Gość: Te imitacje wymienione przed chwilą to byty i imitacje świadome. Bo ten ktoś musiał twoją postać i ciebie znać, kiedy cię imitował.
+
+Teajtet: Jakżeby nie?
+
+Gość: A co, jeżeli chodzi o postać sprawiedliwości i wszelkiej w ogóle dzielności? Czy nie ma takich, którzy nie wiedzą, co to jest, a tylko im się coś tam na ten temat zdaje i niejeden stara się bardzo mocno pokazywać jako swoje znamię wewnętrzne to, co mu się tym być wydaje, i stara się jak może imitować to słowem i czynem?
+
+Teajtet: Nawet bardzo wielu jest takich.
+
+Gość: I czy nikomu się nie udaje uchodzić za sprawiedliwego, choć wcale taki nie jest? Czy też wprost przeciwnie?
+
+Teajtet: Wprost przeciwnie.
+
+Gość: Więc myślę, że takiego trzeba nazwać imitatorem innego rodzaju niż tamten. To jest imitator nieświadomy, a tamten był świadomy.
+
+Teajtet: Tak.
+
+LII. Gość: A skądby tu wziąć jakąś odpowiednią nazwę dla jednego i drugiego? Jasna rzecz, że to nie łatwo. Bo zdaje się, że nasi przodkowie odznaczali się jakimś zadawnionym i bezmyślnym lenistwem, jeżeli chodzi o podział rodzajów na gatunki, tak że nikt nawet nie próbował takich podziałów. Dlatego też i nazw z konieczności nie ma zbyt wiele pod ręką. Jednakże, choć to może wyraz zbyt śmiały, tak, dla orientacji, nazwijmy imitatorstwo oparte na mniemaniu — imitacją bezwiedną, a tamto, oparte na wiedzy, jakąś imitacją świadomą.
+
+Teajtet: Niech będzie.
+
+Gość: Więc musimy wziąć tę pierwszą. Bo sofisty nie było między tymi, co mają wiedzę, ale był pośród tych, co imitują.
+
+Teajtet: Na pewno.
+
+Gość: Więc zobaczmy tego imitatora nieświadomego. Obejrzyjmy go jak kawałek żelaza, czy zdrów, czy też jeszcze ma jakieś pęknięcie w sobie.
+
+Teajtet: Zobaczmy.
+
+Gość: Więc ma, i to bardzo wyraźne. Bo jeden z nich jest naiwny. Myśli, że wie to, co mu się tylko zdaje. A postać i mina drugiego, który się otarł w dyskusjach, wyraża liczne podejrzenia i obawę, że nie wie tego, co przed innymi jako znawca rzeczy miną nadrabia.
+
+Teajtet: Na pewno są te oba rodzaje, o których mówisz.
+
+Gość: Nieprawdaż? Więc przyjmiemy, że jeden to jest imitator prosty, a drugi — dwulicowy?
+
+Teajtet: Tak wypada.
+
+Gość: A ten ostatni znowu, powiemy, że to jeden rodzaj, czy dwa?
+
+Teajtet: Zobacz ty.
+
+Gość: Patrzę. I jacyś mi się dwaj zjawiają. Jeden na forum publicznym w długich mowach wobec tłumów potrafi chytrze role odgrywać, a drugi na terenie prywatnym z pomocą krótkich słów zmusza tych, co z nim dyskutują, do tego, żeby sami z sobą popadali w sprzeczność.
+
+Teajtet: Mówisz zupełnie słusznie.
+
+Gość: Więc my oświadczymy, że ten, co dłużej mówi, to jest kto: polityk czy mówca ludowy?
+
+Teajtet: Mówca ludowy.
+
+Gość: A ten drugi, powiemy, że to kto: mędrzec czy sofista?
+
+Teajtet: Mędrzec to być nie może, skorośmy przyjęli, że wiedzy nie ma. Ale ponieważ to jest imitator mędrca, więc jasna rzecz, że od niego po trochu zarwie nazwę, i ja już mniej więcej rozumiem, że tego trzeba nazywać prawdziwym sofistą. To właśnie jest sofista ze wszech miar i w istocie rzeczy.
+
+Gość: A może byśmy, tak jak przedtem, ujęli w całość jego nazwę, splatając ją od końca do początku?
+
+Teajtet: Owszem.
+
+Gość: Zatem to jest imitatorstwo doprowadzające do sprzeczności, a należące do części dwulicowej wywoływania mniemania, która należy do stwarzania złudnych wyglądów, wyróżnionego w stwarzaniu wizerunków, w umiejętności nie boskiej, lecz ludzkiej, rodzaj twórczości wyróżniony w dziedzinie słów jako jej cząstka kuglarska. Jeżeli ktoś powie, że z tego pokolenia i z tej krwi pochodzi sofista prawdziwy, ten, zdaje się, powie prawdę największą.
+
+Teajtet: Ze wszech miar.

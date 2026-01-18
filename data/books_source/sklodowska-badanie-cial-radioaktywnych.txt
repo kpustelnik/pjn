@@ -1,0 +1,768 @@
+Maria Skłodowska-Curie
+
+Badanie ciał radioaktywnych
+
+ISBN 978-83-288-2850-6
+
+
+
+
+Wstęp
+
+Celem niniejszej rozprawy jest opisanie poszukiwań, które prowadzę od lat przeszło pięciu nad substancjami promieniotwórczymi. Badania te rozpoczęłam od studyów nad promieniowaniem uranowym, odkrytym przez p. Becquerela. Okazało się, że wyniki, do jakich mnie ta praca doprowadziła, odsłaniają widoki tak ciekawe, że pan Curie, odstępując od swych robót, będących w biegu, przyłączył się do mnie i odtąd wspólne nasze usiłowania skierowaliśmy ku wydobyciu nowych ciał promieniotwórczych i ich zbadaniu.
+
+Od początku naszych doświadczeń uważaliśmy za rzecz właściwą udzielać próbek ciał przez nas odkrytych i otrzymanych kilku fizykom, a przede wszystkim p. Becquerelowi, któremu zawdzięczamy odkrycie promieni uranowych. W taki sposób ułatwialiśmy innym badania nad nowymi ciałami promieniotwórczymi. W następstwie pierwszych naszych publikacji p. Giesel w Niemczech zaczął również przygotowywać te ciała i udzielił ich próbek kilku uczonym niemieckim. Następnie przetwory te ukazały się w sprzedaży we Francji i w Niemczech i sprawa, przybierając coraz to większe znaczenie, stała się punktem wyjścia ruchu naukowego, tak że — zwłaszcza poza Francją — ukazały się i ukazują nieustannie liczne komunikaty o ciałach radioaktywnych. Wyniki tych różnych badań francuskich i zagranicznych z konieczności są jeszcze zagmatwane, jak to bywa zawsze z przedmiotem badań nowym i pozostającym jeszcze w opracowaniu. Stan kwestii zmienia się, można powiedzieć, z dnia na dzień.
+
+Jednakże z punktu widzenia chemicznego jest jedna rzecz udowodniona w sposób niezbity, to jest *istnienie nowego pierwiastku w wysokim stopniu promieniotwórczego — radu*. Przygotowanie czystego chlorku radu i oznaczenie ciężaru atomowego samego radu stanowi część najważniejszą mojej pracy osobistej. Do szeregu dokładnie poznanych pierwiastków chemicznych praca ta dorzuciła nowe ciało proste z własnościami bardzo ciekawymi, a jednocześnie ustaliła i uzasadniła nową metodę poszukiwań chemicznych. Metoda, o której mówię, oparta na promieniotwórczości uważanej za własność atomów materii, pozwoliła właśnie p. Curiemu i mnie odkryć istnienie radu.
+
+O ile zadanie, pierwotnie przez nas podjęte, możemy uznać za rozwiązane z punktu widzenia chemicznego, badanie własności fizycznych ciał promieniotwórczych znajduje się w pełnym rozwoju. Pewne szczegóły ważne są już ustalone, lecz znaczna liczba wniosków ma jeszcze dotąd cechy tymczasowości. Nic w tym dziwnego, jeżeli zwrócimy uwagę na zawiłość zjawisk, którym promieniotwórczość daje początek, i na różnice we własnościach rozmaitych ciał radioaktywnych. Badania różnych fizyków, którzy studiują te ciała, spotykają się ze sobą i krzyżują nieustannie. Mając ustawicznie na widoku cel właściwy niniejszej rozprawy i opisując przede wszystkim własne swoje poszukiwania, musiałam jednak współcześnie wzmiankować i o rezultatach prac innych, których znajomość jest niezbędna.
+
+Pragnęłam nadto z rozprawy tej uczynić rzecz ogólniejszą, obejmującą całkowity stan współczesny przedmiotu.
+
+W ciągu rozprawy wyszczególniam kwestie, któremi sama zajmowałam się specjalnie, oraz te, które badałam wspólnie z p. Curie.
+
+Roboty swoje przeprowadziłam w pracowniach Szkoły Fizyki i Chemii stosowanej (Ecole de Physique et de Chimie industrielles) miasta Paryża za zezwoleniem Schützenbergera, nieodżałowanego dyrektora tej Szkoły, i p. Lautha, dyrektora obecnego. Miło mi wyrazić na tym miejscu wdzięczność za uprzejmą gościnność, jaka mnie spotykała w tej Szkole.
+
+
+
+Część historyczna
+
+Odkrycie zjawisk radioaktywności jest związane z poszukiwaniami prowadzonymi od czasu odkrycia promieni Röntgena, a dotyczącemi działań fotograficznych ciał fosforyzujących i fluoryzujących.
+
+Pierwsze rurki wytwarzające promienie röntgenowskie nie posiadały antykatody metalicznej. Źródło promieni Röntgena znajdowało się w ścianie szklanej, uderzanej przez promienie katodalne. Ścianka ta jednocześnie fluoryzowała bardzo silnie. Można więc było przypuszczać, że emisja promieni röntgenowskich nieodłącznie towarzyszy fluorescencji, powstającej pod jakimbądź wpływem. Myśl tę powziął pierwszy p. Henryk Poincaré.
+
+Wkrótce potem p. Henry doniósł, że otrzymał obrazy fotograficzne pod działaniem siarczku cynku fosforyzującego przez papier czarny. P. Niewęgłowski wywołał to samo zjawisko siarczkiem wapnia, który poprzednio był wystawiony na działanie światła. Na koniec p. Troost otrzymał silne obrazy fotograficzne, działając sztucznie otrzymaną blendą heksagonalną fosforyzującą poprzez papier czarny i grubą tekturę.
+
+Przytoczone powyżej doświadczenia nie mogły być powtórzone, pomimo wielu w tym kierunku usiłowań. Niepodobna więc żadną miarą uznać za rzecz dowiedzioną, że siarczek cynku i siarczek wapnia pod wpływem światła wysyłają promienie niewidzialne, które mogą przechodzić przez papier czarny i działać na płytę fotograficzną.
+
+P. Becquerel wykonywał doświadczenia podobne z solami uranu, z których pewna część okazywała fluorescencję. Otrzymał on obrazy fotograficzne przez papier czarny, używając siarczanu uranylowo-potasowego. P. Becquerel sądził zrazu, że ta sól, która posiada fluorescencję, zachowuje się tak jak siarczek cynku i siarczek wapnia w doświadczeniach panów Henry'ego, Niewęgłowskiego i Troosta. Ale dalszy bieg doświadczeń przekonał go, że zjawisko uważane nie ma żadnego związku z fluorescencją. Nie ma konieczności, żeby sól była naświetlona, a, co więcej, uran i wszystkie jego połączenia działają w jednakowy sposób, a uran metaliczny jest najbardziej czynny. P. Becquerel spostrzegł następnie, że związki uranowe, pomimo przechowywania ich w całkowitej ciemności, zachowują własność działania na płyty fotograficzne przez papier czarny w ciągu lat całych. P. Becquerel przyjął, że uran i jego związki wysyłają szczególniejsze promienie: *promienie uranowe*. Dowiódł, że promienie te mogą przechodzić przez cienkie zasłony metalowe i że wyładowują ciała naelektryzowane. Poczynił też doświadczenia, z których wywnioskował, że promienie uranowe ulegają załamaniu, odbiciu i polaryzacji.
+
+Badania innych fizyków (Elstera i Geitla, lorda Kelwina, Schmidta, Rutherforda, Beattiego i Smoluchowskiego) potwierdziły i rozszerzyły wyniki poszukiwań p. Becquerela za wyjątkiem odbicia, załamania i polaryzacji promieni uranowych, które zachowują się w tym względzie jako promienie röntgenowskie, co przede wszystkim zostało wykazane przez p. Rutherforda, a następnie i przez samego p. Becquerela.
+
+
+
+Rozdział I. Promieniotwórczość uranu i toru. Minerały promieniotwórcze
+
+*Promienie Becquerela*. Promienie uranowe, odkryte przez p. Becquerela, działają na płytę fotograficzną bez dostępu światła; mogą przenikać przez wszelkie ciała stałe, ciekłe i gazowe, o ile ich warstwa jest odpowiednio cienka; przechodząc przez gazy, nadają im własność przewodzenia elektryczności w stopniu słabym.
+
+Własności powyższe związków uranowych nie są zależne od żadnego bodźca znanego. Promieniowanie zdaje się być samoistnym; natężenie jego nie zmniejsza się bynajmniej, jeżeli związki uranu są przez całe lata przechowywane w zupełnej ciemności; zjawisko nie jest więc wcale jakąś fosforesceneją szczególną, wzbudzoną przez światło.
+
+Samoistność i trwałość promieniowania uranowego stanowią zjawisko fizyczne nader osobliwe. P. Becquerel przechowywał w ciemności kawałek uranu przez lat kilka i przekonał się, że po upływie tego czasu działanie na płytkę fotograficzną nie zmieniło się w sposób dający się dostrzec. Pp. Elster i Geitel wykonali doświadczenie podobne i przekonali się również, że działanie jest stałe.
+
+Natężenie promieniowania uranu mierzyłam, korzystając z działania tego promieniowania na przewodnictwo elektryczne powietrza. Otrzymałam w taki sposób liczby, które stwierdzają stałość promieniowania w granicach dokładności doświadczeń, to jest aż do 2 lub 3 mniej więcej odsetek.
+
+Do pomiarów tych była używana płytka metaliczna, pokryta warstwą uranu sproszkowanego; płytki tej nie przechowywano w ciemności, gdyż warunek ten, według spostrzegaczy wyżej przytoczonych, nie ma znaczenia. Liczba pomiarów wykonanych z tą płytką jest bardzo wielka i obecnie odnoszą się one do okresu czasu wynoszącego już pięć lat.
+
+Były czynione poszukiwania, mające na celu dowiedzieć się, czy i inne ciała mogą działać tak, jak związki uranowe. P. Schmidt pierwszy ogłosił, że tę właściwość posiada również tor i jego związki. Przeprowadzone jednocześnie odpowiednie badania i mnie także dały wynik takiż sam. Ogłosiłam to spostrzeżenie, nie znając jeszcze komunikatu p. Schmidta.
+
+Mówimy, że uran, tor i ich związki wysyłają *promienie Becquerela*. Ciała, które są źródłem emisji tego rodzaju, nazwałam radioaktywnymi (promieniotwórczymi) i nazwa ta odtąd została przyjęta ogólnie.
+
+Promienie Becquerela przez swoje działanie fotograficzne i elektryczne zbliżają się do promieni Röntgena. Mają też, na równi z tymi ostatnimi, zdolność przenikania wszelkich substancji . Różnią się jednak bardzo pod względem siły przenikania: promienie uranowe i torowe zostają powstrzymane po przebyciu drogi wynoszącej kilka milimetrów w materii stałej, a w powietrzu przebyć nie mogą odległości większej nad kilka centymetrów; tak jest przynajmniej dla znaczniejszej części promieniowania.
+
+Badania różnych fizyków, a przed innymi p. Rutherforda, dowiodły, że promienie Becquerela nie ulegają ani prawidłowemu odbiciu, ani załamaniu, ani polaryzacji.
+
+Słaba zdolność przenikania promieni uranu i toru zbliżałaby je raczej do promieni wtórnych, które są wytwarzane przez promienie Röntgena, a których badaniem zajął się p. Sagnac, aniżeli do samych promieni Röntgena.
+
+Z drugiej strony można by poszukiwać zbliżenia pomiędzy promieniami becquerelowskimi a promieniami katodalnymi rozchodzącemi się w powietrzu (promienie Lenarda). Wiadomo nam dzisiaj, że różne te zbliżenia są wszystkie uprawnione.
+
+*Mierzenie natężenia promieniowania*. Metoda używana w tym celu polega na mierzeniu przewodnictwa nabytego przez powietrze pod wpływem ciał promieniotwórczych; metoda, o której mowa, posiada tę zaletę, że jest pośpieszna i dostarcza liczb odpowiednich do porównywania między sobą. Przyrząd używany przeze mnie w tym celu, składa się głównie z kondensatora o dwu talerzach AB (fig. 1). Substancja czynna, drobno sproszkowana, jest umieszczona na talerzu B; nadaje ona własność przewodzenia warstwie powietrza pomiędzy talerzami. Chcąc zmierzyć przewodnictwo, doprowadzamy talerz B do wysokiego potencjału, łącząc go z jednym z biegunów baterii małych akumulatorów P, której biegun drugi jest połączony z ziemią, zatem pomiędzy tymi talerzami wytwarza się prąd elektryczny. Potencjał talerza A jest wskazywany przez elektrometr E. Jeżeli zerwiemy połączenie z ziemią w punkcie C, talerz A ładuje się, a ładunek jego odchyla elektrometr. Szybkość tego odchylenia jest proporcjonalna do siły prądu i może służyć do jej mierzenia.
+
+Lepiej jednak dokonywać tego pomiaru, kompensując ładunek talerza A tak, żeby elektrometr pozostawał na punkcie zero. Ładunki, o które tu idzie, są nadzwyczaj słabe; mogą one być kompensowane za pomocą kwarcu piezoelektrycznego Q, którego jedno uzbrojenie jest złączone z talerzem A, drugie zaś — z ziemią. Blaszkę kwarcową poddajemy wyciąganiu, którego wielkość jest znana i oznaczona przez ciężarki, umieszczane na talerzyku Π; obciążenia dokonywa się stopniowo, a następstwem tego jest stopniowe wytworzenie pewnej znanej ilości elektryczności w ciągu czasu, który mierzymy. Czynność tę możemy regulować w taki sposób, żeby ilość elektryczności przechodząca przez kondensator i ilość elektryczności ze znakiem przeciwnym, dostarczana przez kwarc, równoważyły się między sobą w każdej chwili. Można także mierzyć w wartościach bezwzględnych ilość elektryczności, przechodzącą w pewnym czasie przez kondensator, to jest mierzyć siłę prądu. Pomiary są tu niezależne od czułości elektrometru.
+
+Wykonywając szereg pomiarów tego rodzaju, przekonywamy się, że radioaktywność jest zjawiskiem, które można mierzyć z pewną dokładnością. Mało zmienia się ona z temperaturą, a wahania w stanie ciepła środowiska otaczającego prawie nie wywierają na nią wpływu; stopień oświetlenia substancji czynnej nie ma żadnego znaczenia. Natężenie prądu przepływającego przez kondensator wzrasta razem z powierzchnią talerzy. Dla danego przyrządu i danej substancji prąd wzrasta odpowiednio do różnicy potencjału na dwu talerzach, do ciśnienia gazu napełniającego kondensator i do odległości talerzy (pod warunkiem, żeby ta odległość nie była zbyt wielka w stosunku do średnicy). W każdym razie, wobec dużych różnic potencjału prąd dąży do pewnej wartości granicznej, która, praktycznie biorąc, jest wartością stałą. Nazywamy ją prądem nasyconym, albo prądem granicznym. Tak samo wobec pewnej, dostatecznie wielkiej odległości między talerzami kondensatora prąd nie zmienia się wcale z dalszymi zmianami tej odległości. Prąd otrzymany w powyższych warunkach, z dodatkiem, że kondensator pozostaje w powietrzu pod ciśnieniem atmosferycznym, był w doświadczeniach moich używany do mierzenia promieniotwórczości.
+
+Dla przykładu podaję krzywe wyobrażające natężenie prądu w funkcji pola średniego, wytworzonego pomiędzy talerzami kondensatora, wobec dwu różnych odległości tych talerzy między sobą. Talerz B był pokryty cienką warstewką sproszkowanego uranu metalicznego; talerz A, połączony z elektrometrem, był zaopatrzony w pierścień ochronny.
+
+Figura 2 wskazuje, że natężenie prądu osiąga wielkość stałą wobec znacznych różnic potencjału na dwu talerzach. Figura 3 przedstawia też same krzywe w innej skali i zawiera wyłącznie rezultaty, odnoszące się do małych różnic potencjału. Początek krzywej jest linią prostą; iloraz z natężenia prądu przez różnicę potencjału jest wielkością stałą dla napięć słabych i przedstawia przewodnictwo początkowe między talerzami. Możemy tedy odróżniać dwie ważne staje charakterystyczne zjawiska uważanego: 1. *przewodnictwo początkowe* w przypadku małych różnic potencjału; 2. *prąd graniczny* w przypadku wielkich różnic potencjału. Prąd graniczny został przyjęty za miarę promieniotwórczości.
+
+Obok różnicy potencjału, którą wywołujemy pomiędzy talerzami kondensatora, istnieje nadto pomiędzy nimi siła elektrobodźcza zetknięcia, a wyniki tych dwu źródeł prądu dodają się do siebie. Z tego powodu wartość bezwzględna natężenia prądu zmienia się razem ze znakiem różnicy potencjału zewnętrznego. W każdym jednak razie wobec wielkich różnic potencjału skutki siły elektrobodźczej zetknięcia mogą być pominięte, a natężenie prądu jest wtedy jednakowe bez względu na znak pola pomiędzy talerzami.
+
+Badania nad przewodnictwem powietrza i innych gazów, poddanych wpływowi promieni Becquerela, były dokonane przez wielu fizyków. Studium bardzo szczegółowe nad tym przedmiotem zostało ogłoszone przez p. Rutherforda.
+
+Prawa przewodnictwa, wywołanego w gazach przez promienie Becquerela, są takież same, jak prawa znalezione dla odpowiedniego działania promieni Röntgena. Mechanizm zjawiska, o ile się zdaje, w obu razach jest jednakowy. Teoria jonizacji gazów przez promienie czy to röntgenowskie, czy becquerelowskie doskonale objaśnia zjawiska dostrzegane. Teorii tej wykładać tutaj nie będę, przypomnę tylko wnioski, do których ona prowadzi:
+
+1. Liczba jonów wytworzonych w gazie w ciągu sekundy jest uważana za proporcjonalną do pochłoniętej przez gaz energii promieniowania.
+
+2. Dla otrzymania prądu granicznego, odpowiadającego danemu promieniowaniu, należy, z jednej strony, doprowadzić do całkowitego pochłonięcia przez gaz energii promieniowania, a to przez użycie masy pochłaniającej odpowiednio wielkiej; z drugiej strony, do wytworzenia prądu należy zużytkować wszystkie wydzielone jony, wywołując pole elektryczne o tyle silne, ażeby liczba jonów, łączących się na powrót, była nieznaczną częścią liczby całkowitej jonów wydzielonych w tym samym czasie, które prawie wszystkie zostają przez prąd porwane i doprowadzone do elektrod. Pole elektryczne, niezbędne do otrzymania takiego wyniku, musi być tym silniejsze, im jonizacja jest znaczniejsza.
+
+Według świeżych poszukiwań p. Townsenda zjawisko staje się bardziej złożonym, gdy ciśnienie gazu jest niskie. Zdaje się, że wtedy prąd zrazu dąży do wartości granicznej stałej w miarę wzrastania różnicy potencjału, ale, począwszy od pewnej wielkości tej różnicy, prąd zaczyna znowu wzrastać razem z polem i to z szybkością bardzo znaczną. P. Townsend przyjmuje, że ten przyrost zależy od nowej jonizacji, spowodowanej przez same jony, gdy one, pod wpływem pola elektrycznego nabędą szybkości wystarczającej do tego, ażeby cząsteczka gazu, znajdująca się na drodze takiego pocisku, została przez jego uderzenie zdruzgotana i rozbita na swoje jony. Pole elektryczne silne obok ciśnienia słabego dopomagają jonizacji przez jony już istniejące i w chwili, kiedy jonizacja taka się rozpoczyna, natężenie prądu zwiększa się statecznie wraz z siłą pola pomiędzy talerzami kondensatora. Prąd graniczny może zatem być otrzymany tylko w tym razie, kiedy wpływy jonizujące nie przekraczają pewnej wielkości; inaczej mówiąc, prąd taki odpowiada polom, które jeszcze nie mogą dawać początku jonizacji gazu wywołanej przez uderzenia jonów. Ten warunek był właśnie zachowywany w moich doświadczeniach.
+
+Porządek wielkości prądów nasyconych, otrzymywanych ze związkami uranu, wyraża się przez 10–11 amperów, kiedy talerze kondensatora mają średnicę 8 cm, a odległość między nimi wynosi 3 cm. Związki torowe wytwarzają prądy tegoż samego porządku wielkości i aktywność tlenków uranowych i torowych jest bardzo zbliżona.
+
+*Radioaktywność związków uranowych i torowych*. — Z rozmaitymi związkami uranu otrzymałam liczby, które podaję niżej; przez *i* oznaczam natężenie prądu w amperach.
+
+    i×1011    
+Uran metaliczny (zawierający w sobie cokolwiek węgla)    2,3    
+Tlenek uranu czarny, U2O4,    2,6    
+Tlenek uranu zielony, U2O4    1,80    
+Kwas uranowy (wodzian)    0,6    
+Uranian sodu    1,2    
+Uranian potasu    1,2    
+Uranian amonu    1,3    
+Siarczan uranowy    0,7    
+Siarczan uranylowo-potasowy    0,7    
+Azotan uranylu    0,7    
+Fosforan uranylowo-miedziowy    0,9    
+Tlenosiarczek uranu    1,2    
+
+
+
+Grubość użytej warstwy związku uranowego wywiera wpływ niewielki, z warunkiem, żeby ta warstwa była ciągła. Oto kilka doświadczeń w tym względzie:
+
+    Grubość warstwy    i×1011    
+Tlenek uranu    0,5 mm    2,7    
+Tlenek uranu    3,0 mm    3,0    
+Uranian amonu    0,5 mm    1,3    
+Uranian amonu    3,0 mm    1,4    
+
+
+
+Stąd możemy wyprowadzić wniosek, że pochłanianie promieni uranowych przez ciała, które je wysyłają, jest bardzo silne, ponieważ promienie pochodzące z warstw głębszych nie wywierają na pomiar ważniejszego wpływu.
+
+Liczby otrzymane z doświadczeń ze związkami torowymi pozwoliły mi stwierdzić:
+
+1. że grubość użytej warstwy ma wpływ znaczny, szczególniej w przypadku tlenku torowego;
+
+2. że zjawisko przebiega prawidłowo tylko w tym razie, kiedy użyto cienkiej warstwy działającej (np. 0,25 mm). Przeciwnie, kiedy warstwa jest gruba (6 mm), liczby otrzymane wahają się w granicach szerokich, szczególniej dla tlenku:
+
+    Grubość warstwy    i×1011    
+
+Tlenek toru    0,25 mm    2,2    
+Tlenek toru    2,5 mm    2,5    
+Tlenek toru    0,5 mm    4,7    
+Tlenek toru    3,0 mm    3,5 (średnio)    
+Tlenek toru    0,25 mm    0,8    
+Siarczan torowy    0,25 mm    0,8    
+
+
+
+Istnieje więc w naturze zjawiska przyczyna nieprawidłowości, jakiej nie ma w przypadku związków uranowych. Liczby otrzymane z warstwą tlenku toru grubą na 6 mm wahają się pomiędzy 3,7 a 7,3.
+
+Doświadczenia, które przeprowadziłam nad pochłanianiem promieni uranowych i torowych, dowiodły, że promienie torowe są bardziej przenikliwe od uranowych, i że promienie wysyłane przez tlenek toru użyty w warstewce grubszej przenikają silniej niż promienie pochodzące od warstewki cieńszej. Oto, na przykład, liczby przedstawiające ułamek promieniowania, jaki przepuszcza blaszka glinowa, gruba na 0,01 mm.
+
+Ciało promieniujące    Ułamek promieniowania przepuszczany przez blaszkę    
+Uran     0,18    
+Tlenek uranu U2O3    0,20    
+Uranian amonowy    0,20    
+Fosforan miedziowo-uranowy    0,21    
+Tlenek toru — warstwa gruba na 0,25 mm    0,38    
+Tlenek toru — warstwa gruba na 0,5 mm    0,47    
+Tlenek toru — warstwa gruba na 3,0 mm    0,70    
+Tlenek toru — warstwa gruba na 6,0 mm    0,70    
+Siarczan toru — Tlenek toru — warstwa gruba na 0,25 mm    0,38    
+
+
+
+W doświadczeniach ze związkami uranu okazuje się, że pochłanianie jest zawsze jednakowe, niezależnie od tego, jaki mianowicie związek zostanie użyty; stąd wnioskować należy, że promienie wysyłane przez związki różne są jednakiej natury.
+
+Odrębności promieniowania torowego były przedmiotem komunikatów bardzo szczegółowych. P. Owens wykazał, że tutaj stałość prądu otrzymuje się dopiero po upływie dość znacznego czasu i tylko w przyrządzie zamkniętym, a natężenie prądu zmniejsza się bardzo pod wpływem strumienia powietrza, czego nie mamy dla związków uranowych. P. Rutherford powtarzał doświadczenia podobne i objaśnia je przez przypuszczenie, że tor i jego związki wydzielają nie tylko promienie Becquerela, lecz nadto jeszcze i *emanację*, składającą się z cząstek niesłychanie małych, która zatrzymuje w sobie radioaktywność w ciągu pewnego czasu, a może być unoszona przez strumień powietrza
+
+Właściwości promieniowania torowego, które zależą od wpływu grubości użytej warstwy i działania strumienia powietrza, okazują wielostronny związek ze zjawiskiem *radioaktywności wzbudzonej* i jej rozprzestrzeniania się z miejsca na miejsce. Zjawisko to po raz pierwszy było zauważone na radzie i będzie opisane poniżej.
+
+Promieniotwórczość związków uranu i toru przedstawia się jako *własność atomowa*. Już p. Becquerel stwierdził, że wszystkie związki uranowe są aktywne i zawnioskował, że ich aktywność jest spowodowana przez obecność w ich składzie pierwiastku uranu; dowiódł także, że sam uran jest bardziej aktywny niż jego sole. Badałam w tym względzie związki uranowe i torowe i wykonałam znaczną liczbę pomiarów ich aktywności w rozmaitych warunkach. Z całości tych pomiarów okazuje się, że radioaktywność tych ciał jest rzeczywiście własnością atomową. Wydaje się, że tutaj jest ona związana z obecnością atomów dwu pierwiastków rozważanych i nie bywa niweczona ani przez zmiany stanu fizycznego, ani przez przemiany chemiczne. Związki chemiczne i mieszaniny zawierające w sobie uran lub tor są o tyle bardziej aktywne, o ile stosunek znajdujących się w ich składzie owych metali jest większy. Każda przymieszka nieczynna działa jako materia obojętna i zarazem — jako ciało pochłaniające promieniowanie.
+
+*Czy radioaktywność atomowa jest zjawiskiem powszechnym?* — Jak już było mówione poprzednio, badałam, czy inne ciała oprócz związków uranu są radioaktywne. Przedsięwzięłam to poszukiwanie z przekonaniem, że mało podobnym do prawdy wydaje się przypuszczenie, ażeby promieniotwórczość, uważana jako własność atomu, miała być własnością pewnego rodzaju materii z wyłączeniem wszystkich innych jej rodzajów. Pomiary dokonane przeze mnie uprawniają mnie do twierdzenia, że związki pierwiastków chemicznych obecnie za takie uznawanych, rozumiejąc w ich liczbie najrzadsze i najbardziej nawet hipotetyczne, zbadane przeze mnie, wykazywały wszystkie w mym przyrządzie aktywność co najmniej sto razy słabszą niż uran metaliczny. Mając do czynienia z ciałami bardziej rozpowszechnionymi, badałam liczne ich związki; w przypadku ciał rzadkich musiałam poprzestawać na tych, w jakie udawało mi się zaopatrzyć.
+
+Do doświadczeń swoich wciągnęłam pod postacią pierwiastków lub związków ciała następujące:
+
+1. Wszystkie metale i niemetale pospolitsze i niektóre rzadsze, w stanie czystym, wchodzące w skład zbioru p. Etarda w Szkole Fizyki i Chemii Przemysłowej miasta Paryża;
+
+2. Następujące ciała rzadkie: gal, german, neodym, prazeodym, niob, skand, gadolin, erb, samar, rubid (okazy użyczone przez p. Demarçay'a), yttr, yterb, erb „nowy” (okazy użyczone przez p. Urbaina;
+
+3. Znaczną liczbę skał i minerałów.
+
+W granicach czułości mojego przyrządu nie znalazło się ani jedno ciało proste, które by posiadało promieniotwórczość atomową, z wyjątkiem uranu i toru. Należy jednak wspomnieć pokrótce o pewnej okoliczności, odnoszącej się do fosforu. Fosfor biały zwilżony, umieszczony pomiędzy talerzami kondensatora, nadaje powietrzu zawartemu między tymi talerzami własność przewodzenia. Ciała tego jednak nie uważam za radioaktywne na wzór uranu lub toru. Fosfor, w rzeczy samej, w warunkach przytoczonych utlenia się i wytwarza światło, gdy tymczasem związki uranowe i torowe są aktywne, jakkolwiek nie doświadczają żadnej zmiany chemicznej, dającej się dostrzec za pomocą środków znanych. Co więcej, fosfor nie jest aktywny ani w odmianie czerwonej, ani w swych związkach.
+
+W rozprawie niedawno ogłoszonej p. Bloch wykazuje, że fosfor, utleniając się w powietrzu, daje początek jonom bardzo słabo ruchliwym i wywołującym zgęszczanie się pary wodnej.
+
+Uran i tor są to dwa pierwiastki, które posiadają najwyższe ciężary atomowe (240 i 232); często spotykamy je w jednych i tych samych minerałach.
+
+*Minerały radioaktywne.* — Zbadałam w swoim przyrządzie znaczną liczbę minerałów; niektóre spomiędzy nich wykazały aktywność, szczególniej blenda smolista, chalkolit, autunit, monacyt, toryt, oranżyt, fergusonit, kleweit itd. W tabliczce poniższej *i* przedstawia wyrażone w amperach natężenie prądu, otrzymane z uranem i z różnymi minerałami:
+
+    i×1014    
+Uran    2,3    
+Blenda smolista z Johanngeorgenstadu    8,3    
+Blenda smolista z Joachmistahlu    7,0    
+Blenda smolista z Pribramu    6,5    
+Blenda smolista z Kornawalii    1,6    
+Kleweit    1,4    
+Chalkolit    5,2    
+Autmit    2,7    
+Toryty różne    0,1; 0,3; 0,7; 1,3; 1,4    
+Oranżyt    2,0    
+Monacyt    0,5    
+Ksenotym    0,03    
+Eschinit    0,7    
+Fergusonit, 2 okazy    0,1; 0,1    
+Samarskit    1,1    
+Niobit, 2 okazy    0,1; 0,3    
+Tantalit    0,02    
+Karnotyt    5,2    
+
+
+
+Prąd wytwarzający się za użyciem oranżytu (minerał zawierający tlenek toru) zmieniał się bardzo w zależności od grubości warstwy minerału. Zmieniając tę grubość od 0,25 mm do 6 mm, otrzymano prąd od 1,8 do 2,3.
+
+Wszystkie minerały, które się okazały promieniotwórczymi, zawierają tor lub uran; aktywność ich była oczekiwana, lecz natężenie zjawiska dla niektórych minerałów wydało się nam zdumiewającem. Tak, znaleziono blendy smoliste (minerały zawierające tlenek uranu) cztery razy bardziej aktywne od uranu metalicznego. Chalkolit (fosforan miedziowo-uranowy krystaliczny) jest dwa razy bardziej aktywny od uranu metalicznego. Autunit (fosforan uranowo-wapniowy) jest równie aktywny jak uran. Fakty te nie zgadzają się z uwagami poprzednimi, według których żaden minerał nie powinien był się okazać bardziej aktywnym od uranu i toru.
+
+Ażeby ten punkt wyjaśnić, przygotowałam chalkolit sztuczny według sposobu Debray'a, wychodząc z materiałów pierwotnych czystych. Metoda polega na zmieszaniu roztworu azotanu uranylowego z roztworem fosforanu miedzi w kwasie fosforowym i ogrzaniu mieszaniny do 50 lub 60°. Po upływie pewnego czasu w cieczy tworzą się kryształy chalkolitu. W taki sposób wytworzony chalkolit posiada aktywność zupełnie normalną, jeżeli uwzględnimy skład jego: jest on półtrzecia raza mniej aktywny od uranu.
+
+Od tej chwili stało się rzeczą bardzo prawdopodobną, że tak wysoka aktywność blendy smolistej, chalkolitu, autunitu zależy od zawartości w tych ciałach małej ilości substancji bardzo silnie promieniotwórczej, odmiennej od uranu, toru i w ogóle od pierwiastków poprzednio znanych. Wydało mi się, że o ile tak jest w istocie, mogę mieć nadzieję wydobycia z minerału tego ciała za pomocą postępowania zwyczajnego analizy chemicznej.
+
+
+
+Rozdział II.
+Nowe substancje radioaktywne
+
+*Metoda poszukiwań.* Rezultaty studyów nad minerałami radioaktywnymi, przytoczone w rozdziale poprzednim, zniewoliły p. Curie i mnie do podjęcia poszukiwań w celu wydzielenia z blendy smolistej nowej substancji promieniotwórczej. Metodę naszych badań mogliśmy oprzeć tylko na radioaktywności, gdyż nie znaliśmy żadnej innej własności szukanego ciała hipotetycznego. Promieniotwórczość może być pomocna w badaniach tego rodzaju w sposób następujący: Mierzy się radioaktywność danego produktu, oddziela od siebie jego części składowe według metod analizy chemicznej, mierzy następnie radioaktywność każdego z otrzymanych składników i wreszcie z wyniku pomiarów wnioskuje, czy szukana substancja promieniotwórcza stanowi część integralną jednego tylko ze składników, czy też rozdziela się pomiędzy nie wszystkie i w jakim stosunku. Osiąga się w ten sposób wskazówkę, którą można by do pewnego stopnia porównać z wynikami analizy widmowej. Chcąc na tej drodze otrzymać liczby porównawcze, należy do pomiarów radioaktywności używać substancji w stanie stałym i dobrze wysuszonych.
+
+*Polon, rad, aktyn.* Analiza blendy smolistej, dokonana na podstawie metody wskazanej powyżej, pozwoliła nam wykazać w tym minerale obecność dwu substancji silnie radioaktywnych: *polonu* („polonium”), wykrytego przez nas, i *radu* („radium”), który odkryliśmy ze współudziałem p. Bémonta.
+
+Pod względem zachowania się wobec metod analizy, polon przedstawia ciało zbliżone do bizmutu, towarzysząc mu w rezultatach oddzielania. Bizmut, coraz to bogatszy w polon, można otrzymać za pomocą jednego z następujących sposobów:
+
+1. Przez sublimację siarczków w próżni; siarczek zawierający ciało radioaktywne jest lotniejszy niż siarczek bizmutu czystego.
+
+2. Przez strącanie wodą z roztworów w kwasie azotowym; strącony zasadowy azotan bizmutu jest znacznie aktywniejszy niż sól pozostała w roztworze.
+
+3. Przez strącanie siarkowodorem z roztworów w kwasie solnym, bardzo silnie kwaśnych; strącane siarczki są daleko bardziej aktywne niż sól pozostała w roztworze.
+
+Rad jest ciałem, które towarzyszy barowi podczas oddzielania tego pierwiastku od reszty składników blendy smolistej; dzieli on z barem jego reakcje chemiczne i daje się od baru oddzielić na podstawie różnej rozpuszczalności chlorków w wodzie czystej, w wodzie z dodatkiem alkoholu lub zakwaszonej kwasem solnym. Oddzielanie chlorków baru i radu uskuteczniamy przez poddanie ich mieszaniny krystalizacji cząstkowej; chlorek radu jest mianowicie mniej rozpuszczalny od chlorku barowego.
+
+Trzecie ciało o silnej radioaktywności wykazał w blendzie smolistej p. Debierne, który nadał mu nazwę *aktyn* („actinium”). Aktyn towarzyszy w blendzie smolistej niektórym pierwiastkom z grupy żelaza; jak się zdaje, zbliża się on przede wszystkim do toru, od którego nie można go było jeszcze dotychczas oddzielić. Ekstrakcja aktynu z blendy smolistej jest operacją bardzo żmudną ze względu na trudność zupełnego oddzielenia tego ciała.
+
+Wszystkie trzy nowe substancje promieniotwórcze znajdują się w blendzie smolistej w ilości minimalnej. Aby otrzymać je w stanie stężonym, byliśmy zmuszeni przedsięwziąć przerób wielu ton odpadków minerału uranowego. Przerabianie na wielką skalę trzeba było uskutecznić na sposób fabryczny; jest ono związane z wielkim nakładem pracy, polegającej na oczyszczaniu i stężaniu. Z całych tysięcy kilogramów materiału podstawowego zdołaliśmy wyciągnąć kilka decygramów produktów, które są nadzwyczaj czynne w porównaniu z samym minerałem macierzystym. Oczywiście, że cała ta praca jest długa, mozolna i kosztowna
+
+W następstwie naszych badań ukazały się wzmianki o innych jeszcze, nowych substancjach radioaktywnych. Giesel z jednej, a Hoffmann i Strauss z drugiej strony zaznaczyli prawdopodobieństwo istnienia pewnej substancji promieniotwórczej, zbliżonej do ołowiu przez swe własności chemiczne. O substancji tej istnieją dotychczas szczupłe tylko wiadomości.
+
+Wśród wszystkich nowych substancji promieniotwórczych dotychczas jeden tylko rad został wydzielony w stanie soli czystej.
+
+*Widmo radu.* Było rzeczą pierwszorzędnej wagi sprawdzić, za pomocą wszelkich środków dostępnych, podane przez nas w pracy niniejszej przypuszczenie co do istnienia nowych pierwiastków promieniotwórczych. Co dotyczy radu, przypuszczenie to zostało jak najzupełniej stwierdzone za pomocą analizy widmowej.
+
+Badaniem nowych substancji radioaktywnych raczył się zająć p. Demarçay, stosując tutaj ścisłą metodę, którą posługiwał się w swych studiach nad fotografowanymi widmami iskry.
+
+Współpracownictwo tak kompetentnego uczonego było dla nas wielkim dobrodziejstwem, toteż żywimy głęboką wdzięczność względem tego badacza za przyjęcie na swe barki tej pracy. Wyniki analizy widmowej upewniły nas właśnie wtedy, gdy mieliśmy jeszcze pewne wątpliwości do sposobu interpretacji rezultatów naszych poszukiwań.
+
+Pierwsze próbki chlorku baru promieniotwórczego o średniej aktywności, zbadane przez Demarçay'a, okazały w widmie ultrafioletowym, obok linij baru, linię nową o znacznym natężeniu i długości fali λ = 381,47 mμ. Po zastosowaniu produktów bardziej aktywnych, Demarçay spostrzegł, że linia fali λ = 381,47 mμ stała się silniejszą; równocześnie wystąpiły inne linie nowe, a linie te i linie baru posiadały w widmie natężenia dające się porównywać. Przez dalszą koncentrację otrzymano wreszcie produkt, w którego widmie przeważają linie nowe, podczas gdy z linij baru tylko trzy najsilniejsze są widzialne, świadcząc jedynie o obecności tego metalu jako zanieczyszczenia. Produkt ten można już uważać za prawie czysty chlorek radu. Na koniec, przez dalsze oczyszczanie, zdołałam przygotować chlorek nadzwyczaj czysty, w którego widmie dwie główne linie baru są zaledwo widoczne.
+
+Oto, według Demarçay'a, tablica głównych linij radu, odnosząca się do części widma w granicach między λ — 500,0 a λ — 350,0 tysiącznych mikrona (mμ). Natężenie każdej linii jest tu wyrażone liczbą; dla linii najsilniejszej oznaczono ją liczbą 16.
+
+λ    Natężenie    λ    Natężenie    
+482,63    10    460,03     3    
+472,69     5     453,35    9    
+469,98    3    443,61    8    
+469,21    7    434,06    12    
+468,30    14    381,47    16    
+464,19    4    364,96    12    
+
+
+
+Wszystkie linie są czyste i wąskie; trzy linie 381,47; 468,30; 434,06 są silne. Dorównywają one najsilniejszym liniom znanym dotychczas. W widmie dają się również zauważyć dwa wydatne pasma mgliste. Pierwsze, symetryczne, rozciąga się w granicach od 463,10 do 432,19 z maximum w 462,75. Drugie, silniejsze blednieje ze strony ultrafioletu; poczyna się ono raptownie od 446,37 i osiąga maksimum przy 445,52; maximum to dochodzi do 445,34, po czym pasmo mgliste, stopniowo blednąc, sięga aż do 439.
+
+W części najmniej łamliwej widma iskrowego niefotografowanej, jedynym prążkiem znaczniejszym jest 566,5 (około), który jednak jest znacznie słabszy od linii 482,63.
+
+Wygląd ogólny widma jest taki sam, jak metali ziem alkalicznych; wiadomo, że metale te wykazują widma o liniach silnych z kilku pasmami mglistymi.
+
+Według Demarçay'a, rad można umieścić pomiędzy ciałami posiadającymi najbardziej czułą reakcję widmową. Skądinąd, prowadząc operację stężania chlorku baru radonośnego, mogłam sama wywnioskować, że w pierwszej badanej próbie, która wyraźnie wykazywała linię 381,47, zawartość radu musiała być bardzo nieznaczna (zapewne 0,02 na 100). Potrzeba jednak promieniotwórczości 50 razy większej niż uranu metalicznego, aby wyraźnie dostrzec główny prążek radu w widmach fotografowanych. Za pomocą elektrometru czułego można wykazać radioaktywność jakiegoś produktu, gdy wynosi ona nie więcej jak 1/100 aktywności uranu metalicznego. Widoczne jest tedy, że dla stwierdzenia obecności radu radioaktywność jest czynnikiem wiele tysięcy razy czulszym niż reakcja widmowa.
+
+Bizmut z bardzo silnie promieniotwórczym polonem i tor z bardzo silnie działającym aktynem, badane przez Demarçay'a, dawały dotychczas tylko linie bizmutu i toru.
+
+W rozprawie niedawno ogłoszonej Giesel, który zajmował się przygotowaniem radu, oznajmia, że bromek radu zabarwia płomień bunsenowski na kolor karminowy. Widmo płomienia radu zawiera dwa piękne pasma czerwone, jedną linię w barwie błękitno-zielonej i dwie słabe linie we fiolecie.
+
+*Ekstrakcja nowych substancji radioaktywnych.* Pierwsza czynność ekstrakcji polega na wyciąganiu z minerału uranowego baru radonośnego, bizmutu polononośnego i ziem rzadkich, zawierających aktyn. Skoro te trzy pierwsze produkty zostaną otrzymane, należy przystąpić do wydzielenia z każdego z nich nowej substancji promieniotwórczej. Ta druga część poszukiwań dokonywa się za pomocą odpowiedniej metody frakcjonowania. Wiadomo, że wynalezienie stosownego sposobu zupełnego oddzielania pierwiastków bardzo zbliżonych jest rzeczą trudną; w takich razach pozostaje tylko użycie metod opartych na frakcjonowaniu. Zresztą gdy jaki pierwiastek znajduje się w mieszaninie z drugim w ilościach nie większych nad ślady, nie sposób poddać mieszaniny jakiejś metodzie oddzielania zupełnie doskonałego, nawet gdybyśmy taką metodę znali; bowiem można by się było narazić na stratę i owego śladu danego składnika, który mógłby zostać stracony w ciągu operacji. Praca mająca na celu izolowanie radu i polonu była specjalnie moim udziałem. Po kilkuletnich poszukiwaniach w tym kierunku zdołałam dojść do wyników pozytywnych względem radu. Ponieważ blenda smolista jest minerałem kosztownym, przeto zaniechaliśmy przerabiania tego minerału w zbyt wielkich ilościach. W Europie ekstrakcja jego dokonywa się w kopalniach w Jachimowie (Joachimsthal) w Czechach. Minerał, po rozdrobnieniu, zostaje prażony z węglanem sodu, a produkt tej reakcji ługowany ciepłą wodą, a następnie kwasem siarczanym rozcieńczonym. Roztwór zawiera uran, stanowiący właśnie o wartości blendy smolistej. Pozostałość nierozpuszczalna bywa odrzucana.
+
+Ta to pozostałość zawiera substancje radioaktywne; jej czynność promieniotwórcza jest *cztery i pół raza* większa od aktywności uranu metalicznego. Rząd austriacki, do którego należą kopalnie blendy, uprzejmie zaofiarował nam na cele naszych poszukiwań jedną tonę tych odpadków i upoważnił kopalnie do dostarczania nam większej ilości ton tego materiału.
+
+Było to zadanie wcale niełatwe przerabiać odpadki po raz pierwszy w sposób fabryczny według metod stosowanych w laboratorium. P. Debierne raczył przestudiować tę kwestię i zorganizować przerób fabryczny. Punkt najważniejszy metody wskazanej przez niego polegał na uskutecznianiu przemiany siarczanów w węglany przez gotowanie materiału ze stężonym roztworem węglanu sodu. Sposób ten pozwala uniknąć czynności topienia z węglanem sodowym.
+
+Pozostałość zawiera głównie siarczany ołowiu i wapnia, krzemionkę, glinkę i tlenek żelaza. Poza tym, można w nich znaleźć, w ilościach mniejszych lub większych, prawie wszystkie metale (miedź, bizmut, cynk, kobalt, mangan, nikiel, wanad, antymon, tal, ziemie rzadkie, niob, tantal, arsen, bar itp.). W tej mieszaninie rad znajduje się w postaci siarczanu i stanowi wśród innych siarczan najmniej rozpuszczalny. Chcąc go przeprowadzić w roztwór, należy wyrugować, jak można najzupełniej, kwas siarczany. W tym celu odpadki zostają traktowane stężonym i gorącym roztworem sody zwyczajnej. Kwas siarczany, związany z ołowiem, glinem, wapniem, przechodzi w znacznej części do roztworu w postaci siarczanu sodu, który zostaje usunięty zupełnie przez płukanie wodą. Do roztworu alkalicznego przechodzą równocześnie ołów, krzemionka i glinka. Resztę nierozpuszczalną poddaje się, po wymyciu wodą, działaniu zwykłego kwasu solnego, który rozkłada materiał traktowany i rozpuszcza znaczną jego ilość. Z roztworu stąd powstałego można wydzielić polon i aktyn: pierwszy z nich strąca się siarkowodorem, drugi natomiast znajduje się w przesączu po siarczkach i może być stąd razem z wodzianami strącony amoniakiem. Co dotyczy radu, to pozostaje on w osadzie nierozpuszczalnym w kwasie solnym. Osad ten myje się wodą, po czym traktuje stężonym i wrącym roztworem węglanu sodu. Jeżeli w osadzie pozostała niewielka tylko ilość nierozłożonych siarczanów metali obcych, wtedy wynikiem powyższej czynności jest zupełna przemiana siarczanów baru i radu w węglany. Teraz myje się materiał bardzo dokładnie wodą, po czym poddaje działaniu kwasu solnego, niezawierającego kwasu siarczanego. Roztwór zawiera rad, a nadto polon i aktyn. Roztwór ten zostaje przefiltrowany i strącony kwasem siarczanym. W ten sposób otrzymuje się surowe siarczany baru radonośnego, zawierającego nadto wapń, ołów, żelazo i nieznaczną domieszkę aktynu. Przesącz zaś zawiera jeszcze nieco polonu i aktynu, które dają się zeń wydzielić tak samo, jak z pierwszego roztworu w kwasie solnym.
+
+Z jednej tony odpadków otrzymuje się 10 do 20 kg siarczanów surowych, których radioaktywność jest 30 do 60 razy większa niż uranu metalicznego. Teraz należy przystąpić do ich oczyszczania. W tym celu gotuje się je z węglanem sodu, po czym zamienia na chlorki. Przez roztwór w kwasie solnym przepuszcza się strumień siarkowodoru, który strąca nieco siarczków radioaktywnych, zawierających polon. Ciecz zostaje teraz odfiltrowana od osadu, utleniona działaniem chloru i strącona czystym amoniakiem.
+
+Strącone tlenki i wodziany są w silnym stopniu promieniotwórcze, co jest spowodowane przez obecność aktynu. Roztwór, pozostały po ich odfiltrowaniu, strąca się w dalszym ciągu węglanem sodu. Strącone węglany ziem alkalicznych przemywa się wodą i przemienia na chlorki, które odparowuje się do suchości i płucze czystym, stężonym kwasem solnym. Chlorek wapnia rozpuszcza się w kwasie solnym prawie całkowicie, gdy chlorek baru radonośnego pozostaje nierozpuszczony. W ten sposób z jednej tony materiału podstawowego otrzymuje się około 8 kg chlorku baru radonośnego, którego czynność jest około 60 razy większa od czynności uranu metalicznego. Chlorek ten przedstawia materiał gotowy do frakcjonowania.
+
+*Polon.* Jak już wyżej zaznaczono, siarkowodór przepuszczany przez różne roztwory w kwasie solnym, otrzymane w trakcie przerabiania, strąca z nich siarczki aktywne, których promieniotwórczość zależy od obecności polonu. Siarczki te zawierają głównie bizmut, nieco miedzi i ołowiu. Zawartość ostatniego metalu jest stosunkowo niewielka, ponieważ znaczna jego część przeszła poprzednio do roztworu w sodzie i ponieważ jego chlorek jest mało rozpuszczalny. Co do antymonu i arsenu, to znajdują się one w siarczkach w ilości minimalnej, gdyż tlenki ich zostały rozpuszczone w sodzie. Aby otrzymać siarczki bardzo aktywne, stosowano następujący sposób postępowania. Bardzo silnie kwaśne roztwory w kwasie solnym strącano siarkowodorem; strącone w tych warunkach siarczki odznaczają się bardzo znaczną aktywnością; używano ich do przygotowania polonu. W roztworze pozostają substancje, których strącenie się było niezupełne wobec nadmiaru kwasu solnego (bizmut, ołów, antymon). Aby dokonać ich strącenia, rozcieńczano roztwór wodą i wprowadzano do cieczy znowu strumień siarkowodoru, otrzymując w ten sposób drugą porcję siarczków znacznie mniej czynnych niż pierwsze. Porcję tę zazwyczaj odrzucano. — W celu ostatecznego oczyszczenia siarczków, przemywa się je siarczkiem amonu, który zabiera pozostałe ślady antymonu i arsenu, następnie płucze wodą zawierającą azotan amonu, a wreszcie rozpuszcza w kwasie azotowym. Rozpuszczanie się nie jest nigdy zupełne; stale otrzymuje się większą lub mniejszą ilość pozostałości nierozpuszczalnej, którą przerabia się powtórnie, jeżeli widzi się w tym jaką korzyść. Roztwór zaś zostaje odparowany do małej objętości i strącony bądź amoniakiem, bądź wielką ilością wody. W obydwu przypadkach ołów i miedź pozostają w roztworze; w drugim nieznaczna część bizmutu, bardzo słabo aktywnego, pozostaje również rozpuszczona.
+
+Osad tlenków lub azotanów zasadowych poddaje się frakcjonowaniu w sposób następujący. Po rozpuszczeniu uprzednim osadu w kwasie azotowym, do roztworu dodaje się wody aż do utworzenia się dostatecznej ilości osadu. Przystępując do tej czynności, należy pamiętać, że czasami osad tworzy się dopiero po upływie pewnego czasu. Ciecz ponad osadem zostaje teraz oddzielona, a osad rozpuszczony w kwasie azotowym. Obie porcje cieczy, otrzymane w powyższy sposób, strąca się ponownie wodą i tak dalej, kolejno. Następnie łączy się razem poszczególne porcje, według stopnia ich radioaktywności, i dokłada starań, by posunąć koncentrację jak można najdalej. W ten sposób otrzymuje się bardzo drobną ilość substancji, której aktywność jest wprawdzie ogromna, która niemniej jednak nie dała w spektroskopie żadnych innych prążków, prócz prążków bizmutu.
+
+Niestety, mało jest danych, żeby na tej drodze polon mógł być wydzielony. Opisana powyżej metoda frakcjonowania przedstawia wiele trudności, a to samo można powiedzieć i o innych sposobach frakcjonowania drogą mokrą. Niezależnie od tego, jakiego używamy sposobu, zawsze tworzą się z największą łatwością związki zupełnie nierozpuszczalne w kwasach rozcieńczonych lub stężonych.
+
+Związki te nie dają się rozpuścić inaczej, jak tylko po uprzednim przeprowadzeniu ich w stan metaliczny, co można osiągnąć np. przez topienie z cyjankiem potasu.
+
+W nastręczającej się tutaj znacznej liczbie czynności, jakie trzeba wykonać, tkwi olbrzymia trudność, odbijająca się na rezultatach frakcjonowania. Szkopuł ten jest poważny, zwłaszcza wobec faktu, że polon przedstawia substancję, która, skoro tylko zostanie wydzielona z blendy smolistej, zmniejsza swą radioczynność.
+
+To obniżanie się czynności następuje zresztą powoli; np. próbka azotanu bizmutu z polonem straciła połowę swej czynności w jedenaście miesięcy.
+
+Natomiast żadna trudność analogiczna nie jest związana z wydzielaniem radu. Radioaktywność pozostaje tutaj przewodnikiem niezawodnym w czynnościach koncentracji; koncentracja nie przedstawia sama przez się żadnych trudności, a wyniki poszukiwań mogły być od początku stale sprawdzane przez analizę widmową.
+
+Gdy zjawisko radioaktywności wzbudzonej, o czym będzie mowa nieco dalej, zostało spostrzeżone, wydawało się naturalnym przypuszczenie, że polon, który okazuje tylko prążki bizmutu i którego radioaktywność zmniejsza się z czasem, nie jest pierwiastkiem nowym, lecz przedstawia bizmut aktywowany przez rad wskutek bliskiego z nim sąsiedztwa w blendzie smolistej. Nie jestem bynajmniej przekonana, by ten sposób zapatrywania się był ścisły. W biegu mych poszukiwań, prowadzonych dalej nad polonem, stwierdziłam w nim takie własności chemiczne, jakich nigdy nie widziałam ani w bizmucie zwykłym, ani też w bizmucie aktywowanym przez rad. Te własności chemiczne zaznaczają się przede wszystkim w nadzwyczajnej łatwości tworzenia się związków nierozpuszczalnych, o których była wzmianka powyżej (szczególnie azotanów zasadowych), a następnie w kolorze i wyglądzie osadów otrzymywanych przez dodawanie wody do roztworu bizmutu polononośnego w kwasie azotowym. Osady te są czasami białe, jednak znacznie częściej posiadają kolor żółty, mniej lub więcej żywy, dochodzący aż do ciemnej czerwieni.
+
+Brak innych prążków w widmie, prócz prążków bizmutu, nie rozstrzyga ostatecznie, że substancja zawiera tylko bizmut, albowiem istnieją ciała, których reakcja widmowa jest mało czuła.
+
+Byłoby rzeczą niezbędną przygotować pewną ilość bizmutu polononośnego w stanie stężenia posuniętym jak można najdalej i podjąć nad nim badania chemiczne, a przede wszystkim dokonać oznaczenia ciężaru atomowego metalu.
+
+Gdyby dało się wykazać, że polon jest pierwiastkiem nowym, nie zmniejszyłoby się przez to prawdziwości tego faktu, że pierwiastek ten nie może trwać bezgranicznie długo w stanie silnej radioaktywności, przynajmniej wtedy, gdy zostanie wydzielony z minerału. Można tedy zapatrywać się na tę kwestię w sposób dwojaki: 1) albo cała radioaktywność polonu jest własnością wzbudzoną przez sąsiedztwo substancji promieniotwórczych innych; polon posiadałby wtedy zdolność aktywowania się atomowego w sposób trwały, zdolność, która nie zdaje się być udziałem żadnego ciała innego; 2) albo radioaktywność polonu jest własnością swoistą, która znika samodzielnie w jednych warunkach, a która może trwać w pewnych innych warunkach, jakie są urzeczywistnione w minerale pierwotnym. Zjawisko aktywowania atomowego przez zetknięcie jest jeszcze tak mało znane, że brakuje podstaw, aby można było utworzyć sobie jakiś pogląd ustalony na tę sprawę.
+
+
+Niedawno ukazał się komunikat p. Marckwalda dotyczący polonu. Marckwald zanurza sztabkę bizmutu czystego w roztworze otrzymanym przez rozpuszczenie w kwasie solnym bizmutu wyciągniętego z odpadków po przerobie blendy smolistej. Po upływie pewnego przeciągu czasu sztabka pokrywa się osadem bardzo czynnym, a roztwór zawiera wtedy tylko bizmut nieczynny. Marckwald otrzymuje również osad bardzo czynny, dodając chlorku cynawego do roztworu bizmutu radioaktywnego w kwasie solnym. Marckwald wnioskuje stąd, że pierwiastek promieniotwórczy jest analogiczny z tellurem i nadaje mu nazwę *radiotelluru*. Materia czynna Marckwalda wydaje się identyczną z polonem zarówno ze względu na swe pochodzenie, jak i na promienie ulegające silnemu pochłanianiu które są przez nią wysyłane. Wybór nowej nazwy dla tej materii w obecnym stanie kwestii jest bez wątpienia rzeczą zupełnie bezużyteczną.
+
+*Przygotowanie czystego chlorku radu*. Sposób, jaki obrałam w celu wyciągnięcia czystego chlorku radu z chlorku baru radioaktywnego, polega na tym, że mieszaninę chlorków poddaje się krystalizacji cząstkowej, najpierw z wody czystej, następnie z wody zakwaszonej czystym kwasem solnym. Tak więc zużytkowuje się różnicę rozpuszczalności dwu chlorków, z których chlorek baru jest bardziej rozpuszczalny od chlorku radu.
+
+W początkach krystalizacji cząstkowej stosuje się czystą wodę destylowaną. Rozpuszcza się chlorek, doprowadza roztwór do stanu nasycenia w temperaturze wrzenia, po czym przez oziębianie uskutecznia się krystalizowanie soli w parownicy przykrytej. Wtedy tworzą się na dnie piękne kryształy przylegające, sponad których łatwo zlać można ług pokrystaliczny. Jeżeli wyparujemy do suchości próbkę tego ługu, znajdziemy, że otrzymany chlorek jest około pięć razy mniej radioaktywny niż sól, która się wykrystalizowała. Zatem chlorek pierwotny został rozdzielony na dwie porcje: A i B. Względem każdego z obu chlorków, A i B, stosuje się ponownie ten sam sposób postępowania i z każdego z nich otrzymuje dwie nowe porcje. Gdy krystalizacja jest ukończona, łączy się razem mniej aktywną frakcję chlorku A z bardziej aktywną chlorku B, gdyż obie posiadają mniej więcej ten sam stopień radioaktywności. Teraz jesteśmy więc w posiadaniu trzech porcji , które w dalszym ciągu traktuje się w ten sam sposób.
+
+Liczbie porcji nie pozwala się jednak rosnąć bez końca, bowiem w miarę jej powiększania zmniejsza się aktywność porcji najłatwiej rozpuszczalnej. Gdy porcja ta wykazuje wreszcie nieznaczną tylko aktywność, wyłącza się ją z krystalizacji cząstkowej. Po otrzymaniu pożądanej liczby porcji zaprzestaje się również frakcjonowania porcji najtrudniej rozpuszczalnej (najbogatszej w rad) i wyłącza się ją z roboty.
+
+Pracuje się z pewną stałą liczbą porcji . Po każdej serii czynności roztwór nasycony (ług pokrystaliczny) pozostający z porcji jednej, wylewa się na kryształy z porcji następującej; skoro jednak po przerobieniu jednej serii wyłączyliśmy frakcję najłatwiej rozpuszczalną, wtedy, po przerobieniu znów serii następnej, tworzymy natomiast nową porcję z frakcji najłatwiej rozpuszczalnej, a wyłączamy za to kryształy, które przedstawiają część najbardziej aktywną. Zachowując w kolejnym następstwie te dwa sposoby postępowania, otrzymujemy bardzo regularny mechanizm frakcjonowania, w którym liczba frakcji i aktywność każdej z nich pozostają stałe, przy czym każda frakcja dana jest około pięć razy aktywniejsza niż następne. W szeregu tym z jednej strony (w końcu szeregu) wyłącza się produkt prawie nieczynny, gdy z drugiej strony (na przodzie) zdobywa się chlorek wzbogacony w rad. Ilość substancji w poszczególnych frakcjach zmniejsza się naturalnie coraz bardziej i tym mniej zawierają one substancji, im większą staje się ich aktywność.
+
+Z początku operowano z sześciu frakcjami, a aktywność chlorku wyłączonego na końcu szeregu wynosiła nie więcej nad 0,1 aktywności uranu.
+
+Gdy w ten sposób znaczna część substancji nieczynnej zostanie wyłączona, a frakcje staną się drobne, nie przedstawiałoby żadnej korzyści dalsze wydzielanie wobec aktywności tak słabej; wtedy usuwa się jedną frakcję z końca szeregu, a na początek włącza się porcję utworzoną z poprzednio osiągniętego chlorku aktywnego. Zdobywa się więc teraz chlorek bogatszy w rad niż poprzednio. System ten stosuje się aż do chwili, gdy kryształy z początku szeregu będą przedstawiały czysty chlorek radu. Jeżeli frakcjonowanie odbywało się w sposób ścisły, wtedy pozostają tylko bardzo drobne ilości wszelkich produktów pośrednich.
+
+Skoro krystalizacja cząstkowa już znacznie jest posunięta i gdy ilość substancji w poszczególnych frakcjach stała się nieznaczną, wtedy dalszy podział przez krystalizację nie jest już tak skuteczny, gdyż oziębianie następuje zbyt raptownie, a objętość roztworu, który ma być odlany, staje się zbyt mała. Wtedy należy dolać do wody pewną określoną ilość kwasu solnego; ilość ta winna podwyższać się w miarę dalszego posuwania się krystalizacji cząstkowej.
+
+Korzyść wynikła z dodatku kwasu solnego polega na możności powiększenia objętości roztworu, gdyż rozpuszczalność chlorków w wodzie zaprawionej kwasem solnym jest mniejsza niż w wodzie czystej. Nadto frakcjonowanie jest wtedy bardzo skuteczne: różnica dwu porcji otrzymanych z tego samego produktu staje się znaczna. Stosując wodę z wielką ilością kwasu, osiąga się możność doskonałego oddzielania i wtedy można ograniczyć się do trzech lub czterech frakcji . Korzystność tego sposobu ujawnia się, skoro tylko ilość substancji stanie się dostatecznie małą, by można było posługiwać się nim bez przeszkód. Kryształy wydzielające się z roztworu kwaśnego mają postać silnie wydłużonych igieł, których wygląd jest zupełnie ten sam, czy to będzie chlorek baru czy radu. Jedne i drugie łamią światło podwójnie. Kryształy chlorku baru radonośnego wydzielają się w stanie bezbarwnym, skoro jednak zawartość w nich radu stanie się dostatecznie wielka, przyjmują po upływie kilku godzin barwę żółtawą, przechodzącą w odcień pomarańczowy, a niekiedy przyjmują zabarwienie różowe. Zabarwienie to znika w roztworze. Kryształy chlorku radu czystego nie zabarwiają się wcale lub przynajmniej nie tak prędko; barwa zdaje się zatem być spowodowana przez równoczesną obecność baru i radu w krysztale. Maksimum zabarwienia otrzymuje się dla pewnego stopnia stężenia pod względem zawartości radu; własność ta może przeto być pomocna w orientowaniu się w postępie frakcjonowania. Dopóki frakcja najbardziej aktywna barwi się, zawiera ona jeszcze znaczną ilość baru, gdy jednak nie przyjmuje żadnego zabarwienia, a natomiast czynią to frakcje następujące, wtedy składa się głównie z czystego chlorku radu.
+
+Spostrzegałam niekiedy tworzenie się pokładu kryształów, w którym część jedna pozostawała bezbarwna, gdy druga barwiła się. Zdawało się możliwą rzeczą oddzielić kryształy bezbarwne mechanicznie, jednak nie próbowałam tego. — W końcu krystalizacji cząstkowej stosunek aktywności w porcjach po sobie następujących nie jest taki sam, ani też tak prawidłowy, jak na początku; mimo to nie nastręcza się stąd żadna poważniejsza przeszkoda w biegu pracy.
+
+Strącanie cząstkowe chlorku baru radonośnego w roztworze wodnym za pomocą alkoholu prowadzi również do wydzielenia chlorku radu, który strąca się najpierw. Sposób ten, którego używałam z początku, zastąpiłam później metodą opisaną powyżej, bardziej systematyczną. Niemniej jednak posługiwałam się strącaniem za pomocą alkoholu, aby oczyścić chlorek radu od małej domieszki chlorku baru. Ostatni związek jest rozpuszczalny w alkoholu zaprawionym nieco wodą i może być w ten sposób usunięty.
+
+P. Giesel, który od czasu ogłoszenia naszych pierwszych poszukiwań zajął się przygotowaniem ciał radioaktywnych, zaleca uskuteczniać oddzielanie baru od radu przez cząstkowe krystalizowanie w wodzie mieszaniny bromków. Stwierdziłam, że sposób ten jest istotnie korzystny, zwłaszcza w początkach frakcjonowania.
+
+Niezależnie od tego, jakiego sposobu frakcjonowania używać będziemy, jest zawsze rzeczą pożyteczną poddawać go kontroli przez mierzenie aktywności. Należy przy tym zauważyć, że każdy związek radu, który ze stanu roztworu został przeprowadzony w stan stały, posiada w początkach tym mniejszą aktywność, im dłużej pozostawał w roztworze. Aktywność rośnie potem w przeciągu kilku miesięcy aż do pewnej granicy, zawsze jednakowej. Aktywność końcowa jest pięć lub sześć razy większa niż początkowa. Zmiany te, do których powrócę jeszcze nieco później, winny być wzięte pod uwagę podczas pomiarów aktywności. Aczkolwiek aktywność końcowa jest dokładniej scharakteryzowana, praktyczniej jest jednak w trakcie postępowania chemicznego mierzyć aktywność początkową produktu stałego. Aktywność substancji silnie promieniotwórczych różni się stopniem wielkości znacznie od aktywności minerałów macierzystych (jest ona 105 razy większa). Gdy się mierzy tę radioaktywność za pomocą metody wyłuszczonej na początku rozprawy niniejszej (przyrząd na rys. 1), nie można zwiększyć, poza pewną granicę, ciężaru kładzionego na talerzyk przytwierdzony do kwarcu. Ciężar ten wynosił w naszych doświadczeniach najwyżej 4000 g, odpowiadając pewnej wytworzonej ilości elektryczności, równej 25 jednostkom elektrostatycznym. Możemy więc mierzyć aktywność w granicach od 1 do 4000, stosując zawsze jedną i tę samą powierzchnię substancji czynnej. Aby granicę pomiarów rozszerzyć, zmieniamy tę powierzchnię w pewnym znanym stosunku. Substancja zajmie wtedy pośrodku talerza B pewną powierzchnię kolistą o znanym promieniu. Ponieważ w tych warunkach aktywność nie pozostaje ściśle proporcjonalna do powierzchni, przeto oznacza się empirycznie współczynniki, które pozwalają na porównywanie aktywności wobec nierównych powierzchni działających. Gdy znowu i ten środek okaże się niewystarczający, pozostaje uciec się do ekranów absorpcyjnych i innych sposobów odpowiednich, nad któremi nie będę się jednak tutaj dłużej zatrzymywała. Wszystkie te, bardziej lub mniej niedoskonałe środki wystarczają jednakże do nadawania kierunku poszukiwaniom.
+
+Mierzyliśmy również prąd w kondensatorze włączonym w obwód baterii złożonej z małych akumulatorów z czułym galwanometrem. Potrzeba częstego sprawdzania czułości galwanometru kazała nam jednak zaniechać tej metody dla zwykłych pomiarów.
+
+*Oznaczenie ciężaru atomowego radu*. W biegu mych poszukiwań, częstokroć oznaczałam ciężar atomowy metalu zawartego w próbkach chlorku baru radonośnego. Za każdym razem, gdy po ukończeniu nowego przerobu, posiadłam nowy zapas tego materiału, posuwałam stężenie do granic możliwie najdalszych, tak że otrzymywałam 0,1 do 0,5 g substancji, która zawierała prawie całą radioaktywność mieszaniny pierwotnej. Z tej małej ilości substancji strącałam alkoholem lub kwasem solnym kilka miligramów chlorku, które zostawały przeznaczone do analizy widmowej. Posługując się swoją znakomitą metodą, Demarçay nie potrzebował więcej nad tę minimalną ilość substancji, aby otrzymać fotografię widma iskry. Produktu zbywającego używałam do oznaczania ciężaru atomowego.
+
+Zastosowałam tutaj metodę klasyczną, która polega na tym, że chlor, zawarty w znanej ilości chlorku bezwodnego, oznacza się jako chlorek srebra. Dla sprawdzenia tego doświadczenia, oznaczałam ciężar atomowy baru za pomocą tej samej metody, stosując ją w tych samych warunkach i do tej samej ilości substancji: najpierw 0,5 g, a następnie tylko 0,1 g. Wartości stąd otrzymane chwiały się zawsze w granicach od 137 do 138. Przekonałam się przeto, że metoda ta daje wyniki zadowalające, nawet dla tak małej ilości substancji.
+
+Dwa pierwsze oznaczenia wykonano na chlorkach, z których jeden był 230 razy, drugi zaś 600 razy aktywniejszy od uranu. Te dwa oznaczenia dały wartości te same, co i oznaczenia chlorku baru czystego. Można się było przeto spodziewać, że pewna różnica da się dopiero wykazać po użyciu produktu daleko bardziej aktywnego. Do doświadczenia następnego użyto tedy chlorku, którego aktywność była około 3500 razy większa od aktywności uranu; doświadczenie to pozwoliło po raz pierwszy osiągnąć różnicę, drobną wprawdzie, lecz pewną. Jako wartość średnią dla ciężaru atomowego metalu, zawartego w tym chlorku, otrzymałam liczbę 140, co świadczyło, że ciężar atomowy radu musi być wyższy od ciężaru baru. Stosując dalej produkty coraz to bardziej aktywne i dające widmo radu o coraz to większym natężeniu, stwierdziłam, że wartości otrzymane stają się również coraz większe, jak to można zauważyć w poniższej tabliczce (A oznacza wielkość aktywności chlorku, jeżeli aktywność uranu przyjmiemy za jednostkę; M — znaleziony ciężar atomowy).
+
+Liczby w kolumnie A wyrażają wartości tylko z grubsza przybliżone. Ścisłe oszacowanie aktywności ciał silnie promieniotwórczych w rzeczy samej jest trudne, dla różnych powodów, o których wspomnę nieco dalej.
+
+A    M    
+3500    140 — widmoradu bardzo słabe    
+4700    141    
+7500    145,8 — widmo radu silne, lecz widmo baru posiada jeszcze znaczną przewagę    
+Wielkość aktywności odpowiada wartości 106    173,8 — obydwa widma mają natężenie mniej więcej równe    
+Wielkość aktywności odpowiada wartości 10    225 — bar obecny w ilości nie większej nad ślady.    
+
+
+
+W biegu poszukiwań nad stężeniem, opisanych powyżej, otrzymałam w marcu 1902 r. próbkę chlorku radowego, którego analizą widmową zajął się Demarçay. Według opinii tego uczonego, ów chlorek radu był prawdopodobnie czysty; jednak widmo jego wykazywało jeszcze trzy główne linie baru o znacznym natężeniu. Chlorek ten zastosowałam do czterech oznaczeń ciężaru atomowego, których wyniki są następujące:
+
+    Chlorek radu bezwodny    Chlorek srebra     M    
+I    0,1150     0,1130    220,7    
+II    0,1448     0,1119     223,0    
+III    0,11135     0,1086     222,8    
+IV    0,10925      0,10645    223,1    
+
+
+
+Podjęłam przeto dalsze oczyszczanie tego chlorku i otrzymałam produkt znacznie jeszcze czystszy, w którego widmie dwie najsilniejsze linie baru zaznaczają się bardzo słabo. Biorąc pod uwagę czułość reakcji widmowej baru, Demarçay mniema, że ten oczyszczony chlorek zawiera zaledwie „minimalne ślady baru, niezdolne do wywierania na ciężar atomowy jakiegokolwiek wpływu, który by dał się oszacować”. Tego chlorku radu, najzupełniej czystego, użyłam do trzech oznaczeń ciężaru atomowego. Oto ich wyniki:
+
+    Chlorek radu bezwodny    Chlorek srebra    M    
+I    0,09192    0,08890    225,3    
+II    0,08936    0,08627    225,8    
+III    0,08839    0,08589    224,0    
+
+
+
+Liczby te dają średnią wartość 225. Podobnie jak i poprzednie, zostały one obliczone na podstawie wniosku, że rad jest pierwiastkiem dwuwartościowym, chlorek posiada zatem wzór RaCl2, i na zasadzie następujących liczb dla srebra i chloru: Ag=107,8 i Cl=35,4.
+
+Z doświadczeń tych wynika, że ciężar atomowy radu wynosi Ra=225. Liczbę tę uważam za ścisłą mniej więcej do jednej jedności.
+
+Do ważeń użyto doskonale wyregulowanej wagi aperiodycznej pomysłu p. Curie'go z czułością do 1/20 mg. Waga ta, z odczytywaniem bezpośrednim, pozwala na ważenia nadzwyczaj szybkie, co stanowi warunek kardynalny dla odważania chlorków bezwodnych radu i baru, które przyciągają powoli wilgoć, mimo obecności środków suszących wewnątrz wagi. Substancja przeznaczona do odważenia, znajdowała się w tygielku platynowym, który od dawna już był w użyciu; przekonałam się, że ciężar jego nie zmieniał się w trakcie jednej operacji nawet o 1/10 mg.
+
+Otrzymany przez krystalizację i zawierający wodę krystaliczną chlorek umieszczano w tygielku i przez ogrzewanie w suszarce zamieniano na chlorek bezwodny. Doświadczenie wykazuje, że gdy chlorek został ogrzewany przez kilka godzin w 100°, ciężar jego nie zmienia się dalej, nawet wtedy, jeżeli podniesiemy temperaturę do 200° i będziemy ją utrzymywali na tej wysokości w przeciągu kilku godzin. Tak otrzymany chlorek bezwodny przedstawia zatem ciało o charakterze dokładnie określonym.
+
+Przytaczam szereg pomiarów odnoszących się do kwestii powyższej: chlorek (1 dg) był suszony w suszarce w temp. 55°, po czym umieszczony w eksykatorze nad bezwodnikiem fosforowym; począł on wtedy tracić nader powoli na ciężarze, co świadczy, że w chlorku znajdowała się jeszcze woda. Po upływie 12 godzin strata wyniosła 3 mg. Następnie przeniesiono chlorek z powrotem do suszarki i podwyższono temperaturę do 100°. W ciągu tego doświadczenia chlorek utracił 6,3 mg. Pozostawiony w dalszym ciągu w suszarce przez 3 godziny i 15 minut, chlorek stracił jeszcze 2,5 mg. Teraz utrzymywano temperaturę przez 45 minut między 100 a 120°, czego wynikiem była znowu strata ciężaru = 0,1 mg. Podczas dalszego, 80-minutowego ogrzewania w 125°, chlorek nie stracił nic na wadze. Ogrzewany dalej przez 30 minut w 150°, chlorek utracił jeszcze 0,1 mg. Wreszcie ogrzewany w ciągu 4-ch godzin w temp. 200°, chlorek zmniejszył swój ciężar o 0,15 mg. Po upływie wszystkich tych operacji , ciężar tygielka zmienił się o 0,05 mg.
+
+Po każdorazowym oznaczeniu ciężaru atomowego, rad z roztworu był przeprowadzony powrotnie w chlorek w sposób następujący: ciecz, zawierającą po ukończonym oznaczeniu azotan radu i azotan srebra w nadmiarze, zakwaszano kwasem solnym, oddzielano chlorek srebra przez filtrowanie, po czym przesącz parowano z nadmiarem czystego kwasu solnego kilkakrotnie do suchości. W ten sposób można wypędzić kwas azotowy. — Chlorek srebra, tworzący się podczas oznaczania, był zawsze radioaktywny i świecił. Przez oznaczenie zawartego w nim srebra przekonałam się jednak, że nie zawierał on wcale takiej ilości radu, która by się dała zważyć. W celu wykonania tej próby stopiony chlorek srebra, znajdujący się w tyglu, został zredukowany wodorem, wydzielanym przez działanie cynku na kwas solny, po czym tygiel, po przepłukaniu, ważono razem z metalicznym srebrem. W jednym z doświadczeń stwierdziłam, że ciężar regenerowanego chlorku radu był równie wielki, jak i przed operacją. Podobne sprawdzania pozwoliły mi utwierdzić się w mniemaniu, że w doświadczeniach swoich nie popełniłam żadnego znaczniejszego błędu.
+
+Rad jest pierwiastkiem, którego własności każą zaliczyć go do grupy metali ziem alkalicznych. W grupie tej stanowi on wyższy homologon baru.
+
+Ze względu na swój ciężar atomowy rad zajmuje miejsce w układzie periodycznym tuż za barem, w kolumnie metali ziem alkalicznych i w szeregu poziomym, w którym mieszczą się już uran i tor.
+
+*Własności soli radowych.* Sole radu: chlorek, azotan, węglan, siarczan są podobne, zaraz po ich przygotowaniu w stanie stałym, do soli baru, jednak wszystkie one barwią się z czasem. Wszystkie sole radu świecą w ciemności. We względzie własności chemicznych sole radu są najzupełniej analogiczne z odpowiednimi solami baru. Jednakże chlorek radu jest trudniej rozpuszczalny od chlorku baru. Rozpuszczalność azotanów w wodzie zdaje się być jednakowo wielka.
+
+Sole radu stanowią źródło trwałego i samodzielnego wydzielania się ciepła. Czysty chlorek radu jest paramagnetyczny. Jego stała magnetyczna (coefficient d'aimentation spécifique) K została zmierzona przez pp. P. Curie i C. Chéneveau za pomocą przyrządu obmyślanego przez obu pomienionych fizyków. Mierzenie tej stałej polegało na porównywaniu ze stałą magnetyczną wody, przy czym do wyników wnoszono poprawkę zależną od magnetyzmu powietrza. W ten sposób oznaczono: K=1,05×10-6, przyjmując, że dla wody K=~0,79×10-8. Czysty chlorek baru jest diamagnetyczny i jego stała magnetyczna wynosi: K=~0,40×10-6.
+
+Zgodnie z powyższymi wynikami można wykazać, że chlorek baru radonośny, który zawiera około 11% chlorku radu i 83% chlorku baru, jest diamagnetyczny i posiada stałą magnetyczną K=~0,20×10-6.
+
+*Frakcjonowanie zwykłego chlorku baru.* Staraliśmy się dojść, czy chlorek baru handlowy nie zawiera małych ilości chlorku radu, niedających się wykryć za pomocą naszego przyrządu mierniczego. W tym celu przedsięwzięliśmy frakcjonowanie znaczniejszej ilości handlowego chlorku baru, spodziewając się, że na tej drodze ślady chlorku radu dadzą się stężyć, gdyby istotnie znajdowały się w preparacie.
+
+50 kg chlorku baru handlowego rozpuszczono w wodzie i roztwór strącono kwasem solnym, pozbawionym kwasu siarczanego, przez co otrzymano 20 kg chlorku strąconego. Ostatni rozpuszczono znowu w wodzie i strącono częściowo kwasem solnym; ilość otrzymanego stąd chlorku strąconego wyniosła 8,5 kg. Ten chlorek został poddany metodzie krystalizacji cząstkowej, którą stosowaliśmy już do chlorku baru radonośnego; za pomocą niej uzyskaliśmy w końcu cząstkowania 10 g chlorku, odpowiadającego cząstce najtrudniej rozpuszczalnej. Chlorek ten nie okazywał wcale radioaktywności w naszym przyrządzie do pomiarów; nie zawierał przeto radu. Ciało to nie znajduje się zatem w minerałach, z których bar bywa wydobywany zazwyczaj.
+
+
+
+Promieniowanie nowych ciał radioaktywnych
+
+*Sposoby badania promieni.* Do badań nad promieniowaniem wysyłanym przez ciało radioaktywne, nadawać się może jakakolwiek z jego własności; w tym celu posiłkujemy się albo działaniem promieni na płytę fotograficzną, albo własnością jonizowania powietrza (wzrost przewodnictwa elektrycznego), albo też własnością wzbudzania fluorescencji w niektórych ciałach. Różne te metody badania nazywać wprost będę na przyszłość: metoda radiograficzna, metoda elektryczna i metoda fluoroskopowa.
+
+Dwie pierwsze stosowane już były dawniej do badań nad promieniami uranowymi; metoda fluoroskopowa nadaje się jedynie do badania ciał silnie radioaktywnych, uran bowiem i tor za mało wysyłają promieni, aby wzbudzić mogły fluorescencję.
+
+Tylko metoda elektryczna pozwala na ścisłe pomiary; obie pozostałe dają jedynie rezultaty jakościowe. Przy tym wyniki wszystkich trzech metod powyższych zaledwie z gruba mogą być ze sobą porównywane. Czy to będzie klisza fotograficzna, czy gaz ulegający jonizacji, czy ekran fluoryzujący — każdy z nich pochłania jedynie cząstkę, zależną od swego charakteru, energii promieniowania i zamienia ją na inną: chemiczną, jonizacyjną lub świetlną. Promieniowanie nie jest, jak wiemy, jednolite; cząstki promieniowania pochłaniane przez ciała mogą nie tylko ilościowo, lecz i jakościowo różnić się między sobą. Wreszcie, nie jest wiadome, czy pochłonięta energia będzie w całości zamieniona w ukazujący się nam rodzaj energii. Część jej przejść może w ciepło, w promieniowanie wtórne, w energię chemiczną itp.; wszelkie więc pomiary promieniowania za pomocą jakiegokolwiek transformatora zależeć będą od jego natury.
+
+Porównajmy dwie próbki, z których jedna zawiera rad, a druga polon i które jednakowo są aktywne w przyrządzie z kondensatorem (fig. 1). Po zawinięciu ich w cienką blaszkę glinową próbka druga wyda się daleko mniej aktywną od pierwszej. Tak samo po umieszczeniu próbek pod ekranami fluoryzującemi zauważymy nierówne zmniejszanie się fluorescencji, jeżeli próbki oddalać zaczniemy lub je owijać w coraz grubsze blaszki glinowe; fluorescencja wywołana przez preparat polonowy szybciej się zmniejsza niż wywołana przez preparat radowy.
+
+Jakąkolwiek metodą będziemy badali, zawsze znajdziemy, że energia promieniotwórcza nowych tych substancji promieniotwórczych jest znacznie większa niż uranu lub toru. Tak np. w małej odległości działają one prawie natychmiastowo na kliszę fotograficzną, gdy uran lub tor wymagają 24 godzin ekspozycji. Ekran fluoryzujący żywo świeci pod wpływem tych nowych substancji radioaktywnych, gdy żadne nawet ślady świecenia nie występują po zbliżeniu uranu lub toru. Ich działanie jonizujące jest również około miliona razy znaczniejsze od działania uranu lub toru.
+
+*Rozkład promieniowania.* Badania wielu fizyków (Becquerela, Meyera i Schweidlera, Giesla, Villarda, Rutherforda, P. Curie'go) stwierdziły, że promieniowanie substancji radioaktywnych składa się z trzech grup promieni, które za Rutherfordem odróżnię literami α, β i γ.
+
+1)Promienie α są bardzo słabo przenikliwe i, o ile się zdaje, stanowią najznaczniejszą część promieniowania; wyróżniają się one przez właściwe im prawa, według których są pochłaniane przez ciała. Pole magnetyczne odchyla je bardzo nieznacznie; początkowo uważane były za niezdolne do podobnego odchylenia, a to dlatego, że stosowano zbyt słabe pole magnetyczne. Odchylenie promieni α odbywa się w sposób podobny do odchylenia promieni katodalnych, tylko w kierunku przeciwnym, czyli tak samo, jak odchylenie promieni kanałowych w rurce Crookesa.
+
+2) Promienie β są w ogólności mniej pochłaniane niż poprzednie. Zbaczają one również ze swej drogi prostolinijnej w polu magnetycznym w sposób podobny, jak to czynią promienie katodalne.
+
+3) Promienie γ przenikają z łatwością ciała i nie zbaczają w polu magnetycznym; porównać je można z promieniami Röntgena.
+
+Promienie tej samej grupy mogą mieć zresztą rozmaitą zdolność przenikania i to w granicach bardzo rozległych, jak np. promienie β.
+
+Wyobraźmy sobie doświadczenie następujące: rad *R* umieszczony jest w wąziutkim zagłębieniu, wydrążonym dość głęboko w bloku ołowianym *P* (fig. 4). Pęczek promieni prostolinijny i mało rozchylony wybiega z wydrążenia. Przypuśćmy, że w przestrzeni otaczającej naczynie z radem utworzone zostało stałe pole magnetyczne, bardzo silne, prostopadłe do płaszczyzny rysunku i skierowane do tyłu rysunku. Trzy grupy promieni: α, β i γ zostaną w polu magnetycznym rozdzielone. Promienie γ o niezbyt wielkim natężeniu kontynuować będą bieg swój po drodze prostej bez śladu nawet zboczenia. Promienie β odchylone zostaną w sposób podobny jak promienie katodalne i zakreślą w płaszczyźnie rysunku linię kołową, zmienną w dość znacznych granicach dla poszczególnych promieni. Jeżeli blok ołowiany umieszczony jest na kliszy fotograficznej AC, to część BC, na którą padną promienie β, ulegnie zmianie. Wreszcie promienie α o bardzo wielkim natężeniu odchylą się zaledwie z lekka. Opisują one w płaszczyźnie rysunku krzywą, której promień krzywizny jest bardzo wielki; kierunek zboczenia jest wprost przeciwny do kierunku odchylenia promieni β.
+
+Jeżeli blok ołowiany przykryjemy blaszką glinową (o grubości 0,1 mm), promienie α będą zatrzymane w bardzo znacznej części, promienie β — w ilości znacznie mniejszej, gdy promienie γ przejdą prawie bez zatrzymania.
+
+*Promienie β.* Becquerel badał je na drodze radiograficznej, w sposób wskazany na fig. 4; klisza fotograficzna AC, z warstwą czułą na stronie górnej, została przykryta papierem czarnym. Skoro położono na nim naczynie ołowiane z radem i skierowano pole magnetyczne ku tyłowi rysunku, a więc w ten sposób, że biegun dodatni (północny) leżał przed płaszczyzną rysunku, a odjemny poza nią, na kliszy uformowała się szeroka wstęga BC; jest to prawdziwe widmo ciągłe, które wskazuje, że pęczek promieni β składa się z niezliczonej ilości rozmaicie odchylanych promieni pojedynczych. Jeżeli żelatynę kliszy pokrywamy rozmaitymi ekranami (z papieru, szkła, metali), to pewna część widma znika; promienie najbardziej odchylane w polu magnetycznym, czyli te, których drogi posiadają najmniejszy promień krzywizny, będą też najbardziej pochłaniane. Początek widma na kliszy rozpoczyna się w pewnej odległości od źródła promieniowania; im ekran jest mniej przepuszczalny, tym odległość ta bardziej wzrasta.
+
+Promienie katodalne, jak to dowiódł Perrin, naładowane są elektrycznością odjemną. Mogą one, według doświadczeń Perrina i Lenarda, przenosić swój ładunek elektryczny poprzez opony metalowe, złączone z ziemią lub poprzez blaszki izolujące. We wszystkich natomiast przypadkach, kiedy promienie katodalne są pochłaniane, dostrzec można stałe powstawanie elektryczności odjemnej w substancji wchłaniającej. Myśmy stwierdzili, że to samo dotyczy promieni β radu, które również naładowane są elektrycznością odjemną. Wykonajmy doświadczenie następujące: krążek metalowy MM (fig. 5) połączony jest drutem *t* z elektrometrem i otoczony warstwą izolującą, np. parafiną *iiii*; całość mieści się w naczyniu metalowym *EEEE*, połączonym z ziemią. Z jednej ze stron zarówno ściana metalowa, jak i warstwa izolująca *pp* są bardzo cienkie. Od tej to właśnie strony umieszczamy sól barową radonośną *R*, znajdującą się w naczyniu ołowianym *AA*. Promienie wysyłane przez rad przenikają blaszkę metalową i warstwę izolującą *pp*; pochłania je krążek *MM* i ładuje się bez przerwy i stale elektrycznością odjemną, którą stwierdzamy na elektrometrze i którą mierzymy za pomocą kwarcu piezoelektrycznego.
+
+Prąd w ten sposób powstały jest bardzo słaby. Warstwa chlorku baru radonośnego silnie promieniotwórczego o powierzchni 2,5 cm2, o grubości 0,2 cm, daje prąd około 1011 amperów; grubość blaszki glinowej równała się 0,01 mm, a grubość blaszki izolującej ebonitowej *p* 0,3 mm.
+
+Stosowaliśmy ołów, miedź i cynk jako materiały na krążek *MM*, a ebonit i parafinę do izolacji; rezultaty w każdym przypadku poszczególnym były podobne.
+
+Prąd się zmniejsza, jeżeli oddalamy źródło promieniowania lub jeżeli użyjemy substancji mniej promieniotwórczej.
+
+Wykonaliśmy również doświadczenie przeciwne. Rynienkę ołowianą *AA* (fig. 6) z radem umieszczaliśmy wewnątrz materii izolującej i połączyliśmy ją z elektrometrem. Skrzynka metalowa *EEEE* złączona była z ziemią.
+
+W warunkach tych zauważono za pomocą elektrometru, że rad ładuje się dodatnio i ładunek jego jest równy co do wielkości z ładunkiem odjemnym w doświadczeniu poprzedzającem. Promienie β radu przedostają się przez cienką warstwę izolacyjną *pp* i przez blaszkę metalową *m* i unoszą w przestrzeń elektryczność odjemną, gdy rad sam elektryzuje się dodatnio.
+
+Promienie α radu nie biorą udziału czynnego w tych zjawiskach, gdyż pochłaniane są prawie w całości już przez niezmiernie cieniutkie warstwy izolacyjne. Sposób powyżej opisany nie nadaje się do rozpoznania ładunku promieni polonu, są one bowiem bardzo mało przenikliwe. Nie zauważyliśmy żadnej oznaki ładunku elektrycznego w doświadczeniach z polonem, który, jak wiadomo, wysyła tylko promienie α.
+
+A więc zarówno promienie β, jak i promienie katodalne, są promieniami przenoszącemi ładunek elektryczny. Dotychczas nie poznano jeszcze żadnego zjawiska, w którem by elektryczność nie była związana z materią. Można zatem do promieni β zastosować tę samą teorię, którą zazwyczaj posługujemy się względem promieni katodalnych. Według tej teorii balistycznej, którą sformułował W. Crookes, a następnie dopełnił i rozwinął J. J. Thomson, promienie katodalne złożone są z cząstek niewymownie drobnych, noszących między innymi nazwę elektronów; wybiegają one z katody z bardzo wielką prędkością, naładowane są elektrycznością odjemną. Można przeto przypuścić, że rad wyrzuca w przestrzeń takie właśnie cząsteczki naelektryzowane odjemnie.
+
+Ziarnko radu, zawarte w rurce o ścianach cienkich i dobrze izolujących elektryczność, naładowuje się samo przez się do potencjału bardzo wysokiego. Według hipotezy balistycznej potencjał zwiększać się może aż do chwili, kiedy różnica potencjału pomiędzy wnętrzem rurki a otaczającemi rurkę przewodnikami stanie się wystarczającą, aby wstrzymać wybiegające z radu elektrony i zwrócić je z powrotem do źródła promieniotwórczego.
+
+Przypadkowo wykonane zostało doświadczenie następujące: drobna ilość radu bardzo silnie radioaktywnego zamknięta była od dłuższego już czasu w rurce szklanej. Aby otworzyć rurkę, uczyniliśmy na niej kreskę za pomocą noża do krajania szkła. W tejże chwili usłyszeliśmy wyraźnie trzask, jak od iskry elektrycznej. Obserwując rurkę pod lupą zauważyliśmy, że rurka przebita jest w miejscu, gdzie ściana rurki była cieńsza wskutek uczynionej kreski. Zjawisko można w zupełności porównać z przebijaniem szkła w butelce lejdejskiej naładowanej zbyt mocno. Jeżeli rurkę szklaną, zawierającą nieco radu, zatopimy i pozostawimy przez czas dłuższy, to można oczekiwać, że rurka pęknie bez żadnej widocznej przyczyny zewnętrznej.
+
+*Rad jest pierwszym przykładem ciała, które ładuje się samo przez się elektrycznością.*
+
+Ze względu na swe podobieństwo do promieni katodalnych promienie β muszą ulegać także wpływowi pola elektrycznego, czyli zbaczać w polu elektrycznym ze swej drogi prostolinijnej. Podobne odchylenie zauważyli Dorn i Becquerel.
+
+Przedstawmy sobie np. promień β, który przebiega pomiędzy dwiema równoległymi płytami metalowymi. Naładujmy płyty, a promień zbaczać będzie ku płycie dodatniej i opisze parabolę; po wyjściu z pola elektrycznego promień odbywać będzie dalej drogę swą już po linii prostej, stycznej do paraboli. Na kliszy fotograficznej ustawionej nieco dalej w poprzek promienia, znajdujemy miejsca, gdzie promień uderzał przed i po odchyleniu.
+
+Oznaczmy odległość tych miejsc przez δ, dalej odległość kliszy od kondensatora przez *h*, długość płyt metalowych kondensatora przez *l*, natężenie pola elektryczności przez *F*, masę elektronu przez *m*, jego ładunek przez *e*, a prędkość przez *v*. Możemy wyprowadzić wzór następujący δ = e ⁢ F ⁢ l × l 2 + h m ⁢ v 2 . Jeżeli ten sam promień przepuścimy teraz przez pole magnetyczne o natężeniu *H*, to promień opisze krzywą (fig. 4) o promieniu krzywizny *p*, wtedy stosunek pomiędzy tymi wielkościami a wielkościami *e*, *v*, *m* przyjmie postać: H p = m e v . Eksperymentalnie znaleźć możemy zarówno δ, jak i *p*; wskutek czego z obu wzorów oblicza się już łatwo *v* oraz stosunek e:m. Pomiary Becquerela dały dla e/m wartość prawie równą 107 absolutnych jednostek elektromagnetycznych, zaś dla *v* liczbę 1,6×1010 cm (160000 km) na sekundę.
+
+Ściślejsze pomiary Kaufmanna przekonały, że nie wszystkie promienie β radu mają jednakową prędkość i stosunek e/m. Oto liczby otrzymane przez Kaufmanna:
+
+e/m abs. jedn. elektr. magn.     v cm/sek.    
+1,865×107    0,7×1010 — dla promieni katodalnych (Simon)    
+1,31×107    2,36×1010 — dla promieni β radu (Kaufmana)    
+1,17×107     2,48×1010 — dla promieni β radu (Kaufmana)    
+0,97×107    2,59×1010— dla promieni β radu (Kaufmana)     
+0,77×107    2,72×1010— dla promieni β radu (Kaufmana)     
+0,63×107    2,83×1010 — dla promieni β radu (Kaufmana)    
+
+
+
+Z liczb tych wynika, że niektóre promienie dosięgają prędkości 283 000 km na sekundę, czyli prawie takiej samej, jak światło.
+
+Widzimy tedy, że w miarę wzrastania prędkości *v* stosunek e/m się zmniejsza. Według prac Thomsona 5) i Townsenda jest prawdopodobne, że każda cząsteczka, stanowiąca promień β posiada ilość elektryczności *e* równą tej, jaką jest naładowany atom wodoru w elektrolizie, oraz że wszystkie cząsteczki promieni β jednakowy noszą na sobie ładunek. Łatwo więc jest teraz wyprowadzić wniosek, że masa *m* wzrasta w miarę tego, jak wzrasta szybkość. Stąd wyprowadzono teorię, że bezwładność cząsteczek jest pochodzenia elektromagnetycznego i masa cząsteczki jest co najmniej w części masą pozorną, czyli masą elektromagnetyczną. Teoria ta pozwoli może z czasem oprzeć zasady mechaniki na dynamice drobnych cząsteczek materialnych naładowanych i będących w stanie ruchu.
+
+*Promienie α.* Uważano je początkowo za niezdolne do odchylania się w polu magnetycznym lub elektrycznym. Niedawno temu Rutherford stwierdził jednak, że dostatecznie silne pole magnetyczne lub elektryczne odchyla je słabo, przy czym zachowują się one, jak gdyby były pociskami, naładowanymi elektrycznością dodatnią i obdarzonymi wielką prędkością. Rutherford wywnioskował ze swych doświadczeń, że prędkość promieni α wynosi mniej więcej 2,5×109 cm (25 000 km) na sekundę; stosunek zaś e/m okazał się równym 6×103.
+
+Doświadczenia Rutherforda potwierdził Becquerel, który znalazł przy tym, że promienie polonu zachowują się podobnie jak promienie α radu, bowiem w tym samym polu magnetycznym opisują jednakowe krzywe. Również zdaje się wypływać z doświadczenia Becquerela, że wiązka promieni α nie jest zdolna do wytworzenia podobnego widma magnetycznego, jak to czynią promienie β, lecz zachowuje się, jakby wszystkie oddzielne jej promienie były jednakowo odchylane.
+
+Według pomiarów Des Coudresa prędkość promieni α wynosi 1,65×109 cm/sek, a stosunek e/m = 6400.
+
+*Promieniowania substancji radioaktywnych.* Rad wysyła promienie α, podobne do promieni kanałowych, dalej promienie β, podobnie do katodalnych i wreszcie promienie γ. Polon wydziela jedynie tylko promienie α. Aktyn przypuszczalnie zachowuje się podobnie do radu, lecz badanie jego promieni nie zostało tak daleko posunięte, jak promieni radu. Co dotyczy substancji słabo radioaktywnych, to zarówno uran, jak i tor wydzielają promienie α oraz β (Becquerel, Rutherford).
+
+W wielkiej odległości od źródła radionośnego znajdują się jedynie promienie β i γ. Obecność promieni γ, niezbaczających w polu magnetycznym i niezwykle przenikliwych, w promieniach radowych po raz pierwszy zauważył Villard. Stanowią one zaledwie małą cząstkę promieniowania całkowitego, mierzonego metodą elektryczną.
+
+Znacznie większa jednak część promieniowania radu składa się z promieni α, które prawdopodobnie wysyłane są przez warstwę wierzchnią substancji promieniotwórczej. Jeżeli bowiem zmieniać się będzie grubość warstwy promieniującej, to, co prawda, natężenie promieniowania α wzrośnie, lecz nie w tym co grubość stopniu; natomiast promieniowanie β wzrośnie w stosunku do grubości; promienie α, idące z wnętrza masy, pochłaniane są przez górne warstwy preparatu.
+
+*Zdolność przenikania promieni.* Ciała promieniotwórcze wysyłają promienie, które przenikają zarówno przez powietrze, jak i przez próżnię.
+
+Odległość od źródła radioaktywnego, do jakiej promienie dotrzeć mogą w powietrzu, dochodzi do kilku nawet metrów. W niektórych doświadczeniach podczas pomiarów elektrycznych zauważyliśmy wpływ źródła promieniującego na powietrze kondensatora jeszcze w odległości 2 do 3 m. Na tejże odległości zaobserwowaliśmy również oddziaływanie na ciała fluoryzujące i na kliszę fotograficzną. Podobne doświadczenia wykonywać jednak trzeba z substancjami silnie aktywnymi. Promieniowanie, które dochodzi aż do takiej odległości od radu, zawiera zarówno promienie odchylane β, jak i promienie γ; jednak ilość pierwszych znacznie przeważa.
+
+Tymczasem największa część promieniowania, tj. promienie α, z łatwością zostaje wstrzymana przez powietrze i dochodzi zaledwie do odległości 7 cm od źródła. Promieniowanie polonu zauważyć się daje zaledwie do odległości 4–6 cm.
+
+Jeszcze silniejsza zaznaczy się różnica, jeżeli użyjemy ekranów stałych zamiast powietrza. Niektóre promienie wysyłane przez rad zdolne są przenikać przez warstwę ołowiu lub szkła grubości kilku nawet centymetrów. Są to niesłychanie przenikliwe promienie; praktycznie nie zdołano osiągnąć całkowitego ich pochłonięcia przez jakikolwiek ekran. Przekonaliśmy się, że blacha ołowiana o grubości 1,5 cm przepuszcza dość znaczną ilość promieni β. Natomiast promienie α nie są prawie wcale przepuszczane przez ekrany stałe. Promienie polonu, składające się jedynie z promieni α, bardzo łatwo są pochłaniane i przechodzą co najwyżej przez cieniutkie ekrany.
+
+Jeżeli, jak to uczynił Villard, na szereg klisz fotograficznych puścimy promienie radu, to wiązka promieni niezaginanych i przenikliwych γ przejdzie przez wszystkie klisze, znacząc na każdej z nich swą obecność, gdy promienie β tylko na pierwszej kliszy swój ślad zostawią. W powyższym doświadczeniu promienie β dlatego nie oddziałały na drugą kliszę, że zostały podczas przejścia przez pierwszą rozproszone na wszystkie strony.
+
+Promienie katodalne rozpraszane są z łatwością przez ekrany; rozpraszanie jest tym słabsze, im grubość ekranu jest mniejsza; podczas przejścia przez ekrany bardzo cienkie kierunek pęczka wychodzącego staje się już przedłużeniem pęczka wpadającego.
+
+Promienie β radu zachowują się w sposób analogiczny, choć ulegają rozproszeniu nieco trudniej niż katodalne; te ostatnie zostają rozproszone już przez ekrany glinowe o grubości zaledwie 0,01 mm; tymczasem te promienie β radu, których szybkość jest najmniejsza, są dość silnie rozpraszane przez ekran glinowy o grubości dopiero 0,1 mm, podczas gdy część promieni β bardzo przenikliwych i słabo zaginanych (promienie o wielkiej szybkości) przechodzi przez ten ostatni ekran bez żadnej zmiany; promienie takie mogą przenikać przez warstwę parafiny grubą na kilka centymetrów, nie ulegając wcale rozproszeniu. Powietrze również działa na promienie β radu rozpraszająco: działanie daje się odczuwać zwłaszcza na promieniach β silnie odchylanych; w ogóle jednak powietrze daleko słabiej rozprasza promienie β niż ciała stałe, i dlatego promienie β mogą przenikać przez powietrze na kilka nawet metrów.
+
+*Działanie jonizujące promieni radu na ciecze.* Pan Curie przekonał się, że promienie radu oraz promienie Röntgena, przechodzące przez ciecze dielektryczne, udzielają im, podobnie jak to czynią z powietrzem, własność przewodzenia prądu elektrycznego, lubo w bardzo słabym stopniu; oto doświadczenie (fig. 7). Ciecz badaną wlewamy do naczynia metalowego *CDEF*, a następnie zanurzamy w cieczy cylinderek miedziany *AB*. Oba te naczynia służą jednocześnie jako elektrody.
+
+Pierwsze z nich *CDEF* ładujemy do pewnego potencjału za pomocą baterii akumulatorów, od których drugi biegun złączony jest z ziemią. Cylinder *AB* jest połączony z elektrometrem. Jeżeli prąd przechodzi przez ciecz, elektrometr utrzymujemy na zerze za pomocą kwarcu piezoelektrycznego. Cylinder *AB* jest otoczony innym *MNM'N'*, połączonym z ziemią, i nie pozwalającym na przechodzenie prądu elektrycznego przez powietrze. Rurkę z solą barową radonośną opuszczamy na dno cylindra *AB*. Promienie radu działają na płyn poprzez szkło rurki i poprzez ściankę metalową. Można również rurkę z radem umieścić pod ścianką *DE*.
+
+Zwiększanie przewodnictwa zarówno pod wpływem promieni radu, jak i promieni Röntgena, zdaje się być własnością ogólną wszystkich cieczy.
+
+Liczby następujące, pomnożone przez 10-14, dają przewodnictwo w odwrotnych omach dla 1 cm³. Dwusiarczek węgla 20; eter naftowy 15; amylen 14; czterochlorek węgla 8; benzyna 4; powietrze ciekłe 1,3; olej wazelinowy 1,6. W ciągu badań okazało się, że promieniowanie radu nie zmienia swej wartości ze zmianami temperatury i posiada ją nawet w temperaturze powietrza ciekłego. Fakt ten stwierdzony został bezpośrednio przez pomiary.
+
+*Fluorescencja i świecenie.* Pod wpływem promieni nowo odkrytych substancji radioaktywnych niektóre ciała fluoryzują. Objaw ten odkryliśmy, działając promieniami polonu poprzez blaszkę glinową na warstwę platynocyjanku baru. Zjawisko podobne daje się jeszcze łatwiej wywołać wystarczająco silnym radonośnym preparatem barowym. Jeżeli preparat jest bardzo silnie promieniotwórczy, to i fluorescencja jest bardzo piękna. Wielka ilość ciał zdolna jest do fosforescencji lub fluorescencji pod wpływem promieni Becquerela.
+
+Bary stwierdził, że sole metali alkalicznych i ziem alkalicznych, fluoryzujące od promieni świetlnych i promieni Röntgena, fluoryzują również gdy padną na nie promienie radu. Zaobserwowano również fluorescencję papieru, bawełny, szkła itp., znajdujących się w sąsiedztwie radu. Pomiędzy rozmaitymi rodzajami szkła, najosobliwiej świeci szkło z Turyngii. Metale natomiast, o ile się zdaje, niezdolne są do świecenia pod wpływem tych promieni.
+
+Platynocyjanek baru najlepiej się nadaje do badań nad promieniowaniem ciał radioaktywnych metodą fluoroskopową, bowiem może stwierdzać obecność radu jeszcze z odległości przewyższającej 2 m.
+
+Siarczek cynku fosforyzujący świeci od promieni radu niezwykle silnie i zachowuje swe świecenie jeszcze przez pewien czas po usunięciu substancji promieniotwórczej. Nawet wtedy ciała mogą fluoryzować, kiedy oddzielone są od radu ekranem. Obserwowaliśmy świecenie platynocyjanku baru, kiedy między nim a radem stanął człowiek. Jednakże zjawisko to objawia się bez porównania silniej, skoro substancja świecąca znajduje się tuż przed radem i nie jest od niego oddzielona przez żadne ciało stałe.
+
+Wszystkie rodzaje promieni radu zdolne są do wywołania fluorescencji. Aby zaobserwować wpływ promieni polonu, należy go umieścić przed samym prawie ciałem fluoryzującem, unikając stawiania między nimi ekranów stałych, a jeżeli jest to konieczne, to użyć trzeba ekranów bardzo cienkich.
+
+Świecenie substancji fluoryzujących, wystawionych na wpływ ciał promieniotwórczych, zmniejsza się z czasem. Jednocześnie sama substancja fluoryzująca ulega przemianie. Przytoczmy kilka przykładów. Promienie radu zamieniają platynocyjanek baru w odmianę brunatną, mniej świecącą; podobnie wpływają promienie Röntgena, jak to zauważył i opisał Villard. Zmieniają one również siarczan uranylu i potasu, nadając mu zabarwienie żółte. Platynocyjanek baru, zmieniony w sposób powyższy, regeneruje się częściowo pod działaniem światła.
+
+Szkło fluoryzuje od radu; powoli jednak zabarwia się na brunatno lub fioletowo, a jednocześnie traci na sile świecenia. Jeżeli podobnie zmienione szkło ogrzejemy, to odbarwi się, wydzielając jednocześnie światło; a wtedy odzyskuje normalną swą zdolność fluorescencji. Siarczek cynku, wystawiony na wpływ promieni przez czas pewien ulega zmianie i traci powoli na własności fosforyzowania, jak od promieni radu, tak i od światła. Diament fosforyzuje, kiedy upadną nań promienie radu; może on być w ten sposób odróżniony od imitowanych, których świecenie w tym razie jest bardzo słabe.
+
+Wszystkie związki baru radonośnego świecą same przez się. Sole chlorowcowe w stanie bezwodnym i suchym wysyłają światło szczególnie mocne. Świecenie podobne nie może być co prawda widziane podczas dnia pełnego, lecz łatwo je zaobserwować o zmroku lub w miejscach oświetlonych gazem. Światło wysyłane przez preparaty stężone bywa nawet tak silne, że przy nim czytać można. Podkreślić trzeba, że tu substancja świeci w całej masie, podczas gdy w zwykłej substancji fosforyzującej światło wypływa tylko z tej części powierzchni, jaka uprzednio została oświetlona. W powietrzu wilgotnym substancje radonośne tracą znacznie na sile świecenia, lecz po wyschnięciu wracają do normy. Świecenie, o ile się zdaje, jest nieznikome. Po kilku jeszcze latach nie znaleziono żadnej zmiany widocznej w świeceniu słabo promieniotwórczego preparatu, przechowywanego w ciemnym miejscu w rurce zalutowanej. Natomiast chlorek baru radonośny o bardzo znacznej promieniotwórczości i silnym świeceniu zmienia swe zabarwienie w ciągu kilku miesięcy; światło staje się fioletowawe i dość znacznie się osłabia; jednocześnie produkt ulega zmianie; jeżeli go rozpuścimy w wodzie i odparujemy roztwór, to preparat odzyskuje z powrotem dawne swe światło.
+
+Roztwory soli baru radonośnego, zawierające dużą ilość radu, świecą również; zjawisko to obserwować można najlepiej w naczyniu z platyny, która sama nie świeci i pozwala spostrzec słabe nawet świecenie roztworu.
+
+Jeżeli roztwór soli barowej radonośnej wydzieli kryształy, to świecą one wewnątrz płynu. Giesel wytworzył platynocyjanek baru radonośny. Po wykrystalizowaniu sól ta miała wygląd zwykłego platynocyjanku baru, lecz świeciła silnie. Powoli zaczęła się zabarwiać na brunatno, a jednocześnie kryształy stawały się dwubarwne i świeciły daleko słabiej, choć promieniotwórczość swą zwiększyły Platynocyjanek radu przygotowany przez Giesela zmieniał się znacznie szybciej jeszcze.
+
+Związki radu są więc pierwszym przykładem substancji samoistnie świecącej.
+
+*Wydzielanie ciepła przez sole radu.* Curie i Laborde znaleźli, że *sole radu wydzielają ciepło stale i niezmiennie*. Wskutek tego sole radu posiadają temperaturę wyższą od temperatury otoczenia. Różnica temperatury zależy oczywiście od izolacji cieplnej soli radu i może wynosić kilka stopni; można ją zatem stwierdzić za pomocą zwykłego termometru.
+
+Weźmy dwa naczynia izolujące względem ciepła za pomocą próżni (izolatory Dewara) i zupełnie podobne. W jednym umieszczamy zalutowaną rurkę szklaną, zawierającą 7 decygramów bromku radu; w drugim umieszczamy podobną rurkę zawierającą jakiekolwiek ciało nieradioaktywne, np. chlorek baru (fig. 8). Dwa termometry, których rezerwuary są umieszczone tuż koło rurek, wskazują temperaturę. Otwór izolatorów jest zatkany watą. Kiedy równowaga temperatur jest ustalona, termometr znajdujący się w naczyniu zawierającem rad wskazuje temperaturę wyższą, aniżeli drugi termometr; różnica temperatur jest niezmienna i wynosiła w opisanym doświadczeniu 3°.
+
+Ilość ciepła wydzielana przez rad w oznaczonym czasie może być zmierzona za pomocą kalorymetru lodowego Bunsena. Jeżeli umieścimy w tym kalorymetrze rurkę szklaną zalutowaną, zawierającą sól radu, to kalorymetr wskazuje stałą produkcję ciepła, która ustaje, skoro tylko oddalimy rad. Z pomiarów wynika, że każdy gram radu wydziela przez godzinę około 80 małych kaloryj. A zatem rad wydziela przez każdą godzinę ilość ciepła wystarczającą, aby stopić równą masę lodu; zaś atom-gram (225g) radu wydziela przez godzinę 18000 kaloryj, czyli ilość ciepła niewiele mniejszą od tej, jaka jest wydzielana przez spalenie atomu grama-wodoru (1 g).
+
+Jeżeli zważymy, że rad wydziela tak znaczną ilość ciepła *niezmiennie* i że stan jego nie ulega widocznej zmianie chemicznej przez lat kilka, to musimy przyznać, że podobne zjawisko nie daje się wytłumaczyć przez żadną zwykłą reakcję chemiczną. Można przypuścić, że wydzielanie ciepła jest związane z *przekształcaniem atomu radu*, które to przekształcanie zresztą musielibyśmy uważać za bardzo powolne. Gdyby tak się rzecz miała, to wynikałoby stąd, że ilości energii, które wchodzą w grę podczas tworzenia się lub przekształcania atomów, są ogromne i przewyższają wszystkie te, które nam są znane.
+
+Można również zmierzyć ilość ciepła wydzielaną przez rad, zużytkowując ją do zamienienia w parę gazu skroplonego i mierząc objętość wydzielonego gazu. Można wykonać to doświadczenie z chlorkiem metylu (w temperaturze -21 °C). Pp. Dewar i Curie wykonali to samo doświadczenie ze skroplonym tlenem (w -180°) i ze skroplonym wodorem (w -252°). Wodór skroplony nadaje się szczególniej do tego doświadczenia. Izolator Dewara *A* (fig. 9) zawiera skroplony wodór *H* i komunikuje się za pomocą rurki *t* z epruwetką pełną wody *E*. Izolator *A* zanurzony jest w wodorze ciekłym *H'*. W tych warunkach wydzielanie się gazu nie odbywa się wcale w izolatorze *A*. Jeżeli wprowadzimy do wodoru ciekłego *H* rurkę szklaną zalutowaną, zawierającą 7 decygramów bromku radu, zauważymy stałe wydzielanie się gazu i zbieramy go 73 cm³ na minutę.
+
+Stała sól radu świeżo przygotowana wydziela względnie niewiele ciepła; ale z czasem produkcja ciepła wzrasta i dąży do wartości stałej, która zostaje osiągnięta po dwu miesiącach. Jeżeli rozpuścimy sól radu w wodzie i zamkniemy roztwór w zalutowanej rurce szklanej, to roztwór wydziela z początku mało ciepła; ale produkcja wzrasta z czasem i dąży do wartości stałej, która zostaje osiągnięta po miesiącu mniej więcej i która jest takaż sama, jak dla soli radu w stanie stałym.
+
+Kiedy rad się znajduje w kalorymetrze Bunsena, niektóre promienie bardzo przenikliwe przechodzą przez rurkę i kalorymetr i nie zostają pochłonięte. Jeżeli rurkę z radem obwiniemy blaszką ołowianą o grubości 2 mm, to zatrzymamy największą ilość tych promieni. Ilość ciepła wydzielonego wzrasta wtedy o 4°C. A zatem energia wydzielana przez rad w postaci promieni przenikliwych nie jest nieznaczna.
+
+*Wpływy chemiczne powodowane przez nowe substancje promieniotwórcze. Zabarwienie.* Promienie wydzielane przez substancje silnie promieniotwórcze, powodować mogą pewne zmiany w ciałach, pewne reakcje chemiczne. Pomiędzy innymi wywołują np. zabarwienia szczególne szkła i porcelany. Zabarwienie bywa w ogólności brunatne lub fioletowe i jest bardzo silne; występuje ono w samej masie i pozostaje po usunięciu radu. Wszystkie szkła zabarwiają się po czasie mniej lub więcej długim; obecność ołowiu w szkle nie jest potrzebna. Fakt powyższy porównać można z faktem zabarwiania się po pewnym czasie ścian gruszki do wytwarzania promieni Röntgena.
+
+Giesel okazał, że kryształy haloidków metali alkalicznych (np. sól kuchenna) zabarwiają się pod wpływem radu w sposób podobny, jak od promieni katodalnych. Giesel również stwierdził, że podobnego rodzaju zabarwienie powstaje, kiedy sole te umieszczone zostaną w parze sodu.
+
+Studiowałam sama zabarwienie całego szeregu różnych gatunków szkieł o znanym składzie. Nie zaobserwowałam przy tym znacznych zmian w ich zabarwieniu, które bywa przeważnie fioletowe, żółte, brunatne lub szare; o ile się zdaje powstaje ono w obecności metali alkalicznych w szkle.
+
+Sole czyste, krystaliczne metali alkalicznych dają zabarwienia bardziej różnorodne i bardziej żywe; sól, pierwotnie biała, przechodzi w niebieską, zieloną, żółto-brunatną itp.
+
+P. Becquerel dowiódł, że fosfor biały zamienia się w fosfor czerwony pod wpływem promieni radu. Papier zostaje również nadwerężony i zabarwiony od radu. Staje się on kruchy, podziurawiony jest przy tym jak sito.
+
+W pewnych warunkach w bliskości preparatu radowego bardzo czynnego spostrzec się daje powstawanie ozonu. Promienie, które wychodzą z rurki szklanej zatopionej i zawierającej rad, nie powodują tworzenia się ozonu w powietrzu. Przeciwnie, dopiero po otworzeniu rurki rozchodzi się silny zapach ozonu; ten ostatni zawsze powstaje, ilekroć powietrze zetknie się bezpośrednio z radem; wystarczy komunikacja przez wąziutki nawet kanalik. Zdaje się, że powstawanie ozonu jest w związku z rozchodzeniem się promieniotwórczości wzbudzonej, o której później będzie mowa.
+
+Substancje radonośne, o ile się zdaje, zmieniają się z czasem, prawdopodobnie pod wpływem swego własnego promieniowania. Widzieliśmy już poprzednio, że kryształy chlorku baru radonośnego, bezbarwne w chwili powstawania, stają się stopniowo żółtymi, pomarańczowymi lub różowymi. Zabarwienie to znika po rozpuszczeniu. Chlorek baru radonośny wydziela związki tlenowe chloru, bromek zaś wydziela brom.
+
+Sole czystego radu zdają się ulegać tym samym transformacjom, jakie dotyczą preparatów z solą barową radonośną. Charakterystyczne jest to, że kryształy chlorku wydzielone z roztworu kwaśnego nie zabarwiają się w czasie, w jakim zwykle kryształki chlorku baru, bogate w rad, silnie zmieniają swą barwę.
+
+*Termoluminescencja.* Niektóre ciała, jak np. fluspat, świecą, kiedy się je ogrzeje. Zjawisko podobne nazywa się termoluminescencją, czyli świeceniem wskutek ogrzania. Zdolność podobna wyczerpuje się po pewnym czasie, lecz zjawia się z powrotem skoro ciała zostaną poddane działaniu iskry lub promieni radu. W trakcie ogrzewania fluspat ulega transformacji, której towarzyszy wydzielanie światła. Pod wpływem natomiast promieni radu zmiana następuje w kierunku przeciwnym i towarzyszy jej również wydzielanie światła. Zjawisko podobne ma miejsce, kiedy szkło wystawimy na działanie promieni radu; pod ich wpływem szkło ulega transformacji, czego dowodem jest zabarwienie, jakie zjawia się i powiększa stopniowo. Jeżeli teraz ogrzejemy szkło, podobnie zmienione, zajdzie transformacja odwrotna; zabarwienie zniknie i zjawisku towarzyszyć będzie wydzielanie się światła. Zdaje się bardzo prawdopodobnym, że mamy tu do czynienia z jakąś modyfikacją natury chemicznej i że wytwarzanie się światła związane jest z tą modyfikacją.
+
+Możliwe jest również, że zjawisko fluorescencji pod wpływem promieni radu oraz świecenie preparatu radonośnego są także związane ze zjawiskiem chemicznej lub fizycznej przemiany substancji świecącej.
+
+*Wydzielanie gazów wobec soli radu*. Roztwór bromku radu wydziela stale gazy. Gazy te są to przeważnie wodór i tlen, a skład mieszaniny jest bliski składu wody; można więc sądzić, że woda rozkłada się wobec soli radowych.
+
+Sole radu w stanie stałym (chlorek, bromek) wydzielają także nieustannie gazy. Gazy te wypełniają przestrzenie między cząsteczkami soli i wydzielają się dość obficie, gdy się ją rozpuszcza. Mieszanina gazowa zawiera wodór, tlen, dwutlenek węgla i hel. Według Ramsay'a widmo tych gazów przedstawia także kilka prążków niewiadomego pochodzenia.
+
+W rurce szklanej zalutowanej, zawierającej bromek radu, ciśnienie gazu zwiększa się stopniowo i rurka taka może eksplodować pod wpływem słabego ogrzania.
+
+*Radiografia.* Działanie radiograficzne nowych substancji promieniotwórczych jest niezwykle silne. W każdym jednak razie sposób operowania polonem i radem jest w zasadzie odmienny. Polon działa tylko w zupełnie bliskiej odległości od kliszy; ekrany stałe znacznie zmniejszają ten wpływ; praktycznie niszczy go już ekranik bardzo cienki (np. szklany o grubości 1 mm). Rad natomiast wywołuje skutki podobne z odległości znacznie większej. Działanie radiograficzne promieni radu można zaobserwować z odległości przechodzącej 2 m i nawet wtedy, gdy substancja radonośna zawarta jest w rurce szklanej. Promieniami w warunkach tych czynnymi są grupy β i γ. Z powodu rozmaitej ich zdolności przenikania przez ciała otrzymać można podobne radiogramy, jak za pomocą promieni Röntgena. Metale są w ogólności nieprzezroczyste za wyjątkiem glinu, który dość łatwo przepuszcza te promienie. Natomiast nie ma znacznej różnicy w przezroczystości pomiędzy tkanką mięsną a kostną. Można działać z wielkiej odległości i posiłkując się przy tym źródłem o bardzo małych wymiarach; radiogramy otrzymuje się wówczas bardzo delikatne. Dobrze jest dla zwiększenia wyrazistości radiogramu skierować w bok promienie β przy pomocy pola magnetycznego i działać samymi tylko promieniami γ. Promienie β, przechodząc przez przedmiot radiografowany, ulegają pewnemu rozproszeniu, przez co kontury przedmiotu na kliszy stają się mniej wyraźnymi. Po usunięciu promieni β, trzeba naturalnie czas ekspozycji kliszy znacznie przedłużyć, lecz za to otrzymuje się znacznie lepsze rezultaty. Dla zdjęcia radiogramu z przedmiotu, np. z portmonetki, przy pomocy kilku centygramów soli radowej, zawartej w rurce szklanej i umieszczonej w odległości 1 m od płyty czułej, przed którą znajduje się przedmiot, trzeba dużo czasu (fig. 10). Natomiast z odległości 20 cm od płyty to samo źródło daje podobny skutek już w ciągu godziny. W bezpośrednim sąsiedztwie preparatu promieniotwórczego obraz na kliszy powstaje natychmiastowo.
+
+*Skutki fizjologiczne.* Promienie radu działają na naskórek. Wpływ ten, spostrzeżony przez Walkhoffa, potwierdzony został przez Griesela, a później przez Becquerela i P. Curie.
+
+Jeżeli na skórze umieścimy cienką torebkę z celuloidu lub z kauczuku, zawierającą sól radową silnie promieniotwórczą, i pozostawimy przez czas pewien, to na skórze ukaże się zaczerwienienie albo zaraz lub też dopiero po pewnym czasie, tym dłuższym, im promieniotwórczość preparatu była słabsza lub działanie krótsze; plama ta czerwona zjawia się w miejscu, które wystawione było na działanie promieni. Nadwerężenie skóry podobne jest do oparzelizny. W niektórych razach tworzy się pęcherz. Jeżeli ekspozycja trwała nazbyt długo, to powstaje rana, gojąca się niezwykle długo. W jednym z doświadczeń p. Curie położył sobie na ramieniu preparat względnie słabo promieniotwórczy i przetrzymał go w ciągu 10 godzin. Zaczerwienienie ukazało się prawie natychmiastowo; nieco później ukazała się rana, która goiła się przez 4 miesiące. Naskórek został całkiem zniszczony i zaledwie bardzo powolnie z trudnością odnawiał się, pozostawiając jednak widoczną bliznę. Oparzelizna od radu działającego na skórę w ciągu 1 godziny zjawiła się dopiero po 15 dniach; powstał bąbel, który zagoił się dopiero po 15 dniach. Inna znów oparzelizna od radu, działającego w ciągu jedynie 8 minut, zjawiła się dopiero po 2 miesiącach w postaci plamy czerwonej ze skutkiem nieznacznym. Rad powoduje zmiany podobne na skórze nawet poprzez metale, lecz skutek bywa słabszy. Dla uchronienia się od wpływu radu, należy unikać starannie zatrzymywania preparatu radowego na sobie przez czas dłuższy, lub też zamykać go w skrzynce ołowianej.
+
+Wpływ promieni radu na skórę badał dr Danlos w szpitalu św. Ludwika, celem zastosowania do leczenia niektórych chorób skórnych, podobnie jak to się praktykuje za pomocą promieni Röntgena lub ultrafioletowych. Rezultaty wypadły zachęcająco; naskórek częściowo zniszczony od radu odrastał z powrotem w stanie zdrowym.
+
+Działanie radu przenika głębiej od działania światła, a przy tym sama metoda jest daleko prostsza niż ze światłem lub promieniami Röntgena.
+
+Griesel zaobserwował wpływ na liście roślin, które żółkną i więdną od działania radu.
+
+Ten sam badacz odkrył również fakt następujący. Jeżeli preparat radonośny umieścimy w bliskości powieki zamkniętej lub na skroni, to w oku powstanie wrażenie światła, które zapełnia całe wnętrze oka. Zjawisko badane było przez Himstedta i Nagla. Uczeni ci stwierdzili, że substancje oka fosforyzują pod wpływem promieni radu, i to właśnie jest powodem światła odczuwanego. Ślepi z siatkówką nienaruszoną wrażliwi są na promienie radu, podczas gdy ślepi z siatkówką chorą nie odczuwają wcale wrażeń świetlnych, powodowanych przez rad. Promienie radowe utrudniają lub tamują rozwój mikrobów, lecz wpływ ten nie jest zbyt silny. Niedawno temu p. Danysz stwierdził, że promienie radowe działają energicznie na rdzeń pacierzowy i na mózg. Po godzinnym wystawieniu na promienie radu następuje u zwierząt paraliż i zwykle umierają one w ciągu dni kilku.
+
+*Wpływ temperatury na promieniowanie.* Niewiele jest jeszcze do powiedzenia o zależności promieniotwórczości ciał od temperatury. Wiemy już, że promieniowanie pozostaje bez zmiany w niskiej nawet temperaturze. P. Curie umieścił w powietrzu ciekłym rurkę szklaną, zawierającą chlorek baru radonośny. Świecenie substancji nie ustępowało w tych warunkach. W chwili, kiedy rurkę wydobywał z ośrodka zimnego, wydawało się nawet, jakoby była bardziej świecąca niż w temperaturze zwykłej. W temperaturze powietrza ciekłego rad w dalszym ciągu pobudza do fluorescencji siarczan uranylu i potasu. P. Curie przekonał się na zasadzie pomiarów elektrycznych, że promieniowanie, mierzone w pewnej odległości od źródła promieniotwórczości, okazuje tę samą moc niezależnie od tego, czy rad posiada temperaturę zwykłą czy też temperaturę powietrza ciekłego.
+
+W doświadczeniach tych rad był umieszczony na dnie rurki; przez otwór górny promienie wychodziły i przenikały przez warstwę powietrza do wnętrza kondensatora. Otóż mierzono wpływ promieni na przewodnictwo powietrza w kondensatorze, czy to pozostawiając rurkę w powietrzu zwykłym, czy też zanurzając ją w powietrzu skroplonym. Rezultaty badania okazały się jednakowe w obu przypadkach.
+
+Ogrzanie radu nie może nigdy zniszczyć całkowicie jego promieniotwórczości. Chlorek baru radonośny, ogrzany aż do stopienia (około 800°), zachowuje promieniotwórczość i świecenie. W każdym jednak razie długie działanie temperatury podwyższonej pociąga za sobą czasowe obniżenie promieniotwórczości; obniżenie to jest bardzo znaczne i wynosić może 75% całkowitego promieniowania; przy tym stosunkowo mniej traci się promieni pochłanianych niż promieni przenikliwych, które są prawie zupełnie zniszczone podczas ogrzewania. Po pewnym czasie promieniotwórczość substancji wraca do stanu, jaki miała przed ogrzaniem, lecz następuje to dopiero po 2 miesiącach od czasu ogrzania.
+
+
+
+Promieniotwórczość wzbudzona
+
+*Udzielanie promieniotwórczości ciałom z natury swej nieczynnym.* W ciągu naszych badań nad substancjami promieniotwórczymi p. Curie i ja zauważyliśmy, że wszystkie ciała stają się promieniotwórczymi, skoro przez pewien czas przebywać będą w sąsiedztwie soli radonośnej. W pierwszej naszej publikacji o tym przedmiocie staraliśmy się dowieść, że radioaktywność, w ten sposób powstała w ciałach z natury swej nieczynnych, nie polega na przeniesieniu i osadzaniu pyłu promieniotwórczego na powierzchni ciał. Potwierdzają to nie tylko całe szeregi doświadczeń, lecz także prawa, według jakich promieniotwórczość, wywołana w ciałach pierwotnie nieczynnych, znika, kiedy usunie się je spod wpływu radu.
+
+Nowemu temu zjawisku nadaliśmy nazwę *promieniotwórczości wzbudzonej* (indukowanej).
+
+W badaniach posługiwaliśmy się blaszkami z różnych substancji i umieszczaliśmy je w pobliżu soli radonośnej; następnie mierzyliśmy ich promieniotwórczość wzbudzoną za pomocą metody elektrycznej. W taki sposób doszliśmy do twierdzeń następujących:
+
+1. Promieniotwórczość blaszki wystawionej na wpływ radu powiększa się wraz z czasem ekspozycji, zbliżając się asymptotycznie do pewnej granicy.
+
+2. Promieniotwórczość blaszki aktywowanej przez rad i następnie usuniętej spod jego wpływu, znika po kilku dniach, zbliżając się asymptotycznie do zera.
+
+3. Promieniotwórczość wzbudzona przez jeden i ten sam produkt radonośny w rozmaitych blaszkach nie zależy od natury blaszek; szkło, papier, metale aktywują się jednakowo silnie.
+
+4. Promieniotwórczość wzbudzona w jednej i tej samej blaszce przez rozmaite sole radonośne przyjmuje wartość graniczną tym wyższą, im sól jest bardziej aktywna.
+
+Wkrótce potem Rutherford ogłosił, że związki toru są również zdolne do wzbudzania promieniotwórczości w ciałach; przy czym odnalazł te same co powyżej prawa, a jednocześnie zauważył fakt bardzo znamienny, że ciała naelektryzowane odjemnie aktywują się silniej niż inne. Rutherford również zaobserwował, że powietrze przepuszczone nad tlenkiem toru, zachowuje w ciągu 10 minut znaczne jeszcze przewodnictwo i w tym stanie udziela promieniotwórczości substancjom nieczynnym, a nade wszystko naładowanym odjemnie. Rutherford dla wytłumaczenia objawów powyższych przyjął, że związki torowe, a zwłaszcza tlenek, wydzielają szczególniejszego rodzaju *emanację promieniotwórczą*, którą może uprowadzać prąd powietrza i która naładowana jest dodatnio. Emanacja ta ma być przyczyną promieniotwórczości wzbudzonej.
+
+Dorn powtórzył z solą barową doświadczenia wykonane przez Rutherforda nad tlenkiem toru i stwierdził jego spostrzeżenia. Debierne przekonał się, że aktyn wzbudza silną promieniotwórczość w ciałach umieszczonych obok niego. Podobnie jak dla toru, prąd powietrza unosi ze sobą promieniotwórczość.
+
+*Aktywowanie w przestrzeni zamkniętej.* Jeżeli doświadczenie nad wzbudzaniem promieniotwórczości za pomocą radu wykonywać będziemy na wolnym powietrzu, to otrzymamy rezultaty niejednakowe. P. Curie i Debierne zauważyli natomiast, że zjawisko to przebiega prawidłowo i zawsze w tenże sam sposób, jeżeli odbywa się w naczyniu zamkniętym, a jednocześnie promieniotwórczość wzbudzona jest intensywniejsza. Niechaj substancja promieniotwórcza znajdzie się w buteleczce szklanej *a* otwartej w *o* (rys. 11) i umocowanej w środku naczynia. Rozmaite płytki *A*, *B*, *C*, *D*, *E* rozmieszczone wewnątrz naczynia, stają się promieniotwórczymi już po jednym dniu ekspozycji. Promieniotwórczość płytek będzie jednakowa bez względu na substancję płytki (ołów, miedź, szkło, ebonit, wosk, tektura, parafina), a tylko dla tej powierzchni okaże się większą, pod którą większa będzie wolna przestrzeń.
+
+Jeżeli doświadczenie powyższe powtórzy się wobec zamkniętej buteleczki, to nie zauważymy nawet śladów promieniotwórczości wzbudzonej. Promienie radu nie biorą bezpośrednio udziału w wytworzeniu promieniotwórczości. Do podobnego wniosku prowadzi eksperyment z blaszką *D*; jest ona oddzielona grubym ekranem ołowianym *PP* od buteleczki, a jednak okazuje taką samą promieniotwórczość, jak *B* i *E*.
+
+Radioaktywność rozsiewa się w powietrzu stopniowo, od substancji promieniującej, aż do ciała indukowanego; może ona nawet przebywać rurki włoskowate niezwykle wąskie. Jeżeli zastąpimy sól radonośną przez jej roztwór wodny, to promieniotwórczość wzbudzona objawi się w ciałach intensywniej i bardziej prawidłowo.
+
+Ciecze są również zdolne do nabywania promieniotwórczości wzbudzonej. Można na przykład czystą wodę uczynić promieniotwórczą, jeżeli się ją pomieści w naczyniu zamkniętym obok roztworu soli radonośnej.
+
+Niektóre substancje zaczynają świecić po wstawieniu ich do podobnej przestrzeni aktywnej (substancje fosforyzujące i fluoryzujące, a także szkło, papier, bawełna, roztwory soli). Siarczek cynku fosforyzujący szczególnie w tych warunkach błyszczy.
+
+Jakąkolwiek będzie substancja, którą aktywujemy w przestrzeni zamkniętej, zawsze jej promieniotwórczość wzbudzona wzrastać zacznie z początku aż do pewnej granicy, zawsze tej samej, jeżeli tylko doświadczenie prowadzimy z tym samym preparatem radonośnym i w tym samym przyrządzie.
+
+*Wartość graniczna promieniotwórczości wzbudzonej jest niezależna od natury i od ciśnienia gazu zawartego w przestrzeni aktywnej (powietrze, wodór, dwutlenek węgla).*
+
+*Wartość graniczna promieniotwórczości wzbudzonej w ciałach w tej samej przestrzeni zależy wyłącznie od ilości radu, jaka znajduje się w stanie rozpuszczonym, i zdaje się być do niej proporcjonalna.*
+
+*Zachowanie się gazów w zjawisku promieniotwórczości wzbudzonej. Emanacja.* Gazy zawarte w przestrzeni zamkniętej wobec soli radu lub jej roztworu, stają się promieniotwórczymi. Własność ta nie ustępuje z gazu, nawet jeżeli się go wyciągnie pompką i zbierze oddzielnie w probówce. Ścianki probówki okażą się jednocześnie promieniotwórczymi i szkło probówki zacznie świecić w ciemności. Aktywność i świecenie probówki znikają po pewnym czasie całkowicie, choć bardzo powoli; jeszcze po miesiącu można w nich zaobserwować promieniotwórczość.
+
+Z początku naszych badań p. Curie i ja wydobyliśmy gaz z blendy smolistej przez jej ogrzewanie; był on bardzo silnie radioaktywnym, lecz również, jak w doświadczeniach poprzednich, aktywność jego zmniejszała się powoli aż do całkowitego zaniku.
+
+Zarówno dla toru, jak dla radu i aktynu, objaw promieniotwórczości wzbudzonej rozprzestrzenia się powoli od substancji czynnej poprzez gaz aż do ścianek naczynia, gdzie gaz jest zawarty; własność aktywowania przenosi się wraz z gazem, gdy się go wypompowuje i przeprowadza do innego naczynia. Energia promieniotwórcza jest więc zawarta w gazie pod jakąś postacią szczególną. Rutherford przypuszcza, że pewne ciała promieniujące wydzielają emanację, czyli gaz materialny, który posiada promieniotwórczość. Ten to gaz posiada własność udzielania promieniotwórczości ciałom, z któremi jest w styczności. Ciała wysyłające emanację są: rad, tor i aktyn.
+
+*Zanikanie promieniotwórczości wzbudzonej.* Ciało stałe, aktywowane przez rad w przestrzeni zamkniętej, traci stopniowo swą aktywność, skoro wydobyte zostanie na wolne powietrze. Prawo zaniku jest z początku nieco skomplikowane, lecz upraszcza się po 2 lub 3 godzinach i od tej chwili aktywność zmniejsza się o połowę swej wartości co każde 28 minut; prawo to graniczne jest charakterystyczne dla ciał stałych, aktywowanych przez rad.
+
+Naczynie zamknięte, aktywowane przez rad, który następnie został z niego usunięty, traci swą aktywność daleko powolniej aniżeli przedmioty pozostawione na wolnym powietrzu Można na przykład wykonać doświadczenie z rurką szklaną, połączyć ją z naczyniem zawierającem roztwór soli radu, następnie przeciąć komunikację przez zalutowanie końców rury. Mierzy się natężenie promieniowania wysyłanego przez zewnętrzne ścianki rury. Pomiary stwierdziły, że natężenie w tych warunkach zmniejsza się do połowy co każde 4 dni, i to niezależnie od warunków doświadczenia (rozmiarów naczynia, natury ścianek, charakteru gazu wewnątrz rury, czasu trwania komunikacji itp.). Temperatura nie ma tu również żadnego znaczenia, jak to potwierdziły doświadczenia czynione w temperaturach od -180° do +450°.
+
+Niektóre jednak ciała stanowią wyjątek; do nich należą: celuloid, parafina, kauczuk itp. W powietrzu tracą one swą wzbudzoną przez rad promieniotwórczość daleko powolniej.
+
+Ciała stałe z promieniotwórczością wzbudzoną przez aktyn tracą ją podobnie jak poprzednie, tylko nieco powolniej, ciała aktywowane przez tor tracą promieniotwórczość znacznie wolniej, mianowicie połowę co każde 11 godzin.
+
+W doświadczeniach tych energia radioaktywna zawarta w gazie powoduje promieniotwórczość ścianek. Jeżeli usunie się gaz z wnętrza rury, czyniąc w niej próżnię, zauważy się od tej chwili daleko szybszy zanik aktywności ścianek, które wtedy zmieniają swą promieniotwórczość według prawa poprzednio przytoczonego, tj. o połowę co każde 28 minut. Ten sam rezultat ma miejsce, skoro się gaz czynny wewnątrz rurki zastąpi przez świeży gaz obojętny. Prawo zmniejszania się o połowę co każde 4 dni jest zatem charakterystycznym dla energii radioaktywnej zawartej w gazie aktywowanym przez rad. Przyjmując sposób wyrażania się Rutherforda, powiedzieć można, że co każde 4 dni znika połowa emanacji.
+
+Emanacja toru jest nieco innej natury i zanika daleko szybciej, zmniejszając się do połowy co minutę i 10 sekund. Emanacja aktynu niszczeje jeszcze prędzej, gdyż obniżenie do połowy następuje już w ciągu kilku sekund.
+
+Powietrze atmosferyczne, według badań Elstera i Geitla, zawiera w małej ilości emanację radioaktywną, podobną do tych, które pochodzą od ciał promieniotwórczych. Emanacja ta zdaje się być identyczną z emanacją radu.
+
+Gazy wydzielające się z niektórych wód mineralnych zawierają trochę emanacji, podczas gdy powietrze zawarte w wodach morskich i rzecznych nie zdaje się jej zawierać.
+
+*Natura emanacji.* Według Rutherforda emanacja ciała radioaktywnego jest to gaz radioaktywny, który wydziela się z tego ciała. Pod wielu względami emanacja istotnie zachowuje się jak gaz materialny. Tak np., jeżeli połączymy naczynie zawierające emanację z naczyniem, które jej nie zawierało, to emanacja dyfunduje z pierwszego naczynia do drugiego i podział emanacji między naczyniami odbywa się jak dla zwykłego gazu, który idzie za prawem Mariotta i Gay Lussaca, jeżeli przyjmiemy, że promieniowanie każdego naczynia jest proporcjonalne do ilości zawartej w nim emanacji.
+
+Emanacja dyfunduje wzdłuż rurki długiej i cienkiej według praw dyfuzji gazu zwykłego; współczynnik dyfuzji emanacji w powietrzu jest niezbyt różny od współczynnika dla dwutlenku węgla.
+
+Rutherford i Soddy dowiedli, że emanacje radu i toru kondensują się w temperaturze powietrza płynnego jak gazy skraplające się. Weźmy dwa naczynia (rys. 12) *B* i *C* komunikujące ze sobą za pomocą kranu *R'* i z roztworem radu za pomocą kranu *R*. Oba te naczynia zawierają emanację. Zamknijmy kran *R* i otoczmy naczynie *C* powietrzem skroplonym. Po pewnym czasie cała ilość emanacji będzie skondensowana w naczyniu *C* i jeżeli wówczas przetniemy komunikację *R'*, a potem wyjmiemy przyrząd z powietrza ciekłego, to zobaczymy, że naczynie *B* nie zawiera emanacji, a naczynie C zawiera jej więcej niż poprzednio. Doświadczenie to jest bardzo piękne, jeżeli naczynia szklane *B* i *C* są wewnątrz pokryte warstwą siarczku cynkowego fosforyzującego, który przepysznie świeci pod wpływem emanacji.
+
+Jednakże emanacja radu różni się od zwykłego gazu w tym, że niknie sama przez się w zalutowanym naczyniu szklanym. Dotąd nie stwierdzono jeszcze ani ciśnienia emanacji, ani charakteryzującego ją widma. Przenika ona także z wielką łatwością przez szparki, przez które zwykłe gazy dyfundują bardzo powoli. Wreszcie nie zauważono dotąd, aby temperatura kondensacji zależała od ilości emanacji zawartej w naczyniu danej objętości, jak to ma miejsce dla gazów.
+
+Ramsay i Soddy znaleźli, że gazy wydzielane przez rad zawierają hel i że ten gaz tworzy się stopniowo wobec emanacji radu. Odkrycie to nasuwa wniosek, że emanacja jest gazem nietrwałym i że hel jest jednym z produktów jej dezagregacji.
+
+Emanacje radu i toru nie ulegają wpływowi różnych energicznych odczynników chemicznych. Rutherford i Soddy porównywają je z tej przyczyny do gazów z grupy argonu.
+
+*Promieniotwórczość cieczy i roztworów radu.* Ciecz każda staje się promieniotwórczą, skoro umieścimy ją w przestrzeni aktywowanej; wyjmijmy ją stamtąd na otwarte powietrze, a płyn straci bardzo szybko swą aktywność. Natomiast w naczyniu zamkniętym tracić będzie swą własność powoli, zmniejszając ją co każde 4 dni do połowy; wynik ten każe przypuszczać, że energia radioaktywna nagromadza się zarówno w cieczy, jak i w gazie pod postacią jednakową. Roztwór soli radonośnej zachowuje się w sposób analogiczny. Najpierw trzeba zwrócić uwagę na fakt, że roztwór soli radowej nie jest bardziej promieniotwórczy od czystej wody, umieszczonej razem z nim w przestrzeni zamkniętej, o ile naturalnie równowaga między nimi się już ustaliła. Gdybyśmy wydobyli teraz roztwór soli radonośnej na otwarte powietrze, to stałby się prawie inaktywnym; lecz zamknijmy go znów w naczyniu, to pocznie nabierać powoli promieniotwórczości i po jakichś piętnastu dniach dojdzie do swej wartości granicznej, która może być bardzo znaczna. Natomiast roztwór aktywowany, niezawierający radu, traci promieniotwórczość na powietrzu i nie nabiera jej już z powrotem, kiedy go zamkniemy w naczyniu jakimkolwiek.
+
+*O promieniotwórczości wzbudzanej w roztworach radonośnych.* Po odkryciu radioaktywności wzbudzonej Giesel spróbował po raz pierwszy aktywować zwykły bizmut nieczynny, rozpuszczając go w roztworze radonośnym i następnie strącając. Otrzymał bizmut radioaktywny, skąd wyciągnął wniosek, jakoby polon, wykryty przeze mnie w blendzie smolistej, miał być tylko bizmutem aktywowanym wskutek sąsiedztwa z radem. W ten sam sposób co i Giesel, otrzymałam również bizmut aktywowany. Trudności tego rodzaju doświadczeń polegają na niezwykłej staranności, z jaką najmniejsze nawet ślady radu usuwać trzeba z roztworu.
+
+Jeżeli się pomyśli, że już nieskończenie mała ilość radu wystarcza do wywołania bardzo znacznej promieniotwórczości w gramie materii, to nigdy niepodobna uwierzyć w dostateczne przemycie i oczyszczenie produktu aktywowanego; po każdem jednak oczyszczeniu promieniotwórczość preparatu zmniejsza się, czy to z powodu, że coraz to mniejsze pozostają w nim ślady radu, czy też że promieniotwórczość wzbudzona nie jest w stanie oprzeć się przemianom chemicznym.
+
+Rezultaty, jakie otrzymałam, zdają się jednak stwierdzać z całkowitą pewnością, że promieniotwórczość mego bizmutu aktywnego wytwarza się i nie ustępuje nawet po usunięciu radu. Frakcjonując przez strącanie wodą azotan bizmutu tego, przekonałam się, że po najstaranniejszym nawet jego oczyszczeniu zachowuje się jak polon, tj. część najbardziej aktywna strąca się najpierwej.
+
+Jeżeli oczyszczenie jest niedostateczne, to w tym razie daje się spostrzec skutek przeciwny, co wskazuje, że jeszcze ślady radu znajdują się w podobnym bizmucie aktywnym. Otrzymałam nawet bizmut aktywowany, którego stopień czystości był bardzo znaczny i którego promieniotwórczość była 2000 razy większa od promieniotwórczości uranu. Bizmut ten z biegiem czasu zmniejszał swą promieniotwórczość. Jednak znów inna część tego samego produktu, spreparowana z tymi samymi ostrożnościami i odfrakcjonowana w sposób powyżej przytoczony, zachowuje swoją aktywność bez znaczniejszego zmniejszenia już blisko od trzech lat. Jej promieniotwórczość jest 150 razy większa od promieniotwórczości uranu.
+
+Aktywowałam również ołów i srebro, rozpuściwszy je razem z radem. W większości przypadków promieniotwórczość wzbudzona nie zmniejsza się z czasem, lecz, ogólnie powiedziawszy, nie jest ona w stanie oprzeć się reakcjom chemicznym, dokonywanym z ciałem samym.
+
+Debierne aktywował bar, pozostawiając go w roztworze z aktynem. Ten bar aktywowany nie traci swej własności nawet podczas przemian chemicznych; jego promieniotwórczość jest więc własnością atomową dość trwałą. Chlorek baru aktywowany frakcjonuje się podobnie jak chlorek baru radonośny; części bardziej aktywne są mniej rozpuszczalne w wodzie lub rozcieńczonym kwasie solnym od części mniej aktywnych. Chlorek ten w stanie wysuszonym świeci i jego promieniowanie jest podobne do promieniowania chlorku baru radonośnego. Debierne otrzymał nawet w ten sposób chlorek baru, którego aktywność przewyższała 1000 razy promieniotwórczość uranu. Bar ten nie okazywał jednak wszystkich własności radu, gdyż nie dawał w spektroskopie linij bardzo charakterystycznych dla radu; również promieniotwórczość jego zmniejszała się z czasem i po trzech tygodniach zmniejszyła się do trzeciej części.
+
+Promieniotwórczość wzbudzona w ciałach będących w roztworze obok substancji promieniotwórczych może być zaliczona do tej samej kategorii objawów, co promieniotwórczość wzbudzona w przestrzeni zamkniętej. Tylko że promieniotwórczość wzbudzona z odległości ogranicza się jedynie na warstwie powierzchniowej, bardzo cienkiej, gdy natomiast substancja strącana z roztworu jest aktywowana w całej swej masie.
+
+Nie tylko rad aktywuje w roztworze, lecz podobną własność objawia także uran. Doświadczenie wykonano z barem. Jeżeli, jak to stwierdził Debierne, dolejemy kwasu siarczanego do roztworu zawierającego uran i bar, to strącony siarczan baru zabierze ze sobą część promieniotwórczości, gdy tymczasem sól uranowa straci część swojej. Becquerel przekonał się, że, powtórzywszy kilkakrotnie powyższą operację, otrzymuje się wreszcie uran zaledwie aktywny. Można by więc z powyższego mniemać, że nareszcie udało się wydzielić z uranu ciało promieniotwórcze, odmienne od tego metalu i powodujące swoją obecnością promieniowanie uranu. Tak jednak nie jest, gdyż po kilku miesiącach uran odzyskuje z powrotem utraconą swą promieniotwórczość, gdy siarczan baru traci swą aktywność nabytą.
+
+Zjawisko podobne powoduje również tor. Rutheford strącił amoniakiem z roztworu soli torowej wodzian toru mało aktywny, gdy tymczasem roztwór, odparowany do suchości, dał maleńką resztkę, bardzo silnie promieniotwórczą. Ta resztka aktywna, w której promieniotwórczą częścią składową ma być według Rutherforda *tor x*, traci po pewnym czasie własność promieniowania, gdy jednocześnie wodzian toru strącony wraca do swej pierwotnej aktywności.
+
+*Radioaktywność wzbudzana bez współudziału substancji promieniotwórczych.* Znamy kilka przykładów podobnego objawu. Villard poddał działaniu promieni katodalnych kawałek bizmutu, umieściwszy go w rurce Crookesa naprzeciwko katody; bizmut stał się aktywnym co prawda w bardzo małym stopniu, bowiem dopiero po 8 dniach ekspozycji dał odbitkę na kliszy fotograficznej.
+
+Mac Leennan wystawiał rozmaite sole na wpływ promieni katodalnych i ogrzewał je następnie lekko. Sole powodowały wtedy rozbrajanie elektroskopu naładowanego.
+
+Badania w tym kierunku wzbudzają znaczne zainteresowanie. Gdyby za pomocą obecnie nam znanych czynników fizycznych udało się stworzyć substancje bardzo radioaktywne z nieaktywnych, bylibyśmy w stanie wytłumaczyć wtedy przyczynę promieniotwórczości samodzielnej niektórych substancji .
+
+
+
+Zmiany w promieniotwórczości ciał aktywnych
+
+*Zmiany wskutek rozpuszczania.* Polon, jak to już poprzednio wspomniałam, zmniejsza z czasem swą aktywność. Zmniejszenie to jest jednakże powolne i, o ile się zdaje, nie przebiega z tą samą prędkością we wszystkich próbkach. Preparat z azotanu bizmutu polononośnego stracił połowę swej promieniotwórczości w ciągu 11 miesięcy, a 95% w ciągu 33 miesięcy: inna próbka zachowywała się podobnie.
+
+Zasadowy azotan bizmutowy, o 100000 razy większej aktywności od uranu, dał po kilku latach kawałek metalu o promieniotwórczości 2000 razy zaledwie silniejszej niż uranowa. W ciągu 6 miesięcy metal ten stracił 67% ze swej aktywności.
+
+Strata na aktywności nie zdaje się być ułatwianą przez reakcje chemiczne. Po szybko wykonywanych reakcjach chemicznych nie zaobserwowano w ogólności znacznej straty promieniowania.
+
+W przeciwieństwie do polonu sole radonośne posiadają aktywność stałą, niezmniejszającą się nawet po kilku latach.
+
+Sól radowa w stanie stałym, świeżo wydzielona z roztworu, nie objawia promieniotwórczości niezmiennej; przeciwnie, jej aktywność wzrasta powoli, zbliżając się w ciągu mniej więcej miesiąca do wartości granicznej. Natomiast roztwór tej soli jest bardzo silnie aktywny zaraz po przygotowaniu, lecz pozostawiony w powietrzu wolnym, traci szybko promieniotwórczość i wreszcie przyjmuje wartość graniczną, znacznie mniejszą od początkowej. Te zmiany w promieniotwórczości najpierw zaobserwowane zostały przez Giesela. Tłumaczą się one z łatwością za pomocą emanacji. W stałej soli radowej emanacja nagromadza się i nie może wychodzić z niej swobodnie, gdy natomiast z roztworu na powietrzu wolnym ulatuje z łatwością. Roztwór zawarty w przestrzeni zamkniętej nie traci tak szybko swej promieniotwórczości i w ogóle jest bardziej aktywny niż pozostawiony w powietrzu wolnym.
+
+Przytoczmy kilka doświadczeń.
+
+Roztwór chlorku baru radonośnego, pozostawiony w powietrzu wolnym, stał się po 2 dniach 300 razy mniej aktywny. Mianowicie wykazywał natychmiast po wyjęciu z przestrzeni zamkniętej promieniotwórczość 67, po 2 godzinach — 20, a po 2 dniach już tylko 0,25.
+
+Natomiast roztwór pozostawiony najpierw w powietrzu wolnym, a następnie zamknięty w rurze szklanej, posiadał aktywność: zaraz po zamknięciu w rurze 27; po 2-ch dniach 61; po 3-ch dniach 70; po 4-ch dniach 81; po 7-miu dniach 100 i po 11-tu dn. 100.
+
+Wielkość zmniejszenia promieniotwórczości preparatu radonośnego, po rozpuszczeniu go w wodzie i następnym wysuszeniu, zależy od ilości dni, w ciągu których roztwór pozostawał na powietrzu wolnym. Niechaj np. promieniotwórczość graniczna danego chlorku równą będzie 800; po rozpuszczeniu i natychmiastowym wysuszeniu stanie się ona równą 440; po 5-ciu dniach pozostawania roztworu na powietrzu: 130; po 18 dniach: 120 i po 32 dniach: 114. W doświadczeniach tych roztwór przechowywany bywał wprost w naczyniu przykrytym szkiełkiem.
+
+Strata promieniotwórczości przez rozpuszczenie jest tym większa, im rozcieńczenie soli jest większe; energia radioaktywna przenoszona do roztworu musi nasycić wtedy większą objętość płynu i napełnić większą przestrzeń.
+
+Strata promieniotwórczości w roztworach rozcieńczonych następuje bardzo szybko, jak to wskazuje doświadczenie następujące: trzy jednakowe próbki soli radonośnej o aktywności granicznej 470 rozpuszczono w jednakowych ilościach wody w stosunku 100 na 0,5 soli. Po godzinnym staniu próba *a* miała promieniotwórczość początkową 145,2; próba *b*, przez którą w ciągu tej samej godziny przepuszczano prąd powietrza: 141,6; oraz próba *c* po 13 dniach: 102,6. A więc w ciągu pierwszej godziny większa część działania została dokonana, a prąd powietrza nie wywierał tu prawie żadnego skutku.
+
+Energia promieniotwórcza pod formą emanacji przebija się z trudnością przez stałą sól radonośną i nie tylko w otoczeniu powietrza, lecz także w otoczeniu wodnym; siarczan baru radonośny np. oblany wodą po jednym dniu nie zmienił swej aktywności.
+
+Sól radonośna traci w próżni całkowitą rozporządzalną emanację. Jednakże promieniotwórczość jednej z moich próbek chlorku radonośnego po 6-ciu dniach leżenia w próżni nie została w sposób dostrzegalny zmieniona. Doświadczenie powyższe wskazuje, że promieniotwórczość soli polega głównie na energii radioaktywnej, zamkniętej wewnątrz ziarn i niedającej się tak łatwo stamtąd wydobyć.
+
+Strata aktywności, jakiej doświadcza sól radowa, przechodząc ze stanu stałego do roztworu, dotyczy bardziej promieni przenikliwych niż promieni pochłanianych.
+
+Sól radonośna rozpuszczona i następnie wysuszona posiada w pierwszej chwili tak samo własność wzbudzania promieniotwórczości (czyli tak samo wytwarza emanację) jak po dojściu do swej aktywności; a jednak w tym ostatnim stanie sól jest 5 razy aktywniejsza niż w początkowym.
+
+*Zmiana aktywności wskutek ogrzania.* Jeżeli ogrzewać będziemy sól radonośną, to ona wydzieli swą emanację i straci na radioaktywności. Strata jest tym większa, im ogrzewanie jest silniejsze i bardziej długotrwałe. Ogrzewanie soli radonośnej w ciągu jednej godziny do 130° pociąga za sobą stratę 10% całkowitego promieniowania; przeciwnie, ogrzewając w ciągu 10 minut do 400°, nie powodujemy przez to widocznej straty. Natomiast prażenie do czerwoności w ciągu kilku godzin niszczy 11% całkowitej promieniotwórczości.
+
+Strata radioaktywności przez ogrzewanie bardziej dotyczy promieni przenikliwych niż pochłanianych; w ostatnim z podanych wyżej przykładów zniszczone zostały prawie wszystkie (99%) promienie zdolne do przechodzenia przez warstwę 3 cm powietrza i blaszkę glinową o grubości 0,1 mm. Można powiedzieć, że promienie przenikliwe przestają istnieć w stopniu widocznym po silnym i długotrwałym prażeniu.
+
+Sól radonośna, która straciła część swej aktywności przez ogrzanie, regeneruje tę część w temperaturze zwykłej, zbliżając się wciąż do pewnej wartości granicznej. Przy tym zauważyłam fakt niezwykle charakterystyczny; oto wartość graniczna, przynajmniej dla chlorków, po ogrzaniu jest wyższa niż przed ogrzewaniem. Tak na przykład: próbkę chlorku baru radonośnego o stałej promieniotwórczości 470 ogrzewano do czerwoności w ciągu kilku godzin. W dwa miesiące po ogrzaniu próbka dosięgła promieniotwórczości równej 690.
+
+Ogrzewanie soli radonośnych wpływa również silnie na ich zdolność wzbudzania promieniotwórczości, podczas ogrzewania wydziela się więcej emanacji niż w warunkach zwykłych, ale po ogrzewaniu sól posiada mniejszą zdolność do wzbudzania promieniotwórczości. Gdy radioaktywność soli po ogrzaniu wraca powoli do normy pierwotnej i może ją nawet przekroczyć, to własność wzbudzania aktywności odzyskuje się jedynie częściowo, a nawet po wyprażeniu długotrwałym do czerwoności zanika całkowicie i nie może być przez pozostawienie w spokoju na czas dłuższy z powrotem odzyskana. Jedynie tylko rozpuszczenie soli w wodzie i wysuszenie w 120° przywraca jej dawną własność wzbudzania promieniotwórczości. Zdaje się, że podczas ogrzewania zachodzi w soli jakaś zmiana fizyczna, która utrudnia wydobywanie się emanacji na zewnątrz, tym się również tłumaczy wyższa promieniotwórczość graniczna soli po ogrzaniu.
+
+*Charakter i przyczyna zjawiska promieniotwórczości.* W badaniach początkowych nad ciałami promieniotwórczymi, kiedy własności tych ciał zaledwie były poznawane, samodzielna ich promieniotwórczość stanowiła zagadkę, budzącą u fizyków żywe zainteresowanie. Dziś jesteśmy już bardzo posunięci w poznawaniu ciał radioaktywnych i zdołaliśmy wydzielić ciało nowe o niezwykle silnej zdolności promieniotwórczej — pierwiastek rad. Niezwykle silne jego własności aktywne pozwoliły lepiej zbadać charakter tych promieni i upodobnić rozmaite ich grupy z grupami, wytwarzanymi w rurce Crookesa, a więc z promieniami katodalnymi, röntgenowskimi i kanałowymi. Są to również te same promienie, jakie rozpoznajemy w promieniowaniu wtórnym, wywołanym przez promienie *Röntgena* i jakie są wysyłane przez ciała z radioaktywnością wzbudzoną.
+
+Lecz choć charakter tych promieni jest obecnie dobrze już poznany, przyczyna jednak podobnej promieniotwórczości samodzielnej ma jeszcze postać zagadkową; zjawisko samo pozostaje czymś dotąd niewytłumaczonym i wzbudza podziw głęboki.
+
+Substancje samodzielnie promieniotwórcze, a przede wszystkim rad, są źródłem energii. Ten wypływ energii objawia się w postaci promieni Becquerela, przez skutki chemiczne i świetlne oraz przez wydzielanie ciepła.
+
+Na tych faktach pp. Curie i Debierne zbudowali ogólną teorię radioaktywności, pozwalającą uporządkować objawy promieniotwórczości wzbudzonej i wolną od wszelkich hipotez. Przedstawia się ona w sposób następujący:
+
+Każdy atom radu jest źródłem stałym i niezmiennym energii. Energia radioaktywna, nagromadzająca się w radzie, rozprasza się w sposób dwojaki: 1) przez promieniowanie (promienie naładowane i nienaładowane elektrycznością), 2) przez przewodnictwo czyli przez przenoszenie energii na coraz to dalsze ciała otaczające za pośrednictwem gazów lub cieczy (wydzielanie emanacji i zamiana jej na promieniotwórczość wzbudzoną).
+
+Strata energii radioaktywnej, czy to przez promieniowanie, czy też przez przewodnictwo, wzrasta z ilością energii nagromadzonej w ciele radioaktywnym. Równowaga ustala się wtedy dopiero, kiedy obie powyżej wymienione straty energii wciąż będą kompensowane przez produkcję, mającą swe źródło w ciele radioaktywnym. Podobne zapatrywanie na zjawisko promieniotwórczości dużo ma wspólnego z poglądem na zjawiska cieplne. Jeżeli we wnętrzu jakiegoś ciała, z jakiegokolwiek bądź powodu zachodzi stałe i niezmienne wydzielanie się ciepła, to gromadzi się ono wewnątrz ciała i podnosi jego temperaturę dopóty, dopóki strata ciepła przez promieniowanie i przez przewodnictwo nie dorówna ilości ciepła dostarczanej przez nieustanną produkcję.
+
+W ogólności, z wyjątkiem niektórych warunków specjalnych, radioaktywność nie udziela się poprzez ciało stałe do coraz to dalszych punktów. Gdy zamkniemy roztwór promieniotwórczy w rurce, jedynie strata przez promieniowanie będzie zachodziła i własność promieniotwórcza roztworu przez to wzrośnie. Jeżeli natomiast roztwór przeniesiemy na wolne powietrze, to strata aktywności przez przewodnictwo stanie się znaczną i zdolność promieniowania po dojściu do swej wartości granicznej będzie już wtedy bardzo mała.
+
+Aktywność soli stałej radonośnej, pozostawionej w powietrzu wolnym, nie zmniejsza się widocznie, gdyż jedynie warstwa powierzchniowa, bardzo cienka, bierze udział w zjawisku promieniotwórczości wzbudzonej. W soli stałej energia wciąż się nagromadza, uchodzi bowiem prawie jedynie przez promieniowanie. Gdy sól podobną rozpuścimy w wodzie, nagromadzona energia promieniotwórcza rozdzieli się pomiędzy wodą a solą; jeżeli wodę oddestylujemy, to ona zatrzyma znaczną część promieniotwórczości, sól stała stanie się natomiast mniej aktywną (10 i 15 razy) niż przed rozpuszczeniem. Powoli jednak sól stała powraca do swej poprzedniej radioaktywności.
+
+Można jeszcze bardziej uzupełnić teorię powyższą, jeżeli się wyobrazi, że promieniotwórczość radu powodowana jest przez energię radioaktywną, wydzielaną przez rad pod postacią emanacji.
+
+Można więc przyjąć, że każdy atom radu jest źródłem stałym i niezmiennym emanacji. W tej samej chwili, kiedy powstaje ta forma energii, doświadcza ona stopniowej transformacji w energię promieniejącą w postaci promieni Becquerela; prędkość podobnej zamiany proporcjonalna jest do ilości nagromadzonej emanacji.
+
+Jeżeli roztwór radonośny zamknięty jest w przestrzeni ograniczonej, to emanacja może się w niej rozszerzać i przechodzić na ścianki. Tam się ona zamienia w promienie, podczas gdy sam roztwór wydziela zaledwie niewielką ilość promieni Becquerela; promieniotwórczość jest w pewien jakoby sposób *wydalona na zewnątrz radu*. Przeciwnie, ze stałej soli radu emanacja nie może wydzielić się łatwo na zewnątrz; nagromadza się w niej przeto i przemienia się na miejscu w promienie Becquerela; promieniowanie soli osiąga zatem wartość wyższą.
+
+Jeżeli sól radową ogrzejemy, to wydzielanie się emanacji przebiega szybciej i zjawiska promieniotwórczości wzbudzonej są wtedy bardziej intensywne, aniżeli w temperaturze zwykłej. Lecz jeżeli teraz sól doprowadzimy z powrotem do temperatury zwykłej, to zachowywać się będzie podobnie jak po rozpuszczeniu, tj. posiadając z początku mniej emanacji, niewielką wskazywać będzie promieniotwórczość. Powoli jednak radioaktywność nagromadzi się na nowo w soli stałej, promieniowanie się zwiększy.
+
+Jeżeli ogrzewać będziemy sól do czerwoności, to straci ona większą część swojej własności aktywowania; innymi słowy wypływ emanacji będzie utrudniony; w następstwie tego ilość emanacji wewnątrz ciała wzrośnie, i sól dojdzie do wyższej niż poprzednio promieniotwórczości granicznej.
+
+Gdyby powyższa teoria promieniotwórczości miała być ogólną, należałoby się spodziewać, że wszystkie ciała promieniotwórcze wydzielają emanację. Tymczasem wypływ jej stwierdzono dla radu, toru i aktynu; to ostatnie ciało wydziela bardzo silnie emanację nawet w stanie stałym. Uran i polon, o ile się zdaje, nie wydzielają emanacji, choć wysyłają promienie Becquerela. Ciała te nie wytwarzają promieniotwórczości wzbudzonej w przestrzeni zamkniętej, jak te czynią rad, tor i aktyn. Fakt ten zresztą nie znajduje się w absolutnej sprzeczności z poprzednią teorią. Bardzo bowiem być może, że emanacja uranu i polonu rozkłada się niezwykle szybko, a wtedy byłoby bardzo trudnym zaobserwowanie podobnej emanacji w powietrzu lub stwierdzenie promieniotwórczości przez nią wzbudzonej w ciałach sąsiadujących. Podobny pogląd nie jest niemożliwy; wiadomo bowiem, że czasy, w jakich emanacje radu i toru zmniejszają się do połowy, odnoszą się do siebie jak 5000 do 1. Zdaje się zresztą, że w pewnych warunkach (mianowicie w roztworze) uran może wzbudzać w ciałach promieniotwórczość.
+
+Można by się teraz zapytać, czy energia powstaje w samych ciałach promieniotwórczych, czy też raczej jest pobierana przez te ciała ze źródeł zewnętrznych? Żadna z licznych hipotez dotyczących tego przedmiotu nie znalazła jeszcze stwierdzenia doświadczalnego.
+
+Można by mniemać, że energia promieniotwórcza była już uprzednio nagromadzona i że ona wydziela się powoli, podobnie jak to ma miejsce z fosforescencją o bardzo długim trwaniu. Można także wyobrazić sobie, że wydzielaniu się energii promieniotwórczej towarzyszy pewna przemiana w atomie ciała promieniującego; fakt, że rad wydziela ciepło w sposób ciągły, przemawia na korzyść podobnej hipotezy. Można również sądzić, że przemiana taka atomu połączona jest ze stratą w ciężarze i z wydzieleniem cząstek materialnych, tworzących promieniowanie. Źródeł energii niektórzy doszukują się w sile ciężenia. Wreszcie można sobie wyobrazić, że w przestrzeni istnieją stale promieniowania nieznane, które zatrzymywane są przez ciała promieniotwórcze i zamieniane w energię promienistą.
+
+Różne dowody przytoczyć można za i przeciw powyższym poglądom; najczęściej jednak próby stwierdzenia na drodze doświadczalnej konsekwencji tych hipotez dawały rezultaty ujemne. Energia promieniotwórcza uranu i radu, o ile dotąd wiadomo, nie ulega z upływem czasu wyczerpywaniu lub nawet zmianie dostrzegalnej. Demarçay badał w spektroskopie próbkę chlorku radu czystego i nie znalazł żadnej zmiany w widmie w ciągu 5 miesięcy. Główna linia baru, widoczna w widmie i wskazująca obecność śladów tego ciała, nie wzmocniła się w trakcie tych badań; rad nie zmienił się ani na bar, ani na inne ciało w sposób dostrzegalny.
+
+Zmiana ciężarów związków radu zaobserwowana przez Heydweillera nie może być uważana za fakt stwierdzony.
+
+Elster i Geitel znaleźli, że promieniotwórczość uranu nie zmienia się na głębokości 850 m pod powierzchnią ziemi; a zatem warstwa ziemi tej grubości nie zmieniałaby owego hipotetycznego promieniowania pierwotnego, mającego wytwarzać promieniotwórczość uranu.
+
+Myśmy mierzyli radioaktywność uranu w południe i o północy, sądząc, że jeżeli hipotetyczne promieniowanie pierwotne ma swe źródło w słońcu, w takim razie musiałoby mieć miejsce częściowe jego pochłanianie przez ziemię. Doświadczenie nie uwydatniło żadnej w tych pomiarach różnicy. Najnowsze badania przemawiają za hipotezą atomowego przekształcania się radu. Hypoteza podobna była wypowiedziana w początku badań nad promieniotwórczością uranu (M. Curie, „Revue Générale des Sciences”, styczeń 1899). Hypotezą tą posługiwał się następnie Rutherford, przyjmując, że emanacja radu jest gazem materialnym, który stanowi jeden z produktów rozkładu atomu radu. Nowsze badania Ramsay'a i Soddy'ego zdają się wykazywać, że emanacja radu jest gazem nietrwałym, który rozkłada się, wytwarzając hel. Zresztą ilość ciepła wytwarzanego przez rad nie da się wytłumaczyć przez żadną zwykłą reakcję chemiczną, ale mogłaby może być wytłumaczona przez przemianę atomową.
+
+Zauważmy wreszcie, że nowe substancje radioaktywne znajdują się jedynie w minerałach zawierających uran; tak np. na próżno szukaliśmy radu w związkach baru znajdujących się w handlu. Obecność radu zdaje się być w związku z obecnością uranu. Minerały zawierające uran zawierają zresztą również argon i hel, i między wszystkimi tymi faktami istnieje prawdopodobnie związek. Jednoczesna obecność różnych tych ciał w tych samych minerałach prowadzi do przypuszczenia, że obecność jednych może być potrzebna do utworzenia się drugich.
+
+Zamiast przypuszczać, że atom radu przekształca się, można by również przypuścić, że atom ten jest trwały, ale działa na otoczenie, wywołując w nim przekształcenia atomowe. Podobna hipoteza prowadzi również do uznania możności przemiany atomów, ale rad nie byłby w takim razie pierwiastkiem zanikającym.

@@ -1,0 +1,938 @@
+﻿
+% Walenty: a valence dictionary of Polish
+% http://zil.ipipan.waw.pl/Walenty
+% version: April 18, 2016
+%
+% © Copyright 2012–2016 by the Institute of Computer Science, Polish
+% Academy of Sciences (IPI PAN)
+%
+% This work is distributed under a CC BY-SA license:
+% http://creativecommons.org/licenses/by-sa/4.0/
+%
+% Walenty is a valence dictionary of Polish developed at the Institute
+% of Computer Science, Polish Academy of Sciences (IPI PAN). It currently
+% contains 83960 schemata and 12024 frames for 15169 lemmata.
+%
+% The original formalism of Walenty was established by Filip Skwarski,
+% Elżbieta Hajnicz, Agnieszka Patejuk, Adam Przepiórkowski, Marcin 
+% Woliński, Marek Świdziński, and Magdalena Zawisławska. It has been 
+% further developed by Elżbieta Hajnicz, Agnieszka Patejuk, Adam 
+% Przepiórkowski, and Marcin Woliński. The semantic layer has been 
+% developed by Elżbieta Hajnicz and Anna Andrzejczuk.
+% 
+% The original seed of Walenty was provided by the automatic
+% conversion, manually reviewed by Filip Skwarski, of the verbal valence
+% dictionary used by the Świgra2 parser (6396 schemata for 1462 lemmata),
+% which was in turn based on SDPV, the Syntactic Dictionary of Polish
+% Verbs by Marek Świdziński (4148 schemata for 1064 lemmata). Afterwards,
+% Walenty has been developed independently by adding new entries, 
+% syntactic schemata, in particular phraseological ones, and semantic
+% frames.
+%
+% Walenty has been edited and compiled using the Slowal tool
+% (http://zil.ipipan.waw.pl/Slowal) created by Bartłomiej Nitoń and 
+% Tomasz Bartosiak.
+%
+% Parameters:
+%     Schema opinions: pewny, wątpliwy, zły, archaiczny, potoczny, wulgarny
+%     Lemma statuses: gotowe, zalążkowe, sprawdzone, (F) w obróbce, (F) gotowe, (F) sprawdzone, (S) w obróbce, (S) gotowe, (S) sprawdzone
+%     Part of speech: adv
+%     Opinions added: True
+%     
+bajecznie: wątpliwy: : : : {cp(że)}
+bajecznie: pewny: : : : {prepnp(dla,gen)}
+bezpiecznie: pewny: : : : {comprepnp(pod względem)}
+bezpiecznie: pewny: : : : {comprepnp(ze względu na)}
+bezpiecznie: pewny: : : : {comprepnp(z powodu)}
+bezpiecznie: pewny: : : : {infp(_)}
+bezpiecznie: pewny: : : : {prepnp(dla,gen);comprepnp(w stosunku do)}
+bezpiecznie: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+bezpiecznie: pewny: : : : {prepnp(dla,gen)} + {cp(jak)}
+bezpiecznie: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+bezpiecznie: pewny: : : : {prepnp(dla,gen)} + {xp(locat)} + {xp(temp)}
+bezpiecznie: potoczny: : : : {xp(mod[advp(mod)])}
+blisko: pewny: : : : {comprepnp(w stosunku do)}
+blisko: pewny: : : : {np(dat)} + {prepnp(do,gen)} + {comprepnp(pod względem)}
+blisko: pewny: : : : {np(gen)}
+blisko: pewny: : : : {prepnp(dla,gen)}
+blisko: pewny: : : : {prepnp(od,gen)}
+blisko: pewny: : : : {xp(locat)}
+bliziutko: pewny: : : : {np(gen)}
+bliziutko: pewny: : : : {prepnp(dla,gen)}
+bliziutko: pewny: : : : {prepnp(do,gen)}
+bliziutko: pewny: : : : {prepnp(od,gen)}
+bliziutko: pewny: : : : {xp(locat)}
+błędnie: pewny: : : : {comprepnp(pod względem)}
+błędnie: wątpliwy: : : : {comprepnp(z powodu)}
+błędnie: pewny: : : : {infp(_)}
+błędnie: wątpliwy: : : : {prepnp(co do,gen)}
+błędnie: pewny: : : : {prepnp(wobec,gen)}
+błogo: pewny: : : : {np(dat)} + {cp(gdy)}
+błogo: potoczny: : : : {np(dat)} + {cp(jak)}
+błogo: pewny: : : : {np(dat)} + {cp(kiedy)}
+błogo: pewny: : : : {np(dat)} + {infp(_)}
+błogo: pewny: : : : {np(dat)} + {prepnp(na,loc)}
+błogo: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+boleśnie: pewny: : : : {infp(_)}
+boleśnie: pewny: : : : {prepnp(dla,gen)}
+bosko: potoczny: : : : {cp(gdy)}
+bosko: potoczny: : : : {cp(jeśli)}
+bosko: pewny: : : : {cp(że)}
+bosko: pewny: : : : {np(dat)} + {infp(_)}
+brzydko: pewny: : : : {comprepnp(ze strony)} + {cp(że)}
+brzydko: pewny: : : : {cp(gdy)}
+brzydko: potoczny: : : : {cp(int)}
+brzydko: pewny: : : : {cp(jeśli)}
+brzydko: pewny: : : : {cp(kiedy)}
+brzydko: pewny: : : : {infp(_)}
+brzydko: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+brzydko: wątpliwy: : : : {prepnp(dla,gen)} + {cp(żeby)}
+brzydko: pewny: : : : {xp(locat)}
+chłodno: pewny: : : : {np(dat)} + {prepnp(w,acc)}
+chłodno: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+chłodno: pewny: : : : {np(dat)} + {xp(caus)}
+chłodno: pewny: : : : {np(dat)} + {xp(locat)}
+chwalebnie: wątpliwy: : : : {comprepnp(ze strony)}
+chwalebnie: pewny: : : : {infp(_)}
+ciasno: pewny: : : : {np(dat)} + {comprepnp(z powodu)}
+ciasno: pewny: : : : {np(dat)} + {infp(_)}
+ciasno: pewny: : : : {np(dat)} + {prepnp(z,inst)} + {xp(locat)}
+ciasno: pewny: : : : {prepnp(dla,gen)} + {xp(locat)}
+ciekawie: pewny: : : : {comprepnp(pod względem)}
+ciekawie: pewny: : : : {comprepnp(za sprawą)}
+ciekawie: pewny: : : : {comprepnp(ze względu na)}
+ciekawie: pewny: : : : {infp(_)}
+ciekawie: pewny: : : : {prepnp(dla,gen)} + {xp(locat)} + {xp(temp)}
+ciekawie: pewny: : : : {xp(mod[advp(mod)])}
+ciemnawo: pewny: : : : {xp(locat)} + {xp(temp)}
+ciemno: pewny: : : : {comprepnp(z powodu)} + {xp(locat)} + {xp(temp)}
+cienko: pewny: : : : {comprepnp(pod względem)} + {xp(locat)}
+cienko: pewny: : : : {prepnp(z,inst)} + {xp(locat)}
+cienko: pewny: : : : {xp(locat)} + {xp(mod[advp(mod)])}
+cieplutko: pewny: : : : {np(dat)} + {prepnp(na,loc)}
+cieplutko: pewny: : : : {np(dat)} + {prepnp(od,gen)} + {prepnp(w,acc)}
+cieplutko: pewny: : : : {np(dat)} + {prepnp(w,acc)} + {prepnp(w,loc)}
+cieplutko: pewny: : : : {np(dat)} + {prepnp(w,acc)} + {xp(locat)}
+ciepło: pewny: : : : {np(dat)} + {prepnp(na,loc)}
+ciepło: pewny: : : : {np(dat)} + {prepnp(od,gen)} + {prepnp(w,acc)}
+ciepło: pewny: : : : {np(dat)} + {prepnp(w,acc)} + {prepnp(w,loc)}
+ciepło: pewny: : : : {np(dat)} + {prepnp(w,acc)} + {xp(locat)}
+ciężko: pewny: : : : {comprepnp(pod względem)}
+ciężko: pewny: : : : {np(dat)} + {comprepnp(z powodu)}
+ciężko: pewny: : : : {np(dat)} + {cp(gdy)}
+ciężko: pewny: : : : {np(dat)} + {cp(jak)}
+ciężko: pewny: : : : {np(dat)} + {cp(kiedy)}
+ciężko: pewny: : : : {np(dat)} + {cp(że)}
+ciężko: pewny: : : : {np(dat)} + {infp(_)}
+cudownie: pewny: : : : {cp(gdy)}
+cudownie: pewny: : : : {cp(jeśli)}
+cudownie: pewny: : : : {cp(kiedy)}
+cudownie: pewny: : : : {np(dat)} + {cp(że)}
+cudownie: pewny: : : : {np(dat)} + {infp(_)}
+cudownie: pewny: : : : {prepnp(dla,gen)} + {xp(locat)} + {xp(temp)}
+czczo: archaiczny: : : : {np(dat)}
+daleko: wątpliwy: : : : {comprepnp(pod kątem)}
+daleko: pewny: : : : {comprepnp(w stosunku do)}
+daleko: pewny: : : : {np(dat)} + {prepnp(do,gen)} + {comprepnp(pod względem)}
+daleko: pewny: : : : {prepnp(dla,gen)}
+daleko: pewny: : : : {xp(locat)}
+dobrze: pewny: : : : {np(dat)} + {cp(gdy)}
+dobrze: potoczny: : : : {np(dat)} + {cp(jak)}
+dobrze: pewny: : : : {np(dat)} + {cp(jeśli)}
+dobrze: pewny: : : : {np(dat)} + {cp(kiedy)}
+dobrze: pewny: : : : {np(dat)} + {cp(że)}
+dobrze: pewny: : : : {np(dat)} + {infp(_)}
+dobrze: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+dobrze: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+dobrze: pewny: : : : {np(dat)} + {xp(locat)}
+dobrze: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+dobrze: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+dobrze: pewny: : : : {prepnp(dla,gen)} + {cp(jakby)}
+dobrze: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+dobrze: pewny: : : : {prepnp(dla,gen)} + {cp(kiedy)}
+dobrze: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+dobrze: pewny: : : : {prepnp(dla,gen)} + {cp(żeby)}
+doskonale: pewny: : : : {comprepnp(od strony)}
+doskonale: pewny: : : : {comprepnp(pod względem)}
+doskonale: pewny: : : : {cp(jeśli)}
+doskonale: pewny: : : : {cp(że)}
+doskonale: pewny: : : : {infp(_)}
+doskonale: pewny: : : : {xp(mod[advp(mod)])}
+duszno: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+duszno: pewny: : : : {np(dat)} + {xp(caus)}
+duszno: pewny: : : : {np(dat)} + {xp(locat)}
+duszno: pewny: : : : {xp(caus)} + {xp(locat)}
+dziwnie: pewny: : : : {np(dat)} + {cp(gdy)}
+dziwnie: potoczny: : : : {np(dat)} + {cp(jak)}
+dziwnie: pewny: : : : {np(dat)} + {cp(jeśli)}
+dziwnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+dziwnie: pewny: : : : {np(dat)} + {cp(że)}
+dziwnie: pewny: : : : {np(dat)} + {infp(_)}
+dziwnie: pewny: : : : {np(dat)} + {prepnp(w,acc)}
+dziwnie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+dziwnie: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+dziwnie: pewny: : : : {np(dat)} + {xp(locat)}
+dziwno: pewny: : : : {np(dat)} + {cp(jak)}
+dziwno: pewny: : : : {np(dat)} + {cp(że)}
+dziwno: pewny: : : : {np(dat)} + {infp(_)}
+ekstra: pewny: : : : {cp(gdy)}
+ekstra: potoczny: : : : {cp(jak)}
+ekstra: pewny: : : : {cp(jeśli)}
+ekstra: pewny: : : : {cp(że)}
+ekstra: pewny: : : : {infp(_)}
+ekstra: pewny: : : : {prepnp(dla,gen)}
+ekstra: pewny: : : : {xp(locat)} + {xp(temp)}
+elegancko: pewny: : : : {cp(gdy)}
+elegancko: pewny: : : : {cp(jeśli)}
+elegancko: pewny: : : : {cp(kiedy)}
+elegancko: pewny: : : : {cp(że)}
+elegancko: pewny: : : : {prepnp(wobec,gen)} + {infp(_)}
+fajnie: wątpliwy: : : : {comprepnp(pod względem)}
+fajnie: pewny: : : : {cp(gdy)}
+fajnie: potoczny: : : : {cp(jak)}
+fajnie: pewny: : : : {cp(jeśli)}
+fajnie: pewny: : : : {cp(kiedy)}
+fajnie: pewny: : : : {np(dat)} + {cp(że)}
+fajnie: pewny: : : : {np(dat)} + {infp(_)}
+fajnie: pewny: : : : {np(dat)} + {xp(locat)} + {xp(temp)}
+fajno: pewny: : : : {cp(że)}
+fajno: pewny: : : : {infp(_)}
+fajno: pewny: : : : {xp(locat)} + {xp(temp)}
+fantastycznie: pewny: : : : {cp(gdy)}
+fantastycznie: pewny: : : : {cp(jeśli)}
+fantastycznie: pewny: : : : {cp(że)}
+fantastycznie: pewny: : : : {infp(_)}
+fantastycznie: potoczny: : : : {prepnp(dla,gen)}
+fantastycznie: pewny: : : : {prepnp(dla,gen)} + {xp(temp)}
+fatalnie: pewny: : : : {comprepnp(pod względem)}
+fatalnie: pewny: : : : {cp(gdy)}
+fatalnie: potoczny: : : : {cp(jak)}
+fatalnie: pewny: : : : {cp(jeśli)}
+fatalnie: pewny: : : : {cp(kiedy)}
+fatalnie: pewny: : : : {cp(że)}
+fatalnie: pewny: : : : {infp(_)}
+genialnie: pewny: : : : {cp(że)}
+genialnie: pewny: : : : {infp(_)}
+genialnie: pewny: : : : {xp(mod[advp(mod)])}
+genialnie: pewny: : : : {xp(temp)}
+głodno: pewny: : : : {np(dat)} + {xp(locat)} + {xp(temp)}
+głośno: pewny: : : : {cp(że)}
+głośno: pewny: : : : {prepnp(o,loc)} + {comprepnp(ze względu na)} + {xp(locat)} + {xp(temp)}
+głośno: pewny: : : : {prepnp(o,loc)} + {comprepnp(z powodu)} + {xp(locat)} + {xp(temp)}
+głośno: pewny: : : : {prepnp(o,loc);prepncp(o,loc,rel[co]);prepncp(o,loc,że)} + {comprepnp(za sprawą)} + {xp(locat)} + {xp(temp)}
+głośno: pewny: : : : {prepnp(o,loc);prepncp(o,loc,rel[co]);prepncp(o,loc,że)} + {prepnp(wśród,gen)}
+głucho: pewny: : : : {prepnp(o,loc);prepncp(o,loc,int[kto])} + {prepnp(w,loc)}
+głucho: pewny: : : : {prepnp(w,loc)} + {comprepnp(na temat)}
+głucho: pewny: : : : {xp(locat)}
+głupio: pewny: : : : {np(dat)} + {comprepnp(w stosunku do)} + {cp(że)}
+głupio: pewny: : : : {np(dat)} + {comprepnp(w stosunku do)} + {xp(caus)}
+głupio: pewny: : : : {np(dat)} + {cp(gdy)}
+głupio: pewny: : : : {np(dat)} + {cp(jeśli)}
+głupio: pewny: : : : {np(dat)} + {infp(_)}
+głupio: pewny: : : : {np(dat)} + {prepnp(przed,inst)} + {cp(kiedy)}
+głupio: pewny: : : : {np(dat)} + {prepnp(przed,inst)} + {cp(że)}
+głupio: pewny: : : : {np(dat)} + {prepnp(przed,inst)} + {xp(caus)}
+głupio: pewny: : : : {np(dat)} + {prepnp(wobec,gen)} + {cp(kiedy)}
+głupio: pewny: : : : {np(dat)} + {prepnp(wobec,gen)} + {cp(że)}
+głupio: pewny: : : : {np(dat)} + {prepnp(wobec,gen)} + {cp(żeby)}
+głupio: pewny: : : : {np(dat)} + {prepnp(wobec,gen)} + {xp(caus)}
+głupio: pewny: : : : {np(dat)} + {prepnp(za,acc)} + {comprepnp(w stosunku do)}
+głupio: pewny: : : : {np(dat)} + {prepnp(za,acc)} + {cp(jak)}
+głupio: pewny: : : : {np(dat)} + {prepnp(za,acc)} + {cp(że)}
+gorąco: pewny: : : : {comprepnp(w kwestii)}
+gorąco: pewny: : : : {comprepnp(za sprawą)}
+gorąco: pewny: : : : {comprepnp(z powodu)}
+gorąco: pewny: : : : {np(dat)} + {prepnp(od,gen)}
+gorąco: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+gorąco: pewny: : : : {np(dat)} + {xp(locat)} + {xp(temp)}
+gorąco: potoczny: : : : {xp(mod[advp(mod)])}
+gorzko: pewny: : : : {np(dat)} + {cp(gdy)}
+gorzko: potoczny: : : : {np(dat)} + {cp(jak)}
+gorzko: pewny: : : : {np(dat)} + {cp(jeśli)}
+gorzko: pewny: : : : {np(dat)} + {cp(kiedy)}
+gorzko: pewny: : : : {np(dat)} + {infp(_)}
+gorzko: pewny: : : : {np(dat)} + {prepnp(od,gen)} + {xp(locat)}
+gorzko: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,że)}
+gorzko: pewny: : : : {np(dat)} + {xp(caus)}
+idealnie: pewny: : : : {comprepnp(pod względem)}
+idealnie: pewny: : : : {cp(gdy)}
+idealnie: potoczny: : : : {cp(jak)}
+idealnie: pewny: : : : {cp(jeśli)}
+idealnie: pewny: : : : {cp(kiedy)}
+idealnie: pewny: : : : {cp(że)}
+idealnie: pewny: : : : {infp(_)}
+idealnie: pewny: : : : {xp(locat)} + {xp(temp)}
+idealnie: pewny: : : : {xp(mod[advp(mod)])}
+identycznie: pewny: : : : {compar(jak)} + {comprepnp(pod względem)}
+identycznie: pewny: : : : {compar(jak)} + {xp(mod[advp(mod)])}
+identycznie: wątpliwy: : : : {comprepnp(w stosunku do)}
+identycznie: pewny: : : : {prepnp(co do,gen)}
+identycznie: pewny: : : : {prepnp(do,gen)}
+identycznie: pewny: : : : {prepnp(z,inst)}
+jasno: potoczny: : : : {np(dat)}
+jasno: pewny: : : : {xp(locat)} + {xp(temp)}
+jednocześnie: pewny: : : : {prepnp(z,inst)}
+już: pewny: : : : {prepnp(po,loc)}
+kapitalnie: pewny: : : : {comprepnp(pod względem)}
+kapitalnie: pewny: : : : {cp(że)}
+kapitalnie: pewny: : : : {infp(_)}
+kapitalnie: potoczny: : : : {xp(mod[advp(mod)])}
+kapitalnie: pewny: : : : {xp(temp)}
+kiepsko: pewny: : : : {comprepnp(pod względem)}
+kiepsko: pewny: : : : {cp(gdy)}
+kiepsko: potoczny: : : : {cp(jak)}
+kiepsko: pewny: : : : {cp(jeśli)}
+kiepsko: pewny: : : : {cp(że)}
+kiepsko: pewny: : : : {infp(_)}
+kiepsko: pewny: : : : {prepnp(u,gen)} + {prepnp(z,inst)}
+kiepsko: pewny: : : : {prepnp(z,inst)} + {xp(locat)}
+klawo: pewny: : : : {cp(że)}
+klawo: pewny: : : : {infp(_)}
+klawo: pewny: : : : {np(dat)} + {cp(gdy)}
+klawo: pewny: : : : {np(dat)} + {cp(kiedy)}
+klawo: pewny: : : : {np(dat)} + {xp(temp)}
+krucho: pewny: : : : {comprepnp(pod względem)} + {xp(locat)}
+krucho: pewny: : : : {np(dat)} + {xp(locat)}
+krucho: pewny: : : : {prepnp(z,inst)} + {xp(locat)}
+krucho: pewny: : : : {xp(locat)} + {xp(mod[advp(mod)])}
+lekko: pewny: : : : {np(dat)} + {cp(gdy)}
+lekko: potoczny: : : : {np(dat)} + {cp(jak)}
+lekko: pewny: : : : {np(dat)} + {cp(jeśli)}
+lekko: pewny: : : : {np(dat)} + {cp(kiedy)}
+lekko: pewny: : : : {np(dat)} + {cp(że)}
+lekko: pewny: : : : {np(dat)} + {infp(_)}
+lekko: pewny: : : : {np(dat)} + {prepnp(przez,acc);prepncp(przez,acc,że)}
+lekko: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,int);prepncp(z,inst,że)}
+lekko: pewny: : : : {np(dat)} + {xp(caus)}
+lekko: pewny: : : : {np(dat)} + {xp(locat)}
+lodowato: pewny: : : : {xp(locat)} + {xp(temp)}
+lubo: pewny: : : : {infp(_)}
+lubo: pewny: : : : {np(dat)} + {cp(gdy)}
+lubo: pewny: : : : {np(dat)} + {cp(kiedy)}
+luźno: pewny: : : : {np(dat)} + {xp(locat)}
+ładnie: pewny: : : : {comprepnp(ze strony)} + {cp(że)}
+ładnie: pewny: : : : {cp(gdy)}
+ładnie: potoczny: : : : {cp(jak)}
+ładnie: pewny: : : : {cp(jeśli)}
+ładnie: pewny: : : : {cp(kiedy)}
+ładnie: pewny: : : : {infp(_)}
+ładnie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+ładnie: pewny: : : : {prepnp(dla,gen)}
+ładnie: pewny: : : : {xp(locat)}
+łatwo: pewny: : : : {np(dat)} + {cp(żeby)}
+łatwo: pewny: : : : {np(dat)} + {infp(_)}
+łatwo: pewny: : : : {np(dat)} + {prepnp(o,acc);prepncp(o,acc,żeby)}
+łatwo: pewny: : : : {prepnp(o,acc)} + {xp(locat)}
+łyso: pewny: : : : {np(dat)} + {cp(gdy)}
+łyso: potoczny: : : : {np(dat)} + {cp(jak)}
+łyso: pewny: : : : {np(dat)} + {cp(kiedy)}
+łyso: pewny: : : : {np(dat)} + {cp(że)}
+łyso: pewny: : : : {np(dat)} + {infp(_)}
+łyso: pewny: : : : {np(dat)} + {prepnp(za,acc)}
+łyso: pewny: : : : {np(dat)} + {xp(caus)}
+łyso: pewny: : : : {np(dat)} + {xp(locat)}
+mało: pewny: : : : {cp(że)}
+mało: pewny: : : : {np(dat)} + {np(gen)}
+mało: pewny: : : : {np(gen)} + {comprepnp(w stosunku do)}
+mało: pewny: : : : {np(gen)} + {prepnp(wobec,gen)}
+mało: pewny: : : : {np(gen)} + {xp(locat)}
+mało: pewny: : : : {prepnp(dla,gen)}
+markotnie: pewny: : : : {np(dat)} + {comprepnp(z powodu)}
+markotnie: pewny: : : : {xp(locat)} + {xp(temp)}
+markotno: pewny: : : : {np(dat)} + {cp(że)}
+markotno: pewny: : : : {np(dat)} + {infp(_)}
+markotno: pewny: : : : {np(dat)} + {xp(locat)} + {xp(temp)}
+mądrze: pewny: : : : {comprepnp(pod względem)}
+mądrze: pewny: : : : {infp(_)}
+mądrze: wątpliwy: : : : {prepnp(co do,gen)}
+mądrze: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+mądrze: pewny: : : : {xp(mod[advp(mod)])}
+mdło: pewny: : : : {np(dat)} + {xp(caus)}
+mdło: pewny: : : : {prepnp(od,gen)} + {xp(locat)}
+miękko: pewny: : : : {np(dat)}
+miękko: pewny: : : : {np(dat)} + {infp(_)}
+miękko: pewny: : : : {np(dat)} + {xp(locat)}
+miło: pewny: : : : {cp(gdy)}
+miło: potoczny: : : : {cp(jak)}
+miło: pewny: : : : {cp(jeśli)}
+miło: pewny: : : : {cp(kiedy)}
+miło: pewny: : : : {np(dat)} + {cp(że)}
+miło: pewny: : : : {np(dat)} + {infp(_)}
+miło: pewny: : : : {prepnp(dla,gen)}
+miło: pewny: : : : {xp(locat)} + {xp(temp)}
+miło: pewny: : : : {xp(mod[advp(mod)])}
+modnie: pewny: : : : {infp(_)}
+mroczno: pewny: : : : {np(dat)} + {xp(locat)} + {xp(temp)}
+naiwnie: pewny: : : : {infp(_)}
+naprzód: pewny: : : : {np(acc)}
+naprzód: pewny: : : : {prepnp(do,gen)}
+naturalnie: pewny: : : : {cp(że)}
+natychmiast: pewny: : : : {prepnp(po,loc)}
+niebawem: pewny: : : : {prepnp(po,loc)}
+niebezpiecznie: pewny: : : : {comprepnp(ze względu na)}
+niebezpiecznie: pewny: : : : {comprepnp(z powodu)}
+niebezpiecznie: pewny: : : : {infp(_)} + {xp(locat)} + {xp(temp)}
+niebezpiecznie: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+niebezpiecznie: pewny: : : : {prepnp(dla,gen)} + {cp(kiedy)}
+niebezpiecznie: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+niebezpiecznie: pewny: : : : {prepnp(dla,gen)} + {xp(locat)} + {xp(temp)}
+nieciekawie: pewny: : : : {infp(_)}
+nieciekawie: pewny: : : : {prepnp(dla,gen)} + {comprepnp(pod względem)}
+nieciekawie: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+nieciekawie: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+nieciekawie: potoczny: : : : {xp(mod[advp(mod)])}
+niedaleko: pewny: : : : {comprepnp(w stosunku do)}
+niedaleko: pewny: : : : {np(dat)} + {prepnp(do,gen)} + {prepnp(od,gen)}
+niedaleko: pewny: : : : {prepnp(dla,gen)}
+niedaleko: pewny: : : : {prepnp(względem,gen)}
+niedaleko: pewny: : : : {xp(abl)} + {xp(adl)}
+niedelikatnie: pewny: : : : {infp(_)}
+niedługo: pewny: : : : {comprepnp(w stosunku do)}
+niedługo: pewny: : : : {prepnp(po,loc)}
+niedługo: pewny: : : : {prepnp(przed,inst)}
+niedługo: pewny: : : : {xp(mod[advp(mod)])}
+niedobrze: pewny: : : : {np(dat)} + {cp(gdy)}
+niedobrze: potoczny: : : : {np(dat)} + {cp(jak)}
+niedobrze: pewny: : : : {np(dat)} + {cp(jeśli)}
+niedobrze: pewny: : : : {np(dat)} + {cp(kiedy)}
+niedobrze: pewny: : : : {np(dat)} + {infp(_)}
+niedobrze: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+niedobrze: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+niedobrze: pewny: : : : {np(dat)} + {xp(caus)}
+niedobrze: pewny: : : : {np(dat)} + {xp(locat)}
+niedobrze: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+niedobrze: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+niedobrze: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+niedobrze: pewny: : : : {prepnp(dla,gen)} + {cp(kiedy)}
+niedobrze: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+niedobrze: pewny: : : : {prepnp(dla,gen)} + {cp(żeby)}
+niedobrze: pewny: : : : {prepnp(u,gen)} + {prepnp(z,inst)}
+niedorzecznie: pewny: : : : {infp(_)}
+nieelegancko: pewny: : : : {cp(gdy)}
+nieelegancko: pewny: : : : {cp(kiedy)}
+nieelegancko: pewny: : : : {cp(że)}
+nieelegancko: pewny: : : : {cp(żeby)}
+nieelegancko: pewny: : : : {prepnp(wobec,gen)} + {infp(_)}
+niefortunnie: pewny: : : : {cp(że)}
+niefortunnie: pewny: : : : {infp(_)}
+niefortunnie: pewny: : : : {prepnp(dla,gen)}
+niegodziwie: pewny: : : : {infp(_)}
+niegrzecznie: pewny: : : : {comprepnp(ze strony)} + {infp(_)}
+niegrzecznie: pewny: : : : {prepnp(wobec,gen)} + {cp(że)}
+niekorzystnie: pewny: : : : {comprepnp(w stosunku do)}
+niekorzystnie: pewny: : : : {comprepnp(ze względu na)}
+niekorzystnie: pewny: : : : {prepnp(dla,gen)} + {comprepnp(pod względem)}
+niekorzystnie: pewny: : : : {xp(mod[advp(mod)])}
+nielekko: pewny: : : : {np(dat)} + {infp(_)}
+nielekko: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+nielekko: pewny: : : : {np(dat)} + {xp(locat)}
+nielogicznie: wątpliwy: : : : {cp(że)}
+nielogicznie: pewny: : : : {infp(_)}
+nieładnie: pewny: : : : {comprepnp(w stosunku do)} + {cp(żeby)}
+nieładnie: pewny: : : : {comprepnp(ze strony)} + {cp(że)}
+nieładnie: pewny: : : : {cp(gdy)}
+nieładnie: potoczny: : : : {cp(jak)}
+nieładnie: pewny: : : : {cp(jeśli)}
+nieładnie: pewny: : : : {cp(kiedy)}
+nieładnie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+nieładnie: pewny: : : : {prepnp(wobec,gen)} + {infp(_)}
+niełatwo: pewny: : : : {np(dat)} + {cp(żeby)}
+niełatwo: pewny: : : : {np(dat)} + {infp(_)}
+niełatwo: pewny: : : : {np(dat)} + {prepnp(o,acc);prepncp(o,acc,żeby)}
+niełatwo: pewny: : : : {prepnp(o,acc)} + {xp(locat)}
+niemądrze: pewny: : : : {comprepnp(ze strony)} + {infp(_)}
+niemile: pewny: : : : {np(dat)} + {infp(_)}
+niemile: pewny: : : : {prepnp(dla,gen)}
+niemiło: pewny: : : : {np(dat)} + {cp(gdy)}
+niemiło: potoczny: : : : {np(dat)} + {cp(jak)}
+niemiło: pewny: : : : {np(dat)} + {cp(jeśli)}
+niemiło: pewny: : : : {np(dat)} + {cp(kiedy)}
+niemiło: pewny: : : : {np(dat)} + {cp(że)}
+niemiło: pewny: : : : {np(dat)} + {infp(_)}
+niemiło: pewny: : : : {np(dat)} + {xp(caus)}
+niemiło: pewny: : : : {np(dat)} + {xp(locat)}
+niemiło: pewny: : : : {prepnp(dla,gen)}
+nieporęcznie: pewny: : : : {np(dat)} + {infp(_)}
+nieporęcznie: pewny: : : : {np(dat)} + {prepnp(z,inst)} + {xp(locat)}
+nieporęcznie: pewny: : : : {prepnp(dla,gen)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {comprepnp(ze względu na)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {cp(gdy)}
+nieprzyjemnie: potoczny: : : : {np(dat)} + {cp(jak)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {cp(jeśli)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {cp(że)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {infp(_)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {prepnp(przed,inst)}
+nieprzyjemnie: pewny: : : : {np(dat)} + {xp(caus)}
+nieprzyjemnie: pewny: : : : {prepnp(dla,gen)}
+nieprzyjemnie: pewny: : : : {prepnp(między,inst)}
+nieracjonalnie: pewny: : : : {infp(_)}
+nierozsądnie: pewny: : : : {infp(_)}
+nierozsądnie: wątpliwy: : : : {prepnp(wobec,gen)}
+nieroztropnie: potoczny: : : : {infp(_)}
+nierozważnie: pewny: : : : {infp(_)}
+nieskoro: pewny: : : : {np(dat)} + {infp(_)}
+nieskoro: pewny: : : : {np(dat)} + {prepnp(do,gen)}
+niesłusznie: pewny: : : : {cp(że)}
+niesłusznie: wątpliwy: : : : {cp(żeby)}
+niesłusznie: pewny: : : : {infp(_)}
+niespieszno: pewny: : : : {np(dat)} + {cp(żeby)}
+niespieszno: pewny: : : : {np(dat)} + {infp(_)}
+niespieszno: pewny: : : : {np(dat)} + {prepnp(do,gen);prepncp(do,gen,żeby)}
+niespieszno: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,żeby)}
+niespieszno: pewny: : : : {np(dat)} + {xp(adl)}
+niesporo: pewny: : : : {np(dat)} + {cp(że)}
+niesporo: pewny: : : : {np(dat)} + {infp(_)}
+niesporo: pewny: : : : {xp(temp)}
+nieswojo: pewny: : : : {np(dat)} + {cp(gdy)}
+nieswojo: potoczny: : : : {np(dat)} + {cp(jak)}
+nieswojo: pewny: : : : {np(dat)} + {cp(jeśli)}
+nieswojo: pewny: : : : {np(dat)} + {cp(kiedy)}
+nieswojo: pewny: : : : {np(dat)} + {cp(że)}
+nieswojo: pewny: : : : {np(dat)} + {infp(_)}
+nieswojo: pewny: : : : {np(dat)} + {prepnp(przez,acc);prepncp(przez,acc,że)}
+nieswojo: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,int);prepncp(z,inst,że)}
+nieswojo: pewny: : : : {np(dat)} + {xp(caus)}
+nieswojo: pewny: : : : {np(dat)} + {xp(locat)}
+nieśpieszno: pewny: : : : {np(dat)} + {cp(żeby)}
+nieśpieszno: pewny: : : : {np(dat)} + {infp(_)}
+nieśpieszno: pewny: : : : {np(dat)} + {prepnp(do,gen);prepncp(do,gen,żeby)}
+nieśpieszno: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,żeby)}
+nieśpieszno: pewny: : : : {np(dat)} + {xp(adl)}
+nietaktownie: pewny: : : : {infp(_)}
+nietrudno: pewny: : : : {cp(żeby)}
+nietrudno: pewny: : : : {np(dat)} + {infp(_)}
+nietrudno: pewny: : : : {np(dat)} + {prepnp(o,acc);prepncp(o,acc,żeby)}
+nietrudno: pewny: : : : {prepnp(o,acc);prepncp(o,acc,żeby)} + {xp(locat)}
+niewesoło: pewny: : : : {comprepnp(pod względem)} + {xp(locat)}
+niewesoło: wątpliwy: : : : {np(dat)} + {comprepnp(za sprawą)}
+niewesoło: pewny: : : : {np(dat)} + {cp(gdy)}
+niewesoło: potoczny: : : : {np(dat)} + {cp(jak)}
+niewesoło: pewny: : : : {np(dat)} + {cp(jeśli)}
+niewesoło: pewny: : : : {np(dat)} + {cp(kiedy)}
+niewesoło: pewny: : : : {np(dat)} + {cp(że)}
+niewesoło: pewny: : : : {np(dat)} + {xp(caus)}
+niewesoło: pewny: : : : {np(dat)} + {xp(locat)}
+niewesoło: pewny: : : : {prepnp(dla,gen)}
+niewesoło: wątpliwy: : : : {prepnp(wobec,gen)} + {xp(locat)}
+niewesoło: pewny: : : : {prepnp(z,inst)} + {xp(locat)}
+niewłaściwie: pewny: : : : {infp(_)}
+niewłaściwie: pewny: : : : {xp(mod[advp(mod)])}
+niewygodnie: pewny: : : : {np(dat)} + {cp(gdy)}
+niewygodnie: potoczny: : : : {np(dat)} + {cp(jak)}
+niewygodnie: pewny: : : : {np(dat)} + {cp(jeśli)}
+niewygodnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+niewygodnie: pewny: : : : {np(dat)} + {infp(_)}
+niewygodnie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+niewygodnie: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,int);prepncp(z,inst,że)}
+niewygodnie: pewny: : : : {np(dat)} + {prepnp(z,inst)} + {xp(locat)}
+niewygodnie: pewny: : : : {prepnp(dla,gen)}
+niewyraźnie: pewny: : : : {infp(_)} + {xp(locat)}
+niewyraźnie: pewny: : : : {np(dat)} + {xp(temp)}
+niezależnie: wątpliwy: : : : {comprepnp(w stosunku do)}
+niezależnie: pewny: : : : {cp(int[czy])}
+niezależnie: pewny: : : : {cp(rel[co;gdzie;jak;jaki;kiedy;kto])}
+niezależnie: potoczny: : : : {cp(że)}
+niezależnie: wątpliwy: : : : {prepnp(do,gen)}
+niezależnie: pewny: : : : {prepnp(od,gen);prepncp(od,gen,int);prepncp(od,gen,rel[co;jak;jaki;kto]);prepncp(od,gen,że)}
+niezależnie: pewny: : : : {xp(mod[advp(mod)])}
+niezdrowo: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+niezdrowo: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+niezdrowo: pewny: : : : {prepnp(dla,gen)} + {cp(kiedy)}
+niezdrowo: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+niezdrowo: pewny: : : : {prepnp(dla,gen)} + {infp(_)}
+niezdrowo: pewny: : : : {xp(temp)}
+niezręcznie: pewny: : : : {comprepnp(pod względem)}
+niezręcznie: pewny: : : : {comprepnp(ze względu na)}
+niezręcznie: pewny: : : : {cp(gdy)}
+niezręcznie: pewny: : : : {cp(jak)}
+niezręcznie: pewny: : : : {cp(kiedy)}
+niezręcznie: pewny: : : : {np(dat)} + {cp(że)}
+niezręcznie: pewny: : : : {np(dat)} + {infp(_)}
+niezręcznie: pewny: : : : {np(dat)} + {prepnp(wobec,gen)}
+niezręcznie: pewny: : : : {prepnp(dla,gen)}
+niezręcznie: pewny: : : : {xp(mod[advp(mod)])}
+nieźle: pewny: : : : {comprepnp(pod względem)}
+nieźle: pewny: : : : {comprepnp(w stosunku do)}
+nieźle: pewny: : : : {cp(gdy)}
+nieźle: potoczny: : : : {cp(jak)}
+nieźle: pewny: : : : {cp(jeśli)}
+nieźle: pewny: : : : {np(dat)} + {cp(że)}
+nieźle: pewny: : : : {np(dat)} + {infp(_)}
+nieźle: pewny: : : : {xp(mod[advp(mod)])}
+nijako: pewny: : : : {np(dat)} + {infp(_)}
+nijako: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+normalnie: pewny: : : : {infp(_)}
+normalnie: pewny: : : : {prepnp(dla,gen)}
+normalnie: pewny: : : : {xp(locat)} + {xp(temp)}
+nudno: wątpliwy: : : : {np(dat)} + {cp(że)}
+nudno: pewny: : : : {np(dat)} + {infp(_)}
+nudno: pewny: : : : {np(dat)} + {xp(locat)}
+obocznie: wątpliwy: : : : {comprepnp(w stosunku do)}
+obocznie: pewny: : : : {prepnp(do,gen)}
+obocznie: wątpliwy: : : : {prepnp(wobec,gen)}
+obocznie: wątpliwy: : : : {prepnp(względem,gen)}
+obocznie: pewny: : : : {prepnp(z,inst)}
+obojętnie: pewny: : : : {np(dat)} + {cp(int[co]);cp(int[czy]);cp(int[gdzie]);cp(int[ile]);cp(int[jak]);cp(int[jaki]);cp(int[kiedy]);cp(int[kto])}
+obojętnie: pewny: : : : {prepnp(wobec,gen)}
+oczywista: pewny: : : : {cp(że)}
+oczywiście: pewny: : : : {cp(że)}
+odpowiednio: pewny: : : : {comprepnp(pod względem)}
+odpowiednio: wątpliwy: : : : {comprepnp(ze względu na)}
+odpowiednio: pewny: : : : {cp(żeby)}
+odpowiednio: pewny: : : : {infp(_)}
+odpowiednio: pewny: : : : {prepncp(do,gen,żeby)}
+odpowiednio: pewny: : : : {prepnp(do,gen)}
+odwrotnie: potoczny: : : : {compar(jak)}
+odwrotnie: pewny: : : : {compar(niż)}
+odwrotnie: pewny: : : : {comprepnp(w stosunku do)}
+odwrotnie: wątpliwy: : : : {prepnp(co do,gen)}
+odwrotnie: pewny: : : : {prepnp(do,gen)}
+odwrotnie: wątpliwy: : : : {prepnp(od,gen)}
+okropnie: pewny: : : : {np(dat)} + {compar(jako)}
+okropnie: pewny: : : : {np(dat)} + {comprepnp(z powodu)}
+okropnie: pewny: : : : {np(dat)} + {cp(gdy)}
+okropnie: potoczny: : : : {np(dat)} + {cp(jak)}
+okropnie: pewny: : : : {np(dat)} + {cp(jeśli)}
+okropnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+okropnie: pewny: : : : {np(dat)} + {cp(że)}
+okropnie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+okropnie: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,int);prepncp(z,inst,że)}
+okropnie: pewny: : : : {np(dat)} + {xp(locat)}
+ostrożnie: pewny: : : : {prepnp(przy,loc)}
+ostrożnie: pewny: : : : {prepnp(z,inst)}
+ostrożnie: pewny: : : : {xp(adl)}
+ostrożnie: pewny: : : : {xp(locat)}
+parno: pewny: : : : {xp(caus)} + {xp(locat)}
+paskudnie: pewny: : : : {np(dat)} + {cp(gdy)}
+paskudnie: potoczny: : : : {np(dat)} + {cp(jak)}
+paskudnie: pewny: : : : {np(dat)} + {cp(jeśli)}
+paskudnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+paskudnie: pewny: : : : {np(dat)} + {cp(że)}
+paskudnie: pewny: : : : {np(dat)} + {infp(_)}
+paskudnie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+paskudnie: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,int);prepncp(z,inst,że)}
+paskudnie: pewny: : : : {np(dat)} + {xp(caus)}
+paskudnie: pewny: : : : {np(dat)} + {xp(locat)}
+pechowo: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+pełno: pewny: : : : {np(gen)} + {xp(locat)}
+pewnie: wątpliwy: : : : {comprepnp(na gruncie)}
+pewnie: pewny: : : : {comprepnp(pod względem)}
+pewnie: wątpliwy: : : : {comprepnp(w roli)}
+pewnie: pewny: : : : {cp(że)}
+pewnie: potoczny: : : : {prepnp(co do,gen)}
+pewnie: pewny: : : : {prepnp(wobec,gen)}
+pewnie: pewny: : : : {xp(locat)} + {xp(temp)}
+pewno: pewny: : : : {cp(że)}
+pięknie: pewny: : : : {comprepnp(ze strony)} + {cp(że)}
+pięknie: pewny: : : : {cp(gdy)}
+pięknie: potoczny: : : : {cp(jak)}
+pięknie: pewny: : : : {cp(jeśli)}
+pięknie: pewny: : : : {cp(kiedy)}
+pięknie: pewny: : : : {cp(żeby)}
+pięknie: pewny: : : : {infp(_)}
+pięknie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+pięknie: pewny: : : : {prepnp(dla,gen)}
+pięknie: pewny: : : : {xp(locat)}
+pilno: pewny: : : : {np(dat)} + {cp(żeby)}
+pilno: pewny: : : : {np(dat)} + {infp(_)}
+pilno: pewny: : : : {np(dat)} + {prepnp(do,gen)}
+pilno: pewny: : : : {np(dat)} + {xp(locat)}
+podle: pewny: : : : {np(dat)}
+podobnie: potoczny: : : : {compar(co)}
+podobnie: pewny: : : : {compar(jak)}
+podobnie: wątpliwy: : : : {prepnp(co do,gen)}
+podobnie: pewny: : : : {prepnp(do,gen)}
+ponuro: wątpliwy: : : : {comprepnp(pod względem)}
+ponuro: pewny: : : : {np(dat)} + {xp(locat)}
+poręcznie: pewny: : : : {np(dat)} + {infp(_)} + {xp(mod[advp(mod)])}
+poręcznie: pewny: : : : {prepnp(dla,gen)}
+pożytecznie: pewny: : : : {infp(_)}
+pożytecznie: pewny: : : : {prepnp(dla,gen)}
+prawidłowo: pewny: : : : {comprepnp(od strony)}
+prawidłowo: pewny: : : : {comprepnp(pod względem)}
+prawidłowo: pewny: : : : {comprepnp(w stosunku do)}
+prawidłowo: potoczny: : : : {cp(że)}
+prawidłowo: pewny: : : : {infp(_)}
+prosto: pewny: : : : {comprepnp(pod względem)}
+prosto: pewny: : : : {comprepnp(ze względu na)}
+prosto: pewny: : : : {infp(_)}
+prosto: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+prosto: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+prosto: potoczny: : : : {prepnp(dla,gen)} + {cp(że)}
+prosto: pewny: : : : {prepnp(dla,gen)} + {cp(żeby)}
+prosto: pewny: : : : {prepnp(o,acc)}
+prosto: pewny: : : : {xp(locat)}
+próżno: pewny: : : : {infp(_)}
+przeciwnie: wątpliwy: : : : {compar(jak)}
+przeciwnie: pewny: : : : {compar(niż)}
+przeciwnie: pewny: : : : {comprepnp(w stosunku do)}
+przeciwnie: archaiczny: : : : {np(dat)}
+przeciwnie: pewny: : : : {prepnp(do,gen);prepncp(do,gen,rel[co])}
+przeciwnie: wątpliwy: : : : {prepnp(wobec,gen)}
+przyciasno: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+przyciasno: pewny: : : : {np(dat)} + {xp(locat)}
+przyciężko: pewny: : : : {np(dat)} + {infp(_)}
+przyjemnie: pewny: : : : {np(dat)} + {cp(gdy)}
+przyjemnie: potoczny: : : : {np(dat)} + {cp(jak)}
+przyjemnie: pewny: : : : {np(dat)} + {cp(jeśli)}
+przyjemnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+przyjemnie: pewny: : : : {np(dat)} + {cp(że)}
+przyjemnie: pewny: : : : {np(dat)} + {infp(_)}
+przyjemnie: pewny: : : : {np(dat)} + {xp(locat)} + {xp(temp)}
+przyjemnie: wątpliwy: : : : {prepnp(dla,gen)} + {infp(_)}
+przykro: pewny: : : : {np(dat)} + {cp(gdy)}
+przykro: potoczny: : : : {np(dat)} + {cp(jak)}
+przykro: pewny: : : : {np(dat)} + {cp(jeśli)}
+przykro: pewny: : : : {np(dat)} + {cp(kiedy)}
+przykro: pewny: : : : {np(dat)} + {cp(że)}
+przykro: pewny: : : : {np(dat)} + {infp(_)}
+przykro: wątpliwy: : : : {np(dat)} + {prepnp(przed,inst)}
+przykro: pewny: : : : {np(dat)} + {prepnp(przez,acc);prepncp(przez,acc,int);prepncp(przez,acc,że)}
+przykro: wątpliwy: : : : {np(dat)} + {prepnp(wobec,gen)}
+przykro: pewny: : : : {np(dat)} + {prepnp(za,acc);prepncp(za,acc,int);prepncp(za,acc,że)}
+przykro: zły: : : : {np(dat)} + {prepnp(z,gen)}
+przykro: pewny: : : : {np(dat)} + {xp(caus)}
+przytulnie: pewny: : : : {np(dat)} + {xp(locat)}
+pstro: pewny: : : : {np(dat)} + {xp(locat)}
+pstro: pewny: : : : {prepnp(od,gen)} + {xp(locat)}
+pysznie: pewny: : : : {cp(że)}
+pysznie: pewny: : : : {infp(_)}
+radośnie: potoczny: : : : {cp(jak)}
+radośnie: pewny: : : : {np(dat)} + {comprepnp(za sprawą)}
+radośnie: pewny: : : : {np(dat)} + {cp(gdy)}
+radośnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+radośnie: pewny: : : : {np(dat)} + {cp(że)}
+radośnie: pewny: : : : {np(dat)} + {infp(_)}
+radośnie: pewny: : : : {np(dat)} + {xp(locat)} + {xp(temp)}
+radośnie: pewny: : : : {prepnp(dla,gen)}
+raźno: pewny: : : : {np(dat)} + {cp(gdy)}
+raźno: potoczny: : : : {np(dat)} + {cp(jak)}
+raźno: pewny: : : : {np(dat)} + {cp(jeśli)}
+raźno: pewny: : : : {np(dat)} + {cp(kiedy)}
+raźno: pewny: : : : {np(dat)} + {cp(że)}
+raźno: pewny: : : : {np(dat)} + {xp(locat)}
+rozkosznie: pewny: : : : {np(dat)} + {infp(_)}
+rozkosznie: pewny: : : : {xp(locat)} + {xp(temp)}
+rozsądnie: pewny: : : : {comprepnp(pod względem)}
+rozsądnie: pewny: : : : {comprepnp(ze strony)}
+rozsądnie: pewny: : : : {cp(jeśli)}
+rozsądnie: pewny: : : : {infp(_)}
+rozsądnie: pewny: : : : {xp(mod[advp(mod)])}
+roztropnie: pewny: : : : {infp(_)}
+rozumnie: pewny: : : : {infp(_)}
+równie: pewny: : : : {compar(co)}
+równie: pewny: : : : {compar(jak)}
+równiutko: pewny: : : : {prepnp(z,inst)}
+równiutko: pewny: : : : {xp(locat)}
+równiutko: pewny: : : : {xp(mod)}
+równiutko: pewny: : : : {xp(temp)}
+równo: pewny: : : : {comprepnp(pod względem)}
+równo: pewny: : : : {comprepnp(w stosunku do)}
+równo: pewny: : : : {prepnp(co do,gen)}
+równo: pewny: : : : {prepnp(wobec,gen)}
+równo: pewny: : : : {prepnp(z,inst)}
+równo: pewny: : : : {xp(temp)}
+równocześnie: pewny: : : : {prepnp(do,gen)}
+równocześnie: pewny: : : : {prepnp(z,inst)}
+rześko: pewny: : : : {np(dat)}
+rześko: pewny: : : : {xp(locat)}
+rzewnie: pewny: : : : {np(dat)}
+samotnie: pewny: : : : {np(dat)} + {infp(imperf)}
+sensownie: potoczny: : : : {cp(jak)}
+sensownie: pewny: : : : {cp(jeśli)}
+sensownie: pewny: : : : {cp(że)}
+sensownie: pewny: : : : {cp(żeby)}
+sensownie: pewny: : : : {prepnp(dla,gen)} + {infp(_)}
+słabo: pewny: : : : {np(dat)} + {cp(gdy)}
+słabo: potoczny: : : : {np(dat)} + {cp(jak)}
+słabo: pewny: : : : {np(dat)} + {cp(jeśli)}
+słabo: pewny: : : : {np(dat)} + {cp(kiedy)}
+słabo: pewny: : : : {np(dat)} + {xp(caus)}
+słodko: pewny: : : : {np(dat)} + {cp(że)}
+słusznie: pewny: : : : {cp(jeśli)}
+słusznie: pewny: : : : {cp(że)}
+słusznie: pewny: : : : {cp(żeby)}
+słusznie: pewny: : : : {infp(_)}
+słusznie: pewny: : : : {xp(mod[advp(mod)])}
+smutno: pewny: : : : {np(dat)} + {cp(gdy)}
+smutno: potoczny: : : : {np(dat)} + {cp(jak)}
+smutno: pewny: : : : {np(dat)} + {cp(jeśli)}
+smutno: pewny: : : : {np(dat)} + {cp(kiedy)}
+smutno: pewny: : : : {np(dat)} + {cp(że)}
+smutno: pewny: : : : {np(dat)} + {infp(_)}
+smutno: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,int);prepncp(z,inst,że)}
+smutno: pewny: : : : {np(dat)} + {xp(caus)}
+smutno: pewny: : : : {np(dat)} + {xp(locat)}
+spieszno: pewny: : : : {np(dat)} + {cp(żeby)}
+spieszno: pewny: : : : {np(dat)} + {infp(_)}
+spieszno: pewny: : : : {np(dat)} + {prepnp(do,gen);prepncp(do,gen,żeby)}
+spieszno: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,żeby)}
+spieszno: wątpliwy: : : : {np(dat)} + {xp(abl)}
+spieszno: pewny: : : : {np(dat)} + {xp(adl)}
+stąd: pewny: : : : {cp(że)}
+stąd: pewny: : : : {xp(adl)}
+strasznie: pewny: : : : {cp(gdy)}
+strasznie: pewny: : : : {cp(kiedy)}
+strasznie: pewny: : : : {cp(że)}
+strasznie: pewny: : : : {np(dat)} + {infp(_)}
+strasznie: pewny: : : : {xp(locat)} + {xp(temp)}
+straszno: potoczny: : : : {cp(jak)}
+straszno: pewny: : : : {np(dat)} + {cp(gdy)}
+straszno: pewny: : : : {np(dat)} + {cp(kiedy)}
+straszno: pewny: : : : {np(dat)} + {cp(że)}
+straszno: pewny: : : : {np(dat)} + {infp(_)}
+straszno: pewny: : : : {xp(locat)} + {xp(temp)}
+sucho: pewny: : : : {np(dat)} + {xp(caus)} + {xp(locat)}
+super: pewny: : : : {comprepnp(pod względem)}
+super: wątpliwy: : : : {comprepnp(w stosunku do)}
+super: pewny: : : : {infp(_)}
+super: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+super: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+super: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+super: pewny: : : : {prepnp(dla,gen)} + {cp(kiedy)}
+super: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+super: pewny: : : : {xp(mod[advp(mod)])}
+swojsko: pewny: : : : {np(dat)} + {infp(_)}
+swojsko: pewny: : : : {np(dat)} + {xp(locat)}
+sympatycznie: pewny: : : : {cp(gdy)}
+sympatycznie: potoczny: : : : {cp(jak)}
+sympatycznie: pewny: : : : {cp(jeśli)}
+sympatycznie: pewny: : : : {cp(kiedy)}
+sympatycznie: pewny: : : : {np(dat)} + {cp(że)}
+sympatycznie: pewny: : : : {np(dat)} + {infp(_)}
+sympatycznie: pewny: : : : {xp(locat)} + {xp(temp)}
+szykownie: pewny: : : : {infp(_)}
+ślicznie: pewny: : : : {cp(że)}
+ślicznie: pewny: : : : {infp(_)}
+ślicznie: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+ślicznie: pewny: : : : {xp(locat)} + {xp(temp)}
+śmiesznie: pewny: : : : {cp(gdy)}
+śmiesznie: potoczny: : : : {cp(jak)}
+śmiesznie: pewny: : : : {cp(kiedy)}
+śmiesznie: pewny: : : : {np(dat)} + {infp(_)}
+śmiesznie: pewny: : : : {prepnp(dla,gen)}
+śpieszno: pewny: : : : {np(dat)} + {cp(żeby)}
+śpieszno: pewny: : : : {np(dat)} + {infp(_)}
+śpieszno: pewny: : : : {np(dat)} + {prepnp(do,gen);prepncp(do,gen,żeby)}
+śpieszno: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,żeby)}
+śpieszno: pewny: : : : {np(dat)} + {xp(adl)}
+świetnie: pewny: : : : {comprepnp(pod względem)}
+świetnie: pewny: : : : {comprepnp(ze względu na)}
+świetnie: pewny: : : : {cp(gdy)}
+świetnie: pewny: : : : {cp(kiedy)}
+świetnie: pewny: : : : {infp(_)}
+świetnie: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+świetnie: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+świetnie: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+świetnie: pewny: : : : {xp(locat)} + {xp(temp)}
+świetnie: pewny: : : : {xp(mod[advp(mod)])}
+tęskno: pewny: : : : {np(dat)} + {prepnp(do,gen);prepncp(do,gen,int);prepncp(do,gen,żeby)}
+tęskno: pewny: : : : {np(dat)} + {prepnp(za,inst);prepncp(za,inst,int);prepncp(za,inst,że);prepncp(za,inst,żeby)}
+trudno: pewny: : : : {cp(żeby)}
+trudno: pewny: : : : {np(dat)} + {cp(że)}
+trudno: pewny: : : : {np(dat)} + {infp(_)}
+twardo: pewny: : : : {np(dat)} + {infp(_)}
+twardo: pewny: : : : {np(dat)} + {xp(locat)}
+twardo: wątpliwy: : : : {prepnp(wobec,gen)}
+uciesznie: pewny: : : : {infp(_)}
+uciesznie: pewny: : : : {np(dat)} + {cp(gdy)}
+uciesznie: pewny: : : : {np(dat)} + {cp(kiedy)}
+wesoło: wątpliwy: : : : {np(dat)} + {comprepnp(za sprawą)}
+wesoło: pewny: : : : {np(dat)} + {cp(gdy)}
+wesoło: potoczny: : : : {np(dat)} + {cp(jak)}
+wesoło: pewny: : : : {np(dat)} + {cp(jeśli)}
+wesoło: pewny: : : : {np(dat)} + {cp(kiedy)}
+wesoło: pewny: : : : {np(dat)} + {cp(że)}
+wesoło: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+wesoło: pewny: : : : {np(dat)} + {xp(caus)}
+wesoło: pewny: : : : {np(dat)} + {xp(locat)}
+wkrótce: pewny: : : : {prepnp(po,loc)}
+wkrótce: pewny: : : : {prepnp(przed,inst)}
+właściwie: pewny: : : : {infp(_)}
+właśnie: pewny: : : : {cp(że)}
+właśnie: pewny: : : : {cp(żeby)}
+wspaniale: pewny: : : : {cp(gdy)}
+wspaniale: potoczny: : : : {cp(jak)}
+wspaniale: pewny: : : : {cp(jeśli)}
+wspaniale: pewny: : : : {cp(kiedy)}
+wspaniale: pewny: : : : {np(dat)} + {comprepnp(pod względem)}
+wspaniale: pewny: : : : {np(dat)} + {cp(że)}
+wspaniale: pewny: : : : {np(dat)} + {infp(_)}
+wspaniale: pewny: : : : {np(dat)} + {prepnp(z,inst)}
+wspaniale: pewny: : : : {np(dat)} + {xp(locat)}
+współcześnie: pewny: : : : {prepnp(do,gen)}
+współcześnie: pewny: : : : {prepnp(z,inst)}
+wygodnie: pewny: : : : {np(dat)} + {comprepnp(ze względu na)}
+wygodnie: pewny: : : : {np(dat)} + {cp(gdy)}
+wygodnie: potoczny: : : : {np(dat)} + {cp(jak)}
+wygodnie: pewny: : : : {np(dat)} + {cp(jeśli)}
+wygodnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+wygodnie: pewny: : : : {np(dat)} + {cp(że)}
+wygodnie: pewny: : : : {np(dat)} + {infp(_)}
+wygodnie: pewny: : : : {prepnp(dla,gen)}
+zabawnie: potoczny: : : : {cp(jak)}
+zabawnie: pewny: : : : {cp(że)}
+zabawnie: pewny: : : : {np(dat)} + {cp(gdy)}
+zabawnie: pewny: : : : {np(dat)} + {cp(kiedy)}
+zabawnie: pewny: : : : {np(dat)} + {infp(_)}
+zabawnie: pewny: : : : {prepnp(dla,gen)}
+zabawnie: pewny: : : : {xp(locat)} + {xp(temp)}
+zadość: pewny: : : : {np(dat)}
+zależnie: potoczny: : : : {cp(int[co]);cp(int[czy]);cp(int[gdzie]);cp(int[ile]);cp(int[jak]);cp(int[kto])}
+zależnie: potoczny: : : : {cp(kiedy)}
+zależnie: pewny: : : : {prepnp(od,gen);prepncp(od,gen,int[co]);prepncp(od,gen,int[czy]);prepncp(od,gen,int[gdzie]);prepncp(od,gen,int[ile]);prepncp(od,gen,int[jak]);prepncp(od,gen,int[kiedy]);prepncp(od,gen,int[kto])}
+zanadto: pewny: : : : {cp(żeby)}
+zanadto: pewny: : : : {np(gen)}
+zaszczytnie: pewny: : : : {infp(_)}
+zaszczytnie: pewny: : : : {np(dat)}
+zaszczytnie: pewny: : : : {prepnp(dla,gen)}
+zdrowo: wątpliwy: : : : {comprepnp(pod względem)}
+zdrowo: pewny: : : : {cp(że)}
+zdrowo: pewny: : : : {infp(_)} + {xp(mod[advp(mod)])}
+zdrowo: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+zdrowo: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+zdrowo: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+zdrowo: pewny: : : : {prepnp(dla,gen)} + {cp(kiedy)}
+zdrowo: pewny: : : : {prepnp(dla,gen)} + {infp(_)}
+zdrowo: pewny: : : : {xp(temp)}
+zimno: pewny: : : : {np(dat)} + {prepnp(od,gen)} + {prepnp(w,acc)}
+zimno: pewny: : : : {xp(locat)}
+znakomicie: pewny: : : : {comprepnp(pod względem)}
+znakomicie: pewny: : : : {cp(gdy)}
+znakomicie: pewny: : : : {infp(_)}
+znakomicie: pewny: : : : {prepnp(dla,gen)}
+znakomicie: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+znakomicie: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+znakomicie: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+znakomicie: pewny: : : : {prepnp(dla,gen)} + {xp(temp)}
+znakomicie: pewny: : : : {xp(mod[advp(mod)])}
+znośnie: pewny: : : : {infp(_)}
+znośnie: pewny: : : : {xp(locat)} + {xp(temp)}
+zręcznie: pewny: : : : {comprepnp(pod względem)}
+zręcznie: pewny: : : : {cp(kiedy)}
+zręcznie: pewny: : : : {np(dat)} + {infp(_)}
+zręcznie: pewny: : : : {xp(mod[advp(mod)])}
+zupełnie: pewny: : : : {compar(jak)}
+zupełnie: pewny: : : : {cp(jakby)}
+źle: pewny: : : : {np(dat)} + {compar(jako)}
+źle: pewny: : : : {np(dat)} + {comprepnp(od strony)}
+źle: pewny: : : : {np(dat)} + {comprepnp(pod względem)}
+źle: pewny: : : : {np(dat)} + {comprepnp(ze względu na)}
+źle: pewny: : : : {np(dat)} + {cp(gdy)}
+źle: potoczny: : : : {np(dat)} + {cp(jak)}
+źle: pewny: : : : {np(dat)} + {cp(jeśli)}
+źle: pewny: : : : {np(dat)} + {cp(kiedy)}
+źle: pewny: : : : {np(dat)} + {cp(że)}
+źle: pewny: : : : {np(dat)} + {infp(_)}
+źle: pewny: : : : {np(dat)} + {prepnp(w,loc)}
+źle: pewny: : : : {np(dat)} + {prepnp(z,inst);prepncp(z,inst,int);prepncp(z,inst,że)}
+źle: pewny: : : : {np(dat)} + {xp(caus)}
+źle: pewny: : : : {np(dat)} + {xp(locat)}
+źle: pewny: : : : {prepnp(dla,gen)} + {cp(gdy)}
+źle: potoczny: : : : {prepnp(dla,gen)} + {cp(jak)}
+źle: pewny: : : : {prepnp(dla,gen)} + {cp(jeśli)}
+źle: pewny: : : : {prepnp(dla,gen)} + {cp(kiedy)}
+źle: pewny: : : : {prepnp(dla,gen)} + {cp(że)}
+źle: pewny: : : : {prepnp(o,acc)}
+żałośnie: pewny: : : : {infp(_)}

@@ -1,0 +1,5584 @@
+William Shakespeare
+
+Jak wam się podoba
+tłum. Leon Ulrich
+
+ISBN 978-83-288-2893-3
+
+
+
+
+Wstęp
+
+Jest to pasterski dramat — sielanka, odgrywająca się w jakimś idealnym lesie, na łonie matki natury, której zdrowy oddech ma wszystkie choroby cywilizowanego żywota uleczyć, wszystkie wady i zepsucie naprawić, ludzi dworactwem, sztucznym życiem zgangrenowanych do zdrowia i rozumu przywrócić. Aż do XVIII w. ludzie się marzeniami takich sielanek bawili, a nasz książę Panie Kochanku odgrywał w Albie coś podobnego, chodząc w słomianym kapeluszu.
+
+Bywa tak źle czasem, smutno, niewygodnie na tym świecie, że człowiek ma ochotę uciec zeń do krainy marzeń choćby na chwilę i póki trwa teatralne przedstawienie.
+
+Komedia ta — to najosobliwsza w świecie tkanka: niebywała jakaś kraina, stosunki niemożliwe, a wśród nich ludzie z ciała i kości, najrzeczywistniejsi, najdotykalniej prawdziwi.
+
+Rzecz dzieje się nie wiedzieć gdzie, a plącze *jak się wam podoba* albo raczej jak się podobało fantazji poety, nietroszczącego się bynajmniej o żadne w świecie prawdopodobieństwa formy. Składa się z kontrastów, świeci i żyje dowcipem, a główny interes polega na dialektyce w poglądach na ludzkość, jej sprawy, uczucia, serca i namiętności.
+
+Goethe już uczynił tę słuszną uwagę, że u Szekspira często bardzo sceniczna budowa jest zupełnie zaniedbaną, układ rzeczy podrzędny; rusztowanie znika pod tymi bogatymi oponami, które na nich zawiesza humor, dowcip, filozofia życia, blaski słowa i poezji kwiaty.
+
+W pasterskiej bajce Jak się wam podoba nie trzeba szukać scen dramatycznych, ale jak w kalejdoskopie bawić się coraz nowymi barwami, które się z sobą spotykają, aby jedna podnosiła drugą. Panuje tu *słowo*, a nie czyn. Gdyby dziś kto na scenę dał sztukę tak swobodnie złożoną z rozmów, choćby pełnych dowcipu, nasza społeczność znużona i znękana, dla której słowo jest startą monetą, nie wysłuchałaby cierpliwie ani połowy tego marzenia, tej muzyki, tej mozaiki myśli — tak fantastycznie sklejonej.
+
+Za czasów Szekspira wiele rzeczy było nowych i śmiałych, a słowo po długiej niewoli rozpoczynało dopiero odzywać się jako śmielszy tłumacz głowy i serca — dziś słyszeliśmy to wielokroć i do syta.
+
+Powieść służąca za rusztowanie jest sobie bajką o królach, o królewnach, o trzech braciach, z których jeden poniewierał drugim, gdzieś zapożyczoną i przemalowaną przez wielkiego artystę swobodnie, można by powiedzieć zuchwale — ale osnowa tu najmniej znaczy. Wszystko to bogata opona okrywa.
+
+Szekspir pisał tą sielankę w drugiej epoce, gdy był najczynniejszym. Tytuł jej: As you like it znajdujemy w rejestrach księgarzy (Stationer's Hall) razem z Henrykiem V i Wiele hałasu o nic, z tą uwagą dodaną, że ogłoszenie zawieszone zostało. Pierwsze dwie jednak były później drukowane, a Jak się wam podoba wyszło dopiero w wydaniu zbiorowym 1623 r. Meres w 1598 r. nie wspomina o tej komedii, a jest w niej przywiedziony wiersz z Marlowe'a, Hero i Leandra, poematu, który drukowany był dopiero w r. 1598.
+
+Można by ją więc odnieść prawie z pewnością do r. 1599. Tradycja powiada, że sam poeta grał w niej rolę starego sługi Adama. Podanie to, z ust żyjącego jeszcze brata Szekspira za Karola II zaczerpnięte, Oldys tak opisuje:
+
+„Jeden z najmłodszych braci Szekspira, który dożył późnego wieku, imieniem Gilbert, po przywróceniu Karola II, miał we zwyczaju na teatr uczęszczać. Główni aktorowie ówcześni, okazując mu jak największe uszanowanie, starali się od niego coś dowiedzieć o bracie i z największą ciekawością dopytywali o szczegóły, najbardziej zaś o grę dramatyczną Williama. Ale Gilbert już tak był wiekiem złamany, a słabość mu pamięć odjęła, że nie bardzo mógł dobrze odpowiadać na czynione pytania. Zaledwie można było z niego wydobyć jakieś wspomnienie ogólne, nieokreślone i prawie starte, że raz widział Willa grającego w jednej ze swych komedii rolę starca zgrzybiałego. Miał on brodę długą, a wydawał się tak osłabionym, tak przybitym, tak zaledwie mogącym się poruszać, że druga osoba nieść go musiała i sadzać przy stole, u którego liczni siedzieli współbiesiadnicy — jeden z nich śpiewał piosenkę.” Z tego się domyślono roli Adama.
+
+Dosyć nudna powiastka moralna, za czasów Szekspira popularna bardzo, myśl do tej fantazji podała. Widzieliśmy, że przedmioty brał tak zawsze poeta z tej skarbnicy, do której ogół był nawykły, z której popularnymi postaciami był oswojony. Powieść Thomasa Lodge'a z r. 1590–1592 ma tytuł:
+
+Rosalynde, Euphues golden Legacie, found after his death in his Celi at Silexedra, Requeathed to Philautus Sonnes, nursed up with their Pather in England. Fetchet from the Canaries by T. L. Gent.
+
+Starsza jeszcze powieść, która służyła za materiał Thomasowi Lodge'owi, zowie się: The Coke's Tale of Gamelyn.
+
+W niektórych scenach Szekspir trzymał się pierwszego wzoru, w innych Lodge'a.
+
+Jesteśmy w stolicy jakiegoś idealnego księstwa, w którym panuje książę Fryderyk, wypędziwszy swojego brata. Brat ten, jak w ogóle wszyscy wygnańcy w dramacie, schronił się do Puszczy Ardeńskiej na łono natury i znosi bardzo filozoficznie to nowe położenie, czas spędzając na przyjemnych gawędkach. Tymczasem w dawnej jego stolicy pozostała córka Rozalinda przez przyjaźń dla ciotecznej swej siostry, córki Fryderyka, bawi przy niej na dworze uzurpatora. Dramat rozpoczyna się sceną między braćmi, starszym Oliwerem i Orlandem będącym u niego na opiece. Oliwer, idąc za przykładem z góry, Orlanda rad by się pozbyć, wychowuje go na parobka i czyha na jego zgubę. Jest to, obyczajem ówczesnym, zdwojenie dramatu przez przeniesienie go w inną sferę, do czegośmy nawykli. Orlando, którego wychowanie było zaniedbane, zachował jednak w sobie moc ducha, a przy tym siłę pięści, która też do pogardzenia nie jest. Zaraz w początku dramatu, gdy brat zasadza nań siłacza, z którym się ma potykać, Orlando zabija atletę. Musi jednak natychmiast uchodzić, gdyż stary, wierny sługa Adam ostrzega go, że brat chce dla pozbycia się go spalić z nim razem dom, w którym ma nocować. On więc i stary sługa udają się razem do lasu.
+
+Wprzódy jednak przytomne są jego walce z atletą dwie księżniczki, a Rozalinda, córka wygnańca, żywo się zajmuje nieszczęśliwym młodzieńcem, który także w niej się rozmiłowuje. Prawie współcześnie z Orlandem ucieka też do tej samej puszczy wypędzona przez stryja Rozalinda, ale z nią razem uchodzi przywiązana do niej córka księcia. W lesie tym znajdują się więc wszyscy, których społeczność pozbyć się chciała, wśród pasterskiej obyczajów prostoty. Życie tu spędzają, jak przystało bohaterom sielankowym, na śpiewach, rozmowach i na sielskich biesiadach pod drzewami. Orlando, błądząc po lesie, na drzewach pisze wiersze do Rozalindy, ta, przebrana za chłopca, niepoznana, bawi się, wyciągając z niego wyznania gorących uczuć dla siebie. Sama zapoznaje się z nim w postaci pazia, ukrywa swą miłość, gdy wtem Orlando w lesie znika. Zakrwawiona chustka każe się domyślać, że go zwierz pożarł dziki.
+
+Rozalinda mdleje i zdradza *płeć swoją*. W puszczy tej czarodziejskiej, wracając do stanu natury, spotykają się w końcu wszyscy. Oliwer, wyrodny brat Orlanda, wygnany przychodzi tu także i niedolą nawrócony staje się najczulszym bratem. Powietrze lasu uzdrawia i nawraca. Żałującemu za przeszłe grzechy Celia, córka księcia, jest w nagrodę przeznaczoną.
+
+Nawraca się w końcu tchnieniem tej uzdrawiającej natury nawet książę Fryderyk, który z wojskiem ogromnym ciągnie tu, aby zabić ukrywającego się brata, spotyka na kraju lasu pobożnego pustelnika i — pełen skruchy zrzeka się dobrowolnie nieprawnie zagarniętej władzy. Las ten leczy wszystkie zachcianki, jedna wszystkie nienawiści, darzy szczęściem i spokojem. Ten las — to natura.
+
+W tej idealnej naturze długo jeszcze potem szukano leków na choroby społeczne, wierzono w tę utopię, nie bacząc, że stan natury jest stanem zwierzęcym. Ale w tej naturze tkwiło skryte wspomnienie biblijnego Raju — odwiecznego marzenia ludzkości, tęsknoty za stanem jakimś doskonałości i błogości, leżącym niestety poza warunkami życia rzeczywistego.
+
+W powieści Lodge'a zakończenie jest odmienne. Dwaj bracia Gerismond i Thorismond, staczają walną bitwę, uzurpator zostaje zwyciężony. W sielance zwycięża go słowo wyszłe z łona natury. Szekspir jest logiczniejszym, obraz jego jednolitszym. Raz wyszedłszy za granicę rzeczywistości do tego lasu — siłą jego rozstrzygać trzeba było wszystko.
+
+Powiedzieliśmy wyżej, że sielanka cała jest w *słowach* i tych słów dialektyce. Wyśmienity błazen Probierczyk i dworzanin króla wygnanego, melancholiczno-szyderski Jakub — są kontrastem dwóch na świat różnych poglądów. Probierczyk, śmiejąc się, wszystko bierze lekko, Jakubowi czarno i obrzydliwie świat się wydaje. Liczba osób do tej dialektyki użyta jest dosyć znaczna. Oprócz wspomnianych osób, mamy jeszcze parę na dworze księcia Fryderyka, w lesie proboszcza Oliwera (Psujteksta), pasterzy i pasterki, wieśniaków i samego nawet Hymena występującego osobiście. Wśród tego natłoku jednak Probierczyk i Jakub najwięcej zajmują, są najwydatniejsi, tak jak nad typami niewieścimi góruje piękna Rozalinda, w której uczucie i rozum, wdzięk niewieści i energia cudnie się z sobą kojarzą.
+
+Sielankowe dramaty ówczesne, po większej części patetyczne i ckliwe, Szekspir dowcipem i filozoficznymi poglądami umiał ożywić. Z tonu, z planu, z zakończenia można by wnosić, że sztuka na jakąś uroczystość, może weselną (Hymen), była przeznaczoną.
+
+Po francusku przerobiła ją z właściwym sobie talentem pani George Sand, po niemiecku dla sceny Wilhelm Oechelhäuser. Rzadko jednak grywaną widzieć ją można. Jest to potrawa dla smakoszów, a i artyści, co by ją dla pieszczonych podniebień podjęli się przyrządzić — musieliby stać na wysokości tej poezji nie dla wszystkich przystępnej.
+
+
+
+Jak wam się podoba
+
+
+OSOBY:
+ * Książę wygnany
+ * Fryderyk, brat księcia, przywłaszczyciel jego państwa
+ * Amiens, towarzysz wygnanego księcia
+ * Jakub, towarzysz wygnanego księcia
+ * Le Beau, dworak Fryderyka
+ * Karol, jego zapaśnik
+ * Oliwer, syn Rolanda de Bois
+ * Jakub, syn Rolanda de Bois
+ * Orlando, syn Rolanda de Bois
+ * Adam, sługa Oliwera
+ * Dionizy, sługa Oliwera
+ * Probierczyk, błazen
+ * Oliwer Psujtekst, proboszcz
+ * Koryn, pasterz
+ * Sylwiusz, pasterz
+ * Wilhelm, wieśniak zakochany w Odrej
+ * Osoba przedstawiająca Hymen
+ * Rozalinda, córka wygnanego księcia
+ * Celia, córka Fryderyka
+ * Febe, pasterka
+ * Odrej, wieśniaczka
+ * Panowie z dworu dwóch książąt, Paziowie, Strzelcy
+i inni Dworzanie
+
+
+
+
+Scena naprzód w bliskości domu Oliwera, później częścią na dworze przywłaszczyciela, częścią w Lesie Ardeńskim.
+
+
+
+
+AKT PIERWSZY
+
+
+
+SCENA I
+
+/ Ogród przed domem Oliwera. /
+
+/ Orlando i Adam. /
+
+/  /
+
+
+ORLANDO
+
+O ile przypominam sobie, Adamie, testamentem zapisał mi tylko biedne tysiąc talarów; ale jak powiadasz, obowiązał mojego brata pod utratą błogosławieństwa, aby dobre dał mi wychowanie. Tu się zaczynają moje utrapienia. Brata mojego Jakuba wyprawił do szkoły, skąd złote dochodzą nas wieści o jego postępach; co do mnie, utrzymuje mnie w domu jak chłopa albo raczej trzyma mnie w domu bez utrzymania, bo możnaż nazwać utrzymaniem szlachcica mojego urodzenia, co się nie różni od karmi wołu w oborze? Konie jego lepsze odbierają wychowanie, bo nie tylko na obroku tyją, ale zarazem tresowane są w maneżu przez drogo płatnych ujeżdżaczy; a ja, brat jego, w domu tym tylko na wzroście korzystam, za co bydlęta jego na jego gnoju tyle mu co ja są winne. Za to nic, które mi tak szczodrze udziela, postępowaniem swoim chciałby, zda się, wydrzeć to coś, które mi dała natura. Sadza mnie do stołu z parobkami, miejsca należnego bratu nie daje, o ile w jego mocy, podkopuje moje szlachectwo przez takie wychowanie. Ta jest przyczyna mojego smutku, Adamie. Ale duch ojca, który, zdaje mi się, żyje w moich piersiach, zaczyna się buntować przeciw tej niewoli; nie chcę jej cierpieć dłużej, choć nie znam jeszcze środka, jakby się mądrze z niej wyswobodzić.
+
+/ Wchodzi Oliwer. /
+
+
+ADAM
+
+Otóż i pan mój, a brat wasz.
+
+
+ORLANDO
+
+Odejdź tylko na stronę, a usłyszysz, jak na mnie napadnie.
+
+
+OLIWER
+
+No, mospanie, co tu robisz?
+
+
+ORLANDO
+
+Nic nie robię, niczego mnie robić nie nauczono.
+
+
+OLIWER
+
+A więc, co tu psujesz, mospanie?
+
+
+ORLANDO
+
+Pomagam ci próżniactwem popsuć, co Bóg zrobił — twojego biednego, niegodnego brata.
+
+
+OLIWER
+
+Używaj więc lepiej czasu i zmarniej.
+
+
+ORLANDO
+
+Mamże paść twoje wieprze i jeść z nimi plewy. Jakiż dział marnotrawnego syna przehulałem, abym w taką popadł nędzę?
+
+
+OLIWER
+
+Czy wiesz ty, gdzie jesteś, paniczu?
+
+
+ORLANDO
+
+O, bardzo wiem dobrze, tu, w twoim ogrodzie.
+
+
+OLIWER
+
+Czy wiesz ty, przed kim stoisz, paniczu?
+
+
+ORLANDO
+
+Lepiej, niż ten, przed którym stoję, wie, kto ja jestem. Wiem, że jesteś moim najstarszym bratem; posłuszny krwi głosowi, powinien byś poznać we mnie brata. Zwyczaje świata dały ci wyższość nade mną dlatego, że jesteś pierworodnym, ale to prawo nie odbiera mi krwi mojej, choćby nas dwudziestu braci rozdzielało. Tyle jest we mnie ojca, co w tobie, choć wyznaję, że pierwszeństwo urodzenia stawia cię bliżej jego powagi.
+
+
+OLIWER
+
+Co to ma znaczyć, dzieciuchu?
+
+
+ORLANDO
+
+Powoli, powoli, starszy braciszku, jeszcześ na to za młody.
+
+/ Chwyta go za gardło. /
+
+
+OLIWER
+
+Śmiesz się na mnie porywać, nikczemny gburze?
+
+
+ORLANDO
+
+Nie jestem gburem, ale najmłodszym synem Rolanda de Bois; on jest moim ojcem, a ten jest sto razy gburem, kto śmie utrzymywać, że taki ojciec gbura spłodził. Gdybyś mi nie był bratem, póty tej ręki nie spuściłbym ci z gardła, póki bym drugą nie wydarł ci języka za takie słowo. Sam się zelżyłeś.
+
+
+ADAM
+
+Kochani panowie, trochę cierpliwości. Przez wzgląd na pamięć ojca pogódźcie się!
+
+
+OLIWER
+
+Puść mnie!
+
+
+ORLANDO
+
+Nie puszczę, póki mnie nie wysłuchasz do końca. Ojciec nakazał ci testamentem, żebyś mi dobre dał wychowanie, a ty wychowałeś mnie jak parobka; zaćmiłeś, przygasiłeś we mnie wszystkie szlacheckie przymioty; ale duch ojca mężnieje w moich piersiach i nie ścierpię tego dłużej. Albo więc daj mi ćwiczenie, jakie szlachcicowi przystoi, albo wypłać mi lichą sumę ojcowskim testamentem przekazaną, a pójdę z nią w świat szukać szczęścia.
+
+
+OLIWER
+
+A potem żebrać, gdy wszystko przetrwonisz. Bardzo dobrze, paniczu, nie chcę się dłużej o los twój kłopotać. Będziesz miał, czego żądasz. A teraz, proszę cię, puść mnie!
+
+
+ORLANDO
+
+Nie chcę cię krzywdzić więcej, niż moje dobro wymaga.
+
+
+OLIWER
+
+Precz z nim i ty, stary kundlu!
+
+
+ADAM
+
+Stary kundlu! To moja nagroda. Prawda, straciłem zęby na waszej usłudze. Bóg z moim starym panem! On by tych słów nie powiedział.
+
+/ Wychodzą: Orlando i Adam. /
+
+
+OLIWER
+
+Czy to już tak? Przerastać mnie zaczynasz? Potrafię ja i bujność twoją wyleczyć, i tysiąca talarów ci nie dać. Hej! Dionizy!
+
+
+DIONIZY
+
+/ wchodząc: /
+
+Czy wielmożny pan woła?
+
+
+OLIWER
+
+Czy Karol, zapaśnik książęcy, nie był tu i nie chciał ze mną rozmawiać?
+
+
+DIONIZY
+
+I owszem, wielmożny panie, stoi u bramy i natrętnie prosi o posłuchanie.
+
+
+OLIWER
+
+Zawołaj go! Wychodzi Dionizy. Wyborny środek! Jutro zapasy.
+
+/ Wchodzi Karol. /
+
+
+KAROL
+
+Dzień dobry panu.
+
+
+OLIWER
+
+Kochany panie Karolu, co za nowe nowiny na nowym dworze?
+
+
+KAROL
+
+Nie ma na dworze nowin, prócz starych nowin, jak na przykład, że stary książę był wygnany przez młodszego swego brata, nowego księcia; że trzech lub czterech przywiązanych panów poszło z nim na dobrowolne wygnanie; ziemie ich bogacą nowego księcia, dał im też chętnie pozwolenie wędrówki.
+
+
+OLIWER
+
+A Rozalinda, córka księcia, czy także razem z ojcem wygnana?
+
+
+KAROL
+
+O nie, bo córka nowego księcia, jej krewna, z którą się wychowała od kolebki, tak ją kocha, że alboby z nią była na wygnanie poszła, alboby umarła, zostawszy bez niej.
+
+
+OLIWER
+
+Gdzie zamierza osiąść stary książę?
+
+
+KAROL
+
+Powiadają, że jest już w Lesie Ardeńskim, otoczony tłumem wesołych towarzyszy, z którymi żyje jak stary Robin Hood angielski. Słyszałem, że co dzień tam ściągają nowe stada młodych panów, gdzie im czas płynie bez troski, jakby w złotym wieku.
+
+
+OLIWER
+
+Ale, ale, czy to prawda, że jutro pasujesz się w przytomności młodego księcia?
+
+
+KAROL
+
+Prawda niewątpliwa i to jest właśnie powodem moich odwiedzin. Słyszałem z boku, że młodszy brat wasz, Orlando, chce przebrany próbować się ze mną. W jutrzejszych zapasach idzie o mój kredyt, a kto mi się wymknie bez połamanych żeber, będzie mógł sobie winszować. Brat wasz jest delikatny i młody; przez miłość ku wam nie chciałbym go poturbować, jak będę musiał dla mego honoru, jeśli stanie w szranki. Przychodzę więc w przyjacielskiej myśli uwiadomić was o wszystkim, żebyście mogli albo od zamiaru go odwieść, albo się nie gniewali na mnie, jeśli go spotka jaka nieprzyjemność, której sam szuka mimo mej woli.
+
+
+OLIWER
+
+Dziękuję ci, Karolu, za ten dowód miłości, którą, zobaczysz, jak sowicie zapłacę. I ja także słyszałem o projektach mojego brata i starałem się pobocznie z głowy mu je wybić; ale ani chciał słuchać. Powiem ci otwarcie, Karolu, że nie ma w całej Francji upartszego młokosa; ambitny, zazdrosny cudzych talentów. Czy uwierzysz? Knuje tajemne spiski przeciw mnie, swojemu rodzonemu bratu. Rób więc, co ci się podoba. Wszystko mi jedno, czy mu kark, czy mu palec ukręcisz. Radzę ci nawet mieć się na baczności, bo jeśli go ty tylko poturbujesz lub on świetnego nie odniesie nad tobą zwycięstwa, to albo truciznę ci zada, albo tajemnymi praktykami nastawać będzie na ciebie, póki w ten lub inny sposób życia ci nie odbierze. Wierzaj mi, a prawie ze łzami to wyznaję, nie ma dziś pod słońcem człowieka, co by tak był młody, a tak przewrotny. Mówię o nim z braterską względnością, bo gdybym chciał ci go w całej nagości przedstawić, ja bym płakać i rumienić się musiał, a ty byś bladł z podziwienia.
+
+
+KAROL
+
+Rad jestem, że do was przyszedłem. Jeśli się jutro pokaże, dostanie, co mu się należy, bo jeśli on jutro będzie mógł o własnych siłach nogę za nogą postawić, wyrzekam się zapasów na zawsze. A teraz Pan Bóg z wami.
+
+/ Wychodzi. /
+
+
+OLIWER
+
+Bądź zdrów, dobry Karolu. A teraz trzeba będzie podrażnić jeszcze mojego zucha. Spodziewam się, że koniec jego zobaczę, bo dusza moja, nie wiem dlaczego, nienawidzi go nad wszystko. A przecie to chłopiec tak łagodny; uczony, choć bez szkolnego ćwiczenia; pełny szlachetnych myśli; kochany przez wszystkich, jakby ich zaczarował; tak podbił serca świata, a nade wszystko własnych moich ludzi, którzy go najlepiej znają, że ja, brat starszy, tylko drugie trzymam miejsce. Ale to nie potrwa długo; zapaśnik poradzi wszystkiemu. Trzeba mi tylko teraz podjudzić wyrostka i to bez zwłoki.
+
+/ Wychodzi. /
+
+
+
+SCENA II
+
+/ Trawnik przed pałacem księcia. /
+
+/ Rozalinda i Celia. /
+
+
+CELIA
+
+Proszę cię, Rozalindo, kochana kuzynko, bądź wesołą.
+
+
+ROZALINDA
+
+Droga Celio, i tak już pokazuję więcej wesela, niż go mam w sercu, a ty chcesz, żebym była jeszcze weselszą? Jeśli mnie nie nauczysz zapomnieć wygnanego ojca, darmo będziesz chciała nauczyć mnie wesela.
+
+
+CELIA
+
+To mi właśnie dowodzi, że mnie tak nie kochasz jak ja ciebie. Gdyby stryj mój, twój wygnany ojciec, wygnał był twojego stryja, księcia, mego ojca, byleś ty ze mną została, nauczyłabym miłość moją uważać twojego za mojego ojca; i ty byś także to samo zrobiła, gdyby miłość twoja ku mnie z moją ku tobie mierzyć się mogła.
+
+
+ROZALINDA
+
+Więc dobrze, zapomnę o moim położeniu, aby się z twojego cieszyć.
+
+
+CELIA
+
+Wiesz, że mój ojciec oprócz mnie innych nie ma dzieci i zdaje się mieć nie będzie; wierzaj mi więc, po jego śmierci będziesz jego dziedziczką, bo co on twojemu ojcu przemocą wydarł, to ja ci oddam z miłości; oddam, na honor! A jeśli przysięgę tę zgwałcę, niech się w poczwarę zamienię. Słodka Różo, kochana Różo, bądź więc wesołą!
+
+
+ROZALINDA
+
+Będę nią od tej chwili, kuzynko, a na dowód zaczynam rozmyślać, gdzie by znaleźć rozrywkę. Co mówisz o miłości?
+
+
+CELIA
+
+I owszem, szukaj rozrywki w miłości, tylko nie kochaj żadnego mężczyzny naprawdę, a i na żart nawet nie kochaj, tylko tyle, żebyś mogła bezpiecznie wycofać się kosztem skromnego rumieńca.
+
+
+ROZALINDA
+
+Gdzie więc znajdziemy rozrywkę?
+
+
+CELIA
+
+Siądźmy i szyderstwem odgońmy dobrą gospodynię fortunę od jej koła, aby na przyszłość równo dzieliła swoje dary.
+
+
+ROZALINDA
+
+Ach, gdyby się nam to udało! Bo dobrodziejstwa jej rozdzielone są dziś w najopłakańszy sposób! Dobra, ślepa staruszka najczęściej się myli w podarunkach, które kobietom rozdaje.
+
+
+CELIA
+
+To prawda. Którym dała piękność, rzadko daje cnotę, a którym dała cnotę, zakazaną daje urodę.
+
+
+ROZALINDA
+
+Nie, nie zwalaj na fortunę grzechów natury: fortuna jest panią darów tego świata, ale nie rysów natury.
+
+/ Wchodzi Probierczyk. /
+
+
+CELIA
+
+Czy tak sądzisz? Alboż piękne stworzenie, które ulepiła natura, nie może wpaść w ogień zrządzeniem fortuny? Choć natura dała nam dowcip do szydzenia z fortuny, czy nie fortuna przysłała nam tego błazna, aby przeciąć argument?
+
+
+ROZALINDA
+
+Tu, wyznać muszę, fortuna jest bez miłosierdzia dla natury, gdy naturalnemu głupstwu każe naturalny dowcip przecinać.
+
+
+CELIA
+
+A i to może nie jest fortuny, ale natury dziełem, która widząc naturalny nasz dowcip za tępy, aby o takich boginiach rozprawiać, przysłała nam naturalnego błazna jak osełkę; bo zawsze tępość błazna jest osełką dowcipu. Dokąd droga, dowcipnisiu?
+
+
+PROBIERCZYK
+
+Śpiesz pani do ojca co prędzej.
+
+
+CELIA
+
+Czy cię posłem zrobiono?
+
+
+PROBIERCZYK
+
+Nie, na honor, tylko mi szukać pani kazano.
+
+
+ROZALINDA
+
+Gdzie się przysięgi tej nauczyłeś, błazenku?
+
+
+PROBIERCZYK
+
+Od pewnego kawalera, który na swój honor przysięgał, że naleśniki były dobre, i na honor przysięgał, że niegodziwa była musztarda, gdy ja utrzymuję, że naleśniki były niegodziwe, a dobra musztarda; pan kawaler jednak nie krzywoprzysiągł.
+
+
+CELIA
+
+Jak tego dowiedziesz z całą twoją kupą nauki?
+
+
+ROZALINDA
+
+Teraz pora odjąć kaganiec twojej mądrości.
+
+
+PROBIERCZYK
+
+Przybliżcie się; połóżcie rękę na waszych podbródkach i przysięgnijcie na wasze brody, że hultaj ze mnie.
+
+
+CELIA
+
+Na nasze brody, gdybyśmy je miały, hultaj z ciebie.
+
+
+PROBIERCZYK
+
+Na moje hultajstwo, gdybym miał je, byłbym hultajem; ale jeśli przysięgacie na to, czego nie macie, nie krzywoprzysięgacie; a więc i kawaler nie krzywoprzysiągł, przysięgając na honor, którego nigdy nie miał lub jeśli miał kiedy, to już go wyprzysiągł długo wprzódy, nim widział te naleśniki i tę musztardę.
+
+
+CELIA
+
+O kim to chcesz mówić, proszę?
+
+
+PROBIERCZYK
+
+O pewnym panu w wielkich łaskach u starego Fryderyka, twojego ojca.
+
+
+CELIA
+
+Łaska mojego ojca daje mu dosyć honoru. Nie mów o nim więcej, bo lada dzień dostaniesz chłostę za twój złośliwy język.
+
+
+PROBIERCZYK
+
+Tym gorzej, że błaznom nie wolno mówić mądrze o tym, co mądrzy po błazeńsku robią.
+
+
+CELIA
+
+Przyznaję, że wielką masz rację, bo odkąd odrobinie sensu, którą mieli błazny, milczeć nakazano, odrobina błazeństwa, którą mieli mądrzy, w całym pokazała się blasku. Ach, otóż i monsieur Le Beau.
+
+/ Wchodzi Le Beau. /
+
+
+ROZALINDA
+
+Z pełną gębą nowin.
+
+
+CELIA
+
+Którymi będzie nas karmił jak gołąb swoje pisklęta.
+
+
+ROZALINDA
+
+Będziemy więc nowinami nadziane.
+
+
+CELIA
+
+Tym lepiej, będziemy tym smaczniejsze. Bonjour, monsieur Le Beau; co za nowiny?
+
+
+LE BEAU
+
+Piękne księżniczki, straciłyście rzadką zabawę.
+
+
+CELIA
+
+Zabawę? Jakiego koloru?
+
+
+LE BEAU
+
+Jakiego koloru, pani? Jak mam na to pytanie odpowiedzieć?
+
+
+ROZALINDA
+
+Jak poradzi dowcip lub fortuna.
+
+
+PROBIERCZYK
+
+Albo jak każą przeznaczenia.
+
+
+CELIA
+
+Ruszyłeś konceptem jak martwe cielę ogonem.
+
+
+PROBIERCZYK
+
+Gdybym się na moim stanowisku utrzymać nie umiał —
+
+
+ROZALINDA
+
+Przewróciłbyś koziołka.
+
+
+LE BEAU
+
+Pomieszałyście mi szyki, moje panie. Chciałem wam mówić o przepysznych zapasach, których straciłyście widok.
+
+
+ROZALINDA
+
+To nam opowiedz przynajmniej szczegóły tych przepysznych zapasów.
+
+
+LE BEAU
+
+Opowiem początek, moje panie; jeśli bowiem chcecie, będziecie mogły widzieć koniec. Co najlepszego zostaje, tu się właśnie odbędzie, gdzie stoicie.
+
+
+CELIA
+
+Opowiadaj początek, który już umarł i jest pogrzebany.
+
+
+LE BEAU
+
+Był ojciec, który miał trzech synów —
+
+
+CELIA
+
+To coś na starą bajkę zakrawa.
+
+
+LE BEAU
+
+Trzech młodych synów, pięknego wzrostu i urody —
+
+
+ROZALINDA
+
+A każdy drągal miał drąg w ręku —
+
+
+LE BEAU
+
+A najstarszy poszedł w zapasy z Karolem, książęcym zapaśnikiem, który go w mgnieniu oka powalił z trzema żebrami potrzaskanymi tak, że mało nadziei ratunku zostało; taką samą łaźnię sprawił drugiemu i trzeciemu. Leżą tam rozciągnięci na piasku, a biedny stary ojciec tak żałośnie nad nimi płacze, że wszyscy widzowie w jego łzach udział biorą.
+
+
+ROZALINDA
+
+Biedny starzec!
+
+
+PROBIERCZYK
+
+Ale gdzie ta rozrywka, którą straciły panie?
+
+
+LE BEAU
+
+Właśnie zapasy, o których mówię.
+
+
+PROBIERCZYK
+
+Z dniem każdym człowiek rozumu się uczy. Pierwszy raz w życiu słyszę, że połamane żebra są przepyszną dla pań rozrywką.
+
+
+CELIA
+
+I ja też, zaręczam.
+
+
+ROZALINDA
+
+Jestli jeszcze jaki amator tej trzaskającej muzyki we własnych bokach, w połamanych żebrach zakochany? Czy chcesz być widzem tych zapasów, kuzynko?
+
+
+LE BEAU
+
+Jeśli się nie oddalicie, będziecie mimowolnymi widzami, bo tu jest plac wybrany, a zapaśnicy już gotowi.
+
+
+CELIA
+
+Właśnie przychodzą. Zostańmy więc i patrzmy.
+
+/ Przy odgłosie trąb wchodzą: Książę Fryderyk, Panowie, Orlando, Karol i Służba. /
+
+
+KSIĄŻĘ FRYDERYK
+
+Zacznijcie. Skoro młody ten człowiek na przedstawienie nasze jest głuchy, niech zapłaci za swoją zarozumiałość.
+
+
+ROZALINDA
+
+/ pokazując Orlanda: /
+
+Czy to jest nowy zapaśnik?
+
+
+LE BEAU
+
+Tak jest, pani.
+
+
+CELIA
+
+Ach, on tak młody! A jednak zwycięstwo z ócz mu patrzy.
+
+
+KSIĄŻĘ FRYDERYK
+
+Jak to, córko i kuzynko, czyście po to się tu wcisnęły, aby zapasów być świadkami?
+
+
+ROZALINDA
+
+Tak jest, książę mój i panie, jeśli się to twojej woli nie sprzeciwia.
+
+
+KSIĄŻĘ FRYDERYK
+
+Z góry mogę wam zapowiedzieć, że niewiele znajdziecie przyjemności w widowisku, tak są nierówne siły walczących. Przez wzgląd na młodość zaczepnika chciałem go odwieść od przedsięwzięcia, ale rad moich słuchać nie chce. Próbujcie teraz, młode panie, czy będziecie szczęśliwsze ode mnie.
+
+
+CELIA
+
+Zawołaj go tu, dobry monsieur Le Beau.
+
+
+KSIĄŻĘ FRYDERYK
+
+Próbujcie; nie chcę być świadkiem rozmowy.
+
+/ Odchodzi na stronę. /
+
+
+LE BEAU
+
+Panie zapaśniku, księżniczka chce z tobą mówić.
+
+
+ORLANDO
+
+Słucham rozkazu z należnym hołdem i uszanowaniem.
+
+
+ROZALINDA
+
+Młody człowieku, czy ty wyzwałeś książęcego zapaśnika Karola?
+
+
+ORLANDO
+
+Nie, piękna księżniczko, pierwszy Karol wszystkich ogólnie wyzwał na rękę, a ja tak jak inni przychodzę próbować z nim sił mojej młodości.
+
+
+CELIA
+
+Młody panie, duch twój za śmiały na twoje lata. Widziałeś okrutny dowód sił tego człowieka. Gdybyś mógł sam własnym zmierzyć się okiem lub własnym ocenić się sądem, bojaźń niebezpieczeństwa radziłaby ci wybrać stosowniejsze do sił twoich przedsięwzięcie. Prosimy cię, przez wzgląd na ciebie, pomyśl o własnym bezpieczeństwie i odstąp od twojego zamiaru.
+
+
+ROZALINDA
+
+Usłuchaj naszej rady, twój honor nic na tym nie ucierpi. Naszą będzie rzeczą uprosić księcia, aby zapasom koniec położył.
+
+
+ORLANDO
+
+Błagam was, nie bądźcie zbyt surowe w waszym sądzie — bo sam przyznaję się do winy — że tak pięknych, tak dobrych pań życzeniu posłuszeństwa odmawiam. Ale niech wasze piękne oczy i tkliwe życzenia towarzyszą mi w mojej próbie! Jeśli będę zwyciężony, wstyd spadnie tylko na człowieka upośledzonego; jeśli będę zabity, to tylko umrze człowiek, który od dawna umrzeć pragnie. Nie pokrzywdzę przyjaciół, bo nie zostawiam nikogo, co by po mnie płakał; nie pokrzywdzę świata, bo nic na nim nie posiadam; zajmuję tylko na ziemi miejsce, które lepiej będzie obsadzone, gdy je opuszczę.
+
+
+ROZALINDA
+
+Chciałabym ci odstąpić odrobinę sił, które posiadam.
+
+
+CELIA
+
+A ja moje w dodatku.
+
+
+ROZALINDA
+
+Szczęść ci Boże! Bodajem się pomyliła w moim o tobie sądzie.
+
+
+CELIA
+
+Niech się spełnią wszystkie twojego serca życzenia!
+
+
+KAROL
+
+Gdzie jest ten młody zuch, co tak gorąco pragnie spocząć na łonie swojej matki ziemi?
+
+
+ORLANDO
+
+Gotowy; ale mniej ambitny w swoich życzeniach.
+
+
+KSIĄŻĘ FRYDERYK
+
+Przestańcie na pierwszym powaleniu.
+
+
+KAROL
+
+Jedno wystarczy, mości książę; nie będziesz potrzebował zachęcać go do drugiej próby ty, panie, który tak gorąco odwodziłeś go od pierwszej.
+
+
+ORLANDO
+
+Skoro masz zamiar szydzić ze mnie po próbie, nie powinien byś przynajmniej szydzić przed próbą. Ale do dzieła!
+
+
+ROZALINDA
+
+Niech ci Herkules w pomoc przybędzie, młody mężu!
+
+
+CELIA
+
+Chciałabym zostać niewidzialną, aby tego mocarza za nogę chwycić.
+
+/ Karol i Orlando pasują się. /
+
+
+ROZALINDA
+
+O, dzielny młodzieńcze!
+
+
+CELIA
+
+Gdybym miała pioruny w oczach, wiem, który by się z nich powalił.
+
+/ Karol pada obalony; okrzyki. /
+
+
+KSIĄŻĘ FRYDERYK
+
+Dosyć! Dosyć.
+
+
+ORLANDO
+
+Jeszcze! Jeszcze! Mości książę; jeszczem wszystkich sił nie natężył.
+
+
+KSIĄŻĘ FRYDERYK
+
+Jak ci jest, Karolu?
+
+
+LE BEAU
+
+Stracił mowę, mości książę.
+
+
+KSIĄŻĘ FRYDERYK
+
+Wynieście go. Wynoszą Karola. Twoje nazwisko, młodzieńcze?
+
+
+ORLANDO
+
+Nazywam się Orlando, mości książę, jestem najmłodszym synem Rolanda de Bois.
+
+
+KSIĄŻĘ FRYDERYK
+
+Wolałbym, żebyś innego był synem.
+Ojciec twój zyskał świata poważanie,
+Lecz dla mnie zawsze był nieprzyjacielem;
+Chętniej bym patrzył na twoje zwycięstwo,
+Gdybyś z innego domu ród wywodził.
+Lecz bywaj zdrowy! Dzielny z ciebie młodzian;
+Szkoda, że ojciec twój to imię nosi.
+
+/ Wychodzą: Książę, Le Beau i Dwór. /
+
+
+CELIA
+
+Na miejscu ojca także bym mówiła?
+
+
+ORLANDO
+
+Tak jestem dumny, żem Rolanda synem,
+Najmłodszym synem, żebym się nie mieniał,
+Gdyby mnie książę za syna chciał przybrać.
+
+
+ROZALINDA
+
+Ojciec mój kochał Rolanda jak duszę,
+A świat uczucia ojca mego dzielił.
+Gdybym wiedziała, że to syn Rolanda,
+Łez bym strumieniem błagała go wprzódy,
+Nim by rozpoczął niebezpieczną walkę.
+
+
+CELIA
+
+Idźmy, kuzynko, idźmy szermierzowi
+I podziękować, i otuchy dodać,
+Bo twarde słowa mojego rodzica
+Serce mi krwawią. Dzielnieś się pokazał:
+Jeśli w miłości obietnic dotrzymasz,
+Jak je w zapasach dzisiaj prześcignąłeś,
+Szczęśliwa będzie przyszła twa kochanka.
+
+
+ROZALINDA
+
+/ daje mu łańcuszek, który zdjęła z szyi: /
+
+Noś to, młodzieńcze, na moją pamiątkę.
+Gdyby fortuna wierniejszą mi była,
+Więcej bym dała; lecz nie mam nic więcej.
+Idźmy, kuzynko.
+
+
+CELIA
+
+                        Bądź zdrów, młody panie.
+
+
+ORLANDO
+
+Nie mogęż nawet powiedzieć: dziękuję?
+Lepsza mnie cząstka leży powalona,
+A co zostało, drzewem jest bez życia.
+
+
+ROZALINDA
+
+On woła na nas. Z fortuną uciekła
+I moja duma. Spytam, czego żąda.
+Czy nas wołałeś? Walczyłeś jak rycerz
+I pokonałeś więcej niż twych wrogów.
+
+
+CELIA
+
+Czas iść, kuzynko.
+
+
+ROZALINDA
+
+                        Jedno jeszcze słowo.
+Bądź zdrów, młodzieńcze! Niech Bóg będzie z tobą!
+
+/ Wychodzą: Rozalinda i Celia. /
+
+
+ORLANDO
+
+Jakaż namiętność język mi związała?
+Chciała rozmawiać, jam słów znaleźć nie mógł.
+Wchodzi Le Beau.
+Biedny Orlando! Zwyciężył cię, widzę,
+Karol lub słabszy od Karola szermierz.
+
+
+LE BEAU
+
+Przychodzę dać ci przyjacielską radę:
+Uciekaj śpiesznie; bo choć zasłużyłeś
+Na chwałę, miłość, na poklaski ludu,
+Umysł książęcy w takim dzisiaj stanie,
+Że na złe wszystkie czyny twe tłumaczy;
+Ile kaprysu w księcia jest uczuciach,
+Łatwiej ci pojąć niż mnie wypowiedzieć.
+
+
+ORLANDO
+
+Dzięki za radę! — Lecz powiedz mi, panie,
+Z dwóch dam przytomnych szermierskiej rozprawie,
+Powiedz mi, która córką jest książęcia?
+
+
+LE BEAU
+
+Żadna, jeżeli sądzim z charakteru,
+A niższa wedle natury i prawa.
+Druga jest córką wygnanego księcia,
+Przywłaszczyciela wolą zatrzymana
+Na towarzyszkę córki. Te panienki
+Czulej niżeli siostry się kochają.
+Od niejakiego jednak czasu książę
+Powziął urazę do swej synowicy,
+Dlatego tylko, że ją naród cały
+Dla cnót jej wielkich poważa i ceni,
+Przez pamięć ojca nad losem jej płacze.
+Z boleścią widzę, że złość dotąd skryta,
+Wkrótce wybuchnie. — Bądź zdrów, młody panie!
+A później, później w lepszym niż ten świecie
+Będę twej bliższej znajomości szukał.
+
+
+ORLANDO
+
+Dzięki ci, panie, za dobre twe rady!
+Wychodzi Le Beau.
+Jak mną okrutnie gorzki los pomiata!
+Z tyrana dworu do tyrana brata.
+O, Rozalindo, niebieski aniele!
+
+
+
+SCENA III
+
+/ Pokój w pałacu. /
+
+/ Celia i Rozalinda. /
+
+
+CELIA
+
+Jak to, kuzynko? Jak to Rozalindo? Kupidynie, zmiłuj się nad nami! Ani słowa?
+
+
+ROZALINDA
+
+Ani jednego, żeby na psa rzucić.
+
+
+CELIA
+
+Słowa twoje zbyt są kosztowne, żeby je kundlom rzucać; rzuć je raczej na mnie i ukąś mnie twoim rozumem.
+
+
+ROZALINDA
+
+To by musiano zamknąć obie kuzynki: jedną, że pokąsana moim rozumem, a drugą, że rozum straciła.
+
+
+CELIA
+
+A wszystko z przyczyny twojego ojca?
+
+
+ROZALINDA
+
+Nie, trochę także z przyczyny córki mojego ojca. O, jak ciernisty świat ten dnia powszedniego!
+
+
+CELIA
+
+To tylko łopuch rzucony na ciebie wśród świątecznej rozpusty; jeżeli bitym nie pójdziemy gościńcem, do naszych przyczepią się sukni.
+
+
+ROZALINDA
+
+Gdyby tylko do mojej przyczepił się sukni, nie trudno byłoby go otrząsnąć, ale ten łopuch w moim jest sercu.
+
+
+CELIA
+
+To go odkaszl.
+
+
+ROZALINDA
+
+Odkaszlałabym wprzódy życie.
+
+
+CELIA
+
+Trochę odwagi! Pasuj się z namiętnością i własnym uczuciem.
+
+
+ROZALINDA
+
+Moje uczucie trzyma stronę silniejszego ode mnie zapaśnika.
+
+
+CELIA
+
+Szczęść ci, Boże! Przyjdzie czas próby choćby i obalić się przyszło. Ale żarty na stronę, a mówmy na serio. Czy podobna, abyś tak nagle, tak namiętnie przywiązała się do najmłodszego syna Rolanda?
+
+
+ROZALINDA
+
+Ojciec mój, książę, kochał serdecznie jego ojca.
+
+
+CELIA
+
+Nie idzie za tym, żebyś serdecznie miała kochać jego syna; bo wedle takiej logiki byłoby moją powinnością nienawidzić go, bo ojciec mój ojca jego nienawidził serdecznie, ja przecie nie mam nienawiści do Orlanda.
+
+
+ROZALINDA
+
+O, nie! Nie miej nienawiści do niego przez miłość dla mnie.
+
+
+CELIA
+
+A czemu nie, proszę? Czy nie zasłużył na to?
+
+
+ROZALINDA
+
+Dlatego pozwól mi go kochać, a ty z twej strony kochaj go dlatego, że ja go kocham. Lecz patrz, książę nadchodzi.
+
+
+CELIA
+
+A oczy jego gniewem płoną.
+
+/ Wchodzą: Książę Fryderyk i Panowie. /
+
+
+KSIĄŻĘ FRYDERYK
+
+Jeśli twe życie cenisz, mościa panno,
+Uciekaj śpiesznie.
+
+
+ROZALINDA
+
+                        Ja, stryju?
+
+
+KSIĄŻĘ FRYDERYK
+
+                        Ty sama.
+Bo gdy w dni dziesięć straż cię moja schwyta
+O mil dwadzieścia od naszej stolicy,
+Umrzesz.
+
+
+ROZALINDA
+
+                        Przynajmniej pozwól mi, o książę,
+Niech z sobą wiedzę winy mej zabiorę;
+Jeśli znam dobrze duszy mej skrytości,
+Znam wszystkie życzeń moich tajemnice,
+Jeśli nie marzę, jeśli nie szaleję
+(A czuję, żem jest zmysłów moich panią),
+To nigdy, stryju, nigdy nawet myślą
+Nie obraziłam twego majestatu.
+
+
+KSIĄŻĘ FRYDERYK
+
+To wszystkich zdrajców zwykłe oświadczenie;
+Gdyby niewinność na słów rosła gruncie,
+Wszyscy niewinni jak niewinność sama.
+Tobie dość wiedzieć: nie ufam ci więcej.
+
+
+ROZALINDA
+
+Twoja nieufność zdrajcą mnie nie robi.
+Na czym gruntujesz twoje podejrzenia?
+
+
+KSIĄŻĘ FRYDERYK
+
+Czy nie dość, żeś jest ojca twego córką?
+
+
+ROZALINDA
+
+Byłam nią, kiedy księstwo to posiadłeś,
+Byłam nią, kiedyś z ziemi go tej wygnał.
+Książę mój, zdrada nie spada dziedzictwem,
+A gdyby nawet ojców była spadkiem,
+Ojciec mój, książę, nigdy zdrajcą nie był.
+Nie bądź więc, błagam, w sądzie twym surowy,
+Nie bierz za zdradę mojego ubóstwa.
+
+
+CELIA
+
+Drogi mój książę, wysłuchaj mej prośby.
+
+
+KSIĄŻĘ FRYDERYK
+
+Dla ciebie tylko tu ją zatrzymałem,
+Inaczej z ojcem poszłaby się włóczyć.
+
+
+CELIA
+
+O jej tu pobyt nie prosiłam wtedy,
+Sam ją przez litość zatrzymałeś przy mnie.
+Naprzód, zbyt młoda, nie znałam jej ceny;
+Dziś znam ją dobrze. Jeśli jest zdrajczynią,
+I ja nią jestem, bo sen nasz jest wspólny,
+Wspólna zabawa, nauka i pokarm;
+Ciągle, Junony podobne łabędziom,
+Po strudze życia płyniem nierozdzielne.
+
+
+KSIĄŻĘ FRYDERYK
+
+W twojej prostocie nie znasz jej forteli:
+Twarz jej łagodna, cierpliwa, milcząca
+Do ludu mówi i litość w nim budzi.
+Nie widzisz, ślepa, jak ona ci kradnie
+Hołd ci należny; gdy jej tu nie będzie,
+Blask twój i cnota piękniej zajaśnieją.
+Lecz skończmy na tym, bo moje wyroki
+Są nieugięte i nieprzełamane.
+Jest i zostaje wygnaną.
+
+
+CELIA
+
+                        Więc, książę,
+Drugim wyrokiem skaż mnie na wygnanie,
+Bo żyć nie mogę bez jej towarzystwa.
+
+
+KSIĄŻĘ FRYDERYK
+
+Nie wiesz, co mówisz. A ty, synowico,
+Jeżeli termin przewleczesz, na honor
+I na książęce słowo moje — umrzesz!
+
+/ Wychodną: Książę i Panowie. /
+
+
+CELIA
+
+O, siostro moja, gdzie obrócisz kroki?
+Chcesz ojców zmienić? Odstąpię ci mego.
+Przez Boga! Nie bądź smutniejszą ode mnie.
+
+
+ROZALINDA
+
+Mam więcej przyczyn.
+
+
+CELIA
+
+                        Nie masz, droga siostro.
+O, bądź wesołą! Czy nie wiesz, że książę
+Mnie, córkę własną, na wygnanie skazał?
+
+
+ROZALINDA
+
+Nie.
+
+
+CELIA
+
+                        Więc miłości nie znasz, co cię uczy,
+Że ciała nasze jedną mają duszę.
+Słodka dziewczyno, mamyż się rozłączyć?
+Nie; niech dziedziczki innej szuka ojciec.
+Więc radźmy, jakby razem stąd uciekać,
+Gdzie się obrócić i co z sobą zabrać.
+Nie sama będziesz smutku dźwigać ciężar,
+Od twych mnie cierpień i łez nie wyłączysz;
+Świadczę się niebem, które z żalu zbladło,
+Mów co chcesz, wszędzie pobiegnę za tobą.
+
+
+ROZALINDA
+
+I gdzież pójdziemy?
+
+
+CELIA
+
+                        Stryja mego szukać
+W Ardeńskim Lesie.
+
+
+ROZALINDA
+
+                        Ile niebezpieczeństw
+W dalekiej drodze dla dziewczyn jest młodych!
+Więcej złodziei na piękność niż złoto.
+
+
+CELIA
+
+Ja twarz sadzami czarno pomaluję,
+Ty zrób to samo, a nie znajdziem w drodze
+Żadnej napaści.
+
+
+ROZALINDA
+
+                        Czy nie lepiej będzie,
+Gdy wzrostem zwykły wzrost kobiet przewyższam,
+Żebym na siebie ubiór wdziała męski?
+Oszczep w prawicy, kordelas przy boku,
+Choć trwoga w sercu kryje się niewieściem,
+Przywdzieję wszystkie junaka znamiona,
+Jak tchórz niejeden przed tłumu oczyma
+Osłania trwogę męskości pozorem.
+
+
+CELIA
+
+Gdy będziesz mężem, jak mam cię nazywać?
+
+
+ROZALINDA
+
+Nie chcę być gorszą od giermka Jowisza,
+I odtąd, proszę, zwij mnie Ganimedem.
+A twoje imię?
+
+
+CELIA
+
+                        Z losem moim zgodne:
+Nie jestem Celią, ale Alieną.
+
+
+ROZALINDA
+
+Co mówisz, siostro, gdybyśmy w ucieczce
+Zabrały z sobą książęcego błazna?
+On byłby dla nas pociechą wśród drogi.
+
+
+CELIA
+
+On chętnie za mną w świat pójdzie daleki,
+To rzecz jest moja. Więc śpieszmy się teraz,
+Zbierzmy klejnoty i bogactwa nasze
+I czas obmyślmy i najlepsze środki,
+Jak zmylić pogoń za nami wysłaną.
+Teraz nie w smutku idźmy, lecz radości,
+Nie na wygnanie, ale do wolności.
+
+/ Wychodzą. /
+
+
+
+
+AKT DRUGI
+
+
+
+SCENA I
+
+/ Las Ardeński. /
+
+/ Książę wygnany, Amiens i Panowie w ubiorze strzeleckim. /
+
+
+KSIĄŻĘ
+
+Powiedzcie teraz, bracia na wygnaniu,
+Czy przywyknieniem życie nasze nie jest
+Nad malowany przepych dworu słodsze,
+Lasy mniej groźne niż dwór podejrzliwy?
+Tu z Adamowej uczuwamy kary
+Tylko pór zmianę: lecz gdy wiatr zimowy
+Szczypie nam ciało lodowatym tchnieniem,
+Skostniały cały z uśmiechem powtarzam:
+To nie pochlebstwo, szczery to przyjaciel,
+Który dobitnie mówi mi, czym jestem.
+Przeciwność słodkie wydaje owoce,
+Jak jadowita i szpetna ropucha
+Kosztowny klejnot w głowie swojej nosi.
+Tu życie wolne od tłumnych zbiegowisk,
+W strumieniu księgi, w drzewach ma języki,
+Kazania w skałach, a korzyść we wszystkim.
+
+
+AMIENS
+
+Nie pragnę zmiany. Błogo ci, o książę!
+Gdy możesz gniewy zawziętej fortuny
+Tłumaczyć stylem słodkiego pokoju.
+
+
+KSIĄŻĘ
+
+Pójdziemyż teraz ubić co dziczyzny?
+Wyznaję przecie, że serce mnie boli
+Gdy cętkowane, biedne te głupiątka,
+Tych państw samotnych pierwsi właściciele,
+W granicach własnych pod strzał naszych ostrzem
+Okrągłe biodra krwią własną rumienią.
+
+
+1 PAN
+
+Posępny Jakub ten sam czuje smutek,
+Klnie się, że gorsze twoje przywłaszczenie
+Niż brata, który wygnał cię z twej ziemi.
+Dziś ja i Amiens zaszliśmy ukradkiem,
+Gdzie w cieniu dębu leżał zadumany;
+Drzewo nurzało stare swe korzenie
+W wodach potoku szumiących śród boru;
+Tam właśnie jeleń samotny, przez strzelca
+Ciężko raniony przywlókł biedne ciało
+I śmierci czekał; a prawdziwie, książę,
+Z bólu tak ciężkie wydawał westchnienia,
+Że wzdęta skóra na jego się bokach
+Pękać zdawała; łzy wielkie, okrągłe,
+Kropla za kroplą, po niewinnym pysku
+Smutnie ściekały; kosmate głupiątko
+Mierzone wzrokiem posępnym Jakuba
+Stało nad brzegiem i wody potoku
+Łzami zwiększało.
+
+
+KSIĄŻĘ
+
+                        A Jakub co na to?
+Czy na ten widok nie prawił morałów?
+
+
+1 PAN
+
+O książę, tysiąc znalazł tam porównań.
+Naprzód, gdy krople ciekły w zdrój obfity,
+«Biedny jeleniu — mówił — twój testament
+Piszesz jak wszyscy światowi panowie:
+Zbyt już bogatym skarb twój przekazujesz».
+Potem, gdy widział, że jeleń samotny,
+Przez aksamitnych opuszczony braci,
+«Tak bywa zawsze — zawołał — niedola
+Rozgania tłumy mnogich przyjacieli».
+Nadbiegło stado opasłych jeleni,
+Lecz żaden, żaden nie wstrzymał racicy,
+Pozdrowić brata: «O — zawołał Jakub —
+O, lećcie kraśni, pustyni mieszkańce,
+To moda dzisiaj; co macie poglądać
+Na ubogiego konanie bankruta?»
+Tak szczypiącymi wyszydzał słowami
+Dwór, miasta, kraje i nasze tu życie.
+Klął się, że wszyscy w lesie tym jesteśmy
+Bandą tyranów i przywłaszczycieli,
+Gdy siejem trwogę i śmierć wśród dziczyzny
+W dziedzinach, które dała jej natura.
+
+
+KSIĄŻĘ
+
+I zostawiłeś go śród tych rozmyślań?
+
+
+2 PAN
+
+Wśród łez i uwag nad biednego zwierza
+Ciężkim konaniem.
+
+
+KSIĄŻĘ
+
+                        Prowadź mnie do niego;
+Lubię go widzieć w takich paroksyzmach,
+Bo wtedy pełny głębokich jest myśli.
+
+
+1 PAN
+
+Nietrudno, książę, znaleźć nam go będzie.
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Pokój w pałacu. /
+
+/ Książę Fryderyk, Panowie i Służba. /
+
+
+KSIĄŻĘ FRYDERYK
+
+Jak to być może, by ich nikt nie widział?
+To niepodobna albo na mym dworze
+Muszą być zdrajcy, spisku uczestnicy.
+
+
+1 PAN
+
+Nikt jej nie widział, zapewniam cię, książę.
+Dworskie jej damy widziały ją w łóżku,
+Nad rankiem łóżko znalazły bez pani.
+
+
+2 PAN
+
+Parszywy błazen, z którego tak często
+śmiałeś się, panie, zniknął także dzisiaj.
+Hesperia, dama księżniczki, zeznaje,
+Że podsłuchała, jak córka twa, książę,
+I jej kuzynka z zapałem mówiły
+O zapaśnika cnotach i przymiotach,
+Co barczystego powalił Karola;
+Zdaniem jej, młokos zbiegom towarzyszy,
+Gdziekolwiek swoje obróciły kroki.
+
+
+KSIĄŻĘ FRYDERYK
+
+Posłać do brata, aresztować gacha;
+Jeżeli zniknął, brata przyprowadzić,
+On mi go znajdzie; zrobić to natychmiast,
+Póty nie szczędzić zachodów i pracy,
+Póki szalonych nie schwytamy zbiegów.
+
+
+/ Wychodzą. /
+
+
+
+SCENA III
+
+/ Przed domem Oliwera. /
+
+/ Orlando, Adam, spotykają się. /
+
+
+ORLANDO
+
+Kto tam?
+
+
+ADAM
+
+                        Mój panie, młody, dobry panie,
+Żywy obrazie starego Rolanda,
+Po co do tego wracasz znowu domu?
+Na co masz cnotę? Na co ludzką miłość?
+Na co masz dobroć, siłę i odwagę?
+Skąd ci myśl przyszła powalić o ziemię
+Kościste ciało zapaśnika księcia?
+Wieść twojej chwały zbyt cię wyprzedziła.
+Czy nie wiesz, że są ludzie, którym cnota,
+Własna ich cnota jest nieprzyjacielem?
+I ty należysz do liczby tych ludzi,
+Dla ciebie także wszystkie twoje cnoty
+Uświęconymi są tylko zdrajcami.
+O, świat przeklęty, gdzie wszystko, co dobre,
+Dla posiadacza trucizną jest tylko!
+
+
+ORLANDO
+
+Co się to znaczy?
+
+
+ADAM
+
+                        Od drzwi tych uciekaj,
+Biedny młodzieńcze! Pod dachem tym żyje
+Wszystkich przymiotów twoich nieprzyjaciel.
+Twój brat — nie, nie brat, syn przecie — nie, nie syn —
+Bo nie chcę, nie chcę nazywać go synem
+Męża, którego ojcem nazwać chciałem —
+Wie już o wszystkim, słyszał o twej chwale
+I chce tej nocy w izbie tej cię spalić;
+Jeśli to chybi, inne znajdzie środki,
+Jak by cię zgubić, bo go podsłuchałem,
+Jak z wspólnikami knuł na ciebie spiski.
+Dom ten dla ciebie na jatki się zmienił:
+Strzeż się! Przeklętych nie przestępuj progów!
+
+
+ORLANDO
+
+Gdzież chcesz, Adamie, bym kroki obrócił?
+
+
+ADAM
+
+O, wszędzie, wszędzie, byleś tu nie został!
+
+
+ORLANDO
+
+Czy chcesz, bym poszedł o żebranym chlebie?
+Czy chcesz, bym podłą i zbrodniczą ręką
+Rozbijał ludzi na wielkim gościńcu?
+Bo co mam zrobić, gdy tego nie zrobię?
+A tego nie chcę, cokolwiek mnie czeka;
+Lecz wolę raczej smutną paść ofiarą
+Krwi mej wyrodnej i krwawego brata.
+
+
+ADAM
+
+Nie, nie rób tego. Mam pięćset talarów,
+Którem uciułał za twojego ojca;
+Myślałem, że to kawał da mi chleba,
+Kiedy wiek członki me z siły obedrze,
+Gdy starca ludzie odepchną z pogardą.
+Weź je, a starość moją niech pocieszy
+Ten, który krukom daje pożywienie,
+I wróblich piskląt w gnieździe nie opuszcza!
+Oto jest złoto — wszystko ci oddaję.
+A teraz pozwól, bym sługą był twoim.
+Mam starca minę, ale jestem czerstwy,
+Bo za lat młodych krwi nie przepalałem
+Gorących trunków zdradliwą trucizną,
+Ni się z bezwstydnym czołem uganiałem
+Za tym, co daje chorobę i niemoc.
+Starość też moja jest jak czerstwa zima:
+Chłodna, lecz świeża. Weź mnie z sobą, panie,
+We wszystkich twoich sprawach i przygodach
+Będę ci służył jak młodszy ode mnie.
+
+
+ORLANDO
+
+O, dobry starcze! Ty piękny obrazie
+Sług starej daty! Gdy sługa pracował
+Nie dla zarobku, ale z powinności!
+Nie dla dzisiejszych rodziłeś się czasów!
+Dziś w pracy każdy wyniesienia szuka,
+A gdy je znajdzie, żegnaj, wierna służbo!
+To nie twój zwyczaj. Ale, biedny starcze,
+Spróchniałe tylko hodować chcesz drzewo,
+Które w nagrodę pracy twej i trudu
+Nie wyda nawet ubogiego kwiatka.
+Lecz mniejsza o to, idźmy razem w drogę!
+A nim ostatni twój szeląg wydamy,
+Może gdzie ciche szczęście napotkamy.
+
+
+ADAM
+
+Więc w drogę! Wszędzie pójdę z tobą, panie,
+Wiernie, uczciwie, póki ducha stanie.
+Od lat siedmnastu służyłem w tym domu,
+Z ósmym krzyżykiem rzucam go bez sromu.
+Młodemu wolno w drzwi fortuny pukać,
+Z ósmym krzyżykiem nie czas szczęścia szukać.
+Próśb moich wszystkich fortuna wysłucha,
+Gdy ci niedłużny w Bogu oddam ducha.
+
+/ Wychodzą. /
+
+
+
+SCENA IV
+
+/ Las Ardeński. /
+
+/ Rozalinda, w męskim ubiorze; Celia, przebrana za pasterkę; Probierczyk. /
+
+
+ROZALINDA
+
+O, Jowiszu! Jak znużona moja dusza!
+
+
+PROBIERCZYK
+
+Mniejsza o duszę, gdyby tylko moje nogi nie były znużone.
+
+
+ROZALINDA
+
+Niewiele trzeba, żebym się jak kobieta rozpłakała, na wstyd mojego męskiego ubioru; ale powinnością jest moją pocieszać słabsze naczynia, bo powinnością jest płaszcza i rajtuzów dawać przykład spódnicom. Więc śmiało naprzód, dobra Alieno! Ach, znieście cierpliwie moje niedołęstwo! Nie jestem w stanie iść dalej.
+
+
+PROBIERCZYK
+
+Co do mnie, wolę znieść cię niż nieść cię, choć niosąc cię, nie niósłbym krzyża, bo jeśli się nie mylę, nie ma szeląga w twojej sakiewce.
+
+
+ROZALINDA
+
+Jesteśmy na koniec w Lesie Ardeńskim.
+
+
+PROBIERCZYK
+
+Więc jestem na koniec w Lesie Ardeńskim! Tym większy ze mnie błazen; kiedym był w domu, lepiej mi było; ale podróżny musi przestać na małym.
+
+
+ROZALINDA
+
+Zrób tak, dobry Probierczyku. Ale któż to się zbliża? Młodzieniec i starzec w uroczystej rozmowie.
+
+/ Wchodzą: Koryn i Sylwiusz. /
+
+
+KORYN
+
+To nie odmieni wzgardliwych jej tonów.
+
+
+SYLWIUSZ
+
+Korynie, gdybyś wiedział, jak ją kocham!
+
+
+KORYN
+
+Pojmuję, jam też kochał w swoim czasie.
+
+
+SYLWIUSZ
+
+Nie, nie pojmujesz; nadto jesteś stary,
+Choć dawniej mogłeś jak wierny kochanek
+Sen o północy płoszyć westchnieniami.
+Lecz jeśli miłość twa równą mej była
+(Choć wiem, że nigdy nikt jak ja nie kochał),
+Powiedz, do jakich najśmieszniejszych czynów
+Miłość cię wiodła mimo twojej woli?
+
+
+KORYN
+
+O, do tysiąca, tylko żem zapomniał.
+
+
+SYLWIUSZ
+
+Więc nigdy, nigdy jak ja nie kochałeś.
+Jeśliś zapomniał tysiącznych śmieszności,
+W które cię oczy kochanej wtrąciły,
+To nie kochałeś.
+Jeśliś nie siedział, jak ja teraz siedzę,
+Nudząc słuchacza lubej pochwałami,
+To nie kochałeś.
+Jeżeliś nigdy namiętnością gnany
+Od ludzkich twarzy jak ja nie uciekał,
+To nie kochałeś. Febe! Febe! Febe!
+
+/ Wychodzi. /
+
+
+ROZALINDA
+
+Biedny pasterzu! Twą sondując ranę,
+Na me nieszczęście własną mą odkrywam.
+
+
+PROBIERCZYK
+
+I ja też moją. Pamiętam, kiedym był zakochany, pałasz mój o kamień strzaskałem. „To twoja zapłata — rzekłem — za to, że o północy byłeś u mojej Anusi śmieszki”. Pamiętam, że całowałem jej kijankę i wymię krowy, które doiły jej pięknuchne, popadane rączęta. Pamiętam, że jak do niej paliłem koperczaki do strączka grochu; dostałem od niej dwa strączki w prezencie, a zwracając je zapłakany, rzekłem: „noś to na moją pamiątkę”. My, wierni kochankowie, dziwne stroimy figle; ale gdy wszystko jest śmiertelne w naturze, wszelka zakochana natura śmiertelnym dotknięta jest szaleństwem.
+
+
+ROZALINDA
+
+Sam nie wiesz, jak mądrze mówisz.
+
+
+PROBIERCZYK
+
+Nie, nie dowiem się, że mam rozum, póki o niego nóg nie połamię.
+
+
+ROZALINDA
+
+Szał pasterza romansowy
+Mego szału ma narowy.
+
+
+PROBIERCZYK
+
+I mojego także, tylko że mój już trochę wywietrzał.
+
+
+CELIA
+
+O, błagam, idźcie, spytajcie pasterza,
+Czyli za złoto nie sprzeda nam chleba.
+Omdlewam prawie z głodu i znużenia.
+
+
+PROBIERCZYK
+
+Hej, słuchaj, chłopie!
+
+
+ROZALINDA
+
+                        Milcz! To nie twój krewny.
+
+
+KORYN
+
+Kto woła?
+
+
+PROBIERCZYK
+
+                        Lepsi od ciebie, prostaku.
+
+
+KORYN
+
+To rzecz nietrudna.
+
+
+ROZALINDA
+
+                        Milcz! Powtarzam jeszcze!
+Dobry ci wieczór, przyjacielu!
+
+
+KORYN
+
+                        Dobry
+I panu także, i wszystkim wam razem!
+
+
+ROZALINDA
+
+Jeśli w tej puszczy dostanie za złoto
+Lub dobre słowo trochę pożywienia,
+Wiedź nas, gdzie znajdziem pokarm i spoczynek.
+Widzisz, jak dziewczę to długą podróżą
+Mdleje zmęczone.
+
+
+KORYN
+
+                        Lituję się nad nią
+I chciałbym, dla niej raczej niż dla siebie,
+Więcej mieć środków dania jej pomocy;
+Lecz jestem tylko innego pasterzem:
+Ja pasę owce, nie ja strzygę wełnę.
+Twarde jest serce w piersiach mego pana,
+Mało się troszczy, jakby gościnnością
+Niebieskie bramy mógł sobie otworzyć.
+Zresztą, te jego trzody, dom i łąki
+Stoją na sprzedaż; w niebytności pana
+Pasterska buda lichą da wam strawę;
+Lecz chodźcie ze mną; zastawię, co mogę,
+A dobra wola niech resztę zastąpi.
+
+
+ROZALINDA
+
+Kto chce zakupić trzodę i pastwiska?
+
+
+KORYN
+
+Ten młody pasterz, co tu był przed chwilą;
+Choć dziś o kupno niewiele się troszczy.
+
+
+ROZALINDA
+
+Jeśli to można uczciwym sposobem,
+Zakup pastwiska i chatę, i trzody,
+Potrzebny na to damy ci kapitał.
+
+
+CELIA
+
+Na służbie naszej lepsze znajdziesz strawne.
+Tu chętnie resztę spędziłabym życia.
+
+
+KORYN
+
+Majątek cały jeszcze jest na sprzedaż.
+Idźmy! Gdy cały poznacie inwentarz,
+Jeżeli ziemia, dochód, sposób życia,
+Są wam po myśli, wszystko wam zakupię
+I waszym wiernym sługą pozostanę.
+
+/ Wychodzą. /
+
+
+
+SCENA V
+
+/ Las Ardeński. /
+
+/ Amiens, Jakub i inni Panowie. /
+
+
+AMIENS
+
+*Pieśń*
+
+Kto drzemać chce ze mną,
+Gdzie strumień ten płynie,
+Pieśń nucić przyjemną,
+Jak ptaszek w gęstwinie,
+Niech za mną, niech za mną iść raczy,
+    Tu nie zobaczy
+Innego wroga śród kniei
+Prócz zimy, oprócz zawiei.
+
+
+JAKUB
+
+Jeszcze! Jeszcze! Proszę cię, jeszcze!
+
+
+AMIENS
+
+To cię o melancholię przyprawi, panie Jakubie.
+
+
+JAKUB
+
+Właśnie tego pragnę. Jeszcze proszę cię, jeszcze! Mogę z piosenek wysysać melancholię, jak łasica wysysa jaja. Jeszcze! Proszę cię, jeszcze!
+
+
+AMIENS
+
+Głos mój chrapliwy nie może ci się podobać.
+
+
+JAKUB
+
+Nie proszę cię, żebyś mi się podobał, proszę cię tylko, żebyś śpiewał. Dalej, zaczynaj drugą zwrotkę; wszak się to u was nazywa zwrotką?
+
+
+AMIENS
+
+Jak ci się podoba, panie Jakubie.
+
+
+JAKUB
+
+Mniejsza o nazwisko; nic mi nie winno. Chceszli śpiewać?
+
+
+AMIENS
+
+Raczej na twoje żądanie niż dla mojej przyjemności.
+
+
+JAKUB
+
+Za to też, jeśli kiedykolwiek dziękować komu będę, tobie podziękuję; tylko że co ludzie komplementem nazywają, jest jak dwóch małp spotkanie. Kiedy mi kto serdecznie dziękuje, zdaje mi się, że mu grosz dałem, za który dziadowską płaci mi monetą. Dalej, zaczynaj! A kto śpiewać nie chce, niech trzyma język za zębami.
+
+
+AMIENS
+
+Niech i tak będzie: skończę piosenkę. Tymczasem stół zastawcie; książę chce pić pod tym drzewem i dzień cały cię szuka.
+
+
+JAKUB
+
+A ja dzień cały przed nim uciekam. Nadto zapalczywy dla mnie z niego dysputant. Rozmyślam o tylu co i on rzeczach, ale, dzięki Bogu, nie szukam z tego chluby. Dalej świegotaj!
+
+
+WSZYSCY
+
+*Pieśń*
+
+    Kto nie chce czczej sławy,
+    Na słońcu czas pędzi,
+    Sam szuka swej strawy,
+    Je, co ma, nie zrzędzi,
+Niech za mną, niech za mną iść raczy,
+    Tu nie zobaczy
+    Innego wroga śród kniei,
+    Prócz zimy, oprócz zawiei.
+
+
+JAKUB
+
+Dodam do twojej melodii jedną zwrotkę, którą wczoraj na przekór mojej wenie napisałem.
+
+
+AMIENS
+
+Chętnie ją zaśpiewam.
+
+
+JAKUB
+
+Słuchaj.
+
+    Przez głupie natchnienie
+    Kto osłem chce zostać,
+    Porzucić swe mienie,
+    Do puszczy się dostać,
+Ducdame, ducdame, ducdame,
+    Tu takie same,
+    Jak on jest, osły zobaczy,
+    Jeśli tu do mnie przyjść raczy.
+
+
+AMIENS
+
+Co się rozumie przez ducdame?
+
+
+JAKUB
+
+To greckie zaklęcie, żeby głupców wkoło zebrać. A teraz pójdę spać, a jeśli nie będę mógł zasnąć, będę ze wszystkich pierworodnych Egiptu szydził.
+
+
+AMIENS
+
+A ja pójdę szukać księcia, bo uczta już gotowa.
+
+/ Rozchodzą się. /
+
+
+
+SCENA VI
+
+/ Las Ardeński. /
+
+/ Orlando i Adam. /
+
+
+ADAM
+
+Kochany panie, nie mogę iść dalej; umieram z głodu. Tu się położę i mój grób wymierzę. Żegnam cię, dobry panie.
+
+
+ORLANDO
+
+Jak to, Adamie? Nie więcej masz serca? Żyj jeszcze trochę, zbierz sił trochę; pokrzep się trochę. Jeśli w tym strasznym lesie błąka się jaki zwierz dziki, albo sam pokarmem jego będę, albo ci go na pokarm przyniosę. Bliżej jesteś śmierci wyobraźnią niż brakiem sił. Przez miłość dla mnie, pokrzep się Adamie! Przez chwilę jeszcze trzymaj śmierć na długość ramienia; wrócę niebawem; jeśli nic nie przyniosę, pozwolę ci umrzeć, lecz jeśli umrzesz przed powrotem, powiem, że pogardziłeś moją pracą. Wybornie! Rzeźwość powraca i ja też za chwilę wrócę. Ale tu za zimne dla ciebie powietrze; poniosę cię do jakiego dogodniejszego schronienia. Nie umrzesz dla braku żywności, jeśli w całej tej pustyni jest jedna żywa dusza. Nie trać otuchy, dobry Adamie!
+
+/ Wychodzą. /
+
+
+
+SCENA VII
+
+/ Las Ardeński. — Stół zastawiony. /
+
+/ Książę wygnany, Amiens, Panowie i Służba. /
+
+
+KSIĄŻĘ
+
+Zapewne w jakie przemienił się zwierzę,
+Bo darmo w ludzkiej szukam go postaci.
+
+
+1 PAN
+
+Chwila jest ledwo, jak się stąd oddalił;
+Dobrej był myśli i słuchał piosenek.
+
+
+KSIĄŻĘ
+
+Jeśli on, z samych rozdźwięków złożony,
+Harmonię kocha, to lękać się trzeba
+W niebieskich sferach jakiego rozdźwięku.
+Powiedz mu, proszę, że mówić z nim pragnę.
+
+/ Wchodzi Jakub. /
+
+
+1 PAN
+
+Sam wraca, żeby oszczędzić mi pracy.
+
+
+KSIĄŻĘ
+
+Cóż to jest, panie? Cóż to jest za życie?
+Dlaczego biedni twoi przyjaciele
+Żebrać o twoje muszą towarzystwo?
+Lecz skąd ta radość?
+
+
+JAKUB
+
+                        Napotkałem błazna,
+Błazna w tym lesie, pstrokatego błazna,
+Jak chlebem żyję, napotkałem błazna.
+Leżał na ziemi, na słońcu się kąpał,
+Z pani fortuny w pięknych szydził słowach,
+W słowach dobranych, choć pstrokaty błazen
+«Dzień dobry, błaźnie», rzekłem, a on na to:
+«Nie zwij mnie błaznem, póki mi fortuny
+Niebo nie ześle». Tu dobył kompasu,
+A poglądając zagasłym nań okiem,
+Rzekł bardzo mądrze: «Dziesiąta godzina;
+Tu widzieć można, jak świat nasz się kręci.
+Godzina temu, a była dziewiąta,
+Godzina jeszcze, będzie jedenasta;
+Tak co godzina rośniem, dojrzewamy,
+Tak co godzina gnijemy, gnijemy
+I tak się kończy powieść». Na te słowa,
+Pełne morału, pstrokatego błazna
+Jak kogut płuca moje piać zaczęły,
+Że błazen takim filozofem został.
+Bez przerwy całą śmiałem się godzinę,
+Na własnym jego mierzoną kompasie.
+O, zacny błazen! O, szlachetny błazen!
+Nie ma ubrania jak pstrokata odzież.
+
+
+KSIĄŻĘ
+
+Cóż to za błazen?
+
+
+JAKUB
+
+                        Błazen wielkiej ceny!
+Był też dworakiem i mówi, że damy,
+Byleby młode były i urodne,
+Wszystkie dar mają dziwny, że to wiedzą.
+Mózg jego suchy jak suchar ostatni
+W końcu podróży dziwne ma komórki
+Spostrzeżeń pełne, które posiekane
+Na świat wyrzuca.
+O, gdybym był błaznem!
+Pstrokata odzież, to cel mej ambicji.
+
+
+KSIĄŻĘ
+
+Dam ci ją chętnie.
+
+
+JAKUB
+
+                        O nią tylko proszę,
+Lecz pod warunkiem, że z waszych umysłów
+Chwast wyplewicie: dziwne przywidzenie,
+Że jestem mądry; że dacie mi wolność,
+Jak wiatr na morzu wiać, na kogo zechcę,
+Bo to odwieczny błaznów jest przywilej.
+Komu najbardziej błazeństwo dogryzie,
+Ten się najgłośniej śmiać musi; a czemu?
+Przyczyna widna, jak wielki gościniec:
+Ten, kogo błazen mądrym słowem draśnie,
+Błazeństwo robi, jeśli mimo bólu
+Nie przyjmie ciosu obojętną twarzą;
+Inaczej błazna strzał na wiatr puszczony
+Wykryje światu mądrego błazeństwo.
+Daj mi pstrokatą odzież, daj mi wolność
+Mówić, co myślę, a ja ci powoli
+Oczyszczę świata chorowite ciało,
+Byle cierpliwie moje brał lekarstwo.
+
+
+KSIĄŻĘ
+
+Wstydź się, Jakubie! Czy wiesz co byś zrobił?
+
+
+JAKUB
+
+O zakład, wiele zrobiłbym dobrego.
+
+
+KSIĄŻĘ
+
+Na grzech fukając, grzech zrobiłbyś wielki:
+Bo w swoim czasie byłeś rozpustnikiem,
+Jak bydlę żądłem zmysłowości kłute,
+A wszystkich wrzodów naciąg jadowity,
+W latach rozpustnej zebrany swawoli,
+Pragnąłbyś teraz na świat cały rozlać.
+
+
+JAKUB
+
+Czyż kto na ludzką piorunuje dumę
+Jedną ma tylko osobę na oku,
+Gdy grzech ten kraje zalewa jak morze,
+Aż do ostatnich granic swej potęgi?
+Którąż kobietę w mieście oskarżyłem,
+Jeżeli powiem: w mieście tym kobiety
+Książąt skarb noszą na niegodnym ciele?
+Któraż mi powie: mnie miałeś na myśli,
+Gdy jest do swojej podobną sąsiadki?
+Lub gdzie jest prostak, co by mi powiedział:
+Nie ty płaciłeś za moje świecidła,
+Gdyby do siebie słów mych nie stosował,
+I sam swych błazeństw piętnem ich nie znaczył?
+Pokaż więc, w czym go język mój pokrzywdził.
+On sam się krzywdzi, jeśli prawdę mówię,
+A byle tylko do winy się nie czuł,
+Nagana moja leci jak gęś dzika.
+Bez właściciela. — Lecz któż to nadbiega?
+
+/ Wbiega Orlando z dobytą szablą. /
+
+
+ORLANDO
+
+Stójcie! Przestańcie na tym, coście zjedli.
+
+
+JAKUB
+
+Jeszczem nic nie jadł.
+
+
+ORLANDO
+
+                        I nic jeść nie będziesz,
+Póki zgłodniały części swej nie weźmie.
+
+
+JAKUB
+
+Cóż to za kogut, co tak dziwnie pieje?
+
+
+KSIĄŻĘ
+
+Czy niedostatek robi cię zuchwałym
+Lub czy z pogardy dobrych obyczajów
+Tak obcym wszelkiej zdajesz się grzeczności?
+
+
+ORLANDO
+
+Odgadłeś prawdę; ostre głodu ciernie
+Zdarły mi słodkiej grzeczności znamiona;
+Wyrosłem jednak śród ćwiczonych ludzi
+I odebrałem trochę wychowania.
+Ale powtarzam, umrze, kto się ręką
+Dotknąć odważy jednego owocu,
+Póki nie wezmę potrzebnej mi cząstki.
+
+
+JAKUB
+
+Jeśli rozsądna, uczciwa odpowiedź
+Nie dość dla ciebie, umrzeć będę musiał.
+
+
+KSIĄŻĘ
+
+Czego ci trzeba? Dobrocią wymożesz
+Więcej, niż gwałtem zmusisz do dobroci.
+
+
+ORLANDO
+
+Jeść mi co dajcie, bo umieram z głodu.
+
+
+KSIĄŻĘ
+
+Więc jedz i siadaj, i bądź naszym gościem.
+
+
+ORLANDO
+
+Ach, co za dobroć! Darujcie mi, proszę!
+Jam myślał, że tu wszystko jest okrutne,
+Dlatego postać surową przybrałem.
+Ale ktokolwiek jesteście, panowie,
+Co w tej dalekiej, niedostępnej puszczy,
+W posępnym cieniu dębów starożytnych
+Zapominacie, jak płyną godziny,
+Jeśliście kiedy dnie piękniejsze znali
+Tam, gdzie dzwon wołał ludzi do kościoła,
+U dobrych ludzi siadali za stołem,
+Jeśli z ócz waszych łza kiedy ściekała,
+Jeśli nieobce wam jest miłosierdzie,
+Niech wasza dobroć przymus mój zastąpi
+I w tej nadziei ze wstydem miecz chowam.
+
+
+KSIĄŻĘ
+
+Tak jest, znaliśmy kiedyś dnie piękniejsze,
+I do kościoła dzwon święty nas wołał,
+U dobrych ludzi byliśmy za stołem,
+Łzy nam z ócz święta wyciskała litość,
+Dlatego usiądź i dla twej potrzeby
+Z tego, co mamy, bierz z całą ufnością.
+
+
+ORLANDO
+
+O, jeszcze krótką zaczekajcie chwilę,
+Abym jak sarna po koźlę me pobiegł
+I dał mu pokarm. Tam biedny jest starzec,
+Który przez miłość dla mnie długą drogę
+Wlókł słabe kroki; do ust nic nie wezmę,
+Aż on pokrzepi ciało powalone
+Od dwóch tyranów: głodu i starości.
+
+
+KSIĄŻĘ
+
+Idź, śpiesz się! Wszystko na powrót wasz czeka.
+
+
+ORLANDO
+
+Za waszą dobroć niech Bóg wam zapłaci!
+
+/ Wychodzi. /
+
+
+KSIĄŻĘ
+
+Nieszczęście, widzisz, nie nas tylko ściga;
+Szeroka ziemia, jak teatr olbrzymi,
+Smutniejsze widzom przedstawia dramaty,
+Niż ten, na którym odgrywamy rolę.
+
+
+JAKUB
+
+Świat jest teatrem, aktorami ludzie,
+Którzy kolejno wchodzą i znikają.
+Każdy tam aktor niejedną gra rolę,
+Bo siedem wieków dramat życia składa.
+W pierwszym więc akcie słabe niemowlątko
+Na piersiach mamki ślini się i kwili;
+Następnie student z teką, zapłakany,
+Z rumianą twarzą jak poranne niebo,
+Ślimaczym krokiem wlecze się do szkoły;
+Potem kochanek jak miech wzdychający
+Pisze sonety do brwi swej kochanki;
+Z kolei żołnierz, dziwnych przekleństw pełny,
+Z brodą jak kozioł, drażliwym honorem,
+Żywy, gwałtowny, do sporów pochopny
+Leci w gardzieli armat szukać sławy,
+Tej pustej bańki; następnie więc sędzia
+Z okrągłym brzuchem, na kapłonach spasły,
+Z surowym okiem, podstrzyżoną brodą,
+Zdań mądrych pełny i nowych przykładów,
+Gra swoją rolę; później, w szóstym wieku,
+Chudy pantalon w pantoflach się zjawia,
+Nos w okulary ujął, a u boku
+Sakwy zawiesił; w przestronnych pończochach,
+Które zachował od lat swej młodości
+Gubią się drżące, pokurczone łydki,
+Głos męski wrócił do dziecka dyszkantu,
+Cienki, świszczący jak piszczałki tony;
+Aż i na koniec przychodzi akt siódmy,
+Koniec historii zdarzeń dziwnych pełnej
+Pamięć zagasła w drugim niemowlęctwie,
+Bez zębów, oczu, smaku, bez wszystkiego.
+
+/ Wchodzi Orlando z Adamem. /
+
+
+KSIĄŻĘ
+
+Witaj nam! Posadź szanowny twój ciężar,
+Niech się pokrzepi.
+
+
+ORLANDO
+
+                        Dziękuję za niego.
+
+
+ADAM
+
+I dobrze robisz, bo zbyt jestem słaby,
+Bym sam dziękował.
+
+
+KSIĄŻĘ
+
+                        Więc żwawo, do łyżki!
+Wasze mi losy później opowiecie.
+A ty, kuzynie, śpiewaj nam co teraz.
+
+
+AMIENS
+
+*Pieśń*
+
+I.
+Zimne wiatry od północy
+Dmijcie, dmijcie z całej mocy,
+Ząb wasz kąsa mniej głęboko,
+Niż ząb krwawy niewdzięcznika,
+Bo choć kości dreszcz przenika,
+To nie widzi was me oko.
+
+Hej dana! Śpiewajmy, co siły nam stanie,
+Bo przyjaźń szalbierstwem, szaleństwem kochanie.
+Więc dana, hej dana! Póki stanie tchu,
+Bo nie ma żywota, jak żywot nasz tu.
+
+II.
+Niech śniegami niebo prószy,
+Zimniej leży na dnie duszy
+Dobry czyn nie zawdzięczany;
+I wiatr, co górami wstrząsa,
+Mniej dotkliwym zębem kąsa
+Niż przyjaciel zapomniany.
+
+Hej dana! Śpiewajmy, co siły nam stanie,
+Bo przyjaźń szalbierstwem, szaleństwem kochanie.
+Więc dana, hej dana! Póki stanie tchu,
+Bo nie ma żywota, jak żywot nasz tu.
+
+
+KSIĄŻĘ
+
+Jeśliś jest synem dobrego Rolanda,
+Jak mi otwarcie szepnąłeś do ucha
+I jak me oczy w wszystkich twoich rysach
+Jego żyjący spostrzegają obraz,
+Stokroć nam witaj! Widzisz we mnie księcia,
+Który serdecznie ojca twego kochał.
+I ty nam witaj, starcze! Do jednego ze Sług:
+                        Daj mu rękę.
+Ty daj mi twoją; po chwili wytchnienia
+Opowiesz smutne twoje przeznaczenia.
+
+/ Wychodzą. /
+
+
+
+
+AKT TRZECI
+
+
+
+SCENA I
+
+/ Pokój w pałacu. /
+
+/ Książę Fryderyk, Oliwer, Panowie i Służba. /
+
+
+KSIĄŻĘ FRYDERYK
+
+Odtąd na oczy ci się nie pokazał?
+To być nie może. Gdyby mej natury
+Dobroć nie była najlepszą połową,
+Skoro cię trzymam, nie szukałbym dalej
+Zemsty mej celu. Lecz słuchaj mnie dobrze:
+Znajdź twego brata, gdziekolwiek się kryje;
+Szukaj go z świecą, rok ci na to daję,
+Przyprowadź mi go żywym lub umarłym,
+Albo uciekaj z granic mego państwa;
+Ja sekwestruję twój dom, twoje ziemie,
+Dopóki brat twój ust własnych zeznaniem
+Mym podejrzeniom nie położy końca.
+
+
+OLIWER
+
+O, książę, gdybyś w sercu moim czytał!
+Ja nigdy brata mego nie kochałem.
+
+
+KSIĄŻĘ FRYDERYK
+
+Łotrze obrzydły!
+Wypchnijcie go za drzwi!
+A z mych urzędów, komu to należy,
+Niech wszystkie dobra jego oszacuje,
+I niech bez zwłoki z domu go wyrzuci.
+
+
+
+SCENA II
+
+/ Las Ardeński. /
+
+/ Orlando, z papierem w ręku. /
+
+
+ORLANDO
+
+Tu zawieszę me pieśni jak uczuć mych znaki:
+A ty, czysta Dyjano, śród niebios otchłani,
+Czytaj pogodnym okiem, blade mierząc szlaki,
+Imię twojej kapłanki, życia mego pani.
+O Rozalindo! Drzewa te będą księgami,
+Wyryję myśli moje na twardej ich korze,
+Aby się wszędzie karmił twoich cnót świadkami
+Wędrowiec zabłąkany w tym samotnym borze.
+Niechaj więc drzewo każde imię tej zachowa,
+Która czystszą, piękniejszą nad wszystkie jest słowa.
+
+/ Wychodzi. — Wchodzą: Koryn i Probierczyk. /
+
+
+KORYN
+
+Jakże ci się podoba to pasterskie życie, panie Probierczyku?
+
+
+PROBIERCZYK
+
+Muszę wyznać, pasterzu, iż ze względu na samo siebie niezłe jest to życie, ale ze względu, że to jest pasterskie życie, życie to nic niewarte. Ze względu, że jest samotne, bardzo mi się podoba; ale ze względu, że jest odosobnione, obrzydzenie mi sprawia. Ze względu, że jest na wolnym powietrzu, lubię je; ale ze względu, że nie na dworze, nudzi mnie. Że to jest życie skromne, bardzo mi jest po myśli; ale że jest ubogie, wcale mi nie do smaku. Czy masz w sobie co filozofii, pasterzu?
+
+
+KORYN
+
+Nie więcej, jak że wiem, iż im kto słabszy, tym z nim gorzej; że kto nie ma pieniędzy, dostatków, uciechy, nie ma trzech dobrych przyjaciół; że własnością deszczu jest moczyć, a ognia palić; że na dobrym pastwisku tyją owce; że wielką przyczyną nocy jest zachód słońca; że komu nie dała rozumu natura lub sztuka, żalić się może na brak dobrego wychowania lub też z tępego pochodzi rodu.
+
+
+PROBIERCZYK
+
+To jest naturalna filozofia. Czy byłeś kiedy na dworze, pasterzu?
+
+
+KORYN
+
+Nie, nigdy.
+
+
+PROBIERCZYK
+
+Będziesz więc w piekle się smażył.
+
+
+KORYN
+
+Uchowaj Boże! Mam nadzieję. —
+
+
+PROBIERCZYK
+
+Będziesz się smażył jak źle upieczone jaje — po jednej stronie.
+
+
+KORYN
+
+Dlatego, że nie byłem na dworze? Jak tego dowiedziesz?
+
+
+PROBIERCZYK
+
+Bardzo łatwo. Jeśli nigdy nie byłeś na dworze, nie widziałeś nigdy dobrych obyczajów; jeśli nigdy nie widziałeś dobrych obyczajów, musisz mieć złe obyczaje, a złe obyczaje są grzechem, a grzech prowadzi do piekła. Jak widzisz, krucho z tobą, pasterzu.
+
+
+KORYN
+
+Bynajmniej, Probierczyku; bo co na dworze jest dobrym obyczajem, byłoby na wsi tylko śmiesznym obyczajem, jak wiejskie maniery byłyby śmieszne na dworze. Mówiłeś mi, że na dworze nie kłaniacie się, ale całujecie rękę na znak pozdrowienia; byłoby to brudne pozdrowienie, gdyby dworzanie byli pasterzami.
+
+
+PROBIERCZYK
+
+Dowiedź mi tego jasno a krótko; słucham.
+
+
+KORYN
+
+Nic łatwiejszego. Ciągle macamy owce, a owcze skóry, jak ci wiadomo, są pełne tłuszczu.
+
+
+PROBIERCZYK
+
+A czy się nie pocą dworzanie? A barania tłustość czy nie tak zdrowa jak pot ludzki? Lichy dowód, lichy dowód! Szukaj lepszego. Czekam.
+
+
+KORYN
+
+Prócz tego nasze ręce są twarde.
+
+
+PROBIERCZYK
+
+Tym łatwiej je poczują wasze usta. I to lichy dowód; szukaj lepszego; dalej!
+
+
+KORYN
+
+Ręce nasze smarowane są często dziegciem lekarstw na owcze choroby; chceszli, żebyśmy dziegieć całowali? Ręce dworzan pachną piżmem.
+
+
+PROBIERCZYK
+
+O, pusta głowo! Ty zgniłe mięso przy dobrej pieczeni! Słuchaj mędrszych i ucz się rozumu: piżmo gorszego jest od dziegciu pochodzenia; to nieczysty upływ kota. Raz jeszcze powtarzam, szukaj lepszego dowodu.
+
+
+KORYN
+
+Za dworski dla mnie twój dowcip; poddaję się.
+
+
+PROBIERCZYK
+
+Poddajesz się diabłu w szpony? Boże ci dopomóż, pusta pałko! Boże, zdejm ci bielmo! Boś głupiutki.
+
+
+KORYN
+
+Mospanie, jestem uczciwy parobek i co jem, i co noszę, zarobiłem; nie mam do nikogo nienawiści; nie zazdroszczę niczyjemu szczęściu; raduję się z cudzej pomyślności, a cierpliwie znoszę własną biedę; najdumniejszy jestem, gdy widzę, że moje owce szczypią trawę, a moje jagnięta ssą maciory.
+
+
+PROBIERCZYK
+
+Nowy tylko grzech twojej głupoty; parzyć owce z trykami i żyć wszeteczeństwem bydląt! Być rajfurem barana, zaprzedawać w najniedobrańsze małżeństwo dwunastomiesięczną owieczkę krzyworogiemu, staremu rogalowi trykowi! Jeśli nie pójdziesz do piekła to chyba, że diabeł nie chce u siebie pastuchów. Nie widzę innego dla ciebie ratunku.
+
+
+KORYN
+
+Otóż nadchodzi Ganimedes, młody brat mojej nowej pani.
+
+
+ROZALINDA
+
+/ wchodzi czytając: /
+
+Od Paryża do Berlina
+Pierwszą perłą Rozalina.
+Każdym wiatrem tknięta trzcina
+Szumi: piękna Rozalina.
+Wszelka piękność czoło zgina,
+Gdzie zabłyśnie Rozalina.
+Świat o wszystkim zapomina,
+W myślach jedna Rozalina.
+
+
+PROBIERCZYK
+
+Podejmuję się przez osiem lat tak rymować, z wyjątkiem godzin obiadu, wieczerzy i snu; wiersze idą gęsiego jak na targ przekupki.
+
+
+ROZALINDA
+
+Milcz, błaźnie!
+
+
+PROBIERCZYK
+
+Słuchaj tylko próbki:
+
+Gdy samicy chce ptaszyna,
+Niech szuka, gdzie Rozalina.
+Zakochana co kocina
+Miauczy? «Gdzie jest Rozalina?»
+Bez podszewki zła płaszczyna,
+Chce podszewki Rozalina.
+Wiąże w snop, kto zboże ścina,
+Z snopem na wóz Rozalina;
+Słodki orzech, zła łupina,
+Taki orzech Rozalina.
+Najwonniejsza róż krzewina
+Ma kolce jak Rozalina.
+
+Fałszywy to galop poetyczny. Skąd ci myśl przyszła takiego rodzaju wierszami się zarazić?
+
+
+ROZALINDA
+
+Uspokój się, tępy błazenku, wiersze te znalazłam na drzewie.
+
+
+PROBIERCZYK
+
+To wyznać trzeba, że kwaśne jabłka drzewo to wydaje.
+
+
+ROZALINDA
+
+W jego więc płonkę zaszczepię ciebie, a potem niespliki, a wyda najwcześniejszy ze wszystkich drzew owoc, bo zgnije, nim na pół dojrzeje, co stanowi główną zaletę niesplika.
+
+
+PROBIERCZYK
+
+Powiedziałaś; ale czy do sensu lub nie do sensu, niech los rozsądzi.
+
+/ Wchodzi Celia czytając. /
+
+
+ROZALINDA
+
+Cicho! Zbliża się siostra moja zaczytana; odejdźmy na stronę.
+
+
+CELIA
+
+/ czyta: /
+
+Puszcza ta puszczą dłużej nie będzie,
+    Choć nie ma chatek ni ludzi;
+Krocie języków nawieszam wszędzie,
+    A każdy piosnkę rozbudzi.
+Ten będzie śpiewał, jak szybko bieży
+    Pielgrzymka ludzkiego życia,
+Skoro piędź jedna drogę rozmierzy
+    Do mogiły od powicia.
+Jak łatwo pęka, niech tamten śpiewa,
+    Przyjacieli węzeł bratni,
+Lecz najpiękniejsze gałęzie drzewa,
+    Wiersz zwrotki każdej ostatni
+Niech Rozalindy głosi przymioty;
+    Niech wszystkie czytają oczy,
+Że nieba piękność i nieba cnoty
+    Wzór jeden mały jednoczy.
+Wielka natura, jak niebo chciało,
+    W alembiku swoich cudów,
+Dystylowała na jedno ciało
+    Piękności słynne u ludów.
+Greckiej Heleny jasne oblicze,
+    Oczu Kleopatry żywość
+I Atalanty wdzięki dziewicze,
+    Smutnej Lukrecji wstydliwość.
+Takie ze szczodrej natury ręki
+    Rozalinda wzięła dary;
+Od jednych oczy, od drugich wdzięki,
+    Od wszystkich urok bez miary.
+
+Takim urody Bóg ubrał ją wieńcem,
+Mnie zrobił wiecznym urody tej jeńcem.
+
+
+ROZALINDA
+
+O miłosierny Jowiszu! Jak nudną homilią miłości nudziłaś twoich parafianów, a nie zawołałaś ani razu: „dobrzy ludzie, proszę o chwilę cierpliwości”.
+
+
+CELIA
+
+A to co znowu? Na zasadzce przyjaciele? Oddal się pasterzu, a i ty z nim, błazenku.
+
+
+PROBIERCZYK
+
+Dalej, pasterzu, rejterujmy z honorem, a jeśli nie z bronią i bagażami, to przynajmniej z torbą i rupieciami.
+
+/ Wychodzą. /
+
+
+CELIA
+
+Czy słyszałaś te wiersze?
+
+
+ROZALINDA
+
+Słyszałam wszystkie, a nawet trochę więcej, bo niektóre miały więcej stóp, niż znieść mogły wiersze.
+
+
+CELIA
+
+Mniejsza o to; jeśli stóp nie mogły znieść wiersze, to może stopy poniosą wiersze.
+
+
+ROZALINDA
+
+Kiedy stopy także były koślawe, a że nie mogły same ostać się bez wiersza, stanęły koślawo do wiersza.
+
+
+CELIA
+
+Ale czy słyszałaś bez zadziwienia, że imię twoje wisi na gałęziach, stoi ryte na korze?
+
+
+ROZALINDA
+
+Z dziewięciu dni dziwu minęło już siedem przed twoim przybyciem, bo patrz, co znalazłam na palmowym drzewie. Nie orymowano mnie tak od czasów Pitagorasa, kiedy byłam irlandzkim szczurem — co sobie ledwo przypominam.
+
+
+CELIA
+
+Czy domyślasz się, kto je pisał?
+
+
+ROZALINDA
+
+Czy jaki mężczyzna?
+
+
+CELIA
+
+Z łańcuszkiem na szyi, który kiedyś nosiłaś. Bledniejesz?
+
+
+ROZALINDA
+
+Kto? Powiedz, proszę.
+
+
+CELIA
+
+O, Panie! Panie! Kochankom spotkać się niełatwo; lecz i góry spotkać się mogą, jeśli je trzęsienie ziemi poruszy.
+
+
+ROZALINDA
+
+Lecz przecie, kto je pisał?
+
+
+CELIA
+
+Czy podobna?
+
+
+ROZALINDA
+
+Błagam cię najpokorniej, najnatrętniej, powiedz, kto je pisał?
+
+
+CELIA
+
+O, cuda! cuda! Najcudowniejsze cuda! I raz jeszcze cuda cudowniejsze nad wszystkie cuda!
+
+
+ROZALINDA
+
+Przez Boga! Czyż myślisz, iż dlatego, że noszę męski ubiór i cierpliwość moja także nosi kamizelkę i spodnie? Jeszcze odrobina zwłoki, a zginę na oceanie przypuszczeń. Błagam cię, powiedz, kto je pisał, a prędko. Chciałabym, żebyś się jąkała, aby z ust twoich wylało się tajemnicze imię poety, jak wino z butelki o wąskiej szyi: albo za wiele na raz, albo nic. Odkorkuj usta, żebym mogła pić twoje nowiny.
+
+
+CELIA
+
+Tylko pij ostrożnie, bo możesz połknąć człowieka.
+
+
+ROZALINDA
+
+Czy boże z niego stworzenie? Co za gatunek człowieka? Czy głowa jego warta kapelusza, a brody podbródek?
+
+
+CELIA
+
+Jak na teraz niewielką ma brodę.
+
+
+ROZALINDA
+
+Bóg mu da większą, jeśli będzie wdzięczny. Ale gotowa jestem czekać, aż broda mu urośnie, byleś mi dała poznać bez zwłoki jego podbródek.
+
+
+CELIA
+
+To Orlando, który jednym zamachem podbił zapaśnika i twoje serce.
+
+
+ROZALINDA
+
+Precz z żartami! Mów poważnie, jak uczciwej dziewce przystoi.
+
+
+CELIA
+
+Na uczciwość, kuzynko, to on.
+
+
+ROZALINDA
+
+Orlando?
+
+
+CELIA
+
+Orlando.
+
+
+ROZALINDA
+
+Ach, Boże, mój Boże! Co ja pocznę z moją kamizelką i spodniami? Co robił, gdyś go spostrzegła? Co powiedział? Jak wyglądał? Jak był ubrany? Co tu robi? Czy pytał się o mnie? Gdzie mieszka? Jak rozstał się z tobą? Kiedy zobaczysz go znowu? Odpowiedz mi jednym słowem.
+
+
+CELIA
+
+To pożycz mi wprzódy ust Gargantuy, bo słowo takie za długie na usta dzisiejszej miary. Na tyle pytań tak lub nie odpowiedzieć to trudniejsza sprawa niż wyrecytować katechizm.
+
+
+ROZALINDA
+
+Ale czy wie, że jestem za mężczyznę przebrana? Czy wygląda tak świeżo jak w dniu zapasów?
+
+
+CELIA
+
+Łatwiej atomy policzyć niż odpowiedzieć na pytanie zakochanej. Lecz pokosztuj trochę, jak go znalazłam i smakuj powoli każde słowo. Znalazłam go pod drzewem jak opadłą żołądź.
+
+
+ROZALINDA
+
+Sprawiedliwie drzewo to można nazwać drzewem Jowisza, kiedy z niego takie spadają owoce.
+
+
+CELIA
+
+Ale słuchaj dalej powieści, dobra pani.
+
+
+ROZALINDA
+
+Więc słucham.
+
+
+CELIA
+
+Leżał tedy rozciągnięty jak rycerz raniony.
+
+
+ROZALINDA
+
+Widok, jakkolwiek smutny, przystoi dobrze miejscu.
+
+
+CELIA
+
+Okiełznaj, proszę, język, bo bryka nie w porę. Miał na sobie ubiór strzelca.
+
+
+ROZALINDA
+
+O, ubiór złowróżbny! Przychodzi przeszyć mi serce.
+
+
+CELIA
+
+Chciałam wyśpiewać moją piosenkę bez przedgrywki, ale mi ciągle mącisz melodię.
+
+
+ROZALINDA
+
+Czy zapomniałaś, że jestem kobietą? Co myślę, muszę wypowiedzieć. Ale moja droga, mów dalej.
+
+/ Wchodzi: Orlando i Jakub. /
+
+
+CELIA
+
+Mącisz mi szyki. Lecz cicho, czy to nie on?
+
+
+ROZALINDA
+
+To on. Odejdźmy na stronę i słuchajmy.
+
+/ Celia i Rozalinda odchodzą na stronę. /
+
+
+JAKUB
+
+Dziękuję ci za twoje towarzystwo, choć na uczciwość, równie chętnie byłbym sam został.
+
+
+ORLANDO
+
+I ja to samo; przez grzeczność jednak dziękuję ci za twoje towarzystwo.
+
+
+JAKUB
+
+Bóg z tobą! A im rzadziej spotkamy się, tym lepiej.
+
+
+ORLANDO
+
+Bądźmy sobie, ile można, obcymi.
+
+
+JAKUB
+
+Proszę cię tylko, na przyszłość nie psuj drzew, ryjąc miłosne wiersze na ich korze.
+
+
+ORLANDO
+
+A ja cię proszę, nie psuj na przyszłość wierszy lichym czytaniem.
+
+
+JAKUB
+
+Imię twojej kochanki Rozalinda?
+
+
+ORLANDO
+
+Zgadłeś.
+
+
+JAKUB
+
+Nie podoba mi się jej imię.
+
+
+ORLANDO
+
+Przy chrzcie jej nikt nie myślał, żeby ci się podobać.
+
+
+JAKUB
+
+Jakiego jest wzrostu?
+
+
+ORLANDO
+
+Właśnie na wysokość mojego serca.
+
+
+JAKUB
+
+Nie zbywa ci na pięknych odpowiedziach. Czy nie miałeś przypadkiem zażyłości z żonami jubilerów i czy twojej mądrości na ich pierścionkach nie wyczytałeś?
+
+
+ORLANDO
+
+Bynajmniej, znalazłem je na tych samych tapetach, na których ty nauczyłeś się twoich pytań.
+
+
+JAKUB
+
+Żywy masz dowcip, jakby z pięt Atalanty ulepiony. Siadaj przy mnie, a wspólnie szydzić będziemy z naszych kochanek, ze świata i z naszej biedy.
+
+
+ORLANDO
+
+Nie chcę szydzić z żadnego żyjącego stworzenia, siebie wyjąwszy, bo najlepiej znam swe liczne, własne wady.
+
+
+JAKUB
+
+Twoja największa wada jest, że jesteś zakochany.
+
+
+ORLANDO
+
+A tej wady nie wymienię na twoją najlepszą cnotę. Nudzisz mnie.
+
+
+JAKUB
+
+Na uczciwość, szukałem błazna, gdym cię spotkał.
+
+
+ORLANDO
+
+Błazen ten utonął w strumieniu; spojrzyj na dno, a zobaczysz go.
+
+
+JAKUB
+
+Zobaczę własną postać.
+
+
+ORLANDO
+
+Która dla mnie warta jest błazna albo zera.
+
+
+JAKUB
+
+Nie chcę bawić z tobą dłużej. Bądź zdrów, piękny panie Amorku!
+
+
+ORLANDO
+
+Cieszę się z twego odejścia. Bądź zdrów, dobry panie Melancholio!
+
+/ Wychodzi Jakub. — Rozalinda i Celia zbliżają się. /
+
+
+ROZALINDA
+
+Przemówię do niego jak paź bezczelny, a korzystając z ubioru, spróbuję z nim roli fanfarona. — Hej, gajowy, czy słyszysz?
+
+
+ORLANDO
+
+Bardzo dobrze. Czego żądasz?
+
+
+ROZALINDA
+
+Powiedz, proszę, która godzina?
+
+
+ORLANDO
+
+Pytaj raczej, jaka dnia pora, bo w lesie nie ma zegarów.
+
+
+ROZALINDA
+
+Więc w lesie nie ma także wiernych kochanków; bo westchnienie co minuta, a jęk co godzina znaczyłyby tak dobrze jak zegar leniwą nogę czasu.
+
+
+ORLANDO
+
+A czemu nie szybką nogę czasu? Czy wyraz nie byłby równie właściwy?
+
+
+ROZALINDA
+
+Bynajmniej. Czas krok zmienia ze zmianą osób. Powiem ci, z kim czas idzie stępa, z kim czas idzie kłusem, z kim czas idzie galopem, a z kim nie rusza się wcale.
+
+
+ORLANDO
+
+Jestem ciekawy. Z kim więc czas kłusuje?
+
+
+ROZALINDA
+
+Kłusuje ciężko z młodą dziewczyną między dniem kontraktu a ślubu; choćby przedział nie wynosił i tygodnia, kłus czasu tak jest ciężki, że zdaje się siedmioletnią podróżą.
+
+
+ORLANDO
+
+A z kim idzie stępa?
+
+
+ROZALINDA
+
+Z księdzem bez łaciny i z bogaczem bez podagry. Pierwszego sen łagodny, bo nie może ślęczeć nad foliałami, drugi żyje wesoło, bo nie czuje boleści; pierwszy nie dźwiga ciężaru chudej, nieużytecznej nauki, drugi nie zna ciężaru męczącego i nieznośnego ubóstwa; dla nich czas idzie stępa.
+
+
+ORLANDO
+
+A z kim galopuje?
+
+
+ROZALINDA
+
+Ze złodziejem na szubienicę; bo choć ledwo rusza nogami, zawsze mu się zdaje, że za prędko doszedł do celu.
+
+
+ORLANDO
+
+A z kim nie rusza się wcale?
+
+
+ROZALINDA
+
+Z adwokatami podczas ferii; bo śpiąc od kadencji do kadencji, nie widzą, jak czas przechodzi.
+
+
+ORLANDO
+
+Gdzie mieszkasz, piękny młodzieńcze?
+
+
+ROZALINDA
+
+Z tą pasterką, moją siostrą, tu na krawędzi lasu jak frędzla u spódnicy.
+
+
+ORLANDO
+
+Czy stąd jesteś rodem?
+
+
+ROZALINDA
+
+Jak królik, który żyje, gdzie się ulągł.
+
+
+ORLANDO
+
+Twoja jednak wymowa zbyt jest poprawna, żebyś jej mógł nabyć w tak odludnym mieszkaniu.
+
+
+ROZALINDA
+
+Już mi to nieraz mówiono. Ale miałem starego stryja, księdza, który mnie wymawiać nauczył. Za młodu był to człowiek światowy; na rzeczach serca znał się zbyt tylko dobrze, bo kiedyś szalenie był zakochany. Słyszałem go nieraz, jak piorunował przeciw miłości; dziękuję Bogu, że nie jestem kobietą i nie mogę dopuścić się kroci szalonych grzechów, o które całą ich płeć obwiniał.
+
+
+ORLANDO
+
+Czy nie przypominasz sobie choć główniejszych wad, o które oskarżał kobiety?
+
+
+ROZALINDA
+
+Nie było główniejszych; wszystkie były podobne jak trojak do trojaka. Każda zdawała się największą, aż przyszła druga i pokazała się jej równą.
+
+
+ORLANDO
+
+Wylicz mi kilka, jeśli łaska.
+
+
+ROZALINDA
+
+Nie, chowam moje lekarstwo tylko dla chorych. Wałęsa się tu po lesie człowiek, który zabija nasze młode drzewa, pisząc na ich korze imię Rozalindy; rozwiesza ody po głogach, a po cierniach elegie, wszystko na ubóstwienie Rozalindy. Jeśli mi się uda spotkać tego dziwaka, dam mu dobrą radę; zdaje mi się, że ma codzienną febrę miłości.
+
+
+ORLANDO
+
+Chory ten stoi przed tobą; daj mu twoje lekarstwo.
+
+
+ROZALINDA
+
+Nie widzę na tobie żadnego ze znaków mojego stryja; nauczył mnie, jak poznać zakochanego; wiem, że nie jesteś więźniem w klatce z tego sitowia.
+
+
+ORLANDO
+
+Jakież to są znaki zakochanego?
+
+
+ROZALINDA
+
+Twarz wychudła, której nie masz; zapadłe i podbite oczy, których nie masz; myśl niedopytana, której nie masz; zaniedbana broda, której nie masz; ale uwalniam cię od tego warunku, bo włosy na twojej brodzie są jak młodszego brata dochody. Prócz tego twoje pończochy nie powinny by mieć odwiązek, twój kapelusz wstążki, guzików twoje rękawy, rzemyków twoje trzewiki; cała twoja osoba powinna by nosić ślady boleści na wszystko obojętnej. U ciebie wszystko inaczej; twój ubiór jakby dopiero z igły świadczy, że więcej kochasz siebie niż kogo innego.
+
+
+ORLANDO
+
+Chciałbym jednak przekonać cię, dobry młodzieńcze, że kocham serdecznie.
+
+
+ROZALINDA
+
+Przekonać mnie? Równie by ci łatwo było przekonać o tym tę, którą kochasz; co, zaręczam, prędzej ci się uda, niż otrzymać wyznanie, że ci się udało, bo to jest punkt delikatny, w którym zawsze kobiety sumieniu swojemu kłamstwo zadają. Ale szczerze wyznaj, czy to ty rozwieszasz po drzewach wiersze, w których tak sławisz Rozalindę?
+
+
+ORLANDO
+
+Przysięgam ci, młodzieńcze, na białą rękę Rozalindy, że ja jestem tym poetą, tym nieszczęśliwym poetą.
+
+
+ROZALINDA
+
+I tak jesteś zakochany, jak powiadają twoje rymy?
+
+
+ORLANDO
+
+Nie ma ani rymu, ani sensu, co by miłość moją wyrazić potrafiły.
+
+
+ROZALINDA
+
+Miłość jest prostym szaleństwem i tak dobrze jak szaleństwo zasługuje na ciemną izdebkę i batogi. Jeśli ludzie tak jej nie karcą i nie leczą, to stąd pochodzi, że rodzaj ten wariacji tak jest powszechny, iż i sami dozorcy są nią dotknięci. Co do mnie, podejmuję się wyleczyć ją za pomocą dobrej rady.
+
+
+ORLANDO
+
+Czy wyleczyłeś kiedy kogo tym lekarstwem?
+
+
+ROZALINDA
+
+Wyleczyłem jednego, a to w następujący sposób. Musiał sobie wyobrazić, że jestem jego ulubioną, jego kochanką. Przepisałem mu codziennie smalić do mnie cholewki, gdy ja z mej strony jak zmienna lunatyczka byłem raz smutny, drugi raz wesoły; to namiętny, to zakochany; dopiero dumny, to znowu kapryśny, swawolny, pusty i niestały; to pełny łez, to śmiechu; każdej namiętności trochę, a żadnej naprawdę, jak zwykle u kobiet i dzieci; to go kochałem, to się nim brzydziłem; dopiero go głaskałem, złorzeczyłem mu za chwilę; tom płakał za nim, to plułem na niego; aż na koniec kochanek mój z szaleństwa miłości wpadł w prawdziwe szaleństwo, usunął się z prądu świata, a zamknął się w mniszej celi. I tak go wyleczyłem. Tego samego użyję sposobu, aby twoje serce oczyścić jak wątrobę barana, żeby w nim nie zostało i plamki miłości.
+
+
+ORLANDO
+
+Nie myślę, żeby uleczyć mnie to mogło.
+
+
+ROZALINDA
+
+Uleczy cię niezawodnie i nazywaj mnie tylko Rozalindą, przychodź co dzień do mojej chatki i praw mi oświadczenia miłosne.
+
+
+ORLANDO
+
+Jeśli tylko o to chodzi, na moją miłość, przystaję. Gdzie twoja chatka?
+
+
+ROZALINDA
+
+Chodź ze mną, a pokażę ci: po drodze powiesz mi, w której stronie lasu twoje mieszkanie. Czy chcesz pójść ze mną?
+
+
+ORLANDO
+
+Z całego serca, dobry młodzieńcze.
+
+
+ROZALINDA
+
+Przede wszystkim nazywaj mnie Rozalindą. Dalej, siostro, w drogę z nami.
+
+/ Wychodzą. /
+
+
+
+SCENA III
+
+/ Las Ardeński. /
+
+/ Probierczyk, Odrej i Jakub w odległości, przysłuchuje się. /
+
+
+PROBIERCZYK
+
+Tylko prędzej, Oderko! Zgonię twoje kozy, Oderko; czy zawsze jestem twoim mężulkiem, Oderko? Czy podobają ci się zawsze moje proste rysy?
+
+
+ODREJ
+
+Twoje rysy? Chryste Panie! Jakie rysy?
+
+
+PROBIERCZYK
+
+Jestem tu z tobą i między twoimi kózkami, jak niegdyś najfantastyczniejszy poeta Owidiusz między kozakami.
+
+
+JAKUB
+
+/ na stronie: /
+
+Nauka w takiej czuprynie to gorzej niż Jowisz pod słomianą strzechą.
+
+
+PROBIERCZYK
+
+Kiedy słuchacz naszych wierszy nie rozumie, a rozum, to bystre dziecko, naszego nie podtrzymuje dowcipu, to nas bardziej z nóg zbija niż wielki rachunek na małym świstku. Pragnąłbym, wyznaję, aby cię bogowie stworzyli byli poetyczną.
+
+
+ODREJ
+
+Poetyczną? Co się to znaczy? Czy to co uczciwego w uczynku i słowie? Czy to co prawdziwego?
+
+
+PROBIERCZYK
+
+Prawdziwego? Ani okruszyny; bo najprawdziwsza poezja to największe kłamstwo; a że kochankowie oddają się poezji, można więc powiedzieć, że kłamią ci, co jak kochankowie przysięgają w poezji.
+
+
+ODREJ
+
+I ty byś pragnął, żeby mnie bogowie stworzyli byli poetyczną?
+
+
+PROBIERCZYK
+
+Bez wątpienia. Przysięgasz mi, że jesteś uczciwą; gdybyś była poetą, mógłbym się jeszcze przynajmniej spodziewać, że to poetyczne kłamstwo.
+
+
+ODREJ
+
+To byś nie chciał, żebym była uczciwą?
+
+
+PROBIERCZYK
+
+Tylko na przypadek, gdybyś była brzydką; bo uczciwość dodana piękności to miód ocukrzony.
+
+
+JAKUB
+
+/ na stronie: /
+
+Nie taki to błazen, jak się zdaje.
+
+
+ODREJ
+
+Skoro więc nie jestem piękną, proszę bogów, żeby mnie zrobili uczciwą.
+
+
+PROBIERCZYK
+
+Uczciwość jednak w brzydkiej flądrze, to jak dobra potrawa w nieczystym naczyniu.
+
+
+ODREJ
+
+Nie jestem flądrą, choć, dzięki Bogu, jestem brzydką.
+
+
+PROBIERCZYK
+
+A więc dzięki Bogu za twoją brzydotę: fląderstwo może przyjść później. Bądź co bądź, biorę cię za żonę i w tym celu byłem u proboszcza najbliższej wsi, księdza Oliwera Psujteksta; obiecał mi przyjść tu do lasu, aby nas sparzyć.
+
+
+JAKUB
+
+/ na stronie: /
+
+Chciałbym być świadkiem tego spotkania.
+
+
+ODREJ
+
+Szczęść nam, Boże!
+
+
+PROBIERCZYK
+
+Amen. Człowiek słabego serca mógłby zachwiać się w tym przedsięwzięciu, bo tu za kościół mamy las, a za zgromadzenie wiernych tylko rogate bydlęta. Lecz cóż stąd? Tylko śmiało naprzód! Rogi, choć niemiłe, są potrzebne. Powiedziano jest: niejeden człowiek nie wie, gdzie koniec jego szczęścia; wielka prawda; niejeden człowiek ma dobre rogi, a nie wie, gdzie ich koniec. Zresztą to posag jego żony, a nie jego własny dorobek. Rogi! Czy rogi dane tylko biednemu człowiekowi? Bynajmniej. Najszlachetniejszy jeleń tak dobrze je nosi jak najchudsze koźlę. Czy dlatego bezżenny ma być szczęśliwy? Nie wcale; bo jak wieżami otoczone miasto od wsi lepsze, tak czoło żonatego poważniejsze od nagiej czupryny kawalera; a o ile broń jakabądźkolwiek lepsza od gołej ręki, o tyle róg droższy od braku rogów. Wchodzi Oliwer Psujtekst. Otóż i ksiądz Oliwer. Księże proboszczu, witamy! Czy chcecie skończyć nasz interes, tu, pod drzewem, czy też mamy pójść z wami do waszej kaplicy?
+
+
+OLIWER
+
+Czy masz tu kogo, który by ci oddał pannę młodą?
+
+
+PROBIERCZYK
+
+Nie chcę jej od nikogo w prezencie.
+
+
+OLIWER
+
+Trzeba jednak koniecznie, żeby ci ją kto oddał, lub małżeństwo jest nieważne.
+
+
+JAKUB
+
+/ pokazuje się: /
+
+Dalej! Dalej! Jeśli tylko o to chodzi, ja mu ją oddam.
+
+
+PROBIERCZYK
+
+Dobry wieczór, dobry panie «Jak się nazywasz». Jakże zdrowie? Przyszedłeś w samą porę. Bóg ci zapłać za te ostatnie odwiedziny. Rad cię widzę. Zawsze to cacko w ręku? Proszę cię, nakryj głowę.
+
+
+JAKUB
+
+Czy chcesz gwałtem się ożenić, pstrokaczu?
+
+
+PROBIERCZYK
+
+Jak wół ma swoje jarzmo, koń swoje wędzidło, a sokół swoje dzwonki, tak człowiek ma swoją żądzę; a jak się dziobią gołąbki, tak by się chciało dziobać i małżonkom.
+
+
+JAKUB
+
+I ty, przy twoim wychowaniu, chcesz żenić się pod krzakiem jak jaki żebrak? Idź do kościoła, weź dobrego księdza, który by wam wytłumaczył, co to jest małżeństwo, bo ten tu jegomość połączy was jak stolarz filtrowanie; jedno z was będzie spaczoną deską i jak mokre drzewo co dzień będzie krzywsze.
+
+
+PROBIERCZYK
+
+/ na stronie: /
+
+Wszystko mi się zdaje, że najlepiej będzie dla mnie, jeśli ten, a nie inny ksiądz nas ożeni, bo zapewne da nam ślub nieważny, co później będzie doskonałą dla mnie wymówką, gdy porzucę żonę.
+
+
+JAKUB
+
+Chodź ze mną i słuchaj mojej rady.
+
+
+PROBIERCZYK
+
+Idźmy, droga Oderko! Trzeba będzie wziąć ślub albo żyć grzesznie. Do zobaczenia, dobry księże Oliwerze!
+
+Ach, mój słodki Oliwerze!
+Ach, mój dobry Oliwerze!
+Idź, gdzie oko cię poniesie!
+Bo nie jestem już w potrzebie
+Błogosławieństw brać od ciebie
+W twej kaplicy lub w tym lesie.
+
+/ Wychodzą. /
+
+
+OLIWER
+
+Mniejsza o to. Nigdy podobny tobie błazen nie odbierze mi konceptami mojego powołania.
+
+/ Wychodzą. /
+
+
+
+SCENA IV
+
+/ Las przed chatką. /
+
+/ Rozalinda i Celia. /
+
+
+ROZALINDA
+
+Ach, daj mi pokój! Pozwól mi płakać!
+
+
+CELIA
+
+Płacz, i owszem; proszę cię tylko, nie zapominaj, że łzy nie przystoją mężczyźnie.
+
+
+ROZALINDA
+
+Alboż nie mam przyczyny płakać?
+
+
+CELIA
+
+Trudno żądać lepszej; płacz więc.
+
+
+ROZALINDA
+
+Nawet włosy jego mają kolor zdrady.
+
+
+CELIA
+
+Trochę ciemniejsze od judaszowych; a jego pocałunki? To własne dzieci Judasza.
+
+
+ROZALINDA
+
+A jednak włosy jego pięknego są koloru.
+
+
+CELIA
+
+Cudownie pięknego! Nic nad kolor brunatny.
+
+
+ROZALINDA
+
+A jego pocałunki tak pełne świętości jak dotknięcie błogosławionego chleba.
+
+
+CELIA
+
+Kupił u Diany parę ust na urząd fabrykowanych: mniszka z klasztoru Zimy nie całuje święciej; czuć w nich sam lód czystości.
+
+
+ROZALINDA
+
+Przysiągł, że przyjdzie dziś rano. Czemu nie przyszedł?
+
+
+CELIA
+
+To prawda; nie ma w nim okruszyny szczerości.
+
+
+ROZALINDA
+
+Tak sądzisz?
+
+
+CELIA
+
+Ani wątpliwości. Nie powiadam, że jest rzezimieszkiem lub złodziejem, ale co do szczerości w kochaniu, zdaje mi się, że jest pusty jak wychylona szklanka lub orzech robaczywy.
+
+
+ROZALINDA
+
+On nieszczery w miłości?
+
+
+CELIA
+
+Jest szczery, jeśli ją czuje, ale zdaje mi się, że jej nie czuje.
+
+
+ROZALINDA
+
+Czy słyszałaś, jak przysięgał, że ją czuł głęboko?
+
+
+CELIA
+
+Czuł — nie jest: czuje. Zresztą przysięga kochanka nie więcej warta, niż słowo szynkarza; obaj stwierdzają fałszywe rachunki. On mieszka w tym lesie i należy do dworu księcia, twojego ojca.
+
+
+ROZALINDA
+
+Spotkałam księcia wczoraj i miałam z nim długą rozmowę. Pytał mi się o moje pochodzenie; tak dobre jak twoje, odrzekłam; uśmiechnął się na to i pożegnał mnie. Ale co pleciemy o ojcach, kiedy tu mieszka taki człowiek jak Orlando.
+
+
+CELIA
+
+O, nie lada to człowiek! Pisze nie lada wiersze, prawi nie lada rzeczy, składa nie lada przysięgi i z nie lada łatwością je łamie o samo serce kochanki jak niedoświadczony rycerz na turniejach, który z jednej tylko strony spina konia ostrogą i łamie lancę opacznie jak gęś wysokiego rodu. Ale każdy rumak jest nie lada, na którym młodość jedzie, a którym szaleństwo kieruje. Lecz ktoś nadchodzi.
+
+/ Wchodzi Koryn. /
+
+
+KORYN
+
+Pani, paniczu, pytaliście nieraz,
+Kto był ten pasterz miłością raniony,
+Który na trawie, przy mym leżąc boku,
+Swej pogardliwej a dumnej pasterki
+Nucił pochwały.
+
+
+CELIA
+
+                        I cóż mu się stało?
+
+
+KORYN
+
+Jeśli być chcecie świadkami komedii,
+Granej naprawdę przez wybladłą miłość,
+I przez pogardę czerwoną od dumy,
+Spieszcie się tylko, ja was poprowadzę.
+
+
+ROZALINDA
+
+O, idźmy! Idźmy! Pokarmem są bowiem
+Zakochanemu zakochanych bole;
+Idźmy! A ja ci po drodze opowiem,
+Jak ważną w sztuce tej odegram rolę.
+
+/ Wychodzą. /
+
+
+
+SCENA V
+
+/ Inna część lasu. /
+
+/ Sylwiusz i Febe. /
+
+
+SYLWIUSZ
+
+Nie gardź mną, Febe! Nie gardź, słodka Febe!
+Że mnie nie kochasz, powiedz gorzkie słowo,
+Lecz bez goryczy. Kat, którego serce
+Stwardniało częstym śmierci widowiskiem,
+Nim szyję więźnia toporem uderzy,
+O przebaczenie prosi; a ty, Febe,
+Chcesz być od kata surowszą i krwawszą?
+
+/ Rozalinda, Celia i Koryn pokazują się w odległości. /
+
+
+FEBE
+
+Twoim być katem żadnej nie mam chęci;
+Unikam ciebie, żeby cię nie dręczyć.
+Mówisz, że oczy moje śmierć miotają;
+Jaka w tym prawda, jakie podobieństwo,
+Ażeby oko, rzecz słaba i wątła,
+Co trwożne bramy przed pyłkiem zamyka,
+Mogło być zbójcą, tyranem, rzeźnikiem!
+Patrz, z całej duszy marszczę się na ciebie,
+Niech więc me oczy położą cię trupem:
+Obal się przecie i udaj zemdlenie;
+Jeśli nie możesz, miejże trochę wstydu,
+Nie kłam, że oczy moje są zbójcami.
+Pokaż mi rany przez wzrok mój zadane.
+Draśnij się szpilką, a zostanie blizna,
+Choćby na chwilę dłoń oprzyj na trzcinie,
+A trzcina wycisk na ręce zostawi;
+Gdy wzrok mój, choć go rzuciłam na ciebie,
+Żadnej ci krzywdy nie robi, bo w oczach
+Nie ma potęgi zdolnej ranę zadać.
+
+
+SYLWIUSZ
+
+O, droga Febe! Jeśli ujrzysz kiedy
+(A może bliżej to kiedy, niż sądzisz)
+Na świeżych licach miłości potęgę,
+O, wtedy poznasz niewidome rany,
+Które zadaje stal miłości ostra.
+
+
+FEBE
+
+Aż do tej chwili nie zbliżaj się do mnie;
+Gdy przyjdzie, śmiej się ze mnie bez litości,
+Ja do tej chwili śmiać się z ciebie będę.
+
+
+ROZALINDA
+
+/ zbliżając się: /
+
+Dlaczego, proszę? Kto matką jest twoją,
+Że tak się możesz urągać biednemu?
+Gdybyś i wdzięków nawet miała trochę
+(Lecz daję słowo, cała piękność twoja
+Śmiało po ciemku iść może do łóżka),
+Maszli być razem dumną i okrutną?
+Cóż się to znaczy? Czemu patrzysz na mnie?
+Tylko tandetny widzę w tobie towar
+Matki natury. Na honor, ta panna
+I mnie chce także w sidła swoje złapać.
+Nie, dumna pani, nie łudź się nadzieją:
+Ni brwi twe czarne, ni włos twój jedwabny,
+Ni jasne oczy, śmietankowe lica,
+Twej mnie urody nie zrobią czcicielem.
+A ty znów czemu, szalony pasterzu,
+Wśród ciągłych westchnień uganiasz się za nią,
+Jak wiatr ciężarny wieczną mgłą i deszczem?
+Wszak ty piękniejszym stokroć jesteś chłopcem
+Niż ona dziewką. Tacy jak ty głupcy
+Świat kapryśnymi zaludniają dziećmi.
+Nie jej zwierciadło, lecz ty jej pochlebiasz;
+W twoich się słowach urodniejszą widzi,
+Niżby się mogła w własnych widzieć rysach.
+Poznaj się, panno. Poszcząc, na kolanach,
+Podziękuj Bogu za uczciwą miłość.
+Słuchaj mej rady, sprzedaj się, gdy możesz,
+Bo nie na każdym targu znajdziesz kupca.
+Przeproś go, weź go, a kochaj go z serca:
+Najbrzydszy z brzydkich, brzydki jest szyderca.
+Weź ją, pasterzu, i bądźcie mi zdrowi!
+
+
+FEBE
+
+Słodki młodzieńcze, przez rok burcz mnie cały:
+Gniew mi twój milszy niż jego zaloty.
+
+
+ROZALINDA
+
+On zakochał się w twojej brzydocie, a ona zakocha się w moim gniewie. Jeśli tak jest, ilekroć ona odpowie ci gniewnym spojrzeniem, tylekroć ja gorzkim dogryzę jej słowem. Czemu tak na mnie spoglądasz?
+
+
+FEBE
+
+Nie ze złej ku tobie woli.
+
+
+ROZALINDA
+
+Proszę cię tylko, nie kochaj się we mnie,
+Bom jest fałszywszy od przysiąg pijaka,
+Prócz tego nie mam miłości dla ciebie.
+Jeśli chcesz wiedzieć, dom mój niedaleki,
+Skrył się przed okiem w oliwnych drzew cieniu.
+Siostro, czas na nas. Pasterzu, bądź śmiały.
+Idźmy! Pasterko, patrz na niego chętniej,
+Przestań być dumną, bo jak świat szeroki,
+Choćby cię wszyscy oczyma mierzyli,
+Gorzej od niego nikt się nie omyli.
+Teraz do trzody!
+
+/ Wychodzą: Rozalinda, Celia i Koryn. /
+
+
+FEBE
+
+                        Dziś, zmarły pasterzu,
+Słowa twe w całym pojmuję znaczeniu:
+«Nie kochał ten, co w pierwszym nie kochał spojrzeniu».
+
+
+SYLWIUSZ
+
+O, słodka Febe!
+
+
+FEBE
+
+                        Co chcesz mi powiedzieć?
+
+
+SYLWIUSZ
+
+Febe, miej trochę litości nade mną!
+
+
+FEBE
+
+Żal mi cię, wierzaj, dobry Sylwiuszu.
+
+
+SYLWIUSZ
+
+Gdzie żal się znalazł, pociecha się znajdzie.
+Jeśli żal czujesz dla mych trosk miłości,
+Daj mi twą miłość, a razem przepadną
+Żal twój, me troski.
+
+
+FEBE
+
+                        Więc ci miłość daję;
+Cóż więcej mogę dla bliźniego zrobić?
+
+
+SYLWIUSZ
+
+Chciałbym cię dostać.
+
+
+FEBE
+
+                        To grzech jest łakomstwa.
+Był czas, żem czuła ku tobie nienawiść,
+A choć i teraz nie kocham cię wcale,
+Twe towarzystwo, nieznośne mi dawniej,
+Dziś mogę ścierpieć, skoro o miłości
+Umiesz tak piękne opowiadać rzeczy.
+Może czasami posłużę się tobą;
+Ale na inną nie rachuj zapłatę,
+Jak na pociechę, że mi służyć możesz.
+
+
+SYLWIUSZ
+
+Tak święta, tak jest czysta moja miłość,
+Ja tak ubogi w urodę i wdzięki,
+Że zbierać kłosy poronione w polu,
+Po szczęsnym plonu całego żniwiarzu,
+Jeszcze bogatym żniwem mi się wyda.
+O, ja szczęśliwe żyć będę miesiące
+Na jednym twoim zgubionym uśmiechu!
+
+
+FEBE
+
+Czy znasz młodzieńca, który mówił ze mną?
+
+
+SYLWIUSZ
+
+Niewiele, chociaż spotykam go często.
+On u mojego zakupił sąsiada
+Dom i pastwiska.
+
+
+FEBE
+
+                        Nie myśl tylko, proszę,
+Że się w nim kocham, choć o niego pytam.
+To młody prostak — dobrze jednak mówi —
+Lecz wiatrem słowo — miłe jednak słowa,
+Jeśli mówiący miły słuchaczowi.
+To ładny młodzik — nie, nie bardzo ładny.
+I dumny, zda się — do twarzy mu duma,
+Wyrośnie kiedyś na pięknego męża.
+Co najpiękniejsze u niego, to cera.
+Prędzej, niż język jego ranę zadał,
+Wzrok ją wyleczył. Choć nie jest wysoki,
+Jest dość na wiek swój; chociaż jego noga
+Ot sobie noga! Patrzeć na nią miło.
+Piękna czerwoność rumieni mu wargi,
+Trochę ciemniejsza od róż jego lica.
+Inna kobieta, gdyby tak uważnie
+Zmierzyła każdą ciała jego cząstkę,
+Już by szalenie w nim się zakochała;
+Lecz ja nie czuję miłości ni wstrętu,
+Chociaż do wstrętu więcej mam powodów,
+Bo skąd ma prawo, żeby fukał na mnie?
+O czarnych oczach, czarnych moich włosach
+Mówił wzgardliwie, jak postrzegam teraz.
+Nie wiem, dlaczego zaraz nie odrzekłam,
+Jak należało; ale nic nie straci;
+Co się odwlekło, jeszcze nie uciekło.
+List mu napiszę, w nim przytrę mu czuba.
+Czy chcesz być listu mojego oddawcą?
+
+
+SYLWIUSZ
+
+Z całego serca.
+
+
+FEBE
+
+                        Napiszę go zaraz,
+Bo treść już całą w głowie mam i sercu.
+List będzie krótki, ale węzłowaty.
+Idźmy, Sylwiuszu.
+
+/ Wychodzą. /
+
+
+
+
+AKT CZWARTY
+
+
+
+SCENA I
+
+/ Las Ardeński. /
+
+/ Rozalinda, Celia i Jakub. /
+
+
+JAKUB
+
+Pozwól mi, piękny młodzieńcze, bliższą zabrać z tobą znajomość.
+
+
+ROZALINDA
+
+Powiadają, że wielki z ciebie melancholik.
+
+
+JAKUB
+
+I powiadają prawdę; wolę to, jak śmiać się.
+
+
+ROZALINDA
+
+Kto w jednym lub drugim przesadza, równie nieznośny i więcej niż pijak wystawia się na powszechną naganę.
+
+
+JAKUB
+
+A jednak dobra to rzecz być smutnym i milczeć.
+
+
+ROZALINDA
+
+A więc dobra jest rzecz także być klockiem.
+
+
+JAKUB
+
+Nie mam ja ani melancholii uczonego — zazdrości, ani melancholii muzykanta — dziwactwa, ani melancholii dworaka — dumy, ani melancholii żołnierza — ambicji, ani melancholii prawnika — wykrętów, ani melancholii kobiety — przesady; ani melancholii kochanka — mieszaniny wszystkich rodzajów; moja melancholia jest swojego rodzaju, złożona z wielu pierwiastków, wyciągnięta z wielu ingrediencji, a żeby prawdę powiedzieć, długie rozważanie i przeżuwanie moich podróży pogrążyło mnie w najzabawniejszym smutku.
+
+
+ROZALINDA
+
+To pan wojażer! Na honor, masz słuszność, że się smucisz; bo zapewne przedałeś własną ziemię, aby zwiedzić cudzą. Kto wiele widział, a nic nie ma, bogate ma oczy, ale ubogie ręce.
+
+
+JAKUB
+
+Zbogaciłem się przynajmniej w doświadczenie.
+
+/ Wchodzi Orlando. /
+
+
+ROZALINDA
+
+A to doświadczenie robi cię smutnym. Co do mnie, wolałbym mieć wesołe błazeństwo niż smutne doświadczenie i podróżować jeszcze na to!
+
+
+ORLANDO
+
+Dzień dobry, dobre szczęście, droga Rozalindo!
+
+
+JAKUB
+
+A więc Bóg z wami, jeśli macie nierymowym rozmawiać wierszem.
+
+/ Wychodzi. /
+
+
+ROZALINDA
+
+Szczęśliwej drogi, panie wojażerze! Nie zapomnij tylko z cudzoziemska szczebiotać i z cudzoziemska się ubierać; spotwarzaj, co dobre w twojej ziemi; brzydź się swoim pochodzeniem i gniewaj się z Panem Bogiem, że cię, jak jesteś, stworzył, bo nie uwierzę inaczej, że w gondoli pływałeś. Ach, to ty, Orlando? Gdzież to bywałeś do tej pory? Ty zakochany? Jeśli drugi raz jeszcze podobnego wypłatasz mi figla, nie pokazuj mi się na oczy.
+
+
+ORLANDO
+
+Piękna Rozalindo, przychodzę godzinę tylko później, niż obiecałem.
+
+
+ROZALINDA
+
+W miłości o godzinę słowa nie dotrzymać? Podziel minutę na tysiąc, kto w sprawach miłości nie dotrzyma słowa tylko o cząstkę tysiącznej cząstki miłości, tego Kupidyn po ramieniu tylko poklepał, bo co do serca, zaręczam, jest całe.
+
+
+ORLANDO
+
+Przebacz mi, droga Rozalindo.
+
+
+ROZALINDA
+
+Jeśli masz się spóźnić, siedź lepiej w domu; równie chętnie wzięłabym za kochanka ślimaka.
+
+
+ORLANDO
+
+Ślimaka?
+
+
+ROZALINDA
+
+Ślimaka; bo choć przychodzi powoli, niesie przynajmniej dom swój na grzbiecie, czego o tobie powiedzieć nie można, a prócz tego jeszcze przynosi z sobą swoje przeznaczenie.
+
+
+ORLANDO
+
+Jakie przeznaczenie?
+
+
+ROZALINDA
+
+Rogi, za które podobni tobie żonom są dłużni, gdy on przychodzi własną fortuną zbrojny i żonę od wszelkiej broni potwarzy.
+
+
+ORLANDO
+
+Cnota nie przyprawia rogów, a moja Rozalinda jest cnotliwa.
+
+
+ROZALINDA
+
+A ja jestem twoją Rozalindą.
+
+
+CELIA
+
+Tak mu się podoba nazywać cię; ale jego Rozalinda piękniejszą ma twarz od twojej.
+
+
+ROZALINDA
+
+Dalej! Umizgaj się do mnie, umizgaj się do mnie! Bo jestem w świątecznym humorze i na wszystko przystać gotową. I cóż byś mi powiedział, gdybym była twoją prawdziwą, prawdziwą Rozalindą?
+
+
+ORLANDO
+
+Pocałowałbym cię, nim mówić bym zaczął.
+
+
+ROZALINDA
+
+Lepiej byś zrobił, gdybyś od słów zaczynał, dopiero gdybyś się zaciął z braku przedmiotu, miałbyś powód wziąć się do pocałunków. Niejeden dobry mówca, gdy mu konceptu braknie, pluć zaczyna; tak i dla kochanków, gdy im materii nie stanie (od czego uchowaj nas, Boże!) najpewniejszą ucieczką będzie pocałowanie.
+
+
+ORLANDO
+
+A jeśli pocałować się nie da?
+
+
+ROZALINDA
+
+Da przedmiot prośby, a więc nowy przedmiot rozmowy.
+
+
+ORLANDO
+
+Któremuż kochankowi braknie konceptu w przytomności kochanki?
+
+
+ROZALINDA
+
+Tobie pierwszemu, gdybym był twoją kochanką; chyba, żeby cnota połknęła cały mój dowcip.
+
+
+ORLANDO
+
+Więc myślisz, że byś mi wszystkie pogmatwał nici.
+
+
+ROZALINDA
+
+Tak, żebyś nigdy potem dwóch słów zszyć nie potrafił. Alboż nie jestem twoją Rozalindą?
+
+
+ORLANDO
+
+Chętnie cię tak nazywam, bo tym sposobem przynajmniej mówić o niej mogę.
+
+
+ROZALINDA
+
+Słuchaj więc, mówię ci w jej osobie: nie chcę cię.
+
+
+ORLANDO
+
+Więc ja w mej własnej osobie umrę.
+
+
+ROZALINDA
+
+Radzę ci umrzeć przez pełnomocnika. Świat ten biedny liczy już blisko lat sześć tysięcy, a przez cały ten przeciąg czasu ani jeden człowiek nie umarł we własnej osobie z miłości. Troilus zdruzgotaną miał czaszkę od greckiej maczugi, poprzednio jednak robił, co mógł, aby umrzeć z miłości, bo to jeden ze wzorowych kochanków. Leander przeżyłby niejedną wiosnę, choć Hero została mniszką, gdyby nie gorąca noc letnia. Zacny ten młodzieniec poszedł kąpać się w Helesponcie, tam kurcz go złapał i utonął, a gąsięta, współcześni kronikarze, osądzili, że przyczyną jego śmierci była Hero z Sestos. Ale to wierutne kłamstwo. Od czasu do czasu umierali ludzie i zjadały ich robaki, ale to nie z miłości.
+
+
+ORLANDO
+
+Nie chciałbym, żeby tak myślała moja prawdziwa Rozalinda, bo przysięgam, że jedno brwi jej zmarszczenie zabić by mnie mogło.
+
+
+ROZALINDA
+
+A ja ci na tę rękę przysięgam, że muchy nie zabije. Lecz teraz będę twoją łaskawszą Rozalindą; proś, o co chcesz, wszystko otrzymasz.
+
+
+ORLANDO
+
+Więc kochaj mnie, Rozalindo.
+
+
+ROZALINDA
+
+Bardzo chętnie; w piątki, soboty i co dzień.
+
+
+ORLANDO
+
+Czy chcesz mnie?
+
+
+ROZALINDA
+
+Ciebie i takich jak ty dwudziestu.
+
+
+ORLANDO
+
+Co mówisz?
+
+
+ROZALINDA
+
+Wszak jesteś dobry?
+
+
+ORLANDO
+
+Tak się przynajmniej spodziewam.
+
+
+ROZALINDA
+
+Kto może pragnąć za wiele dobrej rzeczy? Dalej, siostro, bądź naszym księdzem i skojarz nas. Daj mi rękę, Orlando. Co mówisz na to, siostro?
+
+
+ORLANDO
+
+Proszę cię, skojarz nas.
+
+
+CELIA
+
+Nie umiem roty ślubnej przysięgi.
+
+
+ROZALINDA
+
+Musisz zacząć od słów: „czy chcesz, Orlando”.
+
+
+CELIA
+
+Przypominam sobie teraz. Czy chcesz, Orlando, wziąć za żonę tę tu przytomną Rozalindę?
+
+
+ORLANDO
+
+Chcę.
+
+
+ROZALINDA
+
+Chcesz, ale kiedy?
+
+
+ORLANDO
+
+Natychmiast, tak prędko, jak prędko ożenić nas jest w stanie.
+
+
+ROZALINDA
+
+Trzeba więc, żebyś powiedział: „Rozalindo, biorę cię za żonę”.
+
+
+ORLANDO
+
+Rozalindo, biorę cię za żonę.
+
+
+ROZALINDA
+
+Mógłbym pytać, czy masz upoważnienie, lecz mniejsza o to. Biorę cię za męża, Orlando. Otóż i panna młoda, która przed księdzem bieży; aleć zawsze podobno myśl kobieca leci przed jej czynami.
+
+
+ORLANDO
+
+Jak wszystkie myśli, bo wszystkie mają skrzydła.
+
+
+ROZALINDA
+
+Powiedz mi teraz, jak długo będziesz pragnął ją zatrzymać, gdy będziesz raz w jej posiadaniu?
+
+
+ORLANDO
+
+Na wieki i dzień jeden.
+
+
+ROZALINDA
+
+Powiedz: dzień jeden, a opuść: na wieki. Nie, nie, Orlando; mężczyźni są kwietniem przed ślubem, a grudniem po ślubie. Panny są majem, gdy są pannami, ale zmienia się niebo, gdy zostały żonami. Co do mnie, będę zazdrośniejszą niż grzywacz afrykański dla swej gołębicy, będę krzykliwszą niż papuga na deszczu, dziwaczniejszą niż małpa, a w żądzach mych szaleńszą niż koczkodan. Będę płakała bez powodu jak Diana w wodotrysku, właśnie gdy ty będziesz chciał się bawić, a śmiać się będę jak hiena, gdy tobie spać się będzie chciało.
+
+
+ORLANDO
+
+Czy i moja Rozalinda będzie tak samo robiła?
+
+
+ROZALINDA
+
+Ręczę ci mą głową, że będzie robiła, co ja robię.
+
+
+ORLANDO
+
+Ona jednak tak roztropna!
+
+
+ROZALINDA
+
+Gdyby nią nie była, nie miałaby dosyć dowcipu, żeby tak robić; im roztropniejsza, tym złośliwsza. Zamknij drzwi kobiecemu dowcipowi, a wymknie się oknem; zamknij mu okno, ucieknie dziurką od klucza; zamknij dziurkę, a z dymem przez komin poleci.
+
+
+ORLANDO
+
+Kto ma żonę z takim dowcipem, może jej śmiało zapytać: „Gdzie tak pędzisz, dowcipie?”.
+
+
+ROZALINDA
+
+Zachowaj to pytanie na przypadek, jeśli zobaczysz dowcip twojej żony w drodze do sąsiadowego łóżka.
+
+
+ORLANDO
+
+Jakiż dowcip znalazłby wtedy jej dowcip na wymówkę?
+
+
+ROZALINDA
+
+Jaki dowcip? Powiedziałby, że szedł cię tam szukać. Nie weźmiesz żony bez odpowiedzi, chyba, że ją weźmiesz bez języka. Kobieta, która swojej winy na męża zwalić nie umie, niech sama swojego dziecka nie karmi, bo wykarmi tylko dudka.
+
+
+ORLANDO
+
+A teraz, Rozalindo, muszę cię opuścić na dwie godziny.
+
+
+ROZALINDA
+
+Ach, drogi kochanku, nie mogę żyć bez ciebie tak długo.
+
+
+ORLANDO
+
+Muszę służyć księciu podczas obiadu. O drugiej będę z powrotem.
+
+
+ROZALINDA
+
+Więc idź, gdzie cię poniosą oczy! Wiedziałam dobrze, jak się to wszystko skończy. Ostrzegali mnie przyjaciele i ja sama nieraz myślałam, że mnie twój cukrowany język uwodził. To jedna tylko ofiara więcej! Więc śmierci, przybywaj! O drugiej godzinie, mówisz?
+
+
+ORLANDO
+
+Tak jest, słodka Rozalindo.
+
+
+ROZALINDA
+
+Moje słowo, a bez żartu, tak dopomóż mi, Boże! Na wszystkie piękne a nie niebezpieczne przysięgi, jeśli obietnicy nie dotrzymasz co do joty, jeśli przyjdziesz minutę po drugiej, uważać cię będę za najpatetyczniejszego krzywoprzysięzcę, za najzdradliwszego kochanka, za najniegodniejszego tej, którą nazywasz Rozalindą, spomiędzy całej ogromnej bandy niewiernych. Strzeż się mojego gniewu, a dotrzymaj słowa!
+
+
+ORLANDO
+
+Dotrzymam z tą samą wiarą, jak gdybyś była prawdziwą Rozalindą. Więc do zobaczenia.
+
+
+ROZALINDA
+
+Czas, ten stary sędzia, rozstrzyga wszystkie tego rodzaju przestępstwa, niech czas cię osądzi. Bądź zdrów!
+
+/ Wychodzi Orlando. /
+
+
+CELIA
+
+Oszkalowałaś płeć własną twoim miłosnym szczebiotaniem. Warta byś, żeby ci twoje męskie suknie podwinięto na głowę i pokazano światu, co zrobił ptak we własnym gnieździe.
+
+
+ROZALINDA
+
+O, kuzynko, kuzynko! Moja piękna, mała kuzynko! Gdybyś ty wiedziała, na ile sążni głęboko zapadłam w miłość! Ale tego ani zgruntować; uczucie moje tak niezgłębione jak portugalska zatoka.
+
+
+CELIA
+
+Albo raczej tak bezdenne; co wlejesz uczucia, to się wyleje.
+
+
+ROZALINDA
+
+Nie, niech ten sam niedobry bękart, Wenery myślą spłodzony, ze smutku poczęty, a urodzony z szaleństwa, niech ten ślepy łotrzyk, który zwodzi wszystkie oczy, bo swoje własne utracił, niech on rozsądzi, jak głęboka moja miłość. Wyznam ci, Alieno, nie mogę żyć daleko od spojrzeń Orlanda. Idę szukać cienia i wzdychać, póki nie wróci.
+
+
+CELIA
+
+A ja idę spać.
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Inna część lasu. /
+
+/ Jakub i Panowie, w ubiorze myśliwskim. /
+
+
+JAKUB
+
+Kto zabił jelenia?
+
+
+1 PAN
+
+Ja.
+
+
+JAKUB
+
+Przedstawmy go księciu jak rzymskiego tryumfatora. — Byłoby dobrze wsadzić mu na głowę jelenie rogi niby palmę zwycięstwa. Czy nie masz, strzelcze, jakiej stosownej do tej okoliczności piosenki?
+
+
+2 PAN
+
+I owszem.
+
+
+JAKUB
+
+Więc śpiewaj! Mniejsza o harmonię, byle nie brakło hałasu.
+
+*Pieśń*
+
+
+1 PAN
+
+Zabił jelenia i cóż mu dacie?
+
+
+2 PAN
+
+Damy mu skórę, damy mu rogi.
+Nie gardź rogami, strzelcze mój drogi,
+Bo ten herb starszy niźli ty, bracie.
+
+
+1 PAN
+
+On twego dziada nobilitował.
+
+
+2 PAN
+
+I twój się ojciec nim pieczętował.
+
+
+WSZYSCY
+
+Niech żyją rogi zawsze i wszędzie!
+Kto nimi gardzić, śmiać się z nich będzie?
+
+/ Wychodzą. /
+
+
+
+SCENA III
+
+/ Las Ardeński. /
+
+/ Rozalinda i Celia. /
+
+
+ROZALINDA
+
+Co mówisz? Czy nie minęła już druga? A o Orlandzie ani słychu.
+
+
+CELIA
+
+Ręczę, że z czystej miłości a pomąconego rozumu wziął łuk i strzały i poszedł, poszedł — spać. Lecz któż się zbliża?
+
+/ Wchodzi Sylwiusz. /
+
+
+SYLWIUSZ
+
+Piękny młodzieńcze, list ci ten oddaję
+Z rozkazu drogiej kochanki mej Febe.
+Oddaje list.
+Nie znam ja treści listu, ale wnoszę
+Z chmurnych jej spojrzeń i ruchów jaszczurczych,
+Gdy na papierze litery kreśliła,
+Że treść jest gniewna; lecz przebacz mi, proszę,
+Bo jestem tylko niewinnym posłańcem.
+
+
+ROZALINDA
+
+Cierpliwość samą list by ten oburzył;
+Ten co to zniesie, wszystko znieść potrafi.
+Zwie mnie brzydalą, bez żadnej grzeczności,
+Śmiesznym pyszałką, dodaje, że nawet
+Gdyby mężczyzna jak Fenix był rzadki,
+Nawet by wtedy kochać mnie nie chciała.
+Ależ jej miłość nie jest tym zającem,
+Za którym gonię; czemuż mi to pisze?
+Słuchaj, pasterzu, o zakład, że list ten
+Ty sam pisałeś.
+
+
+SYLWIUSZ
+
+                        Przysięgam na Boga,
+Że Febe własną kreśliła go ręką.
+
+
+ROZALINDA
+
+Widzę, że miłość rozum ci odjęła.
+Ja znam jej rękę, ręka jest skórzana,
+Piaskowca farby; zdało mi się zrazu,
+Że wzięła jakie stare rękawiczki,
+Lecz to jej była gospodarska ręka.
+Lecz mniejsza o to; raz jeszcze powtarzam,
+Widać tu rękę i pomysł mężczyzny.
+
+
+SYLWIUSZ
+
+Wierzaj mi, panie, list pisała Febe.
+
+
+ROZALINDA
+
+To jest styl dumny, twardy i okrutny,
+Czyste wyzwanie, — jakby z chrześcijaninem
+Turek traktował: czuła myśl niewiasty
+Takich olbrzymich nie rodzi pomysłów,
+Słów etyjopskich w swym czarniejszych skutku
+Niż ich atrament. Chcesz, bym ci przeczytał?
+
+
+SYLWIUSZ
+
+Proszę, bo nie znam listu, choć znam dobrze,
+Jak jest okrutne serce w piersiach Feby.
+
+
+ROZALINDA
+
+Tyranka tak mi pisze po swojemu:
+
+«Czy w pasterza Bóg się zmienił,
+Tak mi serce rozpromienił?»
+
+Powiedz, czy może szydzić tak kobieta?
+
+
+SYLWIUSZ
+
+I ty szyderstwem nazywasz te słowa?
+
+
+ROZALINDA
+
+«Nieboś rzucił, aby z nami
+Toczyć wojnę dziewicami?
+
+Słyszałżeś kiedy podobne szyderstwo?
+
+«Dotąd spojrzeń ludzkich siła
+Serca mego nie raniła».
+
+To się ma znaczyć, że jestem bydlęciem.
+
+«Jeśli gniewny ócz twych promień
+Taki nieci we mnie płomień,
+Jak zachwyci duszę biedną
+Twoje tkliwe słowo jedno!
+Tam, gdzie mogła tyle groźba,
+Czegóż nie otrzyma prośba?
+Ten, co miłość ci tę wręczy,
+Nie wie, co mą duszę dręczy;
+Powiedz przez niego pasterce,
+Czyli twoje młode serce
+Przyjmie, co ci chętnie składa:
+Siebie i to, co posiada.
+Odmów — a serce w żałobie
+Odpoczynek znajdzie w grobie».
+
+
+SYLWIUSZ
+
+I ty to nazywasz łajaniem?
+
+
+CELIA
+
+Biedny pasterzu!
+
+
+ROZALINDA
+
+Litujesz się nad nim? Nie, on niewart litości. I ty możesz kochać podobną kobietę? Pozwalasz, aby wzięła cię za instrument, na którym fałszywe wygrywa tony? To rzecz nie do zniesienia. Więc dobrze. Wracaj do niej z Bogiem, bo widzę, że miłość zrobiła cię ułaskawionym wężem; wracaj i powiedz jej: że jeśli mnie kocha, rozkazuję jej, żeby ciebie kochała; jeśli nie chce i ja jej nie chcę, chyba, że sam prosić za nią będziesz. Jeśli jesteś prawdziwym kochankiem, oddal się, a nie odpowiadaj, bo widzę nadchodzących nowych gości.
+
+/ Wychodzi Sylwiusz, wchodzi Oliwer. /
+
+
+OLIWER
+
+Dzień dobry! Mogęż spytać, piękna paro,
+Gdzie szukać chaty pasterskiej w tym lesie,
+Którą otacza bukiet drzew oliwnych?
+
+
+CELIA
+
+Idź stąd, na zachód znajdziesz niedaleko
+Wierzbowy gaik nad strugą szemrzącą,
+Tam się na lewo zwróć, a chatę znajdziesz.
+Ale się teraz chata sama strzeże,
+I darmo będziesz w zamknięte drzwi pukał.
+
+
+OLIWER
+
+Jeśli się język oczom na co przyda,
+To was z opisu poznaję oboje;
+Ten wiek, ten ubiór: «chłopiec jest urodny,
+Kobiecych rysów i tylko się zdaje
+Siostrą być starszą; dziewczyna mniej smukła.
+I twarzy trochę smagławszej od brata».
+Czy tamta chatka nie waszą własnością?
+
+
+CELIA
+
+Bez samochwalstwa przyznać to możemy.
+
+
+OLIWER
+
+Więc się wam obu Orlando poleca.
+Temu, którego Rozalindą zowie,
+Tę zakrwawioną śle chustkę. Czy tobie?
+
+
+ROZALINDA
+
+Mnie, lecz to wszystko jak mamy tłumaczyć?
+
+
+OLIWER
+
+Na moją hańbę, gdy wszystko opowiem,
+Kto jestem, kiedy, jak i gdzie ta chustka
+Krwią się zbroczyła.
+
+
+CELIA
+
+                        Opowiedz nam, proszę.
+
+
+OLIWER
+
+Gdy was Orlando ostatni raz rzucił,
+Obiecał wrócić przed końcem dwóch godzin.
+Kiedy szedł lasem w myślach zatopiony,
+Z których wysysał gorycze i słodycz,
+Na stronę rzucił przypadkiem spojrzenie
+I co za straszne ujrzał widowisko!
+Pod dębem mchami od wieku brodatym,
+A na wierzchołkach łysym od starości,
+Spał jakiś człowiek, odarty, zarosły,
+A jego szyję owijał kłębami
+Wąż cętkowany zielenią i złotem
+I migające, groźne żądło zbliżał
+Do ust otwartych; lecz ledwie zobaczył
+Postać Orlanda, kłęby swe rozwinął
+I zniknął nagle w krzaków bliskiej kępie.
+Lecz patrz! W tych krzaków cieniu była lwica
+Z piersią od głodu do kropelki wyschłą;
+Jak kot na czatach, przysiadła do ziemi,
+Czekając, aż się śpiący człek rozbudzi;
+Bo we lwie jest ten królewski obyczaj,
+Że gardzi strawą, co się trupem zdaje.
+Orlando wtedy zbliżył się do człeka,
+Spojrzał i poznał w nim starszego brata.
+
+
+CELIA
+
+Nieraz nam mówił o tym starszym bracie,
+Jak o bezdusznym wyrodku natury.
+
+
+OLIWER
+
+Mówiąc tak o nim, mówił sprawiedliwie,
+Bo wiem, że brat ten wyrodnym był bratem.
+
+
+ROZALINDA
+
+Ale Orlando czy zostawił brata
+Na żer zgłodniałej lwicy i jej szczeniąt?
+
+
+OLIWER
+
+W myśli tej głowę odwrócił dwa razy;
+Od zemsty jednak szlachetniejsza litość,
+Natury popęd silniejszy od gniewu
+Ze lwicą mierzyć mu się rozkazały.
+Wnet ją powalił, starcia tego łomot
+Z niebezpiecznego snu i mnie rozbudził.
+
+
+CELIA
+
+Ty bratem jego?
+
+
+ROZALINDA
+
+                        Ciebie uratował?
+
+
+CELIA
+
+Coś tak na życie jego często godził?
+
+
+OLIWER
+
+Mnie; lecz nie jestem już, czym byłem dawniej.
+Bez wstydu dzisiaj wyznaję, czym byłem,
+Taką słodyczą napawa mnie skrucha.
+
+
+ROZALINDA
+
+A krwawa chustka?
+
+
+OLIWER
+
+                        O wszystkim się dowiesz.
+Gdyśmy wzajemnie wśród łez rozczulenia
+Opowiedzieli sobie dzieje nasze,
+Ledwo usłyszał powód mej ucieczki,
+Wiódł mnie uprzejmie przed księcia oblicze,
+Który mnie przyjął, ubrał i nakarmił,
+I jego bratniej miłości polecił.
+Brat mnie do swojej poprowadził groty,
+Tam zdjął odzienie, bo lwica w zapasach
+Z jego ramienia wydarła część ciała,
+A krwi upływem osłabiony zemdlał
+I mdlejąc, szemrał imię Rozalindy.
+Gdym mu opatrzył ranę, wrócił zmysły,
+Po krótkiej chwili wyprawił mnie do was,
+Choć obcy puszczy nie znam jej przesmyków,
+By powieść moja wymówką mu była,
+Dlaczego nie mógł dotrzymać wam słowa,
+I żebym oddał chustkę zakrwawioną
+Temu, co żartem zwie się Rozalindą.
+
+/ Rozalinda mdleje. /
+
+
+CELIA
+
+Co ci jest, słodki, dobry Ganimedzie?
+
+
+OLIWER
+
+Wraca do zmysłów.
+
+
+ROZALINDA
+
+                        Pragnąłbym być w domu.
+
+
+CELIA
+
+Pójdziem tam. Proszę, daj mu twoje ramię.
+
+
+OLIWER
+
+Bądź dobrej myśli! Ażebyś był mężem,
+Brak ci męskiego serca, mój młodziku.
+
+
+ROZALINDA
+
+To prawda, wyznaję. Kto mnie widział, przyznać musi, że wybornie odegrałem moją rolę. Proszę cię, powiedz bratu, jak doskonale ją odegrałem. Ha, ha, ha!
+
+
+OLIWER
+
+To nie była sztuka. Bladość twojej twarzy zbyt jasno pokazuje, że to było prawdziwe uczucie.
+
+
+ROZALINDA
+
+Wierzaj mi, czysta komedia.
+
+
+OLIWER
+
+Niechże i tak będzie. Bądź dobrej otuchy, a staraj się równie dobrze odegrać rolę mężczyzny.
+
+
+ROZALINDA
+
+Staram się, o ile mogę, ale widzę, że z prawa mi się należało być kobietą.
+
+
+CELIA
+
+Idźmy! Coraz bardziej bledniejesz. Spieszmy się do domu! Odprowadź nas, dobry panie.
+
+
+OLIWER
+
+Bardzo chętnie; bo muszę zanieść odpowiedź mojemu bratu, jak przyjmujesz jego tłumaczenie, Rozalindo.
+
+
+ROZALINDA
+
+Pomyślę nad nią, a tymczasem nie zapomnij powiedzieć mu, jak dobrze odegrałem moją rolę. Idźmy!
+
+/ Wychodzą. /
+
+
+
+
+AKT PIĄTY
+
+
+
+SCENA I
+
+/ Las. /
+
+/ Probierczyk i Odrej. /
+
+
+PROBIERCZYK
+
+Znajdziemy porę, Tedziu, cierpliwość, słodka Tedziu!
+
+
+ODREJ
+
+Na uczciwość, ksiądz ten był do tego aż nadto dobry, mimo wszystkiego, co nam stary pan nagadał.
+
+
+PROBIERCZYK
+
+Najniegodziwszy Oliwer, najhaniebniejszy Psujtekst! Ale, Tedziu, jest tu w lesie młokos, który do ciebie rości sobie jakieś pretensje.
+
+
+ODREJ
+
+Znam go; ale on do mnie najmniejszego nie ma prawa. Właśnie nadchodzi człowiek, którego masz na myśli.
+
+/ Wchodzi Wilhelm. /
+
+
+PROBIERCZYK
+
+Mięsem jest dla mnie i winem spotkanie takiego błazna. Daję słowo, że my, ludzie dowcipu, ciężki będziemy musieli zdać rachunek; chcąc nie chcąc, musimy wyśmiewać.
+
+
+WILHELM
+
+Dobry wieczór, Tedziu.
+
+
+ODREJ
+
+Dobry wieczór, Wilhelmie.
+
+
+WILHELM
+
+I tobie, panie, dobry wieczór.
+
+
+PROBIERCZYK
+
+Dobry wieczór, miły przyjacielu. Wdziej czapkę, wdziej czapkę, proszę cię, wdziej czapkę. Jaki wiek twój, przyjacielu?
+
+
+WILHELM
+
+Dwadzieścia pięć lat, panie.
+
+
+PROBIERCZYK
+
+Wiek dojrzały. Imię twoje Wilhelm?
+
+
+WILHELM
+
+Wilhelm, panie.
+
+
+PROBIERCZYK
+
+Piękne imię. Urodziłeś się w tym lesie?
+
+
+WILHELM
+
+Tak jest, panie, dzięki Bogu.
+
+
+PROBIERCZYK
+
+Dzięki Bogu, dobra odpowiedź. Jesteś bogaty?
+
+
+WILHELM
+
+Ot tak, tak, panie.
+
+
+PROBIERCZYK
+
+Tak, tak, to dobrze, bardzo dobrze, przewybornie; ale nie, tylko tak, tak. Masz rozum?
+
+
+WILHELM
+
+Co do tego, nie zbywa mi na sprycie.
+
+
+PROBIERCZYK
+
+Dobrze mówisz. Przypominam sobie teraz zdanie: głupi myśli, że ma rozum, ale mądry wie dobrze, że jest głupim. Pogański filozof, ile razy chciał jeść winogrona, otwierał usta, żeby je włożyć do gęby, dając przez to do zrozumienia, że winogrona Bóg stworzył, żeby je ludzie jedli, a usta, żeby je otwierali. Czy kochasz tę dziewczynę?
+
+
+WILHELM
+
+Kocham, panie.
+
+
+PROBIERCZYK
+
+Daj mi rękę. Czy jesteś uczony?
+
+
+WILHELM
+
+Nie, panie.
+
+
+PROBIERCZYK
+
+Naucz się więc ode mnie tego, co następuje: Mieć, jest to mieć; bo to jest retoryczna figura, że kto płyn z kubka w szklankę przelewa, napełniając jedną, wypróżnia drugi, a wszyscy pisarze wasi jednozgodnie utrzymują, że ipse znaczy ten, a ty nie jesteś ipse, bo ja jestem ten.
+
+
+WILHELM
+
+Jaki ten, panie?
+
+
+PROBIERCZYK
+
+Ten, który tę kobietę weźmie za żonę. A zatem, prostaku, opuść lub, jak mówi pospólstwo, porzuć kompanię, po chłopsku: towarzystwo tej białogłowy, gminnie: kobiety; co razem wzięte znaczy: opuść kompanię tej białogłowy, albo inaczej, chłopie, zginiesz, lub, żebyś lepiej mnie zrozumiał, umrzesz, albo dobitniej jeszcze, zabiję cię, zaduszę cię, twoje życie na śmierć przemienię, a twoją wolność na niewolę, użyję przeciw tobie trucizny, pałki lub żelaza; wywołam przeciw tobie spiski stronnictw, zniszczę cię podstępem, zabiję cię stu pięćdziesięcioma sposobami; drżyj więc i uciekaj!
+
+
+ODREJ
+
+Uciekaj, dobry Wilhelmie!
+
+
+WILHELM
+
+Więc daj wam, Boże, szczęście.
+
+/ Wychodzi. /
+
+/ Wchodzi Koryn. /
+
+
+KORYN
+
+Pan i pani szukają cię wszędzie; śpiesz się! Śpiesz się!
+
+
+PROBIERCZYK
+
+Dreptaj, Tedziu, dreptaj! Idę! Idę!
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Las. /
+
+/ Orlando i Oliwer. /
+
+
+ORLANDO
+
+Być że może, abyś ją polubił po tak krótkiej znajomości? Abyś ją pokochał na pierwsze spojrzenie? Po zakochaniu o rękę prosił? Na prośbę przychylną odpowiedź otrzymał? Chcesz zawsze wziąć ją za żonę?
+
+
+OLIWER
+
+Nie mów mi o gwałtowności mojego szału, o jej ubóstwie, krótkiej znajomości, nagłym oświadczeniu, nagłym przyzwoleniu; lecz powiedz ze mną: kocham Alienę, powiedz z nią, że mnie kocha; zgódź się wspólnie z nami, żebyśmy się pobrali, bo to na dobre ci wyjdzie. Dom mojego ojca, wszystkie dochody starego Rolanda na ciebie przekażę, a sam żyć tu będę i umrę pasterzem.
+
+/ Wchodzi Rozalinda. /
+
+
+ORLANDO
+
+Masz moje przyzwolenie. Jutro wasz ślub; zaproszę księcia i wszystkich jego chętnych towarzyszy. Idź teraz i przygotuj na to Alienę, bo jak widzisz, zbliża się moja Rozalinda.
+
+
+ROZALINDA
+
+Bóg z tobą, bracie!
+
+
+OLIWER
+
+I z tobą, piękna siostro!
+
+
+ROZALINDA
+
+Drogi mój Orlando, jak boleję, widząc, że nosisz serce na temblaku!
+
+
+ORLANDO
+
+To tylko moja ręka.
+
+
+ROZALINDA
+
+Myślałam, że twoje serce ranione było lwa pazurami.
+
+
+ORLANDO
+
+Moje serce jest ranione, ale tylko spojrzeniem kobiety.
+
+
+ROZALINDA
+
+Czy ci brat twój powiedział, jak dobrze udałam zemdlenie na widok twojej chustki?
+
+
+ORLANDO
+
+I to, i większe jeszcze cuda.
+
+
+ROZALINDA
+
+Wiem, o czym chcesz mówić. Wszystko prawda. Nie widziano nic naglejszego na ziemi, chyba starcie się dwóch baranów i przesadzoną chwalbę Cezara: przyszedłem, zobaczyłem, zwyciężyłem. Brat twój i siostra moja ledwo się spotkali, już na siebie spojrzeli; ledwo spojrzeli, już się pokochali; ledwo pokochali, już westchnęli; ledwo westchnęli, już się wzajemnie o przyczynę pytali; ledwo przyczynę odkryli, już szukali lekarstwa i z takich stopni złożyli schody małżeństwa, którymi chcą natychmiast wstępować albo wszystko przed ślubem przestąpić. Porwał ich szał miłości; żyć chcą razem, a drągiem ich nie rozdzielisz.
+
+
+ORLANDO
+
+Jutro ślub ich; zaproszę księcia na wesele. Ale jak gorzko patrzeć na szczęście oczyma innego! Tym większy ciężar będzie mi jutro na sercu leżał, im więcej będę myślał, jak brat mój jest szczęśliwy, gdy otrzymał, czego pragnął.
+
+
+ROZALINDA
+
+Jak to? Alboż nie mogę ci służyć jutro za Rozalindę?
+
+
+ORLANDO
+
+Nie mogę żyć dłużej wyobraźnią.
+
+
+ROZALINDA
+
+Nie chcę cię dłużej nudzić próżną gadaniną. Wiedz więc, a mówię teraz bez żartu, iż wiem, że jesteś szlachcicem wysokich zdolności. Jeśli to mówię, to nie dlatego, żeby ci dać dobrą opinię o moim rozumie, gdy poznałam twoją wartość, ani się ubiegam o więcej twojego szacunku, niż koniecznie potrzeba, żeby cię natchnąć odrobiną wiary dla twojego własnego dobra, a nie dla mojej chluby potrzebnej. Wierzaj więc, proszę, że mogę dziwy wyprawiać. Od trzeciego roku życia rosłem w towarzystwie czarnoksiężnika głęboko ćwiczonego w swojej sztuce, bez grzesznych jednak tajemnic. Jeśli tak serdecznie kochasz Rozalindę, jak zewnętrznymi pokazujesz oznakami, pojmiesz ją za żonę w tej samej chwili, w której brat twój pojmie Alienę. Wiem, w jak smutnym znajduje się dziś ona położeniu, i mogę, jeśli nie masz nic przeciw temu, stawić ci ją jutro przed oczyma w jej ludzkiej postaci bez żadnego niebezpieczeństwa.
+
+
+ORLANDO
+
+I mówisz to bez żartu?
+
+
+ROZALINDA
+
+Na moje życie, które szczerze kocham, choć jestem czarnoksiężnikiem. Przywdziej więc niedzielne szaty, sproś przyjaciół, bo jeśli chcesz ożenić się jutro, ożenisz się, a z Rozalindą, jeśli tego pragniesz. Wchodzą: Sylwiusz i Febe. Patrz, wchodzi zakochana we mnie pasterka i zakochany w niej pasterz.
+
+
+FEBE
+
+Młodzieńcze, wielką zrobiłeś mi krzywdę, list pokazując, który ci pisałam.
+
+
+ROZALINDA
+
+Wszystko mi jedno. Dla ciebie mam tylko
+Surowe słowa gniewu i szyderstwa.
+Wszak masz przy sobie wiernego pasterza,
+Szanuj go, kochaj, bo on cię ubóstwia.
+
+
+FEBE
+
+Powiedz, pasterzu, temu młodzikowi,
+Co to jest miłość.
+
+
+SYLWIUSZ
+
+                        Być tylko westchnieniem
+I łzą być tylko tak jak ja dla Feby.
+
+
+FEBE
+
+Jak ja dla Ganimeda.
+
+
+ORLANDO
+
+Jak ja dla Rozalindy.
+
+
+ROZALINDA
+
+Jak ja dla żadnej kobiety.
+
+
+SYLWIUSZ
+
+Być tylko wiarą, tylko poświęceniem, jak ja dla Feby.
+
+
+FEBE
+
+Jak ja dla Ganimeda.
+
+
+ORLANDO
+
+Jak ja dla Rozalindy.
+
+
+ROZALINDA
+
+Jak ja dla żadnej kobiety.
+
+
+SYLWIUSZ
+
+Tylko marzeniem, tylko namiętnością,
+Tylko być zbiorem żądz i ubóstwienia,
+I tylko hołdu, tylko posłuszeństwa,
+Tylko pokory, czystości i względów,
+I cierpliwości i niecierpliwości,
+I rezygnacji, tak jak ja dla Feby.
+
+
+FEBE
+
+Jak ja dla Ganimeda.
+
+
+ORLANDO
+
+Jak ja dla Rozalindy.
+
+
+ROZALINDA
+
+Jak ja dla żadnej kobiety.
+
+
+FEBE
+
+/ do Rozalindy: /
+
+Gdy tak jest, czemu miłością mą gardzisz?
+
+
+SYLWIUSZ
+
+/ do Feby: /
+
+Gdy tak jest, czemu miłością mą gardzisz?
+
+
+ORLANDO
+
+Gdy tak jest, czemu miłością mą gardzisz?
+
+
+ROZALINDA
+
+Której kobiecie pytanie to robisz?
+
+
+ORLANDO
+
+Której tu nie ma, która mnie nie słyszy.
+
+
+ROZALINDA
+
+Dosyć tego; powiedziałby kto, że irlandzkie wilki na księżyc wyją. Do Sylwiusza: Przyjdę ci w pomoc, jeśli potrafię. Do Feby: Kochałbym cię, gdybym mógł tylko. Jutro przyjdźcie do mnie wszyscy. Do Feby: Poślubię cię jutro, jeśli kiedykolwiek poślubię kobietę, a poślubię jutro. Do Orlanda: Zaspokoję twoje życzenia, jeśli kiedykolwiek zaspokoiłem mężczyznę, a jutro pojmiesz żonę. Do Sylwiusza: Zrobię cię jutro szczęśliwym, jeśli otrzymując, czego pragniesz, będziesz szczęśliwy, a jutro pojmiesz żonę. Do Orlanda: Jak kochasz Rozalindę, przybądź! Do Sylwiusza: Jak kochasz Febe, przybądź! A ja, jak żadnej nie kocham kobiety, przybędę. A teraz, bądźcie zdrowi! Znacie moje rozkazy.
+
+
+SYLWIUSZ
+
+Jeśli dożyję, przybędę.
+
+
+FEBE
+
+Przybędę.
+
+
+ORLANDO
+
+Przybędę.
+
+/ Wychodzą. /
+
+
+
+SCENA III
+
+/ Las. /
+
+/ Probierczyk i Odrej. /
+
+
+PROBIERCZYK
+
+Jutro dzień szczęśliwy, Tedziu, jutro się pobierzemy.
+
+
+ODREJ
+
+Pragnę tego z całej duszy, a nie myślę, żeby było grzechem pragnąć zostać panią. Ale otóż dwaj paziowie wygnanego księcia.
+
+/ Wchodzą dwaj Paziowie. /
+
+
+1 PAŹ
+
+Szczęśliwe spotkanie!
+
+
+PROBIERCZYK
+
+Szczęśliwe, na uczciwość. Dalej, siadajcie i zanućcie nam jaką piosenkę.
+
+
+2 PAŹ
+
+Na rozkazy. Siadajcie między nami.
+
+
+1 PAŹ
+
+Mamyż rzecz gracko poprowadzić, bez ceremonii, bez spluwania, bez skarg na chrypkę, tych zwykłych przegrywek lichego głosu?
+
+
+2 PAŹ
+
+Rozumie się; a oba do jednego tonu jak dwie Cyganki na jednym koniu.
+
+*Pieśń*
+
+I.
+Szedł z kochanką zakochany,
+Śpiewał: dana, dana, dana!
+Szedł przez łąki, szedł przez łany,
+Szedł śród wiosny, pory pieśni;
+Ptactwo nuci hymn miłosny,
+A kochankom trzeba wiosny.
+
+II.
+Gdzie śród łanów szumi zboże,
+Nucąc: dana, dana, dana!
+Tam kochankom wonne łoże,
+Pośród wiosny, pory pieśni,
+Gdy ptak nuci hymn miłosny,
+Bo kochankom trzeba wiosny.
+
+III.
+Tak gdy młodość im ucieka,
+Nucą: dana, dana, dana!
+Kwiatkiem tylko życie człeka
+Pośród wiosny, pory pieśni,
+Gdy ptak nuci hymn miłosny
+Bo kochankom trzeba wiosny.
+
+IV.
+Zbieraj kwiaty, gdy czas służy,
+Nucąc: dana, dana, dana!
+Bo nie znajdziesz pączków róży
+Tylko w wiośnie, porze pieśni,
+Gdy ptak nuci hymn miłosny,
+A kochankom trzeba wiosny.
+
+
+PROBIERCZYK
+
+Wyznaję, młodzi panicze, że choć niewiele było sensu w piosence, to nuta niewiele miała harmonii.
+
+
+1 PAŹ
+
+Mylisz się, przyjacielu, harmonia była dobra, zachowaliśmy takt, nie pomyliliśmy się w tempie.
+
+
+PROBIERCZYK
+
+I ja się nie pomylę, gdy powiem, że tępą ma głowę, kto się takim przysłuchuje błazeństwom. Bóg z wami! Bóg napraw wasze głowy! Idźmy, Tedziu!
+
+/ Wychodzi. /
+
+
+
+SCENA IV
+
+/ Inna strona lasu. /
+
+/ Książę wygnany, Amiens, Jakub, Orlando, Oliwer i Celia. /
+
+
+KSIĄŻĘ
+
+I ty przypuszczasz, Orlando, że młodzik wszystko to zrobi, co zrobić przyrzeka?
+
+
+ORLANDO
+
+Czasami wierzę, nie wierzę czasami,
+Jak przelękniony nadziei nie traci,
+Chociaż się lęka.
+
+/ Wchodzą: Rozalinda, Sylwiusz i Febe. /
+
+
+ROZALINDA
+
+                        Chwila cierpliwości;
+Zgódźmy się wprzódy na wszystkie warunki.
+Do Księcia: Przyrzekasz, książę, gdy ci córkę wrócę,
+Córki tej rękę oddać Orlandowi?
+
+
+KSIĄŻĘ
+
+A z nią królestwa, gdybym je posiadał.
+
+
+ROZALINDA
+
+/ do Orlanda: /
+
+Ty ją chcesz pojąć, jeśli ją sprowadzę?
+
+
+ORLANDO
+
+Gdybym był nawet wszystkich królestw królem.
+
+
+ROZALINDA
+
+/ do Feby: /
+
+Ty chcesz za męża wziąć mnie, gdy zezwolę?
+
+
+FEBE
+
+Choćbym godzinę później umrzeć miała.
+
+
+ROZALINDA
+
+Ale, jeżeli rękę mą odrzucisz,
+To oddasz twoją temu pasterzowi?
+
+
+FEBE
+
+Taki jest układ.
+
+
+ROZALINDA
+
+/ do Sylwiusza: /
+
+Ty chcesz pojąć Febe,
+Jeśli zezwoli?
+
+
+SYLWIUSZ
+
+                        Gdyby ją posiadać
+A umrzeć potem, znaczyło się jedno.
+
+
+ROZALINDA
+
+Wszystko przyrzekłem pogodzić. O, książę,
+Dotrzymaj słowa, że mu córkę oddasz.
+I ty, Orlando, że córkę tę weźmiesz,
+I ty, o, Febe, że będziesz mą żoną,
+Albo, mnie nie chcąc, tego tu pasterza,
+I ty, o, Sylwio, że gdy mnie odrzuci,
+Chętnie ją pojmiesz. A teraz odchodzę,
+Aby te wszystkie trudności rozwikłać.
+
+/ Wychodzi z Celią. /
+
+
+KSIĄŻĘ
+
+W młodzika tego twarzy nieraz widzę
+Żyjące ślady rysów mojej córki.
+
+
+ORLANDO
+
+Kiedym go, panie, raz zobaczył pierwszy,
+On mi się córki twojej bratem wydał;
+A przecie on się urodził w tej puszczy,
+Pierwszych się zasad czarnoksięskiej sztuki
+Tutaj wyuczył od swojego stryja,
+Który jest wielkim, mówi, czarodziejem
+W głębokim cieniu lasów tych ukrytym.
+
+/ Wchodzą: Probierczyk i Odrej. /
+
+
+JAKUB
+
+Zapewne nowy potop niedaleko, bo wszystkie pary do arki się schodzą. Otóż i nowa para dziwnych zwierząt, które we wszystkich językach nazywają błaznami.
+
+
+PROBIERCZYK
+
+Ukłon i pozdrowienie wszystkim!
+
+
+JAKUB
+
+Przyjm go łaskawie, mój Książę. To właśnie jegomość pstrokatych myśli, którego tak często w lesie spotykałem. Przysięga, że był dworakiem.
+
+
+PROBIERCZYK
+
+Kto o tym wątpi, niech mnie na próbę weźmie. Tańczyłem menueta; prawiłem komplementy damie; politykowałem z przyjacielem, a z nieprzyjacielem byłem słodziuchny; zrujnowałem trzech krawców, miałem cztery zajścia, a w jednym o mało nie przyszło do pojedynku.
+
+
+JAKUB
+
+Jakże się skończyło zajście?
+
+
+PROBIERCZYK
+
+Kiedyśmy stanęli na placu, pokazało się, że kłótnia doszła siódmego stopnia.
+
+
+JAKUB
+
+Jak to siódmego stopnia? Książę mój, bądź łaskawy dla tego człowieka.
+
+
+KSIĄŻĘ
+
+Bardzo mi się podoba.
+
+
+PROBIERCZYK
+
+Bóg wam zapłać, panie, i daj wam równą miłość u ludzi! Przybiegam tu jak i inne wiejskie pary, żeby przysięgać i krzywoprzysięgać, stosownie do tego, jak wiąże ślub, a krew rozwiązuje. Biedna dziewka, panie, straszydełko, panie, ale moja. Bo biedne moje przywidzenie — wziąć, czego nikt inny wziąć nie chciał. Bogata cnota mieszka jak skąpiec — w szpitalu, jak wasze perły — w brudnej ostrydze.
+
+
+KSIĄŻĘ
+
+Bystry to człowiek i pełen sentencji.
+
+
+PROBIERCZYK
+
+Jakie może znaleźć błazen w chorej czuprynie.
+
+
+JAKUB
+
+Ale wróćmy do siódmego stopnia: jakże się to pokazało, że zajście doszło siódmego stopnia?
+
+
+PROBIERCZYK
+
+Przez siedem razy odparte kłamstwo. Trzymaj się lepiej, Tedziu. A to jak następuje: nie był mi po myśli sposób strzyżenia brody pewnego dworzanina; on na to przysłał mi słowo, iż jeśli powiedziałem, że broda jego niedobrze była ostrzyżona, jemu się zdaje, że ostrzyżona była dobrze. To nazywa się u nas „odpowiedź grzeczna”. Gdybym mu raz jeszcze powtórzył, że broda jego źle była ostrzyżona, on by mi odesłał w odpowiedzi, że ją ostrzygł, jak mu się podobało. To nazywa się u nas „skromny przygryzek”. Gdybym raz jeszcze powtórzył, że nie była dobrze ostrzyżona, on by mi powiedział, że straciłem rozum. To się nazywa u nas „grubiańska odpowiedź”. A gdyby jeszcze broda źle była ostrzyżona, odrzekłby, że nie mówię prawdy. To się nazywa u nas „waleczna replika”. Gdyby raz jeszcze źle była ostrzyżona, powiedziałby mi, że kłamię. To się nas nazywa „swarliwe zaprzeczenie”. Idzie z kolei „kłamstwo warunkowe” i „kłamstwo wręcz”.
+
+
+JAKUB
+
+A ty ile razy powtórzyłeś, że broda jego nie była dobrze ostrzyżona?
+
+
+PROBIERCZYK
+
+Nie śmiałem pójść dalej niż kłamstwo warunkowe, a on nie śmiał mi zadać kłamstwa wręcz, zmierzyliśmy więc szpady i rozeszli się.
+
+
+JAKUB
+
+Czy mógłbyś mi wyliczyć wszystkie stopnie kłamstwa po kolei?
+
+
+PROBIERCZYK
+
+Nic łatwiejszego. Na wszelkie zajście jest tekst drukowany, jak są manuały grzeczności. Wyliczę wszystkie stopnie po kolei. Pierwszy stopień, grzeczna odpowiedź; drugi, skromny przygryzek; trzeci, odpowiedź grubiańska; czwarty, waleczna replika; piąty, swarliwe zaprzeczenie; szósty, kłamstwo warunkowe; siódmy, kłamstwo wręcz. Z wszystkich tych nietrudno się wycofać, wyjąwszy kłamstwa wręcz, a i z tego można się wyratować za pomocą: „jeżeli”. Znam sprawę, której siedmiu sędziów załagodzić nie mogło, ale gdy strony spotkały się na placu, przyszło jednemu na myśl „jeżeli”. Na przykład: „Jeżeli pan powiedziałeś tak, to ja powiedziałem tak”; na te słowa podali sobie ręce i przysięgli sobie braterstwo. Rzadki to sędzia pokoju wasze „jeżeli”; wielkie są cnoty w „jeżeli”.
+
+
+JAKUB
+
+Czy nie rzadki to kamrat, mój książę? Doskonały we wszystkim, a przecie błazen.
+
+
+KSIĄŻĘ
+
+Błazeństwo jest mu tarczą, zza której strzela konceptami.
+
+/ Wchodzi Hymen prowadząc Rozalindę i Celię. — Muzyka. /
+
+
+HYMEN
+
+    Cieszą się niebieskie chóry,
+    Ile razy ziemskie spory
+    Święta zgoda znów jednoczy.
+    Przyjmij córkę, dobry panie,
+    Na niebieskie rozkazanie
+    Hymen wiódł ci ją przed oczy,
+    Byś ją temu oddał w dłonie,
+    Co swe serce ma w jej łonie.
+
+
+ROZALINDA
+
+/ do Księcia: /
+
+Tobie się daję, twoją bowiem jestem.
+Do Orlanda:
+Tobie się daję, twoją bowiem jestem.
+
+
+KSIĄŻĘ
+
+Lub oczy kłamią, lub córką mą jesteś.
+
+
+ORLANDO
+
+Lub oczy kłamią, lub to Rozalinda.
+
+
+FEBE
+
+Jeśli mnie nie mylą oczy,
+Żegnaj kochanku uroczy!
+
+
+ROZALINDA
+
+/ do Księcia: /
+
+Nie chcę innego ojca mieć jak ciebie. Do Orlanda: Nie chcę innego męża mieć jak ciebie. Do Feby: Innej zaślubić kobiety jak ciebie.
+
+
+HYMEN
+
+    Pokój! Zgoda! Dość już wrzawy,
+    Rozwikłane wszystkie sprawy,
+    Skończyć wszystko czas.
+    Jeśli dotrzymacie wiary,
+    Zakochane cztery pary,
+    Hymen złączy was.
+
+/ Do Orlanda i Rozalindy: /
+
+    Nigdy nic was nie rozdzieli,
+    Wy dwie dusze w jedną zleli.
+
+/ Do Feby: /
+
+    Wierny pasterz dziś zwycięża,
+    Albo dziewkę masz za męża.
+
+/ Do Probierczyka i Odrej: /
+
+    Wy tak wierni śród żywota,
+    Jak jest zimie wierna słota.
+    Gdy my nucim ślubne pienie,
+    Ona da wam wyjaśnienie
+    I rozplata sprawy wątek,
+    Koniec równie jak początek.
+
+
+Pieśń
+
+Małżeństwo wieńcem wielkiej Junony;
+Święty jest węzeł męża i żony!
+Hymen zaludnia miasta i ziemie,
+Niech więc małżeństwo ludzkie czci plemię,
+Niechaj wciąż godność Hymenu wzrasta,
+Bo on jest bogiem każdego miasta.
+
+
+KSIĄŻĘ
+
+Witam cię, Celio, z tą samą radością,
+Z jakąm powitał córkę mą kochaną.
+
+
+FEBE
+
+/ do Sylwiusza: /
+
+I ja też spełnię przysięgę raz daną,
+Twoją ci miłość zapłacę miłością.
+
+/ Wchodzi Jakub de Bois. /
+
+
+JAKUB DE BOIS
+
+Dozwól mi, książę, słów kilka powiedzieć.
+Sira Rolanda drugim jestem synem,
+A takie, panie, przynoszę ci wieści:
+Książę Fryderyk, słysząc, że codziennie
+Ludzie poważni fortuną i wiekiem
+Do tej się puszczy tłumami zbiegali,
+Pieszego ludu silny zebrał zastęp
+I sam na czele w te strony wyruszył,
+Aby własnego brata zamordować.
+Już stało wojsko na krawędzi lasu,
+Gdy wódz świętego spotkał pustelnika,
+A po niedługiej, cichej z nim rozmowie
+I swoich myśli, i świata się wyrzekł;
+Wraca koronę wygnanemu bratu,
+Wraca majątki jego towarzyszom.
+Za prawdę słów mych głową odpowiadam.
+
+
+KSIĄŻĘ
+
+Witaj, młodzieńcze! Dla twoich dziś braci
+Piękne przynosisz ślubne podarunki:
+Jednemu ziemie zabrane, drugiemu
+Rozległe włości i potężne księstwo.
+Niech się w tym lesie szczęśliwie przód skończy,
+Co się w tym lesie szczęśliwie poczęło,
+A potem każdy z szczęśliwego koła,
+Który wytrzymał ze mną ciężkie próby,
+I nowe szczęście pójdzie ze mną dzielić,
+Wedle swych zasług i swojego stanu.
+O wielkich zmianach zapomnijcie, proszę,
+I na wsi wspólne przyjmijcie rozkosze.
+Zagrzmij, muzyko, a wy, młode pary,
+Cieszcie się wspólnie i skaczcie do miary.
+
+
+JAKUB
+
+Proszę o słowo. Jeśli zrozumiałem,
+Książę w klasztornej ciszy się zamyka,
+Na zawsze dworskiej wyrzeka się pompy.
+
+
+JAKUB DE BOIS
+
+Tak jest.
+
+
+JAKUB
+
+                        Do niego i ja więc pobiegnę,
+Bo wiele rzeczy mają opowiadać,
+Wiele nauczać nowo nawróceni.
+Do Księcia: Tobie, mój książę, przekazuję księstwo:
+Twoja cierpliwość daje ci doń prawo.
+Do Orlanda: A tobie miłość wiary twojej godną.
+Do Oliwera: A tobie ziemie, miłość, koligacje.
+Do Sylwiusza: A tobie rozkosz dawno zasłużoną.
+Do Probierczyka: A tobie swary; na miłosną podróż
+Na dwa miesiące tylko żywność macie.
+A teraz naprzód, taneczników koła!
+Lecz mnie do innych pląsów serce woła.
+
+
+KSIĄŻĘ
+
+Nie, nie, Jakubie, zostań jeszcze z nami.
+
+
+JAKUB
+
+Nie dla mnie tańce. Na twoje zlecenia
+Czekam, o książę, w opuszczonej grocie.
+
+/ Wychodzi. /
+
+
+KSIĄŻĘ
+
+Więc rozpocznijmy święto zaślubienia.
+Bóg niech da po nim świątecznych dni krocie!
+
+/ Taniec. /
+
+
+
+
+EPILOG
+
+
+ROZALINDA
+
+Rzecz to niezwykła widzieć kobietę w epilogu, nic w tym przecie nieprzystojniejszego niż widzieć mężczyznę w prologu. Choć to prawda, że dobre wino nie potrzebuje wiechy, a dobra sztuka epilogu. Ale w jak wielkim znajduję się kłopocie, ja, co ani jestem dobrym epilogiem, ani odzywam się do was w sprawie dobrej sztuki! Nie jestem ubrana jak żebraczka, nie przystoi mi więc żebranina; moim rzemiosłem zaklęcia; zaczynam więc od was, piękne panie. Wzywam więc was, panie, w imię waszej miłości dla mężczyzn, dajcie poklask wszystkiemu, co się wam w tej sztuce podoba; a was, mężczyźni, wzywam w imię waszej miłości dla kobiet — a z waszych uśmiechów wnoszę, że żaden z was nienawiści ku nim nie czuje — wzywam was, dajcie poklask temu, czemu nie przyklasnęły kobiety. Co do mnie, gdybym była kobietą, dałabym każdemu z was pocałunek, którego by mi się podobała broda albo cera, albo którego oddech by mnie nie odstraszył. Spodziewam się więc, że i z was każdy, który ma piękną brodę albo cerę, albo wonny oddech, za moje dobre chęci, po moim ukłonie pożegna mnie oklaskiem.
+
+/ Wychodzą. /

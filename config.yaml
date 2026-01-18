@@ -1,0 +1,27 @@
+# Corpus settings
+corpus:
+  wolne_lektury_url: "https://wolnelektury.pl"
+  pickle_path: "./data/books.pkl"
+  data_dir: "./data/books_source"
+  cache_dir: "./data/cache"
+  file_extensions: [".txt", ".md"]
+  encoding: "utf-8"
+  
+# Preprocessing settings
+preprocessing:
+  min_token_length: 1
+
+# Zipf analysis settings
+zipf:
+  log_log_fit_range: 1000  # Range for log-log fit
+
+# Semantic graph settings
+semantics:
+  walenty_path: "./data/walenty/verbs/walenty_20160418_verbs_all.txt"
+  
+# Output settings
+output:
+  csv_dir: "./output/csv"
+  plot_dir: "./output/plots"
+  json_dir: "./output/json"
+  

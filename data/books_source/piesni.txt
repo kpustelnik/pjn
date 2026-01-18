@@ -1,0 +1,2414 @@
+Pieśni
+[Nota edytorska]
+
+
+
+Tekst Pieśni został tu podany według pierwodruku, który ukazał się w roku 1586 w Drukarni Łazarzowej w Krakowie pt. Pieśni Jana Kochanowskiego księgi dwoje. Egzemplarz Biblioteki Zakładu Narodowego im. Ossolińskich we Wrocławiu (sygn. XVI Qu. 2036) został starannie przedrukowany przez Władysława Floryana (1953, 2. wyd. 1981).
+
+Nie zamieszczono w niniejszej edycji dwu utworów: O śmierci Jana Tarnowskiego i Pamiątka Janowi Baptyście… Znajdują się one wprawdzie w pierwodruku Pieśni, ale pod względem gatunkowym, jako epicedia, stanowią zupełnie odrębne zjawisko. Zamieszczono natomiast pieśni nie włączone do zbioru „ksiąg dwojga”, ale opublikowane pośmiertnie w osobnej edycji zatytułowanej Fragmenta albo pozostałe pisma, wydanej w tejże Drukarni Łazarzowej w roku 1590 (ta edycja jest podstawą przedruku; korzystałem z egzemplarza Biblioteki Czartoryskich w Krakowie, sygn. 2029 I).
+
+Tekst został przygotowany zasadniczo zgodnie z kryteriami zawartymi w opracowaniu Zasady wydawania tekstów staropolskich. Projekt (Wrocław 1955) — typ B (edycje popularnonaukowe). Zachowano jednak pewne cechy językowe, których nie uwzględnia się w edycjach popularnonaukowych, zwłaszcza dawne końcówki fleksyjne i większość dawnych form ortograficznych (np. w zakresie pisowni „u”/„ó”) oraz wariantowe zapisy niektórych wyrazów („sie”/„się”), ujednolicono jednak zgodnie z pisownią dzisiejszą niektóre formy ortograficzne używane w pierwodruku zamiennie (np. „pułnocny”/„północny”). Nie zachowano „a” pochylonego, „e” pochylone zachowano jedynie w miejscach rymowych, a „o” pochylone tylko w przypadkach zgodnych z pisownią dzisiejszą.
+
+Podstawową zasadą była jak największa wierność wobec pierwodruku, również w zakresie interpunkcji, która stanowi jeden z najtrudniejszych i do dziś nie rozwiązanych problemów edytorskich literatury staropolskiej. Trudno tu o rozwiązanie możliwe do przyjęcia przez wszystkich ze względu na zasadnicze różnice między dawnym systemem retoryczno-intonacyjnym i obecnym systemem logiczno-syntaktycznym, a także ze względu na niekonsekwencje zapisu w dawnych drukach.
+
+Ponadto w niniejszej edycji zastosowano współczesne zasady pisowni małych i wielkich liter. Wielkimi literami zapisywano też rzeczowniki oznaczające upersonifikowane pojęcia (np. Fortuna, Szczęście).
+
+W związku z powyższym edycja utworu nie opiera się w całości na żadnym z wydań współczesnych, choć przede wszystkim uwzględniono pewne rozstrzygnięcia zawarte w najnowszej edycji krytycznej Pieśni, opracowanej w ramach sejmowego wydania Dzieł wszystkich Kochanowskiego przez Marię Renatę Mayenową i Krystynę Wilczewską oraz Barbarę Otwinowską i Marię Cytowską (1991). Wykorzystano cenny Aneks I: Zmiany tekstowe w wydaniach i rękopisach „Pieśni”. Nieliczne koniektury i emendacje wprowadzone przez Autorki tej edycji przyjęto bez zastrzeżeń i ze względu na charakter niniejszego wydania nie zaznaczono ich ani w tekście, ani w przypisach. Wydanie to nie obejmuje jednak pieśni zawartych we Fragmentach (osobna edycja Fragmentów w ramach wydania sejmowego jeszcze się nie ukazała). Za edycjami Krzyżanowskiego i Ślękowej przyjęto więc — też nie zaznaczając tego osobno — kilka drobnych emendacji w tekście pieśni z Fragmentów, trzymając się jednak wiernie przekazu zawartego w pierwodruku.
+
+Przy opracowywaniu tekstów zostały wzięte pod uwagę także ustalenia edytorskie zawarte w wydaniach przygotowanych dla serii Biblioteki Narodowej przez Tadeusza Sinkę (1927, 1948) i Ludwikę Ślękową (1970, 1997) oraz w edycji Poezji Jana Kochanowskiego opracowanej przez Janusza Pelca (wyd. 2, 1988) i w edycji Dzieł polskich opracowanej przez Juliana Krzyżanowskiego (wyd. 9, 1978).
+
+Zgodnie z praktyką stosowaną przez niektórych dotychczasowych wydawców (Julian Krzyżanowski, Janusz Pelc) wyodrębniono graficznie poszczególne strofy pieśni, uznając, że taki tradycyjny zapis oddaje intencje zawarte w zapisie znanym z pierwodruku, a równocześnie jest czytelny i uzasadniony w wydaniu przeznaczonym dla szerokiego kręgu odbiorców.
+
+Autorom wszystkich wymienionych edycji, a zwłaszcza Autorkom wydania sejmowego, niniejsza edycja wiele zawdzięcza również w zakresie opracowania komentarza, który jednak różni się w wielu miejscach od komentarzy do edycji wcześniejszych. Głównym celem było umożliwienie współczesnemu czytelnikowi — nie obeznanemu w ogóle z dawną polszczyzną — zrozumienia tekstu. Objaśnienia są więc praktyczne, zwięzłe i nie odwołują się do problematyki historycznojęzykowej. W celu ustrzeżenia czytelnika przed mylnymi interpretacjami tekstu szczególną uwagę zwrócono na wyrazy, które są używane do dziś, ale których znaczenie w Pieśniach jest odmienne od znaczenia obecnego.
+
+Przy tworzeniu komentarza pomocne były także podstawowe słowniki, a zwłaszcza Słownik polszczyzny XVI wieku, Słownik języka polskiego pod red. Witolda Doroszewskiego oraz Słownik języka polskiego Samuela Bogumiła Lindego, a także słowniki mitologiczne, zwłaszcza Słownik mitologii greckiej i rzymskiej Pierre’a Grimala.
+
+
+
+prof. dr hab. Piotr Wilczek, Uniwersytet Warszawski, Instytut Badań Interdyscyplinarnych „Artes liberales”
+
+
+
+
+ Pieśni Jana Kochanowskiego Księgi Dwoje
+[Dedykacja]
+
+
+
+Nikomu, albo raczej wszytkim, swoje księgi
+Daję. By kto nie mniemał (strach to bowiem tęgi),
+Że za to trzeba co dać. Wszyscy darmo miejcie.
+O drukarza nie mówię, z tym sie zrozumiejcie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń I
+Intactis opulentior
+
+
+
+Byś wszystko złoto posiadł, które — powiadają —
+Gdzieś daleko gryfowie i mrówki kopają;
+Byś pałace rozwodził nie tylko na ziemi,
+Lecz i morza kamieńmi zabudował swemi;
+
+Jesli dyjamentowe goździe Mus ma w ręku,
+Któremi natwardszego umie pożyć sęku,
+Ani ty wyswobodzisz serca z ciężkiej trwogi,
+Ani z okrutnej śmierci sideł wyrwiesz nogi.
+
+Lepiej polnych Tatarów dawny zwyczaj niesie,
+U których każdy swój dom wozi na kolesie;
+Lepszego rządu Gete grubi używają,
+Gdzie niwy nie mierzone wolne zboża dają.
+
+Tam niewinna macocha dziatek pierwszej żony,
+Sirót nędznych, przestrzega wczasu z każdej strony;
+Ani z wielkim posagiem męża rządzi, ani
+Nadzieje kładzie w gładkim miłosniku pani.
+
+Wielki posag rodziców postępki uczciwe,
+A k temu obyczaje skromne i wstydliwe;
+Występnych tam nie cierpią, lecz kto będzie krzywy,
+Niech sie wierci, jako chce, nie zostanie żywy.
+
+O, ktokolwiek będzie chciał mordy niecnotliwe
+I domowe okrócić najazdy krwie chciwe,
+Jesli pragnie ojczyzny ojcem być nazwany
+I tymże na wysokich kolumnach pisany,
+
+Niech objeździć swą wolą śmie nieokróconą,
+A jego sprawy przyszłe wieki więc wspomioną;
+Ponieważ cnocie żywej my źli, nie życzemy,
+Aż gdy nam z oczu zniknie, toż jej żałujemy.
+
+Co po tych skargach próznych, jesli na występy
+Przez spary — jako mówią — patrza urząd tępy?
+Po co statut i prawa chwalebne stawiamy,
+Jesli sie obyczajów dobrych nie trzymamy?
+
+Nie odstraszą zbytecznym ogniem zarażone
+Kupca kraje chciwego ani przesadzone
+Mrozem gwałtownym pola; żeglarze bywali
+Wszystek świat, jako wielki, kołem objechali.
+
+Ubóstwo, hańba wielka, każe człowiekowi
+Czynić i cierpieć wszystko; już on i wstydowi
+Mir dawno wypowiedział, i cnocie, niedbały,
+Poświęconej nie myśli dostępować skały.
+
+Albo my do spólnego skarbu, gdzie życzliwa
+Ludzka pochwała i głos pospolity wzywa,
+Albo w morze, przyczynę wszech nieszczęśliwości,
+Perły, złoto i wielkiej kamienie drogości
+
+Zarzućmy, jesli grzechów żałujem statecznie
+I nieprawości swoich. Potrzeba kóniecznie
+Złej napierwsze początki żądze wykorzenić,
+A dziełem pracowitszym pieszczotę odmienić.
+
+Nie umie syn szlachecki na koń wsieść i w łowy
+Na dziki źwierz z oszczepem jachać niegotowy,
+Lepiej kufla świadomy albo kart pisanych,
+Każesz li dać, i kostek, prawem zakazanych.
+
+Więc ojciec krzywo przysiągł, wydarł sąsiadowi,
+Gotując niegodnemu spadek potomkowi:
+I przybywa-ć mu rzkomo, ale nie wiem czemu,
+Zawżdy na czymści schodzi państwu niesporemu.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń II
+
+
+
+Serce roście patrząc na te czasy!
+Mało przed tym gołe były lasy,
+Śnieg na ziemi wysszej łokcia leżał,
+A po rzekach wóz nacięższy zbieżał.
+
+Teraz drzewa liście na sie wzięły,
+Polne łąki pięknie zakwitnęły;
+Lody zeszły, a po czystej wodzie
+Idą statki i ciosane łodzie.
+
+Teraz prawie świat sie wszystek śmieje,
+Zboża wstały, wiatr zachodny wieje;
+Ptacy sobie gniazda omyślają,
+A przede dniem śpiewać poczynają.
+
+Ale to grunt wesela prawego,
+Kiedy człowiek sumnienia całego
+Ani czuje w sercu żadnej wady,
+Przecz by sie miał wstydać swojej rady.
+
+Temu wina nie trzeba przylewać
+Ani grać na lutni, ani śpiewać;
+Będzie wesół, byś chciał, i o wodzie,
+Bo sie czuje prawie na swobodzie.
+
+Ale kogo gryzie mól zakryty,
+Nie idzie mu w smak obiad obfity;
+Żadna go pieśń, żadny głos nie ruszy,
+Wszystko idzie na wiatr mimo uszy.
+
+Dobra myśli, której nie przywabi,
+Choć kto ściany drogo ujedwabi,
+Nie gardź moim chłodnikiem chróścianym,
+A bądź ze mną, z trzeźwym i z pijanym!
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń III
+
+
+
+    Dzbanie mój pisany,
+    Dzbanie polewany,
+Bądź płacz, bądź żarty, bądź gorące wojny,
+Bądź miłość niesiesz albo sen spokojny,
+
+    Jakokolwiek zwano
+    Wino, co w cię lano,
+Przymkni sie do nas a daj sie nachylić,
+Chciałbym twym darem gości swych posilić.
+
+    I ten cię nie minie,
+    Choć kto mądrym słynie;
+Pijali przedtym i filozofowie,
+A przedsię mieli spełna rozum w głowie.
+
+    Ty zmiękczysz każdego,
+    Nastateczniejszego;
+Ty mądrych sprawy i tajemną radę
+Na świat wydawasz przez twą cichą zdradę.
+
+    Ty cieszysz nadzieją
+    Serca, które mdleją;
+Ty ubogiemu przyprawujesz rogi,
+Że mu ani król, ani hetman srogi.
+
+    Trzymaj sie na mocy,
+    Bo cię całej nocy
+Z rąk nie wypuścim, aż dzień, jako trzeba,
+Gwiazdy rozpędzi co do jednej z nieba.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń IV
+
+
+
+Złota to strzała i krom wszego jadu była,
+Którą mię niepochybna Miłość ugodziła.
+Bo ja w swym miłowaniu troski nie najduję,
+Owszem, radość na sercu niewymowną czuję.
+
+Nie to niewola służyć, ale służyć temu,
+Kto twych posług niewdzięczen, to sie nawiętszemu
+Nieszczęściu równa; tobie dzięka bądź, Miłości,
+Iżeś mię uchowała takowej żałości.
+
+Ma to twarz twoja, panno wszech piękniejsza, w sobie,
+Że człowiek rad i nierad musi służyć tobie.
+Ale to zaś niosą twe święte obyczaje,
+Że, by kto mógł być wolen, raczej ci sie daje.
+
+Chciałbym tak być szczęśliwy i życzyłbym sobie,
+Abych już tę na wieki łaskę znał po tobie;
+A bodaj ta wdzięczna twarz odmiany nie znała,
+Byś dobrze i Sybillę laty przerównała.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń V
+
+
+
+    Kto ma swego chleba,
+    Ile człeku trzeba,
+Może nic nie dbać o wielkie dochody,
+O wsi, o miasta i wysokie grody.
+
+    To pan, zdaniem moim,
+    Kto przestał na swoim;
+Kto więcej szuka, jawnie to znać daje
+Sam na sie, że mu jeszcze nie dostaje.
+
+    Siła posiadł włości,
+    Kto ujął chciwości;
+Trudniej to przyjdzie niż Turki zhołdować
+Albo waleczne Tatary wojować.
+
+    Mocą wiele świata
+    Wziął za krótkie lata
+Król macedoński, lecz mu sie tak zdało,
+Że nań samego świat był jeden mało.
+
+    Cóż pomoże zbroja
+    Albo władza twoja?
+Serca nie zleczą żadne złotogłowy,
+Żadny skarb troski nie wybije z głowy.
+
+    Więc śmierć nieużyta
+    Ta za gardło chwyta
+Bogate pany jako proste sługi,
+Ani zborguje, byś wyciągnął długi.
+
+    Lecz przedsię człowiecza
+    Wszystka o tym piecza,
+Aby ku złotu złota przybywało;
+Bo, by nawięcej, łakomemu mało.
+
+    Wszystko to zostanie
+    Po twej śmierci, panie;
+A coś ty zebrał przez ten czas łakomie,
+To sie zostoi, nie wiem w czyim domie.
+
+    Sklep ten niedobyty
+    Puści prędko nity;
+A winem, co sie ty frasujesz o nie,
+Będzie zamaczał potomek twój konie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń VI
+
+
+
+Acz mię twa droga, miła, barzo boli,
+Nie chcę cię trzymać przeciw twojej woli;
+Z mej strony bodaj wszystko dobre miała,
+Kędy sie kolwiek będziesz obracała.
+
+Lecz sama widzisz, jakie wiatry wstają,
+Jakie po niebie chmury sie mieszają.
+Ja wiem, co umie morze i szalony
+Wicher, na wody słone uniesiony.
+
+Niech żony srogich pohańców i dzieci
+Doświadczą, jakim pędem wicher leci
+Morze mieszając: huczą srogie wały,
+A brzeżne w gruncie wzdrygają sie skały.
+
+Takci sie biednej Europie dostało,
+Jeno że wołu chciała przysieść mało,
+Bo sie z nienagła przymknął z nią ku wodzie,
+Potym jak płynie, tak płynie bez łodzie.
+
+A ta dopiero zlękła sie nieboga,
+Gdzie pojźrzy, zewsząd morze, zewsząd trwoga;
+Brzegu nie widać, przewoźnik niepewny,
+Strach serce ujął, a w oczu płacz rzewny.
+
+A gdy do sławnej Krety przypłynęła,
+Z wielkiej tesknice włosy targać jęła,
+Skarżąc sie z płaczem: «Ojcze mój łaskawy,
+Któregom zbyła prze me głupie sprawy.
+
+Com ja tu miała czynić w tej krainie?
+Mało jest jedna śmierć panieńskiej winie.
+Ale na jawiż płaczę swej lekkości?
+Czy mię pokusa łudzi krom winności,
+
+Która przez wrota kościane wychodzi,
+A na człowieka sny dziwne przywodzi?
+Lepiej li było przez morze sie pławić
+Czy nad polnemi kwiatkami sie bawić?
+
+By mi sie teraz dostał jako w ręce
+On wół bezecny, byłby w takiej męce,
+Żeby mu ze łba musiały spaść rogi,
+Chociaż był u mnie niedawno tak drogi.
+
+Nie miałam wstydu, dom swój opuszczając,
+I teraz nie mam, śmierci odkładając;
+Boże mój, jesli słyszysz prośbę moję,
+Niechaj dziś nago w pośrzodku lwów stoję.
+
+Pierwej niż pleśnią piękna twarz przypadnie
+I zupełnemu ciału krasa spadnie,
+Niechaj mię wilcy pożrą w tej gładkości,
+A po pustyniach rozniosą me kości»
+
+Nikczemna dziewko — ojciec ci przyciska —
+Czemu nie umrzesz? Strzyma cię ta niska
+Jedlina i pas zaniesiony w cale;
+A jeslić milsza śmierć na ostrej skale,
+
+Daj sie w moc wiatrom a skocz z góry śmiele,
+Niżbyś wolała siedzieć u kądziele,
+Królewska dziewka, i być w ręce dana
+Srogiej pogance, winna bywszy pana.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń VII
+
+
+
+Trudna rada w tej mierze, przyjdzie sie rozjechać,
+A przez ten czas wesela i lutnie zaniechać.
+Wszystka moja dobra myśl z tobą precz odchodzi,
+A z tego mię więzienia nikt nie wyswobodzi,
+Dokąd cię zaś nie ujźrzę, pani wszech piękniejsza,
+Co ich kolwiek przyniosła chwila terazniejsza.
+
+Już mi z myśli wypadły te obecne twarzy;
+Twoje nadobne lice jest podobne zarzy,
+Która nad wielkim morzem rano sie czerwieni,
+A z nienagła ciemności nocne w światłość mieni;
+Przed nią gwiazdy drobniejsze po jednej znikają
+I tak już przyszłej nocy nieznacznie czekają.
+
+Takaś ty w oczu moich; szczęśliwa to droga,
+Po której chodzić będzie tak udatna noga;
+Zajźrzę wam, gęste lasy i wysokie skały,
+Że przede mną będziecie taką rozkosz miały:
+Usłyszycie wdzięczny głos i przyjemne słowa,
+Po których sobie teskni biedna moja głowa.
+
+Lubeż moje wesele, lubeż me biesiady!
+Mnie podobno już prózno szukać inszej rady,
+Jeno smutnego serca podpierać nadzieją;
+W nadzieję ludzie orzą i w nadzieję sieją.
+A ty tak srogą nie bądź ani mię tym karzy,
+Bych długo nie miał widzieć twojej pięknej twarzy.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń VIII
+
+
+
+Gdzieśkolwiek jest, Bożeć pośli dobrą godzinę;
+Jaciem twój był jako żywo, i twoim zginę.
+Tak to Bóg przejźrzał od wieku; a nie żałuję,
+Bo w tobie więcej niż we stu inszych najduję.
+
+Nie tylkoś nad insze gładszą sie urodziła,
+Aleś i zwyczajmi twarzy nic nie zelżyła;
+A jako wdzięcznie szmarakiem złoto sie dwoi,
+Tak tej szlachetnej duszy w tym ciele przystoi.
+
+Szczęśliwy ja człowiek, bych mógł tak użyć tego,
+Jakobych sie nie omylił, co jest lepszego;
+Lecz jako na błędnym morzu, nie tam, gdzie chcemy,
+Ale gdzie nas wiatry niosą, płynąć musiemy.
+
+Jednak albo miłość zmyśla sny sama sobie,
+Albo i ty nie chcesz, bych miał zwętpić o tobie.
+Ta nadzieja świat mi słodzi; a bych inaczej
+Doznać miał (uchowaj, Panie), umarłbym raczej.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń IX
+
+ISBN 978-83-288-7225-7
+
+
+    Chcemy sobie być radzi?
+    Rozkaż, panie, czeladzi,
+Niechaj na stół dobrego wina przynaszają,
+A przy tym w złote gęśli albo w lutnią grają.
+
+    Kto tak mądry, że zgadnie,
+    Co nań jutro przypadnie?
+Sam Bóg wie przyszłe rzeczy, a śmieje sie z nieba,
+Kiedy sie człowiek troszcze więcej, niżli trzeba.
+
+    Szafuj gotowym bacznie;
+    Ostatek, jako zacznie,
+Tak Fortuna niech kona: raczy li łaskawie,
+Raczy li też inaczej; my siedziem w jej prawie.
+
+    U Fortuny to snadnie,
+    Że kto stojąc upadnie;
+A który był dopiero u niej pod nogami,
+Patrzajże go po chwili, a on gardzi nami.
+
+    Wszystko sie dziwnie plecie
+    Na tym tu biednym świecie;
+A kto by chciał rozumem wszystkiego dochodzić,
+I zginie, a nie będzie umiał w to ugodzić.
+
+    Prózno ma mieć na pieczy
+    Śmiertelny wieczne rzeczy;
+Dosyć na tym, kiedy wie, że go to nie minie,
+Co z przejźrzenia Pańskiego od wieku mu płynie.
+
+    A nigdy nie zabłądzi,
+    Kto tak umysł narządzi,
+Jakoby umiał szczęście i nieszczęście znosić,
+Temu mężnie wytrzymać, w owym sie nie wznosić.
+
+    Chwalę szczęście stateczne;
+    Nie chce li też być wieczne,
+Spuszczę, com wziął, a w cnotę własną sie ogarnę
+I uczciwej chudoby bez posagu pragnę.
+
+    Nie umiem ja, gdy w żagle
+    Uderzą wiatry nagle,
+Krzyżem padać i świętych przenajdować dary,
+Aby łakomej wodzie tureckie towary
+
+    Bogactwa nie przydały
+    Wpadwszy gdzie między skały;
+Tam ja bezpiecznym sercem i pełen otuchy
+W równej fuście popłynę przez morskie rozruchy.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń X
+
+
+
+Kto mi dał skrzydła, kto mię odział pióry
+I tak wysoko postawił, że z góry
+Wszystek świat widzę, a sam, jako trzeba,
+    Tykam sie nieba?
+
+To li jest ogień on nieugaszony
+Złotego słońca, które, nieskończony
+Bieg bieżąc, wrotne od początku świata
+    Prowadzi lata?
+
+To li jest on krąg odmiennej światłości,
+Wódz gwiazd roźlicznych i sprawca żyzności?
+Słyszę głos wdzięczny; prze Bóg, a na jawi,
+    Czy mię sen bawi?
+
+Tu, widzę, ani ciemne mgły dochodzą,
+Ani śnieg, ani zimne grady szkodzą;
+Wieczna pogoda, dzień na wszystki strony
+    Trwa nieskończony.
+
+Godne pałace Twojej wielmożności,
+Panie, a jakiej cnota dostojności,
+Widzę na oko, bowiem wedle Ciebie
+    Ma miejsce w niebie.
+
+Kto by cię nie znał, Lechu Słowianinie,
+Któryś napierwej zasiadł w tej krainie
+I opanował męstwem swoim mocne
+    Brzegi północne?
+
+Kroka patrz, jako siedząc tak wysoko,
+Przedsię ku miastu swemu skłania oko;
+Wandę wydawa ubiór, bo z postawy
+    Zda sie mąż prawy.
+
+Tu i fortelny Przemysł jest wniesiony,
+I ten, co dostał trefunkiem korony,
+Doźrzawszy zdrady, gdzie koń prędkonogi
+    Biegł zawód drogi.
+
+Bóg fałszu nie chce; a jako miłuje
+Sprawiedliwego, Piast i dziś to czuje,
+Bo mieszka w niebie, a jego cne plemię
+    Rządziło zięmię.
+
+Zemowit stoi wedla ojca prawie,
+Z drugimi równo: ty wysszej, Miecławie,
+Którego sprawą chrześcijański zakon
+    Podan Polakom.
+
+Tuż po nim widzę mężne Bolesławy,
+Prze których dzielność i stateczne sprawy
+Polska szeroko swych granic pomknęła
+    I serce wzięła.
+
+W tejże jest liczbie on zakonnik święty,
+Z cięniów klasztornych na królestwo wzięty.
+Są dwa Leszczkowie; jest król wzrostem mały,
+    Ale mąż śmiały.
+
+Widzę Jagiełła i dwu Kazimierzu
+Dobrych tak w boju, jako i w przymierzu;
+Widzę i ciebie, gwiaździe równym prawie,
+    Cny Władysławie.
+
+Tu też jest Olbracht; król serca wielkiego;
+Tuż z Aleksandrem Sygmunt, za którego
+Polska zakwitła, a po długim boju
+    Wytchła w pokoju.
+
+Szlachetne dusze, które swej dzielności
+Macie zapłatę niebieskie radości,
+Życzcie ojczyźnie, aby wam rodziła
+    Podobnych siła.
+
+A ten, co po was dziś państwo sprawuje,
+Niechaj fortunnie i zdrów nam panuje;
+A zwierzonego nie wzdawa opieku,
+    Aż pełen wieku!
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XI
+
+
+
+Stronisz przede mną, Neto nie tykana,
+By więc sarneczka, kiedy obłąkana
+Macierze szuka po górach ustronnych,
+Nie bez bojaźni i postrachów płonnych.
+
+Bo by sie namniej na drzewie wzjeżyły
+Powiewne listki, by namniej ruszyły
+Jaszczórki krzakiem, ta sie dusza zlęknie,
+Aż od bojaźni na ziemi przyklęknie.
+
+Lecz ja nie jako niedźwiedź albo mściwa
+Myślę cię drapać lwica popędliwa;
+Przestań też kiedy za macierzą chodzić,
+Już się ty możesz mężowi przygodzić.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XII
+
+
+
+Muszę wyznać, bo sie już nie masz na co chować:
+Nigdy bych był nie wierzył, bych tak miał żałować,
+Tego zwłaszcza, co nigdy mym własnym nie było;
+Po prawdzie mi nieprawie źle serce tuszyło.
+
+Aleciem barzo nagle wypadł z tej nadzieje,
+A mojej sie przygodzie nieprzyjaciel śmieje.
+Kto drugi ma bez prace, o co snadź dbał mało,
+A mnie za me staranie złe szczęście potkało.
+
+Samem swą własną ręką tę winnicę grodził,
+Aby jej był ani źwierz, ani zły ptak szkodził;
+Polewałem, żeby jej słońce nie suszyło,
+Nakrywałem, żeby jej zimno nie mroziło.
+
+A kiedy mię nalepsze miały potkać gody,
+Nie wiem, co za zły człowiek oberwał jagody.
+I używa z rozkoszą, czego dostał snadnie,
+A mnie, patrząc, jeno sie serce nie rozpadnie.
+
+Bodajże nie przechował; a bodaj poleżał!
+Nie wiem, jako mię do gron tak pięknych ubieżał.
+Ja sobie tak dobrych lat doczekać nie tuszę;
+Podobno jako niedźwiedź łapę lizać muszę.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XIII
+
+
+
+O piękna nocy nad zwyczaj tych czasów,
+Patrz na nas jasno wpośrzód tych tu lasów,
+Gdzie jako pszczoły wkoło swego pana
+Straż dzierżem niecąc ognie aż do rana.
+
+Bodaj szczęśliwie tę drogę odprawił
+I wszystko wedle myśli swojej sprawił
+Pan świętobliwy, któremu nie miała
+Polska w dobroci równia, jako wstała.
+
+I już nam ma być ten pohaniec srogi,
+Który niedawno padał nam pod nogi
+Kiedy Starodub, z gruntu wysadzony,
+Pod miecz okrutny lud wydał zwierzony?
+
+Albo gdy pycha nie mogła pokorze
+Wytrzymać stusu, a w głębokie morze
+Krwawy Niepr płynął miecąc na ostrowy
+Moskiewskie łupy i pobite głowy?
+
+Prze Bóg, tychżesmy ojców dzieci? czyli
+W tak krótkim wiekusmy sie wyrodzili?
+Święty pokoju, tę masz wadę w sobie,
+Że ludzie radzi zgnuśnieją przy tobie!
+
+Więcej ci śrebra i złota dziś mamy,
+Więcej półmisków na stoły dawamy;
+Co po tym? Kiedy siedziem jak na ledzie,
+A granic na nas lada kto ujedzie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XIV
+
+
+
+Patrzaj, jako śnieg po górach sie bieli,
+  Wiatry z pułnocy wstają,
+  Jeziora sie ścinają,
+Żorawie, czując zimę, precz lecieli.
+
+Nam nie lza, jedno patrzać też swej rzeczy:
+  Niechaj drew do komina,
+  Na stół przynoszą wina,
+Ostatek niechaj Bóg ma na swej pieczy.
+
+Przypadków dalszych żaden z nas nie zgadnie;
+  I prózno myślić o tym,
+  Co z nami będzie potym;
+W godzinie wszystko Bóg wywróci snadnie.
+
+Krótki wiek długiej nadzieje nie lubi.
+  Niechaj nie schodzi cało,
+  Coć sie do rąk dostało;
+Za to, co ma być, żaden ci nie ślubi.
+
+Jeleniom nowe rogi wyrastają;
+  Nam, gdy raz młodość minie,
+  Już na wiek wiekóm ginie,
+A zawżdy gorsze lata przypadają.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XV
+
+
+
+Nie za staraniem ani prze mą sprawę,
+Miła, po tobie znam taką postawę;
+Szukaj, jako chcesz, nie najdziesz przyczyny,
+Chyba żeć milszy podobno kto iny.
+
+A ja co mam rzec? Nie chcę sie przeciwić;
+Temu sie jedno nie mogę wydziwić,
+Skąd tę niestałość białegłowy mają,
+Że sie jako wiatr letni odmieniają.
+
+Niedawne czasy, gdy mię poczytano
+W liczbę fortunnych i za tego miano,
+Który mógł wszystko otrzymać u ciebie,
+A mnie sie zdało, żem był wszystek w niebie.
+
+Dziś inne wiatry przeciwko mnie wieją,
+Straciłem wszystko zaraz i z nadzieją;
+Nie wiem, co mię za wiedźma osypała
+I lichem zdradnych słów uczarowała.
+
+Niech ci sie, miła, wszystko dobre wodzi,
+Z kimkolwiek przestać twoje serce godzi;
+Ale rozeznać umiej przyjaciela,
+A trudno naleźć masz jednego z wiela.
+
+Nie dufaj temu, kto gładkość miłuje,
+Bo ten na słabym gruncie sie buduje:
+Słońce jednako i padnie, i wschodzi,
+Nam zawżdy z laty cokolwiek odchodzi.
+
+A gdy czas przyjdzie ostatniej potrzebie,
+Ledwe sie najdzie, kto ciało pogrzebie.
+Takiem ja chcę być przyjacielem tobie;
+Lecz wolę, że ty płaczesz na mym grobie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XVI
+
+
+
+Królom moc na poddane i zwierzchność dana,
+A królowie zaś mają nad sobą Pana,
+Który wszystkiemu światu sam rozkazuje,
+Na ziemi i na niebie wiecznie króluje.
+
+Nie wszyscy z jednym szczęściem na świat sie rodzą:
+Szerzej jedni niż drudzy swe płoty grodzą;
+Ten ma wiele nad insze w zacności domu,
+Ten dobrą sławą nie da naprzód nikomu,
+
+Za tym przyjaciół więcej. Śmierć sprawiedliwa
+Jednakiego na wszystki prawa używa.
+Kto bądź, ten bądź, na kogo los naprzód padnie,
+Tak pana, jako sługę poima snadnie.
+
+Komu zawżdy nad szyją wisi miecz goły,
+Nie uczynią mu smaku przyprawne stoły,
+Nie pomoże mu do snu słodkie śpiewanie;
+Sen u prostaków przyjmie i złe posłanie.
+
+Kto swą chciwość na tym, co dosyć, miarkuje,
+Tego ani burzliwe morze frasuje,
+Ani ciężki grad, ani złe urodzaje,
+Kiedy drzewo to ciepłu, to zimnu łaje.
+
+Delfinowie swe morza ścieśnione czują,
+Bowiem już i na wodzie zamki budują:
+Wszystka sie do roboty czeladź rzuciła
+I sam pan, bo mu sie już ziemia sprzykrzyła.
+
+Ale bojaźń i groza pana prowadzą
+I z wysokich pałaców pchać sie nie dadzą;
+Na okręt li budowny, na koń li wsiędzie,
+Troska w okręcie, troska za siodłem będzie.
+
+A jesli ani marmór serdecznej rany,
+Ani ulżą jedwabiem obite ściany,
+Przecz mam zajźrzeć kosztownych pałaców komu,
+A nie raczej w swym mieszkać ojczystym domu?
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XVII
+
+
+
+Słońce już padło, ciemna noc nadchodzi,
+Nie wiem, co za głos uszu mych dochodzi;
+Postoję mało, a dowiem sie pewnie,
+Dlaczego płacze ta pani tak rzewnie.
+
+«Już to dziesiąte lato niebo toczy,
+Jako me smutne zawsze płaczą oczy;
+A dokąd mi sie miły mój nie wróci,
+Żaden na świecie troski mej nie skróci.
+
+Już wszyscy inszy nazad przyjechali,
+Którzy nieszczęsnej Troje dobywali;
+Jam tylko sama bez męża została:
+Sroga Fortuna, ta mi go zajźrzała.
+
+Bodaj był w ten czas, gdy do Sparty płynął,
+Ten cudzołożnik na morzu zaginął!
+Uszłabych była tej ciężkiej żałości,
+Przed którą prawie schną dziś moje kości.
+
+Jako ptak, kiedy towarzysza zbędzie,
+Nigdy na rózdze zielonej nie siędzie,
+A między bory i pustymi lasy
+Sam jeden lata po swe wszystkie czasy,
+
+Tak ja, nieszczęsna, w jego niebytności
+Muszę być zawżdy w trosce i w żałości;
+Chronię sie ludzi, sama nie wiem czemu,
+Radam, gdy świadka nie mam płaczu swemu.
+
+Bałam sie zawżdy, póki wojna trwała,
+Alem wżdy o nim, nieboga, słyszała;
+Teraz nie wiedzieć, gdzie po świecie błądzi,
+A wierne serce zawsze gorzej sądzi.
+
+Troszczą mię, smutną, srogie morskie wody,
+Troszczą mię wiatry i złe niepogody,
+Troszcze mię wszystko, cokolwiek być może;
+Tobie go ja tam poruczam, mój Boże!
+
+I to mi czasem na myśl więc przychodzi
+(Bo łacno, gdy chce, nieszczęście ugodzi),
+Że moje serce prózno sie frasuje,
+A on podobno gdzie indziej miłuje.
+
+Źleć by mi płacił moje życzliwości,
+Bych miała doznać takiej niewdzięczności;
+Bodajbych pierwej ostatnie skonała,
+Niżli nowiny takiej doczekała!
+
+Aleć ja dufam jego szczerej cnocie,
+Że mię nie będzie chciał mieć w tym kłopocie;
+Będzie pamiętał i statecznie chował
+Miłość i wiarę, którą mi ślubował.
+
+Usilne wiatry, co morzem władacie,
+Jesli też kiedy, co to miłość, znacie,
+Dodajcie mu tak szczęśliwego biegu,
+Że wrychle stanie na ojczystym brzegu».
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XVIII
+
+
+
+Czołem za cześć, łaskawy mój panie sąsiedzie.
+Boże nie daj u ciebie bywać na biesiedzie,
+Każesz mi pić przezdzięki twe przemierzłe piwo,
+Że do dna nie wypijam, patrzysz na mię krzywo.
+
+Wszytkoć wadzi: być na nos biedna mucha padła,
+Miecesz głową i mniemasz, że cię do krwie zjadła;
+Od stołu żenie każesz, fukasz na pachołki,
+Wyciskałeś talerze, wyciskasz i stołki.
+
+Patrzaj, diable, że sie tu i gościom dostanie:
+Gniewaj sie, jako raczysz, jeno nie bij, panie,
+Bo ja w tym piwie twoim rozkoszy nie czuję;
+Zdrowie rad mam od ciebie, kufla nie przyjmuję.
+
+Jeslić o sławę idzie, kto więcej pić może,
+Dajęć przodek w tym męstwie; sam pójdę na łoże.
+Już ty bądź tym rycerzem, co piwo usieczesz;
+Tego nie wiem, jesli przed chłopem nie ucieczesz.
+
+Jesli też tak rozumiesz, żebyś mię czestował,
+Męczysz mię, nie czestujesz; tociem podziękował.
+Chcesz mię uczcić? Dajże mi dobrą wolą w domu,
+A niechaj po niewoli nie pełnię nikomu.
+
+Prózno mi skwarnę dawasz. Ja nie będę gonił,
+Bych też nabarziej piwa wczorajszego zronił.
+Wiem, żeby mię psi przedsię twoi pilnowali,
+Bych sie układł, wnet by mi gębę ulizali.
+
+Alem prosto niemyśliw. Ci sie na to godzą,
+Co szperki niedopiekłe i twardy ser głodzą,
+Co sobie gardła ostrzą na niewinne piwo
+Rydzem, śledziem, ogórkiem; nie wiem, co im krzywo.
+
+I tak we łbie rozumu po trzeźwiu niewiele,
+A ostatek chcą zalać w to miłe wesele.
+Niech raczej nic nie będzie, ma li go być mało;
+Rado by niebożątko z mozgu oszalało.
+
+Więc też wojna bez wici: gospodarz sie wierci.
+Porwoniście zabitej na ostatek śmierci!
+Do tylam was rozwadzał, aż mi sie dostało;
+Bijcie sie, póki chcecie, mnie tam na tym mało.
+
+Kufle lecą jako grad, a drugi już jęczy:
+Wziął konwią, aż mu na łbie zostały obręczy.
+Potym do arkabuzów. A więc to biesiada?
+Jesliście tak weseli, jakaż u was zwada?
+
+Nazajutrz sie jednają; przedsię go nalewaj,
+A kto z nieżadnym głosem, przed pany zaśpiewaj:
+«Chciejże pomnieć, a dobrze baczyć, namilejsza!»
+«W czerwonej czapce chodził» zda mi sie cudniejsza.
+
+Usłyszysz tam pięć bassów, dwanaście dyszkantów,
+Sześć altów, ośm tenorów, dwanaście wagantów,
+Potym od melodyjej aż posną na stole,
+Ali drudzy wołają: «Na dwór, na dwór wole!»
+
+Bodajże wam smród w gębę, mili pijanice,
+A trąd na twarz; bo żona lubi takie lice.
+Krzywej nogi na starość, nieobrotnej szyje,
+Krom klątwy, kto będzie żyw, snadnie sie dopije.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XIX
+
+
+
+    Żal mi cię, niebogo,
+    Że nie masz nikogo,
+Co by cię przestrzegł; słuchaj ale mało,
+A potym uczyń, coć sie będzie zdało.
+
+    Bodaj sie przepadło
+    To twoje źwierciadło:
+Bo tobą szali, a ty sie nie czujesz,
+Dawno sie nie swej twarzy przypatrujesz.
+
+    Popatrz miedzy szoty
+    prawdziwszej roboty:
+Ujźrzysz tam i płeć chropawą, i zęby
+Nieprawie białe, jeno uchyl gęby.
+
+    Więc i lat tak snadnie
+    Mamka-ć nie ukradnie;
+Bo łacno zliczysz pod oczyma karby,
+Tego nie zetrą i weneckie farby.
+
+    Aż sie za cię wstydzę,
+    Gdy cię w tańcu widzę.
+Ano wiem, czemuś mi sie nie udała:
+Prosto jakobyś młodym przyganiała.
+
+    Takżeć i te stroje
+    Jakoby nie twoje;
+Tyś sie ubrała prawie wedle świata,
+A to za krzywdę biorą twoje lata.
+
+    Nie przeciw sie Zosi,
+    Bo tę miłość nosi,
+Że musi skakać jako sarna w lesie;
+A nie sromota, co komu czas niesie.
+
+    Tobie na twe lata
+    Czas poprzestać świata;
+Cudniej ci będzie prząść kądziel niż w wieńcu
+Siedzieć za stołem, babie przy młodzieńcu.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XX
+
+
+
+Miło szaleć, kiedy czas po temu,
+A tak, bracia, przypij każdy swemu,
+Bo o głodzie nie chce sie tańcować,
+A podpiwszy, łacniej już błaznować.
+
+Niech sie tu nikt z państwem nie ozywa
+Ani z nami powagi używa,
+Przywileje powieśmy na kołku,
+A ty wedla pana siądź, pachołku!
+
+Tam dobra myśl nigdy nie postoi,
+Gdzie z rejestru patrzą, co przystoi;
+Á powiem wam, że sie tym świat słodzi,
+Gdy koleją statek i żart chodzi.
+
+Ale to mój zysk, że mię słuchacie,
+A żadnej mi pełnej nie podacie;
+Znał kto kiedy poetę trzeźwiego?
+Nie uczyni taki nic dobrego.
+
+Przedsię do mnie, a ja nie zawiodę;
+Wy też drudzy, co macie pogodę,
+Każdy swojej włóż w ucho leda co,
+Nie macie tu oględać sie na co.
+
+I z namędrszym nie trzymam w tej mierze,
+Kto sie długo na dobrą myśl bierze;
+Czas ucieka, a żaden nie zgadnie,
+Jakie szczęście o jutrze przypadnie.
+
+Dziś bądź wesół, dziś użyj biesiady,
+O przyszłym dniu niechaj próznej rady;
+Już to dawno Bóg odmyślił w niebie,
+A k tej radzie nie przypuszczą ciebie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XXI
+
+
+
+Ty spisz, a ja sam na dworze
+Jeszcze od wieczornej zorze
+Cierpię nocne niepogody;
+Użałuj sie mojej szkody!
+
+Słuchaj, jako bije w ściany
+Z gwałtownym dżdżem grad zmieszany.
+Ockni sie, a przemów słowo,
+Nieużyta białagłowo!
+
+Nie na żadną kradzież godzę,
+Chocia tak po nocy chodzę;
+Wziąłbych przedsię, by co dano:
+Łupiestwo czartu porwano.
+
+Nigdziej miejsca mniej hardości
+Nie najdziesz jako w miłości;
+Gładkość wprawdzie sługi daje,
+Ale dzierżą obyczaje.
+
+Słuchasz? czy mój głos nie może
+Dolecieć na twoje łoże?
+Słuchajcie wy, nocne cięnie,
+I nieumowne kamięnie!
+
+Do Amfijonowej lutnie
+Śpieszyły sie lasy chutnie,
+A niezwyczajne opoki
+Ścisnęły sie w mur szeroki.
+
+Orfeowych strón słuchały
+Srogie jędze i płakały,
+Gdy miłością utrapiony,
+I pod ziemią szukał żony.
+
+Jego pieśni żałościwe
+Zjęły bogi nieżyczliwe;
+I miał w ręku, co miłował,
+By był, nędznik, lepiej chował.
+
+Ale nie strzymał umowy,
+Więc przyszedł o smutek nowy;
+Bo źle sie obejźrzał, ali
+Czarci panią zaś porwali.
+
+Czekać już, nieboże, było.
+Ale gdy co komu miło,
+Trudno wytrwać i czas mały:
+Godzina tam jak rok cały.
+
+A ja długo mam bić w stróny?
+Już u mnichów słyszę dzwóny.
+Dziwnosmy sie pomieszali,
+Jam nie spał, a ci już wstali.
+
+Dobrą noc, jesli kto słyszy,
+A mój więniec w tej złej ciszy
+Niechaj wisi do świtania,
+Świadek mego niewyspania.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XXII
+
+
+
+Rozumie mój, prózno sie masz frasować:
+Co zginęło, trudno tego wetować;
+Póki czas był, póki szczęście służyło,
+Czegoś żądał, o wszystko łacno było.
+
+Teraz widzisz, że nam niebo nie sprzyja:
+W czym sie kochasz, to cię daleko mija.
+Cóż temu rzec? I szkoda głowy psować;
+Lepiej sie nam na lepsze czasy chować.
+
+A nie mniemaj, byś sam był w tej niewoli:
+Nalazłby sie, kogo to nie mniej boli;
+Jeno ludzie snadniej zakryć umieją,
+Acz nie z serca, z wierzchu sie przedsię śmieją.
+
+Mnie, smutnego, ten dowcip nie ratuje,
+Wyda mię twarz, gdy sie serce źle czuje.
+Wszakoż widzę, że sie prózno frasować:
+Co zginęło, trudno tego wetować.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XXIII
+
+
+
+Nieźle czasem zamilczeć, co człowieka boli,
+By nie znał nieprzyjaciel, że cię ma po woli;
+Ale to nade wszystko za raz odżałować,
+A niewdzięcznemu panu tudzież podziękować.
+
+Cierpiałem ja tak wiele, że mię wstyd powiadać,
+A mógłby mi bezpiecznie każdy głupstwo zadać,
+Żem sie dał za nos wodzić czas tak barzo długi,
+Bacząc, że w małej wadze były me posługi.
+
+Chciałem złość jakokolwiek wytrwać uprzejmością,
+A zwyciężyć niewdzięczność swoją statecznością;
+Ale moja uprzejmość i statek był prózny,
+A jej niebaczny umysł zawżdy memu rózny.
+
+Bóg was żegnaj, niewdzięczne i nieludzkie wrota,
+Świadome mych częstych dróg i mego kłopota;
+Bodaj tu pajęczyna i pleśń na was padła,
+A te niewierne zamki rdza plugawa zjadła!
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XXIV
+
+
+
+Zegar, słyszę, wybija,
+Ustąp, melankolija!
+Dosyć na dniu ma statek,
+Dobrej myśli ostatek.
+
+U Boga każdy błazen,
+Choć tu przymówki prazen,
+A im sie barziej sili,
+Tym jeszcze więcej myli.
+
+A kto by chciał na świecie
+Uważyć, co sie plecie,
+Dziwnie to prawdy blisko,
+Że człek - Boże igrzysko.
+
+Dygnitarstwa, urzędy,
+Wszystko to jawne błędy;
+Bo nas równo śmierć sadza
+Ani pomoże władza.
+
+A nad chłopa chciwego
+Nie masz nic nędzniejszego;
+Bo na drugiego zbiera,
+A sam głodem umiera.
+
+Więc by tacy synowie
+Byli jako ojcowie,
+Dawno by z tej przyczyny
+Świat sie jął żebraniny.
+
+Lecz temu Bóg poradził,
+Bo co jeden zgromadził,
+To drugi wnet rozciska;
+Niech świata głód nie ściska.
+
+Po śmierci trudno rządzić;
+Tyś mógł, ojcze, nie błądzić,
+Syn tylko worki zliczy,
+W rozumie nie dziedziczy.
+
+Przeto te troski płone
+Szatanowi zlecone;
+Niech, uprzątnąwszy głowę,
+Mkną w skrzynię Fokarowę.
+
+A nam wina przynoście,
+Z wina dobra myśl roście;
+A frasunek podlany
+Taje by śnieg zagrzany.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi pierwsze
+Pieśń XXV
+
+
+
+Użałuj sie, kto dobry, a potłucz zawiasy
+I mnie samę wrzuć w ogień; bo prze te niewczasy
+Dobrze już nie szaleję, ja, furta strapiona;
+Jednak mię ten bezmierny niepokój dokona.
+
+Że to żadna Boża noc nigdy nie minęła,
+Abych kiedy okrutnych razów nie podjęła
+Od tych sprosnych pijanic; nie mówię o słowa,
+Łatwiejsza to, kiedyby cała była głowa.
+
+Co tu za mej pamięci powrozów stargano,
+Wrzeciądzów ukręcono, młotków skołatano;
+Teraz już głowicami łotrostwo mię tłucze,
+A ubogi gospodarz kryje pod sie klucze.
+
+To nietajna, że cierpię nie za swoją winą,
+Ale wszeteczna pani wszystkiego przyczyną,
+Która nie wiem na jaki żywot sie udała,
+Że i wstydu, i dobrej sławy zapomniała.
+
+Ja, to Bóg wie, przestrzegam swojej powinności,
+A taję, ile mogę, jej zbytków i złości.
+Cóż po tym, kiedy ludzie na zęby ją wzięli?
+Ona wie, jesli fałszu czy prawdy sie jęli.
+
+Ale jesli mię, smutną, ciężkie razy bolą,
+Nie mniejszą mam przed owym nędznikiem niewolą,
+Co tu noc pole nocy płacze mi nad głową
+Ani mi spać dopuści swą żałosną mową.
+
+«Furto — powiada — sroższa niżli pani twoja,
+Mnie to na złość trzymasz sie tak mocno podwoja;
+Czemu mię w dom, smutnego, nie puścisz? Gdyż mojej
+Skrytej prośby nie umiesz odnieść paniej swojej!
+
+Tak-że ja, biedny człowiek, w swym ciężkim frasunku
+Nie mam uznać na wieki żadnego ratunku?
+I już mię nocleg potkać uczciwszy nie może,
+A ten zimny próg muszę przyjmować za łoże?
+
+Mych niewczasów litują nocy nieprzespane,
+Litują pełne gwiazdy, wiatry niewytrwane;
+Ty sama nie chcesz baczyć ludzkich doległości,
+A swym tylko milczeniem wiecznie zbywasz gości.
+
+Gdzieś to namniejsze słówko przez skałę przepadło,
+A na zapamiętałym uchu paniej siadło;
+By kamień, by żelazo w sercu swym chowała,
+Nie wierzę temu, żeby westchnąć raz nie miała.
+
+Teraz na szczęsnej ręce u drugiego leży,
+A moja prózna mowa przecz za wiatry bieży;
+Ale ty, coś przyczyną tych wszystkich trudności,
+Furto, mówię, niewdzięczna moich uczynności,
+
+Tobiem ja złego słowa nie rzekł jako żywo,
+Co drugi rad uczyni, gdy mu miejsce krzywo,
+Żebyś mi tę niewdzięczność okazować miała
+A mnie całą noc płakać pod niebem niechała.
+
+Alem cię rychlej nowym rymem udarował
+I twoje niskie progi wdzięcznie ucałował,
+Com sie razów obrócił u twego podwoja,
+Obiatami szukając u świętych pokoja».
+
+To tego i co lepiej oni tam umieją,
+Całą Bożą noc będzie, aż kury odpieją.
+Takżeć mię, smutną, to złe paniej obyczaje,
+To tego płacz frasuje, aż mię ledwie staje.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń I
+
+
+
+Przeciwne chmury słońce nam zakryły
+I niepogodne deszcze pobudziły,
+Wody z gór szumią, a pienista Wilna
+    Już brzegom silna.
+
+Strach patrzać na to częste połyskanie;
+A prze to srogie obłoków trzaskanie,
+Kładą sie lasy, a piorun, gdzie zmierzy,
+    Źle nie uderzy.
+
+Zakładaj korab’, cieśla nauczony,
+A kto wie, jesli nie wrócą sie ony
+Nieszczęsne czasy, kiedy powódź była
+    Świat zatopiła.
+
+Sześć niedziel w ten czas lał deszcz nie przestając,
+A ziemia, nowe źrzódła pobudzając,
+Rzek przymnażała, tak iż morskie wały
+    Wylać musiały.
+
+Z ludźmi pospołu i miasta, i grody
+Nieuśmierzone zatopiły wody;
+Nie wysiedział sie pasterz z bydłem w cale
+    Na żadnej skale.
+
+Ryby po górach wysokich pływały,
+Gdzie ledwe przedtym pióra donaszały
+Mężnej orlice, gdy do miłych dzieci
+    Z obłowem leci.
+
+Ale na ten czas i matkę, i syny
+Pożarła woda, i wszystek źwierz iny;
+Sam Noe został, przy nim żona tylko
+    A dziatek kilko.
+
+Nieżyzne w cnotę to tam były lata,
+Gdzie ledwe jeden ze wszytkiego świata
+Nalezion, co go Bóg w cale zachował,
+    Gdy nierząd psował.
+
+Ten, będąc z łaski Pańskiej ostrzeżony,
+Zbudował sobie korab’ niezmierzony,
+Na którym pływał czasu złej przygody
+    Po wierzchu wody.
+
+A wszyscy inszy nagle zagarnieni
+I w głębokościach morskich zatopieni;
+Niebo a morze, te dwie rzeczy były
+    Świat zastąpiły.
+
+A kiedy sie już prawie dosyć zstało
+Pańskiemu gniewu, po trosze spadało
+Wielkiego morza, aż za czasem skały
+    Z wody wyźrzały.
+
+Potym i zbytnie zawarły sie zdroje,
+A bystre rzeki wpadły w brzegi swoje;
+Ziemia ku słońcu pełne ciężkiej rosy
+    Rozwiła włosy.
+
+A trupy wkoło straszliwe leżały,
+Ludzie i bydło, wielki źwierz i mały;
+Pełne ich morza, pełne brzegi były,
+    Boga ruszyły.
+
+I rzekł Noemu: «Już teraz na ziemię
+Występuj śmiele i z tobą twe plemię;
+Oto ja znowu przyodzieję lasy
+    Na wieczne czasy.
+
+I będzie, jako po te lata wszytki,
+Ziemia dawała wszelakie użytki;
+Mnóżcie sie, niech świat spustoszały wszędzie
+    Znowu osiędzie.
+
+A w tym upewniam każdą żywą duszę,
+Że nigdy potym takich wód nie wzruszę,
+Które by miały ziemię opanować
+    I świat zepsować.
+
+Włożę na niebo znakomitą pręgę,
+Którą gdy ujźrzę, wspomnię na przysięgę,
+Że mam hamować niezwyczajną wodę
+    I nie zawiodę».
+
+Pomni sie, lutni! Nie twojej to głowy
+Wspominać Boga żywego rozmowy;
+Każ ty nam zasieść przy ciepłym kominie,
+    Aż zły czas minie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń II
+
+
+
+Nie dbam, aby zimne skały
+Po mym graniu tańcowały;
+Niech mię wilcy nie słuchają,
+Lasy za mną nie biegają.
+
+Hanno, tobie k woli spiewam,
+Skąd jesli twą łaskę miewam,
+Przeszedłem już Amfijona
+I lutnistę Aryjona.
+
+Mnie sama twarz nie uwiedzie;
+I choć druga na plac jedzie
+Z herby domów starożytnych,
+Zacne plemię dziadów bitnych,
+
+Ja chcę podobać sie w mowie
+Nauczonej białejgłowie;
+Ty mię pochwal, moja pani,
+Nie dbam, choć kto inszy gani.
+
+Cnocie zajźrzą jako żywo,
+Bujne drzewo wiatrom krzywo;
+Ale ty chciej pómóc sama,
+Nie ugrozi zazdrość nama.
+
+A jesli me niskie progi
+Będą godne twojej nogi,
+Nogi pięknej — nie potrzeba,
+Dosięgę już głową nieba.
+
+Samy cię ściany wołają
+I z dobrą myślą czekają;
+Lipa stojąc wpośrzód dworu,
+Wygląda cię co raz z boru.
+
+Każ bystre konie zakładać,
+A sama sie gotuj wsiadać;
+Teraz naweselsze czasy,
+Zielenią sie pięknie lasy.
+
+Łąki kwitną rozmaicie,
+Zająca już nie znać w życie,
+Przy nadziei oracz ścisły,
+Że będzie miał z czym do Wisły.
+
+Stada igrają przy wodzie,
+A sam pasterz, siedząc w chłodzie,
+Gra w piszczałkę proste pieśni,
+A faunowie skaczą leśni.
+
+Kwap sie, póki jasne zorze
+Nie zapadną w bystre morze;
+Po chwili ćmy czarne wstaną,
+Co noc noszą nienaspaną.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń III
+
+
+
+Nie wierz Fortunie, co siedzisz wysoko;
+Miej na poślednie koła pilne oko:
+Bo to niestała pani z przyrodzenia,
+Często więc rada sprawy swe odmienia.
+
+Nie dufaj w złoto i w żadne pokłady,
+Każdej godziny obawiaj sie zdrady:
+Fortuna co da, to zasię wziąć może,
+A u niej żadna dawność nie pomoże.
+
+A ci, co z tobą teraz przestawają,
+Twej sie fortunie, nie tobie kłaniają;
+Skoro ta zniknie, tył każdy podawa,
+Jako cień, kiedy słońca mu nie zstawa.
+
+Lecz jako sama oczy zasłoniła,
+Tak swym pochlebstwem ludzi pobłaźniła,
+Że drugi wysszej nosa gębę nosi,
+A wszystki insze oczyma przenosi.
+
+Ty pomni, że twój skarb u Szczęścia w mocy,
+A tak sie staraj o takiej pomocy,
+Aby wżdy z tobą twego co zostało,
+Jesli zaś będzie Szczęście swego chciało.
+
+Cnota skarb wieczny, cnota klenot drogi;
+Tegoć nie wydrze nieprzyjaciel srogi,
+Nie spali ogień, nie zabierze woda;
+Nad wszystkim inszym panuje Przygoda.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń IV
+
+
+
+W twardej kamiennej wieży i za troistemi
+Drzwiami siedząc Danae nieprzełomionemi,
+Pod strażą nieuspionych spartańskich złajników,
+Mogła wiecznie nie uznać nocnych wszeteczników,
+
+By była z Akryzego Wenus nie szydziła,
+Stróża zamknionej panny; bo ta obaczyła,
+Że Jowisz, w upominku złotym utajony,
+Miał mieć bezpieczny przystęp i gmach otworzony.
+
+Złoto śrzodkiem janczarów zbrojnych pójdzie snadnie,
+A przez twardą opokę gwałtowniej przepadnie
+Niżli raz piorunowy: upadł nieszczęśliwy
+Dom proroka greckiego, prze zysk niecnotliwy
+
+Z gruntu wykorzeniony; przebił bramy twarde
+Zacnych miast Macedończyk i podkopał harde
+Tyranny datkiem; datkom hetmani hołdują,
+Którzy daleko świetnym nawom rozkazują.
+
+Wielkich pieniędzy wielka troska naszladuje;
+A im człowiek w pokładzie swoim więcej czuje,
+Tym jeszcze więcej pragnie; słusznie moje oko
+I nigdy przedtym, i dziś nie zmierza wysoko.
+
+Im sobie człowiek więcej pomierny ujmuje,
+Tym mu więcej od Boga z łaski przystępuje;
+Nic nie mając, z tymi, co nic nie chcą, przestaję,
+A buntów dobrowolnie bogatych sie kaję.
+
+Pan znaczniejszy, gdy państwem wzgardzę, niżbych wszytki
+Żóławskie urodzaje i gdańskie pożytki
+W jednym szpichlerzu zamknął, a sam, siedząc w cieniu,
+Nie mógł sie chleba najeść, nędznik w dobrym mieniu.
+
+Zdrój przeźroczystej wody, lasu średnia miara
+I zasiewku mojego niepochybna wiara
+Rządźcy płodnej Afryki, szerokowładnemu,
+Nie da sie znać, że w szczęściu przerównana jemu.
+
+Acz mi miodu podolskie pasieki nie dają
+Ani w mym lochu wina seremskie stawają,
+Ani bogate stada owiec niezliczonych
+Strzygą odrosłą trawę po górach zielonych;
+
+Przedsię nazbyt ubóstwa nie znać w domu moim,
+A by mi więcej trzeba, ufam w Bogu swoim;
+Ale gdy niepotrzebne chciwości odprawię,
+Lepiej daleko płatu sobie tym poprawię,
+
+Niżbych bogate pola węgierskie z porządnym
+Państwem węneckim złączył. Ludziom wielożądnym
+Wiela i nie dostawa; niech przyjmuje z dzięką,
+Komu ścisłą, co dosyć, Bóg udzielił ręką.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń V
+Pieśń o spustoszeniu Podola
+
+ISBN 978-83-288-7190-8
+
+
+Wieczna sromota i nienagrodzona
+Szkoda, Polaku: ziemia spustoszona
+Podolska leży, a pohaniec sprosny,
+Nad Niestrem siedząc, dzieli łup żałosny.
+
+Niewierny Turczyn psy zapuścił swoje,
+Którzy zagnali piękne łanie twoje
+Z dziećmi pospołu a nie masz nadzieje,
+By kiedy miały nawiedzić swe knieje.
+
+Jedny za Dunaj Turkom zaprzedano,
+Drugie do hordy dalekiej zagnano;
+Córy szlacheckie (żal sie mocny Boże!)
+Psom bisurmańskim brzydkie ścielą łoże.
+
+Zbójce, niestety, zbójce nas wojują,
+Którzy ani miast, ani wsi budują;
+Pod kotarzami tylko w polach siedzą,
+A nas nierządne, ach, nierządne, jedzą!
+
+Tak odbieżałe stado więc drapają
+Rozbójce wilcy, gdy po woli mają,
+Że ani pasterz nad owcami chodzi,
+Ani ostrożnych psów za sobą wodzi.
+
+Jakiego serca Turkowi dodamy,
+Jesli tak lekkim ludziom nie zdołamy?
+Ledwieć nam i tak króla nie podawa;
+Kto sie przypatrzy, mała nie dostawa.
+
+Zetrzy sen z oczu a czuj w czas o sobie,
+Cny Lachu! Kto wie, jemu czylitobie
+Szczęście chce służyć? A dokąd wyroku
+Mars nie uczyni, nie ustępuj kroku.
+
+A teraz k temu obróć myśli swoje
+Jakobyć szkody nieprzyjaciel twoje
+Krwią swą nagrodził i omył tę zmazę,
+Której dziś niesiesz prze swej ziemie skazę.
+
+Wsiadamy? Czy nas półmiski trzymają?
+Biedne półmiski, czego te czekają?
+To pan, i jadać na śrebrze godniejszy,
+Komu żelazny Mars będzie chętniejszy.
+
+Skujmy talerze na talery, skujmy,
+A żołnierzowi pieniądze gotujmy.
+Inszy to darmo po drogach miotali,
+A my nie damy, bychmy w cale trwali?
+
+Dajmy, a naprzód dajmy! Sami siebie
+Ku gwałtowniejszej chowajmy potrzebie.
+Tarczej niż piersi pierwej nastawiają,
+Pozno puklerza przebici macają.
+
+Cieszy mię ten rym: «Polak mądr po szkodzie»;
+Lecz jesli prawda i z tego nas zbodzie,
+Nową przypowieść Polak sobie kupi,
+Że i przed szkodą, i po szkodzie głupi.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń VI
+
+
+
+Królewno lutnie złotej i rymów pociesznych,
+    Ochłodo myśli tesznych,
+Ty sama powiedz a kres naznacz, póki mamy
+Płakać, gdy przyjaciela miłego stradamy.
+
+Łacno cieszyć chorego, gdysmy zdrowi sami,
+    Lecz kiedy toż nad nami
+Niefortuna pokaże, tam więc człowiek czuje,
+Że co drugim chciał radzić, sam sie nie ratuje.
+
+Godno płaczu nieszczęście i twoja przygoda,
+    O zacny wojewoda,
+Boś pozbył towarzysza i cnotliwej żony,
+Której dobroć, której wstyd jest niewysłowiony.
+
+Ale byś dobrze, wziąwszy lutnią Orfeowę,
+    Wstąpił w łódź Charonowę
+I nawiedził podziemne, niewesołe kraje,
+Gdzie słońce swych promieni nigdy nie podaje,
+
+Nie zyszczesz dusze, która dotkła raz napoju
+    Niepamiętnego zdroju.
+Przeto cierpliwość sama nalepsza w tej mierze,
+Gdzie za raz i ratunek upad z sobą bierze.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń VII
+
+
+
+Słońce pali, a ziemia idzie w popiół prawie,
+    Świata nie znać w kurzawie;
+    Rzeki dnem uciekają,
+A zagorzałe zioła dżdża z nieba wołają.
+
+Dzieci, z flaszą do studniej; a stół w cień lipowy,
+    Gdzie gospodarskiej głowy
+    Od gorącego lata
+Broni list, za wsadzenie przyjęmna zapłata.
+
+Lutni moja, ty ze mną; bo twe wdzięczne strony
+    Cieszą umysł trapiony,
+    A troski nieuspione
+Prędkim wiatrom podają za Morze Czerwone.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń VIII
+
+
+
+Nie frasuj sobie, Mikołaju, głowy,
+Kto ma być królem: już dekret gotowy
+Przed Bogiem leży, nie piórem pisany,
+Lecz w dyjamencie twardym wykowany.
+
+Nie z pół- lub nocy, lub dnia, nie ze wschodu
+Ani czekajmy pana od zachodu;
+Ten królem będzie, kogo Bóg mianuje,
+Łatwie On ludzkie serca spraktykuje.
+
+Tenże nam mimo znajomsze sąsiady,
+W śmiech obrociwszy nasze płone rady,
+Przywiódł był króla z dalekiej krainy,
+Po którym wrychle miał usieść kto iny.
+
+Gdzie ony złote góry nieprzebrane?
+Gdzie Gaszkonowie i wojska ubrane?
+W co poszły działa i nasze turnieje?
+Wiatrem nadziane puknęły nadzieje.
+
+Fortuna nawy na morzu sprawuje,
+Fortuna w bitwach zwycięstwem szafuje;
+Onej rakosze i sejmy słuchają;
+A ludzkie rady wspak sie obracają.
+
+Precz krasomowce! Wywody na stronę!
+A my gdzie w polu na słupie koronę
+Zawieśmy złotą; jesli nie mędrszemu,
+Niech ją da Szczęście przynamniej rętszemu.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń IX
+
+
+
+  Nie porzucaj nadzieje,
+Jakoć sie kolwiek dzieje:
+Bo nie już słońce ostatnie zachodzi,
+A po złej chwili piękny dzień przychodzi.
+
+  Patrzaj teraz na lasy,
+Jako prze zimne czasy
+Wszystkę swą krasę drzewa utraciły,
+A śniegi pola wysoko przykryły.
+
+  Po chwili wiosna przyjdzie,
+Ten śnieg z nienagła zéjdzie
+A ziemia, skoro słońce jej zagrzeje,
+W rozliczne barwy znowu sie odzieje.
+
+  Nic wiecznego na świecie:
+Radość sie z troską plecie,
+A kiedy jedna weźmie moc nawiętszą,
+W ten czas masz ujźrzeć odmianę naprędszą.
+
+  Ale człowiek zhardzieje,
+Gdy mu sie dobrze dzieje;
+Więc też, kiedy go Fortuna omyli,
+Wnet głowę zwiesi i powagę zmyli.
+
+  Lecz na szczęście wszelakie
+Serce ma być jednakie;
+Bo z nas Fortuna w żywe oczy szydzi,
+To da, to weźmie, jako sie jej widzi.
+
+  Ty nie miej za stracone,
+Co może być wrócone:
+Siła Bóg może wywrócić w godzinie;
+A kto mu kolwiek ufa, nie zaginie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń X
+
+
+
+Może kto ręką sławy dostać w boju,
+Może wymową i rządem w pokoju;
+Lecz jesli żona męża nie ozdobi,
+    Mąż prózno robi.
+
+Kto z gospodarstwa, a kto zaś z wysługi
+Zbierze pieniądze i z kupiectwa drugi,
+Jesli sie żona nie przyłoży k temu,
+    Zginąć wszytkiemu.
+
+Żona uczciwa ozdoba mężowi
+I napewniejsza podpora domowi:
+Na niej rząd wszystek; swego męża ona
+    Głowy korona.
+
+Ona mężowym kłopotom zabiega
+I jego wczasu na wszystkim przestrzega;
+Ona wywabić troskę umie z głowy
+    Słodkiemi słowy.
+
+Ona dziateczki ojcowi podobne
+Rodzi, skąd rostą pociechy osobne;
+Ani już spadków upatrują krewni,
+    Dziedzica pewni.
+
+Trzykroć szczęśliwy, któremu Ty zdarzysz
+Ten związek, Panie; ale zły towarzysz
+Odejmie wszytko, że troski w pół wieka
+    Zgryzą człowieka.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XI
+
+
+
+Stateczny umysł pamiętaj zachować,
+Jesli cię pocznie nieszczęście frasować;
+Także i góry nie radzęć wylatać,
+Kiedy sie Szczęście z tobą imie bratać.
+
+Śmierci podległy człowiecze cnotliwy,
+Choć wszytek twój wiek będzie frasowliwy,
+Chocia też czasem, siedząc z przyjacioły,
+Przy dobrym trunku strawisz dzień wesoły;
+
+Tu przy ciekącym, przezornym strumieniu.
+Każ stół gotować w jaworowym cieniu;
+Każ wino nosić, póki beczka leje,
+Póki wiek służy, a śmierć nie przyspieje.
+
+Postąpisz z włości drogo zapłaconych,
+Postąpisz z dworu i gmachów złoconych;
+A co zebrania twego kolwiek będzie,
+To wszytko przyszły namiastek osiędzie.
+
+Bądź sie kto zacnym rodził i bogatym,
+Bądź niewolnikiem, u śmierci nic na tym;
+Czyjkolwiek naprzód los wynidzie, wsiadaj,
+Wieczny wygnańcze, ani więc odkładaj.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XII
+
+
+
+Nie masz, i po drugi raz nie masz wątpliwości,
+Żeby cnota miała być kiedy bez zazdrości:
+Jako cień nieodstępny ciała naszladuje,
+Tak za cnotą w też tropy zazdrość postępuje.
+
+Nie może jej blasku znieść ani pojźrzeć w oczy,
+Boleje, że kto przed nią kiedy wysszej skoczy;
+A iż baczy po sobie, że sie wspinać prózno,
+Tego ludziom uwłóczy, w czym jest od nich rózno.
+
+Ale człowiek, który swe Pospolitej Rzeczy
+Służby oddał, tej krzywdy nie ma mieć na pieczy;
+Dosyć na tym, kiedy praw, ani niesie wady;
+Niechaj drugi boleje, niech sie spuka jady.
+
+Cnota (tak jest bogata) nie może wziąć szkody
+Ani sie też ogląda na ludzkie nagrody;
+Sama ona nagrodą i płacą jest sobie
+I krom nabytych przypraw świetna w swej ozdobie.
+
+A jesli komu droga otwarta do nieba,
+Tym, co służą ojczyźnie. Wątpić nie potrzeba,
+Że co im zazdrość ujmie, Bóg nagradzać będzie,
+A cnota kiedykolwiek miejsce swe osiędzie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XIII
+
+
+
+Panu dzięki oddawajmy,
+Jego łaskę wspominajmy,
+Który hardym miesza rzeczy,
+A skromne ma na swej pieczy.
+
+On hardy, nieunoszony,
+On tyran północnej strony,
+Któremu, jako sam mniema,
+Świat tak wielki równia nie ma,
+
+Car moskiewski plac mężnemu
+Puścił królowi polskiemu;
+Nie oparł sie aż o lody
+Niepławnej północnej wody.
+
+Granic i zamków budownych
+Odbieżał, i miast warownych;
+Płatna to, kiedy o duszę,
+I sam go obmówić muszę.
+
+Obróć swój koń prędkonogi,
+Nieścigniony care drogi.
+Chcesz być groźnym, a uciekasz;
+Jesliś płochy, hardzie nie każ.
+
+Teraz był czas porokować,
+Komu szłyk naprzód zdejmować;
+Teraz sie było dowiadać,
+Kto ma naprzód z konia spadać.
+
+Bóg pomóż, królu jedyny
+Szerokiej polskiej krainy;
+Umiesz ty hardym dogodzić
+Ani sie im dasz rozwodzić.
+
+Zdjąłeś maszkarę butnemu
+Tyranowi moskiewskiemu;
+Okazałeś, że nie kąsa,
+Chocia to porożem wstrząsa.
+
+W zamcech nadzieję pokładał,
+Ale i tych prędko stradał.
+Nie przyszło mu do odsieczy;
+Głowy ostrzec barziej k rzeczy.
+
+Znowu tedy, skąd był wyszedł,
+W ręce polskie Połock przyszedł,
+Za powodem szczęśliwego
+Stefana, króla polskiego.
+
+Nie pomogły kule częste,
+Zręby mocne, baszty gęste:
+Puściły żelazne brony.
+A ty, królu niezmożony,
+
+Nie tylko zamki budowne
+I twierdze bierzesz warowne,
+Ale co chwalniejsza w tobie,
+Jesteś silen i sam sobie.
+
+Nie puściłeś wódz gniewowi,
+Łaskęś nieprzyjacielowi
+Uczynił; masz i dzielnością,
+Masz już nadeń i ludzkością.
+
+Zdrów bądź, królu niezwalczony.
+Ciebie moje wdzięczne strony
+Nie zmilczą miedzy sławnemi
+Bohatery walecznemi.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XIV
+
+
+
+Wy, którzy Pospolitą Rzeczą władacie,
+A ludzką sprawiedliwość w ręku trzymacie;
+Wy, mówię, którym ludzi paść poruczono
+I zwierzchności nad stadem Bożym zwierzono,
+
+Miejcie to przed oczyma zawżdy swojemi,
+Żeście miejsca zasiedli Boże na ziemi,
+Z którego macie nie tak swe własne rzeczy
+Jako wszytek ludzki mieć rodzaj na pieczy.
+
+A wam więc nad mniejszemi zwierzchność jest dana,
+Ale i sami macie nad sobą Pana,
+Któremu kiedyżkolwiek z spraw swych uczynić
+Poczet macie; trudnoż tam krzywemu wynić.
+
+Nie bierze ten Pan darów ani sie pyta,
+Jesli kto chłop czyli sie grofem poczyta;
+W siermiędze li go widzi, w złotych li głowach,
+Jesli namniej przewinił, być mu w okowach.
+
+Więc ja podobno z mniejszym niebezpieczeństwem
+Grzeszę, bo sam sie tracę swym wszeteczeństwem;
+Przełożonych występki miasta zgubiły
+I szerokie do gruntu carstwa zniszczyły.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XV
+
+
+
+Nie zawżdy Apollo strzela,
+Ale łuk z lutnią podziela;
+Nie zawżdy Mars hufy wodzi,
+Czasem też pod sieć ugodzi.
+
+Nie zawżdy grad z góry leci
+Albo burza niebo szpeci;
+Chmury czarne wiatr wojuje,
+A pogoda następuje.
+
+Takżeć słusze człowiekowi
+Odejmać sie frasunkowi,
+A jako niewdzięczne brzemię
+Uderzyć troski o ziemię.
+
+Cokolwiek raz przeminęło,
+Niewrócony koniec wzięło,
+A przyszły czas Bóg ma w mocy,
+Pogrążony w twardej nocy.
+
+Dosyć na rozum człowieczy
+Dzień dzisiejszy mieć na pieczy;
+Ostatek na Boga wkładaj,
+A dobrze żyć nie odkładaj.
+
+Żyj dobrze, nie odkładając;
+Bo dalszych czasów czekając,
+Niepodobnym obyczajem,
+Nie począwszy żyć, przestajem.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XVI
+
+
+
+Nic po tych zbytnich potrawach, nic po tym
+Śrebrze na służbie i obiciu złotym;
+Nam k woli, kędy róża pozno kwitnie
+    Nie szukaj zbytnie.
+
+Dobra-ć i miętka, co ją najdzie wszędzie;
+A kiedy równe towarzystwo siędzie,
+Prędka dobra myśl, a tym jeszcze chutniej,
+    Gdy nie bez lutniej.
+
+Lutnia — wódz tańców i pieśni uczonych,
+Lutnia — ochłoda myśli utrapionych:
+Ta serce miękczy swym głosem przyjemnym
+    Bogom podziemnym.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XVII
+
+
+
+Niegodzien tego ten świat zawikłany,
+Aby miał na nim rozumem nadany
+Człowiek polegać, a swe szczęśliwości
+Sadzić na jego płochej odmienności.
+
+Co ma ten żywot, na co by bezpiecznie
+Człowiek mógł kazać? Niedługo kóniecznie
+Doniesie czaszę pachołek do gęby,
+A przedsię i w tym straci czasem zęby.
+
+Morze nie stoi nigdy, zawżdy płynie:
+Teraz kędzierze nastrzępi, w godzinie
+Dnem wzgórę stanie, a ogromne wały
+Wysokich będą obłoków sięgały.
+
+Cnota mój kompas, który nie w pół nocy,
+Ale w pół zbytków bije. Niech sie smocy
+I wszytko bydło Proteowe jeży,
+Łódź moja przedsię swym pędem pobieży.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XVIII
+
+
+
+Ucieszna lutni, w której słodkie strony
+Bijąc, Amfijon kamień rozproszony
+Zwabił na kupę, a z chętnej opoki
+    Wstał mur szeroki.
+
+Niemowna przedtym ani ulubiona,
+Dziś na wszytek świat wielce zalecona,
+Zaśpiewaj, co by trudnej Bogumiły
+    Uszy lubiły.
+
+Która jakoby źrzóbek niełapany
+Ani pasterzką ręką ugłaskany
+Ucieka w pole, a pędęm człowieka
+    Mija z daleka.
+
+Ty umiesz tygry, umiesz lasy wodzić
+I bieg pochopnym strumieniom zagrodzić;
+Tobie ustąpił stróż nieokrócony
+    Piekielnej brony,
+
+Cerber, chocia mu wściekły łeb nakrywa
+Sto srogich wężów, a para smrodliwa
+I sprosna piana ciecze miedzy zęby
+    Z trojakiej gęby.
+
+Biedny Iksyjon, Tytyjus zmiękczony,
+Rozśmiał sie nie chcąc; i dzban osuszony
+Stał chwilę, za czym cieszył twój rym drogi
+    Dziewki niebogi.
+
+Niech Bogumiła srogość jadowitą
+Złych panien słyszy i wody niesytą
+Banię bezdenną, i pomstę nieskorą,
+    Którą źli biorą
+
+Na drugim świecie. Bo co, prze żywego
+Boga, już mogły uczynić gorszego?
+Pomordowały, jędze niecnotliwe,
+    Męże właściwe.
+
+Jedna z nich, wierna łożu małżeńskiemu,
+Przeciwko ojcu krzywoprzysiężnemu
+Zacnie skłamała: panna czci bez końca
+    Pod kręgiem słońca.
+
+Która: «Wstań — rzekła — wstań, mężu, by wieczny
+Sen na cię nie padł, skądeś ty bezpieczny;
+Schroń sie przed ojcem i przed bezecnemi
+    Siostrami złemi,
+
+Które jak lwice z głodu nieznośnego
+Wpadwszy na stado, każda morzy swego;
+Ja, litościwsza, ani cię chcę tykać,
+    Ani zamykać.
+
+Mnie niechaj ojciec trzyma w pęcie srogim,
+Żem lutość miała nad mężem ubogim;
+Mnie niechaj zaśle w pogańskie narody
+    Przez morskie wody.
+
+Idź, gdzie cię nogi i wiatry powiodą,
+Za tą życzliwej ćmy nocnej pogodą;
+Idź zdrów, a skargę na mogiłę smętną
+    Włóż więc pamiętną».
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XIX
+
+
+
+Jest kto, co by wzgardziwszy te doczesne rzeczy
+Chciał ze mną dobrą tylko sławę mieć na pieczy,
+A starać sie, ponieważ musi zniszczeć ciało,
+Aby imię przynamniej po nas tu zostało?
+
+I szkoda zwać człowiekiem, kto bydlęce żyje,
+Tkając, lejąc w się wszytko, póki zstawa szyje;
+Nie chciał nas Bóg położyć równo z bestyjami:
+Dał nam rozum, dał mowę, a nikomu z nami.
+
+Przeto chciejmy wziąć przed się myśli godne siebie,
+Myśli ważne na ziemi, myśli ważne w niebie;
+Służmy poczciwej sławie, a jako kto może,
+Niech ku pożytku dobra spólnego pomoże.
+
+Komu dowcipu równo z wymową dostaje,
+Niech szczepi miedzy ludźmi dobre obyczaje;
+Niechaj czyni porządek, rozterkom zabiega,
+Praw ojczystych i pięknej swobody przestrzega.
+
+A ty, coć Bóg dał siłę i serce po temu,
+Uderz sie z poganinem, jako słusze cnemu;
+Prostak to, który wojsko z wielkości szacuje:
+Zwycięstwo liczby nie chce, męstwa potrzebuje.
+
+Śmiałemu wszędy równo, a o wolność miłą
+Godzi sie oprzeć by więc i ostatnią siłą;
+Nie przegra, kto frymarczy na sławę żywotem,
+Azaby go lepiej dał w cieniu darmo potem?
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XX
+
+
+
+Jaką, rozumiesz, zazdrość zjednałeś sobie,
+Zacny biskupie, w mojej małej osobie,
+Żeś mię z domu wyciągnął w te dalsze strony
+Od małych dziatek i od teskliwej żony?
+
+Nie myśli-ć ona o tym, że ja przy tobie
+Głowy nie ufrasuję by namniej sobie;
+Że w twym pałacu mieszkam, że przy twym boku
+Siadam; koń mój, sługa mój na twym obroku.
+
+Rychlej, niesposobnego będąc świadom
+Zdrowia mego, frasuje swe serce doma,
+Żebych jakiej choroby nagłej nie użył,
+Nie mając, kto by mi w tym jej sercem służył.
+
+Ciężar także domowy, społeczny nama,
+Teraz w mej niebytności musi nieść sama,
+Strzegąc w domu porządku, warując szkody,
+Dziatek lichych pilnując, zakładów zgody.
+
+Któż wie, jesli i tego przed sie nie bierze
+(Acz wątpić nie potrzeba o mojej wierze),
+Że na świecie rodzą sie takowe zioła,
+Których smak pamięć domu wygładza zgoła;
+
+Że taka jest muzyka i takie strony,
+Których człowiek słuchając, już ani żony,
+Ani dziatek nawiedzi, ale w niewoli
+Pod pany sromotnymi wiecznie trwać woli.
+
+To i czego jest więcej, zawżdy w miłości
+Serca trapi, chocia też zstawa ufności;
+A ty nie bądź przyczyną, biskupie drogi,
+Niczyjej, lubo słusznej, lub płonej trwogi.
+
+Ale złącz, jakoś rozwiódł, bo acz oboje
+Twój urząd niesie, wszakże wyroki twoje
+Na ludzkiej chęci wiszą: i ja, i ona
+Nie pragniewa do śmierci być rozdzielona.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XXI
+
+
+
+Srogie łańcuchy na swym sercu czuję;
+  Lecz to szczęściem szacuję,
+Żem jest tak pięknym sidłem ułowiony;
+  Wesoło żywę, w trosce położony,
+  A w tym swoim wzdychaniu
+Mam rozkosz przeciw ludzkiemu mniemaniu,
+  Oczy dziwnej piękności,
+W których sie wszytki najdują wdzięczności.
+  Dzień to błogosławiony,
+Kiedym ja waszym sidłem upleciony.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XXII
+
+
+
+Proszę, jesli sie z tobą co śpiewało,
+Co by i ten rok, i dalej trwać miało,
+Powiedz słowieński rym, o wielostrona
+    Lutni złocona,
+
+Mytyleńskiego mieszkańca przed laty
+Zabawo, który, choć w boju zębaty,
+Przedsię śrzód mieczów lub też nawę w biegu
+    Przybił do brzegu.
+
+Muzy parnaskie i naleźcę wina,
+I Afrodytę, i z nią jejże syna
+I Lyka z czarnym włosem i czarnema
+    Śpiewał oczema,
+
+O czci Febowa i stołów złoconych
+Kraso niebieskich, o myśli strapionych
+Wdzięczna ochłodo, i mnie sprzyjaźliwąm
+    Bądź, gdy cię wzywąm!
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XXIII
+
+
+
+Nie zawżdy, piękna Zofija,
+Róża kwitnie i lelija;
+Nie zawżdy człek będzie młody
+Ani tej, co dziś, urody.
+
+Czas ucieka jak woda,
+A przy nim leci Pogoda
+Zebrawszy włosy na czoło:
+Stąd jej łapaj, bo w tył goło.
+
+Zima bywszy zejdzie snadnie;
+Nam, gdy śniegiem włos przypadnie,
+Już wiosna, już lato minie,
+A ten z głowy mróz nie zginie.
+
+
+
+
+ Jan Kochanowski
+
+Pieśni, Księgi wtóre
+Pieśń XXIV
+
+
+
+Niezwykłym i nie leda piórem opatrzony
+Polecę precz, poeta, ze dwojej złożony
+Natury: ani ja już przebywać na ziemi
+Więcej będę, a więtszy nad zazdrość, ludnemi
+
+Miasty wzgardzę. On, w równym szcześciu urodzony,
+On ja, jako mię zowiesz, wielce ulubiony
+Mój Myszkowski, nie umrę ani mię czarnemi
+Styks niewesoła zamknie odnogami swemi.
+
+Już mi skóra chropawa padnie na goleni,
+Już mi w ptaka białego wierzch sie głowy mieni;
+Po palcach wszędy nowe piórka sie puszczają,
+A z ramion sążeniste skrzydła wyrastają.
+
+Terazże nad Ikara prędszy przeważnego
+Puste brzegi nawiedzę Bosfora hucznego
+I Syrty Cyrenejskie, Muzom poświęcony
+Ptak, i pola zabiegłe za zimne Tryjony.
+
+O mnie Moskwa i będą wiedzieć Tatarowie,
+I róznego mieszkańcy świata Anglikowie,
+Mnie Niemiec i waleczny Hiszpan, mnie poznają,
+Którzy głęboki strumień Tybrowy pijają.
+
+Niech przy próznym pogrzebie żadne narzekanie,
+Żaden lament nie będzie ani uskarżanie:
+Świec i dzwonów zaniechaj, i mar drogo słanych,
+I głosem żałobliwym żołtarzów śpiewanych.

@@ -1,0 +1,5923 @@
+William Shakespeare
+
+Wiele hałasu o nic
+tłum. Leon Ulrich
+
+ISBN 978-83-288-2909-1
+
+
+
+OSOBY
+ * Don Pedro — Książę Aragoński
+ * Don Juan — brat naturalny Don Pedra
+ * Klaudio — młody florentyńczyk, faworyt Don Pedra
+ * Benedyk — młody paduańczyk, faworyt Don Pedra
+ * Leonato — gubernator Mesyny
+ * Antonio — jego brat
+ * Baltazar — sługa Don Pedra
+ * Borachio — ze służby Don Juana
+ * Konrad — ze służby Don Juana
+ * Ciarka — urzędnik policji
+ * Kwasek — urzędnik policji
+ * Zakrystian
+ * Mnich
+ * Paź
+ * Hero — córka Leonata
+ * Beatryks — sierota, bratanica Leonata
+ * Małgorzata — panna pokojowa Hero
+ * Urszula — panna pokojowa Hero
+ * Posłańcy, straż, służba.
+
+
+
+
+Scena w Mesynie.
+
+
+
+
+AKT PIERWSZY
+
+
+
+SCENA PIERWSZA
+
+/ Ulica w Mesynie. /
+
+/ Leonato, Hero, Beatryks i inni, Posłaniec. /
+
+
+LEONATO
+
+Dowiaduję się z tego listu, że Don Pedro Aragoński przybywa tej nocy do Mesyny.
+
+
+POSŁANIEC
+
+W tej chwili musi już być bardzo blisko. Kiedy go opuściłem, był stąd niecałe trzy mile.
+
+
+LEONATO
+
+Ile szlachty straciliście w tej rozprawie?
+
+
+POSŁANIEC
+
+Ogółem bardzo mało, a żadnej znakomitości.
+
+
+LEONATO
+
+Zwycięstwo jest podwójne, gdy zwycięzca wraca do domu z armią w całym komplecie. Czytam tu, że Don Pedro wielkimi obsypał honorami młodego florentyńczyka nazwiskiem Klaudio.
+
+
+POSŁANIEC
+
+Na co uczciwie zasłużył, przyznał mu wspaniałomyślnie Don Pedro. Nad wiek się swój sprawił; pod postacią baranka pokazał lwie serce. Czyny jego przechodzą moją zdolność opowiadania.
+
+
+LEONATO
+
+Ma on tu stryja w Mesynie, którego ta wiadomość niepomału uraduje.
+
+
+POSŁANIEC
+
+Wręczyłem mu już listy, a radość jego tak była wielka, że przez sam zbytek przybrała znaki goryczy.
+
+
+LEONATO
+
+Łzami się zalał?
+
+
+POSŁANIEC
+
+Obficie.
+
+
+LEONATO
+
+Miły wylew miłości: nie ma uczciwszej twarzy jak twarz tak omyta. Jakże lepiej płakać z radości niż radować się z płaczu!
+
+
+BEATRYKS
+
+Powiedz mi, proszę, czy i pan Zawadiaka z wojny powrócił?
+
+
+POSŁANIEC
+
+Nie znam nikogo, który by się tak nazywał, łaskawa pani; nie słyszałem o tym nazwisku w całej armii.
+
+
+LEONATO
+
+O kogo się pytasz, synowico?
+
+
+HERO
+
+Moja kuzynka chce mówić o panu Benedyku z Padwy.
+
+
+POSŁANIEC
+
+O, ten powrócił; zawsze wesół po staremu.
+
+
+BEATRYKS
+
+On tu po rogach ulic porozwieszał kartelusze i wyzwał Kupidyna na łuki. Błazen mojego stryja, czytając wyzwanie, podpisał Kupidyna i wyzwał go na kusze. Powiedz mi, proszę, ilu zabił i zjadł w tej wojnie? Ale naprzód powiedz, ilu zabił? Bo przyrzekłam zjeść, co zabije.
+
+
+LEONATO
+
+Za daleko posuwasz żarty z Benedykiem, synowico, ale on ci dotrzyma placu, ani wątpię.
+
+
+POSŁANIEC
+
+W tej wojnie niepospolite oddał on usługi.
+
+
+BEATRYKS
+
+Mieliście zapewne spleśniałą żywność, a on ją wam zjeść dopomógł, bo waleczny z niego krajczy i wyborny ma żołądek.
+
+
+POSŁANIEC
+
+I żołnierz z niego nie lada, pani.
+
+
+BEATRYKS
+
+Dzielny z niego żołnierz przy lada pani, ani wątpię; ale przy lada panu?
+
+
+POSŁANIEC
+
+Pan przy panu, a mąż przy mężu, wielką rycerską cnotą odziany.
+
+
+BEATRYKS
+
+Chcesz powiedzieć nadziany — lecz co do nadzienia — zresztą, wszyscy jesteśmy śmiertelni.
+
+
+LEONATO
+
+Nie sądź o mojej synowicy z tego, co słyszysz. Jest bowiem rodzaj wesołej wojny między nią a Benedykiem i byle się spotkali, zaczynają utarczki na dowcipy.
+
+
+BEATRYKS
+
+W których niewiele wygrywa. W ostatnim spotkaniu okulały cztery z pięciu jego dowcipów; został jeden na zarząd całego człowieka, a jeśli z tym potrafi ciepło się chować, niechże go strzeże jako jedyną różnicę między nim a jego koniem, bo to cały skarb, który mu został na znak, że jest rozumnym stworzeniem. Któż teraz jego towarzyszem? Bo co miesiąc ma nowego ślubnego brata.
+
+
+POSŁANIEC
+
+Czy być może?
+
+
+BEATRYKS
+
+I bardzo może. U niego wiara, jak kapelusz, idzie za modą.
+
+
+POSŁANIEC
+
+Pan ten, jak widzę, nie bardzo korzystny ma rachunek w pani regestrach.
+
+
+BEATRYKS
+
+To prawda; ale inaczej spaliłabym moje biuro. Powiedz mi, proszę, kto dziś jego towarzyszem? Czy znalazł postrzeleńca gotowego przedsięwziąć z nim podróż na dwór Lucypera?
+
+
+POSŁANIEC
+
+Zwykle przebywa w towarzystwie dostojnego pana Klaudio.
+
+
+BEATRYKS
+
+O panie, przyczepi się do niego jak choroba: łatwiej się nim zarazić niż dżumą, a zarażony szaleje natychmiast. Boże zmiłuj się nad Klaudiem! Jeżeli się Benedykiem zaraził, wyda tysiąc talarów, nim wróci do zdrowia.
+
+
+POSŁANIEC
+
+Dołożę starania, żeby żyć z panią w zgodzie.
+
+
+BEATRYKS
+
+Radzę ci.
+
+
+LEONATO
+
+Ty przynajmniej, synowico, nigdy nie oszalejesz.
+
+
+BEATRYKS
+
+Chyba w czasie upałów styczniowych.
+
+
+POSŁANIEC
+
+Don Pedro przybywa.
+
+/ Wchodzą Don Pedro, z nim Baltazar i inni; Don Juan, Klaudio, Benedyk. /
+
+
+DON PEDRO
+
+Dobry panie Leonato, wychodzisz na spotkanie kłopotów. Zwykłym światowym trybem ludzie unikają kosztów, a ty ich szukasz.
+
+
+LEONATO
+
+Nigdy kłopot nie wszedł do mojego domu w postaci waszej łaskawości; bo skąd wychodzi kłopot, zostawia ulgę; gdy po waszym oddaleniu się zostanie mi w domu smutek, a pożegna mnie szczęście.
+
+
+DON PEDRO
+
+Zbyt chętnie podejmujesz ciężar. Zapewne twoja córka?
+
+
+LEONATO
+
+Tak przynajmniej mówiła mi nieraz jej matka.
+
+
+BENEDYK
+
+Czy miałeś wątpliwości, skoro robiłeś pytania?
+
+
+LEONATO
+
+Nie, signor Benedyk, bo byłeś podówczas jeszcze dzieckiem.
+
+
+DON PEDRO
+
+Dostałeś, czegoś szukał, Benedyku. Możemy teraz domyślać się, czym jesteś, gdy już wyrosłeś na męża. Zresztą sama córka pokazuje ojca. Szczęść ci Boże, piękna pani, bo jesteś obrazem dostojnego ojca.
+
+
+BENEDYK
+
+Jeśli dostojny Leonato jest jej ojcem; jakkolwiek do niego podobna, nie chciałaby za całą Mesynę nosić jego głowy na swoich ramionach.
+
+
+BEATRYKS
+
+Dziwię się, signor Benedyku, że jeszcze otwierasz usta, choć nikt cię nie słucha.
+
+
+BENEDYK
+
+A, droga pani Wzgardnicka, czy jeszcze przy życiu?
+
+
+BEATRYKS
+
+Jakżeby mogła umrzeć wzgarda, póki jej starczy tak przedniej strawy jak signor Benedyk? Uprzejmość sama musi się zmienić na wzgardę, gdy się jej pokażesz na oczy.
+
+
+BENEDYK
+
+Więc uprzejmość ta jest wietrznicą. To jednak pewne, że kochają mnie wszystkie kobiety wyjąwszy ciebie, pani, a ja pragnąłbym z całego serca, żeby mniej było twarde moje serce, bo muszę wyznać, że dotąd nie kocham żadnej.
+
+
+BEATRYKS
+
+Co za szczęście dla kobiet! Inaczej musiałyby się kłopotać niesmacznym kochankiem. Dzięki Bogu i krwi mej zimnej, pod tym przynajmniej względem jestem twojego humoru, signor Benedyku: wolałabym raczej słuchać szczekania mojego psa na wrony niż miłosnych oświadczeń kochanka.
+
+
+BENEDYK
+
+Niechże Bóg zachowa panią długo w tym usposobieniu! Twarz jakiegoś szlachcica ujdzie tym sposobem przeznaczonego jej podrapania.
+
+
+BEATRYKS
+
+Jeżeli twarz ta podobna do twojej, signor Benedyku, podrapanie nie zrobiłoby jej wielkiej krzywdy.
+
+
+BENEDYK
+
+Wyznaję, że trudno znaleźć ćwiczeńszego mistrza dla papugi.
+
+
+BEATRYKS
+
+Lepszy ptak z moim językiem niż bydlę z twoim, signor.
+
+
+BENEDYK
+
+Chciałbym, żeby koń mój tak był szybki i tak niestrudzony jak język twój, pani. Lecz pędź dalej z Bogiem, co do mnie, skończyłem.
+
+
+BEATRYKS
+
+Kończysz zawsze końskim konceptem; nie od dziś znam cię, ptaszku.
+
+
+DON PEDRO
+
+/ który dotąd rozmawiał na stronie z Leonatem /
+
+Na tym stanęło. Signor Klaudio i signor Benedyku, drogi mój przyjaciel Leonato zaprasza nas wszystkich. Mówię mu, że zostaniemy tu przynajmniej miesiąc, a on prosi Boga z całej duszy, żeby jaki przypadek dłużej nas zatrzymał. Przysiągłbym bez obawy, że nie jest obłudnikiem, lecz że zaprasza nas z serca.
+
+
+LEONATO
+
+Gdybyś przysiągł, dostojny panie, nie złożyłbyś fałszywej przysięgi.
+
+/ do Don Juana /
+
+Pozwól mi pozdrowić cię, mój książę; skoroś się z bratem twoim pojednał, winienem ci wszystkie moje służby.
+
+
+DON JUAN
+
+Dziękuję ci, Leonato. Nie lubię próżnej gadaniny, lecz dziękuję ci.
+
+
+LEONATO
+
+Czy raczy wasza łaskawość otworzyć pochód?
+
+
+DON PEDRO
+
+Daj mi rękę, Leonato, pójdziemy razem.
+
+/ Wychodzą wszyscy prócz Benedyka i Klaudia. /
+
+
+KLAUDIO
+
+Mój Benedyku, czy zauważałeś córkę Leonata?
+
+
+BENEDYK
+
+Nie zauważałem jej, lecz patrzyłem na nią.
+
+
+KLAUDIO
+
+Czy nie skromna z niej panienka?
+
+
+BENEDYK
+
+Mamże ci po prostu zdanie moje otworzyć, jak uczciwemu człowiekowi przystoi, czy też chcesz, żebym ci po mojemu odpowiedział jak deklarowany tyran płci pięknej?
+
+
+KLAUDIO
+
+Powiedz mi, proszę, zdanie twoje po prostu.
+
+
+BENEDYK
+
+Więc ci powiem, że mi się zdaje za niska na szczytne pochwały, za czarna na świetne pochwały, a za mała na wielkie pochwały. To tylko mogę na korzyść jej powiedzieć, że gdyby inna była, jak jest, nie byłaby piękna, a że nie jest inna, jak jest, nie podoba mi się wcale.
+
+
+KLAUDIO
+
+Nie bierz tego, co mówię, za żarty, ale powiedz mi szczerze swoje o niej zdanie.
+
+
+BENEDYK
+
+Czy chciałbyś ją kupić, że się tak o nią wypytujesz?
+
+
+KLAUDIO
+
+Alboż skarby świata starczyłyby na kupno takiego klejnotu?
+
+
+BENEDYK
+
+I na pokrowiec w dodatku. Ale czy mówisz to naprawdę, czy stroisz tylko żarty i chcesz dowodzić, że Kupido dobry strzelec na zające, a Wulkan rzadki cieśla? Powiedz, z jakiego tonu trzeba śpiewać, żeby się zgodzić z twoją piosenką?
+
+
+KLAUDIO
+
+W moich oczach jest to najpiękniejsza pani, na którą kiedykolwiek patrzyłem.
+
+
+BENEDYK
+
+Choć mogę jeszcze widzieć bez okularów, nic takiego nie dostrzegłem. Kuzynka jej, gdyby nie opanowały jej furie, tak by ją prześcignęła pięknością, jak pierwszy maja prześciga ostatni dzień grudnia. Mam zresztą nadzieję, że nie myślisz zapisać się do bractwa żonatych. Czy się mylę?
+
+
+KLAUDIO
+
+Gdyby Hero chciała być moją żoną, nie odpowiadam za siebie, choćbym ci przysiągł, że nie myślę o żonie.
+
+
+BENEDYK
+
+Czy do tego już przyszło? Nie ma więc na ziemi człowieka, który by chciał nosić kapelusz bez trwogi? Nigdy więc nie zobaczę kawalera o sześciu krzyżykach? Rób, co ci się podoba. Skoro chcesz gwałtem ugiąć kark pod jarzmo, nośże jego piętno i spędzaj niedziele na wzdychaniu. Ale patrz, Don Pedro szukać nas przychodzi.
+
+/ Wchodzi Don Pedro. /
+
+
+DON PEDRO
+
+Cóż za tajemnica was zatrzymała, żeście nam nie towarzyszyli do domu Leonata?
+
+
+BENEDYK
+
+Chciałbym, żeby wasza łaskawość zmusiła mnie do wyznania.
+
+
+DON PEDRO
+
+Więc ci to na twoje maństwo rozkazuję.
+
+
+BENEDYK
+
+Słyszysz, hrabio Klaudio? Bądź przekonany, że w potrzebie umiem zachować tajemnicę, jak gdybym nie miał języka; ale na moje maństwo, uważaj tylko, na moje maństwo. Zakochał się. „W kim?” — zapyta wasza łaskawość. Odpowiedź będzie węzłowata: w Hero, węzłowatej córce Leonata.
+
+
+KLAUDIO
+
+Gdyby tak było, to by się to łatwo odkryło.
+
+
+BENEDYK
+
+Zupełnie jak w starej bajce: tak nie jest, tak nie było, uchowaj Boże, żeby tak było.
+
+
+KLAUDIO
+
+Jeśli się moja namiętność wkrótce nie zmieni, uchowaj Boże, żeby było inaczej.
+
+
+DON PEDRO
+
+Amen, jeśli ją kochasz, bo godna tego ta młoda pani.
+
+
+KLAUDIO
+
+Mówisz to, książę, żeby mnie zbadać.
+
+
+DON PEDRO
+
+Na honor, mówię, co myślę.
+
+
+KLAUDIO
+
+Na uczciwość, książę, powiedziałem, co myślałem.
+
+
+BENEDYK
+
+Na dwa moje honory i dwie uczciwości, ja także powiedziałem, co myślałem.
+
+
+KLAUDIO
+
+Że kocham ją, czuję.
+
+
+DON PEDRO
+
+Że jest miłości godna, wiem.
+
+
+BENEDYK
+
+Że ani czuję, jak kochać ją można, ani wiem, jak miłości tej godna, to moje przekonanie, którego żaden ogień ze mnie nie wytopi; umrę z nim na stosie.
+
+
+DON PEDRO
+
+Byłeś zawsze zatwardziałym kacerzem w rzeczach piękności.
+
+
+KLAUDIO
+
+I teraz, żeby zostać wiernym swojej roli, własnemu przekonaniu gwałt zadajesz.
+
+
+BENEDYK
+
+Że mnie kobieta poczęła, dziękuję jej; że mnie wychowała, dziękuję jej bardzo pokornie; lecz żeby mi nad czołem psy nawoływano lub żebym róg mój na niewidzialnym pasie miał zawieszać, niech mi wszystkie kobiety wybaczą. Żeby im nie robić krzywdy, nie wierząc jednej, przywłaszczam sobie prawo nie ufać żadnej. Koniec końcem, a najlepszy to koniec, chcę żyć i umrzeć kawalerem.
+
+
+DON PEDRO
+
+Jeszcze przed śmiercią zobaczę cię wybladłego z miłości.
+
+
+BENEDYK
+
+Z gniewu, choroby lub głodu, to być może, mój książę, lecz z miłości — nigdy. Dowiedź mi raz, że więcej krwi straciłem z miłości, niż jej znalazłem w szklance wina, a pozwalam wykłuć sobie oczy piórem poety miłosnych sonetów i powiesić się na drzwiach zamtuza na znak ślepego Kupidyna.
+
+
+DON PEDRO
+
+Zgoda. Jeśli kiedykolwiek od wiary tej odstąpisz, będziesz znakomitym dla drugich przykładem.
+
+
+BENEDYK
+
+Jeśli od niej odstąpię, powieś mnie w butelce jak kota i strzelaj do mnie jak do celu, a kto mnie trafi, klep go po ramieniu i nazwij go Adamem.
+
+
+DON PEDRO
+
+Czas to pokaże. I dziki byk do jarzma przyucza się z czasem.
+
+
+BENEDYK
+
+Dziki byk, być może; ale jeśli kiedykolwiek roztropny Benedyk pozwoli sobie na kark włożyć to jarzmo, odbierz bykowi rogi, a posadź je na moim czole; niech portret mój jaki bohomaz nabazgrze, a na dole wielkimi literami jak na stajni: „Tu dobre konie do najęcia”, niech na tym wizerunku napisze: „Tu żonaty Benedyk do widzenia”.
+
+
+KLAUDIO
+
+Jeśli się to zdarzy, co za rogobodziec z ciebie będzie!
+
+
+DON PEDRO
+
+Byle Kupido całego sajdaka w Wenecji nie wystrzelał, zadrżysz przed nim niedługo.
+
+
+BENEDYK
+
+To chyba będzie trzęsienie ziemi.
+
+
+DON PEDRO
+
+Zastosujesz się do okoliczności, tymczasem, dobry mój signor Benedyku, idź do Leonata, poleć mnie jego względom, i powiedz mu, że nie chybię wieczerzy, bo wielkie porobił przygotowania.
+
+
+BENEDYK
+
+Dość we mnie atłasu na takie poselstwo. Kończąc, polecam was…
+
+
+KLAUDIO
+
+Bożej opatrzności. Dan w naszym grodzie, gdybyśmy go mieli…
+
+
+DON PEDRO
+
+Szóstego Juli: wasz życzliwy przyjaciel, Benedyk.
+
+
+BENEDYK
+
+Dajcie pokój żartom. Cała tkanina waszej rozmowy tylko okrawkami bramowana, a bramy nie bardzo mocno przyszyte. Nim zaczniecie wojować konceptami z kalendarza, zróbcie wprzódy rachunek własnego sumienia. A teraz, Bóg z wami.
+
+/ Wychodzi. /
+
+
+KLAUDIO
+
+Wielką mi, panie, świadczyć możesz łaskę.
+
+
+DON PEDRO
+
+Całe me serce do twej daję szkoły.
+Naucz je tylko, a wkrótce zobaczysz,
+Jak łatwo przyjmie choć trudną naukę,
+Byle ci mogło dobrze się przysłużyć.
+
+
+KLAUDIO
+
+Czy Leonato ma syna, mój książę?
+
+
+DON PEDRO
+
+Hero jedyną jest jego dziedziczką.
+Czy się w niej kochasz?
+
+
+KLAUDIO
+
+                        Panie mój łaskawy;
+Gdyś się wybierał na ostatnią wojnę,
+Okiem żołnierza poglądałem na nią;
+Zbyt ciężka służba czekała mnie w polu,
+Aby uczucie na miłość wyrosło;
+Dziś, gdy wojenne odleciały myśli,
+Gdy tkliwe żądze na miejsce ich wbiegły,
+Każda mi woła, że piękną jest Hero,
+Że ją kochałem przed naszą wyprawą.
+
+
+DON PEDRO
+
+Widzę, że jesteś jak każdy kochanek:
+Nudzisz słuchacza słowami bez końca.
+Jeśli ją kochasz, bądź dobrej otuchy,
+Swatem twym będę przy niej i jej ojcu,
+I niewątpliwie dam ci ją za żonę.
+Całą twą powieść tak pięknie osnutą
+Czy nie do tego wymierzyłeś celu?
+
+
+KLAUDIO
+
+Jak słodko leczysz cierpienia miłości,
+Które na pierwsze poznałeś wejrzenie!
+Żeby się miłość nie zdała zbyt nagła,
+Pragnąłem w dłuższe owinąć ją słowa.
+
+
+DON PEDRO
+
+Na co się przyda most szerszy od wody?
+Dar najpiękniejszy jest dar nam potrzebny.
+Wszystko jest dobre, co do celu wiedzie.
+Kochasz ją? Znajdę na miłość lekarstwo.
+Wiesz, że tej nocy wielki bal na zamku;
+Przebrany wezmę rolę twą na siebie,
+I powiem pięknej Hero, żem jest Klaudio;
+Wszystkie tajniki serca jej odkryję,
+Na jeńców moich uszy jej przemienię
+Potężną siłą namiętnej powieści,
+A potem ojcu rzecz przedstawię całą,
+I koniec końców, żoną twoją będzie.
+Śpieszmy się teraz wszystko przygotować.
+
+/ Wychodzą. /
+
+
+
+SCENA DRUGA
+
+/ Pokój w domu Leonata. /
+
+/ Leonato, Antonio. /
+
+
+LEONATO
+
+Cóż tam, bracie? Gdzie syn twój, mój synowiec? Czy zamówił muzykę?
+
+
+ANTONIO
+
+Zajmuje się tym gorliwie. Ale, bracie, mogę ci powiedzieć nowiny, o których ci się nie marzyło.
+
+
+LEONATO
+
+Czy dobre?
+
+
+ANTONIO
+
+To zależy od pieczęci, którą na nich skutek wyciśnie; lecz mają piękne okładki i dobrze im patrzy z miny. Jeden z moich pachołków podsłuchał rozmowy księcia i hrabiego Klaudio, gdy się przechadzali w cienistej alei mojego ogrodu. Książę wyznał hrabiemu, że kocha moją synowicę, twoją córkę, i zamierza oświadczyć się jej tej nocy podczas tańca; jeżeli odpowiedź będzie pomyślna, nie chce zasypiać sposobności, ale natychmiast prosić o twoje zezwolenie.
+
+
+LEONATO
+
+Czy pachołek, który ci to opowiadał, ma w głowie trochę oleju?
+
+
+ANTONIO
+
+Bystry i uczciwy z niego chłopak. Poślę po niego, weź go sam na wywód słowny.
+
+
+LEONATO
+
+Nie, nie. Weźmy wszystko za sen i czekajmy, póki się sam nie sprawdzi. Uwiadomię jednak córkę o wszystkim, żeby się przygotowała na odpowiedź, gdyby przypadkiem sprawdziła się wiadomość. Idź, proszę, i pogadaj z nią o tej sprawie.
+
+/ Różne osoby przechodzą scenę, Leonato mówi do nich kolejno. /
+
+Kuzynowie, wiecie, co macie robić. O, daruj, przyjacielu; chodź ze mną, potrzebna mi twoja rada. Dobrzy kuzynowie, dołóżcie starania, czas nagli.
+
+/ Wychodzą. /
+
+
+
+SCENA TRZECIA
+
+/ Inny pokój w domu Leonata. /
+
+/ Don Juan, Konrad. /
+
+
+KONRAD
+
+Przez Boga żywego, panie mój, co ci się stało? Skąd ten smutek niezmierzony?
+
+
+DON JUAN
+
+Jak przyczyna jego nie ma granic, tak smutek ten nie ma końca.
+
+
+KONRAD
+
+Wypadałoby jednak słuchać rozumu.
+
+
+DON JUAN
+
+A gdy go wysłucham, co na tym zyskam?
+
+
+KONRAD
+
+Jeśli nie bezpośrednie lekarstwo, to przynajmniej spokojną cierpliwość.
+
+
+DON JUAN
+
+Dziwi mnie, że ty, pod Saturnem, jak sam powiadasz, zrodzony, chcesz moralne lekarstwo na śmiertelną zapisywać chorobę. Nie mogę utaić, kim jestem: muszę być smutny, gdy mam do tego powody, i na niczyje nie uśmiechać się żarty; jeść, gdy jestem głodny, i na niczyje nie czekać pozwolenie; spać, gdy mnie sen morzy, i nie troszczyć się o niczyje sprawy; śmiać się, gdy jestem wesoły, i niczyim przywidzeniom nie schlebiać.
+
+
+KONRAD
+
+Zgoda, ale nie powinieneś puszczać cugli wszystkim swoim urojeniom, dopóki nie będziesz samowładnym panem swojej woli. W ostatnich czasach powstałeś przeciw bratu, który dopiero co przyjął cię do łaski; trudno, żebyś w nią korzeń silnie zapuścił, jeśli sam sobie nie dasz potrzebnej na to pogody: stosujmy porę do naszego żniwa.
+
+
+DON JUAN
+
+Wolałbym być cierniem w płocie niż różą w jego łasce. Lepiej krwi mojej przystoi być od wszystkich wzgardzonym niż miną układną miłość bliźniego wykradać; bo jeśli tym sposobem nie zarobię na imię uczciwego pochlebcy, to przynajmniej nikt nie zaprzeczy, że jestem szczerym hultajem. Ufają mi, póki noszę kaganiec; puszczają mnie wolno, póki mam postronek na nogach; ja też z mojej strony postanowiłem nie śpiewać w klatce. Kąsałbym, gdybym mógł otworzyć szczęki, gdybym miał wolność, robiłbym, co mi się podoba; tymczasem zostaw mnie, jak jestem, nie próbuj daremno zmienić mojej natury.
+
+
+KONRAD
+
+A czy nie mógłbyś, panie, użyć korzystnie swojego nieukontentowania?
+
+
+DON JUAN
+
+Używam go, jak mogę, bo jego tylko samego używam. Lecz ktoś nadchodzi.
+
+/ Wchodzi Borachio. /
+
+Co tam nowego, Borachio?
+
+
+BORACHIO
+
+Przychodzę z wielkiej uczty na zamku. Leonato księciu, twojemu bratu, królewskie wyprawia tam przyjęcie. Mogę też, panie, dać ci wiadomość o zamierzonym małżeństwie.
+
+
+DON JUAN
+
+Czy zda się na grunt, na którym można by wybudować jaką psotę? Kto jest ten szaleniec, co się z kłopotem zaręcza?
+
+
+BORACHIO
+
+Kto? Mój książę, twojego brata prawa ręka.
+
+
+DON JUAN
+
+Co mówisz? Nieoszacowany Klaudio?
+
+
+BORACHIO
+
+On właśnie.
+
+
+DON JUAN
+
+Doskonały kawaler! A na kogo to, na kogo strzelił okiem?
+
+
+BORACHIO
+
+Naturalnie na Hero, córkę i dziedziczkę Leonata.
+
+
+DON JUAN
+
+Nie lada marcówka! Jakżeś się o tym dowiedział?
+
+
+BORACHIO
+
+Paliłem kadzidło w zatęchłej komnacie, aż tu mi wchodzą książę i Klaudio, ręka pod rękę, w poważnej rozmowie. Wkradłem się za obicie i słyszałem, jak między nimi stanęło, że książę będzie się starał o Hero jakby dla siebie, a skoro otrzyma przyrzeczenie, odstąpi ją hrabi Klaudio.
+
+
+DON JUAN
+
+Idźmy tam, idźmy. Może i znajdzie się tam jaka strawa dla mojej złości. Cała sława mojego upadku należy się temu młodemu dorobkiewiczowi; byle mi się w czymkolwiek pokrzyżować plany jego udało, będzie to dla mnie błogosławieństwem. Czy mi dopomożecie? Czy mogę na was rachować?
+
+
+KONRAD
+
+Na śmierć i życie, mości książę.
+
+
+DON JUAN
+
+Idźmy na wielką ich ucztę; radość ich tym większa, że jestem pobity. Ach, gdyby ich kucharz moje miał myśli! Idźmy zobaczyć, co się da zrobić.
+
+
+BORACHIO
+
+Jesteśmy na twoje rozkazy, mości książę.
+
+/ Wychodzą. /
+
+
+
+
+AKT DRUGI
+
+
+
+SCENA PIERWSZA
+
+/ Sala w domu Leonata. /
+
+/ Leonato, Antonio, Hero, Beatryks i inni. /
+
+
+LEONATO
+
+Czy książę Juan był na uczcie?
+
+
+ANTONIO
+
+Nie widziałem go.
+
+
+BEATRYKS
+
+Jakże kwaśną miał minę! Ile razy go widzę, przez godzinę pali mnie zgaga.
+
+
+HERO
+
+Nadzwyczaj melancholiczny ma charakter.
+
+
+BEATRYKS
+
+Doskonały byłby to człowiek, który by środek trzymał między nim a Benedykiem. Jeden zbyt jest podobny do obrazka, nic nie mówi, drugi, jak najstarszy syn jejmości, ciągle paple.
+
+
+LEONATO
+
+Tak więc pół języka signor Benedyka w gębie księcia Jana, a pół melancholii księcia Jana w twarzy signor Benedyka.
+
+
+BEATRYKS
+
+A do tego piękna stopa i pewna noga, wujaszku, i mieszek niepusty; taki mężczyzna podbiłby serce każdej kobiety, byle na jej względy potrafił zarobić.
+
+
+LEONATO
+
+Na uczciwość, synowico, nie znajdziesz nigdy męża, jeśli tak będziesz ciągle siekła językiem.
+
+
+ANTONIO
+
+Zbyt złośliwa, na honor.
+
+
+BEATRYKS
+
+Zbyt złośliwa to więcej niż zła; ja też zmniejszę zło dane od Boga; bo powiedziano jest: złej krowie Bóg daje krótkie rogi, ale krowie zbyt złośliwej nie da żadnych.
+
+
+LEONATO
+
+Że więc jesteś zbyt złośliwa, Bóg nie da ci rogów.
+
+
+BEATRYKS
+
+Bez wątpienia, jeśli mi nie da męża — błogosławieństwo, o które go co wieczór i co rano na kolanach proszę. Panie, nie mogłabym znieść męża z brodą na twarzy; wolałabym raczej spać na wełnie.
+
+
+LEONATO
+
+Możesz dostać męża bez brody.
+
+
+BEATRYKS
+
+A cóż bym mogła z nim zrobić? Ubrać go w moje suknie i zrobić go moją pokojówką. Kto ma brodę, jest więcej niż dzieciuch, a kto jej nie ma, mniej jest niż mąż; a kto jest więcej niż dzieciuch, nie jest dla mnie, a kto jest mniej niż mąż, nie jestem dla niego. Gotowa więc jestem przyjąć szóstaka jako zadatek od niedźwiednika i wszystkie jego małpy zaprowadzić do piekła.
+
+
+LEONATO
+
+Do piekła więc pójdziesz?
+
+
+BEATRYKS
+
+Nie, tylko do bram piekielnych. Tam na moje spotkanie wyjdzie diabeł, stary rogal z rogami na czole, i powie: „Idź do nieba, Beatryks, idź do nieba, nie ma tu miejsca dla was dziewic”. Wręczę mu więc moje małpy i dalej do świętego Piotra, do nieba, a on mi pokaże, gdzie przebywają kawalerowie, i tam żyć będziemy wesoło jak dzień długi.
+
+
+ANTONIO
+
+/ do Hero /
+
+Ty przynajmniej, synowico, dasz się kierować radom twojego ojca.
+
+
+BEATRYKS
+
+Bez wątpienia; powinnością mojej kuzynki dygnąć pokornie i mówić: „Jak ci się podoba”. Ale mimo tego, kuzynko, niech to będzie kraśny chłopiec, bo inaczej dyg drugi i słowa: „Ojcze, jak mnie się podoba”.
+
+
+LEONATO
+
+Mów, co ci się podoba, ja ani wątpię, że i ty znajdziesz w końcu męża.
+
+
+BEATRYKS
+
+Nigdy, dopóki Bóg nie ulepi mężczyzny z innego metalu jak ziemia. Nie byłożby to upokorzeniem dla kobiety dać się rządzić garstce zuchwałego prochu? Zdawać rachunek ze swojego postępowania bryle zrzędnego marglu? Nie, wujaszku, nie chcę. Synowie Adama są moimi braćmi; grzechem mi się wydaje szukać męża między rodzeństwem.
+
+
+LEONATO
+
+Nie zapomnij, córko, co ci mówiłem. Jeśli ci książę podobne zrobi oświadczenie, wiesz, co masz mu odpowiedzieć.
+
+
+BEATRYKS
+
+Będzie winą muzyki, kuzynko, jeśli książę nie zachowa miary w konkurach. Gdyby przypadkiem za ostro nastawał, powiedz mu, że jest miara we wszystkim, i wytnij mu w miarę odpowiedź. Bo słuchaj mnie, Hero, umizgi, ślub i żal to jest mazurek, polonez i kozak. Pierwsze oświadczenie jest gorące i namiętne jak mazurek, pełne fantazji i ognia; zaślubiny uroczyste i skromne, jak polonez pełne senatorskiej powagi; aż przychodzi żal, który na krzywych nogach coraz żwawiej i żwawiej wywija kominki, aż w grób zapadnie.
+
+
+LEONATO
+
+Czarno widzisz rzeczy, moja synowico.
+
+
+BEATRYKS
+
+Dobre mam oczy, wujaszku, i, póki widno, mogę zobaczyć kościół.
+
+
+LEONATO
+
+Przychodzą maski; zróbmy im miejsce, bracie.
+
+/ Wchodzą Don Pedro, Klaudio, Benedyk, Baltazar, Don Juan, Borachio, Małgorzata, Urszula i inni, w maskach. /
+
+
+DON PEDRO
+
+/ do Hero /
+
+Czy chcesz, pani, przejść się z przyjacielem?
+
+
+HERO
+
+Byleś szedł powoli, grzecznie poglądał a milczał, pójdę chętnie, zwłaszcza żeby odejść.
+
+
+DON PEDRO
+
+W moim towarzystwie?
+
+
+HERO
+
+Mogę tak odpowiedzieć, gdy mi się spodoba.
+
+
+DON PEDRO
+
+A kiedy ci się spodoba tak odpowiedzieć?
+
+
+HERO
+
+Gdy mi się twarz twoja spodoba; bo uchowaj Boże, aby lutnia podobna była do pokrowca!
+
+
+DON PEDRO
+
+Maska jest moja dachem Filemona,
+I pod tym dachem wielki Jowisz gości.
+
+
+HERO
+
+Twoja więc maska powinna być strzechą pokryta.
+
+
+DON PEDRO
+
+Mów cicho, jeśli mówisz o miłości.
+
+/ Przechodzą. /
+
+
+BALTAZAR
+
+/ do Małgorzaty /
+
+O, jak pragnę, żebyś mnie kochała!
+
+
+MAŁGORZATA
+
+Ja tego nie pragnę dla twojej przyjaźni, bo niemało mam złych przymiotów.
+
+
+BALTAZAR
+
+Jaki jest pierwszy?
+
+
+MAŁGORZATA
+
+Modlę się głośno.
+
+
+BALTAZAR
+
+Tym namiętniej cię kocham; słuchacz nie potrzebuje, jak powtarzać: „Amen”.
+
+
+MAŁGORZATA
+
+Dobrego tanecznika daj mi, Panie!
+
+
+BALTAZAR
+
+Amen!
+
+
+MAŁGORZATA
+
+A po tańcu zabierz go z moich oczu, Panie! No, akolito, czekam na odpowiedź.
+
+
+BALTAZAR
+
+Dość na tym, akolita dostał już swoją odpowiedź.
+
+/ Przechodzą. /
+
+
+URSZULA
+
+/ do Antonia /
+
+Znam cię dobrze; ty jesteś signor Antonio.
+
+
+ANTONIO
+
+Mylisz się, daję słowo.
+
+
+URSZULA
+
+Poznałam cię po trzęsieniu się twojej głowy.
+
+
+ANTONIO
+
+Żeby ci powiedzieć prawdę, udaję go.
+
+
+URSZULA
+
+Nigdy byś tak strasznie dobrze udawać go nie potrafił, gdybyś nim nie był. To jego sucha ręka, gdzie znaleźć taką drugą? To on, to on!
+
+
+ANTONIO
+
+Mylisz się, daję słowo.
+
+
+URSZULA
+
+Skończmy żarty. Alboż myślisz, że cię nie poznaję po twoim bystrym dowcipie? Alboż cnota może się ukryć? Nie wymawiaj się dłużej, jesteś signor Antonio. Wdzięki zdradzają się same, i na tym koniec.
+
+/ Przechodzą. /
+
+
+BEATRYKS
+
+/ do Benedyka /
+
+I nie powiesz mi, kto ci to powiedział?
+
+
+BENEDYK
+
+Przebacz, ale nie mogę.
+
+
+BEATRYKS
+
+Ani mi powiesz, kto jesteś?
+
+
+BENEDYK
+
+Nie teraz.
+
+
+BEATRYKS
+
+Że przybieram ton wzgardliwy, że konceptów szukałam w kalendarzu — to powiedział signor Benedyk; czy zgadłam?
+
+
+BENEDYK
+
+Kto jest ten signor Benedyk?
+
+
+BEATRYKS
+
+Ani wątpię, że znasz go bardzo dobrze.
+
+
+BENEDYK
+
+Ja? Wierzaj mi, nie znam go wcale.
+
+
+BEATRYKS
+
+Czy nigdy cię nie rozśmieszył?
+
+
+BENEDYK
+
+Powiedz mi, proszę, kto on jest?
+
+
+BEATRYKS
+
+To błazen książęcy; trefniś jak ołów ciężki; cała jego zdolność leży w wynajdywaniu niestworzonych potwarzy; tylko rozpustnicy podobają sobie w jego towarzystwie, a zaletą jego nie jego dowcip, lecz złośliwość, która się im naprzód podoba, potem ich gniewa; śmieją się naprzód, kijami okładają go potem. Ani wątpię, że jest w tej flocie, chciałabym, żeby mnie abordował.
+
+
+BENEDYK
+
+Jak się poznam z tym szlachcicem, powiem mu sąd twój o nim.
+
+
+BEATRYKS
+
+I owszem, bardzo proszę. Wystrzeli na mnie dwa lub trzy porównania, a gdy przypadkiem nikt na nie zważać nie będzie i nikt się nie rozśmieje, w czarną popadnie melancholię, co nam oszczędzi skrzydło kuropatwy, bo tej nocy pan śmieszek pójdzie spać bez wieczerzy.
+
+/ Słychać muzykę za sceną. /
+
+Idźmy za przewodnikami.
+
+
+BENEDYK
+
+We wszystkim, co dobre.
+
+
+BEATRYKS
+
+Jeśli nas prowadzą do złego, opuścim ich na pierwszym skręcie.
+
+/ Taniec. Wychodzą wszyscy prócz Don Juana, Borachia i Klaudia. /
+
+
+DON JUAN
+
+Ani wątpliwości; mój brat kocha Hero; wziął ojca jej na stronę, aby mu zrobić oświadczenie. Wszystkie damy pospieszyły za nią; jedna tylko została maska.
+
+
+BORACHIO
+
+To Klaudio, poznałem go po minie.
+
+
+DON JUAN
+
+Czy to przypadkiem nie signor Benedyk?
+
+
+KLAUDIO
+
+Poznałeś mnie; on sam.
+
+
+DON JUAN
+
+Jesteś miłością najbliższy mojego brata. On kocha Hero; proszę cię, odradzaj mu to małżeństwo tak nierówne pod względem urodzenia. Możesz w tej sprawie odegrać rolę uczciwego człowieka.
+
+
+KLAUDIO
+
+Skąd wiesz, że ją kocha?
+
+
+DON JUAN
+
+Słyszałem, jak miłość jej przysięgał.
+
+
+BORACHIO
+
+Ja także słyszałem, jak jej przysięgał, że ją tej nocy poślubi.
+
+
+DON JUAN
+
+Dalej, przyjacielu, na ucztę!
+
+/ Wychodzą Don Juan i Borachio. /
+
+
+KLAUDIO
+
+Odpowiedziałem w imię Benedyka,
+Lecz uchem Klaudia słyszę złe nowiny:
+Książę dla siebie chce serce jej zyskać.
+Przyjaźń dotrzyma w wszystkich sprawach ludzkich
+Prócz jednej tylko — prócz sprawy miłości.
+Więc serca własnym niech mówią językiem,
+Każde za siebie układa się oko,
+Nie ufa nigdy żadnym pośrednikom:
+Bo każda piękność jest to czarodziejka,
+Co swymi czary w krew przetapia wiarę.
+Dzień każdy nowy daje tego przykład,
+A ja, szalony, o tym zapomniałem!
+Niech i tak będzie! Żegnam cię, o Hero!
+
+/ Wchodzi Benedyk. /
+
+
+BENEDYK
+
+Hrabia Klaudio?
+
+
+KLAUDIO
+
+On sam.
+
+
+BENEDYK
+
+Czy chcesz pójść ze mną?
+
+
+KLAUDIO
+
+Gdzie?
+
+
+BENEDYK
+
+Do pierwszej wierzby, w twoim własnym interesie. Jak będziesz nosił swój wianek? Czy na szyi jak łańcuch lichwiarza, czy przez ramię jak szarfę porucznika? Czy tak, czy owak musisz go nosić, bo książę podbił twoją Hero.
+
+
+KLAUDIO
+
+Szczęść mu Boże!
+
+
+BENEDYK
+
+Mówisz jak doskonały wolarz; to właśnie jego słowa, ile razy sprzeda byka. Ale czy myślałeś, że książę tak ci się przysłuży?
+
+
+KLAUDIO
+
+Proszę cię, zostaw mnie.
+
+
+BENEDYK
+
+Widzę, że rąbiesz na ślepo. Ślusarz ukradł ci obiad, a ty chcesz wieszać kowala.
+
+
+KLAUDIO
+
+Skoro inaczej być nie może, to ja cię zostawię.
+
+/ Wychodzi. /
+
+
+BENEDYK
+
+Ach, biedne, postrzelone kurczę! Zawlecze się teraz w sitowie. Ale żeby Beatryks, znając mnie, tak mnie nie znała! Książęcy błazen! Być może, że za błazna uchodzę, bo jestem wesoły. Tak — lecz nie — to ona ze swoim złośliwym, uszczypliwym charakterem siebie za świat bierze, i tak mnie sądzi. Dobrze, pomszczę się za to, jak potrafię.
+
+/ Wchodzi Don Pedro. /
+
+
+DON PEDRO
+
+Signor Benedyku, gdzie jest hrabia? Czy widziałeś go?
+
+
+BENEDYK
+
+Odegrałem mu rolę pani Wieści, mój książę. Znalazłem go tu smutnego jak buda w lesie; powiedziałem mu, a sądzę, że powiedziałem prawdę, że wasza łaskawość pozyskała względy tej młodej pani; ofiarowałem mu moje towarzystwo do pierwszej wierzby, żeby mu albo wianek upleść, albo rózgę uciąć, bo zasłużył na chłostę.
+
+
+DON PEDRO
+
+Na chłostę? W czymże przewinił?
+
+
+BENEDYK
+
+Przewinił jak głupi uczniak, co uradowany, że znalazł ptasie gniazdo, pokazał je rówieśnikowi, a ten mu gniazdo ukradł.
+
+
+DON PEDRO
+
+Ufność nazywasz przewinieniem? Przewinienie jest w złodzieju.
+
+
+BENEDYK
+
+Zawsze jednak rózga nie byłaby zanadto. Wianek dla niego, a rózga dla ciebie, mój książę, który, jak mi się zdaje, ukradłeś jego ptasie gniazdo.
+
+
+DON PEDRO
+
+Ja? Ja tylko chcę nauczyć śpiewać pisklęta i oddać je właścicielowi.
+
+
+BENEDYK
+
+Jeśli śpiew ich twoim słowom odpowie, na honor, mówisz uczciwie, mój książę.
+
+
+DON PEDRO
+
+Beatryks nie na żarty gniewa się na ciebie. Szlachcic, który z nią tańczył, powiedział jej, że ją ciężko pokrzywdziłeś.
+
+
+BENEDYK
+
+To ona pomiatała mną jak ostatnim; pniak by tego nie wytrzymał. Dąb z jednym zielonym liściem na wierzchołku ofuknąłby się. Maska nawet moja zaczęła do życia przychodzić i z nią się borykać. Powiedziała mi, nie myśląc, że do mnie mówi, że jestem błaznem książęcym, nudniejszym od wielkich roztopów. Szyderstwo za szyderstwem z taką miotała na mnie zręcznością, że stałem jak trusia przy celu, do którego strzela cała armia. Sztylety z ust jej wychodzą, każde jej słowo przebija. Gdyby jej oddech tak był jadowity jak jej wyrazy, ani podobna byłoby żyć w jej sąsiedztwie, zaraziłaby powietrze do północnego bieguna. Nie chciałbym jej za żonę, choćby miała w posagu wszystko, co posiadał Adam przed grzechem. Ona by zmusiła Herkulesa do obracania rożna i do połupania własnej maczugi na szczapy. Lecz dosyć tego; nie mówmy o niej. To furia piekielna w wielkiej toalecie. Dałby Bóg, żeby ją jaki mędrek zażegnał, bo póki ona jest na ziemi, łatwiej znaleźć pokój w piekle niż tu w kaplicy i ludzie gotowi naumyślnie grzeszyć, żeby się tam co prędzej dostać. Niepokój, zgroza i zamieszanie idą za jej śladem.
+
+/ Wchodzą Klaudio, Beatryks, Leonato i Hero. /
+
+
+DON PEDRO
+
+Patrz, oto ona.
+
+
+BENEDYK
+
+Czy nie raczy wasza łaskawość wysłać mnie w służbowych interesach na koniec świata? Gotów jestem za lada sprawą pośpieszyć do antypodów; pójdę ci po piórko do zębów za ostatnie krańce Azji; przyniosę ci dokładną miarę stopy Księdza Jana albo włos z brody Wielkiego Chana; podejmę się poselstwa do Pigmejczyków, wszystkiego raczej niż wytrzymać trzy słowa rozmowy z tą harpią. Czy nie masz żadnych dla mnie zleceń, mości książę?
+
+
+DON PEDRO
+
+Żadnych; pragnę jedynie twojego przyjemnego towarzystwa.
+
+
+BENEDYK
+
+Jest tu potrawa, panie, wcale mi nie do smaku. Nie jestem w stanie znieść pani języka.
+
+/ Wychodzi. /
+
+
+DON PEDRO
+
+Słuchaj mnie, piękna pani, straciłaś serce signor Benedyka.
+
+
+BEATRYKS
+
+To prawda, że mi je na niejaki czas pożyczył, ale też dałam w procencie podwójne serce za jedno. Raz już je wygrał ode mnie w fałszywe kostki, możesz więc słusznie powiedzieć, książę, że je straciłam.
+
+
+DON PEDRO
+
+Powaliłaś go, piękna pani, z nóg go powaliłaś.
+
+
+BEATRYKS
+
+Byle on tego ze mną nie zrobił, mości książę, żebym nie była matką błaznów. Przyprowadzam ci Klaudia, którego znaleźć mi poleciłeś.
+
+
+DON PEDRO
+
+Co się tam nowego święci, mój hrabio? Dlaczego jesteś tak smutny?
+
+
+KLAUDIO
+
+Nie jestem smutny, mości książę.
+
+
+DON PEDRO
+
+Więc chory?
+
+
+KLAUDIO
+
+Ani chory, mości książę.
+
+
+BEATRYKS
+
+Hrabia nie jest ani smutny, ani wesoły, ani zdrów, ani chory; ale słodki, słodki jak pomarańcza i podobno trochę jej farbą zazdrości powleczony.
+
+
+DON PEDRO
+
+Zdaje mi się, pani, że portret twój jest wierny, choć przysięgam, że jeśli tak jest, mylne są jego przypuszczenia. Słuchaj, Klaudio, w twoim imieniu zrobiłem oświadczenie, dla ciebie zyskałem serce pięknej Hero. Ojciec wie o wszystkim i daje przyzwolenie, sam wyznacz dzień zamęścia, a niech Bóg da ci radość!
+
+
+LEONATO
+
+Hrabio, przyjmij ode mnie rękę mojej córki, a z nią mój majątek. Jego łaskawość stadło to skojarzyła, a niech mu łaskawość nieba towarzyszy!
+
+
+BEATRYKS
+
+Mówże, hrabio, na ciebie kolej.
+
+
+KLAUDIO
+
+Milczenie jest najlepszym tłumaczem radości. Małe byłoby moje szczęście, gdybym jego wielkość potrafił wyrazić słowami. Pani, jestem twoim, jak ty jesteś moją; za ciebie siebie oddaję i cieszę się bez granic z wymiany.
+
+
+BEATRYKS
+
+Odpowiedz, kuzynko, lub jeśli nie możesz, zamknij mu usta pocałunkiem i nie daj mu dłużej mówić.
+
+
+DON PEDRO
+
+Wyznać muszę, piękna pani, że wesołe masz serce.
+
+
+BEATRYKS
+
+Prawda, książę, i dziękuję mu za to; serce, to biedziątko, pod wiatr mnie trzyma z frasunkami. Kuzynka mówi mu na ucho, co w sercu jej mieszka.
+
+
+KLAUDIO
+
+Zgadłaś, kuzynko.
+
+
+BEATRYKS
+
+Niech żyje małżeństwo! Tak więc jedna po drugiej dostaje męża, mnie wyjąwszy. Za wielkie ze mnie straszydełko. Śmiało mogę zasiąść w kąciku i płakać, i wołać: „Ach, kto mi da męża!”.
+
+
+DON PEDRO
+
+Ja ci go dam, Beatryks.
+
+
+BEATRYKS
+
+Wolałabym raczej, mój książę, znaleźć go w domu twojego ojca. Czy nie ma wasza łaskawość brata podobnego do siebie? Ojciec twój, książę, płodził wybornych małżonków, byle ich panny dostać mogły.
+
+
+DON PEDRO
+
+Czy chcesz wziąć mnie za męża?
+
+
+BEATRYKS
+
+Nie, mości książę, chyba że będę miała innego na dzień powszedni; wasza łaskawość za kosztowny na codzienny użytek. Lecz przebacz mi, mój książę. Rodziłam się, żeby pleść, co mi ślina przyniesie, bez rymu i sensu.
+
+
+DON PEDRO
+
+Obraziłbym się raczej twoim milczeniem; radość najlepiej ci do twarzy i niewątpliwie w wesołej godzinie na świat przyszłaś.
+
+
+BEATRYKS
+
+Bynajmniej, mości książę, matka moja płakała boleśnie; ale w tę samą właśnie porę pokazała się tańcząca gwiazda i pod nią się urodziłam. Kuzynowie, niech Bóg wam ześle radość!
+
+
+LEONATO
+
+Czy chcesz, synowico, dojrzeć rzeczy, o których mówiłem?
+
+
+BEATRYKS
+
+Ach przepraszam cię, mój wujaszku! Przebacz mi, książę!
+
+/ Wychodzi. /
+
+
+DON PEDRO
+
+Na honor, zabawna dziewczyna.
+
+
+LEONATO
+
+Mało w niej melancholicznego pierwiastka. Nigdy nie jest smutna, chyba we śnie, a nawet i we śnie nie smutna, bo, jak mi powiadała moja córka, często ze snu o nieszczęściu budziła się, śmiejąc.
+
+
+DON PEDRO
+
+Znieść nie może wzmianki o małżeństwie.
+
+
+LEONATO
+
+Ani jednego słowa; szyderstwem wszystkich zalotników odstrasza.
+
+
+DON PEDRO
+
+Byłaby doskonałą żoną dla Benedyka.
+
+
+LEONATO
+
+Panie, panie, po tygodniu zamęścia zagadaliby się na wariatów.
+
+
+DON PEDRO
+
+Hrabio Klaudio, kiedy zamyślasz stanąć u ołtarza?
+
+
+KLAUDIO
+
+Jutro, mój książę. Czas chodzi o kulach, póki miłość wszystkich obrzędów nie dopełni.
+
+
+LEONATO
+
+Nie, drogi mój synu, musisz czekać do przyszłego poniedziałku, to jest od dziś za tydzień i to jeszcze czas za krótki, żeby wszystko po mojej myśli przygotować.
+
+
+DON PEDRO
+
+Potrząsasz, widzę, głową na tak długą zwłokę, ale bądź spokojny, mój Klaudio, czas ten wesoło nam zbiegnie. Zamierzam w tym tygodniu dokonać jednej z prac Herkulesa, to jest przywalić Benedyka i Beatryks górą wzajemnych afektów. Chciałbym skojarzyć to małżeństwo i nie wątpię, że dosięgnę celu, byleście wszyscy w pomoc mi przyszli i wiernie zlecenia moje wykonywali.
+
+
+LEONATO
+
+Jestem na twoje rozkazy, mój książę, choćby mnie to dziesięć bezsennych nocy kosztowało.
+
+
+KLAUDIO
+
+Ja także, mój książę.
+
+
+DON PEDRO
+
+A ty, piękna Hero?
+
+
+HERO
+
+I ja też gotowa do wszelkiej uczciwej służby, byleby kuzynce mojej dobrego znaleźć męża.
+
+
+DON PEDRO
+
+Znam gorszych mężów od Benedyka, tę przynajmniej oddać mogę mu sprawiedliwość. Ze szlachetnej krwi pochodzi, męstwo jego niewątpliwe i wypróbowana uczciwość. Powiem ci, jakich trzeba użyć sposobów, żeby twoja kuzynka zakochała się w Benedyku, a ja z was dwóch pomocą tak uwikłam Benedyka, że mimo bystrości dowcipu i odrazy żołądka przylgnie całą duszą do Beatryksy. Jeśli się nam to uda, Kupido nie będzie dłużej strzelcem; chwała jego na nas przejdzie, my tylko będziemy prawdziwymi bogami miłości. Pójdźcie tylko ze mną, a cały wam plan przedstawię.
+
+/ Wychodzą. /
+
+
+
+SCENA DRUGA
+
+/ Inny pokój w domu Leonata. /
+
+/ Don Juan, Borachio. /
+
+
+DON JUAN
+
+Wszystko ułożone; hrabia Klaudio pojmuje córkę Leonata.
+
+
+BORACHIO
+
+Prawda, panie; mogę jednak wszystkiemu przeszkodzić.
+
+
+DON JUAN
+
+Lada przeszkoda, lada zawada, lada przeciwność będzie dla mnie lekarstwem. Wstręt do tego człowieka jest moją chorobą; cokolwiek zabieży drogę jego życzeniom, usłuży moim. Jak możesz małżeństwu temu przeszkodzić?
+
+
+BORACHIO
+
+Nie bardzo uczciwie, ale tak skrycie, że się na mnie żadna nieuczciwość nie pokaże.
+
+
+DON JUAN
+
+Opowiedz rzecz w kilku słowach.
+
+
+BORACHIO
+
+Zdaje mi się, mój książę, że już ci powiedziałem rok temu, jak wysoko stoję w łaskach Małgorzaty, panny pokojowej Hero.
+
+
+DON JUAN
+
+Przypominam sobie.
+
+
+BORACHIO
+
+Mogę skłonić ją, żeby o jakiejkolwiek niestosownej godzinie nocy pokazała się w oknie sypialnego pokoju swej pani.
+
+
+DON JUAN
+
+Jaka w tym siła, żeby zabić małżeństwo?
+
+
+BORACHIO
+
+Ty sam, panie, możesz potrzebną do tego truciznę zaprawić. Idź do księcia, twojego brata, nie omieszkaj mu powiedzieć, że honor swój pokrzywdził, kojarząc małżeństwo sławnego Klaudia, którego dobre imię nie zaniedbaj stawić wysoko, z szurgotem tak jak Hero splamionym.
+
+
+DON JUAN
+
+Jakież dam mu tego dowody?
+
+
+BORACHIO
+
+Dowody wystarczające, żeby oszukać księcia, dręczyć Klaudia, zgubić Hero i zabić Leonata. Czy jeszcze ci nie dosyć?
+
+
+DON JUAN
+
+Byle im dogryźć, na wszystko jestem gotowy.
+
+
+BORACHIO
+
+Śpiesz więc, panie. Znajdź stosowną godzinę do prywatnej rozmowy z Don Pedrem i hrabią Klaudio; powiedz im, iż wiesz z pewnością, że Hero mnie kocha; udaj gorliwość tak w sprawie księcia, jak Klaudia; oświadcz im, że odkrywasz prawdę przez wzgląd na honor brata, który to stadło skojarzył, i na dobre imię przyjaciela zagrożonego podstępami udanej skromności. Trudno, żeby uwierzyli bez dowodów; przyrzeknij dowody; powiedz, że mnie zobaczą w oknie jej sypialnego pokoju; w rzeczy samej usłyszą, jak Małgorzatę nazwę Hero, a Małgorzata nazwie mnie Klaudiem. Przyprowadź ich na to widowisko w nocy poprzedzającej ułożone zamęście. Ja tymczasem tak nastroję rzeczy, że Hero nie będzie obecna, a dowody jej przeniewierstwa tak jasne się wydadzą, że podejrzenie stanie się pewnością i zerwą się wszystkie układy.
+
+
+DON JUAN
+
+Niech, co chce, się stanie, projekt twój wykonam. Użyj całej twojej przebiegłości w naszym przedsięwzięciu, a dostaniesz w nagrodę tysiąc dukatów.
+
+
+BORACHIO
+
+Dotrwaj tylko, książę, w oskarżeniach, a ja nie powstydzę się mojej przebiegłości.
+
+
+DON JUAN
+
+Śpieszę wywiedzieć się o dniu ślubu.
+
+/ Wychodzą. /
+
+
+
+SCENA TRZECIA
+
+/ Ogród Leonata. /
+
+/ Benedyk, Chłopiec. /
+
+
+BENEDYK
+
+Chłopcze!
+
+
+CHŁOPIEC
+
+Panie!
+
+
+BENEDYK
+
+Na moim oknie leży książka; przynieś mi ją tu do ogrodu.
+
+
+CHŁOPIEC
+
+Jestem już tu, panie.
+
+
+BENEDYK
+
+Wiem dobrze; ale życzeniem jest moim, żebyś naprzód tam poszedł, a potem tu wrócił.
+
+/ Wychodzi Chłopiec. /
+
+Dziwna to rzecz jednak, że człowiek, który widzi dobrze, na jakiego wystawia się dudka jego sąsiad zakochany, naśmiawszy się serdecznie z cudzego szaleństwa, wystawia się sam na własne szyderstwo i szaleje z miłości. Takim właśnie człowiekiem jest Klaudio. Pamiętam czasy, w których nie znał innej muzyki jak bęben i piszczałkę, teraz woli przysłuchiwać się bębenkowi i fletni. Pamiętam czasy, w których gotów był zrobić dziesięć mil piechotą, żeby zobaczyć dobrą zbroję, teraz przepędzi dziesięć nocy bezsennych, żeby wymyślić nowy krój kamizelki. Zwyczajem jego było mówić po prostu i do rzeczy, jak uczciwemu człowiekowi i żołnierzowi przystoi; teraz wyszedł na stylistę, słowa jego są ucztą fantastyczną, gdzie każdy wyraz dziwaczną przedstawia potrawę. Czy się i na mnie kiedy zmiana taka pokaże, czy i ja kiedyś takimi patrzeć będę oczyma? Nie mogę powiedzieć, ale nie myślę. Nie chcę przysiąc, że miłość nie zrobi ze mnie ostrygi; ale przysięgam, że dopóki miłość ostrygi ze mnie nie zrobi, nigdy wprzódy na takiego dudka mnie nie wystrychnie. Jedna kobieta jest piękna, ja zdrów przecie; inna znów mądra, ja zdrów przecie; inna znów cnotliwa, ja zdrów przecie; nie, dopóki wszystkie czary nie zbiorą się w jednej kobiecie, dopóty nie oczaruje mnie jedna kobieta. Musi ona być bogata, to nie podpada wątpliwości; mądra, lub nie chcę żadnej; cnotliwa, bo inaczej i targować jej nie myślę; piękna, inaczej bowiem spojrzeć nawet na nią nie chcę; łagodna, lub niech się do mnie nie zbliża; szlachetnego rodu, nie chcę jej inaczej, choćby aniołem; do tego musi być wymowna, doskonała muzykantka, a włosy jej będą miały kolor, jaki się Bogu podoba. Ha, książę i monsieur Miłość. Skryję się w altanie.
+
+/ Wychodzi. /
+
+/ Wchodzą Don Pedro, Leonato, Klaudio. /
+
+
+DON PEDRO
+
+Przychodzę słuchać; czy koncert gotowy?
+
+
+KLAUDIO
+
+Wszystko gotowe. Jak cichy jest wieczór!
+Jakby harmonii dodać chciał uroku.
+
+
+DON PEDRO
+
+Czyś widział, gdzie się Benedyk nasz schronił?
+
+
+KLAUDIO
+
+Widziałem dobrze; jak się skończy koncert,
+Łatwo złapiemy lisa w jego jamie.
+
+/ Wchodzi Baltazar z muzyką. /
+
+
+DON PEDRO
+
+Dalej, Baltazar, powtórz nam piosenkę.
+
+
+BALTAZAR
+
+Nie chciej, o panie, żebym lichym głosem
+Dwa razy jedną szkalował melodię.
+
+
+DON PEDRO
+
+To prawdziwego znakiem jest talentu
+Poniżać słowem własną doskonałość.
+Zaczynaj; dłuższych nie czekaj umizgów.
+
+
+BALTAZAR
+
+Więc śpiewam, skoro o umizgach mowa;
+Iluż kochanków zaczyna umizgi,
+Wiedząc, że panna umizgów niegodna,
+Mimo tej wiedzy miłość jej przysięga!
+
+
+DON PEDRO
+
+Skończmy lub, jeśli chcesz rozprawiać dalej,
+Notuj twe słowa.
+
+
+BALTAZAR
+
+                        Zanotuj wprzód, panie,
+Że nie ma nuty w wszystkich moich nutach
+Godnej notaty.
+
+
+DON PEDRO
+
+                        Ten człowiek, jak widzę,
+Wiązaną tylko zdolny mówić mową.
+Zanotuj nuty, nutę i notaty.
+
+/ Muzyka. /
+
+
+BENEDYK
+
+/ na stronie /
+
+Otóż i „pieśń niebieska”. Dusza jego ku niebu ulata. Czy to nie dziwne, że baranie kiszki wyciągają duszę z ludzkiego ciała? A gdy wszystko się skończy, nie zostaną jak baranie rogi.
+
+
+BALTAZAR
+
+/ śpiewa /
+
+O, przestań szlochać, moja niebogo,
+    Chłopiec był zawsze zwodnikiem;
+Nogą na morzu, na lądzie nogą,
+    A wiary nie znajdziesz w nikim.
+    Puść go, gdzie chce,
+    Osusz łzy twe,
+    Rozjaśnij myśli twych noc,
+I gorzkie „ho!” i smutne „he!”
+Przemień w wesołe „hoc, hoc!”
+
+Więc dosyć westchnień i dosyć żali,
+    Idź za radami moimi;
+Bo chłopcy zawsze, zawsze zdradzali
+    Od pierwszej wiosny na ziemi.
+    Puść go, gdzie chce,
+    Osusz łzy twe,
+    Rozjaśnij myśli twych noc
+I gorzkie „ho!” i smutne „he!”
+Przemień w wesołe „hoc, hoc!”
+
+
+DON PEDRO
+
+Na honor, doskonała piosenka.
+
+
+BALTAZAR
+
+Ale zły śpiewak, mój książę.
+
+
+DON PEDRO
+
+Bynajmniej, bynajmniej; śpiewasz doskonale na amatora.
+
+
+BENEDYK
+
+/ na stronie /
+
+Gdyby to był pies, a wył tak szkaradnie, powiesiłbym go na pierwszej gałęzi. Daj tylko Boże, żeby głos tak straszliwy nieszczęścia jakiego nie zapowiadał! Równie chętnie przysłuchiwałbym się hukaniom puszczyka, jakakolwiek spadłaby potem na mnie klęska.
+
+
+DON PEDRO
+
+/ do Klaudia /
+
+Tak właśnie.
+
+/ do Baltazara /
+
+Słuchaj, Baltazarze, wystaraj się o doskonałą muzykę, bo jutrzejszej nocy zamierzamy wydać serenadę pod oknami pokoju Hero.
+
+
+BALTAZAR
+
+Zbiorę, co będę mógł najlepszego.
+
+
+DON PEDRO
+
+Zrób tak. Żegnam cię teraz.
+
+/ Wychodzi Baltazar z muzyką. /
+
+Zbliż się, Leonato. Czy nie mówiłeś przed chwilą, że twoja synowica Beatryks zakochała się w Benedyku?
+
+
+KLAUDIO
+
+/ na stronie do Don Pedra /
+
+Posuwaj, posuwaj śmiało naprzód krowę, mój książę, zwierzyna siedzi w trawie.
+
+/ głośno /
+
+Nie przypuszczałem nigdy, aby ta panienka mogła go kochać.
+
+
+LEONATO
+
+I ja też nie przypuszczałem; lecz to najdziwniejsze, że zakochała się właśnie w Benedyku, do którego, sądząc z pozorów, zdawała się czuć niezwyciężoną odrazę.
+
+
+BENEDYK
+
+/ na stronie /
+
+Czy być może? Czy naprawdę wiatr wieje z tej strony?
+
+
+LEONATO
+
+Wyznaję, mój książę, że nie wiem, co o tym myśleć, ale że kocha go z całym szaleństwem namiętności; to przechodzi wszelką wiarę.
+
+
+DON PEDRO
+
+Może też w końcu udaje tylko.
+
+
+KLAUDIO
+
+Tak bym myślał.
+
+
+LEONATO
+
+Przez Boga, udaje? Nigdy udana namiętność nie była tak podobna do żywej namiętności jak ta, którą w niej widzę.
+
+
+DON PEDRO
+
+W jakiż się sposób namiętność jej objawia?
+
+
+KLAUDIO
+
+/ na stronie /
+
+Zanęć dobrze haczyk; niewątpliwie ryba go połknie.
+
+
+LEONATO
+
+Jak się objawia, mój książę? Będzie ci siedzieć.
+
+/ do Klaudia /
+
+Słyszałeś od mojej córki, jak będzie siedzieć.
+
+
+KLAUDIO
+
+Słyszałem.
+
+
+DON PEDRO
+
+Jak, jak, powiedzcie mi, proszę? Rozbudziliście moją ciekawość. Mnie się zdawało, że duch jej był silniejszy od wszelkich napaści uczucia.
+
+
+LEONATO
+
+I ja także byłbym na to przysiągł, mój książę, zwłaszcza co do Benedyka.
+
+
+BENEDYK
+
+/ na stronie /
+
+Myślałbym, że stroi ze mnie drwiny, gdyby nie jego biała broda: trudno, żeby szalbierstwo pod taką się kryło powagą.
+
+
+KLAUDIO
+
+/ na stronie /
+
+Połknął. Wyciągaj!
+
+
+DON PEDRO
+
+Czy dała poznać Benedykowi swoje uczucia?
+
+
+LEONATO
+
+Nie, i przysięga, że nigdy tego nie zrobi; to właśnie jest jej męczarnią.
+
+
+KLAUDIO
+
+Prawda, to własne są jej słowa: „Mamże ja, co go tak często wzgardliwie przyjmowałam, pisać do niego teraz, że go kocham?”
+
+
+LEONATO
+
+Tak mówi, ilekroć pisać do niego się zabiera; bo co noc dwadzieścia razy wstaje i w koszuli przy biurku siedzi, aż całą kartę zapisze. Moja córka opowiadała mi to wszystko.
+
+
+KLAUDIO
+
+Teraz, gdy mówisz o karcie, przypominasz mi żarcik, który od twojej córki słyszałem.
+
+
+LEONATO
+
+O! Gdy skończyła kartę, córka moja powiedziała jej z uśmiechem: „Beatryks, jak widzę, kartuje się z Benedykiem”.
+
+
+KLAUDIO
+
+To właśnie.
+
+
+LEONATO
+
+I poszarpała natychmiast list na tysiąc kawałków; urąga się sama sobie, iż do tego stopnia jest nieskromna, że pisze do człowieka, o którym wie, że śmiać się z niej będzie. „Miarę o nim z siebie biorę — powtarza — a ja śmiałabym się z niego, gdyby do mnie pisał, tak jest, śmiałabym się, choć go kocham”.
+
+
+KLAUDIO
+
+A potem na kolana pada, płacze, szlocha, bije się w piersi, rwie sobie włosy, to modli się, to złorzeczy i woła: „O słodki Benedyk! O Boże, daj mi cierpliwość!”
+
+
+LEONATO
+
+Wszystko prawda, co do słowa, i ja wszystko to od mojej córki słyszałem. Egzaltacja jej do tego doszła stopnia, iż córka moja boi się czasami, żeby rozpacz nie przywiodła jej do samobójstwa.
+
+
+DON PEDRO
+
+Byłoby dobrze, żeby z was który uwiadomił o wszystkim Benedyka, skoro ona sama nic powiedzieć mu nie chce.
+
+
+KLAUDIO
+
+A po co? Żeby sobie żarty stroił i utrapienia biednej dziewczyny powiększał?
+
+
+DON PEDRO
+
+Gdyby się tego dopuścił, powiesić go dobrym byłoby uczynkiem. Beatryks jest doskonała, słodka dziewczyna, a cnota jej nad wszelkie podejrzenia.
+
+
+KLAUDIO
+
+A do tego rzadka roztropność.
+
+
+DON PEDRO
+
+We wszystkim wyjąwszy tę miłość dla Benedyka.
+
+
+LEONATO
+
+Ach, mój książę, ilekroć roztropność i krew rozpoczną wojnę w tak delikatnym ciałeczku, mamy dziewięć dowodów przeciw jednemu, że krew odniesie zwycięstwo. Żal mi jej, a mam do tego słuszne powody, bo jestem jej wujem i opiekunem.
+
+
+DON PEDRO
+
+Pragnąłbym z całej duszy, żeby dla mnie miłością tą pałała; rzuciłbym na bok wszystkie inne względy i zrobiłbym z niej drugą samego siebie połowę. Proszę cię, powiedz o wszystkim Benedykowi, zobaczymy, co ci odpowie.
+
+
+LEONATO
+
+Czy sądzisz, mój książę, że się to na co przyda?
+
+
+KLAUDIO
+
+Hero lęka się bardzo o jej życie. Beatryks powtarza, że umrze, jeśli jej Benedyk nie kocha, a woli raczej umrzeć niż mu swą miłość wyjawić; a gdyby się nawet on sam z miłością oświadczył, woli umrzeć raczej niż na jotę od dawnych kaprysów odstąpić.
+
+
+DON PEDRO
+
+Dobrze robi. Gdyby mu oświadczyła się z miłością, bardzo być może, że odrzuciłby ją z pogardą, bo wiecie dobrze, że wzgardliwy ma charakter.
+
+
+KLAUDIO
+
+Zresztą, jest to człowiek niepospolity.
+
+
+DON PEDRO
+
+Zgadzam się, że ma powierzchowność ujmującą.
+
+
+KLAUDIO
+
+O ile mi się zdaje, pełen jest dowcipu.
+
+
+DON PEDRO
+
+Prawda, że sypie czasami iskry, które wyglądają na dowcip.
+
+
+LEONATO
+
+A zdaje mi się, że jest waleczny.
+
+
+DON PEDRO
+
+Jak Hektor, wierzaj mojemu słowu; a do tego w załatwieniu zwad niepospolitą objawia roztropność, tak że albo unika ich z wielką dyskrecją, albo je podejmuje z chrześcijańską obawą.
+
+
+LEONATO
+
+Jeśli ma bojaźń Bożą, powinnością jego jest strzec pokoju; a jeśli pokój kłóci, powinnością jego jest podejmować zwadę z obawą i drżeniem.
+
+
+DON PEDRO
+
+Tak właśnie postępuje, bo się boi Boga, choć często swawolnym żartem wątpić o tym pozwala. Ale wracając do rzeczy, ubolewam nad losem twojej synowicy. Mamyż pójść do Benedyka i powiedzieć mu jej miłości?
+
+
+KLAUDIO
+
+Nigdy, nigdy, mój książę; niech czas i dobra rada miłość jej zużyją.
+
+
+LEONATO
+
+To być nie może; wprzódy serce się jej zużyje.
+
+
+DON PEDRO
+
+Wysłuchajmy wprzódy, co nam nowego córka twoja powie; niech czas zapał ten ostudzi. Kocham serdecznie Benedyka i pragnąłbym, żeby skromnie sam się ocenił i dostrzegł, jak jest niegodny tak dobrej żony.
+
+
+LEONATO
+
+Racz, książę, wejść do sali, obiad już gotowy.
+
+
+KLAUDIO
+
+/ na stronie /
+
+Jeśli teraz gorącą nie zapali się do niej miłością, przestanę ufać własnemu sądowi na przyszłość.
+
+
+DON PEDRO
+
+/ na stronie /
+
+Podobną sieć załóżmy teraz na nią; będzie to sprawa twojej córki i jej pokojowej. Zabawna rzecz będzie, jak jedno uwierzy w gorącą miłość drugiego, a wszystko będzie zmyśleniem. Wyborną zobaczymy komedię, całą w pantomimach. Wyślemy ją, żeby go zawołała na obiad.
+
+/ Wychodzą Don Pedro, Leonato, Klaudio. /
+
+
+BENEDYK
+
+/ wychodząc z altany /
+
+To nie mogą być żarty; cała rozmowa zbyt się poważnie toczyła. O prawdzie dowiedzieli się od Hero. Zdają się litować nad panną, której miłość dosięgła szczytu. Kocha mnie. Miłość należy odpłacić miłością. Słyszałem, jak surowo mnie sądzą: utrzymują, że nadmę się pychą, skoro postrzegę miłość jej ku sobie; dodają, że ona woli umrzeć niż dać najmniejszy znak przywiązania. Nie myślałem nigdy o małżeństwie — nie pokażę pychy. Szczęśliwy, kto usłyszy, jakie ma wady, i poprawić się z nich może! — Mówią, że panna jest piękna, to prawda, i ja mogę za świadka im służyć; i cnotliwa, nie ma wątpliwości, nikt temu zaprzeczyć się nie odważy.; i roztropna, wyjąwszy tę ku mnie miłość. Na honor, jeśli to nie dowodzi jej rozumu, to przynajmniej nie będzie wielkim dowodem jej szaleństwa, bo się okrutnie w niej zakocham. Być może, że mi wypadnie nieraz biegać przez rózgi resztek starych konceptów dlatego, że tak długo szydziłem z małżeństwa. Ale czy gust się nie zmienia? Człowiek lubi w młodości potrawę, której znieść nie może w podeszłym wieku. Mająż żarty i sentencje, i papierowe gałki dowcipu odstraszyć człowieka od wykonania swoich postanowień? Nie, nigdy. Trzeba świat zaludnić. Kiedy mówiłem, że umrę kawalerem, nie myślałem, że dożyję dnia, w którym pojmę żonę. Właśnie zbliża się Beatryks. Na światło dzienne, piękna z niej dziewka! Dostrzegam na jej twarzy pewne ślady miłości.
+
+/ Wchodzi Beatryks. /
+
+
+BEATRYKS
+
+Mimo mojej woli wysłano mnie, żeby was zawołać na obiad.
+
+
+BENEDYK
+
+Piękna Beatryks, dziękuję ci za twoją fatygę.
+
+
+BEATRYKS
+
+Nie więcej zadałam sobie fatygi, żeby na to podziękowanie zasłużyć, niż wy sobie zadajecie, żeby mi dziękować. Gdyby to było fatygą, nie byłabym przyszła.
+
+
+BENEDYK
+
+Więc znalazłaś przyjemność w swoim poselstwie?
+
+
+BEATRYKS
+
+Tyle właśnie, ile się zmieści na końcu waszego noża; nie udusiłoby i kawki. Jeśli nie jesteście głodni, żegnam wam, signor Benedyku.
+
+/ Wychodzi. /
+
+
+BENEDYK
+
+Ha! „Mimo mej woli wysłano mnie, żeby was zawołać na obiad”. Podwójny jest sens w tych wyrazach. „Nie więcej zadałam sobie fatygi, żeby na to podziękowanie zasłużyć, niż wy sobie zadajecie, żeby mi dziękować”. To tak dobrze, jak gdyby powiedziała: „Wszelka fatyga, którą sobie dla ciebie zadaję, jest mi tak łatwa jak podziękowanie”. Jeśli się nad nią nie ulituję, jestem hultaj; jeśli jej nie kocham, jestem Żyd. Pójdę wystarać się o jej portret.
+
+/ Wychodzi. /
+
+
+
+
+AKT TRZECI
+
+
+
+SCENA PIERWSZA
+
+/ Ogród Leonata. /
+
+/ Hero, Małgorzata, Urszula. /
+
+
+HERO
+
+Pośpiesz do sali, dobra Małgorzato,
+Znajdziesz tam moją kuzynkę Beatryks,
+Księcia i Klaudia toczących rozmowy;
+Szepnij jej w ucho, że ja i Urszula
+Mówimy o niej, chodząc po ogrodzie,
+Jak wnosisz z tego, co mogłaś podsłuchać.
+Radź, niech się z cicha wkradnie do altany,
+Do której zajrzeć słońcu nie dozwala
+Wiciokrzew słońca łaską wybujały,
+Jak dworak, pańską nadęty dobrocią,
+Obraca w końcu siłę tak nabytą
+Przeciw potędze, co ją wykarmiła.
+Tam skryta niechaj rozmów naszych słucha.
+To twe poselstwo, spraw się tylko dobrze.
+Zostaw nas teraz.
+
+
+MAŁGORZATA
+
+Zaręczam ci, pani, że ją przyprowadzę natychmiast.
+
+/ Wychodzi. /
+
+
+HERO
+
+Teraz, Urszulo, gdy Beatryks przyjdzie,
+My się będziemy przechadzać w alei,
+O Benedyku poważnie rozprawiać;
+Ilekroć razy wspomnę jego imię,
+Chwal go, jak nigdy nikt nie był chwalony.
+Moją jest rzeczą mówić, jak Benedyk
+Namiętną ku niej zapłonął miłością;
+Bo z tego drewna są Kupida strzały,
+Tylko przez ucho wlatują do serca.
+
+/ Wchodzi Beatryks z tyłu. /
+
+Zaczynaj; widzisz, wbiegła już Beatryks,
+Lotna jak czajka, ziemię tylko muska
+I do altany podsłuchać nas śpieszy.
+
+
+URSZULA
+
+Pierwszą rozkoszą rybaka, gdy ryba
+Szybuje w srebrnej fali złotym wiosłem,
+Łakomo haczyk zdradliwy połyka.
+I my tak chcemy Beatryks ułowić.
+Róż jerychońskich już skryły ją wieńce,
+Co do mej roli, bądź spokojna, pani.
+
+
+HERO
+
+Więc się podsuńmy, żeby nie straciła
+Jednej słodyczy zdradliwej ponęty.
+
+/ Zbliżają się ku altanie. /
+
+Nie, ona bowiem nadto jest wzgardliwa;
+Duch jej tak dziki, tak nieugłaskany
+Jak dziki sokół na samotnej skale.
+
+
+URSZULA
+
+Ale czy tylko pewna jesteś, pani,
+Że ją Benedyk tak serdecznie kocha?
+
+
+HERO
+
+Tak mówi książę i mój narzeczony.
+
+
+URSZULA
+
+Czy ci radzili napomknąć jej o tym?
+
+
+HERO
+
+Prosili o to długo i natrętnie.
+Lecz ja odrzekłam: jeśli go kochacie,
+Radźcie mu, niechaj walczy z namiętnością,
+Niech o niej nigdy Beatryks nie słyszy.
+
+
+URSZULA
+
+Dlaczego, pani? Czyż szlachcic ten młody
+Niewart jest szczęścia, niewart jest fortuny,
+Którą Beatryks przyniesie mężowi?
+
+
+HERO
+
+Boże miłości! On godny wszystkiego,
+Co żona przynieść może małżonkowi:
+Lecz nigdy w piersiach kobiety natura
+Nie ulepiła dumniejszego serca.
+Pogarda w każdym wejrzeniu jej błyska,
+Pogardza wszystkim, na co spojrzeć raczy;
+O swym dowcipie tak wysoko tuszy,
+Że wszystko dla niej liche i ubogie,
+A tak jest sama w sobie zakochana,
+Że miłość żadna i żadne uczucie
+Nie znajdzie do niej przystępu.
+
+
+URSZULA
+
+                        To prawda.
+Więc lepiej pokryć wszystko tajemnicą,
+Aby ze szczerych nie szydziła uczuć.
+
+
+HERO
+
+Zgadzam się z tobą, bo nie żyje człowiek,
+Jakkolwiek piękny, szlachetny i mądry,
+Ażeby o nim na wspak nie czytała:
+Bo jeśli biały jest i jasnowłosy,
+Przysięga, że on bratem jej być winien;
+Jeżeli śniady, to matka natura
+Na strach czarnego zlepiła cudaka;
+Jeśli wysoki, to niezgrabna dzida;
+Niski, to agat niegodziwie rżnięty;
+Mowny, to kurek z wiatrem się kręcący;
+Cichy, to klocek bez życia i czucia;
+I tak każdego nicuje człowieka,
+A nigdy prawdzie i cnocie nie odda
+Pochwał w prostocie ducha zasłużonych.
+
+
+URSZULA
+
+Trudno nie ganić takiej złośliwości.
+
+
+HERO
+
+O, bez wątpienia, niepodobna chwalić
+Tyle dziwactwa i śmiesznych przywidzeń.
+Lecz któż z nią o tym mówić się odważy?
+Gdybym jej o tym pisnęła choć słowo,
+Wiem, że by ze mnie wyśmiała mą duszę
+I zadusiła pod przekąsów stosem.
+Niech więc Benedyk, jak ukryty ogień,
+Wśród cichych westchnień sam w sobie się trawi.
+Lepiej tak umrzeć niż umrzeć z szyderstwa;
+Śmierć to okrutna jak śmierć z łaskotania.
+
+
+URSZULA
+
+Mów z nią jednakże, zobaczym, co powie.
+
+
+HERO
+
+Nie, wolę raczej pójść do Benedyka
+Radzić, niech mężnie walczy z namiętnością.
+Uczciwą potwarz w potrzebie wynajdę,
+By rzucić plamę na kuzynki imię;
+Nikt nie wie, ile zatruć miłość może
+Złe jedno słowo powiedziane w porę.
+
+
+URSZULA
+
+O nie, kuzynce nie rób takiej krzywdy.
+Jeśli jej rozum i dowcip jej, pani,
+Takie są bystre, jak to mówią ludzie,
+To niepodobna, by chciała odrzucić
+Tak rzadkich zasług młodego szlachcica.
+
+
+HERO
+
+On pierwszy człowiek, jak szerokie Włochy,
+Zawsze z wyjątkiem drogiego mi Klaudia.
+
+
+URSZULA
+
+Niechaj cię, pani, szczerość ma nie gniewa,
+Ale Benedyk pierwsze trzyma miejsce
+Co do urody, męstwa i wymowy.
+
+
+HERO
+
+Prawda, że imię jego wszędzie słynne.
+
+
+URSZULA
+
+A na tę słynność uczciwie zarobił.
+A twoje, pani, na kiedy zamęście?
+
+
+HERO
+
+Jutro, jak myślę. Lecz chodź teraz ze mną,
+Chcę ci pokazać i pytać o radę,
+W czym mi do twarzy będzie jak najlepiej.
+
+
+URSZULA
+
+/ na stronie /
+
+Ręczę ci, pani, żeśmy ją złapały.
+
+
+HERO
+
+Więc miłość trafem, gdy ślepe pacholę
+Tych w potrzask łapie, tamtych strzałą kole.
+
+/ Wychodzą Hero i Urszula. /
+
+
+BEATRYKS
+
+/ wychodząc z altany /
+
+Co mi tak w uszach dzwoni? Co za słowa?
+Tak mnie o dumę świat pomawia cały?
+Dziewicza dumo, na wieki bądź zdrowa!
+Żegnam cię, wzgardo! Nie ma z tobą chwały.
+Kochaj mnie! Miłość na miłość odpowie;
+Kochającemu ugnę dumne serce;
+Kochaj, a wkrótce wierni kochankowie
+Pośpieszą wspólnie na ślubne kobierce.
+Świat cały godnym cię ręki mej sądzi,
+A i ja wierzę, że świat w tym nie błądzi.
+
+/ Wychodzi. /
+
+
+
+SCENA DRUGA
+
+/ Pokój w domu Leonata. /
+
+/ Don Pedro, Klaudio, Benedyk i Leonato. /
+
+
+DON PEDRO
+
+Zostanę tu tylko do dnia twojego zamęścia, a potem pośpieszę do Aragonu.
+
+
+KLAUDIO
+
+Odprowadzę cię, książę, jeżeli raczysz mi pozwolić.
+
+
+DON PEDRO
+
+Nie, nie chcę tak zaćmiewać blasku pierwszych dni twojego zamęścia; to byłoby tak okrutnie, jak pokazać dziecku nową sukienkę, a wdziać mu jej zabronić. Odważę się tylko zabrać z sobą Benedyka, bo on to wesele od czupryny do podeszwy. On już dwa lub trzy razy przeciął cięciwę Kupidyna, tak że mały łotrzyk nie śmie już strzelać do niego. U niego dusza dźwięczna jak dzwon, którego sercem jest język, bo co dusza myśli, język wypowiada.
+
+
+BENEDYK
+
+Panowie, nie jestem już, jak byłem.
+
+
+LEONATO
+
+Potwierdzam wyznanie, bo zdaje mi się, że od pewnego czasu jesteś smutniejszy.
+
+
+KLAUDIO
+
+Zdaje mi się, że się zakochał.
+
+
+DON PEDRO
+
+Co, ten wietrznik? On by się prędzej dał powiesić. Nie ma w nim jednej krwi kropelki zdolnej uczuć prawdziwą miłość. Jeśli jest smutny, to mu na pewno zabrakło pieniędzy.
+
+
+BENEDYK
+
+Ząb mnie boli.
+
+
+DON PEDRO
+
+To go wyrwij.
+
+
+BENEDYK
+
+Bies po nim!
+
+
+KLAUDIO
+
+Wyrwij go wprzódy, a potem rzuć do biesa.
+
+
+DON PEDRO
+
+Jak to, wzdychasz dla bólu zęba?
+
+
+LEONATO
+
+W którym są humory albo może robak.
+
+
+BENEDYK
+
+Wolne żarty. Łatwo panować nad boleścią, której nie czujemy.
+
+
+KLAUDIO
+
+Ja powtarzam, on się zakochał.
+
+
+DON PEDRO
+
+To chyba w oryginalnym jakim przebraniu; żeby na przykład dziś był Holendrem, jutro Francuzem albo nawet na raz dwukrajowcem, na przykład Niemcem od stóp do pasa, całym w pludrach, a Hiszpanem od pasa w górę, w spencereczku. Jeśli się nie zakochał w tych błazeństwach, co przypuszczam, to nie spodziewam się, aby się wystrychnął na błazna z zakochania, jak to w niego chcecie wmówić.
+
+
+KLAUDIO
+
+Jeśli nie jest zakochany w kobiecie, to trzeba przestać wierzyć w stare znaki. Co rano daje szczotką barwę kapeluszowi: co to ma znaczyć?
+
+
+DON PEDRO
+
+Czy go kto widział u balwierza?
+
+
+KLAUDIO
+
+Nie, ale widziano u niego balwierskiego czeladnika; a stara ozdoba jego twarzy poszła już na kłaki do piłki.
+
+
+LEONATO
+
+Wyznać trzeba, że wygląda młodziej po stracie brody.
+
+
+DON PEDRO
+
+A do tego piżmuje się. Czy go zwąchałeś teraz?
+
+
+KLAUDIO
+
+To znaczy najwyraźniej: zakochał się słodki panicz.
+
+
+DON PEDRO
+
+A najlepszym tego dowodem jest jego melancholia.
+
+
+KLAUDIO
+
+A kiedyż to myć twarz było jego zwyczajem?
+
+
+DON PEDRO
+
+Lub malować się nawet, jak mi to o nim opowiadano.
+
+
+KLAUDIO
+
+A jego umysł wesoły, który teraz przemienił się na strunę gitary tylko miłośne brzęczącą piosenki?
+
+
+DON PEDRO
+
+Wszystko to ciężkie daje przeciw niemu świadectwo; koniec końców, zakochał się.
+
+
+KLAUDIO
+
+A ja nawet wiem, kto go kocha.
+
+
+DON PEDRO
+
+I ja bym chciał wiedzieć. O zakład, jakaś biedaczka, która go nie zna.
+
+
+KLAUDIO
+
+Przeciwnie, zna wszystkie jego przywary, a na przekór wszystkiemu umiera dla niego.
+
+
+DON PEDRO
+
+Pochowamy ją twarzą ku niebu.
+
+
+BENEDYK
+
+Ale to wszystko nie leczy bólu zębów.
+
+/ do Leonata /
+
+Stary panie, racz pójść ze mną na stronę, mam ci osiem lub dziewięć mądrych słów do powiedzenia, a nie chciałbym, żeby je te lale słyszały.
+
+/ Wychodzą Benedyk i Leonato. /
+
+
+DON PEDRO
+
+Stawiam szyję, że wyprowadził go, aby mu się oświadczyć z miłością do Beatryksy.
+
+
+KLAUDIO
+
+Tak sądzę. Tymczasem Hero i Małgorzata odegrały już zapewne swoją sztukę z Beatryksą, a dwa niedźwiedzie nie będą się kąsać, gdy się spotkają.
+
+/ Wchodzi Don Juan. /
+
+
+DON JUAN
+
+Panie mój i bracie, Bóg z tobą!
+
+
+DON PEDRO
+
+Dobry wieczór, bracie.
+
+
+DON JUAN
+
+Jeśli ci czas pozwala, miałbym kilka słów do powiedzenia.
+
+
+DON PEDRO
+
+Prywatnie?
+
+
+DON JUAN
+
+Jeśli łaska. Hrabia Klaudio jednak może być świadkiem rozmowy, bo co mam powiedzieć, dotyczy się jego osoby.
+
+
+DON PEDRO
+
+O co tu chodzi?
+
+
+DON JUAN
+
+/ do Klaudia /
+
+Czy twoją jest myślą, hrabio, jutro pojąć żonę?
+
+
+DON PEDRO
+
+Wiesz o tym dobrze.
+
+
+DON JUAN
+
+Nie wiem o tym wcale, jeżeli on wie to, co ja wiem teraz.
+
+
+KLAUDIO
+
+Jeśli są jakie przeszkody, proszę cię, panie, daj mi je poznać.
+
+
+DON JUAN
+
+Możesz przypuszczać, hrabio, że cię nie kocham; czas lepiej to pokaże, tymczasem sądź o mnie łaskawiej przez wzgląd na rzeczy, które ci wyjawię. Co do mojego brata, przypuszczam, że wysoko cię ceni, że tylko uczuciem przyjaźni kierowany dopomógł ci do zawarcia zbliżającego się małżeństwa. Zmarnowane zabiegi i praca źle użyta.
+
+
+DON PEDRO
+
+Co to wszystko znaczy?
+
+
+DON JUAN
+
+Wytłumaczyć to przychodzę. Żeby skrócić niepotrzebne wywody, bo zbyt długo już o tym mówimy — twoja narzeczona jest wiarołomna.
+
+
+KLAUDIO
+
+Kto? Hero?
+
+
+DON JUAN
+
+Ona właśnie. Hero Leonata, Hero twoja, Hero wszystkich.
+
+
+KLAUDIO
+
+Wiarołomna?
+
+
+DON JUAN
+
+Wyraz za dobry na odmalowanie całej jej szkarady; mógłbym powiedzieć co gorszego. Wymyśl gorszą nazwę, a użyję jej bez wahania. Nie dziw się, póki ci nie dam lepszych dowodów. Chodź ze mną tej nocy, a zobaczysz wkradającego się gacha przez okno do jej pokoju, tej właśnie nocy, w wilię zamęścia. Jeśli jeszcze potem kochać ją będziesz, pojmij ją jutro, choć może lepiej by przystało twojemu honorowi zmienić postanowienie.
+
+
+KLAUDIO
+
+Czy to być może?
+
+
+DON PEDRO
+
+Nie wierzę ani słowu.
+
+
+DON JUAN
+
+Jeśli nie macie serca własnym wierzyć oczom, zaprzeczcie wszystkiemu, co wiecie. Chodźcie tylko ze mną, a pokażę wam dosyć. Gdy zobaczycie więcej i usłyszycie więcej, zrobicie, co okoliczność poradzi.
+
+
+KLAUDIO
+
+Jeśli zobaczę tej nocy rzeczy, które mi pojąć jej za żonę nie dozwolą, w kościele, w którym zaślubić ją miałem, zawstydzę ją w przytomności wszystkich.
+
+
+DON PEDRO
+
+A ja, tak jak starałem się dla ciebie o jej rękę, tak razem z tobą przed światem jej bezecność ogłoszę.
+
+
+DON JUAN
+
+Nie chcę jej więcej oczerniać, dopóki nie będziecie moimi świadkami. Czekajcie cierpliwie nocy, a wnet skutek wykryje prawdę.
+
+
+DON PEDRO
+
+O dniu tak boleśnie zakończony!
+
+
+KLAUDIO
+
+O przeszkodo tak dziwnie odkryta!
+
+
+DON JUAN
+
+O hańbo, tak szczęśliwie usunięta! To będą wasze słowa, gdy zobaczycie koniec.
+
+/ Wychodzą. /
+
+
+
+SCENA TRZECIA
+
+/ Ulica. /
+
+/ Ciarka, Kwasek i straż. /
+
+
+CIARKA
+
+Czy wy uczciwi ludzie i wierni?
+
+
+KWASEK
+
+Niewątpliwie, gdyby tak nie było, naraziliby zbawienie duszy i ciała.
+
+
+CIARKA
+
+A i to jeszcze byłoby za łaskawą dla nich karą, gdyby mieli w sobie okruszynę maństwa jako wybrani na straż książęcą.
+
+
+KWASEK
+
+Powiedz im teraz, jaka ma być ich służba, sąsiedzie Ciarko.
+
+
+CIARKA
+
+A naprzód, który wam się zdaje najakuratniejszy na sierżanta?
+
+
+PIERWSZY STRAŻNIK
+
+Maciek Owsik, panie poruczniku, albo Jura Węgielek, oba umieją czytać i pisać.
+
+
+CIARKA
+
+Zbliż się, sąsiedzie Węgielku. Bóg pobłogosławił ci pięknym nazwiskiem. Urodziwość to dar fortuny, lecz czytanie i pisanie idą z przyrodzenia.
+
+
+DRUGI STRAŻNIK
+
+Jedno i drugie, panie poruczniku.
+
+
+CIARKA
+
+Posiadasz; wiedziałem, że tak odpowiesz. Więc dobrze, co do urody, dziękuj za nią Panu Bogu, a nie dmij się z niej wcale; co do czytania i pisania, pokaż twój talent, gdzie nie będzie trzeba takiej próżności. Zdaniem wszystkich tu przytomnych, jesteś najpłytszy, a więc najlepszy na sierżanta straży, weź więc tę latarkę. Słuchaj teraz, jaki twój urząd: przyaresztujesz wszystkich włóczykijów, a do każdego przechodzącego zawołasz w imię księcia: ”Stój!”
+
+
+DRUGI STRAŻNIK
+
+A jak nie stanie?
+
+
+CIARKA
+
+Nie zważaj na to wcale, niech sobie idzie, a zaraz potem zwołaj resztę straży i podziękuj Bogu, że cię od opryszka uratował.
+
+
+KWASEK
+
+Jeśli nie stanie na rozkaz, to nie jest książęcy poddany.
+
+
+CIARKA
+
+Oczywista, a wy macie do czynienia tylko z książęcymi poddanymi. Nie będziecie także robili żadnego hałasu na ulicy, bo gdy straż paple i rozmawia, to rzecz znośna i nie do wytrzymania.
+
+
+DRUGI STRAŻNIK
+
+Wolimy spać niż paplać; znamy dobrze powinność straży.
+
+
+CIARKA
+
+Mówisz jak stary stróż i doświadczony. Nie widzę, co by złego być mogło w spaniu; miejcie tylko baczność, żeby wam halabard nie skradziono. Następnie zajrzycie do wszystkich szynkowni, a gdy znajdziecie pijanych, każecie im natychmiast pójść do łóżka.
+
+
+DRUGI STRAŻNIK
+
+A jeśli nie zechcą?
+
+
+CIARKA
+
+To zostaw ich w pokoju, póki nie wytrzeźwieją, a jeśli i wtedy nawet nie dadzą ci przyzwoitszej odpowiedzi, będziesz mógł śmiało powiedzieć, że to nie są ludzie, za jakich ich wziąłeś.
+
+
+DRUGI STRAŻNIK
+
+Bardzo dobrze, panie poruczniku.
+
+
+CIARKA
+
+Jeśli spotkasz złodzieja, możesz go podejrzewać mocą twojego urzędu, że to człowiek nieuczciwy, a z takiego rodzaju ludźmi im mniej masz do czynienia, tym lepiej dla twojej uczciwości.
+
+
+DRUGI STRAŻNIK
+
+Ale jeśli wiemy z pewnością, że to złodziej, czy nie należałoby go przyaresztować?
+
+
+CIARKA
+
+Bez wątpienia, twój urząd daje ci do tego prawo, ale moim zdaniem, kto się smoły tyka, smołą trąci. Najspokojniejszy dla ciebie środek, gdy złapiesz złodzieja, jest zażądać, żeby się wylegitymował, kim jest, a potem dać mu sposobność ukradkiem opuścić wasze towarzystwo.
+
+
+KWASEK
+
+Zawsze uchodziłeś za miłosiernego człowieka, mój kolego.
+
+
+CIARKA
+
+To prawda, że bym dobrowolnie psa nie powiesił, a dopieroż człowieka mającego choć odrobinę uczciwości.
+
+
+KWASEK
+
+Jeśli usłyszycie dziecko kwilące wśród nocy, powinnością waszą obudzić mamkę, żeby je ukołysała.
+
+
+DRUGI STRAŻNIK
+
+A jeśli mamka śpi twardo i nie usłyszy?
+
+
+CIARKA
+
+To idźcie dalej w pokoju, niech ją samo dziecko płaczem rozbudzi; bo owca, co nie usłyszy beku swego jagnięcia, nie odpowie zapewne na ryk cielątka.
+
+
+KWASEK
+
+Wielka prawda.
+
+
+CIARKA
+
+Tu koniec waszych powinności. Ty, sierżancie, reprezentujesz własną, dostojną książęcą osobę; jeśli podczas nocy spotkasz samego księcia, masz prawo go przyaresztować.
+
+
+KWASEK
+
+Nie, na Matkę Boską, nie ma do tego prawa.
+
+
+CIARKA
+
+O zakład pięć złotych przeciwko złotówce z każdym znającym dobrze prawo, że ma prawo go przyaresztować: rozumie się, że nie ma prawa, jeśli nie ma książęcego przyzwolenia, bo straż nie powinna krzywdzić nikogo, a aresztować człowieka bez jego woli jest krzywdą człowieka.
+
+
+KWASEK
+
+Na Matkę Boską, i ja tak myślę.
+
+
+CIARKA
+
+Cha, cha, cha! Więc dobrze, mości panowie, dobranoc! Jeśli się zdarzy co ważnego, zawołajcie mnie. Słuchaj dobrej rady przyjaciół i swojej własnej, i dobranoc! Sąsiedzie, idźmy.
+
+
+DRUGI STRAŻNIK
+
+Tak więc, koledzy, znamy naszą powinność. Siądźmy tu na tej kościelnej ławie i czekajmy drugiej, a potem — wszyscy do łóżka.
+
+
+CIARKA
+
+Jeszcze słowo, zacni sąsiedzi. Proszę was, miejcie oko na drzwi Leonata, bo z powodu jutrzejszego wesela wielki tam harmider tej nocy. Żegnam was teraz, a zalecam czujność.
+
+/ Wychodzą Ciarka i Kwasek; wchodzą Borachio i Konrad. /
+
+
+BORACHIO
+
+Hej, Konrad!
+
+
+STRAŻNIK
+
+/ na stronie /
+
+Cicho, nie ruszajcie się.
+
+
+BORACHIO
+
+Konrad!
+
+
+KONRAD
+
+Czego wrzeszczysz, człowieku? Jestem ci pod bokiem.
+
+
+BORACHIO
+
+Ach, to dlatego tak mnie swędziały boki; myślałem, że się zaraziłem świerzbem.
+
+
+KONRAD
+
+Winienem ci na to odpowiedź. Na teraz jednak ciągnij dalej twoją opowieść.
+
+
+BORACHIO
+
+Schroń się więc ze mną pod ten okap, bo mży, a ja, jak dobry pijak, opowiem ci wszystko.
+
+
+STRAŻNIK
+
+/ na stronie /
+
+Jakaś zdrada, mości panowie, miejmy się na baczności.
+
+
+BORACHIO
+
+Wiesz przede wszystkim, że zarobiłem u Don Juana na tysiąc dukatów.
+
+
+KONRAD
+
+Czyli hultajstwo może być takie drogie?
+
+
+BORACHIO
+
+Pytaj raczej, czy może być tak bogaty hultaj, bo kiedy bogatemu hultajowi trzeba ubogiego hultaja, to ubogi hultaj może naznaczyć cenę, jak chce, wysoką.
+
+
+KONRAD
+
+Zadziwiasz mnie.
+
+
+BORACHIO
+
+Co mi dowodzi, że jeszcze jesteś zielony. Wiesz przynajmniej, że moda kamizelki, kapelusza albo płaszcza nie przydaje nic człowiekowi.
+
+
+KONRAD
+
+Wiem, to tylko pokrycie.
+
+
+BORACHIO
+
+Mówię o modzie.
+
+
+KONRAD
+
+Tak, moda to jest moda.
+
+
+BORACHIO
+
+Pleciesz. Mógłbym równie dobrze powiedzieć: dudek to jest dudek. Lecz czy nie postrzegasz, co to za maszkara złodziej jest ta moda?
+
+
+STRAŻNIK
+
+/ na stronie /
+
+Znam tego Maszkarę, to złodziej od siedmiu lat sławny, przechadza się po ulicach jak szlachcic, przypominam sobie jego nazwisko.
+
+
+BORACHIO
+
+Czy nic nie słyszałeś?
+
+
+KONRAD
+
+Nic wcale, tylko skrzypnięcie chorągiewki na dachu tej kamienicy.
+
+
+BORACHIO
+
+Czy nie postrzegasz, powtarzam, co za maszkara złodziej jest ta moda? Czy nie postrzegasz, jak zawraca wszystkie gorące głowy między czternastym a trzydziestym piątym rokiem życia? Raz ubiera ich jak żołnierzy faraona na zakopconym obrazie, to znowu jak kapłanów boga Belusa na oknach starego kościoła, to znowu jak Herkulesa na zabrukanym, od molów zjedzonym obiciu, z mieszkiem u spodni równie potężnym jak jego maczuga.
+
+
+KONRAD
+
+Widzę to wszystko i widzę, że moda zużywa więcej odzienia niż człowiek. Ale czy i tobie także moda głowy nie zawróciła, gdyż z twojej opowieści nie wiem, jak zaszedłeś do rozprawy o modzie?
+
+
+BORACHIO
+
+Bynajmniej. Wiedz zatem, że tej nocy stroiłem koperczaki do pokojowej Hero, Małgorzaty, pod imieniem Hero. Wychyla się do mnie przez okno swej pani i tysiąc razy mi powtarza: „Dobranoc!” Ale wszystko mieszam jak groch z kapustą. Należało mi przede wszystkim powiedzieć ci, jak książę, Klaudio i pan mój, postawieni, zasadzeni i uprzedzeni przez mojego pana, Don Juana, widzieli z dala w ogrodzie przyjemne to spotkanie.
+
+
+KONRAD
+
+I myśleli, że Małgorzata była Hero?
+
+
+BORACHIO
+
+Dwóch przynajmniej tak myślało, książę i Klaudio, choć diabeł ten, pan mój, dobrze wiedział, że to Małgorzata. Tak więc, oszukany to przysięgami, którymi poprzednio mój pan ich odurzył, to ciemną nocą, która ich zwodziła, to na koniec i głównie moim hultajstwem stwierdzającym wszystkie mojego pana potwarze, Klaudio wybiegł wściekły i przysiągł, że wedle umowy stawi się w kościele następnego rana, a tam w przytomności całego zebrania powie na wstyd jej, co widział tej nocy i odeśle ją do domu bez męża.
+
+
+PIERWSZY STRAŻNIK
+
+W imieniu księcia rozkazuję ci, stój!
+
+
+DRUGI STRAŻNIK
+
+Zawołać samego sierżanta. Odkryliśmy tu najniebezpieczniejszą sztukę wszeteczeństwa, jaka się kiedykolwiek pokazała w rzeczypospolitej.
+
+
+PIERWSZY STRAŻNIK
+
+A niejaki Maszkara jest w ich liczbie, poznałem go po puklu.
+
+
+KONRAD
+
+Panowie! Panowie!
+
+
+DRUGI STRAŻNIK
+
+Będziesz musiał stawić przed trybunał Maszkarę, zaręczam.
+
+
+KONRAD
+
+Panowie!
+
+
+PIERWSZY STRAŻNIK
+
+Ani słowa więcej. Rozkazuję ci, żebyśmy cię słuchali i poszli z tobą na odwach.
+
+
+BORACHIO
+
+Coś mi się zdaje, żeśmy się w diablą dostali tarapatę, skoro nas wzięli między swoje kije.
+
+
+KONRAD
+
+I mnie się tak zdaje. Idźmy, jesteśmy na wasze rozkazy.
+
+/ Wychodzą. /
+
+
+
+SCENA CZWARTA
+
+/ Pokój w domu Leonata. /
+
+/ Hero, Małgorzata, Urszula. /
+
+
+HERO
+
+Dobra Urszulo, obudź moją kuzynkę Beatryks i proś ją, żeby wstała.
+
+
+URSZULA
+
+Idę, pani.
+
+
+HERO
+
+Powiedz jej, że czekam tu na nią.
+
+
+URSZULA
+
+Dobrze.
+
+/ Wychodzi. /
+
+
+MAŁGORZATA
+
+Zdaje mi się, pani, że druga kryza lepiej ci do twarzy.
+
+
+HERO
+
+Nie, Małgorzato, tę wezmę.
+
+
+MAŁGORZATA
+
+A jednak zaręczam, że tamta piękniejsza; o zakład, że kuzynka pani powie to samo.
+
+
+HERO
+
+Mojej kuzynce jak tobie w głowie się przewróciło. Tę wezmę, nie chcę innej.
+
+
+MAŁGORZATA
+
+Fryzura twoja, pani, nadzwyczaj mi się podoba, gdyby tylko włosy okruszynę były ciemniejsze. Suknia także najlepszego jest smaku. Widziałam suknię księżniczki mediolańskiej, którą tak przechwalono.
+
+
+HERO
+
+Zgadzają się wszyscy, że była nieporównanej piękności.
+
+
+MAŁGORZATA
+
+A ja utrzymuję, pani, że przy twojej ledwo na szlafroczek wygląda. Złota materia, z rozporkami i srebrną lamówką; rzędy pereł wzdłuż spadających rękawów; spódniczka bramowana u dołu błękitną brokatelą; ale co do poprawności, gustu, wdzięku, świeżości i nowości kroju, nie wzięłabym takich dziesięć za twoją jedną, pani.
+
+
+HERO
+
+Daj Boże, abym ją nosiła z weselem, bo bardzo mi ciężko na sercu.
+
+
+MAŁGORZATA
+
+Wkrótce, pani, będzie ci na nim ciężej o całą wagę męża.
+
+
+HERO
+
+Fe, nie mów tego! Czy ty wstydu nie masz?
+
+
+MAŁGORZATA
+
+I czegóż mam się wstydzić, pani, gdy mówię uczciwie? Alboż małżeństwo nie jest uczciwą rzeczą nawet w żebraku? Alboż twój mąż nie jest uczciwy i bez małżeństwa? Zapewne chciałabyś, pani, abym mówiła, z przeproszeniem, nie mąż, lecz małżonek. Jeśli zła myśl nie przekręci uczciwego słowa, nie obrażę nikogo. Co jest w tym złego: „ciężej o wagę małżonka”? Nic złego, gdy mowa o prawym małżonku i prawej żonie, bo w przeciwnym razie nie za ciężkie, lecz za lekkie było serce. Spytaj zresztą, pani, twojej kuzynki Beatryksy, bo widzę, że nadchodzi.
+
+/ Wchodzi Beatryks. /
+
+
+HERO
+
+Dzień dobry, kuzynko.
+
+
+BEATRYKS
+
+Dzień dobry, słodka Hero.
+
+
+HERO
+
+A to co znaczy? Skądże ten ton płaczliwy?
+
+
+BEATRYKS
+
+Coś mi się wszystko zdaje, że mi tylko ten jeden ton został.
+
+
+MAŁGORZATA
+
+Zanuć nam tylko, pani, Lekką miłość, a obejdzie się bez muzykantów; śpiewaj tylko, ja będę tańcować.
+
+
+BEATRYKS
+
+Strzeż się tylko, żeby ta lekka miłość w piętach nie dała ci w prezencie ciężaru gdzie indziej.
+
+
+MAŁGORZATA
+
+Co za przewrotne tłumaczenie! Ale wszystko przeskoczę.
+
+
+BEATRYKS
+
+Już prawie piąta, kuzynko, czas zabrać się do toalety. Ale prawdziwie, nadzwyczaj mi słabo. O!
+
+
+MAŁGORZATA
+
+Dla kogóż to „O” głębokie? Dla oczu, ołtarza czy obojga?
+
+
+BEATRYKS
+
+Dla litery, co je wszystkie zaczyna, dla „O”.
+
+
+MAŁGORZATA
+
+To wyznać trzeba, pani, że jeśli nie zostałaś Turczynką, to nie można dłużej wierzyć gwiazdom w żegludze.
+
+
+BEATRYKS
+
+Co ta wariatka chce powiedzieć?
+
+
+MAŁGORZATA
+
+Ja? Nic wcale; ja tylko proszę Boga, żeby dał każdemu, czego serce jego pragnie.
+
+
+HERO
+
+Rękawiczki te przysłał mi hrabia w podarunku, jak miły wydają zapach.
+
+
+BEATRYKS
+
+Okrutnego dostałam kataru, nic nie czuję.
+
+
+MAŁGORZATA
+
+Młoda panna, a nic już nie czuje? To katar nie lada.
+
+
+BEATRYKS
+
+Panie odpuść! Panie odpuść! Odkądże to zaczęłaś konceptami handlować?
+
+
+MAŁGORZATA
+
+Od czasu, pani, jak ty ten handel porzuciłaś. Alboż mi nie do twarzy dowcip?
+
+
+BEATRYKS
+
+Nie bardzo go widać; radzę ci, przypnij go do czepca. Lecz prawdziwie, słabo mi.
+
+
+MAŁGORZATA
+
+Poślij, pani, po ekstrakt Carduus benedictus, przyłóż go do serca, to jedyne lekarstwo na mdłości.
+
+
+HERO
+
+Nie wiedząc, ukłułaś ją ostem.
+
+
+BEATRYKS
+
+Benedictus! Dlaczego benedictus? Masz jakąś myśl ukrytą w tym benedictus.
+
+
+MAŁGORZATA
+
+Myśl ukrytą! Uchowaj Boże, nie mam żadnej. Mówię po prostu o czubku tureckim. Może przypuszczasz, pani, iż przypuszczam, że jesteś zakochana; bynajmniej, przysięgam. Nie doszłam jeszcze do tego stopnia obłąkania, abym przypuszczała, czego pragnę, ani pragnę przypuszczać, co mogę, ani mogę przypuszczać, choćbym przepuściła serce przypuszczaniem, że jesteś zakochana lub że będziesz zakochana, lub że możesz być zakochana. Aleć i Benedyk tak samo myślał, a co się z niego zrobiło! Przysięgał, że się nigdy nie ożeni, a przecie dzisiaj na przekorę własnemu sercu je swoją potrawkę bez szemrania. Jakby i ciebie, pani, nawrócić, nie wiem wcale, zdaje mi się jednak, że ci teraz patrzy z oczu jak innym kobietom.
+
+
+BEATRYKS
+
+Co za język! Lata jak na kołowrotku.
+
+
+MAŁGORZATA
+
+Może co też i wyprzędzie.
+
+/ Wchodzi Urszula. /
+
+
+URSZULA
+
+Śpiesz się, pani! Książę, hrabia, signor Benedyk, Don Juan i wszyscy gładysze naszego miasta przychodzą towarzyszyć ci do kościoła.
+
+
+HERO
+
+Śpieszmy! śpieszmy! Dobra kuzynko, dobra Małgosiu, dobra Urszulo, bądźcie mi pomocą przy gotowalni.
+
+/ Wychodzą. /
+
+
+
+SCENA PIĄTA
+
+/ Inny pokój w domu Leonata. /
+
+/ Leonato, Ciarka, Kwasek. /
+
+
+LEONATO
+
+Co masz do mnie, poczciwy sąsiedzie?
+
+
+CIARKA
+
+Co mam? Chciałbym wytłumaczyć się w pewnym interesie blisko pana obchodzącym.
+
+
+LEONATO
+
+Tylko krótko a węzłowato, bo, jak widzisz, roboty mam po uszy.
+
+
+CIARKA
+
+Kto by wątpił, panie.
+
+
+KWASEK
+
+Na honor, nikt nie wątpi, panie.
+
+
+LEONATO
+
+Więc o co tu chodzi, dobrzy moi przyjaciele?
+
+
+CIARKA
+
+Wielki poczciwiec, kolega mój Kwasek, odchodzi trochę od materii, ale to staruszek, panie, a dowcip jego nie tak płytki, jakbym pragnął, dopomóż Boże! Zresztą człowiek to zacny jak skóra między brwiami.
+
+
+KWASEK
+
+Wszystko prawda. Jestem uczciwy jak jaki bądź człowiek jak ja stary, a nie uczciwszy ode mnie.
+
+
+CIARKA
+
+Porównania śmierdzą, palabras, czcza gadanina, sąsiedzie Kwasku.
+
+
+LEONATO
+
+Nudni z was ludzie, sąsiedzi.
+
+
+CIARKA
+
+To za wiele dla nas dobroci, jaśnie panie, ale jesteśmy tylko biedni urzędnicy jego książęcej mości; choć co do mnie, przysięgam, że gdybym był nawet jak król nudny, czuję w moim sercu, że byłbym gotów wszystko oddać na usługi jaśnie pana.
+
+
+LEONATO
+
+Co, całą twoją nudność, ha?
+
+
+CIARKA
+
+Tak jest, jaśnie panie, choćbym miał jej tysiąc razy więcej; bo po mieście takie gadają rzeczy o jaśnie panu, że choć biedak, raduję się, ilekroć gadanie to słyszę.
+
+
+KWASEK
+
+I ja też, jaśnie panie.
+
+
+LEONATO
+
+Chciałbym jednak dowiedzieć się na koniec, co macie mi do powiedzenia?
+
+
+KWASEK
+
+Nic łatwiejszego, panie. Straż nasza tej nocy, uczciwszy uszy, jaśnie panie, złapała parę najwierutniejszych łotrów z całej Mesyny.
+
+
+CIARKA
+
+Poczciwy staruszek, ale straszny gaduła, bo, jak to mówią: starość w progi, rozum w nogi. Cóż robić? Boże dopomóż, dziwne dzieją się rzeczy na świecie. Dobrze powiedziałeś, sąsiedzie Kwasku, Bóg jest miłosierny, a gdy dwóch ludzi na jednym koniu jedzie, to jeden siedzieć musi z tyłu. Zresztą, poczciwa dusza, na honor, nigdy poczciwsza bożego nie jadła chleba. Lecz we wszystkim chwalmy Pana; nie wszyscy ludzie na jedno kopyto; ach, biedny, drogi sąsiad!
+
+
+LEONATO
+
+To prawda, sąsiedzie, nie dorósł cię jeszcze.
+
+
+CIARKA
+
+Bóg rozdziela zdolności.
+
+
+LEONATO
+
+Muszę was pożegnać.
+
+
+CIARKA
+
+Jeszcze słowo, jaśnie panie. Nasza straż, jaśnie panie, jak już powiedziałem, złapała dwóch nie lada ichmościów, których chcielibyśmy stawić dziś rano na wywód słowny przed jaśnie panem.
+
+
+LEONATO
+
+Wysłuchajcie ich sami, a przynieście mi raport. W tej chwili zbyt jestem zatrudniony, jak to widzicie sami.
+
+
+CIARKA
+
+Mądrej głowie dość dwie słowie. Verbum sat.
+
+
+LEONATO
+
+Przed odejściem wychylcie szklankę wina. Bądźcie zdrowi.
+
+/ Wchodzi Posłaniec. /
+
+
+POSŁANIEC
+
+Zebrani goście czekają tylko, żeby jaśnie pan oddał córkę narzeczonemu.
+
+
+LEONATO
+
+Idę. Jestem gotów.
+
+/ Wychodzą Leonato i Posłaniec. /
+
+
+CIARKA
+
+Idź, dobry kolego, idź do Jury Węgielka i powiedz mu, żeby przyniósł pióro i kałamarz do turmy, weźmiemy tych paniczów na indagację.
+
+
+KWASEK
+
+A trzeba się wziąć do tego z rozumem.
+
+
+CIARKA
+
+Nie będziemy szczędzić rozumu, a ja zaręczam ci, że tu (uderza się w czoło) dosyć jest oleju, żeby ich, jak należy, wyspowiadać. Sprowadź tylko uczonego pisarza, aby spisał całą ekskomunikację; czekam na was w turmie.
+
+/ Wychodzą. /
+
+
+
+
+AKT CZWARTY
+
+
+
+SCENA PIERWSZA
+
+/ Wnętrze kościoła. /
+
+/ Don Pedro, Don Juan, Leonato, Mnich, Klaudio, Benedyk, Hero, Beatryks i inni. /
+
+
+LEONATO
+
+Dalej, bracie Franciszku, tylko krótko. Przestańmy na samym obrzędzie ślubu; wzajemne ich obowiązki wyłożysz im później.
+
+
+MNICH
+
+Przychodzisz, bracie, tę tu niewiastę zaślubić?
+
+
+KLAUDIO
+
+Nie.
+
+
+LEONATO
+
+Wziąć ją za żonę, bracie; ty przychodzisz ją zaślubić!
+
+
+MNICH
+
+A ty, pani, przychodzisz wziąć hrabiego za męża?
+
+
+HERO
+
+Tak jest.
+
+
+MNICH
+
+Jeśli ktokolwiek z was tu przytomnych wie jakąś tajemną przeszkodę temu związkowi, wzywam go pod duszy zbawieniem, aby ją natychmiast objawił.
+
+
+KLAUDIO
+
+Czy wiesz jakąś przeszkodę, Hero?
+
+
+HERO
+
+Żadnej.
+
+
+MNICH
+
+A ty, hrabio, czy wiesz jakąś?
+
+
+LEONATO
+
+Śmiem bez obawy odpowiedzieć za niego: żadnej.
+
+
+KLAUDIO
+
+O, czego nie śmią ludzie! Czego nie mogą się dopuścić! Czego nie dopuszczają się co dzień, nie wiedząc, co robią!
+
+
+BENEDYK
+
+A to co znaczy? Wykrzykniki? Niektóre z nich wyrażają śmiech, na przykład „cha! cha! cha!”
+
+
+KLAUDIO
+
+Wstrzymaj się, bracie. Ojcze, powiedz, proszę,
+Czy z wolnej woli i nieprzymuszony
+Chcesz mi za żonę córkę oddać twoją?
+
+
+LEONATO
+
+Tak jak mi dał ją Bóg nieprzymuszony.
+
+
+KLAUDIO
+
+A ja cóż mogę dać ci z mojej strony,
+Co by tak było jak dar ten kosztowne?
+
+
+DON PEDRO
+
+Nic albo chyba że oddasz ją samą.
+
+
+KLAUDIO
+
+Szlachetny książę, uczysz mnie wdzięczności.
+Tak, Leonato, odbierz twoją córkę;
+Przyjaźń nie daje zgniłej pomarańczy;
+Ona pozory tylko ma honoru.
+Patrz, jak dziewiczy oblał ją rumieniec:
+Jak grzech przebiegły umie wdziać na siebie
+Wszystkie znamiona czystej niewinności!
+Patrzcie, rumieniec wystąpił jak świadek
+Prawości uczuć, cnoty i prostoty.
+Kto by nie przysiągł na widok tej twarzy,
+Że widzi czystą przed sobą dziewicę?
+Lecz zwodzi pozór; już nie jest dziewicą;
+Ona zna ognie miłości występnej:
+To jest rumieniec grzechu, nie skromności.
+
+
+LEONATO
+
+Co mówisz, panie?
+
+
+KLAUDIO
+
+                        Że pojąć jej nie chcę.
+Nie chcę mej duszy oddać wszetecznicy.
+
+
+LEONATO
+
+Jeśli sam, hrabio, w zapomnienia chwili
+Zwalczyłeś opór niebacznej młodości
+I sam splamiłeś dziewiczy jej wianek…
+
+
+KLAUDIO
+
+Wiem, co chcesz mówić; gdybym ja był winny,
+Rzekłbyś: uległa przyszłemu mężowi,
+A grzech jej cały, grzechem tylko czasu.
+Lecz, Leonato, nie, nie, tak nie było,
+Nigdym jej śmielszym słowem nie pokusił,
+Jak brat dla siostry zawsze dla niej miałem
+I szczerość skromną, i miłość niewinną.
+
+
+HERO
+
+A we mnie inne widziałżeś uczucia?
+
+
+KLAUDIO
+
+Precz z pozorami! Skarżyć je przychodzę.
+Ty mi się zdajesz czysta jak Diana,
+Czysta jak pączek róży nierozwitej;
+Ale w twych żyłach krew płynie gorętsza
+Niż krew Wenery lub rozpustnych zwierząt,
+Które szaleją w dzikiej zmysłowości.
+
+
+HERO
+
+Czy w obłąkaniu straszne mówisz słowa?
+
+
+LEONATO
+
+Ty milczysz, książę?
+
+
+DON PEDRO
+
+                        I cóż mam powiedzieć?
+Ja, co mój czysty oszpeciłem honor,
+Chcąc przyjaciela złączyć z nierządnicą?
+
+
+LEONATO
+
+Czy śnię tylko, czy słyszę na jawie?
+
+
+DON JUAN
+
+Słyszysz na jawie, słyszysz tylko prawdę.
+
+
+BENEDYK
+
+To nie wygląda na ślub.
+
+
+HERO
+
+                        Nie, o Boże!
+
+
+KLAUDIO
+
+Mów, Leonato, czy stoję przy tobie?
+Czy to jest książę? Czy to brat książęcy?
+To Hero? Oczy nasze czy są nasze?
+
+
+LEONATO
+
+Tak jest, jak mówisz, lecz co stąd wypada?
+
+
+KLAUDIO
+
+Jedno pytanie pozwól córce zrobić,
+A mocą twojej ojcowskiej powagi
+Rozkaż jej szczerą dać na nie odpowiedź.
+
+
+LEONATO
+
+Odpowiedz szczerze, jak mi córką jesteś.
+
+
+HERO
+
+O wielki Boże, bądź moją pomocą!
+Jakież mi, hrabio, zadać chcesz pytanie?
+
+
+KLAUDIO
+
+Odpowiedz szczerze, jakie twoje imię?
+
+
+HERO
+
+Me imię Hero. Kto je może splamić
+Słusznym zarzutem?
+
+
+KLAUDIO
+
+                        Kto? Ty sama, Hero;
+Tak, Hero może cnotę Hero splamić.
+Kto jest ten człowiek, z którym przeszłej nocy,
+Około pierwszej, z okna rozmawiałaś?
+Odpowiedz teraz, jeśliś jest dziewicą.
+
+
+HERO
+
+O tej godzinie nie mówiłam z nikim.
+
+
+DON PEDRO
+
+Własnym wyznaniem nie jesteś dziewicą.
+Bolesnej prawdy słuchaj, Leonato:
+Ja, brat mój i ten pokrzywdzony hrabia,
+My trzej, na honor, widzieli, słyszeli,
+Jak rozmawiała przez okno z nędznikiem,
+Który sam później, bezczelny rozpustnik,
+Sam rozpowiadał występne spotkania
+Po tysiąc razy w jej miane komnacie.
+
+
+DON JUAN
+
+Wstyd mówić o tym i wstyd nawet wspomnieć,
+W słowach języka nie ma dość czystości,
+Żeby je można bez grzechu wymawiać.
+Piękna panienko, żal mi cię prawdziwie
+I żal mi twojej występnej rozpusty.
+
+
+KLAUDIO
+
+O, Hero, Hero! O, czymże byś była,
+Gdyby połowa twarzy twojej wdzięków
+Zdobiła myśli twoje i uczucia!
+Lecz bądź mi zdrowa, ty szpetna, ty piękna!
+Ty grzechu czysty i czystości grzeszna!
+Dla ciebie zamknę wszystkie uczuć wrota,
+W oczach mi siądzie wieczne podejrzenie,
+Wszelką mi piękność w złe oblecze myśli.
+Wszelki jej urok odejmie na zawsze!
+
+
+LEONATO
+
+Niczyjże sztylet ostrza nie ma dla mnie?
+
+/ Hero mdleje. /
+
+
+BEATRYKS
+
+Co ci, kuzynko? Siły cię odbiegły?
+
+
+DON JUAN
+
+Idźmy! Występku tak nagłe odkrycie
+Jest nad jej siły.
+
+/ Wychodzą Don Pedro, Don Juan i Klaudio. /
+
+
+BENEDYK
+
+                        W jakimże jest stanie?
+
+
+BEATRYKS
+
+Umarła może. Ratunku, mój wuju!
+Hero! Mój wuju! Benedyku! Bracie!
+
+
+LEONATO
+
+O losie, ciężkiej nie odejmuj ręki!
+Śmierć upragnioną jest tylko zasłoną
+Na tyle hańby.
+
+
+BEATRYKS
+
+                        Co ci jest, kuzynko?
+
+
+MNICH
+
+Nie trać otuchy, powstań młoda pani!
+
+
+LEONATO
+
+Otwiera oczy?
+
+
+MNICH
+
+                        Czemuż ma je zamknąć?
+
+
+LEONATO
+
+Czemu ma zamknąć? Alboż ziemia cała
+O jej występku do nieba nie woła?
+Mogłaż zaprzeczyć okrutnej powieści,
+Którą jej własny potwierdził rumieniec?
+Umieraj, Hero! Nie otwieraj oczu!
+Bo gdybym myślał, że nie skonasz teraz,
+Że duch twój od twej silniejszy jest hańby
+Sam własną ręką, na sąd świata głuchy,
+Sam twemu życiu położyłbym koniec.
+Jam kiedyś skąpstwo zarzucał naturze,
+Że mi jedyną córkę tylko dała!
+Ach, jam miał dzieci o jedno za wiele!
+Czemuż, o Boże, dałeś mi to jedno!
+Ty, córko, czemu tak byłaś mi droga!
+Czemu u bramy miłosierną ręką
+Jakiej żebraka nie zgarnąłem córki!
+Dziś, gdy ją błoto hańby obryzgało,
+Mógłbym powiedzieć: to nie jest krew moja,
+Wstyd ten pochodzi z nieznanego łona.
+Lecz to krew moja, jak moją kochałem,
+Jak moją czciłem, z mojej byłem dumny;
+Tak była moją, żem sam nie był moim,
+Jej tylko ceną sam siebie ceniłem;
+A ona w przepaść zapadła tak czarną,
+Że wielkie morze nie dosyć ma wody,
+Aby ją obmyć z tej piekielnej plamy,
+Nie dosyć soli, żeby wrócić świeżość
+Zgniliźnie ciała!
+
+
+BENEDYK
+
+                        Panie, bądź cierpliwy!
+Nagłość wypadków tak mnie odurzyła,
+Że myśli tracę i nie wiem, co mówić.
+
+
+BEATRYKS
+
+O, ja przysięgam, że to potwarz czarna!
+
+
+BENEDYK
+
+Czy noc ostatnią spędziłyście razem?
+
+
+BEATRYKS
+
+Nie, lecz rok cały, do ostatniej nocy,
+Byłam jej łoża ciągłą towarzyszką.
+
+
+LEONATO
+
+To nowy dowód! To potężniej wiąże,
+Co już żelazne wiązały obręcze!
+Na co by kłamać chcieli dwaj książęta?
+I kłamać Klaudio, który ją tak kochał,
+Że każde słowo o jej przeniewierstwie
+Gorzkich łez swoich oblewał potokiem?
+Zostawmy samą, idźmy, niech umiera!
+
+
+MNICH
+
+Dozwól mi, panie, słów kilka powiedzieć.
+Dlatego tylko milczałem tak długo,
+Biegu wypadków w drodze nie wstrzymałem,
+By śledzić pilnie córki twej oblicze.
+Tysiąckroć jasny oblał ją rumieniec
+I tysiąc razy niewinność dziewicza
+Znów ją powlokła anielską bladością,
+A w jej źrenicach taki ogień gorzał,
+Że w proch obracał każde oskarżenie
+Przeciw jej czystej wymierzone cnocie.
+Zwij mnie szaleńcem, gardź moją nauką,
+Mym doświadczeniem, znajomością świata,
+Które stwierdzają treść całą mej księgi,
+Gardź moim wiekiem, moim powołaniem,
+I gardź powagą mojego kapłaństwa,
+Jeśli to słodkie i niewinne dziecię
+Nie jest ofiarą okrutnego błędu.
+
+
+LEONATO
+
+Nie, nie, mój ojcze! Nie, to być nie może!
+To znak jedyny ostatków jej cnoty,
+Że nie chce dodać do wszystkich swych grzechów
+Krzywoprzysięstwa. Niczemu nie przeczy.
+Na co więc szukać daremnych wymówek
+Sromocie w całej odkrytej nagości?
+
+
+MNICH
+
+Kto mąż jest, którym obwinia cię książę?
+
+
+HERO
+
+Imię to wiedzą ci, którzy mnie skarżą,
+Ja nie wiem wcale.
+Jeśli mąż żyje, którego znam więcej
+Niż to, co skromność dziewicza dozwala,
+Niech miłosierdzia grzechy me nie znajdą!
+Ojcze mój drogi, jeśli to się sprawdzi,
+Że tej północy lub że kiedykolwiek
+Wiodłam z mężczyzną samotne rozmowy,
+Brzydź się mną, gardź mną, zamęcz mnie okrutnie.
+
+
+MNICH
+
+Błąd jakiś straszny książąt zwikłał myśli.
+
+
+BENEDYK
+
+Wiem, że w dwóch sercu honor mieszka czysty;
+Jeśli w tej sprawie mądrość ich zawiodła,
+To bękart Juan sprawcą będzie złego,
+Bo dusza jego czarne knuje spiski.
+
+
+LEONATO
+
+Jeśli się sprawdzi to, co o niej mówią,
+Ręką ją własną rozszarpię na części;
+Lecz jeśli czysty honor jej skrzywdzili,
+Niech najdumniejszy drży na moje imię.
+Czas w moich żyłach krwi tak nie wysuszył,
+Wiek tak nie pożarł mojego rozumu,
+Los tak zasobów moich nie roztrwonił,
+Zły żywot tak mnie nie obrał z przyjaciół,
+Aby w tej sprawie nie poczuli jeszcze
+Siły ramienia, rozumu potęgi,
+Dostatku środków i przyjaciół liczby,
+Z którymi wszystko z lichwą im zapłacę.
+
+
+MNICH
+
+Zaczekaj chwilę, a rządź się mą radą.
+Córkę twą książę zostawił bez ducha,
+A więc rozgłośmy wszędzie, że umarła;
+Przez czas niejaki trzymaj ją w ukryciu.
+Sam przywdziej ciężkiej żałoby oznaki,
+Na przodków grobach smutny wyryj napis,
+Wszystkich pogrzebu dokonaj obrzędów.
+
+
+LEONATO
+
+I jakież z tego wypaść mają skutki?
+
+
+MNICH
+
+Rzecz, byle tylko dobrze kierowana,
+Zamieni naprzód potwarz na zgryzotę,
+I to już dobre; ale z moich marzeń
+Silniejsze myślę na świat wywieść dziecię.
+Skoro wieść gruchnie, że padła nieżywa
+Na pierwsze słowo książęcych oskarżeń,
+Wszyscy ją będą płakać i tłumaczyć:
+Bo tak się dzieje, że skarb posiadany
+Nie jest ceniony wedle swej wartości,
+Ale zaledwo skarb ten utracimy,
+Zaraz w nim wielkie odkrywamy cnoty,
+Których by nasze nie dojrzały oczy,
+Gdyby był został w naszym posiadaniu.
+I Klaudio będzie, jak są wszyscy ludzie:
+Kiedy usłyszy, że ją słowem zabił,
+Myśl o jej życiu wkradnie się powoli
+Do wyobraźni tajemnej pracowni
+I każda piękność słodkiego jej ciała
+Wróci w jaśniejsze obleczona farby,
+Delikatniejsza i pełniejsza życia,
+Stanie przed okiem tkliwej jego duszy,
+Niż kiedy żyła życiem rzeczywistym.
+Jeżeli w sercu prawdziwą czuł miłość,
+Będzie żałował, że ją tak oskarżył,
+Choćby i wierzył w swoje oskarżenie.
+Słuchaj mej rady, a bądź przekonany,
+Że wszystko skutek uwieńczy piękniejszy,
+Niźli go moje robią przypuszczenia.
+Lecz nawet kiedy wszystko nas zawiedzie,
+Myśl, że twa córka w swych przodków śpi grobie,
+Zgasi powoli pamięć jej niesławy.
+W najgorszym razie ukryć ją potrafisz
+(Na takie rany jedyne lekarstwo)
+W samotnych murach świętego klasztoru
+Przed okiem, myślą i językiem świata.
+
+
+BENEDYK
+
+Usłuchaj rady mnicha, Leonacie;
+A choć znasz dobrze miłość mą głęboką
+Tak do osoby książęcej, jak hrabi,
+W tej sprawie znajdziesz taką wierność we mnie
+Jak wierność duszy twej dla twego ciała.
+
+
+LEONATO
+
+Śród moich smutków, z prądu niepewności
+Najsłabsza nitka może mnie wybawi.
+
+
+MNICH
+
+Przyrzekłeś. Śpieszmy, bo drogie są chwile;
+Dziwne lekarstwa na dziwne są rany.
+Żeby zmartwychwstać, zamknij się w mogile;
+Cierp, czekaj — ślub wasz może niezerwany.
+
+/ Wychodzą Mnich, Hero, Leonato. /
+
+
+BENEDYK
+
+Beatryks, ty cały ten czas płakałaś.
+
+
+BEATRYKS
+
+I długo jeszcze płakać będę.
+
+
+BENEDYK
+
+Nie chciałbym jednak, żeby tak było.
+
+
+BEATRYKS
+
+Źle robisz, bo płaczę z dobrej woli.
+
+
+BENEDYK
+
+Najsilniej wierzę, że twoja piękna kuzynka ciężko jest pokrzywdzona.
+
+
+BEATRYKS
+
+Jakie zasługi miałby u mnie człowiek, który by niewinność jej okazał!
+
+
+BENEDYK
+
+Czy jest jaki sposób, żeby przyjaźni tej dowieść?
+
+
+BEATRYKS
+
+Sposób jest łatwy, ale nie ma takiego przyjaciela.
+
+
+BENEDYK
+
+Jestli to w mocy męża?
+
+
+BEATRYKS
+
+To jest męża powinność, ale nie twoja.
+
+
+BENEDYK
+
+Nic tak nie kocham na świecie jak ciebie; czy to nie dziwne?
+
+
+BEATRYKS
+
+Tak dziwne jak rzecz, której nie znam. Równie łatwo byłoby mi powiedzieć, że nic tak nie kocham jak ciebie; nie wierz mi jednak — nie kłamię przecie — nic nie wyznaję, nie przeczę niczemu. Los mojej kuzynki zasmuca mnie głęboko.
+
+
+BENEDYK
+
+Na mój oręż, Beatryks, ty mnie kochasz.
+
+
+BEATRYKS
+
+Nie przysięgaj, połknij to słowo.
+
+
+BENEDYK
+
+Przysięgam na mój oręż, że mnie kochasz, a kto powie, że ja cię nie kocham, tego przymuszę, aby oręż mój połknął.
+
+
+BEATRYKS
+
+Czy tylko czasem nie połkniesz twojej przysięgi?
+
+
+BENEDYK
+
+Nikt jeszcze nie uwarzył potrzebnego na to sosu. Przysięgam, że cię kocham.
+
+
+BEATRYKS
+
+Niech mi więc Bóg odpuści!
+
+
+BENEDYK
+
+Jaki grzech, słodka Beatryks?
+
+
+BEATRYKS
+
+Przerwałeś mi w samą porę; właśnie miałam wyznać, że cię kocham.
+
+
+BENEDYK
+
+Więc wyznaj z całego serca.
+
+
+BEATRYKS
+
+Tak, kocham cię całym sercem, że mi nie zostało serca do wyznania.
+
+
+BENEDYK
+
+Droga Beatryks, każ mi, żebym co zrobił dla twojej miłości.
+
+
+BEATRYKS
+
+Zabij Klaudia.
+
+
+BENEDYK
+
+O, nie! Za skarby całego świata!
+
+
+BEATRYKS
+
+Zabiłeś mnie, odmawiając. Bądź zdrów!
+
+
+BENEDYK
+
+Zaczekaj chwilę, słodka Beatryks!
+
+
+BEATRYKS
+
+Odeszłam, choć tu jestem. Nie ma w tobie odrobiny miłości. Nie, proszę cię, pozwól mi odejść.
+
+
+BENEDYK
+
+Beatryks!
+
+
+BEATRYKS
+
+Puść mnie.
+
+
+BENEDYK
+
+Bądźmy wprzód przyjaciółmi.
+
+
+BEATRYKS
+
+Łatwiej ci znaleźć serce, żeby być moim przyjacielem, niż żeby walczyć z moim nieprzyjacielem.
+
+
+BENEDYK
+
+Alboż Klaudio jest twoim nieprzyjacielem?
+
+
+BEATRYKS
+
+Alboż Klaudio nie pokazał się ostatnim nędznikiem, on, który spotwarzył, odrzucił, oczernił moją krewną? O, gdybym była mężczyzną! Jak to? Ściskać jej rękę aż do chwili oddania ręki, a potem oskarżyć ją publicznie, potwarzyć bezczelnie, z nieubłaganą mściwością! O Boże, gdybym była mężczyzną! Na rynku pożarłabym jego serce.
+
+
+BENEDYK
+
+Słuchaj mnie, Beatryks…
+
+
+BEATRYKS
+
+Przez okno swej komnaty rozmawiała z mężczyzną? Śliczna mi powieść!
+
+
+BENEDYK
+
+Zważ tylko, Beatryks…
+
+
+BEATRYKS
+
+Słodka moja Hero! Pokrzywdzona, spotwarzona, zgubiona!
+
+
+BENEDYK
+
+Beat…
+
+
+BEATRYKS
+
+Co mi za książęta i hrabiowie! Zaprawdę, książęce świadectwo, piękny mi hrabia w cukierku, słodki kochanek, to prawda! O, gdybym była mężem dla jego miłości! Lub gdybym miała przyjaciela, który by chciał być mężem dla mojej miłości! Lecz mężność przetopiła się u nas w grzeczność, męstwo w komplementy, męże przemienili się w języki, i to jeszcze śliczne języki! Ten uchodzi dzisiaj za drugiego Herkulesa, który wypowie kłamstwo i przysięgą je stwierdzi. Gdy nie mogę zostać mężem potęgą mej woli, niech umrę kobietą potęgą mej boleści.
+
+
+BENEDYK
+
+Słuchaj, Beatryks, przysięgam na tę rękę, kocham cię.
+
+
+BEATRYKS
+
+Użyj więc jej przez miłość dla mnie na co innego jak na przysięgę.
+
+
+BENEDYK
+
+Czy jesteś w duszy przekonana, że hrabia Klaudio pokrzywdził Hero?
+
+
+BEATRYKS
+
+Tak jestem o tym przekonana, jak że mam przekonanie i duszę.
+
+
+BENEDYK
+
+Dość na tym; daję ci słowo, wyzwę go w szranki. Teraz całuję twoją rękę i odchodzę. Na tę rękę, Klaudio surowy zda mi rachunek. Myśl o mnie, jak o mnie usłyszysz. Idź, pociesz swoją kuzynkę; moją powinnością utrzymywać, że umarła. A teraz bądź zdrowa!
+
+/ Wychodzą. /
+
+
+
+SCENA DRUGA
+
+/ Więzienie. /
+
+/ Ciarka, Kwasek, Zakrystian w odzieniu sądowym, Konrad, Borachio pod strażą. /
+
+
+CIARKA
+
+Czy nasza kurperacja już w komplecie?
+
+
+KWASEK
+
+Hej tam, przynieść krzesło i materacyk dla zakrystiana.
+
+
+ZAKRYSTIAN
+
+Gdzie są winowajcy?
+
+
+CIARKA
+
+Także pytanie! Ja i mój kolega.
+
+
+KWASEK
+
+Nie ma wątpliwości, mamy egzaminować indagacją.
+
+
+ZAKRYSTIAN
+
+Lecz gdzie są delikwenci, których mamy indykować? Niech się stawią przed panem porucznikiem.
+
+
+CIARKA
+
+Tak jest, niech się stawią przed moją osobą. Imię twoje, przyjacielu?
+
+
+BORACHIO
+
+Borachio.
+
+
+CIARKA
+
+Zapisz, proszę: Borachio. A twoje, mopanku?
+
+
+KONRAD
+
+Jestem szlachcic, panie poruczniku, a nazywam się Konrad.
+
+
+CIARKA
+
+Zapisz: pan szlachcic Konrad. Czy służycie Bogu, mopankowie?
+
+
+KONRAD i BORACHIO
+
+Tak jest, tak się nam zdaje przynajmniej.
+
+
+CIARKA
+
+Zapisz: że im się zdaje, że służą Bogu. Napisz „Bogu” w pierwszej linii, bo uchowaj Boże, aby Bóg nie stał wyżej takich hajdamaków. Mopankowie, już jest tak dobrze, jak dowiedzione, że nic z was lepszego jak wierutne łotry, a wkrótce rzecz ta prawdopodobną się okaże. Co macie do powiedzenia na wasze usprawiedliwienie?
+
+
+KONRAD
+
+Co mamy do powiedzenia? Mamy do powiedzenia, że nie jesteśmy nimi wcale.
+
+
+CIARKA
+
+Nie lada ćwik z tego jegomości, prawdziwie; ale przyjdzie na niego kolej. Pójdź tu sam, mości panie, mam ci coś powiedzieć do ucha; mówię ci, iż ludzie myślą, że wierutne z was łotry.
+
+
+BORACHIO
+
+A ja ci powtarzam, panie poruczniku, że nie jesteśmy nimi wcale!
+
+
+CIARKA
+
+Bardzo dobrze. Odstąp na stronę. Przez Boga żywego, to zmowa wyraźna. Czy zapisałeś, że nie są nimi wcale?
+
+
+ZAKRYSTIAN
+
+Panie poruczniku, złą wziąłeś drogę do indagacji; należy powołać straż, która ich oskarża.
+
+
+CIARKA
+
+Na uczciwość, to najkrótsza droga. Zawołać straż. Mości panowie, wzywam was w imieniu księcia, abyście ludzi tych oskarżyli.
+
+
+PIERWSZY STRAŻNIK
+
+Człowiek ten powiedział, panie poruczniku, że Don Juan, brat książęcy, jest łotrem.
+
+
+CIARKA
+
+Zapisz: książę Don Juan, łotr. Kto zaprzeczy, że to jasne jak dzień krzywoprzysięstwo nazywać łotrem brata książęcego?
+
+
+BORACHIO
+
+Panie poruczniku…
+
+
+CIARKA
+
+Mopanku, milcz, jeśli łaska. Nie podoba mi się twoja mina, możesz mi wierzyć.
+
+
+ZAKRYSTIAN
+
+Co słyszałeś więcej?
+
+
+DRUGI STRAŻNIK
+
+Słyszałem, że dostał tysiąc dukatów od Don Juana, aby fałszywie oskarżyć panią Hero.
+
+
+CIARKA
+
+To wyraźny rozbój, jakiego jeszcze nigdy nie widziano.
+
+
+KWASEK
+
+To rozbój, na honor.
+
+
+ZAKRYSTIAN
+
+Co więcej?
+
+
+PIERWSZY STRAŻNIK
+
+Że hrabia Klaudio na jego zaręczenie postanowił zbezcześcić Hero w przytomności całego zgromadzenia i nie pojąć jej za żonę.
+
+
+CIARKA
+
+O łotrze! Skazany będziesz za to na wieczne zbawienie.
+
+
+ZAKRYSTIAN
+
+Co jeszcze?
+
+
+DRUGI STRAŻNIK
+
+Nic więcej.
+
+
+ZAKRYSTIAN
+
+A to jest więcej, niż możecie zaprzeczyć. Tej nocy książę Don Juan opuścił miasto ukradkiem; Hero w ten właśnie sposób była oskarżona, w ten właśnie sposób odrzucona, a z boleści nagle umarła. Panie poruczniku, każ tych ludzi związać i poprowadzić do Leonata, ja ich tymczasem poprzedzę, aby mu naszą indagację pokazać.
+
+/ Wychodzi. /
+
+
+KWASEK
+
+Dalej, okuć ich w dyby.
+
+
+KONRAD
+
+Precz stąd, kapcany!
+
+
+CIARKA
+
+Boże nieśmiertelny, gdzie zakrystian? Niech zapisze, że książęcy urzędnik jest kapcan. Żwawo, w kij ich wsadzić. A ty, hultaju!
+
+
+KONRAD
+
+Precz mi! Co za osioł! Co za osioł!
+
+
+CIARKA
+
+Czy ty nie domyślasz się mojej godności? Czy ty nie domyślasz się mojego wieku? O, czemu go tu nie ma! Czemu go tu nie ma, żeby zapisał, żem osioł! Wy przynajmniej, mości panowie, nie zapomnijcie, żem osioł; choć rzecz niezapisana, pamiętajcie, żem osioł. Ty zaś, hultaju, pobożna z ciebie sztuka, jak ci tego dobrzy świadkowie dowiodą. Dzięki Bogu, nie jestem głupi; co większa, jestem urzędnik; co większa, jestem posesjonat; co większa, jestem sztuka mięsa, jakiej w całej Mesynie nie znajdziesz, a prócz tego znam prawo, bądź spokojny; a prócz tego nie jestem bez grosza, bądź spokojny; choć poniosłem pewne straty, mam jeszcze dwa płaszcze i niemało pięknych rzeczy mam na mojej osobie. Wyprowadzić go! O, gdyby był zapisał, żem osioł!
+
+/ Wychodzą. /
+
+
+
+
+AKT PIĄTY
+
+
+
+SCENA PIERWSZA
+
+/ Przed domem Leonata. /
+
+/ Leonato, Antonio. /
+
+
+ANTONIO
+
+Twoją rozpaczą sam siebie zabijasz.
+Nie jest to mądrość w pomoc smutkom śpieszyć
+Na zgubę własną.
+
+
+LEONATO
+
+                        Skróć twoje nauki,
+Bo do mych uszu tak wpadają marnie,
+Jak marnie sitem czerpać będziesz wodę.
+Niech mi pociechy próżnych słów nie prawi
+Ten, który nie znał mym równych boleści.
+Przyprowadź ojca, który jak ja kochał
+I jak ja stracił ukochane dziecię,
+I radź mu, niech mnie cierpliwości uczy.
+Mierz jego boleść boleści mej miarą,
+Każde westchnienie niech westchnieniem spłaci,
+Każdy rys, formę, każdy kształt cierpienia
+Niechaj mi równym cierpieniem odmierzy;
+Gdy on z uśmiechem głaskać będzie brodę,
+Potrafi smutek wygnać z mego domu,
+A rany serca przysłowiami leczyć,
+Upajać duszę mędrków kazaniami,
+O, niechaj taki ojciec do mnie przyjdzie,
+A cierpliwości od niego pożyczę.
+Lecz człowiek taki nie żyje na ziemi;
+Bo ludzie radzą, pocieszają smutki,
+Których nie czuli: gdy ich pokosztują,
+Głęboka mądrość, co tylko przed chwilą
+Uczone leki pisała wściekliźnie,
+Jedwabną nitką wiązała szaleństwo,
+Boleść powietrzem, konanie słowami
+Czarować chciała, zmienia się w namiętność.
+Każdy z nas gotów cierpliwość zalecać
+Braciom mdlejącym pod smutków brzemieniem,
+Lecz żaden nie ma dość cnoty i siły,
+Aby naukę swą przykładem stwierdził,
+Gdy sam poczuje przeciwności kolce.
+Przestań więc radzić, bo krzyk mej boleści
+Nad twoje wszystkie głośniejszy nauki.
+
+
+ANTONIO
+
+Więc mąż od dziecka niczym się nie różni.
+
+
+LEONATO
+
+Dozwól mi, proszę, być krwią i być ciałem.
+Jeszcze nie było mędrca na tej ziemi,
+Co by cierpliwie ból zębów wytrzymał,
+Choć w księgach stylem pisanych anielskim
+Rozdawał szczutki fortunie i nędzy.
+
+
+ANTONIO
+
+To choć sam siebie nie karz za ten smutek.
+I sprawcy jego niechaj cierpią także.
+
+
+LEONATO
+
+Teraz przynajmniej mądrą dajesz radę,
+Dusza mi mówi, że to była potwarz;
+O tym się Klaudio, o tym książę dowie
+I wszyscy, co me zniesławili dziecię.
+
+/ Wchodzą Don Pedro i Klaudio. /
+
+
+ANTONIO
+
+Książę i Klaudio z pośpiechem nadchodzą.
+
+
+DON PEDRO
+
+Dzień dobry.
+
+
+KLAUDIO
+
+                        Obu dzień dobry, panowie.
+
+
+LEONATO
+
+Słuchajcie, proszę…
+
+
+DON PEDRO
+
+                        Bardzo jest nam śpieszno.
+
+
+LEONATO
+
+Śpieszno wam bardzo? A więc Pan Bóg z wami.
+Śpieszno wam teraz? Dobrze, mniejsza o to.
+
+
+DON PEDRO
+
+Nie swarz się z nami, starcze siwobrody.
+
+
+ANTONIO
+
+Gdyby mógł krzywdy powetować swarem,
+Padłby niejeden z nas, ażeby nie wstać.
+
+
+KLAUDIO
+
+Kto go pokrzywdził?
+
+
+LEONATO
+
+                        Ty mnie pokrzywdziłeś,
+Ty, obłudniku, ty mnie pokrzywdziłeś.
+Daremnie kładziesz rękę na rękojeść,
+Nie ja się zlęknę.
+
+
+KLAUDIO
+
+                        Niech mi uschnie ręka,
+Gdybym w twym wieku tak cię zechciał straszyć.
+Wierzaj, o mieczu nie myślała ręka.
+
+
+LEONATO
+
+Hola! Skończ twoje szyderstwa i żarty.
+Nie jestem jeszcze starym niedołęgą,
+Co się zasłania wieku swego tarczą,
+Junaczy z tego, co w młodości robił,
+Co by dziś zrobił, gdyby nie był stary.
+Słuchaj mnie, hrabio, słuchaj, na twą głowę;
+Tak mnie, me dziecię niewinne skrzywdziłeś,
+Że wieku muszę powagę odrzucić
+I siwogłowy, latami stargany
+W szranki cię wołam, na próbę oręża.
+Kłamstwem niewinną spotwarzyłeś córkę,
+Jak miecz twa potwarz serce jej przeszyła;
+Śpi teraz w grobie przodków swych złożona,
+W którym nie spała nigdy, nigdy hańba
+Prócz hańby, którą wniosła tam twa podłość.
+
+
+KLAUDIO
+
+Ma podłość?
+
+
+LEONATO
+
+                        Twoja, tak jest, podłość twoja.
+
+
+DON PEDRO
+
+Mylisz się, starcze.
+
+
+LEONATO
+
+                        Ja tę prawdę stwierdzę
+Na sercu jego, byle w szranki stanął,
+Pomimo jego ćwiczonej szermierki,
+Kwiatu młodości i wiosny sił męskich.
+
+
+KLAUDIO
+
+Mierzyć się z tobą nie chcę i nie pragnę.
+
+
+LEONATO
+
+Nie, nie potrafisz słowem mnie odprawić.
+Słuchaj, dzieciuchu, zabiłeś mi córkę,
+Gdy mnie zabijesz, to zabijesz męża.
+
+
+ANTONIO
+
+Dwóch nas zabije, dwóch zabije mężów;
+Lecz nie, niech wprzódy jednego zabije;
+Niech wprzódy dzieciuch ze mną się obliczy.
+Dalej, dzieciuchu, idź ze mną, zobaczym.
+Rózgą wychłostam mądrą twą szermierkę,
+Rózgą, szlacheckie daję na to słowo.
+
+
+LEONATO
+
+Bracie…
+
+
+ANTONIO
+
+                        Daj pokój. Świadkiem mi Bóg w niebie,
+Żem z duszy kochał moją synowicę:
+Dziewkę zabiła potwarz nikczemników,
+Co dziś tak chętni z mężem się obliczyć,
+Jak ja za język chętny żmiję chwytać.
+Bębny, junaki, małpy, zapiecniki.
+
+
+LEONATO
+
+Bracie Antonio…
+
+
+ANTONIO
+
+                        Nie troszcz się daremnie,
+Zostaw mnie tylko. Znam ja tych paniczów
+I wiem, co ważą, do jednego grama.
+Głośni krzykacze, bezczelni modnisie,
+Kłamcy, zwodnicy, schlebcy i potwarcy,
+Strojne rarogi z zawiesistą miną,
+Z groźnych słów całym półtuzinem w gębie,
+W jaki by sposób osaczyli wroga,
+Gdyby się ważył — a i na tym koniec.
+
+
+LEONATO
+
+Bracie Antonio…
+
+
+ANTONIO
+
+                        To jest moja sprawa,
+Daj mi ją skończyć, nie mieszaj się do niej.
+
+
+DON PEDRO
+
+Nie chcemy waszej cierpliwości kusić.
+Boleję z serca nad córki twej śmiercią,
+Ale, na honor, nasze oskarżenia
+Są tylko prawdą dowodami wspartą.
+
+
+LEONATO
+
+Książę, mój książę…
+
+
+DON PEDRO
+
+                        Nie, nie chcę cię słuchać.
+
+
+LEONATO
+
+Nie? Idźmy, bracie! On musi mnie słuchać.
+
+
+ANTONIO
+
+Lub z nas niejeden pożałuje tego.
+
+/ Wychodzą Antonio i Leonato. Wchodzi Benedyk. /
+
+
+DON PEDRO
+
+Patrz, właśnie nadchodzi ten, którego szukamy.
+
+
+KLAUDIO
+
+Witamy, co za nowiny?
+
+
+BENEDYK
+
+Dzień dobry, mój książę.
+
+
+DON PEDRO
+
+Witaj, Benedyku. Przyszedłeś prawie w porę, żeby bójce przeszkodzić.
+
+
+KLAUDIO
+
+Niewiele brakowało, żeby nam ugryźli nosy dwaj starcy bez zębów.
+
+
+DON PEDRO
+
+Leonato i brat jego. Jak ci się zdaje? Gdyby przyszło do rozprawy, nie wiem, czybyśmy byli dla nich za młodzi.
+
+
+BENEDYK
+
+W złej sprawie nie ma uczciwego męstwa. Szukałem was obu.
+
+
+KLAUDIO
+
+A my zbiegliśmy za tobą całe miasto, bo nas obsiadła czarna melancholia, a chcielibyśmy ją wypędzić. Czy zechcesz użyć na to twojego dowcipu?
+
+
+BENEDYK
+
+Mój dowcip w mojej jest pochwie; mamże go dobyć?
+
+
+DON PEDRO
+
+Jak to, swój dowcip nosisz przy boku?
+
+
+KLAUDIO
+
+Tego jeszcze nie widziałem, choć znam wielu, których dowcip trzymał na boku. Więc dobądź, ale jak poeta, co masz najostrzejszego.
+
+
+DON PEDRO
+
+Na uczciwość, on blady jak chusta! Co ci jest? Czyś chory, czy zagniewany?
+
+
+KLAUDIO
+
+Człowieku, nie trać odwagi! Bo choć smutek zabił kota, ty masz dość w sobie ducha, żeby zabić smutek.
+
+
+BENEDYK
+
+Dowcip twój, panie, zatrzymam w szrankach, jeśli chcesz gonić ze mną na ostre. Proszę was, mówmy o czym innym.
+
+
+KLAUDIO
+
+Daj mu więc nową kopię, bo pierwsza się strzaskała.
+
+
+DON PEDRO
+
+Na to światło dzienne, coraz bledszy, zdaje mi się, że się gniewa naprawdę.
+
+
+KLAUDIO
+
+Jeśli tak jest, toć przecie wie, jak pas obrócić.
+
+
+BENEDYK
+
+Czy pozwolisz mi powiedzieć ci słowo do ucha?
+
+
+KLAUDIO
+
+Uchowaj mnie Boże od wyzwania!
+
+
+BENEDYK
+
+Jesteś nikczemnik — mówię bez żartu — i tego, co mówię, dowiodę, jak chcesz, na co chcesz i kiedy chcesz. Daj mi satysfakcję albo cię przed światem za tchórza ogłoszę. Zabiłeś słodkie dziewczę, a śmierć jej na głowę twoją spadnie. Czekam na odpowiedź.
+
+
+KLAUDIO
+
+Bardzo dobrze; przyjmuję wyzwanie, a rachuję na dobrą ucztę.
+
+
+DON PEDRO
+
+Co, bankiet, bankiet?
+
+
+KLAUDIO
+
+Wspaniały. Dziękuję mu z całego serca, że mnie zaprosił na cielęcą głowę i kapłona; jeśli tego kapłona nie rozbiorę jak należy, powiedz, że mój nóż niewart szeląga. Czy przypadkiem nie znajdę tam i dudka?
+
+
+BENEDYK
+
+Dowcip twój dobrze kłusuje, może ci się przyda do biegu.
+
+
+DON PEDRO
+
+A ja ci powtórzę, jak niedawnymi czasy Beatryks twój dowcip zachwalała. Powiedziałem jej, że masz dowcip delikatny. — „Prawda — odrzekła — delikatny i malutki”. „Nie — zawołałem — wielki dowcip!” „To prawda — mówi ona — ogromne, ciężkie dowcipisko”. „Nie, nie — krzyknąłem — dobry dowcip!” „Nie przeczę — odpowiada — nie pokrzywdzi nikogo”. „A przy tym, pan to mądry” — powiedziałem. „A przede wszystkim roztropny” — odpowiedziała. „Prócz tego posiada języki” — mówię. „O tym nie wątpię wcale — wykrzyknęła — bo przysięgę daną mi w poniedziałek wieczór odprzysiągł we wtorek rano; naturalnie, posiada przynajmniej dwa języki”. I tak przez całą godzinę przekrzywiała twoje przymioty, aż na koniec skonkludowała westchnieniem: że nie ma milszego nad ciebie człowieka w całych Włoszech.
+
+
+KLAUDIO
+
+Po czym rozpłakała się serdecznie i dodała: „Ale to mi wszystko jedno”.
+
+
+DON PEDRO
+
+To prawda, a prócz tego wyznała, że gdyby go nie nienawidziła śmiertelnie, toby go kochać musiała szalenie. Wszystko to słyszeliśmy z ust córki starego Leonata.
+
+
+KLAUDIO
+
+Wszystko, wszystko, a w dodatku jeszcze Bóg go widział, gdy skrył się w ogrodzie.
+
+
+DON PEDRO
+
+Ale kiedyż to wsadzimy rogi dzikiego byka na czułą głowę Benedyka?
+
+
+KLAUDIO
+
+I wypiszemy wielkimi literami na dole: „Tu mieszka żonaty Benedyk”?
+
+
+BENEDYK
+
+Do zobaczenia, dzieciuchu. Znasz moje myśli. Zostawiam cię teraz twojemu świergotliwemu humorowi. Dowcip twój, na szczęście, jak szabla junaka śwista, lecz nie rani. Mości książę, dziękuję ci za wszelką okazaną mi dobroć; ale od tej chwili muszę się pozbawić zaszczytu twojego towarzystwa. Brat twój bękart uciekł z Mesyny; zabiliście do spółki słodkie i niewinne dziewczę. Co zaś do tego pana Bezbrodnickiego, mam nadzieję spotkać się z nim jeszcze, a pokój z nim aż do tej pory.
+
+/ Wychodzi. /
+
+
+DON PEDRO
+
+To nie są żarty.
+
+
+KLAUDIO
+
+To wszystko bardzo serio, a jestem przekonany — z miłości dla Beatryksy.
+
+
+DON PEDRO
+
+Wyzwał cię na rękę?
+
+
+KLAUDIO
+
+Nie ma wątpliwości.
+
+
+DON PEDRO
+
+Jak dziwnie wygląda człowiek, który nosi kamizelkę i spodnie, a rozum utracił.
+
+
+KLAUDIO
+
+To olbrzym przy małpie, choć małpa przy nim doktorem.
+
+
+DON PEDRO
+
+Lecz cicho! Wnijdź w siebie i zasmuć się, duszo moja! Czy nie powiedział nam, że brat mój uciekł z Mesyny?
+
+/ Wchodzą Ciarka, Kwasek, Konrad i Borachio pod strażą. /
+
+
+CIARKA
+
+Zbliż się tu, mopanku; jeśli sprawiedliwość ugłaskać cię nie potrafi, to nie będzie dłużej ważyć słuszności na swoich szalach; a gdy raz ci dowiodę, że jesteś przeklętym obłudnikiem, to na przyszłość będziem mieli oko na ciebie.
+
+
+DON PEDRO
+
+Co to znaczy? Dwaj dworzanie mojego brata w kajdanach? Jeden z nich Borachio?
+
+
+KLAUDIO
+
+Słuchajmy oskarżenia, mój książę.
+
+
+DON PEDRO
+
+Jakiej dopuścili się winy ci dwaj oskarżeni?
+
+
+CIARKA
+
+Jakiej winy, mości książę? Dali fałszywe świadectwo; prócz tego rozgłosili kłamstwa; po wtóre, są potwarcami; po szóste i ostatnie, fałszywie oskarżyli niewinną damę; po trzecie, sprawdzili, co było niesprawiedliwe, a na koniec, są to łgarze i hultaje.
+
+
+DON PEDRO
+
+Pytam się ciebie naprzód, co zrobili; po trzecie, pytam cię, jaka ich wina; po szóste i ostatnie, za co byli przyaresztowani, a na koniec, co im zarzucasz?
+
+
+KLAUDIO
+
+Głębokie rozumowania wedle jego własnego podziału. Kto zaprzeczy, że pytanie dobrze położone?
+
+
+DON PEDRO
+
+Kogoście pokrzywdzili, mości panowie, że was tak związanych przyprowadzono? Uczony ten porucznik za wiele ma dowcipu, aby go można zrozumieć. Jaka wasza wina?
+
+
+BORACHIO
+
+Drogi mój książę, nie odsyłaj mnie do dalszej indagacji, lecz sam mnie wysłuchaj, a potem niech ten hrabia mnie zabije. Oszukałem własne wasze oczy. Czego mądrość wasza odkryć nie umiała, to puste głowy tych dudków wyprowadziły na światło, podsłuchując, co temu tu człowiekowi wyznałem, jak brat twój, Don Juan, poduszczył mnie do spotwarzania pani Hero; jak sprowadzeni do ogrodu byliście świadkami moich umizgów z Małgorzatą za Hero przebraną; jak zniesławialiście ją w chwili, w której hrabia pojąć ją miał za żonę. Cała nikczemność moja stoi zapisana w ich wywodzie, który wolę raczej śmiercią przypieczętować niż raz jeszcze powtórzyć na moją hańbę. Młoda pani umarła, fałszywie oskarżona przeze mnie i przez mojego pana; kończąc, żądam zapłaty mojej nikczemności należnej.
+
+
+DON PEDRO
+
+Czy w krwi twej słów tych jak stali nie czułeś?
+
+
+KLAUDIO
+
+Piłem truciznę, słuchając powieści.
+
+
+DON PEDRO
+
+I sprawy całej brat mój podżegaczem?
+
+
+BORACHIO
+
+Za wykonanie drogo mi zapłacił.
+
+
+DON PEDRO
+
+On cały tylko ze zdrad ulepiony
+I uciekł, kiedy swej dokonał zbrodni.
+
+
+KLAUDIO
+
+O słodka Hero, znów obraz twój widzę,
+W całym uroku, który tak kochałem!
+
+
+CIARKA
+
+Dalej, w drogę, wyprowadzić powodów. Pod tę porę nasz zakrystian reformował już pana Leonata o całej sprawie, a wy, mości panowie, wyspecyfikujecie w swoim czasie i miejscu, że jestem osioł.
+
+
+KWASEK
+
+Właśnie nadchodzi Leonato i nasz zakrystian.
+
+/ Wchodzą Leonato, Antonio i Zakrystian. /
+
+
+LEONATO
+
+Gdzie łotr ten? Niech mu dobrze w oczy zajrzę,
+Bym później, gdy mu podobnego spotkam,
+Ustąpił z drogi. Który z nich tym łotrem?
+
+
+BORACHIO
+
+Chcesz poznać twego krzywdziciela? Spojrzyj.
+
+
+LEONATO
+
+To ty, ty podlcze, zabiłeś oddechem
+Moje niewinne dziecię?
+
+
+BORACHIO
+
+                        Ja, ja jeden.
+
+
+LEONATO
+
+Nie, nikczemniku, szkalujesz sam siebie:
+Tu stoi para dostojnych magnatów,
+A trzeci uciekł, oni ci pomogli.
+Za śmierć mej córki dzięki wam, książęta!
+Wpiszcie ją między świetne wasze czyny,
+Boście ją mężnie spełnili, nieprawda?
+
+
+KLAUDIO
+
+Nie wiem, jak błagać twojej cierpliwości,
+Lecz mówić muszę: ty sam wybierz pomstę,
+Na grzech mój naznacz, jaką chcesz, pokutę,
+Chociaż zgrzeszyłem tylko przez omyłkę.
+
+
+DON PEDRO
+
+Jak ja; jednakże ażeby starcowi
+Dać dostateczne zadośćuczynienie,
+Pod każdy ciężar chętnie ugnę szyję,
+Który mi zechce włożyć na pokutę.
+
+
+LEONATO
+
+Nie mogę żądać rzeczy niepodobnej,
+Żebyście z grobu córkę mą wskrzesili;
+Lecz niech przynajmniej cały lud w Mesynie
+Wie, jak niewinnie dziecię me umarło.
+Jeśli was boleść natchnie smutną pieśnią,
+Idźcie tej nocy przy grobie jej przodków,
+Idźcie ją nucić kościom jej niewinnym.
+Do mego domu przyjdźcie jutro rano.
+A ty, gdy moim zięciem być nie możesz,
+Bądź choć synowcem, bo mój brat ma córkę,
+Mojej umarłej żywy prawie obraz;
+To dzisiaj nasza jedyna dziedziczka,
+Na nią kuzynki wszystkie przenieś prawa,
+A moja zemsta umrze.
+
+
+KLAUDIO
+
+                        Dobry panie,
+Szlachetność twoja łzy mi z ócz wyciska!
+Twoją ofiarę przyjmuję, a odtąd
+Biednego Klaudia rozrządzaj losami.
+
+
+LEONATO
+
+Więc jutro czekam na wasze przybycie,
+Teraz was żegnam. Tego zaś tu łotra
+I Małgorzatę stawim oko w oko,
+Przypuszczam bowiem, że brat twój pieniędzmi
+Ją także wciągnął do tej czarnej zbrodni.
+
+
+BORACHIO
+
+Nie, na mą duszę, ona jest niewinna;
+Co robi, mówiąc ze mną, nie wiedziała;
+Nie, ona nigdy w czynach swoich wszystkich
+Nie zeszła z drogi cnoty i honoru.
+
+
+CIARKA
+
+Prócz tego, mości książę (choć to nie jest jeszcze czarno na białym), ten tu powód, winowajca, nazwał mnie osłem, błagam cię, panie, niech to będzie zapisane w jego wyroku. Straż słyszała także o pewnym Maszkarze, który nosi klucz i kłódkę w każdym uchu, pożycza pieniędzy w imię boże, a że do tego od dawna już przywykł pożyczać, a pożyczonych pieniędzy nigdy nie oddaje, ludzkie serca twardnieć zaczynają i nikt już nic pożyczyć nie chce dla miłości bożej. Racz, łaskawy panie, indagować go co do tego punktu.
+
+
+LEONATO
+
+Dziękuję ci za twoje starania i uczciwą gorliwość.
+
+
+CIARKA
+
+Wasza łaskawość mówi jak najwdzięczniejszy i najszanowniejszy młodzieniaszek, ja też Boga za was chwalę.
+
+
+LEONATO
+
+Przyjmij to za twoją fatygę.
+
+
+CIARKA
+
+Boże, zachowaj fundację!
+
+
+LEONATO
+
+A teraz odejdź w pokoju. Daję ci pokwitowanie z twojego więźnia i raz jeszcze dziękuję ci.
+
+
+CIARKA
+
+Zostawiam wierutnego łotra z waszą dostojnością, któremu, dla przykładu, błagam, aby wasza dostojność dała sobie dobrą chłostę, Boże zachowaj waszą dostojność; życzę waszej dostojności wszystkiego dobrego; Bóg wróć wam zdrowie; daję wam pokorne pozwolenie odejścia, a jeśli mamy sobie życzyć nowego wesołego spotkania, nie daj tego Boże. Sąsiedzie, w drogę.
+
+/ Wychodzą Ciarka, Kwasek i straż. /
+
+
+LEONATO
+
+Żegnam was teraz aż do jutra rana.
+
+
+ANTONIO
+
+Czekamy jutro na wasze przybycie.
+
+
+DON PEDRO
+
+Nie chybim.
+
+
+KLAUDIO
+
+                        Teraz idę Hero płakać.
+
+/ Wychodzą Don Pedro i Klaudio. /
+
+
+LEONATO
+
+/ do straży /
+
+Precz z tymi ludźmi. Spytam Małgorzatę,
+Skąd jej znajomość z takim rozpustnikiem.
+
+/ Wychodzą. /
+
+
+
+SCENA DRUGA
+
+/ Ogród Leonata. /
+
+/ Benedyk i Małgorzata spotykają się, wchodząc. /
+
+
+BENEDYK
+
+Proszę cię, kochana panno Małgorzato, oddaj mi wielką usługę, żebym mógł mieć chwilę rozmowy z Beatryksą.
+
+
+MAŁGORZATA
+
+A czy za to napiszesz sonet na pochwałę mojej piękności?
+
+
+BENEDYK
+
+Stylem tak szczytnym, Małgorzato, że nikt się do niego nie zbliży, bo zasługujesz na to bez wątpienia.
+
+
+MAŁGORZATA
+
+Że nikt się do mnie nie zbliży? Mamże na zawsze siedzieć pod schodami?
+
+
+BENEDYK
+
+Dowcip twój tak ostry jak trąba charta — kąsa!
+
+
+MAŁGORZATA
+
+A twój tak tępy jak oręż fechtmistrza; choć trąci, nie zrani.
+
+
+BENEDYK
+
+Dowcip prawdziwie męski, Małgorzato, nie chcę krzywdzić kobiety; proszę cię więc, zawołaj Beatryksę, uznaję się za zwyciężonego; oddaję ci tarczę.
+
+
+MAŁGORZATA
+
+Raczej miecz nam oddaj, bo mamy własne tarcze.
+
+
+BENEDYK
+
+Jeśli będziesz chciała użyć mojego miecza, nie zapomnij końca ująć w kleszcze, bo to niebezpieczna broń dla dziewczyn.
+
+
+MAŁGORZATA
+
+Dobrze, dobrze. Zawołam teraz Beatryks, która ma nogi, jak myślę.
+
+
+BENEDYK
+
+Więc przyjdzie.
+
+/ Wychodzi Małgorzata. /
+
+
+BENEDYK
+
+/ śpiewa /
+
+Boże miłości,
+Co w niebie gości
+I zna mnie, zna mnie,
+Zna me żałości…
+
+Rozumie się w śpiewie, bo w kochaniu — Leander, dobry pływak, Troilus, pierwszy wynalazca rajfurów, i cały katalog tych quondam kanapkowych bohaterów, których nazwiska toczą się harmonijnie po równej drodze nierymowanych wierszy, nigdy nie byli tak turbowani w miłości jak ja niefortunny. Na moje nieszczęście, nie mogę tego w rymach wypowiedzieć, próbowałem, nie mogłem znaleźć rymu do „panna” jak „sanna”, rym za zimny; do „kobieta” jak „kopyta”, rym za twardy; do „szkoły” jak „woły”, rym za niegrzeczny; a wszystko złowróżbne rymy. Nie, nie rodziłem się pod poetyczną gwiazdą, i nie mogę stroić koperczaków w języku bogów.
+
+/ Wchodzi Beatryks. /
+
+Słodka Beatryks, raczyłaś więc przyjść na moją prośbę?
+
+
+BEATRYKS
+
+Tak jest, signor, i raczę odejść na twoje żądanie.
+
+
+BENEDYK
+
+O, więc zostań, póki nie zażądam.
+
+
+BEATRYKS
+
+A tymczasem, bądź mi zdrów! Lecz nim odejdę, niech się dowiem nowiny, po którą przyszłam: co zaszło, signor, między tobą a Klaudiem?
+
+
+BENEDYK
+
+Tylko cierpkie słowa, za które winnaś mi pocałunek.
+
+
+BEATRYKS
+
+Cierpkie słowa to wiatr tylko cierpki, a cierpki wiatr to oddech tylko cierpki, a cierpki oddech jest niezdrowy, odejdę więc bez pocałunku!
+
+
+BENEDYK
+
+Twój dowcip tak zapalczywy, że wyrazom sens wydziera. Powiem ci więc po prostu, że Klaudio przyjął wyzwanie i niedługo zapewne da znać o sobie; inaczej ogłoszę go przed światem za tchórza. A teraz, powiedz mi, proszę, dla której z moich przywar zakochałaś się we mnie?
+
+
+BEATRYKS
+
+Dla wszystkich razem. One tak dobrze zły rząd ustroiły, że się tam jedna uczciwa myśl wcisnąć nie potrafi. A ty, dla którego z moich przymiotów zacząłeś naprzód cierpieć dla mnie miłość?
+
+
+BENEDYK
+
+Cierpieć miłość? Doskonałe wyrażenie. Cierpię miłość, to prawda, bo kocham cię na przekór mojej woli.
+
+
+BEATRYKS
+
+Na przekór twojemu sercu, myślę. Ach, biedne serce! Jeśli przez miłość dla mnie robisz mu wszystko na przekór, to ja z mej strony przez miłość dla ciebie muszę mu także czynić na przekór; bo nie chcę kochać, czego mój przyjaciel nienawidzi.
+
+
+BENEDYK
+
+Zanadtośmy mądrzy oboje, aby nasze zaloty szły spokojnie.
+
+
+BEATRYKS
+
+Nie dowodzi tego wyznanie: nie ma jednego na dwudziestu mądrych, który by chwalił sam siebie.
+
+
+BENEDYK
+
+Stare to przysłowie, stare przysłowie, Beatryks, które żyło za czasów dobrych sąsiadów. Dziś pamięć tego, który sam sobie przed śmiercią grobowca nie wybuduje, nie będzie żyć dłużej niż odgłos dzwonów pogrzebnych i łzy jego wdowy.
+
+
+BEATRYKS
+
+A te jak długo trwają, twoim zdaniem?
+
+
+BENEDYK
+
+Jak długo? Godzinę krzyku, a kwadrans szlochania. Najkorzystniej więc dla mądrego (byle Don Robak, Sumienie, nie stanął na przeszkodzie) jest być trąbą własnej chwały, jak ja jestem mojej. Tyle na wytłumaczenie pochwał danych własnej osobie, która, mogę sam sobie dać to świadectwo, na pochwały te zasługuje. A teraz, powiedz mi, proszę, jak się ma twoja kuzynka?
+
+
+BEATRYKS
+
+Źle bardzo.
+
+
+BENEDYK
+
+A ty sama?
+
+
+BEATRYKS
+
+Także źle bardzo.
+
+
+BENEDYK
+
+Chwal więc Boga, kochaj mnie, a popraw się. Teraz żegnam cię, bo ktoś się zbliża z pośpiechem.
+
+/ Wchodzi Urszula. /
+
+
+URSZULA
+
+Śpiesz się, pani, do wuja! Co za harmider w pałacu! Dowiedzioną jest rzeczą, że Hero fałszywie była oskarżona; że książę i Klaudio byli niegodziwie oszukani, że sprawcą wszystkiego jest Don Juan, który uciekł i przepadł. Czy chcesz pani iść natychmiast?
+
+
+BEATRYKS
+
+A ty, signor, czy nie chcesz przysłuchać się tym nowinom?
+
+
+BENEDYK
+
+Ja chcę żyć w twoim sercu, umrzeć na twoim łonie, być pogrzebanym w twoich oczach, prócz tego chcę pójść z tobą do twego wuja.
+
+/ Wychodzą. /
+
+
+
+SCENA TRZECIA
+
+/ Wnętrze kościoła. /
+
+/ Don Pedro, Klaudio, służba z muzyką i pochodniami. /
+
+
+KLAUDIO
+
+Czy to jest grób rodziny Leonatów?
+
+
+SŁUGA
+
+Tak jest, panie.
+
+
+KLAUDIO
+
+/ czyta /
+
+Potwarzy zębem srogo zabita,
+    Hero w tym grobie usnęła;
+Cześć nieśmiertelna z hańby wykwita,
+    Co ją za życia dotknęła.
+A tak jej życie hańbą przecięte
+Żyje po śmierci czyste i święte.
+
+/ Zawiesza napis. /
+
+Bądź mego żalu świadkiem u ludzi,
+Gdy moje usta śmierć już ostudzi.
+
+A teraz, zabrzmij, muzyko; zanućcie hymn uroczysty.
+
+*PIEŚŃ*
+
+Przebacz zabójcom, nocy bogini,
+Kapłanki twej w życia wiośnie;
+Patrz, na znak żalu w głuchej świątyni
+Zawodzą treny żałośnie.
+Ciemna nocy, na te groby
+Rzuć swój czarny płaszcz żałoby
+I płacz z nami na nasz los,
+Aż się kamień znów odwali,
+Wstaną ci, co w grobach spali,
+    Na potężny z nieba głos.
+
+
+KLAUDIO
+
+Śpij teraz słodko! A ja, droga pani,
+Co rok ci moje łzy przyniosę w dani.
+
+
+DON PEDRO
+
+Zgaście pochodnie! Już wilków gromady
+Wracają syte na swe legowiska,
+Bo już przed słońca wozem dzionek blady
+Po śpiącym niebie cętki szare ciska.
+Żegnam was teraz, bywajcie mi zdrowi!
+
+
+KLAUDIO
+
+Niech teraz każdy śpieszy ku domowi.
+
+
+DON PEDRO
+
+I my odejdźmy, czarne złóżmy szaty,
+Do Leonata pośpieszmy komnaty.
+
+
+KLAUDIO
+
+Niech nowy związek słodsze da nam chwile
+Niż ten, co westchnień kosztował nas tyle!
+
+/ Wychodzą. /
+
+
+
+SCENA CZWARTA
+
+/ Pokój w domu Leonata. /
+
+/ Leonato, Antonio, Benedyk, Beatryks, Hero, Urszula, Mnich. /
+
+
+MNICH
+
+Czy nie mówiłem, że była niewinna?
+
+
+LEONATO
+
+Jak są niewinni i hrabia, i książę;
+Zanieśli skargę zdradą oszukani.
+Lecz Małgorzata nie jest tu bez winy,
+Choć jej zeznanie jasno przekonywa,
+Że mimo woli przeciw nam zgrzeszyła.
+
+
+ANTONIO
+
+Rad jestem, że się wszystko tak skończyło.
+
+
+BENEDYK
+
+Jak ja; inaczej, słowu memu wierny,
+Musiałbym żądać rachunku od Klaudia.
+
+
+LEONATO
+
+A teraz, córko, i wy, moje panie,
+Odejdźcie razem do jednej komnaty,
+A na wezwanie wróćcie maskowane.
+Książę i Klaudio lada chwila przyjdą.
+Wiesz, bracie, jaka dzisiaj twoja rola:
+Masz dziś być ojcem córki twego brata,
+Młodemu hrabi oddać masz jej rękę.
+
+/ Panie wychodzą. /
+
+
+ANTONIO
+
+Co z uroczystą dokonam powagą.
+
+
+BENEDYK
+
+/ do Mnicha /
+
+I mnie potrzebna będzie twoja pomoc.
+
+
+MNICH
+
+Do czego, panie?
+
+
+BENEDYK
+
+                        Nie wiem jeszcze dobrze;
+Żeby mnie związać, a może rozwiązać.
+
+/ do Leonata /
+
+Wyznaję, panie, twoja synowica
+Raczy łaskawym patrzeć na mnie okiem.
+
+
+LEONATO
+
+Wiem o tym dobrze, moja bowiem córka
+Na to jej swoich pożyczyła oczu.
+
+
+BENEDYK
+
+Jam też miłosnym odpowiedział okiem.
+
+
+LEONATO
+
+Które, jak sądzę, dostałeś ode mnie,
+Księcia i Klaudia. Lecz jaka twa wola?
+
+
+BENEDYK
+
+Twych słów część jedna jest dla mnie zagadką.
+Co do mej woli, moją więc jest wolą,
+Jeśli z twą dobrą wolą to się zgadza,
+W święty małżeński wstąpić dzisiaj związek
+Przy twojej dobrej, braciszku, pomocy.
+
+
+LEONATO
+
+Po twojej woli serce się me skłania.
+
+
+MNICH
+
+A ja pomocy mojej nie odmawiam,
+Ale już książę i Klaudio nadchodzą.
+
+/ Wchodzą Don Pedro, Klaudio, służba. /
+
+
+DON PEDRO
+
+Wszystkim przytomnym moje pozdrowienie.
+
+
+LEONATO
+
+Dzień dobry, książę! Dzień dobry ci, hrabio!
+Czekamy na was. Czy trwasz w przedsięwzięciu
+Córkę mojego brata wziąć za żonę?
+
+
+KLAUDIO
+
+Trwam, choćby czarna była jak Murzynka.
+
+
+LEONATO
+
+Wprowadź ją, bracie, kapłan już gotowy.
+
+/ Wychodzi Antonio. /
+
+
+DON PEDRO
+
+Mój Benedyku, jak to mam tłumaczyć,
+Że tak marcową minę ma twarz twoja,
+Tak pełna chłodu, chmur i niepogody?
+
+
+KLAUDIO
+
+Pewno mu przyszła myśl o dzikim byku.
+Ba, nie trać serca, ozłocim ci rogi,
+A Europa radować się będzie,
+Jak się Jowiszem kiedyś radowała,
+Zmienionym w bydlę szlachetne z miłości.
+
+
+BENEDYK
+
+Słuchaj, byk Jowisz ryczał doskonale;
+Podobny jemu w miłosnym zapale,
+Pewno na ojca twego skoczył krowę,
+Bo ryczysz wdzięcznie jak cielę marcowe.
+
+/ Wchodzi Antonio i kobiety w maskach. /
+
+
+KLAUDIO
+
+Jestem ci dłużny, ale się przybliża
+Nowy rachunek. Którąż wziąć mam teraz?
+
+
+ANTONIO
+
+Tę, której rękę chętnie ci oddaję.
+
+
+KLAUDIO
+
+Jesteś więc moja. Droga, twarz mi odsłoń.
+
+
+LEONATO
+
+Nie, póki kapłan waszych rąk nie złączy,
+Póki jej wiecznej nie przysięgniesz wiary.
+
+
+KLAUDIO
+
+Daj mi twą rękę; przed świętym kapłanem
+Mężem twym jestem, jeśli chcesz być moją.
+
+
+HERO
+
+/ zdejmując maskę /
+
+Gdym żyła, pierwszą twoją byłam żoną,
+Gdyś kochał, pierwszym byłeś moim mężem.
+
+
+KLAUDIO
+
+To druga Hero!
+
+
+HERO
+
+                        Niewątpliwie druga;
+Pierwsza umarła w niesławie; ja żyję,
+Jestem dziewicą tak pewno, jak żyję.
+
+
+DON PEDRO
+
+To pierwsza Hero, Hero, co umarła!
+
+
+LEONATO
+
+Umarła, póki czarna żyła potwarz.
+
+
+MNICH
+
+Położę koniec waszemu zdziwieniu,
+Jak tylko święte skończymy obrzędy,
+Śmierć pięknej Hero dokładnie opowiem;
+Za rzecz zwyczajną weźcie cud na teraz
+I za mną wszyscy śpieszcie do kaplicy.
+
+
+BENEDYK
+
+Z wolna, braciszku. Gdzie moja Beatryks?
+
+
+BEATRYKS
+
+/ zdejmując maskę /
+
+Ja zwykle na to odpowiadam imię.
+Jaka twa wola?
+
+
+BENEDYK
+
+                        Czy mnie już nie kochasz?
+
+
+BEATRYKS
+
+Nie, ani joty więcej niż należy.
+
+
+BENEDYK
+
+Więc wuj twój, hrabia i książę się mylą,
+Bo mi przysięgli, że kochasz mnie szczerze.
+
+
+BEATRYKS
+
+A ty, Benedyk, czy mnie już nie kochasz?
+
+
+BENEDYK
+
+Nie, ani joty więcej niż należy.
+
+
+BEATRYKS
+
+Więc Małgorzata, Urszula i Hero
+Bardzo się w swoim pomyliły zdaniu,
+Bo mi przysięgły, że kochasz mnie szczerze.
+
+
+BENEDYK
+
+Toć mi przysięgli, że z miłości mdlejesz.
+
+
+BEATRYKS
+
+Toć mi przysięgły, że z miłości konasz.
+
+
+BENEDYK
+
+To wszystko bajki. A więc mnie nie kochasz?
+
+
+BEATRYKS
+
+Nie, tylko szczerej przyjaźni uczuciem.
+
+
+LEONATO
+
+Ba, ba, nie wątpię, że go z serca kochasz.
+
+
+KLAUDIO
+
+A ja przysięgam, że i on ją kocha;
+Bo tu jest pismo własnej jego ręki,
+Koślawy sonet, pierworodne dziecię
+Jego fantazji, na cześć jego pani.
+
+
+HERO
+
+A tu jest inny, z biurka jej skradziony,
+W którym Beatryks własną swoją ręką
+Swoje dla niego spisała uczucia.
+
+
+BENEDYK
+
+O cuda! Nasze ręce świadczą przeciw naszym sercom! No, cóż robić, biorę cię; ale na to światło dzienne, przysięgam, że cię biorę tylko przez miłosierdzie.
+
+
+BEATRYKS
+
+Nie mogę ci odmówić; ale jak dzień ten jasny, robię to jedynie na przekładania twoich przyjaciół, a częścią, żeby ci uratować życie, bo, jak mi powiadano, umierasz na suchoty.
+
+
+BENEDYK
+
+Cicho! Zamknę ci usta!
+
+/ Całuje ją. /
+
+
+DON PEDRO
+
+Jak ci teraz na sercu, żonaty Benedyku?
+
+
+BENEDYK
+
+Słuchaj mnie, mości książę; cały szwadron koncepcistów nie potrafi wydrwić ze mnie zrobionego postanowienia. Czy myślisz, że dbam o satyry lub epigramata? Uchowaj Boże! Człowiek, co się da lada konceptowi powodować, nigdy do niczego uczciwego nie dojdzie. Krótko mówiąc, gdy raz postanowiłem żonę pojąć, nie myślę baczyć na rzeczy, które przeciw mojemu postanowieniu świat może powiedzieć. Nie chciej, więc, książę, szydzić z tego, co i ja mogłem kiedyś przeciw małżeństwu wygadywać, bo człowiek chwiejne stworzenie; i na tym koniec. Co do ciebie, Klaudio, zdawało mi się, że będę mógł cię przetrzepać, ale skoro, jak się pokazuje, masz wkrótce zostać moim krewnym, żyj z całą skórą, a kochaj moją kuzynkę.
+
+
+KLAUDIO
+
+Miałem nadzieję, że odrzucisz rękę Beatryksy i dasz mi słuszny powód, aby wygnać kijem pojedyncze twoje życie i nauczyć cię, co to jest być podwójnym człowiekiem, którym bez wątpienia zostaniesz, jeśli moja kuzynka nie będzie krótko cię trzymać.
+
+
+BENEDYK
+
+Dobrze, dobrze, a teraz jesteśmy przyjaciółmi. Teraz, przed ślubem, do tańca, abyśmy ulżyli naszym sercom i żon naszych piętom.
+
+
+LEONATO
+
+Na taniec później przyjdzie kolej.
+
+
+BENEDYK
+
+Nie, natychmiast, na honor. Więc, muzyko, wytnij nam od ucha. Jesteś smutny, mój książę, pojmij żonę, nie ma dostojniejszej laski jak laska w róg okuta.
+
+/ Wchodzi Posłaniec. /
+
+
+POSŁANIEC
+
+Książę mój, brat twój, Don Juan, pojmany,
+Pod dobrą strażą przybył do Mesyny.
+
+
+BENEDYK
+
+Nie myśl o nim, książę, do jutra rana; ja tymczasem wynajdę uczciwą dla niego karę. Skrzypki, od ucha!
+
+/ Tańce. Wychodzą. /

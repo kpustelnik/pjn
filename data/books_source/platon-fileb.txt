@@ -1,0 +1,2485 @@
+Platon
+
+Fileb
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-6123-7
+
+
+
+
+
+Wstęp tłumacza
+
+Fileb, czyli rozmowa o rozkoszy. Obyczajowa. Taki tytuł nosi nasz dialog w zbiorze pism Platona. Autor szuka w nim odpowiedzi na pytanie, jaki typ życia uznać za najlepszy. Czy oddać pierwszeństwo życiu oddanemu gonitwie za rozkoszami bez wyboru, czy też cenić najwyżej życie poddane rozumowi i poświęcone przede wszystkim pracy intelektualnej. Czy wysoko cenić każdą przyjemność jako dobro większe lub mniejsze — czy też pewnymi przyjemnościami gardzić i unikać ich, a inne dopuszczać i szukać ich wypada? Jakie miejsce, jaki szczebel przyznać rozkoszy w hierarchii wartości życiowych? To są główne zagadnienia tej rozmowy, na które Platon daje tutaj odpowiedź zdecydowaną i sformułowaną.
+
+Osoba wymieniona tytule to nie jest żadna osobistość znana. Imię Fileb znaczy po grecku tyle, co miłośnik uroków młodości. Trudno się dopatrzyć w tej postaci jakichś cech jednostkowych, charakterystycznych i gdyby nie brać tego imienia przenośnie, trudno byłoby zgadnąć, czemu to imię własne występuje w tytule, skoro Fileb odzywa się tylko parę razy na początku dialogu. To jest postać jak gdyby bez twarzy — podobnie zresztą jak i Protarchos, który stale odpowiada Sokratesowi.
+
+W rozmowie nie widać tła psychologicznego, nie widać gry stosunków osobistych między rozmawiającymi, tak jak się ją widzi w Gorgiaszu, w Eutyfronie, w Menonie. Dialog nie ma budowy dramatycznej i nie zawiera sytuacji komicznych, choć jest napisany z humorem. Jest to raczej monolog Sokratesa, który rozwija myśli Platońskie, ma przed oczami jakiegoś schematycznego Protarcha, młodzieńca, z którym można mówić o ideałach życiowych i można mu kazać reprezentować zrazu stanowisko nawet nie jego własne, ale dość pospolite, które wyznaje także Fileb, bierny świadek pozornej rozmowy. Pytania i uwagi Protarcha nie składają się razem na jakieś stanowisko przeciwne Sokratesowi. Służą raczej do tego, żeby przemówienia Sokratesa podzielić na części, rozbić je na ustępy i na zdania poszczególne. Jakby nauczanie katechizmowe. Protarchos ma być synem Kalliasa, ale on jest właściwie jakimś nieindywidualnym, papierowym synem samego autora. Jest to jakby reprezentant przeciętnego, przytomnego czytelnika. Protarchos nie zawsze się orientuje w myślach Sokratesa, a pytania zadaje jakby automatycznie — nieraz w połowie zdania, które Sokrates rozpoczął, aby zrobić pauzę przed tezą lub przed pytaniem, które się w danym momencie ma sformułować. Protarchos zgadza się na wszystko, co autor uważa za dostatecznie jasne i co chce, żeby nie ulegało dyskusji na razie. W jego raczej biernej obecności autor jakby robił rachunek i z własnego życia. Czy dobrze zrobił sam, że nie poszedł drogą Kaliklesa z dialogu Gorgiasz, a został przy szkole i przy piórze; nie bez muzyki i nie bez towarzystwa, przy dobrze pachnącym winie z Samos.
+
+Gdy porównywać stosunek autora do rozkoszy, które życie przynosi, stosunek widoczny w Fajdrosie i rozwinięty tutaj, widać tu pewne uspokojenie. On żywo pamięta i teraz, i umie opisać wzruszenia i szały młodych lat, ale już ich nie chce. Już woli, żeby go zbyt silne wzruszenia całkiem omijały. Podobnie będzie się kiedyś Horacy modlił: Intermissa Venus diu, parce precor, precor.
+
+Sokrates, jak zwykle, gubi się w interesujących dygresjach na rozliczne tematy; wplata rozważania metafizyczne i świetne analizy psychologiczne; ale żeby się i czytelnik w nich nie zgubił, powtarza w kilku miejscach główny cel rozważań, streszcza główne punkty omówione i zbiera pod koniec wyniki, do których doszedł. Ma się wrażenie, że to pisze mistrz szkoły dla użytku przede wszystkim uczniów; mistrz, który już wie, jakie trudności napotyka jego nauka o ideach i z jakimi prądami spotykają się jego uczniowie w dziedzinie poglądów na życie.
+
+Chciałby w nich podtrzymać kult dla życia oddanego służbie u Muz. Pewne wyrzeczenia się, których to życie wymaga — to nie są akty rezygnacji z istotnych potrzeb ludzkich. Wprost przeciwnie, dopiero w takim życiu, opanowanym i ujętym w karby rozumne, mogą znaleźć zaspokojenie najbardziej istotne potrzeby szlachetniejszych dusz ludzkich, za czym dopiero przychodzić może szczęście — niezmieszane, ciche. Ale to nie ma być zeschłymi cyprysami wysadzana droga do śmierci. Czytaliśmy o niej w Fedonie. To jest pogodne, jasne życie filozofa — w pewnym wieku.
+
+Zagadnienie dialogu nie wydaje się przestarzałe i dziś, a w dygresjach co krok świecą rozsypane prawdy wieczne.
+
+
+
+
+Fileb
+
+
+Osoby dialogu:
+ * Sokrates
+ * Protarchos
+ * Fileb
+
+
+Sokrates: Więc zobacz, Protarchu, jaką myśl zamierzasz teraz przyjąć od Fileba i które z naszych stanowisk pragniesz zwalczać, gdyby nie było sformułowane według twojej myśli. Jeśli chcesz, to może streścimy jedno i drugie?
+
+Protarchos: Owszem, proszę bardzo.
+
+Sokrates: Otóż Fileb powiada, że dobrem dla wszystkich żywych istot jest rozkosz i radość, i wszystko w tym rodzaju — czy się to tak nazywa, czy podobnie, a z naszej strony istnieje zdanie przeciwne, że nie te rzeczy, ale rozum i myślenie, i pamiętanie, i to, co tym znowu rzeczom pokrewne, a więc słuszny sąd i prawdziwe rozumowania lepsze są od rozkoszy i więcej warte dla wszystkich istot, które tylko potrafią mieć w sobie coś z tych rzeczy. Jeśli która potrafi, ma stąd największy pożytek — każda — z tych, co dziś istnieją, i z tych, co będą. Czy nie tak jakoś, Filebie, twierdzimy — jeden i drugi?
+
+Fileb: Właśnie tak, Sokratesie, w sam raz.
+
+Sokrates: Więc przyjmujesz, Protarchu, tę sprawę, daną w tej chwili?
+
+Protarchos: Trzeba przyjąć; bo nasz piękny Fileb ustał i sił nie ma dalej.
+
+Sokrates: Więc trzeba się w tych rzeczach na wszelki sposób jakoś dogrzebać prawdy?
+
+Protarchos: Ano, trzeba jakoś.
+
+II. Sokrates: A proszę cię, oprócz tego zgódźmy się i na taką rzecz.
+
+Protarchos: Na jaką?
+
+Sokrates: Że teraz każdy z nas spróbuje pokazać taki stan duszy i taką jakąś postawę duchową, która by potrafiła wszystkim ludziom zapewnić szczęście w życiu. Czy niedobrze?
+
+Protarchos: No, dobrze.
+
+Sokrates: Nieprawdaż, więc wy bronicie postawy radosnej, a ja bronię rozumnej?
+
+Protarchos: Jest tak — istotnie.
+
+Sokrates: No cóż, a gdyby się jakaś inna postawa duchowa okazała mocniejsza od tych dwóch, to — nieprawdaż — jeżeliby się ta postawa okazała bardziej spokrewniona z rozkoszą, to my obaj przegramy, skoro takie życie będzie górą; życie oddane rozkoszy odniesie wtedy zwycięstwo nad życiem poddanym rozumowi?
+
+Protarchos: Tak.
+
+Sokrates: A jeśli zwycięży poddane rozumowi, to rozum będzie górą, a rozkosz przegra. Taka między nami umowa staje, czy jak mówicie?
+
+Protarchos: Mnie się przynajmniej tak wydaje.
+
+Sokrates: A Filebowi jak? Co mówisz?
+
+Fileb: Ja w ogóle uważam, że rozkosz jest górą i będę tak uważał. A ty, Protarchu, sam się przekonasz.
+
+Protarchos: Kiedyś, Filebie, oddał sprawę w moje ręce, to już nie będziesz chyba mógł do woli zgadzać się z Sokratesem albo mu się sprzeciwiać.
+
+Fileb: Prawdę mówisz. Niechże mnie Bóg broni od tego, w tej chwili biorę samą boginię na świadka.
+
+Protarchos: I my też razem z nią gotowiśmy ci wystawić świadectwo, żeś mówił to, co mówisz. Więc to, co potem z kolei, Sokratesie — czy tam Fileb zechce, czy nie zechce, próbujmy ciągnąć dalej.
+
+III. Sokrates: Ciągnijmy, a zacznijmy od samej bogini, która, jak on mówi, nazywa się Afrodytą, a najprawdziwsze jej imię jest Rozkosz.
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: Mnie się, Protarchu, z imionami bogów zawsze obawa łączy — zgoła nie ludzka, gorsza od największego strachu. Tak i teraz imieniem Afrodyty ją nazywam, skoro jej się tak podoba; a o rozkoszy wiem, że się różnymi kolorami mieni i, jak powiedziałem, musimy od niej zacząć i zastanowić się nad nią w duszy, i zobaczyć, jaką też posiada naturę. Bo to jest, kiedy się ją tak po prostu wymienia, coś jednego, a przecież przybiera różnorakie postacie i w pewnym sposobie niepodobne jedna do drugiej. Zobacz no: mówimy, że rozkosz ma człowiek rozpustny i że ją znajduje człowiek opanowany — w samym panowaniu nad sobą. Rozkosz ma głupiec, pełen bezmyślnych opinii i niemądrych nadziei, a znajduje rozkosz i człowiek rozsądny w samym rozumnym myśleniu. Z tych rodzajów rozkoszy, żeby i jedne, i drugie miały być do siebie nawzajem podobne, któż mógłby twierdzić coś takiego i nie wydać się głupcem po sprawiedliwości?
+
+Protarchos: Wiesz, Sokratesie, one pochodzą od przeciwnych sobie spraw, ale same nie są sobie nawzajem przeciwne. Bo jakżeby miała rozkosz nie być najpodobniejsza do rozkoszy — sama do siebie — spośród wszystkich rzeczy najbardziej?
+
+Sokrates: Toż i barwa do barwy — Pan Bóg z tobą! Ze względu na to samo, na bycie barwą, żadna się nie będzie różniła od drugiej. Czarna i biała — widzimy wszyscy, że one nie tylko są różne, ale że jedna z nich najbardziej jest drugiej przeciwna. A kształt w stosunku do kształtu tak samo. Jako rodzaj każdy kształt jest czymś jednym, ale jedne jego części są sobie nawzajem wprost przeciwne, a inne mają jakąś nieprzebraną różnorodność. I w wielu innych sprawach te same stosunki znajdziemy. Zatem tej myśli nie wierz, która ze wszystkich największych przeciwieństw robi jedność. Ja się boję, że znajdziemy jakieś rozkosze sobie nawzajem wprost przeciwne.
+
+Protarchos: Może być, ale co to zaszkodzi naszej myśli?
+
+Sokrates: To, powiemy, że gdy one są sobie przeciwne, ty je nazywasz różnymi imionami. Mówisz niby, że dobre jest wszystko, co daje rozkosz. Otóż żeby nie było rozkoszne wszystko, co jest rozkoszne, o to się nikt nie spiera. A tylko pośród tych rzeczy jest wiele złych i wiele dobrych — tak my mówimy — a jednak ty je wszystkie nazywasz dobrymi, a zgodzisz się, że są do siebie niepodobne, gdyby cię ktoś do tego doprowadził w dyskusji. Zatem co właściwie jednego i tego samego tkwi w tych złych i dobrych jednako, dzięki czemu ty wszystkie rozkosze nazywasz dobrem?
+
+Protarchos: Jak mówisz, Sokratesie? Czy myślisz, że ci ktoś przyzna słuszność, i jeśli założy, że rozkosz jest dobrem, to pozwoli, żebyś ty mówił, że są jakieś jedne rozkosze dobre, a jakieś inne od nich — złe?
+
+Sokrates: A jednak ty przyznasz, że one są do siebie nawzajem niepodobne, a niektóre sobie nawzajem wprost przeciwne.
+
+Protarchos: Ależ nie — o ile są rozkoszami.
+
+Sokrates: Znowu na tę samą myśl zjeżdżamy, Protarchu, i mówimy, że się rozkosz od rozkoszy nie różni, tylko wszystkie są jednakie, i te przykłady, w tej chwili przecież podane, już nas wcale nie rażą — gotowiśmy uwierzyć i mówić rzeczy godne skończonych nicponiów i całkowitych nowicjuszów w świecie myśli.
+
+Protarchos: Co niby chcesz powiedzieć?
+
+Sokrates: To, że jeśli ja za twoim przykładem i w obronnej postawie zaryzykuję twierdzenie, że największe przeciwieństwa są właśnie przez to najpodobniejsze do siebie, to będę się mógł z tobą zgodzić, a okażemy się wtedy obaj młodsi niż potrzeba i myśl nam się z rąk wymknie, a pójdzie sobie precz. Więc ją cofnijmy z powrotem, może trafimy na wspólne drogi i jakoś się z sobą potrafimy pogodzić.
+
+Protarchos: Mów, jakim sposobem?
+
+IV. Sokrates: Załóż, Protarchu, że z kolei ty mnie zadajesz pytanie.
+
+Protarchos: Jakie niby?
+
+Sokrates: Rozum i wiedza, i umysł, i wszystko to, co ja w początkowym założeniu przyjąłem jako dobra — zapytany, co jest dobrem — czy tego wszystkiego nie czeka ten sam los, co i twoją myśl?
+
+Protarchos: Jak to?
+
+Sokrates: Pokaże się, że wiele jest wszystkich rodzajów wiedzy i niektóre z nich zgoła do siebie nawzajem niepodobne. A jeżeli któreś z nich są nawet sobie nawzajem przeciwne, to czyż warto byłoby ze mną rozmawiać teraz, gdybym się tego nastraszył i powiedział, że żadna wiedza nie jest do drugiej niepodobna? Potem by tam nasza myśl tak jak bajka gdzieś przepadła i popłynęła sobie precz, a my byśmy osiedli cało na jakimś głupstwie.
+
+Protarchos: Ależ to się stać nie powinno żadną miarą, oprócz tego, że osiądziemy cało. Bo mnie się bardzo podoba ten wspólny czynnik w moim i twoim stanowisku: niech będzie wiele rozkoszy, i to niepodobnych do siebie, i niech będzie wiele rodzajów wiedzy i też różnych.
+
+Sokrates: Więc tej różnorodności dobra mojego i twojego, Protarchu, nie chowajmy pod ławę, tylko ją postawmy na środku i miejmy odwagę; może te rzeczy w toku dyskusji powiedzą, czy rozkosz należy nazywać dobrem, czy rozum, czy też dobro to jest coś trzeciego. Teraz przecież nie o to właśnie nam idzie w naszym sporze, żeby na wierzchu zostało to, co ja zakładam, czy też to, co ty; obaj powinniśmy wspólnie walczyć o to, co najbliższe prawdy.
+
+Protarchos: Trzeba przecież.
+
+V. Sokrates: Więc tę myśl jeszcze mocniej utwierdźmy obopólną zgodą.
+
+Protarchos: Jaką myśl?
+
+Sokrates: Tę, która kłopot sprawia wszystkim ludziom, czy chcą, czy też, czasem i niektórzy, nie chcą.
+
+Protarchos: Mówże jaśniej.
+
+Sokrates: Ja mówię o tej, która się właśnie teraz nawinęła; urodziwa jest jakaś i przedziwna. Że wiele rzeczy to jedność, a jedność to wiele rzeczy, to są świetne powiedzenia i łatwo się spierać z takim, który jedno z nich założy. Którekolwiek.
+
+Protarchos: Czy masz to na myśli, co ktoś może o mnie powiedzieć, że ja jestem Protarchos, z natury jeden, ale jest takich moich „ja” wiele, i to przeciwnych sobie: ja duży i ja mały, powie ktoś, i ciężki, i lekki, a jeden i ten sam, i mnóstwo innych oprócz tego?
+
+Sokrates: Wymieniasz te rozpowszechnione zdania spośród przedziwnych zdań o jedności i wielości. Już się wszyscy, można powiedzieć, zgadzają, że nie trzeba ruszać takich rzeczy, bo to dziecinne i łatwe, a bardzo przeszkadza w myśleniu. Także i takich rzeczy, jak kiedy ktoś rozbierze człony i zarazem części czegoś w dyskusji, przy czym wyjdzie, że to wszystko stanowi ową jedność, a potem dowodzi ze śmiechem, że dziwne rzeczy musiał mówić; że jedność to wiele rzeczy i jest ich bez miary, a tych wiele rzeczy to tylko jedność.
+
+Protarchos: A ty, Sokratesie, masz na myśli jakie inne zdanie, jeszcze nieustalone i nierozpowszechnione, w związku z tą samą sprawą?
+
+Sokrates: Ile razy ktoś, chłopcze, zakłada jedność nie pośród tych rzeczy, które powstają i giną, jak myśmy to przed chwilą mówili. Bo w tej dziedzinie i jeśli chodzi o taką jedność, jakąśmy teraz właśnie przytaczali, to zgoda powszechna, że tu nie ma co zbijać. Dopiero jeśli ktoś próbuje przyjąć jednego człowieka i wołu jednego, i piękno jedno, i dobro jedno — kiedy o te i o takie jedności chodzi, sprawa staje się doniosła w rozważaniach i sporna.
+
+Protarchos: Jak to?
+
+Sokrates: Przede wszystkim, czy potrzeba przyjmować, że jakieś takie jedności istnieją naprawdę. Następnie, jakim sposobem one, choć każda z nich jest jedna i zawsze ta sama, i ani powstawać nie może, ani ginąć, to jednak każda jest jak najmocniej tą właśnie jedną jednością. Następnie, w dziedzinie tych rzeczy, które powstają i nie mają granic, czy należy ją przyjmować jako rozproszoną i powieloną, czy też ona jest cała oddzielona dla siebie, co przecież może się wydawać najmniej możliwe ze wszystkiego, żeby jedno i to samo i jedność tkwiła równocześnie w jedności i w wielości. To są w tych sprawach, kiedy mowa o jedności i wielości, to są, Protarchu, przyczyny wszystkich kłopotów, jeżeli je przyjąć nie tak, jak potrzeba, a wszystko idzie doskonale, jeśli przyjąć tak, jak należy.
+
+Protarchos: Nieprawdaż, Sokratesie, musimy przede wszystkim to w tej chwili przepracować?
+
+Sokrates: Ja bym przynajmniej tak uważał.
+
+Protarchos: Zatem przyjmij, że my wszyscy tutaj zgadzamy się z tobą na to. A Fileba może najlepiej będzie w tej chwili pytaniami nie ruszać, kiedy cicho siedzi.
+
+VI. Sokrates: No, niech tam. Ale skąd by tu zacząć tę walkę o kwestie sporne; tak dużo jej jest i tak jest różnorodna? Może stąd?
+
+Protarchos: Skąd?
+
+Sokrates: Przyznamy chyba, że ta jedność, utożsamiana w rozważaniach z wielością, kręci się wszędzie i wkrada się w każdą myśl zawsze; i dawniej, i teraz. To nigdy nie ustanie i to się nie zaczęło teraz, tylko to jest, jak mi się zdaje, taki nieśmiertelny i niestarzejący się stan samych naszych myśli. Kiedy go tylko zakosztuje młody człowiek, zaraz się cieszy, jakby jakiś skarb mądrości znalazł; rozkosz go napełnia, jakby sam bóg w niego wstąpił, zaczyna wywijać argumentami z radością i raz na wywrót wykręca i zwija wszystko w jedność, a raz na nowo rozwija i dzieli na części; w kłopoty siebie samego przede wszystkim i najwięcej wpędza, a potem każdego, kogo w danej chwili ma pod ręką; czy to będzie ktoś młodszy czy starszy, czy się trafi rówieśnik — nie oszczędza ani ojca, ani matki, ani nikogo innego, kto tylko ma uszy. Omal że się nawet do innych istot żywych nie zwraca, oprócz ludzi, a z dzikich nie oszczędziłby nikogo, gdyby tylko tłumacza skądeś dostał.
+
+Protarchos: Ej, Sokratesie, czy nie widzisz, jakie mnóstwo nas jest, a młodzi jesteśmy wszyscy? Ty się nie boisz, żebyśmy się razem z Filebem i do ciebie nie zabrali, jeżeli nas będziesz hańbił?
+
+A jednak — bo my rozumiemy, co ty mówisz — jeżeli istnieje jakiś sposób, jakiś chytry środek na to, żeby takie zamieszanie myślowe łagodnie jakoś od nas odeszło i żeby znaleźć jakąś drogę do celu rozważań, piękniejszą, to zajmij się tym, a my za tobą razem pójdziemy, według sił. To niemała rzecz, ta nasza obecna rozmowa, Sokratesie.
+
+Sokrates: Wcale nie, moi chłopcy, jak powiada Fileb, kiedy do was mówi. Nie ma zgoła ładniejszej drogi i być nie może; ja ją kocham zawsze, tylko ona mi już nieraz z oczu znikała i wtedym zostawał sam jeden i ani w prawo, ani w lewo.
+
+Protarchos: Cóż to za droga? Powiedz coś o niej!
+
+Sokrates: Pokazać ją nie bardzo trudno, ale strasznie trudno nią iść. Do wszystkich wynalazków na tej drodze ludzie doszli. A zobacz, którą mam na myśli.
+
+Protarchos: Mów tylko.
+
+Sokrates: Bogowie dali ją ludziom; tak mi się to przedstawia; jakiś Prometeusz bogom ją wydarł wraz z jakimś ogniem, bardzo jasnym. I starożytni — oni lepsi byli od nas i bliżej bogów mieszkali — to nam podanie przekazali, że wszystko, co, jak się zawsze mówi, istnieje, składa się z jedności pewnej i z wielości i ma w sobie przyrodzony pierwiastek granic i nieokreślenia. Więc kiedy to tak jest uporządkowane, powinniśmy zawsze jedną postać (ideę) we wszystkim zakładać i szukać jej — znajdziemy, bo ona tam jest w środku — a gdy ją uchwycimy, to po tej jednej dwie — patrzeć, czy może tam są — a jeśli nie, to trzy albo jakaś inna ich liczba się znajdzie i każdą z tych jedności brać tak samo aż do jedności naczelnej. Tę będzie widać już nie tylko jako jedność i wielość rzeczy nieokreślonych, ale się pokaże, ile tego jest. A idei nieokreślenia do wielości nie wnosić, zanim ktoś jej liczby wszystkiej nie dojrzy, która leży między nieokreśloną a jednostką. Wtedy już mniejsza o każdy szczegół wszystkiego — niech sobie przepada w nieokreśloności. Otóż, bogowie, jak powiedziałem, tak nam pozwolili rzeczy rozpatrywać i uczyć się samemu, i nauczać drugich. A dzisiejsi mędrcy, zależnie od tego, jak się im trafi, do tej jedności dochodzą zbyt szybko albo zbyt powoli; wolniej, niż potrzeba. A po jedności zaraz biorą nieokreśloną wielość. Nie umieją dojrzeć tego, co pośrodku i czym się odróżnia nasza postawa dialektyczna w dyskusji od gotowości do jałowych sporów.
+
+VII. Protarchos: Coś niecoś z tego, co mówisz, Sokratesie, mam wrażenie, że rozumiem, ale niejedno chciałbym jeszcze wyraźniej usłyszeć.
+
+Sokrates: Jasne to jest, Protarchu, w literach, to, co mówię. Weź to w literach alfabetu; uczyłeś się ich i znasz się na nich.
+
+Protarchos: Jak to?
+
+Sokrates: Głos posiadamy chyba jeden — ten, co przez usta idzie, a nieokreślony co do ilości. My wszyscy i każdy z osobna.
+
+Protarchos: Więc co?
+
+Sokrates: Przecież mądrzy jesteśmy ani przez jedno, ani przez drugie. Ani przez to, że znamy nieokreśloność głosu, ani przez to, że znamy jego jedność. Dopiero wiedzieć, ile go jest i jaki ma być — dopiero to robi z każdego z nas znawcę języka.
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: A przecież to, co człowieka robi znawcą muzyki, to jest znowu to samo.
+
+Protarchos: Jak to?
+
+Sokrates: Głos przecież i w tej sztuce jest jeden.
+
+Protarchos: Jakżeby nie?
+
+Sokrates: Ale przyjmijmy dwa: niski i wysoki, i trzeci — pośredni. Czy jak?
+
+Protarchos: No, tak.
+
+Sokrates: Alebyś się jeszcze nie znał na muzyce, gdybyś tyle tylko wiedział. A jak się nie będziesz znał, to nic nie będziesz wart w tym zakresie.
+
+Protarchos: No, nic.
+
+Sokrates: A dopiero, mój kochany, jak weźmiesz odstępy, ile ich jest pod liczbą — odstępy głosowe co do wysokości i niskości — i jakie one są, i jak weźmiesz granice odstępów i te układy, które się z nich tworzą, a które starożytni spostrzegli i przekazali je nam, potomnym, pod nazwą harmonii, a znowu w ruchach ciała zauważysz inne tego rodzaju stany, które w nim są, a które się mierzy i w liczbę ujmuje, i trzeba je wtedy rytmami i taktami nazywać, a równocześnie weźmiesz pod uwagę, że tak samo należy traktować każdą jedność i wielość przedmiotów, dopiero kiedy tak te rzeczy weźmiesz, dopiero wtedy robisz się mądry. Kiedy jakikolwiek inny byt jeden w ten sam sposób weźmiesz i będziesz go tak rozpatrywał, dopiero w ten sposób zaczniesz go rozumieć i mądrze na niego patrzeć. A nieokreślona wielość czegokolwiek i w czymkolwiek czyni cię zawsze niezdolnym do rozumnego ujęcia rzeczy, do myślenia ścisłego ani do ilościowego, bo nigdy nie masz wtedy na oku żadnej liczby czegokolwiek.
+
+VIII. Protarchos: Wiesz, Filebie, ja przynajmniej mam to wrażenie, że to świetne, to, co Sokrates mówi w tej chwili.
+
+Fileb: Ja też mam to samo wrażenie. Ale dlaczego niby te słowa padają teraz pod naszym adresem i do czego to zmierza właściwie?
+
+Sokrates: Doprawdy, Protarchu, że słusznie nas o to Fileb zapytał.
+
+Protarchos: Tak jest. Więc odpowiedzże mu!
+
+Sokrates: Ja to zrobię; tylko jeszcze kilka słów powiem o tych samych rzeczach.
+
+Bo zupełnie tak samo, jak kiedy ktoś bierze pod uwagę pewną jedność, ten, jakeśmy powiedzieli, nie powinien patrzeć zaraz na naturę nieokreśloności, ale na pewną liczbę, tak i na odwrót: kiedy ktoś musi naprzód brać pod uwagę to, co nieokreślone, niech się nie zwraca zaraz do jedności, ale znowu do pewnej liczby, mającej swoją wielkość w każdym wypadku, a dopiero na końcu, po wszystkim, niech pod uwagę bierze jedność. Znowu w literach weźmy to, co się teraz mówi.
+
+Protarchos: Jak?
+
+Sokrates: Skoro głos nieokreślony wziął pod uwagę czy to jakiś bóg, czy też i człowiek do boga podobny, jak to w Egipcie opowiadają, że był taki Teut, i mówią, że on pierwszy wziął pod uwagę głoski jeszcze bez określenia i zauważył, że to nie jedna, tylko jest ich więcej, i znowu inne, które głosu nie mają w sobie, ale pewne brzmienie jednak, i tych jest też pewna liczba. I wyróżnił nam trzecią postać głosek, które się dziś nazywają nieme. Następnie rozdzielił te bez brzmienia wszystkie aż do poszczególnych głosek, a dźwięczne i pośrednie w ten sam sposób, aż ich liczbę ujął, i każdą z osobna i wszystkie razem nazwał pierwiastkami. A widząc, że nikt z nas nawet i jednej z nich samej dla siebie, a bez wszystkich innych, nauczyć się nie potrafi, więc ten znowu związek między nimi wziął pod uwagę i spostrzegł, że to jest jedność i że to wszystko razem stanowi pewną jedność; ustanowił więc jakby nad nimi jedną umiejętność i nazwał ją gramatyką (głosownią).
+
+Fileb: Ja to zrozumiałem, wiesz, Protarchu, jeszcze jaśniej niż to, co przedtem — tak: jedno w zestawieniu z drugim. Ale mi w tym toku myśli teraz tego samego brak, co i przed małą chwilą.
+
+Sokrates: Czy nie tego, Filebie, co to wszystko ma do rzeczy właściwie?
+
+Fileb: Tak jest. To jest to, czego od dawna szukamy, ja i Protarchos.
+
+Sokrates: Właśnie też; jużeście przyszli do tego, a szukacie, jak mówisz od dawna?
+
+Fileb: Jak to?
+
+IX. Sokrates: Czyżeśmy od początku nie rozmawiali o rozumie i rozkoszy — co z tych dwojga wybrać?
+
+Fileb: Jakżeby nie?
+
+Sokrates: I oczywiście, mówimy, że jedno i drugie to pewne jedności.
+
+Fileb: Tak jest.
+
+Sokrates: Otóż tego samego żąda od nas myśl poprzednia: jakim to sposobem jest jednością i wielością jedno i drugie z nich obojga, i jak to jest, że to nie są zaraz nieokreśloności, ale pewną liczbę osiąga jedno i drugie, zanim się jedno i drugie stanie nieokreślone.
+
+Protarchos: W nie byle jakie pytanie, Filebie, wpakował nas Sokrates, a wodził nas w kółko nie wiadomo którędy. I zobacz no, który z nas dwóch będzie odpowiadał na obecne pytanie. To może zabawne, że ja w ogóle odziedziczyłem głos po tobie, a nie potrafię dać odpowiedzi i znowu ciebie o to poproszę. A jeszcze bardziej zabawne, myślę, będzie to, kiedy żaden z nas dwóch odpowiedzieć nie potrafi. Więc zobacz, co zrobimy. Bo ja mam wrażenie, że Sokrates nas teraz pyta o różne postaci rozkoszy, czy istnieją, czy nie, i wiele ich jest, i jakie są. A o postaci rozumu tak samo.
+
+Sokrates: Najzupełniej prawdę mówisz, synu Kalliasa. Bo jak długo nie potrafimy tego zrobić z każdą jednością i z podobieństwem, i z tożsamością, i z przeciwieństwem, to, jak poprzednie rozważania pokazały, nikt z nas nie będzie nigdy nic wart.
+
+Protarchos: Zdaje się, Sokratesie, że gotowo tak być. Ale mądremu do twarzy z tym, żeby wszystko wiedział, a drugi bieg ten, żeby nie być tajemnicą dla siebie samego. A czemu mi się to teraz powiedziało, ja ci wskażę. Tyś nam, Sokratesie, ofiarował wszystkim tę rozmowę i użyczyłeś nam siebie samego, aby rozpatrzyć, co też jest najlepsze z tego, co człowiek posiada. Fileb powiedział, że rozkosz i zabawa, i radość, i wszystkie tego rodzaju rzeczy, a tyś na to odpowiedział, że to nie to, ale tamte rzeczy, które my sobie nieraz chętnie przypominamy. I słusznie robimy, abyśmy jedno koło drugiego mogli kłaść w pamięci i porównywać uważnie. Otóż ty mówisz, że tym dobrem, które należy słusznie nazywać lepszym od rozkoszy, jest rozum, wiedza, świadomość, umiejętność i wszystko, co im pokrewne, i te rzeczy należy sobie zdobywać, a nie tamte. Kiedy się te dwa sporne stanowiska ustaliło, myśmy ci na żarty zaczęli grozić, że nie puścimy cię do domu, zanim się jakoś nie ustali pewnej właściwej granicy w tych myślach rozdzielonych. Tyś się zgodził i ofiarowałeś się nam na to. Więc my teraz mówimy — tak jak dzieci — że nie wolno odbierać tego, co się sprawiedliwie dało. Zatem daj spokój temu sposobowi, w jaki traktujesz naszą obecną rozmowę.
+
+Sokrates: Jakiż to sposób, myślisz?
+
+Protarchos: Naprzód nas w kłopoty wpędzasz, potem nam pytania dajesz, na które my nie umiemy ci dać w tej chwili wystarczającej odpowiedzi. Uważamy, że nie na to tutaj siedzimy, żebyśmy wszyscy razem nie wiedzieli, którędy iść, tylko jeśli my nie możemy sobie dać rady, to radź ty. Przyrzekłeś przecież. Zatem zastanów się nad tym sam, czy powinieneś wyróżnić różne rodzaje rozkoszy i wiedzy, czy też można temu dać pokój. A może potrafisz i może zechcesz w jakiś inny sposób wnieść światło w nasze skłócone stanowiska?
+
+Sokrates: O, to już niczego strasznego oczekiwać nie muszę, skoroś to tak powiedział. Bo jak się mówi: „jeżeli zechcesz”, to już ustaje wszelka obawa w każdej sprawie. A oprócz tego, mam wrażenie, że któryś z bogów dał nam pewną pamięć.
+
+Protarchos: Jakże to i o jakich rzeczach?
+
+X. Sokrates: Podanie pewne kiedyś dawno słyszałem, może to we śnie było, a może i na jawie, i teraz mi na myśl przychodzi — o rozkoszy i o rozumie — to, że dobrem nie jest żadne z nich, ale coś innego, trzeciego, co jest różne od nich obojga, a lepsze od jednego i od drugiego. Toż jeśliby ono się nam teraz jasno objawiło, pożegna się rozkosz ze zwycięstwem. I dobro żadną miarą nie będzie tym samym, co ona. Czy jak?
+
+Protarchos: No, tak.
+
+Sokrates: A tych postaci rozkoszy do rozróżnień już nam wcale nie będzie potrzeba, według mego zdania. Dalszy tok rozważań jeszcze to jaśniej pokaże.
+
+Protarchos: Bardzoś to ładnie powiedział; tylko tak jedź dalej.
+
+Sokrates: Ale jeszcze przedtem zgódźmy się na pewien drobiazg.
+
+Protarchos: Jaki?
+
+Sokrates: Natura dobra musi być doskonała czy niedoskonała?
+
+Protarchos: Przecież najdoskonalsza ze wszystkiego, Sokratesie.
+
+Sokrates: No cóż, a dobro to jest coś, co wystarcza?
+
+Protarchos: Jakżeby nie; ono tym właśnie przewyższa wszystkie inne byty.
+
+Sokrates: O nim to, sądzę, przede wszystkim powiedzieć trzeba, że wszystko, cokolwiek poznaje dobro, goni za nim i nastaje, chce je chwycić i mieć dla siebie, a o inne rzeczy nie dba nic, oprócz tych, które zmierzają do doskonałości, tak jak dobra.
+
+Protarchos: Nie można przeciw temu nic powiedzieć.
+
+Sokrates: A rozpatrzmy tak i oceńmy życie oddane rozkoszy i życie poddane rozumowi; zobaczmy jedno i drugie z osobna.
+
+Protarchos: Jak rzekłeś?
+
+Sokrates: Niech ani w życiu oddanym rozkoszy nie będzie rozumu, ani w życiu poddanym rozumowi niech nie będzie rozkoszy. Jeżeli którekolwiek z nich jest dobrem, to (żadne z nich) nie powinno już niczego więcej potrzebować. Jeżeli się pokaże, że któremukolwiek z nich czegoś brak, to ono już żadną miarą nie będzie u nas dobrem.
+
+Protarchos: Jakżeby też mogło?
+
+Sokrates: Nieprawdaż, na tobie zrobimy próbę, żeby to wybadać.
+
+Protarchos: Bardzo dobrze.
+
+Sokrates: Więc dawaj odpowiedzi!
+
+Protarchos: Mów!
+
+Sokrates: Zgodziłbyś się, Protarchu, spędzić całe życie w największych rozkoszach?
+
+Protarchos: Czemu nie?
+
+Sokrates: A czy uważałbyś, że ci jeszcze czegoś w dodatku potrzeba, jeżeli to masz w zupełności?
+
+Protarchos: W żadnym sposobie.
+
+Sokrates: A zobacz no, czy nie miałbyś potrzeby rozumowania i myślenia, i obliczania swoich potrzeb, i tym podobnych rzeczy, czy nie brakłoby ci czegoś w tym rodzaju?
+
+Protarchos: A czego? Wszystko bym przecież miał, gdybym miał radość.
+
+Sokrates: Nieprawdaż, w ten sposób żyjąc, zawsze, całe życie, największymi rozkoszami byś się cieszył?
+
+Protarchos: Czemuż by nie?
+
+Sokrates: Ależ gdybyś nie miał rozumu i pamięci, i wiedzy, i sądu prawdziwego, to przede wszystkim nie wiedziałbyś właśnie tego, czy się cieszysz, czy nie cieszysz, bo byś był pozbawiony wszelkiego rozgarnienia.
+
+Protarchos: Z konieczności.
+
+Sokrates: I tak samo, gdybyś nie miał pamięci, to z konieczności nie pamiętałbyś nawet i tego, żeś się kiedyś cieszył, a z tej chwilowej rozkoszy, która by cię spotkała, nie zostawałby ci żaden ślad pamięciowy. Nie mając zaś zdolności do sądów prawdziwych, nie sądziłbyś, że się cieszysz, gdybyś się cieszył. A będąc pozbawionym zdolności do wnioskowania, nie byłbyś zdolny wywnioskować i tego, że się kiedyś później cieszyć będziesz. I tak byś żył, nie jak człowiek, ale jakiś mięczak albo jakiś stwór morski, obdarzony duszą, między ostrygami. Jest tak, czy poza tym potrafimy jakoś to sobie inaczej pomyśleć?
+
+Protarchos: Ależ jak?
+
+Sokrates: Więc czy warto nam wybierać życie tego rodzaju?
+
+Protarchos: Zupełnie mi mowę odebrała ta myśl teraz, Sokratesie.
+
+Sokrates: To jeszcze nie odpoczywajmy, tylko znowu zobaczmy życie poddane rozumowi.
+
+XI. Protarchos: O jakim ty życiu mówisz?
+
+Sokrates: Czy znowu ktoś z nas zgodziłby się żyć, mając rozum i umysł, i wiedzę, i pamięć wszelką o wszystkim, a rozkoszy nie mając ani dużo, ani mało, ani smutku żadnego, tylko w ogóle nie doznając wszelkich takich rzeczy?
+
+Protarchos: Mnie się żaden z tych dwóch żywotów, Sokratesie, nie wydaje godny wyboru, a myślę, że i nikomu innemu nigdy się taki wydać nie potrafi.
+
+Sokrates: A cóż, Protarchu, żywot skombinowany, zmieszany z jednego i z drugiego zarazem?
+
+Protarchos: Ty myślisz: z rozkoszy i z umysłu, i z rozumu?
+
+Sokrates: Tak jest; ja właśnie o takim mówię.
+
+Protarchos: Przecież każdy go wybierze prędzej niż którykolwiek z tamtych dwóch, a oprócz tego, nie: jeden człowiek zrobi tak, a drugi nie.
+
+Sokrates: Rozumiemy więc, co nam teraz wynika z obecnego rozważania?
+
+Protarchos: Tak jest. Że trzy rodzaje życia zostały przedłożone. A z tamtych dwóch żadne nie wystarcza ani nie warte wyboru; ani dla ludzi, ani dla żadnego zwierzęcia.
+
+Sokrates: Więc czy już teraz co do nich nie jest rzeczą jasną, że żaden z tych żywotów nie miał dobra w sobie? Bo wtedy by wystarczał i był doskonały, i dla wszystkich roślin i zwierząt nadawał się do wyboru, które by tylko potrafiły tak całe życie spędzać. A gdyby ktoś z nas wybrał życie inne, toby je wziął wbrew naturze tego, które naprawdę wybierać należy wbrew własnej woli, przez niewiedzę albo z jakiejś konieczności nieszczęsnej.
+
+Protarchos: Zdaje się więc, że tak się te rzeczy mają.
+
+Sokrates: Że więc bogini Fileba nie należy utożsamiać z dobrem, wydaje mi się, że o tym się powiedziało wszystko, co potrzeba.
+
+Fileb: Ale ten twój umysł, Sokratesie, to też nie jest dobro, tylko będzie narażony na te same zarzuty.
+
+Sokrates: Może być, Filebie, że mój. Ale myślę, że nie umysł prawdziwy i zarazem boski. Z tym byłoby jakoś inaczej. Ja się tam nie ujmuję dla umysłu o nagrodę zwycięską w zawodach z życiem skombinowanym, ale musimy zobaczyć i zastanowić się, co zrobimy z drugą nagrodą. Bo to życie skombinowane łatwo może jeden z nas kłaść na karb umysłu, a drugi na karb rozkoszy, i w ten sposób dobro jednego i drugiego byłoby żadne, a tylko jedno lub drugie mógłby ktoś brać za przyczynę dobra. Na ten temat jeszcze bym się pospierał, najchętniej z Filebem, że w tym życiu mieszanym co to właściwie jest: to, co to życie ma i przez to się stało godne wyboru i dobre zarazem. To nie rozkosz, tylko umysł jest mu bardziej pokrewny i bardziej do niego podobny. W ten sposób rozkoszy można słusznie ani pierwszej, ani drugiej nagrody nie przyznawać. I ona jest daleka od trzeciej, jeżeli macie cokolwiek ufać mojemu umysłowi w tej chwili.
+
+Protarchos: Ależ tak, Sokratesie. Ja mam wrażenie, że rozkosz teraz upadła całkiem; jakbyś ją na ziemię zwalił tymi ostatnimi słowami. Walczyła o pierwszeństwo, a leży. Umysł zaś, można zdaje się powiedzieć, że słusznie zrobił, jeżeli się nie ubiegał o pierwszeństwo, bo byłby był tak samo wyszedł, jak i ona. Ale jeśli rozkosz nie dostanie nawet i drugiej nagrody, to gotów być dla niej pewien dyshonor w oczach jej miłośników. Bo nawet im samym już się taka ładna nie wyda.
+
+Sokrates: Cóż więc? Czyż nie lepiej już jej dać pokój, a nie męczyć jej zbyt wnikliwym śledztwem i nie obrażać wyrokiem?
+
+Protarchos: Mówisz ni to, ni owo, Sokratesie.
+
+Sokrates: Czy dlatego, żem powiedział coś niemożliwego: „obrażać rozkosz”?
+
+Protarchos: Nie tylko dlatego, ale ty i tego nie wiesz, że nikt z nas cię nie wypuści, zanim tych rzeczy w dyskusji nie doprowadzisz do końca.
+
+Sokrates: Ho, ho, Protarchu; tam dużo myśli jeszcze zostało do końca, i to niezbyt łatwych na razie.
+
+I zdaje się, że potrzeba innych fortelów, kiedy się idzie po drugą nagrodę dla umysłu. Mieć jakby strzały pod ręką — inne niż poprzednie myśli. A niejedna może zostać i dawna. Więc trzeba iść?
+
+Protarchos: Jakżeby nie?
+
+XII. Sokrates: Ale na początku starajmy się być ostrożni; pierwsze kroki trudne.
+
+Protarchos: Jakie, ty myślisz?
+
+Sokrates: Wszystko, co dziś istnieje we wszechświecie, na dwie części rozbierzmy, a raczej, jeśli chcesz, to na trzy.
+
+Protarchos: A według jakiej zasady — może powiesz?
+
+Sokrates: Weźmy coś z naszych myśli ostatnich.
+
+Protarchos: A co takiego?
+
+Sokrates: Mówiliśmy jakoś tak, że bóg pośród bytów pokazał jeden nieokreślony, a drugi określony?
+
+Protarchos: Tak jest.
+
+Sokrates: Zatem przyjmijmy te dwie postaci, a trzecia — to pewna jedność, zmieszana z nich obu. Może być, że ja jestem trochę zabawny człowiek, kiedy tak wedle postaci dzielę i zliczam.
+
+Protarchos: Co mówisz, kochanie?
+
+Sokrates: Zdaje się, że mi znowu czwartego rodzaju potrzeba.
+
+Protarchos: Powiedz, którego?
+
+Sokrates: Popatrz na przyczynę, dla której się one ze sobą mieszają, i załóż mi, oprócz tamtych trzech, jeszcze i to czwarte.
+
+Protarchos: A czy nie będzie ci potrzeba i piątego, które by znowu coś potrafiło rozkładać?
+
+Sokrates: Zaraz, poczekaj! Ja myślę, że na razie nie. A jeżeliby było potrzeba, to ty mi pewnie wybaczysz, kiedy będę gonił za piątym.
+
+Protarchos: Czemu nie?
+
+Sokrates: Więc naprzód spośród tych czterech trzy rozbierzmy, i widząc, jak dwa spośród nich są porozszczepiane i podarte na liczne części, próbujmy każde znowu spoić w jedność i dojrzeć, na czym by polegała ta jedność i wielość w nich obu.
+
+Protarchos: Gdybyś mi o nich jeszcze jaśniej opowiadał, to łatwo bym szedł za tobą.
+
+Sokrates: Więc ja mówię, że te dwa pierwiastki, które zakładam, to są te właśnie, co teraz: jeden nieokreślony, a drugi ma granicę. A że to, co nieokreślone, to jest wielość, spróbuję wykazać. A to, co ma granicę, niech na nas poczeka.
+
+Protarchos: Ono czeka.
+
+Sokrates: Więc zastanów się. To jest trudne i sporne, to, co ja ci każę rozważać, a jednak rozważ to. Cieplejsze i zimniejsze weź najpierw pod uwagę i popatrz, czy w nich zobaczysz jakąś granicę, czy też w nich mieszka to „więcej” i „mniej”, i jak długo one tam mieszkają, to nie dopuszczają granicy. Bo niechby przyszedł kres, to zaraz jedno i drugie by musiało zginąć.
+
+Protarchos: Najzupełniejszą prawdę mówisz.
+
+Sokrates: Zatem powiadamy, że zawsze w cieplejszym i w zimniejszym mieszka „więcej” i „mniej”.
+
+Protarchos: I bardzo.
+
+Sokrates: Zawsze więc, tak nam wynika z rozważań, jedno i drugie nie ma kresu. A skoro kresu nie mają, to są w ogóle nieokreślone.
+
+Protarchos: Bardzo mocno, Sokratesie.
+
+Sokrates: Ależ doskonale, kochany Protarchu, podchwyciłeś i przypomniałeś mi, że to „mocno”, któreś w tej chwili rzucił, i „słabo” mają tę samą naturę, co „więcej” i „mniej”. Bo gdzie tylko one siedzą, tam nie pozwalają, żeby czegoś było tyle i tyle, tylko zawsze mocniej od czegoś cichszego i na odwrót; zawsze to w każde działanie wprowadzają i wyrabiają jakieś „więcej” i „mniej”, a „tyle i tyle” znika. Bo, jak się mówiło w tej chwili, gdyby one nie wyganiały tego „tyle i tyle”, aleby mu pozwalały mieszkać dalej tam, gdzie siedzi to „więcej” i „mniej” i „mocno” i „słabo”, to one same musiałyby się z własnej ziemi wynosić, w której mieszkały. Już by nie było „cieplejszego” ani „zimniejszego”, gdyby one przyjęły określony stopień. Bo „cieplejsze” wciąż idzie naprzód i nie stoi na miejscu, „zimniejsze” tak samo. A określony stopień stoi i nie idzie dalej. Więc, według tego toku myśli, to „cieplejsze” i jego przeciwieństwo — to będzie coś nieokreślonego.
+
+Protarchos: Widocznie, Sokratesie. Ale, jak powiedziałeś, nie jest łatwo iść z tobą za tym. Może być jednak, że jak się to będzie jeszcze raz i jeszcze raz powtarzać, jeden będzie pytał, a drugi stawał przed pytaniami, to pokaże się, że się obaj dostatecznie zgadzają.
+
+Sokrates: Dobrze mówisz; trzeba spróbować tak zrobić. A teraz zauważ naturę tego, co nieokreślone; czy przyjmiemy taką jego oznakę, aby nie przechodzić wszystkich po kolei, bo to by było za długo.
+
+Protarchos: Jaką ty masz na myśli?
+
+Sokrates: Wszystko, co może się robić bardziej i mniej i co może być mocno i słabo, i zbytnio, i tam dalej podobnie, to wszystko trzeba zaliczyć do rodzaju nieokreślonego jako do jedności tak, jak się przedtem mówiło. Mówiliśmy, że to, co rozdarte i rozszczepione, trzeba zebrać, jak potrafimy, razem — i na wierzchu napisać pewien znak, pewną naturę tego. Jeżeli pamiętasz.
+
+Protarchos: Pamiętam.
+
+Sokrates: Nieprawdaż, a wszystko to, co nie podlega temu, ale przyjmuje wszelkie tego przeciwieństwa, a więc najpierw to, co równe i równość, a potem to, co podwójne, i wszystko, co w stosunku do liczby, liczba albo miara, albo w stosunku do miary, to wszystko zaliczymy do pierwiastka określonego. To będzie ładnie wyglądało, kiedy tak zrobimy. Czy jak, powiadasz?
+
+Protarchos: Ależ bardzo ładnie, Sokratesie.
+
+XIII. Sokrates: No, dobrze. A to trzecie, to zmieszane z tych obu, jaką będzie miało postać, powiemy?
+
+Protarchos: Sobie samemu i mnie to wskażesz, mam wrażenie.
+
+Sokrates: Bóg to wskaże, jeśli do moich próśb któryś z bogów ucha nakłonić zechce.
+
+Protarchos: To pomódl się i zastanów!
+
+Sokrates: Ja się zastanawiam. I mam wrażenie, Protarchu, że się w tej chwili któryś z nich nad nami zmiłował.
+
+Protarchos: Jak to myślisz i na jakim się opierasz świadectwie?
+
+Sokrates: Ja to pokażę, oczywiście. A ty ze mną idź za tą myślą.
+
+Protarchos: Mów tylko.
+
+Sokrates: Tu przed chwilą padło między nami słówko: „cieplejsze” i „zimniejsze”. Czy nie?
+
+Protarchos: Tak.
+
+Sokrates: A dodaj do nich: suchsze i wilgotniejsze i więcej i mniej, i szybciej i wolniej, i większe i mniejsze, i to wszystko, cośmy przedtem zbierali w jedno i zaliczali do natury, która znosi bardziej i mniej.
+
+Protarchos: Ty myślisz o tej nieokreślonej?
+
+Sokrates: Tak. A domieszaj do niej potem i potomstwo granicy.
+
+Protarchos: Jakie?
+
+Sokrates: To, cośmy teraz mieli zebrać, tak jakeśmy w jedność zebrali potomstwo nieokreślenia, tak trzeba zebrać i to, co się rodzi z określenia, a myśmy tego nie zrobili. Więc może i teraz to samo zrobisz, jeżeli po zebraniu tych dwóch objawi się i tamta rodzina.
+
+Protarchos: Ale jaka i jak ty to myślisz?
+
+Sokrates: Rodzina tego, co równe i podwójne, w której przeciwieństwa przestają być niewspółmierne; ona w nie kładzie liczbę i sprawia, że się stają współmierne i harmonizują.
+
+Protarchos: Rozumiem. Zdaje mi się, że ty mówisz tak, że jak to zmieszasz, to z każdej z nich się coś rodzić zacznie.
+
+Sokrates: To słusznie ci się zdaje.
+
+Protarchos: Zatem mów.
+
+Sokrates: A czy w chorobach właściwe ich domieszanie nie rodzi natury zdrowia?
+
+Protarchos: Ależ ze wszech miar.
+
+Sokrates: A w dziedzinie tego, co wysokie i niskie i szybkie i wolne — to są rzeczy nieokreślone — kiedy się to samo dołączy, to zaraz wyrabia określone stopnie i tworzy muzykę doskonałą.
+
+Protarchos: Bardzo pięknie.
+
+Sokrates: A w zakresie mrozów i upałów, jak te rzeczy wejdą i usuną wszelkie „bardzo” i wszelkie „zbyt”, i „nie wiadomo co”, to zaraz robią „w sam raz” i „proporcjonalnie”.
+
+Protarchos: No, tak.
+
+Sokrates: Nieprawdaż. Stąd pory roku i wszystko piękne, co mamy, stąd, że się pomieszało to, co nieokreślone, z tym, co ma granice.
+
+Protarchos: Jakżeby nie.
+
+Sokrates: Ja już pomijam nieprzebrane inne rzeczy, kiedy o tym mówię, jak obok zdrowia piękność i siłę, a w duszach znowu rozliczne i bardzo piękne zalety. Bo kiedy arogancję i wszelkie szelmostwo ta bogini zobaczy, piękny Filebie, i że ani w rozkoszach, ani w folgowaniu sobie granicy żadnej nie ma, zaraz prawo i porządek zakłada — one mają określenie w sobie. Ty mówisz, że ona ludzi ograbia, a ja mówię na odwrót, że ona ocala. A tobie się, Protarchu, jak wydaje?
+
+Protarchos: I bardzo, Sokratesie, to jest po mojej myśli.
+
+Sokrates: Nieprawdaż? Więc o tych trzech już powiedziałem, jeżeli miarkujesz.
+
+Protarchos: Owszem. Zdaje mi się, że rozumiem. Mam wrażenie, że jako jedno wymieniasz nieokreśloność, a jako drugie jedność: określenie, granicę w tym, co istnieje. Ale to trzecie to nie bardzo chwytam; co ty właściwie chcesz pokazać.
+
+Sokrates: Ależ mój drogi, zbija cię z tropu mnogość tej trzeciej rodziny. Chociaż i nieokreśloność też dawała wiele rodzajów, ale jednak była na nich pieczątka tego „bardziej” i jego przeciwieństwa; więc było widać, że to pewna jedność.
+
+Protarchos: To prawda.
+
+Sokrates: A pierwiastek określenia ani nie zawierał wielu grup, aniśmy się nie spierali o to, żeby nie stanowił jedności naturalnej.
+
+Protarchos: Ale skądżeby.
+
+Sokrates: W żaden sposób. A to trzecie, widzisz, to jest u mnie jedność tego wszystkiego, co się z tamtych dwóch rodzi do bytu przez to, że określenie wyrabia pewne miary.
+
+Protarchos: Zrozumiałem.
+
+XIV. Sokrates: Otóż mówiliśmy przedtem, że oprócz tamtych trzech trzeba jakiś czwarty rodzaj rozpatrzyć. Więc rozpatrujmy wspólnie. Zobacz, czy wydaje ci się rzeczą konieczną, żeby wszystko, co powstaje, powstawało z jakiejś przyczyny?
+
+Protarchos: Wydaje mi się. Jakżeby mogło powstawać bez niej?
+
+Sokrates: Nieprawdaż. A natura tego pierwiastka, który działa, nie różni się niczym od przyczyny, tylko nazwą. I to, co czyni, i przyczynę można słusznie uważać za jedno?
+
+Protarchos: Słusznie.
+
+Sokrates: A znowu to, co się robi, i to, co się rodzi, niczym się nie różni jedno od drugiego, tylko nazwą, na razie. Znajdujemy, że tak, czy jak inaczej?
+
+Protarchos: Tak.
+
+Sokrates: Zatem z natury idzie naprzód zawsze to, co czyni, a to, co się robi, następuje po nim i rodzi się przez nie?
+
+Protarchos: Tak jest.
+
+Sokrates: A czymś innym i nie tym samym jest przyczyna i to, co jej służy do rodzenia.
+
+Protarchos: No, może.
+
+Sokrates: Nieprawdaż, to wszystko, co się rodzi, i to, z czego wszystko się rodzi, dostarcza nam trzech rodzajów rzeczy?
+
+Protarchos: Z pewnością.
+
+Sokrates: A to, co to wszystko wyrabia, nazwiemy czwartym, tę przyczynę, skoro się dostatecznie jasno pokazało, że to jest coś różnego od nich?
+
+Protarchos: Tak. To przecież coś różnego.
+
+Sokrates: A czy dobrze będzie, kiedy się rozróżniło te cztery — każde z osobna — dla pamięci wyliczyć je po kolei?
+
+Protarchos: No, czemu nie.
+
+Sokrates: Więc jako pierwsze wymieniam to, co nieokreślone. Drugie to: określenie, granica. Następnie to, z tych dwóch zmieszane i zrodzone, trzecie — istnienie. A jeżeli przyczynę tego zmieszania i zrodzenia nazwę czwartym, to może nie będzie chybione?
+
+Protarchos: Ależ jak?
+
+Sokrates: Więc proszę cię, potem idzie jaki krok myślowy i po cośmy właściwie do tego doszli? Czy nie po to: o drugą nagrodę szło. Komu ją dać? Czy ją rozkosz weźmie, czy rozum? Czy nie tak było?
+
+Protarchos: Tak było właśnie.
+
+Sokrates: A może teraz, skorośmy to tak rozebrali, lepiej potrafimy rozstrzygnąć sprawę pierwszej i drugiej nagrody, o cośmy się zrazu różnili?
+
+Protarchos: No, może być.
+
+Sokrates: Więc proszę. Za zwycięzcę uznaliśmy żywot zmieszany z rozkoszy i z rozumu. Było tak?
+
+Protarchos: Było.
+
+Sokrates: Prawda? My widzimy to życie, które to jest i jakiego rodzaju?
+
+Protarchos: No, jakżeby nie?
+
+Sokrates: I powiemy, że ono jest cząstką trzeciego rodzaju, bo ono nie jest zmieszane z byle jakich dwóch pierwiastków, ale ze wszystkiego, co nieokreślone, a związane określeniem. Tak, że słusznie ten zwycięski żywot będzie cząstką tego trzeciego rodzaju.
+
+Protarchos: To zupełnie słuszne.
+
+XV. Sokrates: No, dobrze. A cóż twoje życie, Filebie — rozkoszne i niezmieszane? Do którego z wymienionych rodzajów można by je słusznie zaliczyć? Ale, zanim to objawisz, odpowiedz mi jeszcze na jedno pytanie.
+
+Protarchos: Mów tylko.
+
+Sokrates: Rozkosz i ból mają granice, czy też należą do tych rzeczy, którym przysługuje „bardziej” i „mniej”?
+
+Fileb: Tak. Im przysługuje to „bardziej”. Inaczej by rozkosz nie była wszelkim dobrem, gdyby z natury nie była bez kresu i na ilość, i na to „coraz bardziej”.
+
+Sokrates: Filebie, nawet ból nie jest wszelkim złem. Zatem musimy coś innego wziąć pod uwagę, a nie naturę pierwiastka nieokreślonego, aby znaleźć to, co nadaje rozkoszom pewną cząstkę dobra. Ból i rozkosz niech ci należą do rodzaju rzeczy nieokreślonych. A rozum i wiedzę, i umysł, do którego z poprzednio wymienionych rodzajów możemy zaliczyć, Protarchu i Filebie — tak, aby nie zgrzeszyć? Bo mam wrażenie, że niemałe grozi nam niebezpieczeństwo; możemy trafnie lub nietrafnie odpowiedzieć na obecne pytanie.
+
+Fileb: O, ty przechwalasz swojego boga, Sokratesie.
+
+Sokrates: I ty, przyjacielu, swoją boginię. Ale na pytanie musimy jednak odpowiedzieć.
+
+Protarchos: Słusznie mówi Sokrates, Filebie, i trzeba go posłuchać.
+
+Fileb: Ale może byś ty wolał odpowiedzieć zamiast mnie?
+
+Protarchos: Owszem. Tylko że w tej chwili jestem w prawdziwym kłopocie i proszę ciebie, Sokratesie, bądź ty sam naszym prorokiem, abyśmy w sprawie tego zawodnika nie popełnili jakiego grzechu i abyś nie miał wrażenia, że śpiewamy fałszywie.
+
+Sokrates: Trzeba słuchać, Protarchu. Nawet nic tak trudnego nie zalecasz. Ale czy ja cię naprawdę, jak mówi Fileb, przechwalając na żart, w kłopot wprowadziłem pytaniem, do jakiego rodzaju należy umysł i wiedza?
+
+Protarchos: W każdym razie, Sokratesie.
+
+Sokrates: A to łatwa rzecz. Przecież wszyscy mędrcy zgodnym chórem twierdzą, a przechwalają się przy tym sami, że umysł jest nam królem nieba i ziemi. I może być, że dobrze mówią. Jeżeli chcesz, przeprowadzimy dłuższe rozważanie nad tym, do jakiego on rodzaju należy.
+
+Protarchos: Mów, jak chcesz, Sokratesie. Ze względu na nas nie myśl o tym, że to długie; nie znudzisz nas.
+
+XVI. Sokrates: Pięknieś to powiedział. Więc zacznijmy jakoś tak, od pytania.
+
+Protarchos: Od jakiego?
+
+Sokrates: Od tego, Protarchu: czy powiemy, że wszystkim w ogóle i tym tak zwanym wszechświatem rządzi siła bezrozumna i przypadkowa, i na chybił trafił, czy też wprost przeciwnie, jak to dawniejsi od nas mówili, że umysł i rozum jakiś przedziwny trzyma to w porządku i tym kieruje?
+
+Protarchos: To nie jest jedno i to samo, przedziwny Sokratesie. To pierwsze, coś teraz powiedział, wydaje mi się nawet bezbożne. A to, że rozum wszystko porządkuje, to zdanie wydaje mi się godne widoku wszechświata i słońca, i księżyca, i gwiazd, i całego ich obrotu; ja bym się nie potrafił inaczej o tym wszystkim wyrazić ani inaczej myśleć.
+
+Sokrates: Więc cóż, chcesz, żebyśmy i my przytakiwali tylko naszym poprzednikom, że to tak jest? Czy uważamy, że trzeba nam tylko cudze zdania powtarzać bez niebezpieczeństwa, czy też zechcemy dzielić z nimi ryzyko i narażać się na naganę, kiedy człowiek mocny powie, że to nie tak jest i porządku w świecie nie ma?
+
+Protarchos: Owszem, czemu bym nie miał chcieć?
+
+Sokrates: To wiesz co, uważaj na tę myśl, która na nas idzie w tej sprawie.
+
+Protarchos: Mów tylko.
+
+Sokrates: Widzimy, prawda, to, co należy do natury wszystkich ciał wszystkich żywych istot: ogień i wodę, i powietrze, i widzimy ziemię, jak mówią ci, którymi burza miota; wszystko to jest w układzie świata.
+
+Protarchos: Nawet i bardzo. Prawdziwa burza nami teraz miota; zupełnie nie wiadomo, którędy płyniemy w tej rozmowie.
+
+Sokrates: Otóż proszę cię, o każdym z tych pierwiastków w nas weź pod uwagę, co następuje.
+
+Protarchos: Co takiego?
+
+Sokrates: Że z każdego z nich mieszka w nas odrobina licha i zgoła nieczysta, i niemająca siły odpowiedniej do swej natury. Jedno tylko weź pod uwagę, a o wszystkich myśl sobie to samo. Na przykład ogień jest i w nas, a jest i we wszechświecie.
+
+Protarchos: Więc co?
+
+Sokrates: Nieprawdaż, mały jest ten ogień w nas i słaby, i lichy, a ten we wszechświecie jest wielkości przedziwnej i piękności, i wszelkiej mocy, jaka ogniowi przysługuje.
+
+Protarchos: Bardzo słuszne to, co mówisz.
+
+Sokrates: No cóż? A ten ogień wszechświata żywi się i rozpala, i kieruje od tego ognia w nas, czy też na odwrót: od tamtego ognia bierze początek i to wszystko, i mój, i twój, i ogień innych żywych istot?
+
+Protarchos: Nawet nie ma co odpowiadać na to pytanie.
+
+Sokrates: Słusznie. Myślę, że to samo powiesz i o ziemi, zawartej w żywych istotach, tej tu i tej we wszechświecie, i o tych wszystkich innych żywiołach, o które przed chwilą pytałem, to samo powiesz.
+
+Protarchos: A któż, odpowiadając inaczej, mógłby się jeszcze wydać zdrowy na umyśle?
+
+Sokrates: Chyba nikt. Ale idź no dalej za tym, co następuje z kolei. My, widząc te wszystkie teraz wymienione żywioły zebrane w jedno, nazywamy je ciałem.
+
+Protarchos: Więc co?
+
+Sokrates: To samo pomyśl sobie i o tym, co my światem nazywamy. Przecież to w ten sam sposób będzie ciałem, bo to złożone też z tych samych składników.
+
+Protarchos: Zupełnie słusznie mówisz.
+
+Sokrates: Więc czy od tego ciała ogólnego nasze ciało, czy też od naszego ciała tamto bierze i ma pożywienie i to wszystko, cośmy o nich przed chwilą powiedzieli?
+
+Protarchos: I o to drugie, Sokratesie, nie warto się pytać.
+
+Sokrates: No cóż? A o to może warto? Czy jak powiesz?
+
+Protarchos: Mów, o co?
+
+Sokrates: Nasze ciało, czy nie powiemy, że ma duszę?
+
+Protarchos: Oczywiście, że powiemy.
+
+Sokrates: A skąd ją wzięło, kochany Protarchu, jeżeli nie stąd, że ciało wszechświata ma duszę w sobie, bo ma te same składniki, co to nasze, i jeszcze od nich ze wszech miar piękniejsze?
+
+Protarchos: Jasna rzecz, że to znikądinąd, Sokratesie.
+
+Sokrates: Przecież nie myślimy, Protarchu, żeby te cztery rzeczy: określenie, nieokreśloność, ich połączenie i pierwiastek czynny, który jako czwarty rodzaj tkwi we wszystkim, żeby to tylko w nas wyrabiało duszę i wyćwiczenie fizyczne, a w razie chwilowego defektu ciała stawiało je na nogi, żeby to, co w innych istotach innych syntez dokonywa i leczy je, dlatego się wszelką i wszelaką mądrością nazywa, żeby więc zupełnie te same składniki będące w całym niebie, i to w ogromnych porcjach, a do tego jeszcze piękne i czyste, nie miały tam wytwarzać natury najpiękniejszej i najzacniejszej.
+
+Protarchos: Ach, to by żadną miarą sensu nie miało.
+
+Sokrates: Nieprawdaż, jeśli nie tak, to lepiej zrobimy, idąc za tą myślą, którąśmy nieraz wypowiadali, że we wszechświecie jest wiele pierwiastka nieokreśloności i określonego też dość, i jakaś jest nad nimi przyczyna nielicha, która porządkuje i układa lata i pory roku, i miesiące, która się chyba najsprawiedliwiej nazywa mądrością i rozumem.
+
+Protarchos: Najsprawiedliwiej przecież.
+
+Sokrates: A mądrość i rozum bez duszy w żaden sposób istnieć nie mogą.
+
+Protarchos: A nie.
+
+Sokrates: Nieprawdaż, w naturze Zeusa, powiesz, królewska dusza tkwi i królewski rozum, bo taka jest potęga przyczyny, a w innych bóstwach inne piękne rysy, od których biorą miłe im przydomki.
+
+Protarchos: Tak jest, i bardzo.
+
+Sokrates: Nie sądź, Protarchu, żeśmy tę myśl na wiatr wypowiedzieli; ona stoi w szyku obok tamtej, dawno objawionej, że wszechświatem zawsze rozum rządzi.
+
+Protarchos: Tak jest przecież.
+
+Sokrates: I ta myśl dostarczyła odpowiedzi na moje pytanie; myśl, że rozum to jest jeden z czterech rodzajów, który uważamy za przyczynę wszystkiego. Więc teraz masz już moją odpowiedź.
+
+Protarchos: Mam i zupełnie mi wystarcza. A nawet nie zauważyłem, że dajesz odpowiedź.
+
+Sokrates: Figiel czasem jest ulgą w poważnej rozmowie.
+
+Protarchos: Ładnieś to powiedział.
+
+Sokrates: Zatem rozum, przyjacielu, do którego rodzaju należy i jaką posiada moc, to może nam się już teraz dostatecznie wyjaśniło.
+
+Protarchos: Tak jest.
+
+Sokrates: A rozkoszy rodzaj, tak samo, dawno jest widomy.
+
+Protarchos: I bardzo.
+
+Sokrates: Zapamiętajmyż sobie o nich obojgu i to, że rozum jest pokrewny przyczynie i należy prawie że do tego samego rodzaju, a rozkosz nie ma określonej granicy sama i należy do rodzaju, który ani początku, ani środków, ani końca sam w sobie i od siebie nie ma i nigdy mieć nie będzie.
+
+Protarchos: Będziemy pamiętali. Jakżeby nie?
+
+XVII. Sokrates: Trzeba nam teraz zobaczyć, na czym polega jedno i drugie i na tle jakiego stanu one powstają, ilekroć powstają. Naprzód rozkosz. Tak, jakeśmy naprzód zbadali jej rodzaj, tak i te rzeczy weźmy naprzód. A nie biorąc pod uwagę bólu, nie potrafimy nigdy należycie zbadać rozkoszy.
+
+Protarchos: Więc jeżeli tą drogą trzeba iść, to idźmy tędy.
+
+Sokrates: Otóż, jeżeli idzie o ich powstawanie, to czy tobie się wydaje to samo, co i mnie?
+
+Protarchos: Ale co?
+
+Sokrates: Ja mam wrażenie, że rozkosz i ból z natury rzeczy powstają razem w tym rodzaju mieszanym.
+
+Protarchos: A ten mieszany rodzaj, kochany Sokratesie, przypomnij nam, który to ma być z tych omówionych poprzednio?
+
+Sokrates: Zrobi się to, wedle sił, mój znakomity przyjacielu.
+
+Protarchos: Toś ładnie powiedział.
+
+Sokrates: Zatem rodzaj mieszany to ten trzeci spośród czterech omówionych.
+
+Protarchos: Ten, któryś wymienił po nieokreśloności i określeniu, i tam zamieściłeś i zdrowie, zdaje mi się, i harmonię?
+
+Sokrates: Bardzo pięknieś powiedział. Zatem uważaj już, jak tylko potrafisz.
+
+Protarchos: Mów tylko.
+
+Sokrates: Mówię tedy, że gdy się harmonia psuje w nas, w istotach żywych, to zaraz się rozpada nasza natura i rodzą się boleści w tej samej chwili.
+
+Protarchos: Bardzo możliwe, że jest tak, jak mówisz.
+
+Sokrates: A kiedy się harmonia znowu składa i do swojej natury wraca, wtedy rozkosz powstaje. Tak trzeba powiedzieć, jeżeli się ma w krótkich słowach jak najprędzej ująć rzeczy bardzo wielkie.
+
+Protarchos: Mam wrażenie, Sokratesie, że mówisz słusznie, ale starajmy się to samo jeszcze jaśniej powiedzieć.
+
+Sokrates: Nieprawdaż, przykłady pospolite i codzienne, a niezawiłe najłatwiej zrozumieć?
+
+Protarchos: Tak.
+
+Sokrates: Głód — to rozkład i ból?
+
+Protarchos: Tak.
+
+Sokrates: A jedzenie to napełnianie się z powrotem i rozkosz?
+
+Protarchos: Tak.
+
+Sokrates: Pragnienie znowu to psucie się i ból. A siła wilgoci, która to, co wyschłe, znowu napełnia, to rozkosz. Rozpadanie się zaś i rozkład nienaturalny pod wpływem gorąca to ból, a powrót do naturalnego stanu i ochładzanie się to rozkosz.
+
+Protarchos: O, tak jest.
+
+Sokrates: I nienaturalne krzepnięcie wilgoci u istoty żywej pod wpływem zimna — to ból. A gdy soki do pierwotnego stanu wracają i rozpuszczają się, to naturalna droga — to rozkosz. Jednym słowem zobacz, czy ci się to wyda w sam raz powiedziane, jeżeli się powie, że postać złożona z nieokreśloności i z określenia, i z natury mająca duszę w sobie, jak to mówiłem poprzednio, kiedy się psuć zaczyna, to jej psucie się jest bólem, a droga powrotu do własnej istoty, kiedy wszystko wraca na swoje miejsce — to rozkosz.
+
+Protarchos: Niech będzie; mam wrażenie, że to ma pewien typ przebiegu.
+
+Sokrates: Zatem zakładamy tę jedną postać bólu i rozkoszy — na tle tych stanów jednego i drugiego rodzaju.
+
+Protarchos: Dobrze; niech to leży.
+
+XVIII. Sokrates: A przedstaw sobie oczekiwanie takich stanów, kiedy dusza sama spodziewanych stanów przyjemnych oczekuje z przyjemnością i z otuchą, a innym razem oczekiwanie stanów przykrych — straszne i bolesne.
+
+Protarchos: Przecież to jest druga postać rozkoszy i bólu, która niezależnie od ciała w samej duszy powstaje — przez oczekiwanie.
+
+Sokrates: Dobrześ to podchwycił. Myślę, że na nich się pokaże — takie jest przynajmniej moje zdanie — bo przecież te będą chyba czyste i niezmieszane z bólu i z rozkoszy, na nich się pokaże jasno, jak to jest z tą rozkoszą: czy cały jej rodzaj jest wart kochania, czy też kochanie zachować lepiej dla któregoś innego rodzaju spośród wymienionych, a rozkosz i ból, tak jak ciepło i chłód, i wszystkie rzeczy tego rodzaju, raz kochać, a innym razem lepiej ich nie kochać, bo to nie są dobra, tylko niekiedy i niektóre z nich, zdarza się, że przyjmują naturę dobra.
+
+Protarchos: Zupełnie słusznie mówisz, że jakoś tędy trzeba szukać tego, za czym teraz polujemy.
+
+Sokrates: Więc najpierw to wspólnie zobaczmy. Jeżeli to istotnie tak jest, jak mówimy, że psucie się to boleść, a odbudowa to rozkosz, tu zastanówmy się, co będzie, jeśli ani psucia się nie ma, ani odbudowy. Jaki też stan musi w takim wypadku zachodzić w każdej żywej istocie, gdyby tak właśnie wypadło? Uważnie się zastanów i powiedz. Czyż nie musi tak być, że w takim czasie wszelka żywa istota ani bólu żadnego nie doznaje, ani rozkoszy. Ani w wysokim stopniu, ani w małym?
+
+Protarchos: To musi tak być.
+
+Sokrates: Zatem to jest trzecia nasza postawa duchowa — ta właśnie, obok postawy tego, który się cieszy, i tego, który boleje?
+
+Protarchos: No, pewnie.
+
+Sokrates: Zatem staraj się pamiętać o tym. Bo jeżeli chodzi o ocenę rozkoszy, to niemałej wagi będzie dla nas to, czy tę postawę zapamiętamy, czy nie. Więc pokrótce, jeśli pozwolisz, pomówimy o niej.
+
+Protarchos: Mów, jak?
+
+Sokrates: Wiesz, że nic nie przeszkadza prowadzić życie rozumne właśnie w tym sposobie.
+
+Protarchos: Ty masz na myśli to życie bez radości i bez bólu?
+
+Sokrates: Mówiło się przecież, kiedyśmy zestawiali rodzaje żywotów, że ten, który wybiera życie myśli i rozumu, nie powinien doznawać żadnych radości — ani wielkich, ani małych.
+
+Protarchos: Tak, tak; mówiło się tak.
+
+Sokrates: Nieprawdaż. Więc takie by miał życie ten człowiek. To niegłupia myśl, że to może najbardziej boski żywot ze wszystkich.
+
+Protarchos: Przecież bogom nie wypada ani się cieszyć, ani wprost przeciwnie.
+
+Sokrates: Oczywiście, że nie wypada. Przecież im nie do twarzy z jednym ani z drugim. Ale o tym sobie jeszcze innym razem pomówimy, jeżeli się nadarzy sposobność, a rozumowi dodamy coś do drugiej nagrody, jeżeli nie będziemy mogli do pierwszej.
+
+Protarchos: Zupełnie słusznie mówisz.
+
+XIX. Sokrates: Otóż tak. Ta druga postać rozkoszy, która samej tylko duszy przysługuje, jakeśmy mówili, powstaje całkowicie dzięki pamięci.
+
+Protarchos: Jak to?
+
+Sokrates: Zdaje się, że trzeba się naprzód zająć pamięcią, a bodaj że jeszcze przed pamięcią — spostrzeżeniem, jeżeli się nam to wszystko ma należycie wyjaśnić.
+
+Protarchos: Jak to mówisz?
+
+Sokrates: Pomyśl sobie, że z każdorazowych stanów naszego ciała jedne dogasają w ciele, zanim do duszy dojdą, i ona zostaje wtedy bez żadnych wrażeń, a drugie przechodzą przez ciało i duszę, i robią w nich obojgu jakby pewne wstrząśnienie swoiste — wspólne duszy i ciału.
+
+Protarchos: Niech leży.
+
+Sokrates: Więc może najsłuszniej powiemy, że te stany, które nie idą przez ciało i przez duszę, są duszy nieświadome, a te, które biegną przez ciało i duszę, są jej świadome?
+
+Protarchos: No, jakżeby nie?
+
+Sokrates: Kiedy mówię o nieświadomości, to nie myśl, że ja gdzieś tutaj upatruję początek zapominania. Zapominanie to jest wyjście pamięci, a to jeszcze nie zachodzi w tym, o czym się teraz mówi. Bo mówić o jakiejś utracie tego, co ani nie istniało, ani się dziać nie zaczęło, nie ma sensu. Czy nie?
+
+Protarchos: No, chyba tak.
+
+Sokrates: Więc użyj innych wyrazów.
+
+Protarchos: Jak?
+
+Sokrates: Zamiast mówić o nieświadomości duszy, kiedy ona nie czuje wstrząsów ciała, co teraz nazywasz lethe, nazwij to anestezją, niewrażliwością.
+
+Protarchos: Rozumiem.
+
+Sokrates: A to, co się w pewnym stanie duszy i w ciele zarazem dzieje, kiedy one się wspólnie poruszają, ten znowu ruch poprawnie możesz nazwać spostrzeżeniem.
+
+Protarchos: Zupełną prawdę mówisz.
+
+Sokrates: Nieprawdaż, teraz wiemy, co chcemy nazywać spostrzeżeniem?
+
+Protarchos: No, tak.
+
+Sokrates: Więc jeżeli zachowanie spostrzeżenia nazwie ktoś pamięcią, to powie słusznie, według mego zdania przynajmniej.
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: A czy nie powiemy, że od pamiętania różni się przypominanie sobie?
+
+Protarchos: Może być.
+
+Sokrates: Czy może tym?
+
+Protarchos: Czym?
+
+Sokrates: Kiedy to, czego wraz z ciałem kiedyś doznała dusza, teraz bez udziału ciała sama jak najbardziej w sobie znowu pod uwagę bierze, wtedy mówimy o przypominaniu sobie. Czy tak?
+
+Protarchos: Tak jest.
+
+Sokrates: Prawda, i kiedy dusza, utraciwszy pamięć czy to spostrzeżenia jakiegoś, czy też czegoś, czego się nauczyła, znowu to samo w sobie na nowo odtwarza, to i to wszystko nazywamy przypomnieniem?
+
+Protarchos: Słusznie mówisz.
+
+Sokrates: A po co się to wszystko mówi, to jest…
+
+Protarchos: Co właściwie?
+
+Sokrates: Abyśmy już rozkosz duszy bez udziału ciała jak najlepiej i jak najjaśniej uchwycili, a równocześnie z nią i żądzę. Bo na jedną i drugą zdaje się rzucać światło to, co się mówiło o pamięci i o przypominaniu sobie.
+
+XX. Protarchos: Więc mówmy, Sokratesie, już to, co dalej.
+
+Sokrates: Trzeba się nad niejednym zastanowić w związku z powstawaniem rozkoszy i z całym jej kształtem, i wiele o tym mówić. A tymczasem jeszcze przedtem wypada się zająć żądzą — co też to jest i gdzie powstaje.
+
+Protarchos: To rozpatrujmy. Nic nie stracimy przecież.
+
+Sokrates: Stracimy coś; jak znajdziemy to, czego teraz szukamy, pozbędziemy się przecież beznadziejnej niewiedzy o tych właśnie sprawach.
+
+Protarchos: Dobrześ się obronił, ale próbujmy mówić o tym, co z kolei następuje.
+
+Sokrates: Nieprawdaż, teraz mówiliśmy, że głód i pragnienie, i wiele innych takich — to są pewne żądze?
+
+Protarchos: I bardzo nawet.
+
+Sokrates: Więc co właściwie wspólnego w nich mamy na oku, skoro one się tak bardzo różnią, a my jednak nadajemy im jedną nazwę?
+
+Protarchos: Na Zeusa, to z pewnością niełatwo powiedzieć, ale powiedzieć trzeba.
+
+Sokrates: To od tamtego punktu zaczynajmy na nowo.
+
+Protarchos: Od którego niby?
+
+Sokrates: „Ono pragnie” — tak mówimy o czymś tam w danym wypadku?
+
+Protarchos: No, czemu nie?
+
+Sokrates: A to znaczy tyle, co: „ono jest puste”.
+
+Protarchos: No, więc co?
+
+Sokrates: A pragnienie to żądza?
+
+Protarchos: Tak, żądza napoju.
+
+Sokrates: Napoju czy wypełnienia napojem?
+
+Protarchos: Myślę, że wypełnienia.
+
+Sokrates: Zatem ten z nas, który jest pusty, zdaje się pożądać czegoś przeciwnego swemu stanowi. Bo kiedy jest pusty, pragnie wypełnienia.
+
+Protarchos: Najoczywiściej.
+
+Sokrates: Więc cóż — ten, który pierwszy raz ma pustkę wewnętrzną, czy może skądkolwiek albo w spostrzeżeniu dotknąć napełnienia albo w pamięci, skoro go ani w tej chwili nie doznaje, ani go nie doznawał nigdy przedtem?
+
+Protarchos: Ależ jakim sposobem?
+
+Sokrates: A jednak ten, który pożąda, pożąda czegoś — mówimy.
+
+Protarchos: Jakżeby nie?
+
+Sokrates: Zatem on nie tego pożąda, czego właśnie doznaje. On pragnie przecież, i to jest pustka wewnętrzna. A ten pragnie napełnienia.
+
+Protarchos: Tak.
+
+Sokrates: Więc jakimś sposobem jakaś cząstka tego, który pragnie, może jednak dotykać napełnienia.
+
+Protarchos: Koniecznie.
+
+Sokrates: Ale ciało tą cząstką być nie może. Ono przecież puste.
+
+Protarchos: Tak.
+
+Sokrates: Zatem nie zostaje nic, jak tylko to, że dusza dotyka napełnienia — jasna rzecz, że pamięcią, bo czym by jeszcze innym mogła go dotykać?
+
+Protarchos: Bodaj że niczym innym.
+
+XXI. Sokrates: Rozumiemy więc, co nam wynika z tych rozważań?
+
+Protarchos: Że co?
+
+Sokrates: Ta myśl nam powiada, że nie istnieje żądza ciała.
+
+Protarchos: Jak to?
+
+Sokrates: Ona wskazuje ustawiczne dążenie każdej żywej istoty przeciwne stanom jej ciała.
+
+Protarchos: I bardzo.
+
+Sokrates: A to dążenie wiodące do tego, co jest stanom ciała przeciwne, świadczy, że istnieje jakaś pamięć stanów przeciwnych stanom ciała.
+
+Protarchos: Tak jest.
+
+Sokrates: Ta myśl wykazała, że istnieje pamięć, która prowadzi do przedmiotów pożądania, i w ten sposób rzuciła światło na wszelkie dążenia duszy i żądze, i na to, co kieruje wszelką żywą istotą.
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: Zatem ani pragnienia, ani głodu, ani tym podobnych stanów doznawać naszemu ciału ta myśl żadną miarą nie dopuszcza.
+
+Protarchos: Najzupełniejsza prawda.
+
+Sokrates: A jeszcze i to też w tych samych sprawach weźmy pod uwagę. Ja mam wrażenie, że ta myśl chce nam tutaj zarazem oświetlić pewną postać życia.
+
+Protarchos: Czym oświetlić i o jakim życiu mówisz?
+
+Sokrates: Tym, co się mówiło o napełnianiu się i o wewnętrznej pustce, i tym wszystkim, co dotyczy zachowania w całości i psucia się istot żywych, i że kto z nas znajdzie się w jednym z tych stanów, to cierpi, a w drugim się cieszy — zależnie od tego, jak one przechodzą jeden w drugi.
+
+Protarchos: Jest tak.
+
+Sokrates: A cóż, jeśli się znajdzie w środku między jednym i drugim?
+
+Protarchos: Jak to „w środku”?
+
+Sokrates: Na tle stanu swego ciała cierpi, ale pamięta o przyjemnościach, które gdyby nadeszły, boleść by ustała, ale się nie napełnia jeszcze. Cóż wtedy? Powiemy czy nie powiemy, że on jest w środku pomiędzy dwoma stanami?
+
+Protarchos: Powiemy przecież.
+
+Sokrates: Czy to, że całkowicie cierpi, czy też, że się cieszy?
+
+Protarchos: Na Zeusa — toż podwójny ból go trapi. Cielesny — na tle stanu jego ciała, a duchowy też, bo on oczekuje i tęskni.
+
+Sokrates: Jakże ty, Protarchu, mówisz o podwójnym bólu? Czyż nie zdarza się, że ktoś z nas, mając pustkę w sobie, utknie i trwa w jawnej nadziei, że napełnienie się przyjdzie, a innym razem, przeciwnie: żadnej nie żywi nadziei?
+
+Protarchos: I bardzo nawet.
+
+Sokrates: Więc nie wydaje ci się, że on się w nadziei przyszłego napełnienia swoją pamięcią cieszy, a równocześnie cierpi, bo ma pustkę w sobie?
+
+Protarchos: Musi tak być.
+
+Sokrates: Wtedy więc człowiek i inne istoty żywe i cierpią, i cieszą się równocześnie?
+
+Protarchos: Chyba tak.
+
+Sokrates: A cóż wtedy, gdy w chwili pustki wewnętrznej człowiek żadnej nie ma nadziei, żeby napełnienie osiągnął? Czy to nie wtedy ma powstać ten podwójny stan cierpienia, któryś ty przed chwilą dostrzegł, i myślałeś, że on jest po prostu podwójny?
+
+Protarchos: Zupełna prawda, Sokratesie.
+
+Sokrates: Rozważanie tych stanów zastosujemy do czegoś.
+
+Protarchos: Do czego?
+
+Sokrates: Czy powiemy, że te cierpienia i rozkosze są prawdziwe czy fałszywe? Czy też, że jedne z nich są prawdziwe, a drugie nie?
+
+Protarchos: Jakimże sposobem, Sokratesie, mogłyby być prawdziwe rozkosze albo cierpienia?
+
+Sokrates: A jakim sposobem, Protarchu, mogą być obawy prawdziwe lub fałszywe albo nadzieje prawdziwe i nie, albo sądy prawdziwe lub fałszywe?
+
+Protarchos: Na sądy ja bym się zgodził, ale na tamtą resztę nie.
+
+Sokrates: Jak mówisz? Zdaje mi się, żeśmy niemałą myśl obudzili.
+
+Protarchos: Prawdę mówisz.
+
+Sokrates: Jeżeli to ma związek z myślami poprzednimi, synu tamtego człowieka, to trzeba to wziąć pod uwagę.
+
+Protarchos: Może być, że to ma.
+
+Sokrates: Zatem precz z innymi tam rozwlekłościami i ze wszystkim, co tu nie należy do rzeczy.
+
+Protarchos: Słusznie.
+
+Sokrates: Powiedz mi. Bo mnie zdumienie opada, że w tych zagadnieniach, które teraz mamy przed sobą, nigdy końca nie widać ani drogi.
+
+Protarchos: Jakże to, mówisz?
+
+Sokrates: Fałszywych i prawdziwych rozkoszy nie ma?
+
+Protarchos: Ależ jakim by sposobem?
+
+Sokrates: Zatem ani we śnie, ani na jawie, ani na tle obłąkań i niedomagań umysłowych nie może się zdarzyć, żeby ktoś kiedyś myślał, że się cieszy, a nie cieszył się wcale, ani znowu żeby myślał, że cierpi, a nie cierpiał.
+
+Protarchos: Wszyscyśmy tak, Sokratesie, o tym myśleli, że to tak jest.
+
+Sokrates: Ale czy słusznie? A może się zastanowić, czy się to słusznie mówi, czy niesłusznie?
+
+XXII. Protarchos: Zastanowić się — jak bym powiedział.
+
+Sokrates: A rozgraniczmy jeszcze jaśniej to, co się teraz mówi o rozkoszy i o sądzie. Możemy przecież wydawać sądy o czymś?
+
+Protarchos: Tak.
+
+Sokrates: I doznawać rozkoszy?
+
+Protarchos: Tak.
+
+Sokrates: No, i przedmiot sądu jest czymś?
+
+Protarchos: Jakżeby nie?
+
+Sokrates: I to też, czym się cieszy ten, co doznaje rozkoszy?
+
+Protarchos: Ależ tak.
+
+Sokrates: Nieprawdaż, kto wydaje sądy, to czyby sądził słusznie, czy niesłusznie, samego faktycznego aktu sądzenia nigdy nie traci?
+
+Protarchos: Ale skądżeby?
+
+Sokrates: Nieprawdaż — i ten, co się cieszy, to czyby się słusznie cieszył, czy niesłusznie, samego faktycznego aktu cieszenia się nigdy nie traci — to jasne.
+
+Protarchos: Tak; to tak jest.
+
+Sokrates: Zatem trzeba się zastanowić, jakim to sposobem sąd raz prawdziwy, a raz fałszywy lubi nam się zdarzać, a rozkosz tylko prawdziwa, chociaż faktyczny akt sądzenia i akt radości istnieją oba jednako.
+
+Protarchos: Zastanówmy się.
+
+Sokrates: Myślisz, że trzeba zważyć to, że sąd ma w dodatku cechę fałszu i prawdy, i przez to jest nie tylko sądem po prostu, ale jeden jest taki, a drugi inny?
+
+Protarchos: Tak.
+
+Sokrates: A oprócz tego i to, że choć mamy rzeczy różnych jakości, to rozkosz i ból są tylko tym, czym są, a różnych jakości nie mają. I na to się nam wypadnie zgodzić?
+
+Protarchos: Jasna rzecz.
+
+Sokrates: A tymczasem nietrudno dojrzeć, że one mają też pewną jakość. Dawnośmy przecież mówili, że są wielkie i małe, i mocne bywają cierpienia i rozkosze.
+
+Protarchos: No, w każdym razie.
+
+Sokrates: I jeżeli się do jednego lub do drugiego pewne zło przyczepi, to powiemy i o sądzie, że zły, i o rozkoszy, że zła.
+
+Protarchos: No, czemu by nie, Sokratesie?
+
+Sokrates: A cóż, jeśli słuszność albo przeciwieństwo słuszności dołączy się do jednego lub drugiego? Czyż nie powiemy, że sąd jest słuszny, jeżeli będzie miał słuszność, a tak samo i rozkosz?
+
+Protarchos: To koniecznie.
+
+Sokrates: A jeżeliby ktoś chybił przedmiotu sądu, to taki sąd chybiający — zgodzimy się — będzie niesłuszny, bo nie sądzi słusznie?
+
+Protarchos: Ależ jakżeby?
+
+Sokrates: No cóż — a kiedy patrzymy na ból albo na jakąś rozkosz i widzimy, że ten ból chybia przedmiotu, którego dotyczy, albo rozkosz tak samo robi, to jak? Powiemy, że są słuszne albo właściwe, albo je jakimś innym pięknym przydomkiem ozdobimy?
+
+Protarchos: Niepodobna, skoro taka rozkosz chybia.
+
+Sokrates: A zdaje się, że u nas rozkosz często nie łączy się z sądem prawdziwym, tylko z fałszywym.
+
+Protarchos: Jakżeby nie? Ale też w takim wypadku, Sokratesie, my sąd nazywamy fałszywym, ale samej rozkoszy nikt nigdy nie może nazwać fałszywą.
+
+Sokrates: Dzielnie bronisz sprawy rozkoszy, Protarchu, tym razem.
+
+Protarchos: No nie — ja mówię tylko to, co słyszę.
+
+Sokrates: A nam to nie robi żadnej różnicy, przyjacielu, czy rozkosz się łączy z sądem prawdziwym i z wiedzą, czy też z fałszywym i z niewiedzą, która się nieraz w każdym z nas lęgnie?
+
+Protarchos: Oczywiście przecież, że to niemała różnica.
+
+XXIII. Sokrates: Więc weźmy się do rozważania tej różnicy.
+
+Protarchos: Prowadź, którędy uważasz.
+
+Sokrates: Więc tędy prowadzę.
+
+Protarchos: Którędy?
+
+Sokrates: Sąd, powiedzieliśmy, zdarza się fałszywy, a bywa i prawdziwy?
+
+Protarchos: Bywa.
+
+Sokrates: A za nim idzie, jakeśmy w tej chwili mówili, rozkosz i ból nieraz; ja myślę: za sądem prawdziwym lub fałszywym.
+
+Protarchos: Tak jest.
+
+Sokrates: A prawda, że z pamięci i z wyobrażenia spostrzegawczego rodzi się w nas sąd za każdym razem i zdolność do wydawania sądów?
+
+Protarchos: O tak, stanowczo.
+
+Sokrates: Więc może w taki sposób powinniśmy się odnosić do tego?
+
+Protarchos: W jaki?
+
+Sokrates: Nieraz ktoś patrzy i widzi coś z daleka niezbyt wyraźnie; chciałby móc ocenić to, co widzi. Czy powiesz, że to się zdarza?
+
+Protarchos: Powiem.
+
+Sokrates: Nieprawdaż — i potem on sam siebie może zapytać tak.
+
+Protarchos: Jak?
+
+Sokrates: Co też to jest to, co tu widać koło skały pod jakimś drzewem? Czy uważasz, że ktoś może tak do siebie mówić, kiedy przy sposobności coś takiego zobaczy?
+
+Protarchos: No, czemu?
+
+Sokrates: A czy potem taki ktoś, niby to odpowiadając samemu sobie, może powiedzieć, że to jest człowiek, i to może być trafne?
+
+Protarchos: Nawet i bardzo.
+
+Sokrates: A jak mu powiedzą, że to jest robota jakichś pasterzy, wtedy będzie nazywał posągiem to, co widzi.
+
+Protarchos: Na pewno.
+
+Sokrates: A gdyby ktoś przy nim był, to on by te słowa do siebie samego powiedziane ubrał w głos, zwrócony do towarzystwa, i powiedział to, co myśli; czy nie tak powstałoby to powiedzenie, któreśmy przedtem nazywali sądem?
+
+Protarchos: No cóż — może tak.
+
+Sokrates: A gdyby, prawda, był sam, i to samo by sobie myślał, to nieraz by tak i dłuższy czas szedł, i to by w sobie obnosił.
+
+Protarchos: Tak jest.
+
+Sokrates: Więc cóż? Czy tobie się to zdarzenie przedstawia tak jak i mnie?
+
+Protarchos: A tobie jak?
+
+Sokrates: Ja mam wrażenie, że w takich razach nasza dusza jest podobna do jakiejś książki.
+
+Protarchos: Jak?
+
+Sokrates: Pamięć zbiega się razem ze spostrzeżeniami, a te stany, które się z tym wiążą, mam wrażenie, jakby wypisywały wtedy w naszej duszy pewne słowa. I kiedy taki stan prawdę napisze, to powstaje sąd prawdziwy i prawdziwe myśli w nas się rodzą. A jeżeli kłamstwo taki pisarz w nas napisze, wychodzi przeciwieństwo prawdy.
+
+Protarchos: Zupełnie tak mi się rzecz przedstawia i przyjmuję takie ujęcia słowne.
+
+Sokrates: Przyjmijże i drugiego majstra, który wtedy pracuje w naszych duszach.
+
+Protarchos: Którego?
+
+Sokrates: Malarza, który po pisarzu maluje w duszy obrazy tego, co tamten zapisał.
+
+Protarchos: A tego znowu jakim sposobem i kiedy — powiemy?
+
+Sokrates: Kiedy ktoś od wzroku albo od któregoś innego zmysłu wziął to, co kiedyś sądził albo mówił, i teraz jakoś w samym sobie ogląda obrazy pochodne tych rzeczy, o których wtedy sądził albo o nich mówił. Czy to się u nas tak nie dzieje?
+
+Protarchos: Ależ i bardzo.
+
+Sokrates: Nieprawdaż, obrazy sądów i słów prawdziwych są prawdziwe, a fałszywych — fałszywe?
+
+Protarchos: Ze wszech miar.
+
+Sokrates: Jeżeli to prawda, cośmy powiedzieli, to jeszcze i nad tym się w dodatku zastanówmy.
+
+Protarchos: Nad czym?
+
+Sokrates: Czy to tylko w związku z obecnymi i z minionymi rzeczami musimy takich rzeczy doznawać, a w związku z przyszłymi nie?
+
+Protarchos: Ależ w związku z wszystkimi czasami tak samo.
+
+Sokrates: Nieprawdaż, mówiło się przedtem o rozkoszach i o smutkach, które w samej tylko duszy mieszkają, że mogą się zjawiać jeszcze przed rozkoszami i cierpieniami przychodzącymi przez ciało; tak, że niekiedy cieszymy się naprzód i martwimy się z góry w związku z czasem przyszłym?
+
+Protarchos: Najzupełniejsza prawda.
+
+Sokrates: Czyż więc te litery i obrazki, któreśmy przed chwilą przyjęli, odnoszą się w nas tylko do czasu teraźniejszego i przeszłego, a do przyszłego już nie?
+
+Protarchos: Ależ i bardzo.
+
+Sokrates: Ty mówisz „bardzo”. Czy dlatego, że to wszystko są nadzieje, skierowane do czasu przyszłego, a nas przez całe życie przepełniają nadzieje?
+
+Protarchos: W każdym razie.
+
+XXIV. Sokrates: Więc proszę cię, po tym, co się powiedziało, jeszcze i na to odpowiedz.
+
+Protarchos: Na co?
+
+Sokrates: Człowiek sprawiedliwy i pobożny, i dobry, czyż nie jest ze wszech miar bogom miły?
+
+Protarchos: Czemuż nie?
+
+Sokrates: No cóż; a niesprawiedliwy i w ogóle zły, czyż nie wprost przeciwnie niż tamten?
+
+Protarchos: Jakże nie?
+
+Sokrates: A wielu nadziei, jakeśmy dopiero co mówili, każdy człowiek jest pełen?
+
+Protarchos: Czemu nie?
+
+Sokrates: Są takie myśli w każdym z nas, które nazywamy nadziejami?
+
+Protarchos: Tak.
+
+Sokrates: Są w nas i obrazki malowane. Bywa, że ktoś często widzi, jak mu w ręce wpada mnóstwo złota i wiele rozkoszy w dodatku. I widzi siebie wymalowanego, jak się sam ze siebie mocno cieszy.
+
+Protarchos: No, czemu nie?
+
+Sokrates: A te obrazki, powiemy, u dobrych są po większej części prawdziwe, bo oni są bogom mili, a u złych po większej części bywa wprost przeciwnie, czy też nie powiemy tak?
+
+Protarchos: Ależ i bardzo, powiemy.
+
+Sokrates: Nieprawdaż, ale ci źli mają tak samo wymalowane rozkosze, tylko że one są fałszywe jakoś.
+
+Protarchos: No, cóż.
+
+Sokrates: Więc fałszywymi rozkoszami po większej części cieszą się źli, a ludzie dobrzy prawdziwymi.
+
+Protarchos: Absolutnie, musi tak być, jak mówisz.
+
+Sokrates: Zatem istnieją w duszach ludzkich, wedle tych słów teraz, rozkosze fałszywe, które tylko na śmiech przedrzeźniają rozkosze prawdziwe. A cierpienia tak samo.
+
+Protarchos: Są.
+
+Sokrates: Nieprawdaż, kto w ogóle ma władzę sądzenia, ten sądy wydaje zawsze, ale niekiedy je wydaje o tym, czego nie ma, nie było, ani też nie będzie.
+
+Protarchos: Tak jest.
+
+Sokrates: I to, mam wrażenie, wyrabiało sądy i akty sądzenia fałszywe. Czy nie tak?
+
+Protarchos: Tak.
+
+Sokrates: Cóż więc — czy nie trzeba cierpieniom i rozkoszom przyznać ich odwrotności w takich wypadkach?
+
+Protarchos: Jak?
+
+Sokrates: Że cieszyć się istotnie może zawsze ten, który się potrafi cieszyć czymkolwiek, i to byle czym, ale nie zawsze tym, co istnieje albo istniało, a nieraz — i to może najczęściej — czymś, co nawet nigdy istnieć nie miało.
+
+Protarchos: I to, Sokratesie, musi być tak koniecznie.
+
+Sokrates: Nieprawdaż, ta sama rzecz byłaby z obawami i gniewami, i z wszystkimi tego rodzaju stanami; one bywają czasem fałszywe?
+
+Protarchos: Tak jest.
+
+Sokrates: Więc cóż, możemy powiedzieć, że sądy robią się złe w inny sposób, czy też tylko w ten, że się stają fałszywe?
+
+Protarchos: Nie inaczej.
+
+Sokrates: Ani rozkoszy, mam wrażenie, nie widzimy złych — w inny sposób, jak tylko w ten, że są fałszywe.
+
+Protarchos: Sokratesie, powiedziałeś coś bardzo przewrotnego. Prawie że między fałsze kłaść złych rozkoszy i złych cierpień nikt nie zechce. One podpadają wspólnie pod inne wielkie zło.
+
+Sokrates: Zatem o złych rozkoszach, o tych, które są takimi przez zło, trochę później będziemy mówili, jeżeli się nam tak podoba. Ale o fałszywych, których w innym sposobie mamy w sobie dużo i często lęgną się w nas nowe takie, pomówić teraz potrzeba. To się nam może przydać przy naszych ocenach.
+
+Protarchos: Jakżeby nie. Jeżeli tylko są takie rozkosze.
+
+Sokrates: Ależ, Protarchu, są wedle mojego zdania. Chociaż to twierdzenie, jak długo tylko u mnie leży, nie może być nie do zbicia.
+
+Protarchos: Pięknie.
+
+XXV. Sokrates: To obstąpmy tę myśl i weźmy się do niej jak atleci.
+
+Protarchos: Ruszajmy!
+
+Sokrates: Otóż powiedzieliśmy, jeśli pamiętamy, przed chwilą, że kiedy w nas są tak zwane żądze, wtedy są podwójnie, bo i ciało niezależnie od duszy też afekty wtedy rozbierają.
+
+Protarchos: Pamiętamy. Tak się mówiło.
+
+Sokrates: Nieprawdaż. Dusza pożądała stanów przeciwnych stanom ciała, a ciało dostarczało boleści albo dawało jakąś rozkosz na tle swojego stanu.
+
+Protarchos: Było tak.
+
+Sokrates: Więc wywnioskuj, co się dzieje w takich razach.
+
+Protarchos: Mów.
+
+Sokrates: Więc dzieje się to, że ile razy taki stan zajdzie, leżą obok siebie razem cierpienia i rozkosze oraz spostrzeżenia wewnętrzne, które tych przeciwnych sobie stanów dotyczą. Co się i teraz właśnie pokazało.
+
+Protarchos: Pokazuje się.
+
+Sokrates: Prawda? A to też się powiedziało i uchwaliło, a więc to przyjęte i to leży?
+
+Protarchos: Co niby?
+
+Sokrates: Że ból i rozkosz przyjmują swoje „bardziej” i „mniej” i należą do nieokreślonych bytów.
+
+Protarchos: Powiedziało się. Więc co?
+
+Sokrates: Jaka jest możliwość, żeby je słusznie oceniać?
+
+Protarchos: Pod jakim względem i jak?
+
+Sokrates: Pytam się, czy nie budzi się w nas potrzeba oceny w takich okolicznościach, czy nie radzi byśmy za każdym razem rozpoznać, co jest większe od czego: ból czy rozkosz, i co mniejsze i co bardziej, i co mocniejsze: ból w stosunku do rozkoszy i ból w stosunku do innego bólu, i rozkosz w stosunku do innej rozkoszy.
+
+Protarchos: Tak, te rzeczy są takie i jest ta potrzeba rozsądzania.
+
+Sokrates: Więc cóż? W dziedzinie wzroku patrzenie na wymiary z odległości zbyt wielkiej i zbyt małej zasłania prawdę i powoduje sądy fałszywe, a w dziedzinie cierpień i rozkoszy czy nie może się sądzić to samo?
+
+Protarchos: Jeszcze bardziej, Sokratesie.
+
+Sokrates: Jakoś wprost przeciwnie wychodzi to teraz, niż się wydawało poprzednio.
+
+Protarchos: Co takiego, myślisz?
+
+Sokrates: Przedtem sądy, fałszywe i prawdziwe same przez się, zarażały ból i rozkosz tym, na co cierpiały same.
+
+Protarchos: Najzupełniejsza prawda.
+
+Sokrates: A teraz, dzięki temu, że się je ogląda z odległości zbyt małych, a wciąż zmiennych, i równocześnie dlatego, że się je kładzie obok siebie, rozkosze w zestawieniu z cierpieniem wydają się większe i mocniejsze, a cierpienia wprost przeciwnie: tracą w zestawieniu z rozkoszami.
+
+Protarchos: Koniecznie się tak musi dziać przez to.
+
+Sokrates: Nieprawdaż, jeżeli się więc większe i mniejsze od rzeczywistych jedne i drugie wydają, to oderwij od nich ten pozorny, a nieodpowiadający rzeczywistości wygląd, a nie nazwiesz go wyglądem słusznym, ani też nie będziesz śmiał powiedzieć, że ta porcja rozkoszy i bólu, która na nim polega, jest słuszna i prawdziwa.
+
+Protarchos: No nie; gdzież tam.
+
+Sokrates: Więc po nich z kolei zobaczmy, może na tej znowu drodze spotkamy rozkosze i bóle fałszywe jeszcze bardziej niż te, które się wydają istnieć i które istnieją w żywych istotach.
+
+Protarchos: O jakich ty mówisz i jak to?
+
+XXVI. Sokrates: Mówiło się nieraz, że gdy się natura czyjakolwiek popsuje procesami rozkładu i odbudowy, i napełniania się, i opróżniania, i jakimiś tam przyrostami i ubytkami, to zjawiają się cierpienia i boleści, i męki, i wszystko, co się podobnie nazywa.
+
+Protarchos: Tak. To się mówiło często.
+
+Sokrates: A kiedy coś wraca do własnej natury, to taki powrót przyjęliśmy jako rozkosz.
+
+Protarchos: Słusznie.
+
+Sokrates: No cóż. A gdyby się w naszym ciele nie odbywało ani jedno, ani drugie?
+
+Protarchos: A skądże by się taki stan mógł wziąć, Sokratesie?
+
+Sokrates: To twoje pytanie teraz, Protarchu, zgoła nie do rzeczy.
+
+Protarchos: A to co?
+
+Sokrates: Dlatego, że nie przeszkadza mi wcale zadać ci po raz drugi poprzedniego pytania.
+
+Protarchos: Jakiego?
+
+Sokrates: Gdyby nawet taki stan, nie mógł istnieć, Protarchu, tak ja powiem, to jednak co by w nas musiało powstać w tych warunkach?
+
+Protarchos: Gdyby się w ciele nie odbywały zmiany ani w jednym, ani w drugim kierunku? Tak mówisz?
+
+Sokrates: Tak.
+
+Protarchos: To jasna rzecz, Sokratesie, że w tych warunkach ani by rozkosz powstać nie mogła, ani żaden ból.
+
+Sokrates: Bardzo ładnieś powiedział. Zatem ty mówisz to, że zawsze jakiś taki stan musi w nas zachodzić, jak to mędrcy powiadają: Wszystko na tym świecie płynie. W górę i w dół.
+
+Protarchos: A mówią tak. I bodaj że nie byle co mówią.
+
+Sokrates: Jakżeby nie, skoro to nie byle jacy ludzie. Ale, wiesz, ja bym pragnął jakoś uniknąć tej myśli, która nadciąga. Zamierzam uciec tędy, a ty uciekaj ze mną.
+
+Protarchos: Mów którędy.
+
+Sokrates: Więc niech to tak będzie, powiemy im. A ty odpowiadaj. Czy zawsze, czegokolwiek by doznawała jakaś istota posiadająca duszę, czy ona zawsze spostrzega wszystko, czego doznaje, i ani nasz wzrost nie odbywa się poza naszą świadomością, ani żaden inny stan tego rodzaju, czy też wprost przeciwnie?
+
+Protarchos: Ależ wszystko wprost przeciwnie. Bo bez mała wszystkie takie procesy odbywają się poza naszą świadomością.
+
+Sokrates: Zatem nieładnieśmy sformułowali ostatnią zasadę, że to procesy rozkładu i odbudowy wywołują cierpienia i rozkosze.
+
+Protarchos: Jak to?
+
+Sokrates: To będzie ładniejsze i bezpieczniejsze sformułowanie.
+
+Protarchos: Jakie?
+
+Sokrates: Że wielkie procesy metaboliczne wywołują cierpienia i rozkosze, ale takie w sam raz i małe nie wywołują wcale ani jednych, ani drugich.
+
+Protarchos: To słuszniejsze, Sokratesie, niż tak, jak przedtem.
+
+Sokrates: Nieprawdaż, jeżeli to tak, to chyba wróci na stół życie, o którym przed chwilą była mowa.
+
+Protarchos: Jakie?
+
+Sokrates: To, o którymeśmy mówili, że jest bez cierpień i radości.
+
+Protarchos: Zupełnie słusznie mówisz.
+
+Sokrates: Wobec tego przyjmijmy trojaki żywot. Jeden przyjemny, drugi smutny, a jeden ani taki, ani siaki. Albo jak byś ty się o tym wypowiedział?
+
+Protarchos: Nie inaczej, tylko tak samo, że są trzy rodzaje życia.
+
+Sokrates: Nieprawdaż, „nie cierpieć” to chyba nie to samo, co cieszyć się?
+
+Protarchos: Ależ jakim by sposobem?
+
+Sokrates: Więc kiedy usłyszysz, że najprzyjemniejsze ze wszystkiego jest spędzić całe życie bez cierpień, to co, myślisz, chce powiedzieć ktoś taki?
+
+Protarchos: Mam wrażenie, że on przyjemnością nazywa brak cierpienia.
+
+Sokrates: Powiedzmy, że mamy trzy rzeczy — jakie chcesz, takie sobie przyjmij — a żeby ładniejszych wyrazów używać, niech jedna będzie złota, druga srebrna, a trzecia ani taka, ani owaka.
+
+Protarchos: Stoi.
+
+Sokrates: Czy ta ani siaka, ani taka może się stawać złotą albo srebrną?
+
+Protarchos: Ależ jakim sposobem?
+
+Sokrates: Zatem i tego pośredniego żywota nie należy nazywać przyjemnym ani przykrym. Nie miałby słuszności ktoś, kto by go za taki uważał albo go tak nazywał. To nie miałoby sensu.
+
+Protarchos: I jak by miało mieć?
+
+Sokrates: A jednak, przyjacielu, widzimy takich, którzy tak mówią i tak myślą.
+
+Protarchos: I bardzo nawet.
+
+Sokrates: Więc czy oni też uważają, że się już cieszą wtedy, gdy nie cierpią?
+
+Protarchos: Oni tak mówią.
+
+Sokrates: Nieprawdaż, zdaje się im, że się cieszą. Inaczej by tak nie mówili.
+
+Protarchos: Bodaj że tak.
+
+Sokrates: To naprawdę mylnie oceniają radość, skoro to są zgoła różne rzeczy: nie cierpieć i cieszyć się. Zupełnie inna natura jednego i drugiego.
+
+Protarchos: Z pewnością; to są różne rzeczy.
+
+Sokrates: Więc jak? Czy zechcemy dla naszego użytku przyjąć, jak przed chwilą, trzy rzeczy, czy też tylko dwie: cierpienie, które jest złem dla ludzi, i uwolnienie się od cierpień, które już samo jest właśnie dobrem, i to będziemy nazywali rozkoszą?
+
+XXVII. Protarchos: Ależ po co my sobie samym, Sokratesie, zadajemy takie pytanie? Nie rozumiem.
+
+Sokrates: Bo ty, Protarchu, rzeczywiście nie rozumiesz przeciwników naszego Fileba.
+
+Protarchos: A ty myślisz, że to kto taki?
+
+Sokrates: Uchodzą za bardzo tęgich przyrodników, a mówią, że rozkosze w ogóle nie istnieją.
+
+Protarchos: No cóż?
+
+Sokrates: Mówią, że to tylko ucieczka od cierpień — to, co się u Fileba i u jego bliskich nazywa rozkoszą.
+
+Protarchos: I cóż, Sokratesie, ty nam radzisz, żebyśmy ich słuchali?
+
+Sokrates: Nie; trzeba się do nich odnosić jak do pewnego rodzaju wieszczków; oni takie wyrocznie pieją nie podbudowane umiejętnością, tylko zaprawione naturalnym kwasem ich natury, zresztą bardzo szlachetnej. Stąd ich zbytnia nienawiść, zwrócona przeciw potędze rozkoszy, i to zgoła niezdrowe przekonanie, że cały jej urok to są tylko czary, a nie rozkosz. Więc do nich możesz się tak odnosić, wziąwszy pod uwagę jeszcze inne ich kwaśne uwagi. A potem się dowiesz, co się mnie wydaje rozkoszą prawdziwą, abyśmy potęgę rozkoszy mogli ocenić na podstawie porównania obu tych stanowisk, zanim o niej sąd wydamy.
+
+Protarchos: Słusznie mówisz.
+
+Sokrates: Ale idźmy za tymi teraz, jak by to byli nasi sprzymierzeńcy; idźmy za śladem ich zgryźliwego usposobienia. Ja mam wrażenie, że oni mówią coś w tym rodzaju, zaczynając tak jakoś od góry, że gdybyśmy chcieli dojrzeć naturę jakiejkolwiek postaci rzeczy, na przykład naturę twardości, to czybyśmy powinni patrzeć na wszystko, co najtwardsze, i tak byśmy najlepiej do syntezy doszli, czy też na rzeczy nieznacznej twardości? Musisz, Protarchu, odpowiedzieć i mnie, i tym zrzędom.
+
+Protarchos: Owszem. Odpowiadam im, że na te pierwszej wielkości.
+
+Sokrates: Nieprawdaż. Tak samo, gdybyśmy chcieli dojrzeć jaki to jest rodzaj: rozkosz, to nie powinniśmy patrzeć na rozkosze nieznaczne, ale na te, które uchodzą za najbliższe szczytu i najmocniejsze.
+
+Protarchos: Każdy się chyba z tobą zgodzi na to, co teraz.
+
+Sokrates: Czyż więc najpospolitsze, a zarazem i największe, co powtarzamy często, nie będą to rozkosze z ciałem związane?
+
+Protarchos: Jakżeby nie?
+
+Sokrates: A czy one są większe i stają się większe u ludzi chorych, na tle chorób, czy też u ludzi zdrowych? Trzeba uważać, żebyśmy nie odpowiedzieli za prędko, bo możemy się fatalnie potknąć. Gotowiśmy powiedzieć, że u zdrowych.
+
+Protarchos: I słusznie.
+
+Sokrates: A ludzie, którzy mają gorączkę i na takie choroby cierpią, czy nie większego doznają pragnienia i zimna, i innych, jak to u nich zwykle, cierpień cielesnych; czy nie mają gwałtowniejszych potrzeb i większych rozkoszy, kiedy te potrzeby zaspokajać mogą? Czy też powiemy, że to nieprawda?
+
+Protarchos: No, to, coś teraz powiedział, to bardzo przemawia do przekonania.
+
+Sokrates: Więc cóż? Czy możemy słusznie powiedzieć, że gdyby ktoś chciał największe rozkosze oglądać, powinien nie na zdrowie patrzeć, ale pójść i oglądać choroby? A uważaj, abyś nie myślał, że w moim pytaniu chodzi o to, czy więcej rozkoszy mają ludzie ciężko chorzy niż ludzie zdrowi, tylko pamiętaj, że ja szukam wielkości rozkoszy i patrzę, gdzie można w każdym wypadku spotkać jej najwyższy stopień. Bośmy powiedzieli, że musimy wziąć pod uwagę to, jaką ona ma naturę, i to, jaką naturę przypisują jej ci, którzy w ogóle zaprzeczają jej istnieniu.
+
+Protarchos: Ja prawie że idę za twoją myślą.
+
+XXVIII. Sokrates: Zaraz, Protarchu, nie gorzej sam pokażesz. Odpowiadaj więc. Czy widzisz większe rozkosze w rozpuście — ja nie myślę o ilości, tylko o tym, które mocniejsze i wyższe — w rozpuście je widzisz, czy w życiu opanowanym? Powiedz, a uważaj dobrze.
+
+Protarchos: Ja rozumiem, co mówisz, i dobrze widzę różnicę. Przecież tych opanowanych już i przysłowiowy zwrot wyżej stawia, ta znana rada: „Niczego nad miarę!”. Oni tego słuchają. A głupców i rozpustników gwałtowna rozkosz do szałów doprowadza, kiedy nimi zawładnie, i w powszechną ich osławę podaje.
+
+Sokrates: Pięknie. Więc jeżeli to tak jest, to jasna rzecz, że w pewnym upodleniu duszy i ciała, a nie w dzielności największe rozkosze się lęgną i największe cierpienia.
+
+Protarchos: Tak jest.
+
+Sokrates: Nieprawdaż, trzeba niektóre z nich wziąć i zobaczyć, co to w nich było takiego, żeśmy je największymi nazywali.
+
+Protarchos: Koniecznie.
+
+Sokrates: Zobacz więc te rozkosze, które powstają na tle takich chorób, i przyjrzyj się, jak to jest z nimi.
+
+Protarchos: U kogo?
+
+Sokrates: U bezwstydników. Tych rozkoszy już zgoła nienawidzą tamte zrzędy, o którycheśmy mówili.
+
+Protarchos: Jakich?
+
+Sokrates: Na przykład leczenie świerzbu drapaniem się i tym podobne stany, które analogicznych lekarstw potrzebują. Przecież taki stan u nas — na bogów — cóż to za stan, powiemy: rozkosz czy cierpienie?
+
+Protarchos: To będzie, Sokratesie, jakieś mieszane zło.
+
+Sokrates: Ja przecież nie ze względu na Fileba zacząłem o tym mówić, tylko bez tych rozkoszy, Protarchu, i bez tych, które za nimi idą, jeżeli się im nie przyjrzymy, to bodaj że nigdy nie potrafimy rozstrzygnąć o tym, czego teraz szukamy.
+
+Protarchos: To pójdźmy do tych, które są im pokrewne.
+
+Sokrates: Tak samo, myślisz, zmieszane, jak one?
+
+Protarchos: Tak jest.
+
+Sokrates: Są tedy stany mieszane. Jedne, cielesne, w samych tylko ciałach mieszkają, a drugie, czysto duchowe, w duszy. Zarówno w duszy, jak i w ciele znajdziemy cierpienia pomieszane z rozkoszami, które się raz nazywają przyjemnościami, a raz cierpieniami. I tu, i tam.
+
+Protarchos: Jak to?
+
+Sokrates: Kiedy ktoś w okresie powrotu do równowagi albo wtedy, gdy ona mu się psuje, przeciwnych sobie stanów równocześnie doznaje, więc marznąc, rozgrzewa się i rozgrzany nieraz się ochładza, starając się, uważam, to mieć, a tamtego się pozbyć, kiedy się, jak to mówią, słodycz z goryczą miesza wciąż i pozbyć się tego niepodobna, wtedy się człowiek ciska i w końcu do dzikiego dochodzi napięcia.
+
+Protarchos: Wielka prawda to, co się teraz mówi.
+
+Sokrates: Nieprawdaż, w takich mieszanych stanach raz występują równe części cierpień i rozkoszy, a raz w nich więcej jednego lub drugiego?
+
+Protarchos: Jakżeby nie?
+
+Sokrates: Więc mów o takich wypadkach, kiedy w nich więcej cierpień niż rozkoszy, o tych świerzbach, jak je nazywają — a bywają też takie łechtania — kiedy się w człowieku gotuje, wre i pali, i nie poradzi tarcie i drapanie, ono tylko to po wierzchu rozpędza, wtedy to człowiek w ogień kładzie albo wprost przeciwnie, sam nie wie gdzie, raz tu, raz tam, i czasem nieopisane rozkosze znajduje, a czasem wprost przeciwnie: męki wewnętrzne z rozkoszami zmieszane dodaje do cierpień zewnętrznych; szala się chwieje w górę i w dół; rozdziela się gwałtem to, co było zmieszane, albo się zlewa w jedno to, co było rozdzielane, a zawsze się cierpienie obok rozkoszy kładzie.
+
+Protarchos: Całkowita prawda.
+
+Sokrates: Nieprawdaż, a kiedy się znowu w takich razach trafi większa porcja rozkoszy, wtedy domieszka cierpienia łechce człowieka i z cicha go drażnić zaczyna, a o wiele większa domieszka rozkoszy napina go i rzuca niekiedy; człowiek się różnymi kolorami mieni, różnorakie wykonywa ruchy, przedziwne słychać westchnienia, odchodzi od zmysłów i krzyczy jak głupi.
+
+Protarchos: I bardzo nawet.
+
+Sokrates: I potem on sam o sobie, a drugi o nim mówi, że w takich rozkoszach jakby umierał. On takich zawsze i wszędzie szuka; poluje na nie tym skwapliwiej, im się trafi głupszy i bardziej rozpustny. Nazywa je największymi, a tego, który im najwięcej czasu w życiu poświęca, uważa za najszczęśliwszego.
+
+Protarchos: Wszystkoś to, Sokratesie, przekonująco opisał; to się odnosi do ludzi, których jest wielu.
+
+Sokrates: To było, Protarchu, o rozkoszach na tle mieszanych stanów ciała, w których się czynniki powierzchowne i wewnętrzne mieszają. A o tych, w których dusza od siebie przynosi coś przeciwnego stanowi ciała, a więc cierpienia dolewa do rozkoszy i rozkosze dodaje do cierpienia, tak że jedno i drugie się miesza w jedno, o tych mówiliśmy poprzednio. Że kiedy człowiek ma pustkę w sobie, wtedy napełnienia pożąda i cieszy się nadzieją, a gdy go pustka wewnętrzna najdzie, wtedy cierpi. Tylko że wtedyśmy tego nie poparli świadkami, a teraz mówimy, że kiedy dusza jest w rozterce z ciałem, a takich wypadków jest ilość nieprzebrana, powstaje zawsze mieszanina cierpienia i rozkoszy.
+
+Protarchos: Bodaj że zupełnie słusznie mówisz.
+
+XXIX. Sokrates: Więc jeszcze nam z tych mieszanin cierpienia i rozkoszy pozostała jedna.
+
+Protarchos: Jaka, mówisz?
+
+Sokrates: Mówiliśmy o tej mieszaninie, której nieraz dusza sama w sobie kosztuje.
+
+Protarchos: A jak my to nazywamy?
+
+Sokrates: To gniew i strach, i tęsknota, i żal, i miłość, i zazdrość, i zawiść, i inne takie — czy nie uważasz, że to są cierpienia duszy pewnego rodzaju?
+
+Protarchos: Uważam.
+
+Sokrates: Nieprawdaż, pełno w nich rozkoszy znajdziemy nieprzebranych. Czy trzeba nam przypominać ten:
+
+
+…gniew, który nawet mądrego bywa, że nieraz opada
+I bywa słodszy od miodu, który się sączy kroplami,
+
+i te domieszki rozkoszy w żalach, i w tęsknotach, i w smutkach?
+
+Protarchos: No nie; te rzeczy są właśnie takie, a nie inne.
+
+Sokrates: Tak jest. I widowiska tragiczne pamiętasz, kiedy ludzie z przyjemnością płaczą.
+
+Protarchos: O, czemu nie.
+
+Sokrates: A naszą postawę duchową podczas komedii; czy wiesz, że w nich jest też mieszanina cierpienia i rozkoszy?
+
+Protarchos: Nie bardzo chwytam.
+
+Sokrates: Bo to w ogóle niełatwa rzecz, Protarchu, dojrzeć w każdej z tych okazji stan tego rodzaju.
+
+Protarchos: Nieprawdaż? Tak mi się wydaje.
+
+Sokrates: Więc weźmy go. Tym bardziej, że jest taki niejasny. Aby i w innych stanach łatwiej umieć wykryć mieszaninę cierpienia i rozkoszy.
+
+Protarchos: Więc mów, może.
+
+Sokrates: Ta, przed chwilą wymieniona, zawiść, czy ją uważasz za pewne cierpienie duszy? Czy jak?
+
+Protarchos: No, tak.
+
+Sokrates: A pokaże się, że właśnie człowiek zawistny cieszy się nieszczęściami bliźnich.
+
+Protarchos: Nawet bardzo.
+
+Sokrates: A niewiedza i to, co nazywamy głupotą, to zło?
+
+Protarchos: No, cóż?
+
+Sokrates: A stąd zobaczymy, jaką ma naturę to, co śmieszne.
+
+Protarchos: Mów tylko.
+
+Sokrates: Jest to, i to jest najważniejsze, wada, a nazwę swą bierze od pewnej dyspozycji. Wszelka zaś wada odznacza się czymś przeciwnym temu, co głosi napis na świątyni delfickiej.
+
+Protarchos: „Poznaj samego siebie”, o tym mówisz, Sokratesie?
+
+Sokrates: Oczywiście. A przeciwieństwem tego napisu byłoby, że siebie samego zgoła poznać nie można.
+
+Protarchos: No, cóż?
+
+Sokrates: Protarchu, spróbuj taką niewiedzę podzielić na trzy części.
+
+Protarchos: Jak to rozumiesz? Ja w żaden sposób nie potrafię.
+
+Sokrates: Więc mówisz, że ja muszę ją rozdzielić na razie?
+
+Protarchos: I mówię, i proszę — nie tylko mówię.
+
+Sokrates: Czy spośród ludzi, którzy nie znają siebie samych, nie musi każdy doznawać tego stanu w jeden z trzech sposobów?
+
+Protarchos: Jak?
+
+Sokrates: Najpierw, jeżeli idzie o majątek. Ktoś uważa się za bogatszego, niż jest.
+
+Protarchos: Jest wielu takich, którzy na ten stan cierpią.
+
+Sokrates: Jest jeszcze więcej takich, którzy się uważają za większych i piękniejszych, niż są, i wszelkie zalety cielesne przypisują sobie niezgodnie z prawdą, która ich dotyczy.
+
+Protarchos: Tak jest.
+
+Sokrates: A najwięcej — i to bez żadnego porównania — jest takich, którzy się mylą co do trzeciego rodzaju zalet, a mianowicie co do zalet swojej duszy, i co do dzielności uważają się za lepszych, niż są.
+
+Protarchos: Ależ bardzo mocno tak.
+
+Sokrates: A spośród zalet, czy nie do mądrości tłum rości sobie największą pretensję, tłum, pełen kłótni i fałszywych pozorów mądrości?
+
+Protarchos: Jakżeby nie?
+
+Sokrates: Gdyby ktoś wszystkie tego rodzaju stany nazwał złem, to mówiłby słusznie?
+
+Protarchos: I bardzo nawet.
+
+Sokrates: Wiesz, Protarchu, trzeba to jeszcze rozdzielić na dwie części, jeżeli mamy w ludzkiej, dziecinnej, głupiej zawiści dojrzeć mieszaninę rozkoszy i cierpienia. A pytasz się, jak my to podzielimy na dwoje?
+
+Protarchos: Tak.
+
+Sokrates: Otóż spośród wszystkich, którzy fałszywe mniemanie o sobie bezmyślnie żywią, jak spośród wszystkich w ogóle ludzi, tak i z nich jedni posiadają moc i siłę, a drudzy wprost przeciwnie.
+
+Protarchos: Musi tak być.
+
+Sokrates: Otóż według tego ich podziel. Jedni z nich są przy tym słabi i nie potrafią się pomścić na tym, który by ich wyśmiał. Jeżeli powiesz, że to są ludzie śmieszni, powiesz prawdę. Drudzy potrafią się mścić i są mocni. Jeżeli o tych powiesz, że straszni, znienawidzeni, najsłuszniej sobie zdasz z nich sprawę. Niewiedza ludzi potężnych budzi nienawiść i pogardę, bo przynosi szkodę także ich bliźnim — wszelkie jej odwzorowania tak samo — niewiedza słabych budzi w nas śmiech i jest śmieszna z natury.
+
+Protarchos: Zupełnie słusznie mówisz. Ale tej mieszaniny rozkoszy i cierpień jeszcze w tym nie widzę.
+
+Sokrates: Więc weź naprzód moc zawiści.
+
+Protarchos: No, mów.
+
+Sokrates: To jest pewne niesprawiedliwe cierpienie i rozkosz.
+
+Protarchos: To musi tak być.
+
+Sokrates: Nieprawdaż, cieszyć się nieszczęściami wrogów to ani nie jest niesprawiedliwe, ani też nie świadczy o zawiści?
+
+Protarchos: No, cóż?
+
+Sokrates: A kiedy się patrzy na nieszczęście przyjaciół, wtedy nie smucić się, tylko się cieszyć, czyż to nie jest niesprawiedliwość?
+
+Protarchos: No, jakże nie?
+
+Sokrates: Prawda? A powiedzieliśmy, że niewiedza to zło dla wszystkich?
+
+Protarchos: Słusznie.
+
+Sokrates: Zatem jeśli nasi przyjaciele są zarozumiali na punkcie swojej mądrości i piękności, i tego wszystkiego, cośmy przed chwilą przeszli, dzieląc to na trzy rodzaje, to śmieszna jest ta zarozumiałość tylko u słabych, a budzi nienawiść, jeżeli cechuje mocnych. Przyznamy to, czy też nie przyznamy tego, com przed chwilą powiedział, że taki stan naszych przyjaciół, kiedy się nim ktoś odznacza, a jest nieszkodliwy — jest dla innych śmieszny?
+
+Protarchos: I bardzo.
+
+Sokrates: A czy nie zgadzamy się, że niewiedza jest w swojej istocie złem?
+
+Protarchos: Ależ i mocno się zgadzamy.
+
+Sokrates: A cieszymy się czy cierpimy, kiedy się z niej śmiejemy?
+
+Protarchos: Jasna rzecz, że się cieszymy.
+
+Sokrates: A przyjemność czerpaną z nieszczęść przyjaciół nazwaliśmy zawiścią. Czyżeśmy nie mówili, że to ona robi?
+
+Protarchos: Koniecznie.
+
+Sokrates: Zatem tok myśli mówi, że gdy się śmiejemy z zabawnych stron przyjaciół, to mieszamy przyjemność z przykrością, rozkosz z pewnym cierpieniem, bo z zawiścią. Dawnośmy się zgodzili przecież, że zawiść to cierpienie duszy i że śmiech to przyjemność, a przy takich sposobnościach powstaje jedno i drugie.
+
+Protarchos: Prawda.
+
+Sokrates: Tok myśli wskazuje nam, że i w żalach, i w tragediach, i w komediach — nie tylko na scenie — ale w całej tragedii i komedii naszego życia cierpienia mieszają się z rozkoszami, a w nieprzebranych innych wypadkach również.
+
+Protarchos: Nie sposób, Sokratesie, nie zgodzić się z tym, choćby się ktoś bardzo chciał spierać w obronie przeciwnego stanowiska.
+
+XXX. Sokrates: Otóż zajęliśmy się gniewem i tęsknotą, i żalem, i obawą, i miłością, i zazdrością, i zawiścią, i tym podobnymi, i mówiliśmy, że się tam znajdą mieszaniny, o których teraz wciąż mowa. Czy tak?
+
+Protarchos: Tak.
+
+Sokrates: Rozumiemy więc, że do żalu i zawiści, i gniewu odnosi się to wszystko, co się teraz przeszło.
+
+Protarchos: Jakżebyśmy nie rozumieli?
+
+Sokrates: Nieprawdaż, wiele jeszcze materiału zostało.
+
+Protarchos: I bardzo.
+
+Sokrates: A czemu właściwie, przypuszczasz, ja ci pokazałem tę mieszaninę w komedii? Czy nie po to, żebyś uwierzył, że i w obawach, i w pragnieniach, i w innych łatwo pokazać taką mieszaninę? Kiedy sobie to przyswoisz, to mnie zwolnisz od obowiązku, żebym się i do tamtych rzeczy brał i nad nimi rozwodził, tylko po prostu przyswoisz sobie to, że i ciało niezależnie od duszy, i dusza niezależnie od ciała, i jedno z drugim naraz w momentach wzruszeń pełne są rozkoszy pomieszanej z cierpieniami. Więc teraz powiedz, czy mnie już puścisz, czy też będziesz ciągnął do północy. Myślę, że jeśli będę mówił krótko, uda mi się uzyskać od ciebie zwolnienie. Ja ci jutro spróbuję zdać sprawę z tego wszystkiego, a w tej chwili, na zakończenie, pragnąłbym się zająć tym sądem konkursowym, który Fileb zaleca.
+
+Protarchos: Ładnieś powiedział, Sokratesie. Tę resztę opowiedz nam tak, jak ci milej.
+
+XXXI. Sokrates: Zatem, naturalnym rzeczy porządkiem, a z pewnej konieczności, po tych zmieszanych rozkoszach przejdźmy z kolei do niezmieszanych.
+
+Protarchos: Bardzo pięknie mówisz.
+
+Sokrates: Ja wam spróbuję dla odmiany znowu te pokazać. Bo tym, którzy mówią, że wszelkie rozkosze to są tylko momenty ulgi w cierpieniach, nie bardzo jakoś wierzę, ale jak powiedziałem, podaję świadków na to, że są pewne stany, które się rozkoszami wydają, a nie są nimi żadną miarą, i są inne, które się wydają wielkie i liczne, a są naprawdę pomieszane z cierpieniami i z ustawaniem mąk największych, a bez wyjścia dla ciała i dla duszy.
+
+Protarchos: A które by można, Sokratesie, słusznie uważać za prawdziwe?
+
+Sokrates: Te związane z barwami, które się nazywają piękne, i z kształtami, i z woniami po większej części, i z dźwiękami. One się rodzą na tle potrzeb nieuświadomionych i bezbolesnych, których zaspokojenie dostrzegalne jest i przyjemne, a przynosi rozkosz czystą, niezmieszaną z cierpieniem.
+
+Protarchos: Jakże to my znowu tak mówimy, Sokratesie?
+
+Sokrates: Tak jest. Nie od razu jasne jest to, co mówię, ale spróbujmy to objaśnić. O piękności kształtów próbuję teraz mówić; nie tak, jak by to rozumieć mogli ci, których jest wielu, na przykład o piękności istot żywych albo jakichś malowideł; chodzi mi o piękność prostej, mówi moja myśl, linii prostej i koła, i o to, co się z nich pod nożem rodzi na tokarni, o płaszczyzny i bryły, i to, co spod przykładnicy wychodzi i od kąta prostego, jeżeli mnie rozumiesz. Ja ci mówię, że to są rzeczy piękne nie ze względu na coś innego, jak te inne tam, tylko są piękne zawsze i same dla siebie, i dają rozkosze osobliwe i swoiste; to nie to, co łechtania wszelkiego rodzaju. I barwy w tym rodzaju piękne i rozkoszne. Rozumiemy to, czy jak?
+
+Protarchos: Ja się staram, Sokratesie. Ale próbuj i ty mówić jeszcze jaśniej.
+
+Sokrates: Ja mówię o dźwiękach strun — łagodne są i jasne — każda śpiewa jedną pieśń, czystą; one nie są piękne ze względu na coś innego, tylko same w sobie, a z nimi zrosłe rozkosze idą w ślad za nimi.
+
+Protarchos: No, jest i to.
+
+Sokrates: A rozkosze związane z woniami to już rodzaj mniej boski. Ale i w nich nie ma koniecznej domieszki cierpienia, a gdziekolwiek i w czymkolwiek jej nie ma, ja to wszystko kładę obok tamtych rozkoszy. Więc jeżeli rozumiesz, to takie są dwie postaci rozkoszy; o nich mówimy.
+
+Protarchos: Rozumiem.
+
+Sokrates: A jeszcze do nich dołóżmy rozkosze związane z nauką. Czy uważamy, że one nie powstają na tle głodu uczenia się; głód uczenia się nie sprawia męki z początku.
+
+Protarchos: Tak mi się też zdaje.
+
+Sokrates: No cóż — a jeśli człowiek, już pełen wiedzy, później ją tracić zaczyna przez niepamięć, czy widzisz, że się z tym łączą jakieś boleści?
+
+Protarchos: No, z natury rzeczy nie — ale czasem, jak człowiek myśli o tym swoim stanie, przykro mu, że traci to, czym się chce posługiwać.
+
+Sokrates: Tak, tak; daj ci boże zdrowie, ale my teraz mówimy tylko o samych stanach naturalnych bez względu na myślenie o nich.
+
+Protarchos: W takim razie prawdę mówisz, że zapominanie w dziedzinie wiedzy odbywa się bezboleśnie.
+
+Sokrates: Zatem trzeba powiedzieć, że rozkosze związane z naukami są niepomieszane z cierpieniem, ale w żadnym razie nie są udziałem wielu ludzi, tylko bardzo nielicznych jednostek.
+
+Protarchos: No, jakże tego nie powiedzieć?
+
+XXXII. Sokrates: Nieprawdaż, kiedyśmy należycie odróżnili, z jednej strony rozkosze czyste, a z drugiej te, które słusznie można nazwać nieczystymi, dodajmy w myśli jeszcze to, że gwałtowne rozkosze nie mają żadnej miary, a inne wprost przeciwnie: trzymają się miary. I te, którym przysługiwać może wielka moc i gwałtowność, i one się często lub rzadko takie robią, zaliczmy do owej dziedziny stanów nieokreślonych, w których owo „więcej” i „mniej” po ciele i duszy przebiega, a inne weźmy do grupy stanów utrzymywanych w mierze.
+
+Protarchos: Zupełnie słusznie mówisz, Sokratesie.
+
+Sokrates: Oprócz tego trzeba na nich rozpatrzyć jeszcze jedno.
+
+Protarchos: Co takiego?
+
+Sokrates: Co trzeba uważać za bliższe prawdy? To, co czyste i nieskalane, czy to, co gwałtowne i liczne, i wielkie, i wystarczające?
+
+Protarchos: Do czego zmierzasz tym pytaniem, Sokratesie?
+
+Sokrates: Do tego, Protarchu, żeby rozsądzając rozkosz i wiedzę, nie pominąć niczego — jeżeli jedno w nich jest czyste, a drugie nieczyste — aby jedna i druga czysta przyszła na sąd i przez to ułatwiła wyrok mnie i tobie, i tym wszystkim.
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: Proszę cię więc, o wszystkich rodzajach, które nazywamy czystymi, tak sobie pomyślmy. Weźmy naprzód jeden z nich i rozpatrzmy.
+
+Protarchos: Więc jaki weźmiemy naprzód?
+
+Sokrates: Jeżeli chcesz, zobaczmy naprzód ten rodzaj: to, co białe.
+
+Protarchos: Dobrze.
+
+Sokrates: Jakże to i jaką czystość mamy w tym, co białe? Czy to, że ono jest największe i najobfitsze, czy też najmniej zmieszane i nie ma w nim żadnego śladu żadnej innej barwy?
+
+Protarchos: Jasna rzecz, że najbardziej nieskalane.
+
+Sokrates: Słusznie. Czyż nie to uznamy za najprawdziwsze, Protarchu, a zarazem za najpiękniejsze ze wszystkich rzeczy białych — a nie to najobfitsze i największe?
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: Zatem jeżeli powiemy, że mała plama czystej bieli jest piękniejsza i prawdziwsza od wielkiej plamy bieli zmieszanej, to w każdym razie słusznie powiemy.
+
+Protarchos: Najzupełniej.
+
+Sokrates: No cóż — nie będziemy chyba potrzebowali wielu przykładów tego rodzaju do naszych rozważań o rozkoszy; wystarczy nam już i stąd dojrzeć, że każda rozkosz mała i nieczęsta, ale czysta, bo wolna od cierpienia, milsza jest i prawdziwsza, i piękniejsza od wielkiej i częstej.
+
+Protarchos: O wiele przecież. Ten przykład wystarczy.
+
+Sokrates: A cóż, na przykład, to? Czy nie słyszeliście o rozkoszy, że to zawsze jest pewien proces tworzenia się, a nie ma w ogóle stałej istoty rozkoszy? Pewni dowcipni ludzie usiłują nam znowu to pokazać. Trzeba im podziękować.
+
+Protarchos: Za co, niby?
+
+Sokrates: Ja to z tobą przerobię, Protarchu miły, pytaniami.
+
+Protarchos: Mów, a pytaj tylko.
+
+XXXIII. Sokrates: Niech więc będą takie jakieś dwa pierwiastki: jeden sam dla siebie, a drugi zawsze się czegoś czepia.
+
+Protarchos: Jakże to, takie dwa i które to, myślisz?
+
+Sokrates: Jeden zawsze wspaniały, a drugi lichszy od tamtego.
+
+Protarchos: Mów jeszcze jaśniej.
+
+Sokrates: Widzieliśmy, prawda, znakomitych chłopców i dzielnych ludzi, którzy się w nich kochają.
+
+Protarchos: Bardzo mocno.
+
+Sokrates: Znajdźże inną parę, podobną do tych dwóch ludzi — w dziedzinie wszystkiego, co, jak mówimy, istnieje.
+
+Protarchos: Czy mam wymienić coś trzeciego? Powiedz jaśniej, Sokratesie, co masz na myśli?
+
+Sokrates: Nic tak osobliwego, Protarchu. To ta myśl tak sobie z nami żartuje i mówi, że spośród bytów jedne zawsze są tylko ze względu na coś innego, a drugie to te, ze względu na które tamte powstają.
+
+Protarchos: Z trudnością chwytam; tam się coś ciągle powtarza.
+
+Sokrates: Poczekaj, chłopcze, może to za chwilę lepiej zrozumiemy w dalszym ciągu rozmowy.
+
+Protarchos: No, czemu by nie.
+
+Sokrates: Weźmy inną taką parę.
+
+Protarchos: Jaką?
+
+Sokrates: Jedno to powstawanie wszystkiego, a druga jedność to istnienie, istota.
+
+Protarchos: Przyjmę od ciebie te dwie sprawy: istotę i powstawanie.
+
+Sokrates: Zupełnie słusznie. Któraż z nich, powiemy, ma na celu drugą? Powstawanie ma na celu istotę, czy też istota powstawanie?
+
+Protarchos: Ty się teraz pytasz, czy to, co się nazywa istotą, jest tym, czym jest, ze względu na powstawanie czegoś?
+
+Sokrates: Widać, że o to.
+
+Protarchos: Na bogów, czy ty mnie pytasz znowu o coś w tym rodzaju: powiedz mi, Protarchu, czy uważasz, że warsztat okrętowy jest dla okrętów, czy też okręt dla warsztatu i inne wszystkie tego rodzaju rzeczy?
+
+Sokrates: Ja właśnie to myślę, Protarchu.
+
+Protarchos: Więc czemuś sobie sam nie odpowiedział, Sokratesie?
+
+Sokrates: Mniejsza o to, czemu. Ale trzymaj się razem ze mną tej myśli.
+
+Protarchos: Owszem.
+
+Sokrates: Więc ja powiadam, że powstawania mają na celu lekarstwa i wszelkie narzędzia, i materiały do wszystkiego, ale każde powstawanie ma za każdym razem na celu jakąś istotę.
+
+Protarchos: To bardzo jasne.
+
+Sokrates: Nieprawdaż, jeśli rozkosz to pewne powstawanie, to musi się chyba odbywać ze względu na jakieś istnienie i musi je mieć na celu.
+
+Protarchos: No, cóż?
+
+Sokrates: A ten cel, ze względu na który coś innego powstaje, to musi być coś w rodzaju dobra. A to, co powstaje dla pewnego celu, to trzeba, przyjacielu, zaliczyć do innego rodzaju.
+
+Protarchos: Koniecznie i bezwzględnie.
+
+Sokrates: Więc jeżeli rozkosz jest powstawaniem, to zaliczając ją do innego rodzaju, a nie do dobra, czy słusznie ją pomieścimy?
+
+Protarchos: Ależ najsłuszniej.
+
+Sokrates: Nieprawdaż, jak na początku tej myśli mówiłem, temu, który wskazał, że rozkosz jest powstawaniem, a istnienia nie ma w niej za grosz, trzeba pięknie podziękować. Bo jasna rzecz, że on się wyśmiewa z tych, którzy mówią, że rozkosz to dobro.
+
+Protarchos: Bardzo mocno.
+
+Sokrates: Tak jest. I tenże sam będzie się za każdym razem wyśmiewał z tych, którzy kończą na powstawaniach.
+
+Protarchos: Jakże to i o kim mówisz?
+
+Sokrates: O tych, którzy zaspokoiwszy głód albo pragnienie, albo coś w tym rodzaju — na te rzeczy powstawanie pomaga — cieszą się tym powstawaniem, jako że to jest rozkosz, i mówią, że żyć by się im nie chciało bez pragnienia i bez głodu, i bez innych dalszych stanów tego rodzaju.
+
+Protarchos: Zdaje się, że tak mówią.
+
+Sokrates: Nieprawdaż, wszyscy możemy przyznać, że przeciwieństwem powstawania jest rozpadanie się?
+
+Protarchos: Koniecznie.
+
+Sokrates: Zatem rozpadanie się i powstawanie wybrałby ten, który by to wybierał, a nie tamten żywot, ten, w którym ani radości nie ma, ani bólu, a myślenie było w nim możliwie jak najczystsze.
+
+Protarchos: To, zdaje się, wielkie głupstwo będzie, Sokratesie, jeżeliby ktoś przyjmował rozkosz jako dobro.
+
+Sokrates: Wielkie, bo jeszcze i tak powiedzmy.
+
+Protarchos: Jak?
+
+Sokrates: Jakże to nie ma być głupstwem, żeby nie było żadnego dobra ani piękna, ani w ciele, ani w wielu innych rzeczach, tylko w duszy, i tu nawet jedynie tylko rozkosz? A odwaga albo panowanie nad sobą, albo umysł, albo któraś z innych wartości, jakie duszy przypadły w udziale, to nie mają być żadne dobra? A oprócz tego jeszcze i to, że o człowieku, który się nie cieszy, tylko cierpi, trzeba by mówić, że nie jest dobry wtedy, gdy cierpi, choćby był najlepszy ze wszystkich, a o tym, który się cieszy i jak długo się cieszy — mówić, że się tym więcej dzielnością odznacza, im więcej ma radości.
+
+Protarchos: Wszystko to, Sokratesie, jest tak głupie, że niepodobna bardziej.
+
+XXXIV. Sokrates: Więc już nie obracajmy tak tej rozkoszy na wszystkie strony, aby się nie pokazało, że zbytnio oszczędzamy umysł i wiedzę. Śmiało je opukajmy naokoło, czy tam w nich nie ma jakiego próchna. Tak, żeby to, co w nich jest z natury najczystsze, zobaczyć i oprzeć się na tym przy ocenie — niech i one, podobnie jak rozkosz, pokażą swoje cząstki najprawdziwsze.
+
+Protarchos: Słusznie.
+
+Sokrates: Nieprawdaż, w teorii wiedzy wyróżnia się nauki techniczne i związane z kulturą i z wychowaniem. Czy jak?
+
+Protarchos: Tak jest.
+
+Sokrates: A w naukach technicznych zastanówmy się naprzód, czy pewne ich części nie mają ściślejszego związku z wiedzą, a inne mniej ścisły. Trzeba te pierwsze uważać za najczystsze, a drugie za mniej czyste.
+
+Protarchos: Nieprawdaż, potrzeba.
+
+Sokrates: Trzeba też wyróżnić spośród nich i z osobna postawić każdą z tych, które zajmują stanowisko naczelne.
+
+Protarchos: Jakież to i w jakim sposobie?
+
+Sokrates: Tak na przykład, gdyby ktoś wszystkim umiejętnościom odebrał i oddzielił od nich naukowe stosowanie liczby, miary i wagi, to z każdej z nich zostałoby, po prostu powiedziawszy, śmiecie.
+
+Protarchos: No tak, śmiecie.
+
+Sokrates: Cóż by potem zostało? Nic, tylko trzeba by domyślić się przez analogię i wyuczać się na pamięć poszczególnych spostrzeżeń, gromadząc sobie doświadczenie i wprawę, i posługiwać się różnymi zdolnościami do zgadywań, którym wielu nadaje nazwę sztuk — one też wyrabiają siłę, jeżeli ktoś jest pilny i pracowity.
+
+Protarchos: Oczywiste rzeczy mówisz.
+
+Sokrates: Nieprawdaż, pełno tego w muzyce przede wszystkim. Tam się harmonie zestraja nie według miary, tylko trzeba mieć wprawę i zgadywać. Albo ta w niej cała teoria gry na flecie, albo to polowanie na właściwą długość każdej struny, podczas gdy każda ucieka. Tak, że tam jest ogromna domieszka niejasności, a pewnego — mało co.
+
+Protarchos: To święta prawda.
+
+Sokrates: A w umiejętności lekarskiej i w agronomii, i w sternictwie podobne stosunki znajdziemy.
+
+Protarchos: I bardzo.
+
+Sokrates: Ciesielstwo, mam wrażenie, najwięcej miar i narzędzi stosuje. Stąd w nim jest duża ścisłość i jasność, toteż ma bardziej naukowy charakter niż wiele innych gałęzi wiedzy.
+
+Protarchos: W czym niby?
+
+Sokrates: No, w budowie okrętów, w stawianiu domów i w wielu innych dziedzinach obróbki drzewa. Przecież oni się tam posługują linią i cyrklem, i libellą, i farbowanym sznurem, i jakąś wymyślną śrubą do prostowania.
+
+Protarchos: Bardzo to słusznie mówisz, Sokratesie.
+
+Sokrates: Więc podzielmy tak zwane umiejętności na dwa działy. Jedne z nich zbliżone raczej do muzyki, jest mało ścisłości w ich robocie, a inne zbliżone raczej do ciesielstwa.
+
+Protarchos: Niech to leży.
+
+Sokrates: A spośród nich najściślejsze są te umiejętności, któreśmy przed chwilą na pierwszym miejscu wymienili.
+
+Protarchos: Widzę, że mówisz o arytmetyce i o tych umiejętnościach, któreś zaraz po niej wymienił.
+
+Sokrates: Tak jest. Tylko, Protarchu, czy one się też nie dzielą na dwa działy? Czy jak trzeba powiedzieć?
+
+Protarchos: Na jakie dwa, myślisz?
+
+Sokrates: Czyż nie trzeba powiedzieć, że inną arytmetykę uprawiają szerokie koła, a inną filozofowie?
+
+Protarchos: Ale gdzie można pociągnąć granicę, żeby wyróżnić te dwie różne arytmetyki?
+
+Sokrates: To niemała granica, Protarchu. Bo jedni z tych od liczb zliczają jedności nierówne, jak na przykład dwa obozy i dwa woły, i dwie rzeczy najmniejsze, i dwie największe ze wszystkich. A drudzy za nic w świecie z nimi by nie poszli, jeżeliby ktoś nie przyjął jednostek nieróżniących się niczym od siebie nawzajem, choćby ich była ilość nieprzebrana.
+
+Protarchos: Bardzo dobrze mówisz, że to niemała różnica między tymi, co te liczby klepią. Tak, że to ma sens, że one są dwie.
+
+Sokrates: No cóż — a rachunki i miernictwo w zastosowaniu do architektury i do handlu oraz geometria i rachunki, traktowane filozoficznie, czy to będzie jakby jeden dział, jedno i drugie, czy też przyjmiemy dwa?
+
+Protarchos: Idąc tak jak przedtem, ja bym przyjął, że to dwa; jedno i drugie. Taki byłby mój głos.
+
+Sokrates: Słusznie. A czy ty rozumiesz, po cośmy to wystawili na środek?
+
+Protarchos: Może być. Ale ja bym wolał, żebyś ty sam odpowiedział na to pytanie.
+
+Sokrates: Otóż mam wrażenie, że ta część naszej rozmowy nie mniej niż jej początek szukała odpowiednika rozkoszy i dlatego te zagadnienia wysunęła, żeby się przyjrzeć, czy jedna nauka też jest czystsza od drugiej, tak jak rozkosz od rozkoszy.
+
+Protarchos: Tak; to bardzo jasne, że się to podejmowało w tym celu.
+
+XXXV. Sokrates: Więc cóż? Czy myśl nie doszła teraz do tego, że różnych przedmiotów dotyczą różne umiejętności i jedne z nich są jaśniejsze, a inne mniej jasne?
+
+Protarchos: Tak jest.
+
+Sokrates: Pośród nich nasza myśl pewnej umiejętności nadała nazwę jakby dwuznaczną i przedstawiła ją jako jedną, a potem się z niej zrobiły dwie; wtedy się zaczęła nasza myśl wypytywać o jasność i czystość każdej z nich; chodziło o to, która ściślejsza: ta, którą uprawiają filozofowie, czy ta druga.
+
+Protarchos: Tak. Nasza myśl o to pytała.
+
+Sokrates: A co my jej odpowiemy, Protarchu?
+
+Protarchos: Sokratesie, myśmy doszli do tego, że między naukami przedziwnie wielka zachodzi różnica ze względu na jasność.
+
+Sokrates: Nieprawdaż, to odpowiemy łatwo?
+
+Protarchos: No cóż. Trzeba powiedzieć, że te umiejętności związane z liczbą i miarą przewyższają inne, a nad nimi jeszcze niesłychanie górują usiłowania prawdziwych filozofów; górują ścisłością i prawdą w sprawie miar i liczb.
+
+Sokrates: Niech ci tam będzie. To twoje zdanie. Polegając na nim, z otuchą odpowiadamy tym, którzy są mistrzami w naciąganiu myśli.
+
+Protarchos: Co odpowiadamy?
+
+Sokrates: Że są dwie arytmetyki i dwa miernictwa, a obok nich wielka ilość innych takich bliźniaczek, noszących wspólne nazwy.
+
+Protarchos: To dajmy taką odpowiedź, Sokratesie, tym, których nazywasz mistrzami, i szczęść nam boże!
+
+Sokrates: Więc powiemy, że te nauki są najściślejsze?
+
+Protarchos: Tak jest.
+
+Sokrates: Ale wiesz, Protarchu, że wyrzekłaby się nas sztuka dyskutowania, gdybyśmy którąś inną wyżej od niej postawili.
+
+Protarchos: A cóż to znowu za jedna ma być?
+
+Sokrates: Jasna rzecz, że każdy ją poznać potrafi. Każdy, kto ma choć odrobinę rozumu, przyzna, że to jest bez żadnego porównania najprawdziwsza wiedza, a dotyczy bytu, i bytu rzeczywistego, i tego, co jest wiecznie takie samo. A ty co? Jak ty to, Protarchu, oceniasz?
+
+Protarchos: Ja, wiesz, Sokratesie, słyszałem od Gorgiasza nieraz, że sztuka nakłaniania o wiele przewyższa wszystkie inne sztuki. Ona przecież każdego i wszystko do niewoli wziąć potrafi, i to nie gwałtem, ale po dobremu; zatem bez żadnego porównania góruje nad wszystkimi innymi umiejętnościami. Więc teraz nie chciałbym przyjmować czegoś przeciwnego ani jemu, ani tobie.
+
+Sokrates: Mam wyrażenie, że masz ochotę złożyć broń, tylko się wstydzisz to powiedzieć.
+
+Protarchos: Niechże ci i tak będzie, jak uważasz.
+
+Sokrates: A może to i moja wina, żeś nie zrozumiał.
+
+Protarchos: Czego?
+
+Sokrates: Kochany Protarchu, ja nie tego szukałem, która umiejętność albo która wiedza nad wszystkimi góruje tym, że jest największa i najpotężniejsza, i najwięcej nam pożytku przynosi, tylko tego, która najwięcej zważa na jasność i ścisłość, i prawdę, choćby była mała i mały pożytek przynosiła. To jest to, czego w tej chwili szukamy. Więc zobacz. Gorgiasz się wcale na ciebie nie pogniewa. Przyznasz mu, że jego sztuka góruje ze względu na pożytek dla ludzi, a ta robota, którą ja wymieniam, to tak, jak owa plama bieli, o której mówiłem wtedy, że choćby była mała, to jeśli będzie czysta, przewyższy wielką, ale nie tak czystą. Będzie górowała właśnie tym samym, będzie najprawdziwsza. Tak i teraz zastanówmy się uważnie i zrachujmy sobie wszystko należycie, ani na żadne pożytki z nauk nie patrząc, ani na ich opinie, i jeżeli w naszej duszy mieszka zdolność do tego, żeby prawdę kochać i wszystko dla niej robić, to znajdując w tej umiejętności czyste pierwiastki myśli i rozumu, powiedzmy, czy pragnęlibyśmy ją posiąść raczej niż wszystkie inne, czy też wypadnie się nam rozejrzeć za jakąś inną — godniejszą.
+
+Protarchos: Ja się zastanawiam i mam wrażenie, że trudno byłoby się zgodzić, że jakaś inna wiedza lub umiejętność ściślej się prawdy trzyma niż ta właśnie.
+
+Sokrates: Czyś ty to powiedział, zważywszy, że liczne umiejętności i ci, co się nimi trudzą, przede wszystkim podmiotowymi mniemaniami się posługują i nieustannie a pilnie szukają tego, co się z mniemaniami wiąże? Choćby się któremu zdawało, że jego badania dotyczą przyrody, to wiesz, że taki całe życie szuka tego, co się na tym świecie dzieje, jak co powstaje, jak co czego doznaje i jak działa. Możemy powiedzieć, że tak, czy jak inaczej?
+
+Protarchos: Tak.
+
+Sokrates: Nieprawdaż, trudy takiego człowieka nie dotyczą tego, co istnieje wiecznie, tylko tego, co się staje i co się ma stać kiedyś, i co się już stało?
+
+Protarchos: Święta prawda.
+
+Sokrates: Czy może z tego wyjść coś jasnego w świetle najściślejszej prawdy, skoro żadna z tych rzeczy ani nie miała nigdy żadnego rysu niezmiennego, ani go nie będzie miała, ani go teraz nie posiada?
+
+Protarchos: Ależ jakim sposobem?
+
+Sokrates: Więc o przedmiotach, które nie posiadają stałości za grosz, jak można kiedykolwiek coś pewnego wiedzieć — choć cokolwiek?
+
+Protarchos: Myślę, że na żaden sposób.
+
+Sokrates: Zatem ani umysł żaden, ani jakakolwiek wiedza o tych rzeczach całkowitej prawdy nie posiada.
+
+Protarchos: Chyba nie.
+
+XXXVI. Sokrates: To już dajmy święty pokój tobie i mnie, i Gorgiaszowi, i Filebowi, a takie naszej myśli wydajmy świadectwo.
+
+Protarchos: Jakie?
+
+Sokrates: Że albo tam gdzieś istnieje to, co mocne i pewne, i czyste, i prawdziwe i, jak mówimy, nieskalane; tam, w świecie rzeczy wiecznie takich samych i wolnych od śladów jakichkolwiek domieszek, albo też ono jest z tym światem w najściślejszym pokrewieństwie. A wszystko inne to już drugi rząd i niższy.
+
+Protarchos: Najzupełniejszą prawdę mówisz.
+
+Sokrates: A jeżeli idzie o nazwy dla tych rzeczy, to najsprawiedliwiej to, co najpiękniejsze, nazywać najpiękniej.
+
+Protarchos: Wypada.
+
+Sokrates: Nieprawdaż, umysł i rozum to będą nazwy może najczcigodniejsze?
+
+Protarchos: Tak.
+
+Sokrates: Można przez nie rozumieć rozważania bytu rzeczywistego; będą miały właściwe zastosowanie.
+
+Protarchos: Tak jest.
+
+Sokrates: Kiedy przedtem mówiłem o sądzie konkursowym, użyłem właśnie tych terminów.
+
+Protarchos: No tak, Sokratesie.
+
+Sokrates: Więc dobrze. Jeżeli idzie o rozum i rozkosz, i o mieszanie ich ze sobą, to gdyby ktoś powiedział, że to są dla nas jakby materiały, a my — niby rzemieślnicy, mamy z nich albo w nich coś wykonać, to porównanie byłoby piękne?
+
+Protarchos: I bardzo.
+
+Sokrates: A druga rzecz, to czybyśmy już nie zaczęli mieszać?
+
+Protarchos: No, czemu?
+
+Sokrates: Ale może lepiej by było jeszcze coś przedtem powiedzieć i coś sobie przypomnieć?
+
+Protarchos: Co takiego?
+
+Sokrates: To, cośmy sobie i poprzednio przypominali. Zdaje się, że dobrze mówi przysłowie: Trzeba sobie nie raz i nie dwa powtarzać to, co słuszne.
+
+Protarchos: No, cóż?
+
+Sokrates: Więc proszę cię — na Zeusa — mam wrażenie, że to jakoś tak było powiedziane.
+
+Protarchos: Jak?
+
+Sokrates: Filebos powiada, że rozkosz jest słusznym celem wszystkich żywych istot i wszystkie powinny do niej zmierzać, i ona jest dobrem dla wszystkich. Dwie nazwy: dobro i rozkosz przysługują słusznie jednej i tej samej rzeczy, jednej i tej samej naturze. Sokrates zaś powiada, że to nie jest jedno i to samo, tylko dwie nazwy różne i dwie rzeczy różne; coś innego dobro, a coś innego rozkosz. One mają różną naturę. Znacznie więcej dobra ma w sobie rozum niż rozkosz. Czy nie to jest i była treść tamtych słów, Protarchu?
+
+Protarchos: Ależ i bardzo.
+
+Sokrates: Nieprawdaż, a na to też zgodziliśmy się chyba i wtedy, i teraz.
+
+Protarchos: Na co?
+
+Sokrates: Że natura dobra tym się różni od innych.
+
+Protarchos: Czym?
+
+Sokrates: Którejkolwiek istocie żywej dobro przysługuje aż do końca, ze wszech miar i pod każdym względem, ta już niczego więcej nie potrzebuje, ma wszystko, czego jej potrzeba. Czy nie tak?
+
+Protarchos: Tak.
+
+Sokrates: Próbowaliśmy w myśli jedno i drugie z osobna włączyć do życia; rozkosz niezmieszaną z rozumem i tak samo rozum bez jakiejkolwiek, choćby najmniejszej, domieszki rozkoszy.
+
+Protarchos: Było tak.
+
+Sokrates: A czy się wam wydawało, że takie życie — jedno albo drugie — komukolwiek wystarczy?
+
+Protarchos: Ale skąd?
+
+XXXVII. Sokrates: A jeżeliśmy może przedtem popełnili gdzieś jakąś pomyłkę, to niech teraz którykolwiek z nas wróci i powie słuszniej. Niech założy, że pamięć i rozum, i wiedza, i prawdziwy sąd podpadają pod tę samą ideę, i niech się zastanowi, czy ktokolwiek zgodziłby się bez nich mieć lub otrzymać wszystko jedno co — już nie mówiąc o rozkoszy, chociażby największej, chociażby najmocniejszej — bo nie mógłby ani słusznie sobie z niej zdać sprawy, aniby w ogóle nie wiedział jakiego stanu doznaje, aniby pamięci o tym stanie nie zachował na czas nawet najkrótszy. A to samo trzeba powiedzieć i o rozumie. Czy wolałby ktoś mieć rozum bez żadnej rozkoszy — choćby najkrótszej — czy też w połączeniu z pewnymi rozkoszami, czy może wszelkie rozkosze bez rozumu raczej, czy też w połączeniu z pewnym rozumem?
+
+Protarchos: Nie sposób, Sokratesie, i nie ma powodu tak często znowu o to samo pytać.
+
+Sokrates: Nieprawdaż, doskonałe i dla wszystkich godne wyboru i ze wszech miar dobre nie będzie chyba ani jedno życie, ani drugie?
+
+Protarchos: Jakżeby miało być?
+
+Sokrates: Więc to dobre albo jasno określmy, albo przynajmniej jego pewien typ uchwyćmy, abyśmy, jak się mówiło, mogli któremuś przyznać drugą nagrodę.
+
+Protarchos: Zupełnie słusznie mówisz.
+
+Sokrates: Nieprawdaż, na drogę pewną w kierunku dobra natrafiliśmy.
+
+Protarchos: Jaką?
+
+Sokrates: Tak, jakby ktoś pewnego człowieka szukał i naprzód by się dowiedział, w którym domu on mieszka, to już by miał wielką pomoc w odnalezieniu tego, którego by szukał.
+
+Protarchos: Jakżeby nie?
+
+Sokrates: Tak i teraz nam pewna myśl pokazała, jak i na samym początku, żeby dobra nie szukać w życiu niezmieszanym, tylko w tym mieszanym.
+
+Protarchos: Tak jest.
+
+Sokrates: Większa nadzieja, że się w życiu pięknie zmieszanym raczej, niż w każdym innym, objawi to, czego szukamy?
+
+Protarchos: O wiele większa.
+
+Sokrates: Więc pomódlmy się do bogów, Protarchu, i mieszajmy — czy tam Dionizos, czy Hefajstos, czy który inny bóg zechce błogosławić mieszaniu.
+
+Protarchos: Tak jest.
+
+Sokrates: My tak jak ci, co wino mieszają po uczcie, a obok nas dwa źródła. Z jednej strony sam miód płynie — to rozkosz — mógłby ją ktoś tak przyrównać, a z drugiej rozum trzeźwy i bez wina, taka zimna, świeża jakaś i zdrowa woda. Trzeba ją jak najpiękniej wmieszać.
+
+Protarchos: Jakżeby nie?
+
+Sokrates: Więc, proszę cię, naprzód, czy jeśli wszelką rozkosz pomieszamy z wszystkim rozumem, wtedy się nam najlepiej uda i powiedzie?
+
+Protarchos: A może.
+
+Sokrates: Ej, to niepewne. A jak by to najbezpieczniej można pomieszać? Ja mam wrażenie, że mam co do tego pewien pomysł i mógłbym go wyjawić.
+
+Protarchos: No, mów jaki?
+
+Sokrates: Przekonaliśmy się, uważamy, że jedna rozkosz jest prawdziwsza niż inna i że jedna umiejętność jest ściślejsza niż druga?
+
+Protarchos: Jakżeby nie?
+
+Sokrates: I jedna wiedza różni się od drugiej. Jedna patrzy na to, co się staje i ginie, a druga spogląda na to, co ani się nie staje, ani nie ginie i zawsze jest to samo i jest takie samo. W świetle prawdy ta druga wydaje się nam bliższa prawdy od tamtej.
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: Nieprawdaż, gdybyśmy tak przede wszystkim zmieszali co najprawdziwsze wycinki jednej i drugiej, i zobaczyli, czy to będzie wystarczająca mieszanina i czy nie potrafi nam stworzyć najmilszego życia, czy też nam będzie potrzeba jeszcze czegoś w innym rodzaju?
+
+Protarchos: Ja myślę, że tak trzeba zrobić.
+
+XXXVIII. Sokrates: Przyjmijmy, że jest pewien człowiek mądry i wie, co to jest sprawiedliwość sama; patrzy na nią i, co za tym idzie, myśli należycie. I wszystkie inne byty podobnie myślą ogląda.
+
+Protarchos: Niechże będzie taki ktoś.
+
+Sokrates: Czyż więc on będzie miał wiedzę dostateczną, jeżeli potrafi pojąć koło i kulę samą — tę boską — a nie będzie się znał na kołach tych tutaj i na tej kuli ludzkiej; chociaż musi przy budowie domu i gdzie indziej używać przykładnic i kół?
+
+Protarchos: To śmieszna postawa, Sokratesie, interesować się wyłącznie tylko boskimi naukami.
+
+Sokrates: Jak mówisz? Więc umiejętność posługującą się fałszywą prostą i fałszywym kołem, tę niepewną i nieczystą też wlać do wspólnego garnka i zamieszać?
+
+Protarchos: Koniecznie przecież; jeżeli ktokolwiek z nas ma choćby tylko znaleźć drogę do własnego domu.
+
+Sokrates: A może i muzykę też, o którejśmy przed chwilą mówili, że pełno w niej zgadywania i naśladowania, a czystości jej brak?
+
+Protarchos: Mnie się zdaje, że się bez niej nie obejdzie, jeżeli nasze życie ma być choć trochę życiem.
+
+Sokrates: To ty chcesz, żebym ja, jak ten portier, którego tłum popycha i przemaga, poddał się, szeroko drzwi otworzył i wpuścił wszystkie umiejętności, niech wpadają do środka i niech się mieszają, czy tam która czysta, czy nie bardzo?
+
+Protarchos: Ja bo nie wiem, Sokratesie, co by to komu mogło zaszkodzić, gdyby ktoś sięgał po inne gałęzie wiedzy, mając już te pierwsze.
+
+Sokrates: Więc mam wszystkie wpuścić — niech wpływają w ten zbiornik, który Homer poetycznie nazywa kotliną pośród gór?
+
+Protarchos: Tak jest.
+
+XXXIX. Sokrates: Wpuszcza się je. A teraz trzeba znowu pójść do źródła rozkoszy. Zamierzaliśmy zrazu wpuszczać najpierw cząstki prawdziwe, ale to się nam nie udało. Kochamy wszelką wiedzę, więceśmy wszystkie jej gałęzie puścili naraz; i to jeszcze przed rozkoszami.
+
+Protarchos: Najzupełniejszą prawdę mówisz.
+
+Sokrates: Czas się nam naradzić i nad rozkoszami, czy je też wszystkie naraz wpuścić bez wyboru, czy i spośród nich wpuścić naprzód tylko prawdziwe.
+
+Protarchos: To jest wielka różnica; jeżeli idzie o bezpieczeństwo; lepiej naprzód dopuszczać prawdziwe.
+
+Sokrates: Więc niech wejdą. A co potem? Może jeśli które niezbędne, tak jak tam było, to domieszać i tych?
+
+Protarchos: Czemu by nie? Tych niezbędnych, oczywiście.
+
+Sokrates: Jeżeli to tak jak z umiejętnościami, że to nic nie szkodziło w życiu, tylko przynosiło pożytek: znać je wszystkie, to teraz powiedzmy to samo o rozkoszach. I jeżeli to wszystkim nam przyniesie pożytek, a nikomu szkody nie wyrządzi wszystkimi rozkoszami cieszyć się całe życie, to wmieszajmy i wszystkie.
+
+Protarchos: Więc co mamy o tych tutaj powiedzieć i jak to zrobić?
+
+Sokrates: Nie nas, Protarchu, przepytywać trzeba, tylko się u samych rozkoszy i u rozumów rozpytać, jak to tam one o sobie nawzajem.
+
+Protarchos: Jak je zapytać?
+
+Sokrates: „Przyjaciółki — czy tam was rozkoszami trzeba nazywać, czy jakimkolwiek innym imieniem — czy wolałybyście mieszkać wspólnie z rozumem wszelkim, czy bez rozumu?” Mam wrażenie, że one niewątpliwie musiałyby tak odpowiedzieć.
+
+Protarchos: Jak?
+
+Sokrates: Że, jak to się przedtem mówiło, „żeby jeden, jedyny rodzaj samotny w niepokalaniu trwał, to ani bardzo możliwe, ani pożyteczne. A spośród wszystkich rodzajów intelektu, kiedy je tak porównywamy jeden z drugim, najlepiej by nam było mieszkać z jednym; z tym, który zna wszystkie inne, a każdą z nas znałby też doskonale, jak tylko można”.
+
+Protarchos: To pięknieście odpowiedziały w tej chwili — powiemy.
+
+Sokrates: Słusznie. Więc potem trzeba znowu zapytać myśli i rozumu: „Czy wy potrzebujecie nieco rozkoszy w mieszaninie?” powiedzielibyśmy, wypytując myśl i rozum. „Ale jakich rozkoszy?” odpowiedziałyby zapewne.
+
+Protarchos: Prawdopodobnie.
+
+Sokrates: A my mówimy dalej tak: „Oprócz tych prawdziwych rozkoszy, powiemy, czy jeszcze wam potrzeba tych największych, żeby z wami mieszkały, i tych najgwałtowniejszych?”
+
+„Ależ jakim sposobem, Sokratesie”, odpowiedziałyby z pewnością. „Przecież one nam nieprzebrane przeszkody pod nogi rzucają, one dusze, w których mieszkamy, zaprzątają szaleństwami rozkoszy, nam samym nawet powstawać nie dają od początku, a nasze dzieci, jak to nieraz bywa, doprowadzają do zupełnej zagłady, bo przez niedbalstwo zaszczepiają niepamięć. Natomiast tamte rozkosze, któreś nazwał prawdziwymi i czystymi, te uważaj prawie że za nasze krewne, a oprócz nich te, które się łączą ze zdrowiem i z panowaniem nad sobą i za wszelką dzielnością idą jak za bogiem — tych dolewaj! A te, które zawsze za głupotą idą i za innym złem, byłoby bardzo niemądrze mieszać je z intelektem, jeżeli ktoś chce widzieć najpiękniejszą mieszaninę i najbardziej zwarty stop. I starałby się na nim nauczyć, co właściwie jest dobre w człowieku i w świecie, i odgadnąć przeczuciem, jaka jest ta idea”. Cóż powiemy, czy rozsądnie i rozumnie ten rozum odpowiedział tymi słowy za siebie samego oraz w imieniu pamięci i sądu słusznego?
+
+Protarchos: Ależ ze wszech miar.
+
+Sokrates: Jednak jeszcze i tego potrzeba. Bez tego nic się nie zrobi.
+
+Protarchos: Co to takiego?
+
+Sokrates: Do czego nie domieszamy prawdy, to nigdy nie może prawdziwie powstawać ani istnieć.
+
+Protarchos: Bo jakżeby?
+
+XL. Sokrates: W żaden sposób. Więc jeżeli jeszcze czegoś do tego stopu potrzeba, to mówcie wy, ty i Fileb. Bo ja mam wrażenie, że ta rozmowa stworzyła jakby jakiś świat bezcielesny; on powinien pięknie rządzić ciałem, w którym dusza mieszka.
+
+Protarchos: Otóż powiedz, Sokratesie, że i mnie się to tak przedstawia.
+
+Sokrates: A gdybyśmy powiedzieli, że w tej chwili stoimy już w przedsionku dobra, już na progu domu, w którym ono mieszka, to może byśmy w pewnym sposobie i słusznie powiedzieli?
+
+Protarchos: Mnie się przynajmniej tak wydaje.
+
+Sokrates: Cóż się nam tedy w tej mieszaninie może wydawać najcenniejszym i dzięki czemu wszystkim się nam ta postawa podobała? Kiedy to dostrzeżemy, zastanowimy się potem, czy ono jest podobniejsze i bardziej pokrewne rozkoszy czy rozumowi we wszechświecie.
+
+Protarchos: Słusznie. To się nam bardzo przyda do rozstrzygnięcia konkursu.
+
+Sokrates: Otóż w każdej mieszaninie nietrudno dojrzeć to, dzięki czemu każda albo jest coś warta, albo nic.
+
+Protarchos: Jak mówisz?
+
+Sokrates: Przecież to wszyscy wiedzą.
+
+Protarchos: Ale co?
+
+Sokrates: Że jakakolwiek, choćby i największa mieszanina, w której nie ma miar i proporcji, zatraca swoje składniki, a przede wszystkim zatraca siebie. Bo to już nie mieszanina, tylko jakaś bezładna kupa — i prawdziwe nieszczęście, kto ją sobie kupi.
+
+Protarchos: Święta prawda.
+
+Sokrates: Teraz nam uciekła natura dobra i schowała się w naturze piękna. Przecież utrzymanie się w mierze i proporcjonalność to wszędzie jest to samo, co piękność i dzielność.
+
+Protarchos: Tak jest.
+
+Sokrates: A mówiliśmy, że i prawda wchodzi do tej mieszaniny?
+
+Protarchos: Tak jest.
+
+Sokrates: Nieprawdaż, jeżeli jedną postacią nie potrafimy dobra schwycić, to weźmy je w trzy: piękność, proporcjonalność i prawdę; powiedzmy, że to jest niby jedność i raczej ona niż składniki mieszaniny sprawia to, że ta mieszanina jest dobra.
+
+Protarchos: Zupełnie słusznie.
+
+XLI. Sokrates: Więc teraz już, Protarchu, chyba każdy gotów u nas mieć dostateczne kwalifikacje do tego, żeby rozsądzić sprawę rozkoszy i rozumu i powiedzieć, które z tych dwojga jest bliżej spokrewnione z tym, co najlepsze, i które większej czci godne u ludzi i u bogów.
+
+Protarchos: Jasna rzecz, ale zawsze lepiej to rozwinąć w słowach.
+
+Sokrates: Zatem po kolei każdą z trzech wartości przysądzajmy rozkoszy i rozumowi. Trzeba zobaczyć, któremu z nich dwojga przyznamy każdą jako bardziej pokrewną.
+
+Protarchos: Ty mówisz o piękności, prawdzie i utrzymaniu w mierze?
+
+Sokrates: Tak. Więc najpierw weź prawdę, Protarchu. A wziąwszy, popatrz na tę trójkę: rozum, prawda i rozkosz. Zatrzymaj się czas dłuższy i odpowiedz sobie samemu, czy rozkosz jest bliżej spokrewniona z prawdą, czy rozum?
+
+Protarchos: A po co ten dłuższy czas? Uważam, że to ogromna różnica. Przecież nie ma większego blagiera niż rozkosz. Pomyśleć tylko, że jeśli idzie o rozkosze w służbie Afrodyty, to tam nawet bogowie krzywoprzysięstwo wybaczają, bo rozkosze są jak małe dzieci i rozumu nie mają za grosz. A rozum to albo jest to samo, co prawda, albo też jest ze wszystkiego w świecie do prawdy najpodobniejszy i najbliższy.
+
+Sokrates: Nieprawdaż, a potem się tak samo nad utrzymaniem się w mierze zastanów i powiedz, czy rozkosz ma tego więcej niż rozum, czy rozum więcej niż rozkosz.
+
+Protarchos: Łatwo się i nad tym zastanowić — zadanie wcale nietrudne. Myślę, że w całym świecie nie znajdzie się nic, co by się mniej trzymało miary niż rozkosz i radość, ani też nic bardziej umiarkowanego niż rozum i wiedza.
+
+Sokrates: Pięknieś to powiedział. A jednak mów jeszcze o tym trzecim. Rozum dostał więcej piękności w udziale, czy też tamten rodzaj: rozkosz? Tak, że piękniejszy jest rozum od rozkoszy, czy na odwrót?
+
+Protarchos: Ależ, Sokratesie, rozumu i umysłu brzydkiego nikt nigdy ani we śnie, ani na jawie nie widział, ani nie wymyślał nigdzie i na żaden sposób. Ani żeby taki powstał, ani żeby był albo miał być kiedyś.
+
+Sokrates: Słusznie.
+
+Protarchos: Natomiast kiedy patrzymy, że się ktoś cieszy rozkoszami, i to prawie że największymi, widzimy, że za nimi idzie albo śmieszność, albo wstyd największy ze wszystkich. Wstydzimy się sami i zasłaniamy te rzeczy jak tylko można. Nocy oddajemy to wszystko, aby tego światło nie oglądało.
+
+Sokrates: Rozgłoś więc powszędy, Protarchu, każ to rozbębnić, a obecnym sam to powiedz, że rozkosz nie jest pierwszą wartością, ani nawet drugą. Pierwsza rzecz to miara i umiarkowanie, trafienie w moment odpowiedni, i cokolwiek trzeba za coś w tym rodzaju uważać, to wszystko przybrało i ma naturę rzeczy wiecznych.
+
+Protarchos: Okazuje się, według tego, co teraz mówimy.
+
+Sokrates: Druga rzecz to proporcjonalność i piękność, i doskonałość, i żeby było w sam raz, i wszystko, co należy znowu do tej rodziny.
+
+Protarchos: Zdaje się.
+
+Sokrates: Jako trzecie zaś, według mojej wyroczni, jeśli przyjmiesz umysł i rozum, nie bardzo odbiegniesz od prawdy.
+
+Protarchos: Może być.
+
+Sokrates: A czy na czwartym miejscu nie będzie stało to, cośmy duszy samej przypisali, a więc wszelkie rodzaje wiedzy i umiejętności, i sądy prawdziwie? To będzie czwarty rząd obok tamtych trzech, skoro te rzeczy spokrewnione są z dobrem ściślej niż rozkosze.
+
+Protarchos: Gotowo być.
+
+Sokrates: W piątym szeregu rozkosze, któreśmy określili jako wolne od cierpień i nazwaliśmy je czystymi i czysto duchowymi. Jedne z nich wiążą się z różnymi rodzajami wiedzy, inne ze spostrzeżeniami.
+
+Protarchos: Może być.
+
+Sokrates: „Gdy przyjdzie szóste pokolenie, powiada Orfeusz, zakończcie już ten piękny śpiew”. Bodaj że i nasza rozmowa zakończy się na szóstym wyroku. Potem nie zostaje nam już nic, jak tylko jak gdyby głowę nasadzić na to, co się mówiło.
+
+Protarchos: Nieprawdaż, potrzeba.
+
+XLII. Sokrates: Więc proszę cię — jak trzeci kielich piją na cześć Zeusa Zbawiciela — tak my trzeci raz przyświadczymy tej samej myśli.
+
+Protarchos: Jakiej?
+
+Sokrates: Fileb przyjmował, że dobro to jest rozkosz — wszelka i wszelkiego rodzaju.
+
+Protarchos: Ten trzeci kielich, Sokratesie, toś powiedział dlatego, żebyśmy na nowo podjęli temat początkowy?
+
+Sokrates: Tak jest. Ale posłuchajmy, co dalej. Otóż ja, mając na oku to, com przed chwilą rozwinął, i podrażniony stanowiskiem Fileba, i nie tylko Fileba, ale i innych, a spotyka się ich często i bez liku, powiedziałem, że od rozkoszy bez porównania wyżej stoi rozum — i jest większą wartością w życiu człowieka.
+
+Protarchos: Było tak.
+
+Sokrates: A podejrzewając, że jest też i wiele innych wartości, powiedziałem, że jeśliby się która okazała lepsza od tych obu, to bym pomagał rozumowi w walce przeciw rozkoszy o drugą nagrodę i rozkosz nie dostałaby nawet drugiej.
+
+Protarchos: Powiedziałeś tak.
+
+Sokrates: I potem się pokazało w sposób niebudzący żadnych zastrzeżeń, że ani jedno, ani drugie nie wystarcza samo dla siebie.
+
+Protarchos: Najzupełniejsza prawda.
+
+Sokrates: Nieprawdaż, w ciągu tej rozmowy całkowitą odprawę dostał i rozum, i rozkosz. Pokazało się, że dobrem nie jest żadne z nich, bo żadne z nich samo sobie nie wystarcza, nie jest dostateczne ani doskonałe.
+
+Protarchos: Zupełnie słusznie.
+
+Sokrates: Kiedy się zjawiło coś trzeciego i to się okazało lepszym od tych obojga, to znowu rozum wydał się o całe niebo ściślej niż rozkosz spokrewniony z postacią zwycięzcy.
+
+Protarchos: Jakżeby nie?
+
+Sokrates: Nieprawdaż. Piąte miejsce, według naszego wyroku, na podstawie tej rozmowy, zajmie chyba potęga rozkoszy.
+
+Protarchos: Zdaje się.
+
+Sokrates: Pierwszego nie dostanie, nawet gdyby wszystkie byki i konie, i wszystkie inne zwierzęta za tym głosowały, przez to, że za przyjemnościami gonią ci, których jest wielu, wierzą im tak, jak wieszczowie wierzą ptakom, i sądzą, że rozkosze stanowią w naszym życiu wartość największą; więcej u nich waży świadectwo pociągów zwierzęcych niżeli pragnień, które muza, kochanka rozumu, rozpala i zwraca do świata przeczuć i myśli.
+
+Protarchos: Najzupełniejszą prawdę powiedziałeś, Sokratesie. Teraz wszyscy ci to przyznamy.
+
+Sokrates: Nieprawdaż, i puścicie mnie już?
+
+Protarchos: Jeszcze coś tam zostało, Sokratesie. Przecież ty się nie zmęczysz prędzej niźli my. Ja ci będę przypominał tę resztę.
+
+
+
+
+Objaśnienia tłumacza
+
+Jednym z celów tych objaśnień jest to, żeby czytelnika pobudzić do współpracy z Platonem, a więc do szukania wraz z nim prawdy o tych rzeczach, o których się mówi. Dlatego tu co krok spotyka czytelnik pytanie: czy to prawda, co mówi Sokrates w danej chwili? To nie jest polemika z Platonem, tylko symmachia z nim. Jego myśli są zbyt żywe i cenne jak na to, żeby je traktować wyłącznie jako szacowne zabytki filozoficzne — one zasługują na to, żeby się z nimi liczyć i dziś, i po dwu tysiącach lat pytać, czy są prawdziwe, czy nie są. Dopiero wtedy one zaczynają żyć naprawdę.
+
+Widać z pierwszych słów Sokratesa, że dyskusja — odbywająca się nie wiadomo kiedy i gdzie, na niby, a to tylko pewne, że w duszy Platona naprawdę — dyskusja toczy się już od dawna. Miał ją prowadzić Sokrates z młodym Filebem tak długo, aż go zmęczył, i Fileb już nie ma sił do dalszej rozmowy. Odstępuje obronę swego stanowiska Protarchowi, a bronił tezy, że dobro to tyle, co rozkosz i radość — inaczej mówiąc: uczucia przyjemne i sytuacje przyjemne. Sokrates stoi na stanowisku niby przeciwnym. Jego zdaniem, życie intelektualne jest więcej warte niż uczucia i sytuacje przyjemne i ono przynosi największy pożytek żywym istotom, a więc i ludziom.
+
+W pierwszej chwili nie widać, żeby to były stanowiska sprzeczne. Bo przecież czynności umysłowe, które Sokrates stawia wyżej niż przyjemności, są też przyjemne. To są też pewne przyjemności. Nie można ich więc przyjemnościom przeciwstawiać. To raz. A po drugie, jeżeliby się nawet pokazało, że czynności umysłowe tutaj wyróżnione są naprawdę większymi dobrami niż przyjemności inne, to z tego nie wyniknie wcale, żeby tamte inne nie miały też być pewnymi dobrami. Spór mógłby słusznie zachodzić w tej sprawie dopiero wtedy, gdyby Fileb albo Protarch twierdził, że najwyższym dobrem, największą wartością jest uczucie przyjemne, wszystko jedno z jakiego źródła czerpane, a Sokrates gdyby utrzymywał, że uczucie przyjemne, z byle jakiego źródła czerpane, nie jest najwyższym dobrem, nie jest największą wartością. Pokaże się, że właśnie o to szło, tylko nie od razu rozmawiający sprecyzowali swoje stanowiska.
+
+II. Rozwija się program rozważań. Znaleźć taką postawę duchową, która zapewnia szczęście. Rozstrzygnąć: czy to będzie raczej stałe nastawienie na przyjemności bez wyboru, czy też na czynności intelektualne? Czy może jakaś inna od tych dwóch, trzecia postawa duchowa? Co więcej warte: rozum czy rozkosz? Rozmawiający tworzą jak gdyby sąd konkursowy. Przed nimi postaci Rozumu i Rozkoszy ubiegają się o palmę pierwszeństwa. Fileb z góry oddaje nagrodę na tym konkursie w ręce Rozkoszy, ale już nie ma głosu, bo oddał sprawę w ręce Protarcha.
+
+III. Zaczynają rozmowę od bogini — Afrodyty. Znaczy to, że gdy mówią o rozkoszach, mają na myśli przede wszystkim rozkosze związane z życiem płciowym.
+
+Pierwsze słowa Sokratesa zdają się mówić, że Platon przeżywa jakiś skrupuł związany z czcią Afrodyty. Nie chodzi oczywiście o cześć dla tego lub owego posągu. Posągi to były symbole, znaki pewne dla ludu, wytwory dawnego zwyczaju; nie chodzi o cześć dla żony Hefajstosa i kochanki Aresa. To były bajki i nikt nie wymagał, żeby je uważać za prawdy. Chodzi o cześć dla Rozkoszy. Czy można szanować, chwalić, czcić każdą rozkosz i zawsze, czy też jedną szanować, a drugą gardzić? To jest skrupuł. On się krótko da wyrazić w zdaniu: Czy Afrodyta to bogini czy nie? Albo w innym: Czy Rozkosz to bogini Afrodyta? Po prawej stronie wejścia na Akropol stała świątynia Afrodyty Wszetecznej. Czy to też bogini? Platon uważał, zdaje się, że w mitach i w kultach ludowych są czasem jakieś niewyraźne, mętne odbicia rzeczy wzniosłych i wiecznych, jakby człowiek z ludu jednak pewne prawdy i pewne dobra przeczuwał niejasno w niektórych swych naiwnych wierzeniach odwiecznych, ale Platon nie lubił się dogrzebywać prawd ukrytych w mitologii, jak to wyznaje Sokrates w pierwszych rozdziałach Fajdrosa. Nie lubił też rozgrzebywać czcigodnych niedorzeczności mitologicznych. Bał się ich ruszać. Może się za tymi niedorzecznościami jednak kryje jakiś świat lepszy i godny czci rozumnego człowieka, chociaż go w nich dojrzeć trudno. Nie był bezbożnikiem i nie chciał nim być. Kult Afrodyty wydaje mu się w tym miejscu tutaj pochwałą każdej rozkoszy — w szczególności seksualnej — na tę pochwałę bez zastrzeżeń się zdobyć nie umiał. Ma zastrzeżenia. Powiedzieć wprost: Afrodyta to nie jest bogini — to byłoby podobne do bluźnierstwa. Powiedzieć: są dwie Afrodyty: lepsza i gorsza, niebiańska i wszeteczna — to już mówił w Uczcie. Sprawa niemiła i delikatna. Czy rozbić posąg Afrodyty? Stąd ta obawa u Sokratesa. Obawa o charakterze nie ludzkim, raczej mistycznym. Z drugiej strony, przedmioty nazw ogólnych, wieczne, miały w sobie coś z bogów ludowych w oczach Platona. Nie chwyta się ich śmierć i odmiana. Nazwy ogólne to też niby nazwy bóstw. To jest drugie znaczenie tej obawy niesamowitej, jaka się Sokratesowi łączy z imionami bogów.
+
+Zamiast rozbijać posągi można w ogóle nie mówić o bogini, tylko o przedmiocie, zwanym rozkosz. O tej sprawie można mówić o połowę swobodniej. Ale tu również trudności. Wyraz „rozkosz” zdaje się dotyczyć czegoś jednego. Powinny by więc pod ten wyraz podpadać rzeczy jednakowe, a nie rzeczy zbyt różne i sobie nawzajem wprost przeciwne. Tymczasem rozkosze głupców i rozpustników wydają się wprost przeciwieństwami tego, co stanowi rozkosz dla ludzi mądrych i opanowanych.
+
+Są chyba rozkosze dobre i są rozkosze złe. Tymczasem „rozkosz zła” to byłby jakiś paradoks, jakaś niedorzeczność, jeśliby się przyjęło, że rozkosz jest dobrem. Bo to by było tyle, co „dobro złe”. Sprzeczność wewnętrzna.
+
+Nie pomoże wybieg, że wszystkie pary przeciwieństw mają to właśnie wspólne znamię, że każda z dwóch rzeczy sobie przeciwnych jest właśnie drugiej przeciwna. To mdły wybieg słowny. Bo to nie jest jedno wspólne znamię bieli i czerni, że są sobie przeciwne, tylko biel jest przeciwna czerni, a czerń przeciwna bieli. Cechy różne.
+
+Nasuwa się pytanie, co właściwie wspólnego mają ze sobą rozkosze złe i dobre, głupie i mądre? Dlaczego ta wspólna nazwa „rozkosz”? Komu i czemu ona właściwie przysługuje? Jaka jedność wiąże tę różnorodność wielu rodzajów rozkoszy?
+
+IV. W wielu dziedzinach — przypomina Platon słusznie — kontrastują z sobą rzeczy podpadające po jedną nazwę, a bywają do siebie nawzajem niepodobne. Mówiło się już o tym, że tak się ma rzecz z barwami i z kształtami; teraz widać, że tak samo jest i z różnymi rodzajami wiedzy. Nic dziwnego zatem, że i rozkosze zgoła do siebie niepodobne i niekiedy kontrastujące z sobą mogą jednak podpadać pod wspólną nazwę „rozkosz”, bo mają jakiś jeden wspólny im wszystkim pierwiastek.
+
+V. Dopatrywać się pewnej jedności w wielości można w różne sposoby. Każdy człowiek przecież, każda istota żywa, każdy przedmiot, który się zmienia w ciągu swego istnienia, a więc rośnie, maleje, schnie, wilgnie, rusza się, jaśnieje, ciemnieje, więdnie, rozbudowuje się, starzeje, brzydnie — chyba że nie ma innych przedmiotów fizycznych na tym świecie — każdy jest jednym przedmiotem, a jednak w tej jedności można i trzeba wyróżnić niezmiernie różne od siebie nawzajem i nieraz przeciwne sobie stadia, które niepostrzeżenie przechodzą jedne w drugie. Każdy przedmiot jest taki i nie taki zarazem, jeżeli go brać pod uwagę jako coś jednego w dłuższym czasie trwania i zmieniania się. Jakby każdy taki przedmiot miał cztery wymiary: trzy wymiary przestrzenne, a czwarty wymiar: czas. Platon przecież — to i niemowlę pewne, i chłopak u stóp Sokratesa, i brodaty reformator marzący o przewrocie w Syrakuzach, i łysawy, siwy starzec piszący swoje Prawa pod koniec życia. Jeden i ten sam Platon wciąż, a wciąż inny jednak i wprost przeciwne sobie znamiona objawiający. To jeden rodzaj jedności w wielości. Drugi — to każda całość ułożona w myśli, która jest też jednością, a składa się fizycznie lub pozwala w sobie wyróżnić wiele części różnych. Tu jedność — to znowu wielość różnorodna. Trzeci rodzaj jedności — to te, które Platon ideami nazywał i mówi o nich teraz. Wieczne, rzeczywiste, niezmienne pierwowzory przedmiotów doczesnych, odpowiadające nazwom ogólnym, które tylko rozumem poznawać można, a nie zmysłami, kiedy się porównywa i pogłębia myślą wiele przedmiotów zmysłowych objętych jakąś wspólną nazwą.
+
+Platon wie, na jakie trudności natrafia ta nauka. Szkicuje w dwóch zdaniach przyszły spór o uniwersalia: czy to, co odpowiada nazwie ogólnej, tkwi w samych rzeczach konkretnych, rozproszone w nich niejako i powielone — jak rzeczy widział Arystoteles, czy też istnieje osobno, oddzielone od nich niejako, jak to raczej widział sam Platon. Ma się wrażenie, że spory o to zaczęły się nie dopiero w średnich wiekach, ale już w Atenach, za życia samego Platona. Rozmowa ma już w tym miejscu charakter trochę nierealny. Tak żywi ludzie nie rozmawiają. Tak monologuje Platon sam z sobą pod pozorem rozmowy Sokratesa z Protarchem i z Filebem. Tak mówi czasem inteligentny artysta przy winie, gdy ma zaufanie do towarzystwa.
+
+VI. Wspomnienia z młodości autora. Wolno wierzyć, że to on sam z takim zapałem dzielił się kiedyś swoimi syntezami młodocianymi z każdym, kto go tylko chciał słuchać. I spełniło mu się marzenie młodych lat, bo tłumaczów znalazł, choć później, niżby pragnął.
+
+Sokrates nie mówi tutaj dość wyraźnie, mówi raczej do siebie i dla siebie. Zdaje się jednak, że to, przed czym ostrzega młodych myślicieli, a co mu się zabawne wydaje, to będą przedwczesne syntezy, niedowarzone uogólnienia, zbyt śmiałe a mętne. A ta droga właściwa w myśleniu, którą zaleca, to są szczeble uogólnień cząstkowych, zawsze ujęte ilościowo, a wielkie syntezy dopiero na końcu. Tak jak dziś postępują nauki przyrodnicze i nauki historyczne. Zaczyna się od badań monograficznych, a liczy się i mierzy się, co tylko można, aby uniknąć syntez przedwczesnych i mglistych.
+
+VII. Platon wie, że nie tłumaczy się dość jasno. Od pitagorejczyków słyszał, że świat składa się z przeciwieństw. Pośród tych par przeciwieństw wymieniali pitagorejczycy i tę: granica i nieokreśloność, albo: kres i bezkres. Platon przyjmuje to rozróżnienie. On je przyjmuje także w myśleniu i w mówieniu o świecie i o rzeczach. Literackie studia zdobne przenośniami to dziedzina tego, co nieokreślone, a myślenie i pisanie ścisłe, z pomocą wyrazów o znaczeniu ustalonym, myślenie ujęte ilościowo — to dziedzina druga: określeń. Dopiero na tej drodze osiąga się wiedzę, jak to już mówił Sokrates w Teajtecie. To jest dziedzina granicy, kresu, dziedzina ścisłości, jasności i wiedzy. Gdyby nie Sokrates, byłby może i Platon został przy poezji. Sokrates rozbudził w nim potrzebę definiowania i myślenia jasnego — z pomocą określonych terminów. To znaczy: wprowadził go na drogę jasną, boską, po której ludzie dochodzą do odkryć i do wynalazków. Zakładać jedną postać, czyli jedną ideę w jakiejś grupie przedmiotów albo spraw, to tyle, co definiować pewną sprawę albo grupę przedmiotów, i znaczy tyle, co wykrywać jedno prawo, według którego przebiega wiele procesów. Jesteśmy u początków nauki europejskiej i widzimy, jak w tym rozdziale Platon stawia jeden z jej wiecznych drogowskazów. Tylko robi to stylem, jakiego sam nie zaleca.
+
+VIII. Sokrates próbuje na przykładach pokazać ogólnikowo pewne próby teoretycznych ustaleń i podziałów na rodzaje w dziedzinie gramatyki i muzyki.
+
+IX. Tak samo wypadałoby teraz, skoro się chce mówić o rozkoszy i o rozumie lub o wiedzy, jakoś je określić i podzielić na rodzaje, i potem dopiero rozpatrzyć ich wzajemny stosunek. Zadanie nie jest łatwe. Protarchos przypomina punkt wyjścia rozmowy. Szło o wybór najlepszego typu życia, szło o to, komu oddać w życiu pierwszeństwo: rozkoszy czy rozumowi. Które z nich stanowi dobro prawdziwe?
+
+X. Żadne, odpowiada Sokrates, a mówi to nie od siebie samego. Wypowiada myśli Platona. W rozpędzie napisało się autorowi o jedno słówko za wiele. To słówko wzięto w przekładzie w nawias. To, co dobre naprawdę, powiada, to wystarcza i nie potrzebuje uzupełnień. Doskonała postawa duchowa w życiu tak samo nie powinna człowiekowi zostawiać poczucia braku, niedostatku, powinna go zaspokajać. Tymczasem rozkosze same, gdyby mogły istnieć bez żadnego życia intelektualnego, nie zaspokajałyby człowieka. Bez pewnej dozy uwagi, pamięci, inteligencji nie można by się nawet rozkoszami po ludzku cieszyć. Zatem rozkosz sama nie jest dobrem, bo nie wystarcza człowiekowi sama przez się, ale wymaga, jako uzupełnienia, jeszcze pewnych sprawności intelektualnych, jeżeli ma być coś warta.
+
+XI. Podobnie i życie intelektualne samo przez się nie zaspokoi nikogo, jeżeli będzie obrane z wszelkich przyjemności, z czynnika rozkoszy. Ono też nie jest wystarczające, a więc i ono nie jest doskonałe. Zatem ani rozkosz, ani rozum nie jest tym samym, co dobro, i pierwszej nagrody na konkursie nie dostanie ani jedno, ani drugie.
+
+Życie skombinowane, a więc życie oddane przede wszystkim pracy intelektualnej, a ozdobione innymi przyjemnościami, wypadnie postawić wyżej niż życie głupiego rozpustnika i niż życie oschłego uczonego.
+
+Pierwsza nagroda w konkursie przypadnie w udziale chyba dobru samemu. Druga życiu skombinowanemu z pracy intelektualnej i z rozkoszy. Ono stoi tak wysoko w hierarchii wartości nie dlatego, że ma w sobie przymieszkę rozkoszy, tylko dlatego, że się w nim przejawia rozum. Ale gardzić nią nie ma powodu. Sokrates jej nie potępia i nie odrzuca. Spróbuje tylko powiedzieć naprzód, dlaczego rozum stawia tak wysoko.
+
+XII. Zaczyna od ogólnych założeń. Chce rozróżniać we wszechświecie cztery czynniki: określony, nieokreślony, mieszaninę z nich obu i przyczynę tego mieszania się. To rozróżnienie nie jest u autora dość jasne i on wie o tym, jak świadczą słowa Protarcha. Świadczy o tym i to, że Sokrates nie bardzo jest zdecydowany, ile grup zechce przyjąć w swym podziale. To, co Sokrates tutaj mówi, wygada raczej na wymienienie różnych rodzajów naszych ujęć tego, co istnieje, niż na podział przedmiotów i zdarzeń. To nie rzeczywistość, tylko nasze zdania bywają raz nieokreślone, a raz określone i ścisłe. Nie można przecież powiedzieć, że na dworze jest raz bardzo gorąco, a innym razem jest 42 stopnie w cieniu. To na jedno wychodzi. Tylko my jeden i ten sam stan temperatury możemy dwojako ujmować. Raz mętnie i niejasno, mówiąc, że jest bardzo gorąco, a raz ściśle i jasno, mówiąc, że mamy 42 stopnie w cieniu. Podobnie raz można powiedzieć, że słupy w Propylejach są bardzo grube, a innym razem powiedzieć, że mają u dołu 160 cm średnicy. To „bardzo” i „bardziej”, i „mniej”, i „słabo”, i „mocno”, i „zbytnio” to nie są rodzaje przedmiotów, tylko to są nasze mętne określenia przedmiotów i zdarzeń. Podobnie jak inne, ścisłe określenia ilościowe są również nasze. Jednemu i temu samemu przedmiotowi lub zdarzeniu mogą przysługiwać równocześnie dwa określenia: jedno mętne, a drugie ścisłe. W przedmiocie lub w zdarzeniu nic się nie zmienia przez to, jeżeli je człowiek określi raz mętnie, a raz ściśle. Zmienia się tylko jego obraz. Ale obraz zdarzenia i zdarzenie samo to dwie rzeczy różne. Zatem trudno się tu z Sokratesem zgodzić, żeby sam świat składał się z tego, co określone, i z tego, co nieokreślone. Te dwa pierwiastki można i należy odróżniać, ale w naszych ujęciach świata, a nie w świecie samym. (Por. W. Witwicki, Rozmowa o jedności prawdy i dobra, Wyd. Filomaty, Lwów 1936).
+
+XIII. Jak w poprzednim rozdziale, tak i teraz podmiotowe ujęcia wydają się Sokratesowi przedmiotami samymi i stają się jakby osobami. Żenią się i mają potomstwo, wypierają się nawzajem i walczą o miejsce. Jedność, w której się bezkres łączy z określeniem, staje się boginią opiekunką. Platon nie upierałby się na pewno przy tym, żeby te personifikacje brać dosłownie. On tu daje wyraz nie swoim przekonaniom, tylko swoim supozycjom. Inaczej mówiąc: on tak nie myśli naprawdę i dosłownie, tylko tak mówi obrazowo. Nie jest to sprawa jego stanowiska, tylko sprawa jego stylu, sposobu pisania. Gdyby można mówić z nim dzisiaj, zgodziłby się zapewne, że tylko tyle chciał powiedzieć: różne dobre rzeczy powstają przez wprowadzenie w jakiś materiał nieokreślony pierwiastka pewnej miary, granicy, określenia. Przecież i materiał artysty i rzemieślnika musi być wyraźnie odmierzony i ostrugany, czy ociosany, a więc ograniczony, żeby coś z niego było, i materiał pożądań ludzkich musi być ujęty w granice pewnych zasad i praw postępowania, żeby się z tego zrobił dobry obyczaj. I myślenie mętne, literackie, przenośne, półsenne musi być ujęte w ramy ścisłych określeń i poprawnych form rozumowania, żeby było coś warte dla nauki. Zarówno w robocie i w dziele majstra, jak w obyczaju i w postępowaniu ludzkim, jak w myśleniu i w wytworach myśli ludzkiej można wyróżnić czynnik nieokreślony i czynnik pewnego określenia, granicy takiej lub innej. Te rzeczy, w których można takie dwa czynniki wyróżnić, należeć mają do trzeciej grupy przedmiotów spośród tych trzech, które tu Platon wyróżnia.
+
+XIV. On wyróżnia teraz jeszcze coś czwartego. Tym czwartym czynnikiem wszystkiego jest przyczyna. Coś, co w każdym wypadku dołącza granicę do tego, co nieokreślone.
+
+Człony tego podziału nie wykluczają się. Można wskazać wiele przyczyn, w których by się dał wyróżnić czynnik określenia i czegoś nieokreślonego. Trudno byłoby więc wymieniać przyczynę jako coś czwartego, równorzędnego tamtym czynnikom. O tym Protarch zapomniał w tej chwili.
+
+Żywot poddany rozumowi, a niewolny od rozkoszy, wydaje się rozmawiającym czymś, co by należało zaliczyć do trzeciej grupy przedmiotów.
+
+XV. Żywot oddany rozkoszom zaliczyłby Sokrates niewątpliwie do dziedziny tego, co nieokreślone, co nie zna kresu, wędzidła, umiaru, opanowania. Do tej dziedziny zalicza rozkosz. Rozum, zdawałoby się, że wejdzie do grupy przeciwnej: tego, co ma granicę. On jednak wydaje się Sokratesowi nie tym, co ma, tylko tym, co nadaje granice, co wprowadza określenie w żywioł nieokreślony. Zatem to coś jakby przyczyna, czynnik czwarty z rzędu.
+
+XVI. Platon przypomina myśl Anaksagorasa, że umysł porządkuje wszystko i pięknie rozmieszcza w świecie. Oczywiście nie umysł ludzki, tylko umysł wszechświatowy, związany z duszą wszechświata. Mówiąc obrazowo: Umysł Zeusa. On jest tą przyczyną, która wiąże granice z bezkresem w naturze wszechrzeczy. Podobnie rozum poszczególnego człowieka potrafi trzymać w ryzach i regulować jego uczucia, pożądania i postępowanie. Człowiek wydaje się Platonowi małym odbiciem wszechświata — mikrokosmosem.
+
+XVII. Autor szkicuje ogólnikowo biologiczną teorię uczuć. Ból powstaje na tle jakiegoś rozpadu, na tle psucia się harmonii w istocie żywej, a rozkosz powstaje, gdy się zakłócona harmonia czynności organizmu z powrotem odtwarza, gdy organizm wraca do swego właściwego stanu, czyli do swojej istoty. W nieco innych terminach i z pewnymi zastrzeżeniami ta teoria wydaje się i dziś prawdziwa.
+
+XVIII. Oprócz rozkoszy i bólów wywołanych podnietą fizyczną i fizjologiczną istnieją inne, bez podniety fizjologicznej, związane z oczekiwaniem tamtych. Należy dodać, że z przypominaniem również. W rozdziale XIX przypomni to sobie i Sokrates. Stan równowagi ciała, w którym ani rozpadu nie ma, ani odbudowy, wiąże się z pewną apatią, nie wywołuje żadnych bólów i nie daje żadnych osobliwych rozkoszy. Możliwe jest i takie życie — uczonego. Platon nazywa je boskim. Nie widać, żeby się do niego entuzjazmował.
+
+XIX. Platon daje tu określenie stanów jeszcze nieuświadomionych w odróżnieniu od już zapomnianych. Jedne i drugie są nieświadome. Mówi o podniecie fizjologicznej spostrzeżeń i o spostrzeżeniach, względnie o wyobrażeniach spostrzegawczych. Określa przypomnienia. To określenie powtórzy później Arystoteles w rozprawie O pamięci i o przypominaniu sobie i nie poda, skąd je wziął, bo cytowanie źródeł nie było obowiązkiem u starożytnych. Rozwinie tam myśl Platona materialistycznie i mitologicznie. Dosłownie wziął tekst Fileba.
+
+XX. Fakt pożądania interesuje tu autora i wydaje mu się zdumiewający pod pewnym względem. Twierdzi, że pragnie się zawsze tego, czego się nie ma. Tę samą myśl wypowiedział w Uczcie, w mowie Diotymy. Niezbędnym warunkiem każdego pożądania jest brak w danej chwili tego, co stanowi przedmiot pożądania. Przedmioty pożądań są zawsze przyszłe lub przeszłe, lub oddalone przestrzennie. Zawsze oddzielone od nas, nigdy obecne i bliskie. To prawda. Tylko niesłusznie zakłada Sokrates, że w pożądaniu każdym — nawet w pierwszym z rzędu — musi tkwić jakoś przedstawienie przedmiotu pożądanego. To by znaczyło, że dusza pragnąca czegoś „dotyka” jakoś przedmiotu pożądania, chociaż on nie działa na nią w danej chwili. To niesłuszne, bo nazywamy pożądaniami także i takie niepokoje wewnętrzne, skłaniające do działań, które uspokoić może tylko pewien, tylko ten, a nie inny stan rzeczy, chociaż człowiek trapiony jego brakiem sam nie potrafi wskazać ani przedstawić sobie przedmiotu swego pożądania. Tak wyglądają pierwsze pożądania seksualne u nieuświadomionych chłopców i dziewcząt, taki charakter miewa nieraz pożądanie towarzystwa ludzkiego lub pewnego towarzystwa określonego, nostalgia, niechęć do osób bliskich, potrzeba snu itd. Niekiedy człowiek sam nie wie, czego właściwie pragnie, i dopiero widząc, co mu ulgę przynosi, domyśla się, że widocznie tego właśnie musiał pragnąć. Innym razem gotów ktoś przysięgać, że pragnie dobra publicznego, a tylko ci, co go znają najlepiej, wiedzą, że on pragnie własnej chwały i wywyższenia, a tym, co publiczne, nie przejmuje się zbytnio albo tym po prostu gardzi i pomiata.
+
+Nie zawsze więc przedstawiamy sobie przedmioty naszych pożądań. Nie zawierają na pewno tych przedstawień pożądania pierwsze, a jeśli te przedstawienia występują w zwyczajnych pożądaniach świadomych, to znamy dobrze ich genezę. Oczywiście, że one rodzą się wtedy na tle pamięci.
+
+XXI. Zupełnie słuszne stwierdza Platon, że nie istnieją pożądania ciała, choć ludzie o nich mówią od dwóch tysięcy lat i będą mówili w dalszym ciągu. Pożądanie każde jest faktem psychicznym. Najbardziej nawet cielesnych pociech pragną dusze, a nie pragną ich ciała. To słuszne.
+
+Rozpoczynają się świetne szkice analiz psychologicznych. Więc naprzód wykrywa Platon i opisuje mieszany z przykrości i z przyjemności charakter pragnień i wskazuje w pragnieniach dodatnich zawarte: 1. przykre stwierdzenie braku pewnego stanu rzeczy, 2. przyjemną supozycję zaspokojenia tego braku. (Zob. W. Witwicki, Analiza psychologiczna objawów woli, Tow. dla Popierania Nauki Polskiej, Lwów 1904). Rozpoczyna roztrząsać zagadnienie prawdziwości i fałszywości uczuć.
+
+I tu jest w tekście miejsce, które sprawia niepokonane trudności komentatorom. Oto Sokrates, w chwili gdy mu świta w pewnym momencie zagadnienie prawdziwości i fałszywości uczuć, przypomina sobie, że zagadnienie główne brzmiało: jaka postawa psychiczna może nam zapewnić szczęście, i odzywa się do Protarcha tak: „Jeżeli to ma związek z myślami poprzednimi, synu tamtego człowieka, to trzeba to wziąć pod uwagę”. Co znaczy w tym miejscu zwrot: „synu tamtego człowieka”? Powiadają na to: znaczy tyle co: „synu Kalliasa”. A więc czemu nie po prostu: „synu Kalliasa”? — Mówią: Bo Sokrates w tym miejscu zapomniał, jak się nazywa ojciec Protarcha. (Zob.: Plato with an English translation III. W. R. M. Lamb, M. A., London, New York MCMXXV, str. 291). To zabawne wyjaśnienie, bo Platon mógł to Sokratesowi zbyt łatwo podpowiedzieć. Mówią też, że to znaczy tyle, co: „synu Fileba”. Ale Fileb nie jest w żadnym sposobie „tamtym” człowiekiem. Siedzi przy rozmawiających i słucha albo śpi; więc nie może być „tamtym”. Mówią więc: to znaczy tyle, co: „synu Gorgiasza”, bo Protarchos słuchał Gorgiasza, a syn to prawie tyle, co uczeń lub słuchacz. To też nie do przyjęcia. Bo gdyby nawet dopuścić tego syna zamiast ucznia, to i Gorgiasz nie może tu być „tamtym”, ponieważ dotąd nie było o nim mowy w ogóle.
+
+Zdaje mi się więc, że zaimek tutaj użyty musi odnosić się do kogoś, kto w jakikolwiek sposób występował w poprzednim toku rozmowy. Tam, gdzie odsyła nas Platon tym słowem, tam gdzieś wskazuje z humorem ojca Protarcha, ale to nie będzie Kallias, bo tego można było wymienić po prostu. Kallias nie jest „tamtym”, bo żadnej roli nie odegrał w rozmowie, nie było go widać w ogóle, więc nie można go teraz wskazywać zaimkiem „tamten” i nie można by tego zaimka rozwinąć z pomocą zdania względnego: tamten, który… co właściwie?
+
+Jedno rozwinięcie dałoby się pogodzić z tokiem myśli w tym ustępie. A mianowicie, gdyby ustęp rozwijać w ten sposób: „Jeżeli sprawa prawdziwości uczuć ma związek z ustalaniem ideałów życiowych i z życiem uczonego, wolnym od zbytnich rozkoszy i smutków, to powinniśmy tę sprawę wziąć pod uwagę w tej chwili; ja i ty, synu tamtego człowieka, który tu był zaczął ideały życiowe ustalać i chwalić to życie uczonego wolne od zbytnich rozkoszy i smutków. Człowieka, który się dziś znajduje pośrodku między cierpieniem a radością, a czasem cierpi podwójnie. Raz na tle stanu swojego ciała, a duchowy ból go trapi też; on oczekuje i tęskni, i ma wrażenie, że pamięta życie inne niż to, które przemija — ziemskie”. Krócej mówiąc: „Mój synu”. Platon w postaci Sokratesa mówi tu do Protarcha jak do własnego tworu, do własnego syna literackiego. To Platon sam jest *tamtym* człowiekiem, który mówił myśli poprzednie i stworzył Protarcha dla porozumienia z czytelnikiem. On może do niego tak mówić. On dobrze widzi, że Protarch to nie żywy człowiek, tylko manekin i maska. Trzeba zważyć, że Sokrates mówił cały czas jakby w nastroju dionizyjskim: przenośnie, personifikacje, dygresje, niedokończenia, mglistości, liryka, wspomnienia, skróty, uwagi na stronie i humor, który niewiele dba o to, czy się czytelnik zorientuje w żarcie i dojrzy uśmiech autora, czy nie — rozmowa z samym sobą raczej; pisana na gorąco, w chwili gdy się myśli rodziły w głowie. Jakby bez kreśleń i korektur. Tak można zrozumieć to miejsce i powiązać je z tekstem i ze świadomością twórczą Platona, z jego postawą przy pisaniu, widoczną w stylu nie tylko w tym jednym miejscu.
+
+Sokrates postanawia odrzucić rozwlekłości. Dojrzał je widać. I wyznaje, że nie wykłada planowo i nie wie jeszcze, do czego dojdzie na końcu. W tej chwili bliski jest przekonania, że prawda i fałsz nie są tylko cechą sądów, ale przysługują również uczuciom. Suponuje, że uczucia i pożądania „fałszywe” zdarzają się na tle marzeń sennych, niedomagań umysłowych i psychoz. Ma ochotę mówić o uczuciach fałszywych w takich wypadkach, kiedy człowiek sądzi, że przeżywa pewien stan uczuciowy, a nie przeżywa go naprawdę.
+
+Czy są takie stany? Zdawałoby się, że nie ma. Zdawałoby się, że introspekcja nie może nas mylić nigdy. Jeżeli sądzę, że się boję, to boję się chyba na pewno, i jeżeli sądzę, że się cieszę, to cieszę się na pewno. Jeżeli mi się nawet śni, że się gniewam na smoka ze złotym ogonem, to gniew mój naprawdę istnieje, chociaż złoty smok nie istnieje. Kiedy obłąkanego przerażają czarne szczury, dane mu w halucynacji, to jego przerażenie samo nie wydaje się fałszywe, chociaż jego sąd, że go szczury gonią, jest fałszywy.
+
+Bywają jednak wypadki pewnej sugestii własnej albo sugestii z zewnątrz, w których człowiek może się mylić co do własnego stanu uczuciowego i sądzić, że przeżywa stan X, podczas gdy naprawdę wcale nie przeżywa stanu X, tylko stan Y lub Z. Tak nieraz przy zastrzyku podskórnym myśli ktoś przez chwilę, że to go boli, a dopiero jak się zastanowi, przyznaje się, że właściwie bólu nie było, tylko on się bał, że ból będzie, i stąd ta pomyłka. Pomyłka co do jakości przeżywanego stanu. W innym wypadku matka, egoistka, myśli, że kocha swoje dziecko nad życie, ale ci, co ją znają bliżej, wiedzą, że to nie miłość u niej gra, tylko ambicja i chciwość. Podobnie, wracając z towarzyskiego zebrania, na którym było wiele hałasu i wiele śmiechu, i trzeba się było dużo śmiać dla kompanii, ma człowiek niekiedy zrazu wrażenie, że się bawił. Dopiero zastanowiwszy się lepiej, uważa, że to właściwie nie była żadna zabawa, tylko czczość i hałaśliwa pustka. Mylnie zrazu ocenił jakość swego nastroju. Nic też częstszego jak pomyłki co do przedmiotu własnego uczucia. Kiedy człowieka niewprawnego w analizie psychologicznej pytać, co go właściwie śmieszy w pewnej anegdocie lub w sytuacji żywej, bardzo często nie potrafi wskazać, co go bawi, a śmieje się dalej. Sam nie wie, z czego właściwie, albo mu się zdaje, że to z kontrastu, z nieoczekiwania, z niespodzianki, z mechanicznego wyglądu czegoś, co jest żywe, itp. Zależnie od tego, którą z wielu fałszywych teorii śmieszności trafiło mu się napotkać. Zatem własne doświadczenie wewnętrzne może nas niekiedy mylić, możemy mylnie spostrzegać i mylnie określać nasze własne stany uczuciowe. Uczucia mylnie we własnym wnętrzu dostrzegane lub mylnie określane i przypisywane sobie samemu mógłby ktoś nazywać fałszywymi. Podobnie jak fałszywym złotem nazywamy mosiądz, który nam wygląda na złoto, a nie jest złotem. Wyraz „fałszywy” będzie tu użyty wtórnie, przenośnie. Pierwotnie fałsz jest jednak cechą sądów pewnych niezgodnych z rzeczywistością. Wtórnie może dotyczyć także i tych przedmiotów, które jakoś nas skłaniają do wydawania sądów mylnych albo nie istnieją w ogóle, a tylko my je w mylnych sądach stwierdzamy. A więc i uczucia związane z sądami mylnymi.
+
+XXII. Sokrates nie nastaje w tej chwili na przyjęcie uczuć mylnych i prawdziwych. Wystarcza mu już przyjąć tylko uczucia słuszne i niesłuszne. Rozróżnienie przydane. My dziś też możemy mówić i mówimy nieraz o niesłusznej obawie, kiedy się ktoś boi jeździć autem lub koleją, nie tyle, jeśli aeroplanem pasażerskim. Mówimy także, że niesłusznie się ktoś cieszy z wygranej na loterii, jeżeli w spisie numerów wygranych dojrzał przez nieuwagę i przez pomyłkę także i swój numer losu, choć wcale go tam nie było naprawdę.
+
+Sokrates porusza przy tej sposobności sprawę różnych jakości uczuć. Czy istnieją uczucia różne jakościowo, czy też przyjemność sama jest zawsze jednaka — wszystko jedno, czyby się łączyła ze smakiem dobrej czekolady, czy z muzyką, czy z komedią, z dniem imienin, czy z awansem lub wygraną na loterii. Podobnie przykrości — czy są różne, czy też zawsze przykrość jest jedna i ta sama i jednaka, czyby szła w parze z zaczepieniem naddartego paznokcia o krepę, czy ze śmiercią osoby bliskiej, czy z lekturą artykułów politycznych w gazetach, czy ze zwiedzaniem wystaw malarskich. Sokrates oświadcza się raczej za wieloma różnymi jakościami uczuć, ale z argumentów, które podaje, widać, że ma na myśli różnice co do siły, a nie co do jakości. Sprawa jest sporna i dziś. Jeżeli jednak stanem uczuciowym nazywać pewien kompleks wrażeń ustrojowych wraz z jego podstawą psychologiczną, a więc razem z przedstawieniem pewnym, przekonaniem lub supozycją dotyczącą przedmiotu uczucia, a tak robimy zazwyczaj, istnieją na pewno liczne i różne jakości uczuć.
+
+XXIII. Platon daje analizę spostrzeżeń dotyczących przedmiotów fizycznych. Wyróżnia w nich wyobrażenie spostrzegawcze, które nazywa spostrzeżeniem, i sąd klasyfikujący, w którym tak lub inaczej ujmujemy przedmiot wyobrażenia. Po spostrzeżeniach, prawdziwych lub mylnych, zostają nam przypomnienia. W nich tkwią wyobrażenia pochodne albo przedstawienia nieobrazowe oraz sądy pewne. Niektóre z tych sądów powstały podczas minionych spostrzeżeń. I te, jeśli były wtedy mylne, zostają i w przypomnieniach mylne. Podobną budowę mają przewidywania i marzenia, odnoszące się do przyszłości. W nich również mogą tkwić sądy mylne, jeżeli je wyprzedzały mylne spostrzeżenia.
+
+XXIV. Sokrates wraca jednak do tej myśli, że chyba są rozkosze i cierpienia „fałszywe”. Czuje, że tu jest jakaś trudność. Dlatego się tak broni Protarch przeciwko tej myśli i Sokrates go chwali za tę obronę. Sokrates aż bogów wciągnął do dyskusji. A na myśli ma najwidoczniej coś w tym rodzaju: radości i cierpienia fałszywe to są te, które się wiążą z sądami mylnymi albo z sądami na niby. Jeżeli się ktoś cieszy szkiełkiem, które bierze za brylant, jego radość ma być fałszywa, bo na fałszywym sądzie oparta. Niemniej jest rzeczywista. Fałszywe radości i cierpienia to są i te, które my dziś nazywamy nieszczerymi. One powstają, kiedy człowiek umyślnie wpływa, umyślnie zmienić usiłuje w swoim uczuciu jego siłę, jakość, przedmiot, czas trwania. Kiedy się sam wprowadza w pewien stan uczuciowy wbrew swemu przekonaniu albo go z siebie usiłuje wykłamać. Te uczucia, jeśliby miały być przekonaniowe, wiążą się wtedy z supozycjami, które są sprzeczne z przekonaniami głębszymi, szczerymi. Takie uczucia przeżywa aktor, kiedy się przed widzami przejmuje rolą, a zachowuje świadomość swego „kłamstwa”. Ono nikogo naprawdę w błąd nie wprowadza, choć przejmuje wszystkich. Te stany Platon świetnie opisywał w Ionie. Nie ręczę, czy je sobie przypomina w tej chwili. Mnóstwo takich uczuć w twórczości artystycznej, w obcowaniu pewnych ludzi z dziełami sztuki w roli odbiorcy, one charakteryzują w życiu typy histeryczne, one cechują tych, którzy się dla jakichkolwiek celów zakłamują sami, zatracają prostotę i bezpośredniość życia uczuciowego, przyjmują postawy uczuciowe, które nie są ich własne i nie sięgają w nich do głębi. Platon je znał dobrze. Ludzie źli zaś to są u niego ci, którzy cenią najwyżej pieniądze, władzę i znaczenie osobiste — wszystko to zdobywane choćby nawet z krzywdą ludzką. Czytaliśmy o nich w Gorgiaszu. Mylą się w tej ocenie, bo to nie są najwyższe i to nie są żadne dobra. Zatem ich radość jest oparta na fałszywej ocenie dóbr życiowych. Jest więc i ta radość fałszywa. Nie jest w mocy ludzkiej wyprowadzić ich z błędu, otworzyć im oczy i pokazać, że się mylą w ocenach, odsłonić im dobra prawdziwe. Jakby ich w zaślepieniu trzymały jakieś moce nadludzkie i właśnie tym zaślepieniem karały za ich zbrodnie. To znaczy, że ludzie źli są „bogom niemili” i dlatego przeżywają uczucia „fałszywe”. Ci ludzie cierpią też czasami, gdy im się nie udaje skrzywdzić drugich lub gdy się im trafi stracić część pieniędzy i wpływów nieuczciwie zdobytych. To cierpienie też wiąże się z ich mylnym przekonaniem o wysokiej wartości skarbów i wpływów źle zdobytych, a więc można je również nazwać cierpieniem fałszywym. Prawdziwie cieszy się, tak chciałby mówić Sokrates, tylko ten człowiek, który się cieszy czymś, co istnieje i jest naprawdę dobre; człowiek, który się nie myli w ocenie wartości. Tak go „bogowie nagradzają”. I prawdziwie cierpi tylko ten, który boleje nad utratą wartości prawdziwych. Radości fałszywe i cierpienia fałszywe są mimo to rzeczywiste, istotne, zdarzają się, nie są pozorami uczuć, tylko uczuciami rzeczywistymi.
+
+Przez chwilę Sokrates bliski jest tej myśli, że nie ma w ogóle innych złych uczuć w duszy ludzkiej, jak tylko uczucia oparte na mylnych ocenach wartości i na fikcjach. Że każdy zły człowiek tylko dlatego i przez to jest zły, że jest głupi. Głupi dlatego, że nie widzi, co istnieje i co jest naprawdę dobre. Ale Sokrates nie upiera się przy tym stanowisku. Dopuszcza oprócz mylności jeszcze i inne zło w uczuciach ludzkich. Słusznie robi.
+
+XXV. Sokrates wykrywa w każdym pragnieniu dodatnim zawarty składnik przykrości. To: uczucie przykre, związane z obecnym brakiem. I składnik dodatni. To: uczucie przyjemne, związane z antycypacją zaspokojenia. Wykrywa i opisuje złudzenia w ocenie siły uczuć, oparte na ich kontraście i na oddaleniu czasowym. W nowym znaczeniu mówi teraz o rozkoszach i o cierpieniach fałszywych. Fałszywymi uczuciami nazywa teraz złudne, bo powiększone lub pomniejszone, wyglądy uczuć, które powstają przez to, że nowe stany uczuciowe powstają na tle innych, już istniejących, albo zmieniają pozornie swą siłę w przypomnieniu zbyt dawnym lub zbyt świeżym. Tak czasem troski i zmartwienia z lat dziecięcych bledną w wieku dojrzałym i wydają się nam małe i śmieszne z oddalenia wielu lat i w porównaniu do trosk i zmartwień obecnych. A były wielkie, kiedy były. Ten ich pomniejszony wygląd jest złudny. Tak pierwsza przechadzka po długiej chorobie wydaje się szczęściem większym, niż się przedstawiała zdrowemu, tak maleją w niedawnym przypomnieniu męki i trudy wycieczki, kiedy przyjdzie dobra chwila na popasie, tak nieraz starcy błogosławią młode lata, choć za młodu nie czuli wcale tego osobliwego szczęścia młodych lat. To pewne, że pamięć i wpływ tła uczuciowego powoduje nieraz fałszywą ocenę siły naszych własnych stanów uczuciowych. Wszystko to mówi autor na to, żeby wskazać, jak wiele fałszu, pozoru, złudy tkwi w pospolitych rozkoszach.
+
+XXVI. Stan równowagi cielesnej, który by uwalniał od wszelkich wzruszeń przyjemnych i przykrych, nie da się w praktyce osiągnąć, co Sokrates wiąże ze znanym powiedzeniem Heraklita: „Wszystko płynie” i z drugim tegoż autora: „Droga w górę i w dół jedna”. Dlatego nadciąga groźna dla postulatu Sokratesa myśl, że zupełny spokój uczuciowy, zupełna wolność od cierpień i rozkoszy, która miała cechować „boski” żywot uczonego w rozdziale XVIII, jest w ogóle nie do osiągnięcia, jest pustą mrzonką. Sokrates ratuje się słuszną uwagą o podnietach podprogowych. Słusznie zwraca uwagę, że podniety słabe i miernej siły nie wywołują ani zbytnich cierpień, ani rozkoszy. Mógłby więc i uczony zachować ów idealny spokój wewnętrzny, byleby się wystrzegał zbyt silnych podniet. To nie znaczy, że w ten sposób będzie mógł żyć przyjemnie, ponieważ sama wolność od cierpień jeszcze nie stanowi przyjemności, jak sądzili pitagorejczycy, Demokryt i Antystenes.
+
+XXVII. To właśnie mają być ci tędzy przyrodnicy, o których teraz mowa. Nazywa ich Sokrates przeciwnikami Fileba, bo Fileb rozkosz czci i nazywa ją najwyższym dobrem, a oni mówią, że ona w ogóle nie istnieje jako coś pozytywnego i jest tylko brakiem cierpienia. Platon zupełnie słusznie i dowcipnie doszukuje się psychologicznego tła takiego poglądu i widzi je w usposobieniu zgryźliwym, które się krzywi na uciechy młodości. Pogląd to jaskrawo niezgodny z doświadczeniem codziennym — zatem nie ze spostrzeżeń uważnych wysnuty, tylko raczej z natchnienia, jak przepowiednie wieszczków. Na religijną instytucję wieszczków Platon patrzał z humorem — nie tylko w Eutyfronie. Teraz wysnuwa następstwa z poglądów Antystenesa. Gdyby rozkosz była naprawdę ustaniem cierpienia, to szczyty rozkoszy musiałyby się zjawiać tylko w pauzach najcięższych chorób, bo tylko wtedy ustają największe cierpienia. To bywa. Ale równocześnie spotykamy je właśnie u ludzi zdrowych, a nie chorych, więc Antystenes nie ma słuszności. Rozkosz jest przeżyciem pozytywnym, chociaż jej wysokie stopnie można spotkać także u ludzi chorych.
+
+XXVIII. Najwyższe stopnie rozkoszy można spotkać także na tle upadku duchowego. Uczucia o najwyższej sile nie idą wcale w parze z najlepszym stanem ciała i duszy. Rozkosze o najwyższej sile, związane z życiem płciowym (te uchodzą niesłusznie za najwyższe), są naprawdę pomieszane z cierpieniem, jak każde zaspokajanie bardzo gwałtownych żądz. Te przeżycia tylko uchodzą za rozkosze, a naprawdę to są przeżycia słodko-gorzkie, mieszane z rozkoszy i z bólu. Góruje w nich raz jeden składnik, raz drugi. Platon z pobłażliwym uśmiechem patrzy na tych, którzy ich nienawidzą, a z uśmiechem współczucia i z pewnym humorem opisuje tych, którzy się im oddają. Dziś z oddalenia wielu lat ogląda te same momenty, które malował w tekście Fajdrosa. Momenty zbliżeń osobistych na tle miłości lub tylko pociągu płciowego. W tych obecnych obrazach widocznie maleje składnik rozkoszy w zestawieniu ze składnikiem cierpienia. Może robi to zbyt wielkie oddalenie.
+
+XXIX. W świetnych szkicach analiz psychologicznych pokazuje Sokrates mieszany z przykrości i z przyjemności charakter tych afektów, które powszechnie uchodzą za jednolite, proste, całkowicie przyjemne albo całkowicie przykre stany. Przyjemność zawartą niekiedy w gniewie dojrzał już Homer w Iliadzie w księdze XVIII, 109. Tutaj go Sokrates cytuje. O mieszanym charakterze przeżyć podczas tragedii mówił Sokrates już w Ionie. Teraz zajmuje się bliżej mieszanym charakterem przeżyć podczas komedii.
+
+Przeżycie komizmu uważa Platon za pewien objaw zawiści. Zawiść to gotowość do cierpień na widok powodzenia drugich i do cieszenia się tym, co u bliźnich jest złem, co jest jego nieszczęściem pewnym. Kto przeżywa wewnętrznie komizm jakiegoś człowieka, ten się po prostu cieszy z jego niewiedzy na punkcie własnej mądrości, dzielności, piękności, zamożności. Przy czym postać objawiająca tę niemoc umysłową nie może być jakoby groźna, bo wtedy budziłaby nienawiść, pogardę i strach, zamiast śmiechu. Komiczny jest człowiek bliski i słaby, i przez to nieszkodliwy, jeżeli się uważa za mocniejszego, niż jest. Jest to bardzo trafna analiza pewnego typu przeżyć na tle komizmu. Nie jest to wyczerpujące ujęcie komizmu w ogóle. Ale nie o to szło. Szło tylko o wskazanie domieszki cierpienia nawet w przeżyciu śmieszności. Tej domieszki jakoś Sokrates nie pokazał wyraźnie w tym wypadku; powołał się tylko na to, że zawiść jest w ogóle cierpieniem pewnym, a skoro objawia się i w śmiechu z czegoś lub z kogoś, w takim razie także i w tym śmiechu musi być jakiś ślad cierpienia. Niebezpieczna dedukcja. Wystarczyło pokazać kogoś, kto wyśmiewa sam siebie, kto drwi przez łzy, szydzi, zgrzytając zębami, śmieje się z czegoś i płacze nad tym równocześnie. Istnieją niewątpliwie przeżycia komizmu zmieszane z pewnej radości i z pewnego cierpienia. Ale na pewno nie wszystkie są tak zmieszane.
+
+XXX. Rekapitulacja ustępów ostatnich i powrót do zagadnienia głównego. Podane analizy psychologiczne miały służyć do tego, żeby pokazać plamy na słońcu rozkoszy. Pokazać, ile jest fałszu, ile pomyłek różnych w gwałtownych przeżyciach radosnych i jak wielka w nich jest domieszka cierpienia, chociażby jej ktoś nie dostrzegał na pierwszy rzut oka.
+
+XXXI. Są jednak, obok tamtych, rozkosze niezmieszane z cierpieniem, a więc w tym znaczeniu czyste. To są uczucia estetyczne związane z barwami, z kształtami, z dźwiękami i z woniami. Nie posąg Afrodyty Knidyjskiej z jego łudzącym urokiem kobiety i tradycyjnym wyglądem bogini, tylko linie sylwetki tego posągu, tylko jego powierzchnie prawidłowe. Niekoniecznie zabawne sceny, malowane na wazach w czarnym tle, ich kontury i konstrukcje geometryczne, które się zgadzają na włos w sposób przewidziany. Przykładnica, cyrkiel i tokarnia to są narzędzia rozkoszy czystych, wolnych od przymieszki bólu. Błękit nieba nad Akropolem. Dźwięki poszczególnych strun gitary — nie pieśni przy nich śpiewane, bo te budzą tęsknoty daremne i żale za tym, czego się nie straciło, i pożądania nigdy nie nasycone i zawodne, i wzruszenia — skłamane — z jakiejś nieszczęsnej potrzeby wewnętrznej stwarzania fikcji w sobie i poza sobą.
+
+Oto, jak się broni przeciw wzruszeniom serce, które zbyt gwałtownie biło i znalazło wiele męki — nawet w wielkich radościach życia. Oto, jak ucieka przed rozterką wewnętrzną człowiek, który z niepokonanej potrzeby wewnętrznej stwarzał fikcje pełne uroku, a równocześnie prawdę kochał nade wszystko.
+
+Jak bardzo potrzebował prawdy, nie wiedział sam z początku, pokąd się nie zbliżył do Sokratesa. Nie dokuczał mu wtedy głód uczenia się, a przyszły do niego same — niewołane — radości związane z poznawaniem i z nauką. Na starość zapomina się niejedno, ale i to przychodzi bez bólu. „Tylko czasem, jak człowiek myśli o tym swoim stanie, przykro mu, że traci to, czym by się chciał posługiwać”. Te smutne, żywe słowa włożył Platon w usta młodego Protarcha, aby kto nie myślał, że to może Sokrates sam o sobie teraz mówi albo ktoś inny jeszcze z bardzo nielicznych jednostek.
+
+XXXII. Rozkosze wolne od domieszki bólu wydają się Sokratesowi podobne do prawdy, bliskie jej i spokrewnione jakoś z prawdą. Podobnie jak barwy niezmieszane z innymi barwami. Dlatego zapewne, że twierdzenia prawdziwe muszą być wolne od sprzeczności. Ta myśl nie wypada tu dość wyraźnie. Przyjemności niezmieszane, choćby drobne, nazywają się tu nie tylko prawdziwsze, ale i milsze, i piękniejsze od wielkich i częstych, a zmieszanych z bólem. Szło widać o nagromadzenie pochwał.
+
+XXXIII. Jeszcze jeden atak przeciwko rozkoszy. Rozkosz to pewien proces, a więc należy do dziedziny tworzenia się, powstawania, a nie do dziedziny bytu stałego. Każdy proces, każde powstawanie ma jakoby na celu jakieś trwałe istnienie, istotę. Rozkosz także. Ona więc jest czymś, co do pewnych celów zmierza, a sama nie jest celem ostatecznym, czyli dobrem. Jeżeli to jest myśl Platona w tym ustępie, to nie wydaje się mocna. Dlatego, po pierwsze, że o celach można mówić tylko wtedy, gdy mówimy o narzędziach, o środkach, o działaniach jakiejś żywej istoty. Znamy zaś niezmiernie wiele procesów, które nie są działaniami żadnej żywej istoty. Dlatego niepodobna się zgodzić, że każdy proces, każde powstawanie ma jakiś cel. To raz. Następnie: gdyby nawet przyznać, że pewne zjawisko jest czyimś środkiem do pewnego celu — nie wyniknie stąd żadną miarą, żeby to samo zjawisko nie mogło być równocześnie celem jakiejś innej albo i tej samej istoty. Rozumowanie tego rozdziału wygląda na proces myślowy dokonany na wyrazach — bez myśli o faktach, których by te wyrazy dotyczyły. Platon nieraz tak robi.
+
+W końcu parę zdań poświęconych uwadze, że rozkosz nie powinna uchodzić za jedyne dobro.
+
+XXXIV. Teraz bardzo nowoczesne myśli o nauce. Platon stara się pośród nauk rozróżnić również nauki czyste i mniej czyste, podobnie jak to zrobił z rozkoszami. Warunkiem naukowego charakteru jakichkolwiek badań jest naukowe stosowanie liczby, miary i wagi. Co poza tym — to śmiecie. Niestety. Są nauki, w których liczba, miara i waga znikome tylko znajdują zastosowanie. Żeby wymienić tylko psychologię, historię i oparte na nich liczne nauki humanistyczne. W tym rozdziale mówi Platon jak pozytywista. Wyróżnia nauki ścisłe i mniej ścisłe. Coś jak sciences i lettres. I to stanowisko trudno podzielać bez zastrzeżeń. Nie ma nauk nieścisłych. Każde usiłowanie, które ma pretensję do naukowości, musi być ścisłe. Tylko ścisłość w różnych naukach musi być różnego stopnia. Nie można od zoologii wymagać tej ścisłości, której się ma prawo wymagać od nauk matematycznych. Na to zwrócił uwagę już Arystoteles w Etyce nikomachejskiej. Ale od każdej nauki wymagać należy terminów ustalonych, branych w jednym znaczeniu, i rozumowań poprawnych. Rozróżnienie matematyki czystej i stosowanej przetrwało do dziś.
+
+XXXV. Sztuka dyskutowania, o której teraz mowa, to dialektyka. Tak nazywał Platon badanie rzeczywistości z pomocą definicji, opisów, analiz i syntez, przechodzące od ciaśniejszych uogólnień do obszerniejszych, poznawanie tego, co w rzeczach zmieniających się jest stałe, niezmienne, wieczne. Platon robi tu ustępstwo dla Gorgiasza, przyznając, że retoryka, czyli sztuka sugerowania mas przynosić może większy pożytek w praktyce, może dawać większą moc życiową, ale ze względu na ścisłość, jasność, bliskość prawdy stawia najwyżej nauki filozoficzne. Badanie przyrody wydaje mu się w ogóle beznadziejne. Tu go przeczucia omyliły. Blisko żył z matematykami, a na rozkwit nauk przyrodniczych czas był jeszcze nie nadszedł.
+
+XXXVI. Rozum i umysł określa się mniej więcej jako zdolność do nauk filozoficznych. Ale nie tylko w tym jednym znaczeniu występuje ten wyraz w toku rozmowy. Krótkie powtórzenie zagadnienia i głównych kroków dialogu.
+
+XXXVII. Próbują, czy najlepszą postawą życiową nie wydałoby się im, w myśl wywodów poprzedzających, połączenie zainteresowania dla samych tylko nauk ścisłych z samymi tylko rozkoszami czystymi.
+
+XXXVIII. Poprzestać na tym nie chcą, bo to by znaczyło odwrócić się od świata rzeczy konkretnych, który nas otacza. Bez umiejętności, wcale nie ścisłych, ale doniosłych praktycznie i życiowo nie chcą się obchodzić. Do programu życia włączają muzykę, mimo nieścisłości teorii muzycznych.
+
+XXXIX. I na rozkoszach czystych nie poprzestają. Program życiowy nie jest zbyt rygorystyczny w tej części rozmowy. Pełna humoru indagacja rozumu i rozkoszy na temat ich wzajemnego stosunku. W niej powtarza się w krótkiej, obrazowej formie to, co zostało przeprowadzone i podane w toku rozmowy. Wychodzi na to, że w życiu człowieka myślącego nie powinno braknąć i nie ma powodu wykluczać z niego żadnych przyjemności, które nie szkodzą zdrowiu, nie marnują energii człowieka w sposób niemądry. Filozof nie musi umierać dla świata i nie musi udręczać swego ciała. Powinien tylko żyć rozumnie.
+
+XL. Najważniejszą rzeczą w układzie życia jest zachowanie miary i proporcji między jego czynnikami. Unikanie przesady w każdym sposobie. Podobną myśl rozwinie później Arystoteles w Etyce nikomachejskiej i stworzy ideał człowieka w typie, powiedzielibyśmy dziś, zachodnim.
+
+XLI. Na zakończenie rozmawiający rozstrzygają zawody o pierwszeństwo między rozkoszą a rozumem. Rozumowi słusznie przyznają bliższe pokrewieństwa z prawdą. Jeżeli kilkakrotnie w toku rozmowy i teraz też odsądzają rozkosz od prawdy — to niewątpliwie idzie o to, że łatwo przeżywamy złudzenia na tle silnych afektów i gwałtownych dyspozycji uczuciowych; idzie im też o stany uczuciowe nieszczere, które w samym przeżyciu mają fałszywy dźwięk.
+
+Rozumowi przyznają też trzymanie się miary, a odmawiają tego rozkoszy. Tych zdań nie można brać dosłownie, ale niezbyt trudno je przetłumaczyć na zdania zrozumiałe i słuszne.
+
+W końcu przypisują rozumowi piękność, nieodłączną od jego istoty, czego o rozkoszy powiedzieć nie można. Ponieważ zaś dobro określili w tym ustępie jako prawdę, miarę i piękno, więc wynika im z tego, że rozkosz nie jest dobrem najwyższym, ani nawet drugim z rzędu. W hierarchii wartości kładą teraz na pierwszym miejscu umiar, na drugim proporcjonalność i piękność, na trzecim rozum, na czwartym wiedzę, a dopiero na piątym rozkosze wolne od domieszki bólu. Nie mówią, co kładą na szóstym miejscu. Przychodzi kolej na owe rozkosze zmieszane, o których mówili w osłonkach. W ciągu całej rozmowy nie pytali o to, czy rozum i myślenie miałoby jakąkolwiek wartość, gdyby z nich nie wynikały żadne przyjemności i gdyby pod ich wpływem nie ustawały żadne przykrości. Kto się chce rozprawić z hedonizmem, dobrze zrobi, jeżeli się nad tym zastanowi.
+
+XLII. Sokrates mówi, że go drażnił hedonizm Fileba. Willamowitz-Moellendorff mówi, że Platona miał drażnić hedonizm Eudoksosa, który czas jakiś był w Akademii, a później uprawiał astronomię, geografię i etykę, i głosił pogląd, który tutaj reprezentuje Fileb i Protarch, że rozkosz jest dobrem najwyższym. Po jego śmierci miał Platon napisać Fileba, żeby się z tym stanowiskiem rozprawić.
+
+Krótkie streszczenie toku i wyników rozmowy kończy dialog. Rozmowa, mimo licznych miejsc niejasnych, niezbyt kryształowo sformułowanych, godna rozważenia i dziś. Zawiera wiele materiału do charakterystyki autora, zawiera mnóstwo myśli świetnych, trafnych, zdumiewająco wczesnych i zapładniających, i musi pobudzić do myślenia każdego, kogo by interesowały zagadnienia wartości życiowych i programu życiowego. Tylko nie należy jej czytać, jak się czyta gazetę, ale wracać do niej trzeba i wsłuchiwać się w to, co właściwie mówi i jak mówi ten człowiek osobliwy; mówi… jakby nie umarł.

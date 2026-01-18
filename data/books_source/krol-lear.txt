@@ -1,0 +1,8182 @@
+William Shakespeare
+
+Król Lear
+tłum. Leon Ulrich
+
+ISBN 978-83-288-2896-4
+
+
+
+
+Wstęp
+
+Stara to jak świat legenda, jak dzieje pierwszych rodzin… Odnawiająca się do dziś dnia; jeden z tych tematów wiecznie prawdziwych, zużytych, a mimo to świeżych, które poetom najobfitszego dostarczają wątku, bo w świecie objawiają się coraz innymi przystrojone barwami, zawsze tętniące prawdą, płynące krwią naszą — napiętnowane ułomnością człowieka. W baśniach ludowych prastarych, wszystkich niemal narodów, znajdziecie tego króla w postaci żebraka, córki może przekształcone na synów i miłość milczącą, bo prawdziwą, obok chełpliwej, gadatliwej, a zmyślonej.
+
+Król Lear ginie w pomroce podań odwiecznych; ze swoim nazwiskiem zaś i jako postać historyczna ukazuje się w kronice brytańskiej z legend spisanej, którą archidiakon oksfordzki, Walter Mapes przywiózł w początku XII w. do Anglii; a inny archidiakon z Monmouth, Artur Geoffroy, przełożył na język łaciński. Wace, trubadur normandzki, zrobił z niej poemat francuski w r. 1155; w XIII w. Layamon i Robert Gloucester, w XIV Piotr Langtoft i Robert Manning, w XV John Mandeville, w XVI Sackville i Spencer przerabiali to podanie, aż się stało historycznym i tak wrosło w dzieje stare, że Holinshed wpisał je w swoją kronikę, wiedząc już na pewno, że król Lear wstąpił na tron Brytanii w r. 3105, gdy Joas panował w Judei. Z tak popularnej treści w r. 1594 bezimienny autor stworzył dramat, który był w r. 1605 drukowany pod tytułem: Wierna kronika historyczna króla Leara i jego trzech córek.
+
+Autor czerpał niewolniczo z kroniki Holinsheda, sceny u niego następują w tym porządku, co w legendzie i zachowują charakter swój, który i Szekspir poszanował, uwydatniając go tylko.
+
+W sztuce tej pierwotnej król Lear rozpoczyna od badania córek, dzieli swe królestwo między dwie z nich, wydziedziczając najmłodszą — Kordelia wychodzi za króla Gallów; Goneril i Ragana niewdzięcznością się ojcu wypłacają, Lear ucieka do Francji, godzi się z Kordelią i — koniec następuje szczęśliwy, gdyż pobiwszy swych zięciów, królów Kornwalii i Kambrii, starzec tron odzyskuje.
+
+Wedle obyczaju ówczesnego teatru angielskiego, który wymagał, aby nawet w tragedii coś słuchaczów rozweselało, wstawiano trzy mało znaczące figury komiczne, przy królu Galii niejakiego Montforta, przy Learze powiernika Perillusa (z którego Szekspir stworzył Kenta) i jeszcze jednego bezimiennego błazna zastępującego niedołężnie genialnie u Szekspira wprowadzonego Oswalda, marszałka dworu Gonerili. Z własnego wymysłu bezimienny robotnik do materiału Holinsheda dołożył niewiele. Sztukę tę historyczno-legendową, przyobleczoną w szaty nowe Szekspir przedstawił w r. 1606 26 grudnia przed Jakubem I, w pałacu White Hall.
+
+W owych czasach Lear mógł się uważać za równie historyczny obraz jak inne wzięte z dziejów Anglii; wiele w nim oprócz tego okolicznościowych było napomknień, wiele ustępów niemal proroczych… Tryb tworzenia ten sam tu, co zawsze u naszego poety, twórczość jego objawia się nie w surowym materiale, ale w ukształtowaniu go i obrobieniu, w natchnieniu życia… w odgadnięciu prawdy ludzkiej… Bierze on imiona i przedmioty znane i ulubione, a z nich lepi świat żywy…
+
+Co było lalką sztywną, pod jego ręką staje się człowiekiem. Legenda ma swą logikę, której poeta nie zmienia, dopełnia ją tylko i tłumaczy charakterami. Nie potrzebuje wiele do odgadnięcia ich, znajduje jakiś odłamek przedpotopowy, jakąś cząstkę niedogniłą i z niej wskrzesza żywą postać.
+
+Nie będziemy powtarzali treści znanej dramatu. Szekspir legendę wypełnił, wplatając w nią drugą, pokrewną jej naturą swą, a tej pomysł wziął z Arkadii Sidneya, czyniąc hrabiego Gloucester pokrewnym Learowi. Zakończenie zmienił poeta na korzyść tragedii; artystycznie jest ono u niego piękniejsze, a razem moralnie prawdziwsze. Sprawiedliwość nie przychodzi na tym świecie, nie domierza się widomie — rzadko cnota dostępuje tryumfu i dlatego właśnie jest cnotą, że się go nie spodziewa, że nań nie rachuje. U Szekspira też umiera Kordelia i ojciec kończy życie przy jej zwłokach.
+
+To zakończenie ludziom rutyny i nawyknienia wydało się niesprawiedliwe i okrutne. Johnson wyrzuca Szekspirowi, iż cnocie natychmiast nie dał zapłaty należnej; Garrick, jak w Romeo i Julii, dorobił tu zakończenie inne dla przypodobania się tłumowi i rozwiązania trywialnego, wedle ogólnej reguły.
+
+Rozpatrzywszy źródła, z których poeta czerpał do Leara wszystko, co mógł zapożyczyć z powieści i legendy, na ostatek ze starej sztuki tego samego nazwiska i treści — możemy ocenić cały kunszt i siłę jego twórczą. Związanie umiejętne dwóch historii Leara i Gloucestera, układ, budowa są samodzielne i dramat podnoszą ponad wiek, w którym się ukazał na scenie.
+
+Charakterem tragicznym, rozmiarem tych dzikich obrazów rozkiełznanych namiętności poeta bez wątpienia chciał i z wiedzą a umyślnie malował tymi barwami wieki odległe, pogańskie czasy, pierwotne dzieje zamierzchłej epoki.
+
+Guizot dostrzega ślady tej intencji w samym nawet języku, który niekiedy przybiera pewne formy archaiczne, dla nas to wyraźniejsze jest jeszcze w kroju i budowie dramatu. Jest to świat przedchrześcijański, nieznający światła objawionego i na naturalnych popędach budujący wątły porządek społeczny, który lada podmuch namiętności obala i kruszy. Wszystko tu wije się posłuszne chwilowym porywom, bez stałej zasady moralnej, bez wiedzy zła i dobra. Nic nie hamuje tych prądów burzliwych… Sam Lear występuje od razu, nawet względem córek własnych, jako wszechwładny pan, nakazujący nawet miłość i sposób, w jaki się ona ma objawiać. Gwałtowny, niepohamowany, dziki od pierwszej sceny, przechodzi w szał, gdy go dotknęło nieszczęście. Rezygnacja, przebaczenie są nieznane temu światu dzikiemu. Dziwnie fantastyczne otaczają go postacie, nadające sztuce bardziej jeszcze przejmującą tragiczność; błazen królewski urąga się boleści pana, Edgara szaleństwo odbija dziwacznie przy rozpaczy jego… wycie nieszczęśliwego, któremu przygrywa ta świstałka klauna, barwą dziką piętnują dramat.
+
+Boleść najstraszliwsza miesza się z ironicznym śmiechem, wtórując mu rozpaczliwie…
+
+Rodzina pogańska w istocie zda się do barbarzyńskich należeć wieków — ojciec, dzieci, bracia, żony i mężowie — wszystko to zwierzęco walczy z sobą, pożera się, krwawi, zdradza. Węzły łączące ją pękają; czuć, że tego hamulca, który przyniosło chrześcijaństwo, nie znają ci ludzie, tak jak nie znają sromoty, nie czują zgryzot i nie mają litości. Miłość sama rodzi tu nawet zepsucie — najczulej ukochani są najbardziej rozpasani — namiętności rozlewają się bezbrzeżnie, popędy unoszą bez sternika na skały, żądze są nienasycone. Poeta widocznie chciał i szukał tego wrażenia — nadał ten koloryt historyczny tragedii z wiedzą i myślą. Jest to świat przed narodzeniem sumienia, rządzony instynktami tylko, które dla niego są bodźcem i siłą, która stanowi prawo.
+
+Lear tą barwą swą i potęgą poezji, która całą gamę swych tonów rozwija w nim, należy do najgenialniejszych kreacji Szekspira. W teatrze musiał on straszliwe czynić wrażenie jakby widok jakiegoś przedpotopowego świata… dobytego z fal przeszłości.
+
+Angielscy krytycy epokę, w której Lear powstał, odnoszą do lat między 1603 a 1606. Nie mógł być napisany przed 1603 r., gdyż w tym roku ukazało się dzieło Dra Harsneta (Discovery of Popish Impostors), z którego wiele szczegółów zapożyczył poeta.
+
+W r. 1607 dnia 26 listopada w rejestrach księgarzy londyńskich pierwsi wydawcy Butler and Jo-Busby wpisali Historię „of Kinge Lear”, którą wydali w ciągu roku 1608 trzy razy. Od tego roku do 1623, to jest do wydania zbiorowego, nie był król Lear drukowany. Pierwsze trzy druki prawie się nie różnią między sobą, następne jest widocznie poobcinane i wymagało dopełnienia z poprzednich. Dziwnym sposobem dramat tak popularny wkrótce potem tak popadł w zapomnienie, że niejaki Nohum Tate przerobił go i przywłaszczył sobie, zowiąc Szekspira tragedię: an obscure performance commended to his notice by a friend.
+
+
+
+Król Lear
+
+
+OSOBY:
+ * Król Lear, król Brytanii
+ * Król Francji
+ * Książę Burgundii
+ * Książę Cornwall
+ * Książę Albany
+ * Hrabia Kent
+ * Hrabia Gloucester
+ * Edgar, syn Gloucestera
+ * Edmund, syn naturalny Gloucestera
+ * Curan, dworzanin
+ * Stary Wasal Gloucestera
+ * Doktor
+ * Błazen
+ * Oswald, marszałek Gonerili
+ * Oficer w służbie Edmunda
+ * Dworzanin Kordelii
+ * Herold
+ * Orszak księcia Cornwall
+ * Goneril, córka króla Leara
+ * Regan, córka króla Leara
+ * Kordelia, córka króla Leara
+ * Orszak króla, Oficerowie, Posłańcy, Żołnierze i Służba
+
+
+
+
+Scena w Brytanii.
+
+
+
+
+AKT PIERWSZY
+
+
+
+SCENA I
+
+/ Pałac króla Leara. /
+
+/ Wchodzą: Kent, Gloucester i Edmund. /
+
+
+KENT
+
+Myślałem, że król więcej sprzyjał księciu Albany niż Cornwall.
+
+
+GLOUCESTER
+
+Tak się nam zawsze zdawało; ale teraz przy rozdziale królestwa nie pokazał, którego z książąt ceni wyżej, bo części tak są odmierzone, że najskrupulatniejsze porównanie nie znajdzie różnicy.
+
+
+KENT
+
+Czy to nie syn twój, milordzie?
+
+
+GLOUCESTER
+
+Urósł moim kosztem. Tak często rumieniłem się, uznając go za syna, że teraz jestem już na to jak ze spiżu.
+
+
+KENT
+
+Jeszcze rozumieć nie poczynam.
+
+
+GLOUCESTER
+
+Ale matka jego poczęła; toteż i łono się jej zaokrągliło, i miała wprzód syna do kolebki niż męża do łożnicy. Czy czujesz teraz zapach grzechu?
+
+
+KENT
+
+Nie mogę pragnąć, żeby go nie było, skoro owoc tak jest piękny.
+
+
+GLOUCESTER
+
+Ale mam także syna według prawa, który jest o kilka lat od tego starszy, mimo tego jednak nie droższy mojemu sercu. Chociaż ten hultaj przyszedł na świat trochę bez pytania i nim po niego posłano, matka jego była piękna, a przy jego robocie było niemało radości; trzeba będzie uznać bękarta. — Edmundzie, czy znasz tego szlachetnego pana?
+
+
+EDMUND
+
+Nie, milordzie.
+
+
+GLOUCESTER
+
+To milord Kent; zapisz go sobie na przyszłość w pamięci jako mojego dostojnego przyjaciela.
+
+
+EDMUND
+
+Jestem na twoje usługi, milordzie.
+
+
+KENT
+
+Trudno cię nie kochać; pragnę też twojej bliższej znajomości.
+
+
+EDMUND
+
+Dołożę starania, aby stać się godnym tej łaski.
+
+
+GLOUCESTER
+
+Przepędził za granicą lat dziewięć i jeszcze tam wróci. — Ale król się zbliża.
+
+/ Odgłos trąb za sceną. Wchodzą: Król Lear, Cornwall, Albany, Goneril, Regan, Kordelia i Orszak. /
+
+
+KRÓL LEAR
+
+Monarchę Francji i księcia Burgundii
+Wprowadź, Gloucesterze.
+
+
+GLOUCESTER
+
+                        Śpieszę spełnić rozkaz.
+
+/ Wychodzi z Edmundem. /
+
+
+KRÓL LEAR
+
+My zaś otworzym myśli naszych tajnie.
+Podajcie mapę. Wiedzcie, żem podzielił
+Królestwo moje całe na trzy części.
+Postanowieniem moim jest niezmiennym
+Od trosk zarządów starość mą wyzwolić,
+A zostawiając młodszym siłom ciężar,
+Do wrót się śmierci lżejszą czołgać nogą.
+Synu mój Cornwall i ty, sercu memu
+Zarówno drogi, synu mój Albany,
+Za krótką chwilę córek mych posagi
+Ogłoszę światu, aby raz na zawsze
+Zamknąć drzwi wszelkim sporom i niezgodzie.
+Zarazem Francji i Burgundii panom,
+Których na dworze moim od tak dawna
+Trzyma dla córki mej najmłodszej miłość,
+Dzisiaj stanowczą dam także odpowiedź.
+Powiedzcie córki, skoro mym zamiarem
+Jest zrzec się rządów i kłopotów władzy,
+Powiedzcie, która kocha mnie najwięcej,
+By szczodrobliwość tam moją przechylić,
+Gdzie ją pociągnie miłość i zasługa.
+Pierwsza, Goneril, mów jako najstarsza.
+
+
+GONERIL
+
+Więcej cię kocham niż język wypowie,
+Więcej niż światło, niż powietrze, wolność,
+Więcej niż wszystkie świata tego skarby;
+Kocham jak życie, zdrowie, piękność, honor,
+Jak nigdy ojca nie kochało dziecię.
+Zbyt jest ubogi język, by wyrazić
+Miłość mą całą — kocham cię nad miarę.
+
+
+KORDELIA
+
+/ na stronie: /
+
+Co będzie mogła Kordelia powiedzieć?
+Kochać i milczeć.
+
+
+KRÓL LEAR
+
+                        Od tych do tych kresów
+Cieniste gaje i bogate łany,
+Rozległe smugi, rzeki rybołowne
+Twą są własnością i będą na zawsze
+Twego i księcia Albany potomstwa.
+A cóż mi teraz odpowie z kolei
+Żona Cornwalla, Regan, druga córka?
+
+
+REGAN
+
+Z tej samej jestem gliny, co ma siostra,
+Jestem jej równą i każde jej słowo
+Zda się wyjęte z głębin mego serca.
+Ja tylko dodam, co jej słowom braknie:
+Nie ma uciechy na szerokiej ziemi,
+Która by dla mnie urok jaki miała,
+Całe albowiem szczęście moje leży
+W twojej miłości, panie mój i ojcze!
+
+
+KORDELIA
+
+
+/ na stronie: /
+
+Biedna Kordelio! Ale nie, bo czuję,
+Że miłość moja od mych słów bogatsza.
+
+
+KRÓL LEAR
+
+Tobie i twemu zostawiam potomstwu
+Tę część bogatą mojego królestwa
+Równą przestrzenią, dochodem, pięknością
+Dzielnicom twojej siostrze przekazanym.
+Teraz z kolei ty, moja pociecho,
+Chociaż ostatnia, nie mniej przecie droga,
+O której młodą ubiega się miłość
+Wino francuskie i burgundzkie mleko,
+Co powiesz ojcu, by sobie zapewnić
+Trzecią, bogatszą niż sióstr twych dzielnicę?
+
+
+KORDELIA
+
+Nic.
+
+
+KRÓL LEAR
+
+Nic?
+
+
+KORDELIA
+
+                        Nic, ojcze.
+
+
+KRÓL LEAR
+
+                        Z niczego nic rośnie.
+Przemów raz jeszcze.
+
+
+KORDELIA
+
+                        Ach, ja nieszczęśliwa,
+Nie mogę serca mego do ust podnieść!
+Kocham cię, panie, jak powinność każe,
+Ni mniej, ni więcej.
+
+
+KRÓL LEAR
+
+                        Popraw twoje słowa,
+Jeżeli nie chcesz twej popsuć fortuny!
+
+
+KORDELIA
+
+Dałeś mi życie, ojcze, wychowałeś,
+Kochałeś, za te wszystkie dobrodziejstwa
+Czczę cię i kocham, jestem ci posłuszną.
+Czemuż pojęły siostry moje mężów,
+Jeżeli ciebie jedynie kochają?
+Być może, jeśli oddam komu rękę,
+Że z moją ręką mąż uniesie razem
+Mych powinności i względów połowę,
+Bo nigdy męża jak siostry nie wezmę,
+Ażeby tylko mego ojca kochać.
+
+
+KRÓL LEAR
+
+Z serca to mówisz?
+
+
+KORDELIA
+
+                        Tak jest, dobry panie.
+
+
+KRÓL LEAR
+
+Tak młoda, a tak zimna i nieczuła!
+
+
+KORDELIA
+
+Tak młoda, królu, a szczera.
+
+
+KRÓL LEAR
+
+                        Więc dobrze,
+Niech twoja szczerość twym będzie posagiem,
+Bo na to jasne przysięgam ci słońce,
+Na tajemnice Hekaty i nocy,
+Na gwiazd potęgę, których bieg po niebie
+Żywotem naszym i śmiercią rozrządza,
+Mojej ojcowskiej wyrzekam się pieczy,
+Krwi obowiązków; i odtąd na zawsze
+Obcą mojemu pozostaniesz sercu.
+Surowy Scyta, ojciec, co pożera
+Własne swe dzieci, by swój głód nasycić,
+Równą przychylność w moich znajdą piersiach
+Co ty, przed chwilą jeszcze moja córka!
+
+
+KENT
+
+Królu —
+
+
+KRÓL LEAR
+
+                        Milcz, Kencie! Nie stawaj zuchwale
+Pomiędzy smokiem a jego wściekłością!
+Jam ją nad inne kochał, ja myślałem
+Dni moje skończyć pod czułą jej strażą.
+Do Kordelii:
+Precz z moich oczu! Niech w grobie spoczynku
+Moim nie znajdę, jeśli nie odwracam
+Na zawsze od niej ojcowskiego serca!
+Przywołać króla Francji. Czy słyszycie?
+Księcia Burgundii. Cornwall i Albany,
+Część trzecią z córek dwóch weźcie posagiem.
+Niech duma, którą ona zwie szczerością,
+Znajdzie jej męża. Wam łącznie zostawiam
+Władzę mą, zwierzchność, wszystkie przywileje
+Towarzyszące królewskiej godności.
+Sobie jedynie to zastrzegam prawo,
+Że w towarzystwie stu wiernych rycerzy
+W każdego domu kolejno przez miesiąc
+Na waszym koszcie będę miał schronienie.
+Królewski przy tym tytuł zatrzymuję
+I blask zewnętrzny; władzę i dochody,
+Drodzy synowie, w wasze składam ręce;
+Na zakład tą się podzielcie koroną.
+
+
+/ Daje koronę. /
+
+
+KENT
+
+Learze, któregom czcił jak mego króla,
+Kochał jak ojca, a jak panu służył,
+Nie zapominał nigdy w swych modlitwach
+Jak opiekuna —
+
+
+KRÓL LEAR
+
+                        Łuk mój natężony,
+Lękaj się strzały!
+
+
+KENT
+
+                        Niech raczej wyleci
+I w piersiach moich serce mi rozedrze!
+Gdy Lear szaleje, Kent nie będzie baczył
+Na dworskie słowa. Co zrobić chcesz, starcze?
+Nie myśl, że mówić zlęknie się powinność,
+Gdy się potęga chyli przed pochlebstwem,
+Boć jest honoru powinnością szczerość,
+Gdy obłąkanie uwodzi majestat.
+Odwołaj sąd twój, niech chwila rozwagi
+Popędliwości zmieni hydny wyrok!
+Głową za moje odpowiadam zdanie:
+Najmłodsza córka nie najmniej cię kocha;
+Nie jest tych serce puste, których słowa
+Czczym nie brzmią dźwiękiem.
+
+
+KRÓL LEAR
+
+                        Jeśli kochasz życie,
+Ni słowa więcej!
+
+
+KENT
+
+                        Przeciw twoim wrogom
+Życie me zawsze na rozkaz twój było
+I bez wahania zawsze je poświęcę,
+Gdzie idzie, panie, o twe bezpieczeństwo.
+
+
+KRÓL LEAR
+
+Precz z moich oczu!
+
+
+KENT
+
+                        Przejrzyj, królu, jaśniej,
+Przy twej, jak dotąd, zostaw mnie osobie,
+A nie odwracaj twych ode mnie źrenic!
+
+
+KRÓL LEAR
+
+Na Apollina —
+
+
+KENT
+
+                        Tak, na Apollina!
+Na twoich bogów daremnie przysięgasz.
+
+
+KRÓL LEAR
+
+Wasalu! Zdrajco!
+
+/ Kładzie rękę na mieczu. /
+
+
+ALBANY I CORNWALL
+
+                        O wstrzymaj się, królu!
+
+
+KENT
+
+Zabij doktora, należną mu płacę
+Na twoją szpetną sam obróć chorobę!
+Odwołaj wyrok lub póki me usta
+Przemówić zdolne, nie przestanę wołać:
+Źle robisz, królu!
+
+
+KRÓL LEAR
+
+                        Słuchaj mnie, nędzniku,
+Słuchaj na twoje należne mi maństwo!
+Gdyś mnie chciał skłonić do złamania słowa,
+(Czegom się jeszcze nigdy nie dopuścił)
+Gdy się zuchwale poważyłeś stawić,
+(Czego znieść broni honoru uczucie)
+Oto zapłata twojej jest śmiałości:
+Pięć dni ci daję, byś się zaopatrzył
+W potrzebne środki przeciw nędzy życia,
+Szóstego plecy odwróć nienawistne
+Moim dzielnicom; jeśli dziesiątego
+Wygnany kadłub twój jeszcze się znajdzie
+Na mojej ziemi, śmierć czeka cię straszna.
+Precz! Na Jowisza, nigdy tu nie wrócisz.
+
+
+KENT
+
+Gdy taka wola twoja, żegnaj, panie!
+Tam wolność znajdę, bo tu jest wygnanie.
+Do Kordelii:
+Niech Bóg, dziewico, w swej cię pieczy chowa
+Za myśl uczciwą i uczciwe słowa!
+Do Regany i Goneril:
+Bodaj dźwięk głośny wasz uczynkiem został!
+Słowom miłości miłości czyn sprostał!
+Tymi na zawsze Kent żegna was słowy,
+Gdy starą nogą w świat puszcza się nowy.
+
+/ Wchodzi: Gloucester z Królem Francji, Księciem Burgundii i Orszakiem. /
+
+
+GLOUCESTER
+
+Oto król Francji i książę Burgundii.
+
+
+KRÓL LEAR
+
+Książę Burgundii, który z królem Francji
+O mej się córki ubiegałeś rękę,
+Do ciebie naprzód moje słowa zwracam.
+Jakiego żądasz z córką mą posagu
+Lub się usuwasz?
+
+
+KSIĄŻĘ BURGUNDII
+
+                        Dostojny monarcho,
+Nie żądam więcej jak ofiarowałeś,
+A sam mniej nie dasz.
+
+
+KRÓL LEAR
+
+                        Szlachetny mój książę,
+Tak ją ceniłem, gdy mi była drogą,
+Dziś spadła w cenie. Spojrzyj na nią, książę,
+Jeśli w tej małej, nadobnej postaci
+Coś albo wszystko z mą razem niełaską,
+Ale nic więcej, jeszcze ci po myśli,
+Weź ją, jest twoją!
+
+
+KSIĄŻĘ BURGUNDII
+
+                        Nie wiem, co powiedzieć.
+
+
+KRÓL LEAR
+
+Czy chcesz z wszystkimi, jakie ma, wadami
+Przysposobioną gniewu mego córkę
+Za posag w moje bogatą przekleństwo,
+Której z przysięgą wyrzekłem się dzisiaj,
+Czy chcesz za żonę pojąć lub odrzucić?
+
+
+KSIĄŻĘ BURGUNDII
+
+Na tych warunkach trudny wybór, królu.
+
+
+KRÓL LEAR
+
+Więc się jej wyrzecz, bo ci wyliczyłem
+Wszystkie jej skarby.
+Do króla Francji:
+                        Nie mam chęci, królu,
+Tej krzywdy naszej wyrządzać przyjaźni,
+Bym cię z tą łączył, której nienawidzę.
+Racz więc twe myśli ku godniejszej zwrócić
+Niż ku nędznicy, której za swe dzieło
+Sama natura dziś uznać się wzdryga.
+
+
+KRÓL FRANCJI
+
+O dziwy, żeby ta, która przed chwilą
+Nad wszystko twemu sercu była drogą,
+Pochwał twych celem, starości balsamem
+Najkosztowniejszym, w jednym oka mgnieniu
+Tak się potwornych dopuściła czynów,
+Że tyle węzłów miłości stargała!
+Lub czyn jej straszny jest i niesłychany,
+Lub dawna ku niej miłość twoja grzeszna;
+Lecz, by uwierzyć temu, trzeba wiary,
+Której bez cudu mój rozum mi nie da.
+
+
+KORDELIA
+
+Królu, o jedną jeszcze błagam łaskę:
+Skoro mi obcą ta śliska jest sztuka,
+Co mówi, czego dotrzymać nie myśli,
+Gdy mogę tylko, nim z ust wyjdzie słowo,
+Spełnić uczciwe me postanowienie,
+Racz sam powiedzieć, że żaden występek,
+Żadne morderstwo, żaden czyn hańbiący
+I żadna plama na moim honorze
+Twej mi królewskiej łaski nie wydarła,
+Ale brak tylko, co mym jest bogactwem,
+Spojrzeń żebrzących wiecznie, brak języka,
+Brak, który serca mego jest pociechą,
+Chociaż miłości twojej mnie pozbawia.
+
+
+KRÓL LEAR
+
+Stokroć ci lepiej było się nie rodzić,
+Niż mnie obrazić!
+
+
+KRÓL FRANCJI
+
+                        Jak to? I nic więcej?
+Powolność ducha często niezdolnego
+Wyrazić słowem, co zamierza spełnić?
+Książę Burgundii, co powiesz dziewicy?
+Miłość miłością nie jest, jeśli miesza
+Zewnętrzne względy z głębokością uczuć,
+Czy chcesz ją pojąć? Sama jest posagiem.
+
+
+KSIĄŻĘ BURGUNDII
+
+Daj tylko królu, co dać jej przyrzekłeś,
+A twa Kordelia księżną jest Burgundii.
+
+
+KRÓL LEAR
+
+Nie, nie, przysiągłem i słowa nie zmienię!
+
+
+KSIĄŻĘ BURGUNDII
+
+Żal mi, lecz skoro tak straciłaś ojca,
+I męża tracisz.
+
+
+KORDELIA
+
+                        Pokój z tobą, panie!
+Mężem ten moim nie będzie, co mierzy
+Miłość fortuną.
+
+
+KRÓL FRANCJI
+
+                        O piękna,
+Ubóstwo skarb ci daje, opuszczenie
+Urok nieznany, a wzgarda powaby.
+Ciebie i cnoty twe łakomo chwytam,
+Chętnie, co inni odrzucili, biorę.
+Jaki cud, Boże! To, co innych studzi,
+Silniejszy ogień w moim sercu budzi.
+Twa córka, królu, wzgardzona, bez wiana,
+Dziś będzie panią pięknej Francji pana.
+Książę, wodniste twoje księstwo całe,
+By skarb tak drogi kupić, jest za małe.
+Kordelio, żegnaj wszystkich; pokrzywdzona,
+Co traci córka tu, znajdzie tam żona.
+
+
+KRÓL LEAR
+
+Jest twoją, weź ją; ja sobie nie życzę
+Na córki takiej poglądać oblicze,
+Idź, lecz miłości mojej ci na drogę
+Ni błogosławieństw moich dać nie mogę!
+Książę Burgundii, racz mi towarzyszyć.
+
+/ Przy odgłosie trąb wychodzą: Król Lear, Książę Burgundii, Cornwall, Albany i orszak. /
+
+
+KRÓL FRANCJI
+
+Pożegnaj teraz siostry twe, Kordelio.
+
+
+KORDELIA
+
+Klejnoty ojca, Kordelia was żegna
+Łzawą źrenicą; wiem ja, czym jesteście,
+Lecz mam jak siostra wstręt niezwyciężony
+Po ich nazwisku wady nazwać wasze.
+Kochajcie ojca, ja sercom go waszym
+Wedle świadectwa waszych słów powierzam.
+Lecz gdybym jeszcze w łasce jego żyła,
+Na lepszym tronie bym go osadziła.
+Bądźcie mi zdrowe!
+
+
+REGAN
+
+                        Naszych powinności
+Nie ucz nas tylko!
+
+
+GONERIL
+
+                        A dołóż starania,
+Aby twojego męża nie obrazić,
+Który żebraczkę wziął przez miłosierdzie,
+Przeciw ojcowskiej zbuntowaną woli
+Cios sprawiedliwy dotknął cię niedoli.
+
+
+KORDELIA
+
+Gdy czas chytrości kryjówki odsłoni,
+Hańba dziś tajne kryjówki dogoni.
+Bóg daj wam szczęście!
+
+
+KRÓL FRANCJI
+
+                        Czas nam iść, Kordelio.
+
+/ Wychodzi Król Francji i Kordelia. /
+
+
+GONERIL
+
+Siostro, niemało mam ci rzeczy do powiedzenia, które dla nas obu są bardzo wielkiej wagi. Zdaje mi się, że ojciec nasz chce się tej nocy stąd oddalić.
+
+
+REGAN
+
+Niewątpliwie. Udaje się do was; na przyszły miesiąc nasza będzie kolej.
+
+
+GONERIL
+
+Widzisz, jak zmienna jego starość; a czego byłyśmy teraz świadkami, nowym jest tego dowodem. Zawsze kochał siostrę naszą najwięcej, a sposób, w jaki ją wydziedziczył, jest wyraźnym znakiem obłąkania.
+
+
+REGAN
+
+Jest to wieku ułomność, choć nigdy nie umiał on być panem siebie.
+
+
+GONERIL
+
+W najlepszych latach siły i zdrowia zwyczajne mu były te uniesienia. Należy się więc nam przygotować w jego starości nie tylko na wkorzenione wady charakteru, ale zarazem na gwałtowne wybuchy niecierpliwości, które zwykle prowadzi z sobą gniewliwa i niedołężna starość.
+
+
+REGAN
+
+Czekają nas z jego strony kaprysy podobne do dzisiejszego wygnania Kenta.
+
+
+GONERIL
+
+Ceremonie pożegnania z królem Francji zabiorą mu jeszcze niemało czasu, naradźmy się więc spólnie. Jeśli nasz ojciec, przy swoim charakterze, zatrzyma jaką władzę, ostatnie jego rozporządzenia obrócą się na naszą tylko krzywdę.
+
+
+REGAN
+
+Naradzimy się o tym później.
+
+
+GONERIL
+
+Musimy coś postanowić, póki pora.
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Przysionek w zamku hrabiego Gloucestera. /
+
+/ Wchodzi Edmund z listem. /
+
+
+EDMUND
+
+Ty jesteś moją boginią, naturo,
+I tylko twoim prawem chcę się rządzić.
+Dlaczegóż mam być ofiarą zwyczajów,
+Dać się narodów dziwactwom obedrzeć?
+Dlatego, żem się o kilka miesięcy
+Za bratem spóźnił? Bękart! Upodlony!
+Czemu? Gdy kształty moje równie piękne,
+Myśl równie wzniosła, rysy regularne,
+Jak u potomka uczciwej matrony?
+Bo i dlaczegóż świat nas ma piętnować
+Plamą bękarta, upodleniem rodu,
+Nas, co w gorącej kradzieży natury
+Czerpiemy więcej ognia i dzielności,
+Niźli potrzeba w zimnym, nudnym łożu
+Na pokolenia całe wiercipiętów,
+Poczętych między snem a przebudzeniem?
+Prawy Edgarze, muszę mieć twe ziemie!
+Ojciec nasz równie bękarta Edmunda,
+Jak i prawego swego syna kocha.
+Prawego syna, co za piękne słowo!
+Dobrze, mój prawy! Jeśli plan się uda,
+A pożądany skutek list osiągnie,
+Spodlony Edmund prawego przeskoczy,
+Urośnie w szczęście. Więc błagam was teraz,
+Stańcie, o bogi, po stronie bękartów!
+
+/ Wchodzi Gloucester. /
+
+
+GLOUCESTER
+
+Kent tak wygnany! Francuz rozgniewany!
+Król zrzekł się władzy i w nocy odjechał,
+U swoich dzieci na rocznym jurgielcie!
+Wszystko tak nagle! Edmund! Co nowego?
+
+
+EDMUND
+
+/ chowając list: /
+
+Nic nowego, milordzie.
+
+
+GLOUCESTER
+
+Czemu ten list chowasz tak skwapliwie?
+
+
+EDMUND
+
+Nie wiem nic nowego, milordzie.
+
+
+GLOUCESTER
+
+Co za pismo czytałeś?
+
+
+EDMUND
+
+Nic, milordzie.
+
+
+GLOUCESTER
+
+Nic? Dlaczego więc z tak strasznym pośpiechem chowałeś list do kieszeni? Nic nie potrzebuje tak się chować. Zobaczmy; pokaż! Jeśli to nic jest, obejdę się bez okularów.
+
+
+EDMUND
+
+Błagam cię, panie, daruj! To list od mojego brata, którego jeszcze nie przeczytałem w całości, a o ile go przebiegłem, nie zdaje mi się odpowiedni twoim oczom.
+
+
+GLOUCESTER
+
+Daj mi ten list, mopanku!
+
+
+EDMUND
+
+Równie cię obrażę, czy go dam, czy zatrzymam. Treść, o ile mogłem zrozumieć, jest naganna.
+
+
+GLOUCESTER
+
+Zobaczmy, zobaczmy!
+
+
+EDMUND
+
+Spodziewam się, na usprawiedliwienie mojego brata, że list ten pisał jedynie, żeby wziąć na próbę moją cnotę.
+
+
+GLOUCESTER
+
+/ czyta: /
+
+„To poszanowanie, ta cześć oddawana starości, zaprawia nam życie goryczą w najlepszych latach naszej młodości, pozbawia nas dostatków aż do czasu, w którym starość nie pozwoli nam ich używać! Zaczyna mi się to wydawać głupią i nieznośną niewolą pod jarzmem zgrzybiałej tyranii, która nami rządzi nie dlatego, że ma siłę, ale dlatego, że ją cierpliwie znosimy. Przyjdź do mnie, żebyśmy się w tym przedmiocie porozumieli. Gdyby nasz ojciec chciał spać, póki go nie obudzę, używałbyś połowy jego dochodów na zawsze, a żył kochany przez twojego brata Edgara”. Hm, spisek! „Chciał spać póki go nie obudzę, używałbyś połowy jego dochodów”. Syn mój, Edgar! Miałże on rękę, aby coś podobnego napisać? Serce i mózg coś podobnego pomyśleć? Jak dawno list ten odebrałeś? Kto ci go przyniósł?
+
+
+EDMUND
+
+Nikt mi go nie przyniósł, milordzie, w tym właśnie sztuka; list ten znalazłem na oknie mojego mieszkania.
+
+
+GLOUCESTER
+
+Czy poznajesz w tym piśmie rękę twojego brata?
+
+
+EDMUND
+
+Gdyby treść była uczciwa, przysiągłbym, milordzie, że to jego ręka, ale zważając na to, co list zawiera, pragnąłbym wierzyć, że nie on to pisał.
+
+
+GLOUCESTER
+
+To jego ręka!
+
+
+EDMUND
+
+To jego ręka, milordzie, ale spodziewam się, że jego serce nie ma udziału w tym, co list zawiera.
+
+
+GLOUCESTER
+
+Czy nigdy poprzednio nie badał cię w tym przedmiocie?
+
+
+EDMUND
+
+Nigdy, milordzie. Ale słyszałem często, jak utrzymywał, że stosowną byłoby rzeczą, gdy synowie są w sile wieku a ojcowie na schyłku, żeby ojciec żył pod opieką syna, a syn zarządzał dochodami.
+
+
+GLOUCESTER
+
+O nikczemnik! Nikczemnik! To właśnie jego zdanie w tym liście! Obrzydły nikczemnik! Wyrodny, przeklęty, bestialny, gorszy od bestii nikczemnik! Idź, mopanku, wyszukaj go! W więzieniu go zamknę. Obrzydły nikczemnik! Gdzie on teraz?
+
+
+EDMUND
+
+Nie wiem z pewnością, milordzie. Gdybyś raczył powstrzymać twoje oburzenie przeciw mojemu bratu, póki nie znajdziesz jaśniejszego dowodu jego zamiarów, pewniejsza byłaby twoja droga; gdy przeciwnie, uciekając się do gwałtownych przeciw niemu kroków, w mylnym może sądzie o jego zamiarach, niemałą wyrządzisz krzywdę własnemu honorowi, a w jego sercu zabijesz wszelkie posłuszeństwo. Nie waham się ręczyć własnym życiem za niego. List ten pisał jedynie na wypróbowanie moich ku tobie uczuć, dostojny lordzie, a nie w żadnej niebezpiecznej myśli.
+
+
+GLOUCESTER
+
+Czy tak sądzisz?
+
+
+EDMUND
+
+Jeśli to uznasz za stosowne, milordzie, poprowadzę cię na miejsce, gdzie usłyszysz nasze w sprawie tej narady. Własnymi uszyma położysz koniec twojej niepewności, a to bez żadnej prawie zwłoki, bo jeszcze dziś wieczór.
+
+
+GLOUCESTER
+
+Niepodobna, aby taką był potworą!
+
+
+EDMUND
+
+I nie jest nią, jestem pewny.
+
+
+GLOUCESTER
+
+Względem własnego ojca, który go kocha tak czule, tak serdecznie! O niebo i ziemio! Edmundzie, wyszukaj go, odsłoń mi jego tajniki, błagam cię! Kieruj tą sprawą wedle twojej własnej mądrości, bo nie byłbym ojcem, gdybym był panem siebie w takim położeniu.
+
+
+EDMUND
+
+Wyszukam go natychmiast, milordzie. Pokieruję sprawą, jak będę mógł najlepiej i uwiadomię cię o wszystkim.
+
+
+GLOUCESTER
+
+Te ostatnie zaćmienia słońca i księżyca nie rokują nam nic dobrego. Choć świadomi rzeczy przyrodzonych mogą je tak lub owak tłumaczyć, to przecie ich następstwa mącą przyrodzony porządek. Miłość stygnie, przyjaźń się zrywa, rozłączają się bracia; po miastach bunty, między narodami niezgoda, w pałacach zdrada; węzły między synem a ojcem rozcięte. Ten nikczemnik przeze mnie spłodzony sprawdza przepowiednie: to syn przeciw ojcu; król nie słucha głosu natury: to ojciec przeciw własnemu dziecku. Ubiegły już najlepsze nasze lata; spiski, obłuda, zdrada i nieład burzący wszystko będą nam towarzyszyć aż do grobu! Wyszukaj tego łotra, Edmundzie! Nic na tym nie stracisz. Bądź tylko ostrożny! — Szlachetny, wierny Kent wygnany, a jego występkiem uczciwość! O dziwy!
+
+/ Wychodzi. /
+
+
+EDMUND
+
+Zabawne ludzkie szaleństwo! Gdy nasza fortuna omdlewa, najczęściej przez własne nasze błędy, składamy winę naszej niedoli na słońce, księżyc i gwiazdy, niby że zostaliśmy łotrami z konieczności, głupcami przez niebieskie zrządzenie, hultajami, złodziejami i oszustami przez sfer przewagę, pijakami, kłamcami i cudzołożnikami przez wymuszone posłuszeństwo wpływom planetarnym; słowem, że wszystkie nasze występki są tylko bożym zrządzeniem. Doskonały wykręt wszetecznika zwalić swoje koźle pociągi na gwiazdy! Ojciec mój poznał moją matkę pod ogonem Smoka, moje urodziny przypadły pod Ursa Major, stąd idzie, że jestem surowy i lubieżny; ale byłbym ja, czym jestem, gdyby i najdziewiczejsza gwiazda firmamentu błyszczała nad moim bękarctwem. Edgar! Wchodzi Edgar. Przychodzi właśnie w porę jak katastrofa w starej komedii. Moją rolą jest obłudna melancholia z towarzyszeniem westchnień pensjonariusza bonifratrów. O, te zaćmienia przepowiadają nam te niezgody; fa, sol, la, mi.
+
+
+EDGAR
+
+Co się to znaczy, bracie Edmundzie, w jakichże to poważnych rozmyślaniach się zatopiłeś?
+
+
+EDMUND
+
+Rozmyślam, bracie, o przepowiedniach, które tymi dniami czytałem, o następstwach tych zaćmień.
+
+
+EDGAR
+
+Czy się takiego rodzaju rzeczami zajmujesz?
+
+
+EDMUND
+
+Możesz mi wierzyć, że wypadki przepowiedziane sprawdziły się na nieszczęście: niezgoda przeciw naturze między dzieckiem a rodzicami; śmierć, głód, zerwanie starych przyjaźni, niesnaski w narodzie, przekleństwa i groźby królom i szlachcie; nieufność bez powodu, wygnanie przyjaciół, rozpędzenie wojsk, małżeńska niewierność i nie wiem, co tam jeszcze.
+
+
+EDGAR
+
+Od jakże to dawna zostałeś adeptem astronomii?
+
+
+EDMUND
+
+Dajmy temu pokój. Kiedy widziałeś mojego ojca po raz ostatni?
+
+
+EDGAR
+
+Przeszłej nocy.
+
+
+EDMUND
+
+Czy z nim rozmawiałeś?
+
+
+EDGAR
+
+Przez dwie godziny.
+
+
+EDMUND
+
+I rozstaliście się w dobrej komitywie? Czy nie dostrzegłeś żadnego znaku niechęci w jego słowach lub twarzy?
+
+
+EDGAR
+
+Najmniejszego.
+
+
+EDMUND
+
+Rozważ, czym mogłeś go obrazić. Radzę ci, unikaj jego obecności, póki czas nie ostudzi gniewu, który obecnie płonie w nim tak gwałtownie, żeby go ledwo śmierć twoja ugasiła.
+
+
+EDGAR
+
+Pewno mnie jaki łotr oszkalował.
+
+
+EDMUND
+
+Lękam się tego. Błagam cię, bądź cierpliwy i wyrozumiały, póki jego wściekłość nie zwolnieje. Słuchaj mojej rady; schroń się ze mną do mojego mieszkania, gdzie rzeczy tak urządzę, że sam usłyszysz moją rozmowę z milordem. Proszę cię, idź tam; oto mój klucz, a wychodząc na ulicę, wychodź zbrojno.
+
+
+EDGAR
+
+Zbrojno, bracie?
+
+
+EDMUND
+
+Bracie, daję ci najlepszą radę. Jestem łotr, jeżeli się tam warzy co dobrego dla ciebie. Powiedziałem ci, com widział i co słyszałem, łagodząc tylko rzeczy, o ile można, bo nic ci dać nie potrafi dokładnego obrazu groźnej rzeczywistości. Proszę cię, oddal się.
+
+
+EDGAR
+
+Czy zobaczę cię wkrótce?
+
+
+EDMUND
+
+Licz na moje usługi w tej sprawie.
+Wychodzi Edgar.
+Zbyt łatwowierny ojciec, brat szlachetny,
+Którego serce podstępom tak obce,
+Że nie jest zdolny innych podejrzewać.
+Jak łatwo głupią osiodłać uczciwość!
+Widzę dokładnie cały bieg tej sprawy.
+Których ród nie dał, dowcip da mi niwy:
+Do moich celów nie ma drogi krzywej.
+
+/ Wychodzi. /
+
+
+
+SCENA III
+
+/ Sala w pałacu księcia Albany. /
+
+/ Wchodzą: Goneril i Oswald. /
+
+
+GONERIL
+
+Czy prawda, że mój ojciec uderzył mojego dworzanina za to,
+że łajał jego błazna?
+
+
+OSWALD
+
+Prawda, pani.
+
+
+GONERIL
+
+We dnie i w nocy krzywdzi mnie, co chwila
+Jakichś się nowych dopuszcza wybryków,
+Które porządek domu wywracają.
+Ale nie myślę dłużej tego znosić.
+Jego rycerze co dzień niesforniejsi,
+On sam o lada fraszkę nas strofuje.
+Nie chcę go widzieć, gdy z łowów powróci,
+A zapytany, powiedz, żem jest chora.
+Gdybyś się trochę w twej służbie zaniedbał,
+Dobrze byś zrobił: za wszystko odpowiem.
+
+/ Słychać rogi za sceną. /
+
+
+OSWALD
+
+Już wraca, pani, słyszę odgłos rogów.
+
+
+GONERIL
+
+Ty i dworzanie byle zbyć mu służcie,
+Bo pragnę, żeby skargę na was zaniósł.
+Jeśli mu pobyt u nas nie po myśli,
+Niech jedzie do mej siostry; wiem ja dobrze,
+Że tam, jak tutaj, równy znajdzie opór.
+Zabawny starzec, który chce używać
+Tej władzy, której zrzekł się dobrowolnie.
+Na honor, stare głupcy dziecinnieją,
+Trzeba też z nimi surowo postąpić,
+Gdy zaczynają pieszczot nadużywać.
+Pamiętaj o tym, co mówię.
+
+
+OSWALD
+
+                        Pamiętam.
+
+
+GONERIL
+
+Traktujcie jego rycerzy z większą oziębłością, mniejsza, co z tego wypadnie. Uprzedź o tym twoich towarzyszy. Chciałabym na tej drodze znaleźć sposobność wytłumaczenia się i znajdę ją. Napiszę bez zwłoki do mojej siostry, aby poszła za moim przykładem. Przygotujcie wszystko do obiadu.
+
+/ Wychodzą. /
+
+
+
+SCENA IV
+
+/ Sala w pałacu księcia Albany. /
+
+/ Wchodzi: Kent przebrany. /
+
+
+KENT
+
+Jeśli potrafię równie dobrze nadać
+Moim wyrazom obcy im wprzód akcent,
+Dobiegną celu moje dobre chęci,
+W których zmieniłem moją postać całą.
+Wygnany Kencie, jeśli ci się uda
+Usłużyć panu, który cię potępił,
+Na jaw wystąpi wierna twa gorliwość.
+
+/ Odgłos rogów za sceną. Wchodzą: Król Lear, Rycerze i Orszak. /
+
+
+KRÓL LEAR
+
+Bylem nie czekał jednej chwili na obiad! Idź, każ go zastawić. Wychodzi Sługa. A to co się znaczy? Co ty za jeden?
+
+
+KENT
+
+Człowiek, panie.
+
+
+KRÓL LEAR
+
+Jakie twoje rzemiosło? Czego od nas żądasz?
+
+
+KENT
+
+Moim rzemiosłem jest nie być gorszym od tego, czym się być zdaję; służyć wiernie temu, który mi zaufa; kochać uczciwego; przestawać z mądrym a małomównym; lękać się sądu; bić się, gdy nie ma wyboru, a ryb nie jadać.
+
+
+KRÓL LEAR
+
+Co ty za jeden?
+
+
+KENT
+
+Uczciwe człeczysko, a ubogie jak król.
+
+
+KRÓL LEAR
+
+Jeśli jesteś tak ubogi na poddanego, jak on na króla, to niewątpliwie dość jesteś ubogi. Czego żądasz?
+
+
+KENT
+
+Służby.
+
+
+KRÓL LEAR
+
+U kogo?
+
+
+KENT
+
+U ciebie, panie.
+
+
+KRÓL LEAR
+
+Czy znasz mnie, człowieku?
+
+
+KENT
+
+Nie, panie, ale widzę coś w twojej twarzy, co mi daje chęć nazywać cię panem.
+
+
+KRÓL LEAR
+
+Co takiego?
+
+
+KENT
+
+Władzę.
+
+
+KRÓL LEAR
+
+Jaką możesz oddać mi usługę?
+
+
+KENT
+
+Mogę uczciwie zachować tajemnicę, cwałować na koniu, biegać, popsuć zabawną historię w opowiadaniu, a proste zlecenie po prostu wypowiedzieć. Wszystko, do czego są zdolni zwyczajni ludzie i ja potrafię wykonać, ale głównym moim przymiotem jest gorliwość.
+
+
+KRÓL LEAR
+
+Jaki twój wiek?
+
+
+KENT
+
+Nie jestem ani tak młody, żebym się zakochał w kobiecie dla jej głosu, ani tak stary, żebym za nią szalał dla jakiej bądź przyczyny. Na moich barkach czterdzieści i osiem lat niosę.
+
+
+KRÓL LEAR
+
+Chodź ze mną, będziesz moim sługą. Jeśli nie będziesz mi po obiedzie wstrętniejszy, nie tak prędko się rozstaniemy. Obiad! Hej tam, obiad! — Gdzie jest ten hultaj, mój błazen? Idź i przywołaj tu mojego błazna. Wchodzi Oswald. A, to ty, mopanku? Gdzie moja córka?
+
+
+OSWALD
+
+Z przeproszeniem —
+
+/ Wychodzi. /
+
+
+KRÓL LEAR
+
+Co ten pachołek tam mruczy? Przywołaj mi tego ciurę! — Gdzie błazen mój? Hola! Zdaje mi się, że śpi świat cały. No, gdzie ten kundel?
+
+
+RYCERZ
+
+Powiada, panie, że córka twoja chora.
+
+
+KRÓL LEAR
+
+Dlaczego niewolnik ten nie wrócił na moje zawołanie?
+
+
+RYCERZ
+
+Wręcz mi odpowiedział, panie, że nie chce.
+
+
+KRÓL LEAR
+
+Że nie chce!
+
+
+RYCERZ
+
+Nie wiem, milordzie, co się tu święci, ale moim zdaniem wasza wysokość nie znajduje przyjęcia z tą samą uroczystą życzliwością, do której nawykła. Widoczny jest ubytek życzliwości tak we wszystkich sługach, jak w samym księciu i twojej córce.
+
+
+KRÓL LEAR
+
+Ha, czy tak mówisz?
+
+
+RYCERZ
+
+Przebacz mi, proszę, milordzie, jeśli się mylę, ale moja powinność milczeć mi zabrania, gdzie widzę krzywdę waszej wysokości.
+
+
+KRÓL LEAR
+
+Przywodzisz mi na myśl moje własne spostrzeżenie; uderzyło mnie w ostatnich czasach pewne niedbalstwo; ale wolałem oskarżać moją własną, zbyt drażliwą niecierpliwość, niż widzieć w tym wyrachowaną i rozmyślną obrazę. Wglądnę ja w to bliżej. — Ale gdzie mój błazen? Od dwóch dni go już nie widziałem.
+
+
+RYCERZ
+
+Od czasu oddalenia się naszej młodej pani do Francji, błazen niemało podupadł na siłach.
+
+
+KRÓL LEAR
+
+Nie mówmy o tym więcej; nie uszło to mojej baczności. Idź i powiedz mojej córce, że chciałbym z nią mówić. A ty przywołaj tu mojego błazna. Wraca Oswald. A, ty mopanku, przybliż się, mopanku! Czy wiesz ty, kto ja jestem, mopanku?
+
+
+OSWALD
+
+Pani mojej ojcem.
+
+
+KRÓL LEAR
+
+„Pani mojej ojcem”! Pana twojego ciuro! ty psie sk…synie, ty niewolniku, ty kundlu!
+
+
+OSWALD
+
+Nie jestem ani tym, ani owym, milordzie, z przeproszeniem.
+
+
+KRÓL LEAR
+
+I ty śmiesz się ze mną mierzyć oczyma, ty hultaju?
+
+/ Uderza go. /
+
+
+OSWALD
+
+Nie chcę, aby mnie tak traktowano, milordzie.
+
+
+KENT
+
+I nie chcesz usiąść na podstawionym ci stołku, nikczemny piłkarzu?
+
+/ Obala go uderzeniem w nogę. /
+
+
+KRÓL LEAR
+
+Oddałeś mi usługę; zasłużyłeś na moją miłość.
+
+
+KENT
+
+Wstań, mospanie i zmiataj! Nauczę cię lepiej znać różnicę między ludźmi. Zmiataj, zmiataj! Jeśli chcesz zmierzyć powtórnie długość twojego głupiego kadłuba, zostań; ale radziłbym ci zmiatać. Czy masz choć trochę rozumu? Żwawo!
+
+/ Wypycha Oswalda. /
+
+
+KRÓL LEAR
+
+Raz ci jeszcze dziękuję, dobry mój przyjacielu. Weź ten zadatek twojej płacy.
+
+/ Daje pieniądze Kentowi. Wchodzi: Błazen. /
+
+
+BŁAZEN
+
+Toć i ja go wezmę na służbę. Oto mój kapturek.
+
+/ Daje swój kaptur Kentowi. /
+
+
+KRÓL LEAR
+
+Piękny mój błazenku, jak się masz?
+
+
+BŁAZEN
+
+Najlepiejbyś zrobił, paniczu, gdybyś wdział mój kapturek.
+
+
+KENT
+
+Dlaczego, błazenku?
+
+
+BŁAZEN
+
+Dlaczego? Dlatego, że stajesz po stronie, która wpadła w niełaskę. Wierzaj mi, jeśli nie możesz uśmiechać się, jak wiatr zawieje, zakatarzysz się niedługo. Weź przeto mój kaptur. Patrz, ten jegomość wygnał dwie ze swoich córek, a trzeciej dał błogosławieństwo mimo woli. Jeśli pójdziesz za jego przykładem, chcąc nie chcąc, musisz nosić mój kapturek. — Co tam nowego, wujaszku? Ale ja bym pragnął mieć dwa kaptury i dwie córki.
+
+
+KRÓL LEAR
+
+Dlaczego, błazenku?
+
+
+BŁAZEN
+
+Gdybym im dał całe moje mienie, zatrzymałbym przynajmniej moje kapturki dla siebie. Odstępuję ci mojego, a idź żebrać o drugi u twoich córek.
+
+
+KRÓL LEAR
+
+Miej się na baczności, mopanku, bo baty!
+
+
+BŁAZEN
+
+Prawda jest psem, który musi chować się w psiarni; wypędzają go batogiem; ale bonońskiej suczce wolno siedzieć przy ogniu i smrodzić.
+
+
+KRÓL LEAR
+
+Gorzki to dla mnie kąsek!
+
+
+BŁAZEN
+
+Nauczę cię, mopanku, pięknej gadki.
+
+
+KRÓL LEAR
+
+Słucham.
+
+
+BŁAZEN
+
+Słuchaj, wujaszku.
+Niż pokazujesz, więcej posiadaj,
+Ale mniej za to, niźli wiesz, gadaj;
+Mniej wypożyczaj, niźli masz grosza;
+Częściej używaj niż nóg gniadosza;
+Szczodry w słuchaniu, bądź skąpy w wierze;
+Wydatki trzymaj z dochodem w mierze;
+Nie goń za dziewką, wyrzecz się szklanki,
+Przenoś nad wszystko własne zaścianki,
+A wróżę, że ci każdy dziesiątek
+Przyniesie więcej niźli dwie piątek.
+
+
+KENT
+
+To nie ma sensu, błazenku.
+
+
+BŁAZEN
+
+Więc to podobne do obrony niezapłaconego adwokata; za to nic, nic mi dałeś. Czy nie mógłbyś, wujaszku, wyciągnąć jakiej korzyści z niczego?
+
+
+KRÓL LEAR
+
+Żadnej, moje dziecko; trudno co zrobić z niczego.
+
+
+BŁAZEN
+
+/ do Kenta: /
+
+Powiedz mu, że tyle właśnie wynosi intrata jego ziemi, bo nie uwierzy błaznowi.
+
+
+KRÓL LEAR
+
+Gorzki to błazen!
+
+
+BŁAZEN
+
+Znasz ty różnicę, moje dziecko, między gorzkim, a słodkim błaznem?
+
+
+KRÓL LEAR
+
+Nie, mój chłopcze, naucz mnie jej.
+
+
+BŁAZEN
+
+Pana, co ci doradził, byś twe oddał ziemie,
+Staw przy mnie lub sam przyjmij roli jego brzemię,
+A słodki z gorzkim błaznem będą na usługi,
+Jeden tu, w pstrej katance, a tam będzie drugi.
+
+
+KRÓL LEAR
+
+Więc mnie nazywasz błaznem, moje dziecko?
+
+
+BŁAZEN
+
+Wyrzekłeś się wszystkich innych twoich tytułów, ten jeden posiadasz od urodzenia.
+
+
+KENT
+
+Nie taki on to błazen jak się zdaje, milordzie.
+
+
+BŁAZEN
+
+Nie, na uczciwość! Panowie i wielcy ludzie nie chcą mi zostawić wszystkiego. Gdybym nawet miał i monopol błazeństwa, to i tak chcieliby mieć z niego swoją cząstkę. Panie także nie chcą mi zostawić całego błazeństwa, i one też skubią z niego, co mogą. Wujaszku, daj mi jaje, a ja ci dam dwie korony.
+
+
+KRÓL LEAR
+
+Co to za dwie korony?
+
+
+BŁAZEN
+
+Przetnę jaje na dwie połowy, zjem środek, zostaną mi z jaja dwie korony. Gdy twoją koronę na dwie części rozciąłeś, a obie oddałeś, poniosłeś swojego osła na grzbiecie przez błoto. Niewiele miałeś rozumu w twojej łysej koronie, gdy się swojej złotej wyrzekłeś. Jeśli to mówię jak błazen, którym jestem, wart chłosty pierwszy, który się na tym spostrzeże.
+
+/ Śpiewa: /
+
+
+Dla błaznów rok to ciężki jest dosyć,
+Mądrzy ich rolę grać raczą;
+Nie wiedząc, jakby swój rozum nosić,
+Lepiej od błaznów dziwaczą.
+
+
+KRÓL LEAR
+
+Odkądże to, mopanku, zostałeś gędźbiarzem?
+
+
+BŁAZEN
+
+Od dnia, wujaszku, w którym swoje córki przemieniłeś na swoje matki. Bo gdy dałeś im rózgę, a spuściłeś szarawary,
+
+
+Z nagłej radości płakały córki,
+Mnie śpiewać kazały bole,
+Że król tak wielki poszedł grać w żmurki
+I w błaznów stanął sam kole.
+
+Proszę cię, wujaszku, przyjmij bakałarza, który by nauczył twojego błazna kłamać. Chciałbym gwałtem nauczyć się kłamać.
+
+
+KRÓL LEAR
+
+Jeśli będziesz kłamał, mopanku, dostaniesz ćwiczenie.
+
+
+BŁAZEN
+
+Nie wiem, jakie może być twoje pokrewieństwo z twoimi córkami: one chcą mnie ćwiczyć za to, że mówię prawdę; ty chcesz mnie ćwiczyć za to, że kłamię, a czasem dostaję ćwiczenie za to, że trzymam język za zębami. Wolałbym być czymkolwiek raczej niż twoim błaznem; nie chciałbym jednak być tobą, wujaszku, oberznąłeś twój rozum po obu stronach. Właśnie zbliża się jeden z twoich obrzynków.
+
+/ Wchodzi Goneril. /
+
+
+KRÓL LEAR
+
+Cóż to jest, córko? Co znaczy ta chmura na czole? Zdaje mi się, że od pewnego czasu zbyt często marszczysz czoło.
+
+
+BŁAZEN
+
+Byłeś paniczem, gdy nie potrzebowałeś troszczyć się o jej marszczenie; teraz jesteś zero bez liczby na początku, jam dziś od ciebie lepszy, bo jestem błaznem, a ty jesteś niczym. Do Gonerili: Tak jest, zaprawdę, będę trzymał język za zębami, bo to mi twoja twarz nakazuje, choć nic nie mówisz. Cyt, cyt!
+
+
+Gdyś oddał skórkę, oddał ośrodek,
+Nie dziw się, gdy cię nawiedzi głodek.
+
+/ Pokazując króla Leara: /
+
+Oto wyłuskany strączek.
+
+
+GONERIL
+
+Nie tylko, panie, ten zuchwały błazen,
+Ale i reszta twej hardej drużyny
+Co chwila nowe wywołuje swary,
+Których mi dłużej znosić niepodobna.
+Myślałam długo, że raz uprzedzony
+Sam nadużyciom tym położysz tamę,
+Lecz z żalem widzę, że słowem i czynem
+Sług twoich gwałty zdajesz się pochwalać,
+A pobłażaniem we złem ich utwierdzać.
+Gdyby tak było, ten błąd byłby godny
+Słusznej nagany, naprawy niezwłocznej;
+Co nam ogólne dobro nakazuje,
+W twych może oczach obrazą się zdaje,
+Lecz, co by dawniej mogło być obrazą,
+Konieczność nazwie dzisiaj roztropnością.
+
+
+BŁAZEN
+
+Bo, jak wiesz, wujaszku,
+Tak długo kukułkę karmiła wróblica,
+Aż mamkę zjadła wychowanica.
+
+A wtem zgasła świeca i zostaliśmy w ciemności.
+
+
+KRÓL LEAR
+
+Jestżeś ty moją córką?
+
+
+GONERIL
+
+Pragnę, byś użył swojego rozsądku,
+A masz go dosyć, pragnę, byś się wyrzekł
+Wybryków, które od pewnego czasu
+Twój dawny dobry zmieniły charakter.
+
+
+BŁAZEN
+
+Czy nie pozna osieł, kiedy wóz ciągnie konia? Nuże, osiełku! Kocham cię.
+
+
+KRÓL LEAR
+
+Zna tu kto Leara? Ja Learem nie jestem;
+Czy Lear tak chodzi lub czy Lear tak mówi?
+Gdzie oczy jego? Lub stępiały zmysły,
+Lub rozum jego zasnął letargicznie.
+Śpię ja, czy czuwam? Nie, to być nie może!
+Powiedz mi, kim ja jestem?
+
+
+BŁAZEN
+
+                        Leara cieniem.
+
+
+KRÓL LEAR
+
+Chciałbym się o tym z pewnością dowiedzieć, bo wedle świadectwa zmysłów i rozumu mógłbym mylnie przypuścić, że miałem córki —
+
+
+BŁAZEN
+
+Które chcą zrobić z ciebie posłusznego ojca.
+
+
+KRÓL LEAR
+
+Jak się nazywasz, piękna pani?
+
+
+GONERIL
+
+To zapytanie godne, żeby w parze
+Iść z wybrykami zwykłymi ci teraz,
+Lecz, proszę, zechciej myśl moją zrozumieć;
+Twój wiek poważny wymaga rozsądku.
+Trzymasz tu z sobą orszak stu rycerzy
+Tak rozpasanych, nierządnych, zuchwałych,
+Że obyczajem ich dwór nasz skażony
+Zda się szynkownią; rozwiązłość i zbytek
+Zrobiły karczmę z królewskiego zamku.
+Sam wstyd lekarstwa bezzwłocznego żąda.
+Do życzeń przeto racz się tej przychylić,
+Co by rozkazać mogła, o co prosi;
+Bacz zwinąć trochę orszak twój zbyt liczny,
+A przy osobie swej zatrzymaj tylko
+Ludzi wiekowi twemu odpowiednich,
+Świadomych tego, czym są, czym ty jesteś.
+
+
+KRÓL LEAR
+
+Na piekła ciemność! Siodłajcie mi konia!
+Zwołajcie orszak! Wyrodny bękarcie!
+Nie myślę chwili dłużej cię kłopotać;
+Jeszcze mi jedna córka pozostała.
+
+
+GONERIL
+
+Bijesz mych ludzi, a twoja hałastra
+W swe sługi zmienić chce lepszych od siebie.
+
+/ Wchodzi: Albany. /
+
+
+KRÓL LEAR
+
+O biada, biada późno żałującym!
+Do Albany: Przychodzisz, panie? Czy twoja to wola?
+Odpowiedz! Konie gotujcie do drogi!
+Z sercem kamiennym diable! Niewdzięczności,
+Kiedy się w dziecka objawiasz postaci,
+Hydniejszą jesteś od morskiej potwory!
+
+
+ALBANY
+
+Miarkuj się, panie!
+
+
+KRÓL LEAR
+
+/ do Goneril: /
+
+                        Szpetna kanio, kłamiesz!
+Orszak mój rzadkim ludzi jest wyborem,
+Znających wszystkie swoje powinności,
+A każdy ścisłym prawa dopełnieniem
+Swego imienia utrzymuje honor.
+O drobny błędzie, jak mi się potwornym
+W Kordelii zdałeś! Jak potężny taran
+Natury mojej strzaskałeś podstawy,
+Wyrwałeś miłość z serca, na jej miejsce
+Żółć wlałeś gorzką. Learze! Learze! Learze!
+Uderzając się w głowę.
+Bij drzwi, którymi szaleństwo się wkradło,
+A rozum uciekł! Jedźmy!
+
+
+ALBANY
+
+                        Wierzaj, panie,
+Jestem niewinny, ani mogę pojąć,
+Co mogło takie oburzenie zbudzić.
+
+
+KRÓL LEAR
+
+Być może, panie.
+Słuchaj mnie, droga bogini, naturo!
+Zmień myśl, jeżeli twym było zamiarem
+Stworzeniu temu dać płodność w udziale,
+A do jej łona ponieś jałowiznę!
+Wszystkie płodzenia wysusz w niej organa!
+Z jej niegodnego niechaj nigdy ciała
+Syn nie wyrośnie, co by ją uzacnił!
+Lub, jeśli z twojej począć musi woli,
+Stwórz dziecię z żółci, aby dla niej było
+Przez ciąg żywota wyrodną męczarnią,
+Okryło młode jej czoło marszczkami,
+Lica jej gorzkich łez orało strugą,
+Płaciło miłość, troski macierzyńskie
+Śmiechem i wzgardą, by i ona czuła,
+Że głębiej dziecka przenika niewdzięczność
+Niż żmii zęby! Precz stąd, precz, co prędzej!
+
+/ Wychodzi. /
+
+
+ALBANY
+
+Przez Boga! Powiedz, jaki tego powód?
+
+
+GONERIL
+
+Nie troszcz się o to; zostaw wolną drogę
+Zdziecinniałego starca przywidzeniom!
+
+/ Wraca król Lear. /
+
+
+KRÓL LEAR
+
+Co? Pięćdziesięciu na raz mych rycerzy?
+Po dwóch tygodniach?
+
+
+ALBANY
+
+                        Co się stało panie?
+
+
+KRÓL LEAR
+
+Powiem ci. Do Goneril:
+Na śmierć i życie! Wstyd mi, że w twej mocy
+Do tego stopnia męskość moją wstrząsnąć,
+Że łzy gorące, które z moich oczu
+Gwałtem tryskają, robią cię ich godną.
+Niech mgły i burze zwalą się na ciebie!
+Ojcowskich przekleństw niezgłębione rany
+Niechaj roztoczą istność twoją całą!
+Stare me oczy, jeśli jeszcze dłużej
+Łzy chcecie sączyć dla takiej przyczyny,
+To sam was wydrę, rzucę was o ziemię
+Wilżyć tam glinę! Ha! Niech i tak będzie!
+Mam jeszcze córkę, która, jestem pewny,
+Dziecinną miłość w sercu zachowała,
+A gdy usłyszy o twej wyrodności,
+Twarz twoją wilczą ręką swą podrapie.
+Jeszcze mnie ujrzysz w dawnej mej postaci,
+Którą, jak myślisz, na zawsze straciłem!
+
+/ Wychodzą: król Lear, Kent i Orszak. /
+
+
+GONERIL
+
+Czy uważałeś?
+
+
+ALBANY
+
+                        Nie mogę, Goneril,
+Mimo miłości, którą mam dla ciebie,
+Tyle być stronnym —
+
+
+GONERIL
+
+                        Dajmy temu pokój.
+Hola! Oswaldzie! Do Błazna:
+A ty, mości panku,
+Podobno więcej hultaju niż błaźnie,
+Idź za twym panem!
+
+
+BŁAZEN
+
+Wujaszku Learze, wujaszku Learze, poczekaj! zabierz z sobą błazna!
+
+Schwytana liszka w żelaznej więzi,
+Razem z wzorem dobrych córek,
+Dyndać na jednej będzie gałęzi,
+Gdybym mógł kupić stryczek za kapturek.
+Trudno popasać tu dłużej,
+Bierz się, błaźnie, do podróży!
+
+/ Wychodzi. /
+
+
+GONERIL
+
+Mądry to pomysł, stu zbrojnych rycerzy!
+Prawdziwie, krok to bardzo polityczny
+Dać mu na rozkaz stu zbrojnych rycerzy,
+Aby na lada sen lub przywidzenie,
+Na lada skargę, na lada obrazę
+Mógł siłą poprzeć swoją zdziecinniałość,
+Życia naszego być panem! — Oswaldzie!
+
+
+ALBANY
+
+Może obawa twoja jest zbyteczna.
+
+
+GONERIL
+
+Lepszy obawy zbytek niż ufności.
+Wolę uprzedzić złe, które mi grozi,
+Niźli drżeć, by mnie złe nie uprzedziło.
+Znam jego serce. Każde jego słowo
+Przesyłam siostrze. Jeżeli go przecie
+Chce podejmować ze stu rycerzami,
+Mimo wskazanych jej niedogodności —
+Oswaldzie!
+Wchodzi Oswald.
+                        Listy do siostry gotowe?
+
+
+OSWALD
+
+Gotowe, pani.
+
+
+GONERIL
+
+                        Dobierz kilku ludzi
+I dalej na koń! Wyłóż jej szeroko
+Wszystkie powody mej niespokojności,
+A jeśli możesz, dodaj argumenty
+Jeszcze dokładniej myśl mą stwierdzające.
+Idź, nie trać czasu i wracaj co prędzej!
+Wychodzi Oswald.
+Nie, nie, milordzie, tę mleczną łagodność,
+Choć jej nie ganię — przebacz mi otwartość! —
+Świat więcej gani jako brak mądrości,
+Niźli pochwala miękkie pobłażanie.
+
+
+ALBANY
+
+Nie wiem, jak wzrok twój daleko przenika:
+Za lepszym goniąc często psujem dobre.
+
+
+GONERIL
+
+Więc —
+
+
+ALBANY
+
+Dobrze, dobrze; czekajmy na skutki.
+
+/ Wychodzą. /
+
+
+
+SCENA V
+
+/ Dziedziniec przed zamkiem księcia Albany. /
+
+/ Wchodzą: król Lear, Kent i Błazen. /
+
+
+KRÓL LEAR
+
+Idź naprzód do Gloucestera z tymi listami. Nie mów mojej córce o tym, co wiesz, więcej niż potrzeba, żeby odpowiedzieć na pytania, które ci zada po odczytaniu listu. Jeśli się nie pospieszysz, stanę tam przed tobą.
+
+
+KENT
+
+Nie zmrużę oka, póki nie wręczę twojego listu.
+
+/ Wychodzi. /
+
+
+BŁAZEN
+
+Gdyby człowiek mózg nosił w piętach, czy by nie groziło mu odmrożenie?
+
+
+KRÓL LEAR
+
+Bez wątpienia.
+
+
+BŁAZEN
+
+Więc bądź dobrej myśli; nigdy twój dowcip nie będzie chodził w łapciach.
+
+
+KRÓL LEAR
+
+Ha, ha, ha!
+
+
+BŁAZEN
+
+Zobaczysz, że druga córka przyjmie cię uprzejmie, bo choć podobna do tej jak leśne jabłko do ogrodowego, mogę jednak powiedzieć, co mogę.
+
+
+KRÓL LEAR
+
+A co możesz powiedzieć, chłopcze?
+
+
+BŁAZEN
+
+Że smak tamtej będzie tak różny od tej smaku, jak smak leśnego jabłka od leśnego jabłka. Czy nie mógłbyś mi powiedzieć, dlaczego nos ludzki stoi w pośrodku ludzkiej twarzy?
+
+
+KRÓL LEAR
+
+Nie.
+
+
+BŁAZEN
+
+No to ja ci powiem: dlatego, żeby trzymać oczy po obu stronach nosa, aby mógł człowiek dojrzeć, czego nie może zwąchać.
+
+
+KRÓL LEAR
+
+Pokrzywdziłem ją.
+
+
+BŁAZEN
+
+Czy nie mógłbyś mi powiedzieć, jak ostryga lepi swoją skorupę?
+
+
+KRÓL LEAR
+
+Nie.
+
+
+BŁAZEN
+
+Ani ja też; ale ci powiem, dlaczego ślimak ma domek.
+
+
+KRÓL LEAR
+
+Dlaczego?
+
+
+BŁAZEN
+
+Aby w nim chować głowę, a nie dawać go córkom, zostawiając własne rogi bez futerału.
+
+
+KRÓL LEAR
+
+Zapomnę własnej natury. Tak dobry ojciec! Czy konie moje gotowe?
+
+
+BŁAZEN
+
+Twoje osły poszły się tym zająć. Przyczyna, dla której siedem gwiazd nie jest więcej niż siedem, jest śliczną przyczyną.
+
+
+KRÓL LEAR
+
+Dlatego, że nie jest osiem?
+
+
+BŁAZEN
+
+Zgadłeś. Byłby dobry z ciebie błazen.
+
+
+KRÓL LEAR
+
+Odebrać wszystko gwałtem! Potworna niewdzięczność!
+
+
+BŁAZEN
+
+Gdybyś był moim błaznem, wujaszku, kazałbym cię oćwiczyć za to, że się postarzałeś przed czasem.
+
+
+KRÓL LEAR
+
+Dlaczego?
+
+
+BŁAZEN
+
+Nie należało ci się starzeć, póki nie przyszedłeś do rozumu.
+
+
+KRÓL LEAR
+
+Strzeż mnie, o Boże, strzeż mnie od szaleństwa!
+Ocal mój rozum! Nie chcę być szalonym.
+
+/ Wchodzi: Rycerz. /
+
+
+KRÓL LEAR
+
+Co tam nowego? Czy konie gotowe?
+
+
+RYCERZ
+
+Gotowe, milordzie.
+
+
+KRÓL LEAR
+
+Więc idźmy, chłopcze!
+
+
+BŁAZEN
+
+Dziewica, co z mojego odjazdu się śmieje,
+Żałobę po dziewictwie swym niedługo wdzieje.
+
+/ Wychodzą. /
+
+
+
+
+AKT DRUGI
+
+
+
+SCENA I
+
+/ Dziedziniec w zamku hrabiego Gloucester. /
+
+/ Edmund i Curan wchodząc, spotykają się. /
+
+
+EDMUND
+
+Szczęść Boże, Curanie!
+
+
+CURAN
+
+I tobie, panie! Właśnie co opuściłem twojego ojca; przyniosłem mu wiadomość, że książę Cornwall i księżna jego Regan przybędą tu do niego tej nocy.
+
+
+EDMUND
+
+Co ich do tego spowodowało?
+
+
+CURAN
+
+Nie wiem. Czy słyszałeś, jakie krążą wiadomości? Chcę mówić o nowinach, które ludzie szepcą sobie do ucha; bo dotąd są to sprawy tylko w poufałych rozmowach dotykane.
+
+
+EDMUND
+
+Nie słyszałem nic wcale. Powiedz mi, proszę, co to za nowiny?
+
+
+CURAN
+
+Czy nie słyszałeś, że jak się zdaje, przyjdzie do wojny między książętami Cornwall a Albany?
+
+
+EDMUND
+
+Ani słowa.
+
+
+CURAN
+
+To usłyszysz o tym niebawem. Żegnam cię, panie.
+
+/ Wychodzi. /
+
+
+EDMUND
+
+Przybywa książę! Tym lepiej, tym lepiej!
+To w sprawę moją wybornie się wplata.
+Ojciec na brata pozastawiał czaty;
+Ja mam odegrać delikatną rolę;
+Pośpiechu, przybądź na pomoc z fortuną!
+Zejdź, bracie! Bracie, mam ci coś powiedzieć.
+Wchodzi Edgar.
+Ojciec mój czuwa; radzę ci, uciekaj!
+Twoja kryjówka już mu jest wiadoma,
+Ale na szczęście noc cię uratuje.
+Czy nie mówiłeś źle o księciu Cornwall?
+Tej nocy z wielkim zjeżdża tu pośpiechem,
+Z nim Regan. Rozważ, czyś się nie wygadał
+O jego przeciw Albany knowaniach?
+
+
+EDGAR
+
+Nie, nigdy słowa o tym nie mówiłem.
+
+
+EDMUND
+
+Ojciec się zbliża. Przebacz, dla pozoru
+Muszę oręża dobyć przeciw tobie;
+Ty udaj opór. A teraz uciekaj!
+Poddaj się! Musisz iść ze mną do ojca.
+Hej, światła! Hola! Uciekaj, mój bracie!
+Hola, pochodni! Bądź zdrów! Nie trać czasu!
+Wychodzi Edgar.
+Kilka krwi kropli lepszym będą świadkiem rani się
+Wściekłego starcia. Widziałem pijaków,
+Siekących głębiej dla prostej zabawy.
+Stój! Ojcze! Niktże w pomoc mi nie przyjdzie?
+
+/ Wchodzą: Gloucester i Słudzy z pochodniami. /
+
+
+GLOUCESTER
+
+Powiedz Edmundzie, gdzie jest ten nikczemnik?
+
+
+EDMUND
+
+Tu stał w ciemności, z dobytym orężem,
+Mamrocąc czary, zaklinając księżyc,
+By mu dopomógł —
+
+
+GLOUCESTER
+
+                        Lecz gdzie jest? Odpowiedz.
+
+
+EDMUND
+
+Widzisz krew moją, panie?
+
+
+GLOUCESTER
+
+                        Gdzie ten nędznik?
+
+
+EDMUND
+
+W tę uciekł stronę. Próżno usiłując —
+
+
+GLOUCESTER
+
+Hej, w pogoń za nim! Wychodzi Sługa.
+                        A co usiłując?
+
+
+EDMUND
+
+Wciągnąć mnie, ojcze, w spiski na twe życie,
+Bo mu odrzekłem, że na ojcobójców
+Wszystkie pioruny mściwe niebo ciska,
+Mówiłem, jak są potężne łańcuchy
+Wiążące dziecko do ojcowskich piersi,
+On też, gdy spostrzegł upór nieugięty
+Przeciw wyrodnym swoim przedsięwzięciom,
+Rzucił się na mnie z dobytym orężem,
+I gdym nie myślał o zdradnej napaści,
+Przeszył mi ramię; lecz gdy się przekonał,
+Że mi nie brakło na duchu i woli
+Stanąć w obronie dobrej mojej sprawy,
+Może i moim przestraszony krzykiem,
+Uciekł co prędzej.
+
+
+GLOUCESTER
+
+                        Niechże więc ucieka!
+Lecz mu niełatwo skryć się na tej ziemi;
+Raz schwytanego spieszny czeka koniec.
+Pan mój łaskawy tej nocy przybywa,
+Jego powagą ogłoszę po kraju,
+Że ten na wdzięczność moją ma rachować,
+Który zbrodniarza pod miecz przyprowadzi:
+Kto go ukryje, gardłem to zapłaci.
+
+
+EDMUND
+
+Gdym mu odradzał występne zamiary,
+A on upornie w swym trwał przedsięwzięciu,
+Odkryciem całej sprawy mu groziłem,
+A on mi na to: «At, biedny bękarcie!
+Czy myślisz, jeśli kłamstwo ci zarzucę,
+Twe słowa ludziom wiarę jaką dadzą
+W twą zacność, cnotę, wartość lub przymioty?
+Nie, nie, bo proste moje zaprzeczenie
+(A rachuj na nie, choćbyś miał na dowód
+Własne me pismo), proste zaprzeczenie
+Starczy, by całej sprawie dać pozory
+Twych spisków, twoich knowań i podstępów.
+Musiałbyś wprzódy świat cały odurzyć,
+By nie pomyślał, że mnogie korzyści,
+Które z mej śmierci dla ciebie urosną,
+Nie były dosyć potężną ostrogą,
+By cię do knowań na życie me popchnąć».
+
+
+GLOUCESTER
+
+O zatwardziały, o występny nędznik!
+Świadectwu własnej zaprzeczyłby ręki!
+Nie jam go spłodził! Słychać trąby za sceną.
+                        Słyszysz? trąby księcia.
+Nie wiem, dla jakich przybywa powodów.
+Wszystkie mu zamknę porty; nie ucieknie;
+Książę tę łaskę musi mi wyświadczyć.
+Roześlę przy tym jego wizerunek,
+Żeby na niego oko miał kraj cały.
+Wynajdę sposób, ty wierny mój synu,
+By ci zapewnić moich ziem dziedzictwo.
+
+/ Wchodzą: Cornwall, Regan i Orszak. /
+
+
+CORNWALL
+
+Ledwo żem przybył, a już, przyjacielu,
+O jakże dziwnych usłyszałem wieściach!
+
+
+REGAN
+
+Jeśli to prawda, na zbrodnię podobną
+Nie ma dość ciężkiej kary! Jak twe zdrowie,
+Milordzie?
+
+
+GLOUCESTER
+
+                        Pani, serce moje pękło,
+Pękło!
+
+
+REGAN
+
+                        Co? Chrzestny syn mojego ojca
+Na twoje godził życie? Ten, któremu
+Mój ojciec swoje dał imię, twój Edgar?
+
+
+GLOUCESTER
+
+O pani, wstyd mój chciałby to utaić!
+
+
+REGAN
+
+Czy nie przestawał z rozpustnym rycerstwem,
+Ojca mojego strażą?
+
+
+GLOUCESTER
+
+                        Nie wiem, pani.
+O, zbyt to straszny, zbyt to grzeszny zamach!
+
+
+EDMUND
+
+Tak, pani, zwykle żył w ich towarzystwie.
+
+
+REGAN
+
+To mnie nie dziwią złe jego uczucia.
+Oni na życie starca go podszczuli,
+By spólnie jego przemarnować mienie.
+Dziś właśnie siostra ich postępowanie
+Dokładnie w swoim opowiada liście.
+Jeśli przybędą w moim osiąść domu,
+Mnie tam nie znajdą.
+
+
+CORNWALL
+
+                        Ani mnie, zaręczam.
+Edmundzie, mówią, że twojemu ojcu
+Synowskich uczuć złożyłeś dowody.
+
+
+EDMUND
+
+Tylkom dopełnił mojej powinności.
+
+
+GLOUCESTER
+
+Odkrył mi jego spiski, a tę ranę
+Odebrał, pragnąc zatrzymać zbrodniarza.
+
+
+CORNWALL
+
+Czyś wysłał za nim pogonie?
+
+
+GLOUCESTER
+
+                        Wysłałem.
+
+
+CORNWALL
+
+Jeśli go schwycą, bądź pewny, na przyszłość
+Nikomu nowej krzywdy nie wyrządzi.
+Wedle twej woli rządź moją potęgą.
+A ty Edmundzie, który nam w tej sprawie
+Złożyłeś dowód cnót i poświęcenia,
+Będziesz na przyszłość moim, bo nam trzeba
+Ludzi tak wiernych i tak poświęconych.
+Biorę cię z sobą.
+
+
+EDMUND
+
+                        Możesz liczyć, panie,
+Na wierność moją, jeśli nie na więcej.
+
+
+GLOUCESTER
+
+Panie, dziękuję w jego ci imieniu.
+
+
+CORNWALL
+
+Nie wiesz, dlaczego tutaj przybywamy —
+
+
+REGAN
+
+W niezwykłą porę, o tak późnej nocy.
+Ważna to sprawa, szlachetny Gloucesterze,
+W której pragniemy twej zasięgnąć rady.
+Odbieram listy od ojca i siostry
+O ich niezgodzie; uznałam za dobre
+Nie z mego domu przesłać im odpowiedź;
+Stąd moje do nich wyprawię poselstwo.
+Pociesz się, dobry, stary przyjacielu;
+Twej nam potrzebnej nie odmówisz rady
+W sprawie najmniejszej zwłoki niecierpiącej.
+
+
+GLOUCESTER
+
+Na twe rozkazy, pani, jestem gotów;
+Tymczasem przyjmij w mym domu gościnność.
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Przed zamkiem Gloucestera. /
+
+/ Wchodzą z przeciwnych stron: Kent i Oswald. /
+
+
+OSWALD
+
+Dzień dobry, przyjacielu. Czyś z tego domu?
+
+
+KENT
+
+Tak jest.
+
+
+OSWALD
+
+Gdzie możem postawić nasze konie?
+
+
+KENT
+
+W błocie.
+
+
+OSWALD
+
+Proszę cię, jeśli mnie kochasz, powiedz.
+
+
+KENT
+
+Nie kocham cię wcale.
+
+
+OSWALD
+
+W takim razie i ja o ciebie nie dbam.
+
+
+KENT
+
+Gdybym cię trzymał, gdzie myślę, nauczyłbym cię dbać o mnie.
+
+
+OSWALD
+
+Dlaczego mnie w ten sposób traktujesz? Nie znam cię wcale.
+
+
+KENT
+
+Ale ja znam cię dobrze, mopanku,
+
+
+OSWALD
+
+Za kogo mnie bierzesz?
+
+
+KENT
+
+Za hultaja, za łotra żyjącego niedogryzkami; za podłego, dumnego, płytkiego, żebrzącego, trójbarwnego, stofuntowego, rudnopończosznego hultaja; za procesowicza z zajęczym sercem, za sk…syna, fircyka, lizusa, dubeltowego opryszka; za gałganiarza, za łotra, co chciałby zostać rajfurem przez zbytek usłużności, a jest tylko mieszaniną hultaja, żebraka, tchórza, rajfura, a synem i dziedzicem kundlicy. Zbiję cię na kwaśne jabłko, jeśli zaprzeczysz jednej sylabie twoich przymiotów.
+
+
+OSWALD
+
+Co za potworne z ciebie stworzenie, że możesz tak lżyć człowieka, którego nie znasz i który cię nie zna.
+
+
+KENT
+
+Miedzianego czoła z ciebie pachołek, skoro utrzymujesz, że mnie nie znasz. Czy nie dwa dni temu, jak ci przystawiłem stołek i wygarbowałem ci skórę w przytomności króla? Dobądź szabli, łotrze! bo choć noc jeszcze, to księżyc świeci; na placek cię spłaszczę, ty sk…synie, obrzydliwy golibrodo! Dobądź szabli!
+
+/ Dobywa szabli. /
+
+
+OSWALD
+
+Idź sobie z Bogiem! Nie mam nic z tobą do czynienia.
+
+
+KENT
+
+Dobądź szabli, hultaju! Przybywasz z listami przeciw królowi; trzymasz stronę lalki próżności przeciw majestatowi jej ojca. Dobądź szabli, hultaju, albo cię zbiję na zrazy! Dobądź szabli, hultaju, i broń się!
+
+
+OSWALD
+
+Rety! Hola! Rozbój! Rety!
+
+
+KENT
+
+Rąb, niewolniku, broń się! Broń się, niewolniku, a rąb!
+
+/ Bije go. /
+
+
+OSWALD
+
+Rety! Hola! Rozbój! Rozbój!
+
+/ Wchodzą: Edmund, Cornwall, Regan, Gloucester i Służba. /
+
+
+EDMUND
+
+A to co się znaczy? Rozłączcie się!
+
+
+KENT
+
+A więc i z tobą, dobry chłopczyku, jeśli łaska! zbliż się, poskrobię cię, zbliż się młody paniczu!
+
+
+GLOUCESTER
+
+Nie gwałćcie pokoju, jeśli życie ma dla was cenę! Zapłaci gardłem, kto raz jeszcze uderzy. O co wam idzie?
+
+
+REGAN
+
+To są posłańcy naszej siostry i króla.
+
+
+CORNWALL
+
+Co dało powód do waszej sprzeczki? Mówcie!
+
+
+OSWALD
+
+Ledwo oddycham, milordzie.
+
+
+KENT
+
+Nic dziwnego, tak zmordowałeś twoje męstwo. Tchórzliwy hultaju, natura ciebie się wyrzeka; krawiec cię uszył.
+
+
+CORNWALL
+
+Dziwne z ciebie stworzenie; krawiec uszył człowieka?
+
+
+KENT
+
+Krawiec, panie! Rzeźbiarz albo malarz nie mógłby tak źle go zrobić, choćby tylko dwie godziny swoje praktykował rzemiosło.
+
+
+CORNWALL
+
+Powiedz, skąd wszczęła się wasza kłótnia?
+
+
+OSWALD
+
+Ten stary hajdamak, panie, któremu darowałem życie na prośbę siwej jego brody —
+
+
+KENT
+
+A ty iks, sk…synie, ty niepotrzebna litero! Milordzie, jeśli mi pozwolisz, na wapno rozdepcę tego łajdaka i potynkuję nim mury wychodka. Ulitowałeś się nad moją siwą brodą, ty pliszko!
+
+
+CORNWALL
+
+Cicho, hultaju! Czy nie znasz respektu?
+
+
+KENT
+
+Znam, ale swoje ma gniew przywileje.
+
+
+CORNWALL
+
+Powiedz mi, gniew twój jaki powód zbudził?
+
+
+KENT
+
+Że miecz podobny śmie nosić niewolnik,
+Co odrobiny nie nosi honoru.
+Tacy hultaje z uśmiechem na ustach,
+Jak szczury święte przegryzają węzły,
+Zbyt ścisłe, żeby rozwiązać je można;
+I namiętności wszystkie zbuntowane
+W swych panów sercu podsycają skrzętnie,
+Na ogień olej, śnieg na lód ciskają;
+Przeczą i twierdzą, i dziób zimorodka
+Wedle przywidzeń panów obracają,
+Jak pies za tropem tylko iść umieją.
+Do Oswalda:
+Zaraza na twą twarz epileptyczną!
+Z mych słów się śmiejesz jak z błazeńskiej mowy?
+O gdybym, gąsko, pod Sarum cię trzymał,
+Do Camelotu gęgałbyś przede mną!
+
+
+CORNWALL
+
+Czy oszalałeś, starcze?
+
+
+GLOUCESTER
+
+                        Skąd ta kłótnia?
+
+
+KENT
+
+Nie ma dwóch rzeczy antypatyczniejszych,
+Jak ja z tym łotrem.
+
+
+CORNWALL
+
+                        Czemu zwiesz go łotrem?
+W czym ci zawinił?
+
+
+KENT
+
+                        Twarz mi jego wstrętna.
+
+
+CORNWALL
+
+Może nie więcej jak moja, jej, jego.
+
+
+KENT
+
+Rzemiosłem moim, panie, szczerze mówić;
+Zdarzyło mi się lepsze widzieć twarze,
+Niźli te, które obecnie spostrzegam,
+Na jakichkolwiek stojące ramionach.
+
+
+CORNWALL
+
+To jakiś ptaszek, co czasem chwalony
+Za swą rubaszność, teraz afektuje
+Zuchwałą szorstkość, na gwałt swej naturze
+Przybiera rolę. Nie może pochlebiać!
+Uczciwy prostak, prawdę musi mówić!
+Kto się nie zgorszy, tym lepiej; kto zgorszy,
+Tylko szczerotę jego może ganić.
+Znam ja te ptaszki; prostoty płaszcz kryje
+Więcej chytrości i celów występnych
+Niż czołobitne, pokorne pokłony
+Dwudziestu dudków kornie się płaszczących.
+
+
+KENT
+
+Na prawdę, panie, a na szczerą prawdę,
+A z przeproszeniem waszej dostojności,
+Której wpływ niby ogień promienisty
+Na jasnym czole Feba —
+
+
+CORNWALL
+
+                        Co to znaczy?
+
+
+KENT
+
+Zmianę mojego stylu, który się dostojnemu panu tak nie podobał. Wiem, panie, że nie jestem pochlebcą; ten, który cię oszukał udanym tonem szczerości, był hultajem, którym, co do mnie, być nie chcę, choćby mnie do tego zachęcała nadzieja ułagodzenia twojego gniewu, milordzie.
+
+
+CORNWALL
+
+Czym go skrzywdziłeś?
+
+
+OSWALD
+
+                        Nie skrzywdziłem wcale.
+Król, a pan jego, źle myśl mą tłumacząc,
+Niedawno rękę podniósł na mnie w gniewie,
+A on, by panu swojemu pochlebić,
+Podstępem z nóg mnie powalił na ziemię,
+Obalonego z szyderstwem pokrzywdził,
+I tyle swoim junactwem dokazał,
+Że pochwałami swymi król obsypał
+Gwałt na bezbronnym spełniony człowieku.
+Zapewne pamięć tej jego dzielności
+I tu mu dobyć kazała oręża.
+
+
+KENT
+
+Każdy z tych łotrów tchórzliwych językiem
+Na tchórza zmieni samego Ajaksa.
+
+
+CORNWALL
+
+Przynieście dyby! Stary ty hultaju,
+Sędziwy śmiałku! My cię nauczymy —
+
+
+KENT
+
+Za stary jestem, panie, do nauki.
+Daj pokój dybom; ja królewski sługa,
+Na króla rozkaz do ciebie przybywam;
+Byłoby znakiem zbyt wielkiej pogardy
+Dla pana mego dostojnej osoby,
+Złośliwie w dyby kuć jego posłańca.
+
+
+CORNWALL
+
+Przynieście dyby! Na honor przysięgam,
+Że do południa musi w nich wysiedzieć.
+
+
+REGAN
+
+Co, do południa? Do nocy, milordzie,
+I przez noc nawet.
+
+
+KENT
+
+                        Gdybym psem był tylko
+Twojego ojca, nie powinnaś, pani,
+Tak mnie traktować!
+
+
+REGAN
+
+                        Ale tak traktuję
+Jego pachołków.
+
+
+CORNWALL
+
+                        To jeden z paniczów,
+O których nasza siostra nam donosi.
+Przynieście dyby!
+
+/ Przynoszą dyby. /
+
+
+GLOUCESTER
+
+                        Nie rób tego, panie!
+Wiem, że zawinił; dobry król, pan jego,
+Skarci go za to, lecz sromotna kara,
+Którą mu grozisz, dotyka jedynie
+Lud najpodlejszy, ostatnią hołotę
+Za kradzież albo i gorsze występki.
+Król to za krzywdę weźmie osobistą,
+Jeżeli jego sługa i posłaniec
+Ulegnie karze tak upadlającej.
+
+
+CORNWALL
+
+Odpowiem za to.
+
+
+REGAN
+
+                        Moja by też siostra
+Jeszcze za większą wziąć mogła obrazę,
+Że jej dworzanin, pełniąc jej rozkazy,
+Był w tak niegodny sposób pokrzywdzony.
+Skujcie mu nogi! Biorą Kenta w dyby.
+                        Idźmy teraz, panie!
+
+/ Wychodzą: Regan i Cornwall. /
+
+
+GLOUCESTER
+
+Żal mi cię, bracie; to wola książęcia,
+Którego światu znany jest charakter:
+Wstrętny mu opór. Wstawię się za tobą.
+
+
+KENT
+
+Nie, dobry panie, nie rób tego, proszę!
+Czuwałem, drogę odbyłem mozolną,
+Część nocy prześpię, a resztę prześwistam.
+Z pięt może wyróść szczęście uczciwemu.
+A więc dobranoc!
+
+
+GLOUCESTER
+
+                        Źle postąpił książę;
+Czyn jego będzie na złe tłumaczony.
+
+/ Wychodzi. /
+
+
+KENT
+
+Dobry mój królu, stwierdziłeś przysłowie,
+Z chłodu pod skwarne dostałeś się słońce.
+Zbliż się, księżycu, do tej ciemnej kuli,
+Pożycz mi światła, by ten list przeczytać!
+Nędzarze tylko czasem cuda widzą.
+To list Kordelii. Szczęśliwym zrządzeniem
+Doszły ją wieści o moim przebraniu.
+Znajdzie czas ona w tych bolesnych sprawach
+W pomoc nam przybyć i krzywdy uleczyć.
+Przymruż się, oko, czuwaniem znużone,
+Aby nie widzieć tego hańby domu.
+Teraz dobranoc, fortuno! Uśmiechnij
+Znowu się do mnie, a koło twe obróć!
+
+/ Usypia. /
+
+
+
+SCENA III
+
+/ Step. /
+
+/ Wchodzi Edgar. /
+
+
+EDGAR
+
+Publikowane me imię słyszałem;
+W spróchniałym drzewie uszedłem pogoni;
+Nie ma jednego portu, nie ma miejsca,
+Gdzie by straż czujna nie czyhała na mnie.
+Postanowiłem, aby się ratować,
+Przybrać pozory najpodlejszej nędzy,
+Co kiedykolwiek wzgardzonego człeka
+Do bydlęcego przybliżyła stanu.
+Twarz skalam błotem, płachtą się owinę,
+Włosy me wszystkie w kołtuny pozwijam,
+W mojej nagości z wiatrów będę szydził
+I z niepogody surowego nieba.
+Już wzór znalazłem sobie na tej ziemi:
+Żebraków z Bedlam, co wśród dzikich ryków
+Tkają w gangreną otrętwiałe ręce
+Szpilki, gałązki rozmarynu, gwoździe,
+A potem, hydne pokazując rany,
+Po biednych siołach, młynach i owczarniach,
+Czasami prośbą, czasem przekleństwami
+Zmuszają ludzką litość do jałmużny.
+Tylko Tomaszkiem biednym jestem teraz;
+To jest coś jeszcze — a Edgar jest niczym.
+
+/ Wychodzi. /
+
+
+
+SCENA IV
+
+/ Przed zamkiem Gloucestera. /
+
+/ Wchodzą: król Lear, Błazen i Dworzanin. /
+
+
+KRÓL LEAR
+
+To jednak dziwna, że dom opuszczając,
+Nie odprawili mojego posłańca.
+
+
+DWORZANIN
+
+Wiem, że ostatniej nocy nie myślano
+O tej podróży.
+
+
+KENT
+
+                        Witaj, dobry panie!
+
+
+KRÓL LEAR
+
+Czy na rozrywkę takąś wybrał hańbę?
+
+
+KENT
+
+O nie, milordzie.
+
+
+BŁAZEN
+
+Ha, ha! Nosi okrutne podwiązki. Konie przywiązują za głowy, psy i niedźwiedzie za szyje, małpy za lędźwie, a ludzi za nogi. Zbyt gorącemu w nogach człowiekowi dają drewniane pończochy.
+
+
+KRÓL LEAR
+
+Kto tak nie zważał na twe stanowisko,
+Że cię tu wsadził?
+
+
+KENT
+
+                        On, panie, i ona,
+Twój syn i córka.
+
+
+KRÓL LEAR
+
+Nie.
+
+
+KENT
+
+Tak jest.
+
+
+KRÓL LEAR
+
+Nie, powtarzam.
+
+
+KENT
+
+A ja powtarzam: tak jest.
+
+
+KRÓL LEAR
+
+Nie, nie, nigdy by się na to nie odważyli!
+
+
+KENT
+
+Odważyli się jednak.
+
+
+KRÓL LEAR
+
+Nie, przysięgam na Jowisza!
+
+
+KENT
+
+A ja przysięgam na Junonę, tak jest!
+
+
+KRÓL LEAR
+
+Na krok ten nigdy by się nie ważyli,
+Zrobić by tego nie mogli, nie chcieli.
+Czyn od morderstwa gorszy, taką krzywdę
+Poszanowania godnemu wyrządzić.
+Powiedz natychmiast, jaka twoja wina,
+Że w taki sposób ważyli się karać
+Mego posłańca?
+
+
+KENT
+
+                        Panie, w ich pałacu
+Zaledwo twoje listy im wręczyłem,
+Zanim powstałem, bo im na kolanach
+Mój hołd złożyłem, przybywa posłaniec,
+Oblany potem, zziajany pośpiechem,
+Bez tchu, zaledwo zdolny wybełkotać
+Goneril, pani swojej, pozdrowienie;
+Oddał list, który czytali z pośpiechem,
+Zwołali orszak, bez najmniejszej zwłoki
+Dosiedli koni, a z zimnym spojrzeniem
+Dali mi rozkaz, bym gonił za nimi
+I na odpowiedź ich cierpliwie czekał.
+Tu, gdy spotkałem drugiego posłańca,
+Co pozdrowieniem swoim zatruł moje
+(A tym posłańcem był właśnie ów panicz,
+Co się tak krnąbrnie panu memu stawił),
+Chętniejszy słuchać serca niźli głowy,
+Dobyłem szabli, a tchórz ten nikczemny
+Krzykami trwogi cały dom poruszył
+I sądem syna twojego i córki
+Czyn mój zasłużył na hańbiącą karę,
+W której mnie widzisz.
+
+
+BŁAZEN
+
+                        Zima nieskończona,
+Gdy dzikie gęsi w tamtą lecą stronę.
+Ślepe są dzieci przed ojcem w łachmanach;
+Przed ojcem z workiem dzieci na kolanach.
+Drzwi swych fortuna biednym nie otwiera.
+
+Ale z tym wszystkim, dostaniesz od twych córek tyle krzyżów, ile potrafisz zliczyć przez rok cały.
+
+
+KRÓL LEAR
+
+Niewieścia słabość, hysterica passio,
+Pnie się do serca! Spadnij, czarny smutku,
+Nie tak wysoko twoje są żywioły!
+Gdzie jest ta córka?
+
+
+KENT
+
+                        W pałacu tym z hrabią.
+
+
+KRÓL LEAR
+
+Czekajcie na mnie, sam się z nią rozmówię.
+
+/ Wychodzi. /
+
+
+DWORZANIN
+
+I prócz obrazy, którąś opowiedział,
+Nie było innej?
+
+
+KENT
+
+                        Nie, nie było żadnej.
+Ale dlaczego z tak małym orszakiem
+Król tu przybywa?
+
+
+BŁAZEN
+
+Gdyby cię za to pytanie w dyby okuto, dobrze byś na to zasłużył.
+
+
+KENT
+
+Dlaczego, błaźnie?
+
+
+BŁAZEN
+
+Poślemy cię do szkoły mrówek, abyś się tam nauczył, że się w zimie nie pracuje. Wszystkimi, co idą za nosem, kierują oczyma, wyjąwszy ślepych; a nie ma jednego nosa na dwadzieścia, który by nie zwietrzył tego, co śmierdzi. Puść wielkie koło, kiedy się z góry toczy, bo gdybyś chciał za nim pędzić, kark sobie skręcisz; ale gdy to koło pnie się pod górę, daj mu się ciągnąć bezpiecznie. Jeżeli jaki mądry człowiek da ci lepszą radę, zwróć mi moją; chciałbym, żeby tylko urwisze jej słuchali, bo daje ją błazen.
+
+Ten, który goni tylko za zyskiem,
+    I tylko z pozoru służy,
+Z pierwszym piorunów ucieknie błyskiem
+    I zostawi cię śród burzy.
+
+Lecz ja zostanę, co bądź mnie czeka,
+    Niech mędrek ucieka sobie;
+Błaznem się robi łotr, co ucieka,
+    Ja z błazna łotra nie zrobię.
+
+
+KENT
+
+Gdzie się tego nauczyłeś, błaźnie?
+
+
+BŁAZEN
+
+Nie w dybach, błaźnie.
+
+/ Wchodzi król Lear z Gloucesterem. /
+
+
+KRÓL LEAR
+
+Nie chcą mnie widzieć? Chorzy są, znużeni
+Nocną podróżą? Marne to wybiegi,
+Jawne oznaki buntu i odstępstwa!
+Przynieś mi lepszą odpowiedź.
+
+
+GLOUCESTER
+
+                        Mój panie,
+Znasz dobrze księcia ognisty charakter,
+Wiesz, jak w zamiarach swoich nieugięty.
+
+
+KRÓL LEAR
+
+Zemsta! Zaraza! Śmierć i zamieszanie!
+Co, nieugięty? Charakter? Gloucesterze,
+Z księciem i żoną jego pragnę mówić.
+
+
+GLOUCESTER
+
+Już mu doniosłem o tym, dobry panie.
+
+
+KRÓL LEAR
+
+Doniosłem? Człeku, czy mnie ty rozumiesz?
+
+
+GLOUCESTER
+
+Rozumiem, panie.
+
+
+KRÓL LEAR
+
+                        Król chce się rozmówić
+Z księżęciem Cornwall; ojciec kochający
+Od swojej córki chce usługi żądać.
+Czy wiedzą o tym? — Na krew mą i oddech!
+Ognisty! Książę ognisty! Idź, powiedz
+Temu książęciu ognistemu! — Czekaj!
+Jeszcze nie; może naprawdę jest chory.
+Choroba zawsze zaniedbuje służby,
+Której spełnienie potrzebuje zdrowia.
+Nie jest sam sobą człowiek, gdy natura
+Z cierpiącym ciałem duszy każe cierpieć.
+Poczekam; własną popędliwość winię,
+Że w gorączkowym wybryku choroby
+Postanowienie zdrowej widzę woli.
+Spoglądając na Kenta.
+Śmierć i zagłada! Dlaczego on w dybach?
+Czyn mi ten stwierdza, że ta ich choroba
+Jest czczym wybiegiem. Wypuście mi sługę!
+Idź do nich, powiedz, że chcę z nimi mówić,
+Teraz, natychmiast! Niechaj się tu stawią,
+Albo pod drzwiami ich bić będę w bębny,
+Aż sen zabiję!
+
+
+GLOUCESTER
+
+                        Idę, chciałbym, panie,
+Spór ten zagodzić.
+
+/ Wychodzi. /
+
+
+KRÓL LEAR
+
+                        O Boże, me serce!
+Wzdęte boleścią serce! Ale cicho!
+
+
+BŁAZEN
+
+Wołaj do niego, wujaszku, jak kucharka do węgorzy, gdy je żywcem wsadzała do pasztetu. Bijąc je po łbie kijem: „cicho, cicho, psubraty!” wołała. Jej to był brat, co przez czystą dobroć dla swojego konia siano masłem mu smarował.
+
+/ Wchodzą: Cornwall, Regan, Gloucester i Służba. /
+
+
+KRÓL LEAR
+
+Dzień dobry obu!
+
+
+CORNWALL
+
+                        Witamy cię, panie!
+
+/ Kent wypuszczony. /
+
+
+REGAN
+
+Dostojny królu, z radością cię widzę.
+
+
+KRÓL LEAR
+
+Wierzę ci, córko, mam tego powody;
+Gdyby mój widok nie był ci radosny,
+Ja bym się rozwiódł z twojej matki grobem:
+Byłby to tylko grób cudzołożnicy.
+Do Kenta.
+Ha, jesteś wolny? Ale później o tym.
+Droga Regano, siostra twa niegodna,
+pokazując na serce:
+Tu utopiła jakby szpony sępa
+Ostry ząb swojej grzesznej niewdzięczności.
+Zaledwie mogę mówić; nie uwierzysz,
+Z jaką wyrodną złością — o Regano!
+
+
+REGAN
+
+Cierpliwość, panie! Zdaje mi się bowiem,
+Żeś jej wartości łatwiej mógł nie poznać,
+Niż nie dopełnić ona powinności.
+
+
+KRÓL LEAR
+
+Jak to rozumiesz?
+
+
+REGAN
+
+                        Sądzę, że ma siostra
+Niezdolna zgwałcić swoich obowiązków.
+Jeśli przypadkiem położyła tamę
+Wrzaskliwej twego orszaku rozpuście,
+Tak słuszne miała do tego powody,
+Że od wszelkiego wolną jest zarzutu.
+
+
+KRÓL LEAR
+
+Niech Bóg ją skarze!
+
+
+REGAN
+
+                        Panie, jesteś stary;
+Natura w tobie kresów swych dobiega.
+Czas byłby dać się kierować rozumom,
+Lepiej od ciebie stan twój pojmującym.
+A więc cię proszę, wróć do naszej siostry,
+Wyznaj otwarcie, że ją obraziłeś.
+
+
+KRÓL LEAR
+
+Co? Więc ją prosić mam o przebaczenie?
+Zważ, jak to godne ust ojcowskich słowa:
+«Wyznaję, droga córko, żem jest stary;
+Starość nie radość; błagam na kolanach,
+Racz mi dać pokarm, ubranie i łoże!»
+
+
+REGAN
+
+Dość tego! Są to żarty nieprzystojne;
+Wróć do mej siostry!
+
+
+KRÓL LEAR
+
+                        Nie, nigdy, Regano!
+Pół mi mojego odjęła orszaku,
+Z gniewnym spojrzeniem serce mi przeszyła
+Od żądła żmii zjadliwszym językiem.
+Niech niebios zemsta wszystkie swe pioruny
+Wyrzuci na nią! Zatrute powietrze
+W młode jej kości niech powieje niemoc!
+
+
+CORNWALL
+
+Fe, wstydź się, panie!
+
+
+KRÓL LEAR
+
+                        Lotne błyskawice,
+Zgaście swym ogniem wzrok jej pogardliwy!
+Zniszczcie jej piękność, wyziewy bagniste,
+Wyssane ogniem potężnego słońca!
+
+
+REGAN
+
+Ach, dobry Boże! Te same przekleństwa
+W wybuchu gniewu na mnieś gotów rzucić.
+
+
+KRÓL LEAR
+
+Nie, nigdy me cię nie dotknie przekleństwo;
+Obca czułemu sercu twemu twardość.
+Jej wzrok jest straszny, gdy twoje źrenice
+Tylko pociechę przynoszą, nie palą.
+Moim zabawom nie będziesz ty skąpić,
+Zmniejszać orszaku, słowem mnie obrażać,
+Szczuplić dochodów, na wszystkiego domiar
+Bram twych zakładać przede mną ryglami.
+Ty powinności natury znasz lepiej,
+Lepiej dziecinnych obowiązków prawa,
+I wymagania należnej wdzięczności;
+Nie zapomniałaś połowy królestwa,
+Którą ci dałem.
+
+
+REGAN
+
+                        Do rzeczy, mój ojcze!
+
+
+KRÓL LEAR
+
+Kto w dyby okuł mojego człowieka?
+
+/ Słychać trąbkę za sceną. /
+
+
+CORNWALL
+
+Co to za trąbka?
+
+/ Wchodzi Oswald. /
+
+
+REGAN
+
+                        Wiem, to moja siostra;
+List jej donosi, że wkrótce przybędzie.
+To pani twoja?
+
+
+KRÓL LEAR
+
+                        To właśnie niewolnik,
+Który pożyczył dumy i zuchwalstwa
+Od zmiennej łaski tej, której jest sługą.
+Precz z moich oczu!
+
+
+OSWALD
+
+                        Co to znaczy, panie?
+
+
+KRÓL LEAR
+
+Kto w dyby okuł mego sługę? Myślę,
+Że nie wiedziałaś nic o tym, Regano.
+Kto się to zbliża?
+Wchodzi Goneril.
+                        Jeśli starość kochasz,
+Jeśli, o niebo, twoich praw nakazem
+Jest posłuszeństwo, jeśliś samo stare,
+Twoją ma sprawa, stań po mojej stronie!
+Do Goneril:
+Czy nie masz wstydu na brodę tę spojrzeć?
+Zdołaszli ścisnąć rękę jej, Regano?
+
+
+GONERIL
+
+Cóż jej zabrania? W czymże przewiniłam?
+Nie wszystko winą, czemu winy imię
+Sąd lekkomyślny lub zgrzybiałość daje.
+
+
+KRÓL LEAR
+
+O piersi moja, jakżeś jest kamienna,
+Że znieść to możesz! Kto mojego sługę
+W dyby śmiał okuć?
+
+
+OSWALD
+
+                        Ja rozkaz wydałem,
+Lecz on zuchwalstwem na więcej zasłużył.
+
+
+KRÓL LEAR
+
+Ty rozkaz dałeś?
+
+
+REGAN
+
+                        Proszę cię, mój ojcze,
+Czas już na koniec, byś swą słabość uznał.
+Jeżeli wrócisz do siostry mej domu
+Z końcem miesiąca z połową orszaku
+Będziesz mógł przybyć do mego pałacu.
+Dziś jestem w drodze; dziś byś tam nie znalazł
+Nic potrzebnego na twoje przyjęcie.
+
+
+KRÓL LEAR
+
+Ja wrócić do niej? Z połową orszaku?
+Nie, nigdy! Wolę raczej zrzec się dachu,
+Wolę z wichrami i burzą wojować,
+Być towarzyszem wilków i puszczyków.
+O konieczności twarda! Wrócić do niej!
+Królu Francuzów, z krwią gorącą w żyłach,
+Coś bez posagu najmłodszą wziął córkę,
+Równie bym chętnie przed tronem twym klęknął
+I o jałmużnę jak giermek cię błagał.
+Aby spodlone życie me przeciągnąć.
+Ja, wrócić do niej! O nie, radź mi raczej,
+Bym popychadłem został obrzydłego
+Twego pachołka!
+
+/ Wskazując na Oswalda. /
+
+
+GONERIL
+
+                        Jak ci się podoba.
+
+
+KRÓL LEAR
+
+Proszę cię, córko, nie rób mnie szalonym!
+Nie chcę cię dłużej trudzić, bądź mi zdrowa!
+Na tej się ziemi nie zobaczym więcej.
+A przecie jesteś mym ciałem, krwią, córką!
+Lub raczej ciała mojego chorobą,
+Którą konieczność zwać mi każe moją,
+Czyrakiem, krwi mej zgniłej karbunkułem.
+Lecz cię nie będę gromił; niechaj hańba
+Przyjdzie, gdy zechce, nie ja ją przyzywam,
+Przed sąd Jowisza nie ja skargi niosę.
+Czas ci zostawiam; popraw się, gdy możesz;
+Czekać cierpliwie mogę u Regany
+Z stu rycerzami mojego orszaku.
+
+
+REGAN
+
+Nie tak zupełnie; nic u mnie w tej chwili
+Nie jest gotowe na twoje przyjęcie.
+Usłuchaj siostry; bo ci, co rozumem
+Twe uniesienia mierzą, sprawiedliwie
+Zgodzić się muszą, żeś stary, że starość —
+Wie ona dobrze, co robi.
+
+
+KRÓL LEAR
+
+                        Tak sądzisz?
+
+
+REGAN
+
+Tak sądzę szczerze. Orszak pięćdziesięciu
+Czy to nie dosyć? Potrzebaż ci więcej?
+Czy nawet tyle? Gdy przeciw tej liczbie
+Niebezpieczeństwo i wydatek mówią?
+Pod jednym dachem jak żyć może zgodnie
+Taki tłum ludzi pod dwoma panami?
+Bardzo to trudno, raczej niepodobna.
+
+
+GONERIL
+
+Czy równie dobrej nie miałbyś usługi
+Od dworzan siostry naszej lub od naszych?
+
+
+REGAN
+
+Prawda, a wtedy łatwo by nam było
+Wszelkie niedbalstwo naszych sług ukarać.
+Jeśli więc zechcesz przybyć do mnie, ojcze,
+By grożącego ujść niebezpieczeństwa,
+Proszę cię, przybądź z dwudziestu i pięciu;
+Na więcej nie mam miejsca ni zasobów.
+
+
+KRÓL LEAR
+
+Wszystko wam dałem.
+
+
+REGAN
+
+                        A czas już był wielki.
+
+
+KRÓL LEAR
+
+Na opiekunów moich was wybrałem,
+Lecz liczbę mego orszaku zastrzegłem.
+Mamże z dwudziestu pięciu tylko przybyć
+Do twego zamku? Czy tak powiedziałaś?
+
+
+REGAN
+
+I tak powtarzam; ni jednego więcej.
+
+
+KRÓL LEAR
+
+A jednak piękna jest grzesznic tych postać!
+Obok grzeszniejszych i najgorszą nie być
+Jest już zasługą. Do Goneril:
+A więc pójdę z tobą:
+Pięćdziesiąt dwakroć jest dwadzieścia i pięć,
+Twoja więc miłość jest dwa razy większa.
+
+
+GONERIL
+
+Słuchaj mnie, ojcze, na co ci się zdadzą
+Dwudziestu pięciu, dziesięciu lub pięciu
+W domu, gdzie służba dwa razy liczniejsza
+Na twój jest rozkaz?
+
+
+REGAN
+
+                        Po co jeden nawet?
+
+
+KRÓL LEAR
+
+O, nie mierz życia tylko koniecznością!
+Ostatni żebrak ma zbytek w swej nędzy.
+Zamknij człowieka w granicach potrzeby,
+A będzie tani wiódł żywot jak bydlę.
+Ty jesteś panią; gdyby twoim sądem
+Ciepło się trzymać wielkim było zbytkiem,
+Jestże potrzebny ten przepych ubioru,
+Który zaledwo ogrzać cię jest w stanie?
+Lecz co koniecznie potrzebne — o Boże,
+Daj mi cierpliwość! Jej mi tylko trzeba!
+Widzisz tu, Boże, ubogiego starca
+Lat i boleści zgiętego brzemieniem!
+Jeśli ty serca córek tych buntujesz
+Przeciwko ojcu, nie rób ze mnie głupca
+W pokorze ducha znoszącego krzywdę,
+Ale szlachetnym pierś mą natchnij gniewem!
+Niech broń niewieścia, łza, lic mych nie kala!
+Nie, czarownice wyrodne! Ja na was
+Takiej dokażę zemsty, że świat cały —
+Dokonam — jeszcze nie wiem, co dokonam —
+Lecz wiem, że będzie to postrachem ziemi!
+Myślicie może, że ja płakać będę?
+Nie będę płakał.
+Mam ja powody płakać, lecz to serce
+Na sto tysięcy kawałków wprzód pęknie,
+Niźli zapłaczę. Błaźnie, oszaleję!
+
+/ Wychodzą: król Lear, Gloucester, Kent, Błazen. /
+
+
+CORNWALL
+
+Czas się oddalić, bo nadciąga burza.
+
+/ Burza w odległości. /
+
+
+REGAN
+
+Ten dom jest mały, trudno, aby starzec
+Z całym orszakiem mógł się w nim pomieścić.
+
+
+GONERIL
+
+To jego wina, sam się z domu wygnał,
+Niech teraz cierpi za swoje szaleństwo.
+
+
+REGAN
+
+Samego chętnie przyjmę w moim zamku,
+Lecz ni jednego z jego towarzyszy.
+
+
+GONERIL
+
+I ja tak myślę. Gdzie jest milord Gloucester?
+
+
+CORNWALL
+
+Poszedł za starcem. Ale oto wraca.
+
+/ Wchodzi Gloucester. /
+
+
+GLOUCESTER
+
+Król jest jak wściekły.
+
+
+CORNWALL
+
+                        Gdzie pragnie się udać?
+
+
+GLOUCESTER
+
+Nakazał wyjazd, lecz nie wiem, gdzie zmierza.
+
+
+CORNWALL
+
+Najlepiej będzie wolność mu zostawić,
+Niech gdzie chce jedzie.
+
+
+GONERIL
+
+                        Nie proś, żeby został.
+
+
+GLOUCESTER
+
+Ach, noc nadciąga, wściekły wicher wyje,
+A krzaka nie ma na kilka mil wkoło!
+
+
+REGAN
+
+Nauczycielem dla upartych ludzi
+Musi być krzywda, która ich dosięga
+Przez własną winę. Rozkaż bramy zamknąć.
+Orszak się jego składa z paliwodów;
+Roztropność radzi mieć się na baczności
+Przeciw zamachom, do których zbyt łatwo
+Mogą swoimi pchnąć go podszeptami.
+
+
+CORNWALL
+
+Noc straszna! Zamknij bramy! Dobra rada
+Mojej Regany. Schrońmy się przed burzą!
+
+/ Wychodzą. /
+
+
+
+
+AKT TRZECI
+
+
+
+SCENA I
+
+/ Step. Burza, błyskawice i grzmoty. /
+
+/ Wchodzą: Kent i Dworzanin. /
+
+
+KENT
+
+Kto się tu waży prócz straszliwej słoty?
+
+
+DWORZANIN
+
+Ten, który w duszy równą czuje burzę.
+
+
+KENT
+
+Znam cię. Lecz powiedz, gdzie pan, król nasz teraz?
+
+
+DWORZANIN
+
+Z rozpasanymi żywiołami walczy,
+Wzywa wiatr, żeby ziemię w morze cisnął
+Lub lądy zalał karbowaną falą,
+By świat się zmienił lub przepadł. Rwie włosy,
+Które ze ślepą wiatr chwyta wściekłością
+I na przestrzenie bez śladu rozwiewa.
+W małym swej duszy świecie stawia czoło
+Wściekłości burzy z deszczami walczącej.
+W nocy, śród której niedźwiedź przy szczeniętach
+Drzymie w jaskini, lew i wilk zgłodniały
+Nie śmią na słotę futer swych wystawić,
+On z gołą głową błąka się po polach,
+Zagłady wzywa.
+
+
+KENT
+
+                        Kto jest przy nim teraz?
+
+
+DWORZANIN
+
+Nikt oprócz błazna, który chce żartami
+Bolesne krzywdy od serca odegnać.
+
+
+KENT
+
+Znam cię, wiem dobrze, że bez żadnej trwogi
+Mogę ci wielką zwierzyć tajemnicę.
+Niezgoda, chytrze dziś jeszcze tajona,
+Tli się już między Cornwall i Albany;
+Przy nich (jak zwykle przy tych, których gwiazdy
+W swym szczytnym locie na tron posadziły),
+Nie braknie dworzan z równą im chytrością,
+Co francuskiego króla są szpiegami.
+Oni dostrzegli, co jeszcze ukryte,
+Tajny wstręt książąt, tajne ich fortele,
+Ze starym królem okrutne obejście
+I coś głębszego, czego tylko znakiem
+Może te wszystkie razem są wypadki.
+To tylko pewna, że francuski zastęp
+Do niezgodnego przybywa królestwa.
+Silny niedbalstwem naszym, bez przeszkody
+W naszych najlepszych wylądował portach,
+I wkrótce swoją rozwinie chorągiew.
+Jeżeli słowu mojemu dość ufasz,
+I bez wahania do Dover pośpieszysz,
+Znajdziesz tam kogoś, co ci podziękuje
+Za wierny obraz okrutnych boleści
+Dręczących króla przez wyrodne dzieci.
+Jestem szlachcicem z krwi i wychowania,
+Możesz mi wierzyć, że ci to poselstwo
+Z zupełną rzeczy daję świadomością.
+
+
+DWORZANIN
+
+Pomówim o tym jutro.
+
+
+KENT
+
+                        Nie, natychmiast.
+By cię przekonać, że jestem czymś więcej
+Niż me pozory, otwórz tę sakiewkę,
+Weź, co tam znajdziesz. Gdy ujrzysz Kordelię
+(A ujrzysz pewno), pokaż jej ten pierścień,
+Ona ci powie, kto był ten towarzysz,
+Którego imię nieznane ci teraz.
+Przeklęta burza! Idę szukać króla.
+
+
+DWORZANIN
+
+Daj mi twą rękę. Czy nic nie masz dodać?
+
+
+KENT
+
+Słów mało, ale wielkiej za to wagi:
+By króla znaleźć, bądź mi pomocnikiem,
+Idź go tą stroną szukać, ja zaś tamtą,
+Kto pierwszy znajdzie, drugiego zawoła.
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Inna część stepu. — Burza. /
+
+/ Wchodzą: Król Lear i Błazen. /
+
+
+KRÓL LEAR
+
+Dmij wściekły wietrze, aż twe lica pękną!
+Lej katarakty twoje, uraganie,
+Póki wież naszych kurki nie utoną!
+Siarczane ognie z szybkim jak myśl lotem,
+Gońce piorunów dęby trzaskających
+Spalcie me siwe włosy! Wy, pioruny,
+Na proch rozbijcie wielką ziemi kulę
+I naraz zniszczcie formy i nasiona,
+Z których niewdzięczny kształtuje się człowiek!
+
+
+BŁAZEN
+
+O mój wujaszku, święcona woda w suchym domu lepsza od deszczowej wody pod gołym niebem. Dobry wujaszku, wracaj! Proś o błogosławieństwo twoich córek. Noc ta nie ma litości ani dla mądrych ani dla głupców.
+
+
+KRÓL LEAR
+
+Grzmij z całej piersi! Pluj ogniu! Lej deszczu!
+Deszcz, wicher, grzmoty to nie moje córki;
+Nie was, żywioły, o niewdzięczność skarżę:
+Nic wam nie dałem, nie zwałem was dziećmi,
+Czego bądź od was żądać nie mam prawa,
+Zwróćcie więc na mnie całą srogość waszą!
+Biedny, schorzały, pogardzony starzec,
+Jak wasz pokorny stoję tu niewolnik.
+Służalczą jednak drużyną was zowię,
+Z dwiema córkami wyrodnymi zgodną,
+By całą waszą potęgę wysilić
+Na głowę starą i białą jak moja.
+O, rzecz to szpetna!
+
+
+BŁAZEN
+
+Ten, co ma dom, w którym schronić może głowę, dobrą ma czapkę.
+
+Kto rozporkom szuka schrony,
+Nim zapewni ją swej głowie,
+Ten wszy na niej znajdzie mrowie,
+To żebraków zwykłe żony.
+
+Kto posadził tam swą piętę,
+Gdzie kłaść serce należało,
+Będzie płakał przez noc całą
+Na nagniotki swe przeklęte.
+
+…bo jeszcze nie było pięknej kobiety, która by nie sznurowała ust przed zwierciadłem.
+
+/ Wchodzi Kent. /
+
+
+KRÓL LEAR
+
+Nie! Będę wzorem wszelkiej cierpliwości,
+Nie rzeknę słowa.
+
+
+KENT
+
+Kto tam?
+
+
+BŁAZEN
+
+Ba i któżby? Majestat i rozporek, to jest mądry człowiek i błazen.
+
+
+KENT
+
+Ach, to ty, panie? Te nawet stworzenia,
+Co noc kochają, nocy tej się boją.
+Pioruny trwożą wędrowców ciemności,
+Kryć się im każą w swych jaskiń głębinach.
+Jak żyję, nigdy jeszcze nie pamiętam
+Takich błyskawic, grzmotów tak potężnych
+I takich ryków wiatru i ulewy.
+Ludzka natura niezdolna wytrzymać
+Podobnej burzy, takiego przestrachu.
+
+
+KRÓL LEAR
+
+Potężne bogi, co nad głową naszą
+Tej grzmotnej burzy rozpalacie ognie,
+Wynajdźcie teraz waszych nieprzyjaciół!
+Drżyj podlcze, zbrodni którego tajonych
+Sprawiedliwości chłosta nie dosięgła!
+W ciemnościach nocy skryj się, krwawa ręko!
+Krzywoprzysięzco, pozorny świętoszku,
+Kryjący płaszczem cnoty kazirodztwo!
+Drżyj, nikczemniku, co w mądrej obłudzie
+Czyhałeś zdradnie na życie człowieka!
+Tajemne zbrodnie, wystąpcie z kryjówek,
+Tych strasznych woźnych błagajcie o litość!
+Jam pokrzywdzony więcej niż krzywdziciel.
+
+
+KENT
+
+Ach, z gołą głową! Łaskawy mój panie,
+Uboga chata, o kilka stąd kroków,
+Da ci przed burzą schronienie przyjazne.
+Spocznij tam, ja zaś do twardszego domu
+Od twardych głazów, z których zbudowany,
+Raz jeszcze wrócę. Gdym o ciebie pytał
+Przed chwilą, bram mi swych otworzyć nie chciał,
+Lecz go do skąpej zmuszę gościnności.
+
+
+KRÓL LEAR
+
+Rozum w mej głowie zaczyna się mącić.
+Pójdź tu, mój chłopcze, powiedz, czy ci zimno?
+I mnie też zimno. Gdzie jest ta lepianka?
+Jak dziwną sztukę posiada konieczność!
+Na skarb przemienia rzeczy najpodlejsze.
+Gdzie jest lepianka? Biedny mój błazenku,
+Jeszcze jest kątek w sercu moim, chłopcze,
+Gdzie mieszka litość nad twoim cierpieniem.
+
+
+BŁAZEN
+
+/ Śpiewa. /
+
+Kto trochę sensu w głowie zachował,
+Czy to deszcz szumi, czy to wiatr wieje,
+Do swych się losów będzie stosował,
+Choć każdej doby deszcz leje.
+
+
+KRÓL LEAR
+
+To prawda, chłopcze. Prowadź mnie do chaty!
+
+/ Wychodzą: król Lear i Kent. /
+
+
+BŁAZEN
+
+Ta noc ochłodzić zdolna kortezanę.
+Nim się oddalę, ogłoszę proroctwo:
+Gdy ksiądz będzie słowami, nie przykładem uczył,
+Kiedy słód swój piwowar wodą będzie tuczył,
+Gdy szlachcic będzie mistrzem swojego krawczyka,
+Gdy będą za kacerza palić zalotnika,
+Gdy trybunał każdemu dobry sąd wymierzy,
+Gdy nie będzie ubogich giermków ni rycerzy,
+Kiedy potwarz z ludzkiego ucieknie ozora,
+Z jarmarków rzezimieszki znikną jak kamfora,
+Gdy lichwiarz będzie złoto na polu rachował,
+A rajfur z kortezaną kościoły budował,
+    Na angielskiej wtedy grzędzie
+    Wszystko tak się zamajaczy,
+    Że kto dożyje, zobaczy,
+    Lud nogami chodzić będzie.
+
+Proroctwo to ogłosi Merlin, bo ja żyję przed jego czasami.
+
+/ Wychodzi. /
+
+
+
+SCENA III
+
+/ Izba w zamku Gloucestera. /
+
+/ Wchodzą: Gloucester i Edmund. /
+
+
+GLOUCESTER
+
+Niestety, niestety, Edmundzie! Nie podoba mi się to wyrodne postępowanie. Gdy ich prosiłem, aby mi wolno było nad nim się litować, odebrali mi użycie własnego mego domu; zabronili mi pod karą wiecznej niełaski mówić do niego, wstawiać się za nim, być mu pomocą w jakikolwiek bądź sposób.
+
+
+EDMUND
+
+Dzikie i wyrodne postępowanie!
+
+
+GLOUCESTER
+
+Dość na tym; ani słowa więcej. Tli już niezgoda między książętami, a gotuje się coś gorszego. Odebrałem list tej nocy — niebezpieczna rzecz o tym mówić — zamknąłem list w mojej komnacie. Krzywdy, które teraz król znosi, będą pomszczone na ich sprawcach; już część wojska wylądowała; trzeba nam się przechylić na stronę króla. Wyszukam go i pomogę mu tajemnie. Idź tymczasem, baw księcia rozmową, aby nie dostrzegł mojego miłosierdzia. Jeśli się o mnie zapyta, powiedz, że jestem chory i poszedłem do łóżka. Choćby mi przyszło gardłem zapłacić, jak mi to zagrożono, muszę pomóc królowi, staremu mojemu panu. Dziwne gotują się rzeczy, Edmundzie; proszę cię, bądź ostrożny.
+
+/ Wychodzi. /
+
+
+EDMUND
+
+O tej dobroci twojej zakazanej
+I o tym liście zawiadomię księcia;
+Będzie to służba, która mi zapewni,
+Co ojciec straci, wszystkie jego grody:
+Gdzie stary upadł, niech urośnie młody.
+
+/ Wychodzi. /
+
+
+
+SCENA IV
+
+/ Chata na stepie. /
+
+/ Wchodzą: król Lear, Kent i Błazen. /
+
+
+KENT
+
+To chata, panie; wejdź, dobry mój panie.
+Noc to zbyt sroga, aby znieść ją mogła
+Ludzka natura.
+
+/ Burza wciąż trwa. /
+
+
+KRÓL LEAR
+
+                        Zostaw mnie samego.
+
+
+KENT
+
+Wejdź, panie.
+
+
+KRÓL LEAR
+
+                        Chceszże serce mi rozedrzeć?
+
+
+KENT
+
+Wprzód bym me własne rozdarł. Wejdź, mój panie!
+
+
+KRÓL LEAR
+
+Rzecz to twym sądem straszna, że nas burza
+Do kości chłosta; straszna jest dla ciebie,
+Lecz kto jest większej choroby ofiarą,
+Nie czuje mniejszej. Gdy niedźwiedź cię trwoży,
+Skoro przed tobą morze ryczy gniewne,
+Pójdziesz z niedźwiedzia mierzyć się paszczęką.
+Gdzie dusza wolna, drażliwe tam ciało.
+Burza mej duszy z mych wydziera zmysłów
+Wszystkie uczucia, prócz tych, co tu palą.
+Niewdzięczne córki! Czy to nie to samo,
+Jak gdyby usta rozszarpać pragnęły
+Tę rękę, która pokarm im przynosi?
+Lecz je ukarzę, nie chcę dłużej płakać!
+Śród takiej nocy drzwi przede mną zamknąć!
+O lej, lej deszczu! Potop ten wytrzymam.
+Przed starym ojcem, który szczodrą ręką
+Wszystko wam oddał! O Regan! Goneril!
+O, do szaleństwa droga ta prowadzi!
+Nie chcę iść dalej, nie mówmy już o tym!
+
+
+KENT
+
+Wejdź, panie.
+
+
+KRÓL LEAR
+
+                        Własnej szukaj tam wygody.
+Burza ta myśleć broni mi o rzeczach,
+Co by mnie ciężej dotknęły. Lecz wejdę.
+Chłopcze, wejdź pierwszy. Biedaku bez strzechy,
+Wejdź, ja tymczasem odmówię pacierze,
+A potem usnę.
+Błazen wchodzi do chaty.
+                        O nadzy nędzarze,
+Gdzie bądź jesteście, których w tej godzinie
+Ta bez litości siecze zawierucha,
+Jak mogą wasze podarte łachmany
+Przed taką wichrów osłonić dzikością
+Bez dachu głowy, boki bez pokarmu?
+O, nazbyt mało troskałem się o to!
+Przepychu świata, wypij to lekarstwo,
+Uczuj na chwilę, co czują nędzarze,
+Abyś im resztki twego zbytku rzucił,
+Pokazał większą nieba sprawiedliwość!
+
+
+EDGAR
+
+/ za sceną: /
+
+Półtora sążnia wody! Półtora sążnia wody!
+O biedny Tomku!
+
+/ Błazen wybiega z chaty. /
+
+
+BŁAZEN
+
+                        Nie wchodź tam, wujaszku,
+Bo duch tam mieszka. Ratujcie! Ratujcie!
+
+
+KENT
+
+Podaj mi rękę. Kto tam?
+
+
+BŁAZEN
+
+                        Duch tam mieszka,
+A jak powiada, zwie się biedny Tomek.
+
+
+KENT
+
+Kto ty, co jęczysz na słomie? Wyjdź do nas.
+
+/ Wchodzi Edgar przebrany za szaleńca. /
+
+
+EDGAR
+
+Precz stąd! Bo czarny goni za mną szatan;
+Po ostrych cierniach świszczący wiatr wieje:
+Ha! Idź do łóżka i ogrzej się trochę.
+
+
+KRÓL LEAR
+
+Czy i ty wszystko twym oddałeś córkom?
+Czyliż i tobie na to także przyszło?
+
+
+EDGAR
+
+Kto da co biednemu Tomkowi, którego zły duch przeprowadził przez ogień i płomienie, przez brody i wiry, przez bagna i topiele; który mu podkładał noże pod poduszkę, a stryczki na kościelnej ławie; który mu stawiał trutkę przy rosole, natchnął mu taką dumą serce, że przejeżdżał na gniadym kłusaku po mostach na cztery cale szerokich, goniąc za własnym cieniem jak za zdrajcą? Daj Boże zdrowie twoim pięciu zmysłom! Zimno Tomkowi! O, do de, do de, do de! Niech cię niebo strzeże od zawieruch, złych planet i czarów! Daj jałmużnę biednemu Tomkowi, którego zły duch prześladuje. Ach, gdybym mógł tu go złapać albo tu, albo tam znowu!
+
+/ Burza trwa ciągle. /
+
+
+KRÓL LEAR
+
+Do tegoż stopnia przywiodły go córki?
+Nic żeś zatrzymać nie mógł, wszystko dałeś?
+
+
+BŁAZEN
+
+O nie, zatrzymał płachtę, inaczej musieliby się wszyscy rumienić.
+
+
+KRÓL LEAR
+
+Niechaj więc plagi, które nad ludzkimi
+Grzechami ciążą, spadną wszystkie razem
+Na twoje córki!
+
+
+KENT
+
+                        Lecz on nie ma córek.
+
+
+KRÓL LEAR
+
+Giń, kłamco! Nic by nie mogło sprowadzić
+Ludzkiej natury do tego spodlenia
+Prócz niewdzięczności córek. Czy dziś zwyczaj,
+Że odepchnięty ojciec tak znajduje
+Mało litości u własnej krwi swojej?
+Słuszna to kara! To ciało poczęło
+Te pelikany córki.
+
+
+EDGAR
+
+                        Na górze Pillicok
+Siedział Pillicok. Hola! Hej tam, hola!
+
+
+BŁAZEN
+
+Ta zimna noc zrobi z nas wszystkich błaznów i szaleńców.
+
+
+EDGAR
+
+Strzeż się złego ducha; słuchaj rodziców; dotrzymaj danego słowa; nie przysięgaj; nie grzesz ze ślubną żoną bliźniego; nie przyuczaj twojej kochanki do bogatych strojów. Zimno Tomkowi!
+
+
+KRÓL LEAR
+
+Czym byłeś?
+
+
+EDGAR
+
+Sługą hardego serca i duszy; trefiłem sobie włosy; nosiłem rękawiczkę u kapelusza; służyłem chuciom mojej kochanki i dopuszczałem się z nią czynów ciemności; każde moje słowo było przysięgą, którą łamałem w jasnym obliczu niebios; zasypiałem w rozpuście i budziłem się do rozpusty; wino kochałem serdecznie i kostki serdecznie, a z kobietami przechodziłem samego Turka; fałszywe było moje serce, lekkie było moje ucho, krwawa ręka; byłem wieprzem w próżniactwie, lisem w chytrości, w żarłoctwie wilkiem, psem w wściekłości, a lwem w grabieży. Nie daj twojego biednego serca kobiecie, na lada skrzypnięcie trzewików lub szelest bławatów trzymaj nogi daleko od zamtuzów, ręce od spódniczek, pióro od lichwiarskich regestrów, a śmiej się potem ze złego ducha. Ciągle przez ciernie wieje zimny wiatr i mówi: suum, mun, nonny! Delfinie, moje dziecko, stój! Daj mu przykłusować.
+
+/ Burza trwa ciągle. /
+
+
+KRÓL LEAR
+
+Lepiej byłoby ci w grobie, niż wystawiać twoje nagie ciało na tę nieba surowość. Nie jestże człowiek niczym więcej? Przypatrz mu się dobrze: tyś niedłużny robakowi za jedwab, bydlęciu za skórę, baranowi za wełnę, a kotu za perfumy. Ha, my trzej jesteśmy sfałszowanym towarem, ty jeden jesteś prawdą! Człowiek bez przyborów jest tylko biednym, nagim, rosochatym jak ty zwierzęciem. Precz, precz co pożyczone! Dalej! Odepnijcie!
+
+/ Rozdziera odzież. /
+
+
+BŁAZEN
+
+Proszę cię, wujaszku, uspokój się; zła to noc do pływania. — Teraz trochę ognia na tym pustym polu byłoby jak serce starego rozpustnika: mała iskierka, a reszta ciała zimna. Ale patrz, nadbiega błędny ognik.
+
+
+EDGAR
+
+To ten zły duch Flibbertigibbet, zaczyna on swoje figle z ciemną nocą a kończy z pierwszym pianiem koguta; on to zaciąga oczy kataraktą, wykrzywia je zezem, daje zajęcze wargi; on śnicią pokrywa białą pszenicę i dręczy wszystkie ziemskie stworzenia.
+
+Święty Wit trzykroć obleciał pole
+I spotkał Zmorę w rzeszy swej kole,
+    I «precz stąd!» krzyknął,
+    I tabun zniknął;
+Precz, czarownico, o precz stąd!
+
+
+KENT
+
+Jak ci jest, panie?
+
+/ Wchodzi Gloucester z pochodnią. /
+
+
+KRÓL LEAR
+
+Kto to?
+
+
+KENT
+
+Kto tam? Czego szukasz?
+
+
+GLOUCESTER
+
+Co wy za jedni? Wasze nazwiska?
+
+
+EDGAR
+
+Biedny Tomek, który je pływające żaby, ropuchy, kijanki ziemne i wodne jaszczurki; który w szaleństwie swojego serca, gdy zły duch harcuje, je krowieniec zamiast sałaty, pożera stare szczury i psy utopione w rowie, pije zieloną powłokę bagniska; którego od parafii do parafii, chłostając, prowadzą, kują w dyby, karcą i więżą, a który miał niegdyś trzy ubrania na grzbiet swój, trzy koszule dla swojego ciała, konia do podróży i oręż do bitki.
+
+Ale myszy i szczury i podobna fraszka
+Całe siedem lat długich karmiły Tomaszka.
+
+Strzeż się ducha, co za mną goni. Cicho, Smolkin, cicho, ty szatanie!
+
+
+GLOUCESTER
+
+I to jest, panie, twoje towarzystwo?
+
+
+EDGAR
+
+Książę ciemności to prawdziwy szlachcic,
+A imię jego Modo albo Mahu.
+
+
+GLOUCESTER
+
+Jak są wyrodne krew nasza i ciało,
+Że nienawidzą tego, co je począł.
+
+
+EDGAR
+
+Zimno Tomkowi!
+
+
+GLOUCESTER
+
+Chodź ze mną, panie, nie mogę we wszystkim
+Słuchać surowych rozkazów twych córek.
+Choć ich jest wolą, bym wrota me zamknął,
+Na łup cię wydał tej nocy okrutnej,
+Dość miałem serca, aby cię wyszukać,
+Powieść, gdzie ogień i pokarm gotowy.
+
+
+KRÓL LEAR
+
+Wprzód z filozofem tym pozwól pogadać.
+Powiedz mi, jaka piorunów przyczyna?
+
+
+KENT
+
+Usłuchaj, panie, dobrej jego rady,
+Idź z nim do domu.
+
+
+KRÓL LEAR
+
+                        Jeszcze jedno słowo
+Do uczonego tego Tebańczyka.
+Nad czym rozmyślasz?
+
+
+EDGAR
+
+                        Jak diabła oszukać,
+A bić robactwo.
+
+
+KRÓL LEAR
+
+                        Pragnąłbym na stronie
+Jeszcze ci jedno postawić pytanie.
+
+
+KENT
+
+Nalegaj, lordzie, aby poszedł z tobą,
+Bo rozum jego zaczyna się mącić.
+
+
+GLOUCESTER
+
+Któż by go ganił? Własne jego córki
+Chcą jego śmierci. Ach, ten Kent uczciwy!
+On nam to wróżył. O, biedny wygnaniec!
+Król traci rozum, mówisz, przyjacielu,
+I ja ci wyznam, żem prawie oszalał.
+I jam miał syna, dziś go się wyrzekłem;
+Na moje życie godził on niedawno,
+Bardzo niedawno. Ja go tak kochałem!
+Nigdy syn ojcu swemu nie był droższy.
+Żeby ci prawdę wyznać, przyjacielu, ciągle burza Żal mnie obłąkał. — Co za noc okrutna!
+Błagam cię, panie —
+
+
+KRÓL LEAR
+
+                        Z waszym pozwoleniem,
+Bądź towarzyszem moim, filozofie.
+
+
+EDGAR
+
+Tomkowi zimno!
+
+
+GLOUCESTER
+
+                        Schroń się do tej chaty,
+A tam ogrzejesz nagie twoje ciało.
+
+
+KRÓL LEAR
+
+Idźmy tam wszyscy.
+
+
+KENT
+
+                        Tędy.
+
+
+KRÓL LEAR
+
+                        Lecz z nim razem;
+Nie chcę opuścić mego filozofa.
+
+
+KENT
+
+Ustąp mu, panie; niech go z sobą weźmie.
+
+
+GLOUCESTER
+
+Niech i tak będzie.
+
+
+KENT
+
+                        No, dalej, idź z nami!
+
+
+KRÓL LEAR
+
+Chodź, Ateńczyku zacny.
+
+
+GLOUCESTER
+
+                        Teraz cicho
+I ani słowa więcej, ani słowa!
+
+
+EDGAR
+
+Sir Roland przed czarną zatrzymał się wieżą
+I krzyknął: «Fe, cóż to i cóż się tu stało?
+Wszak ci ja tu czuję Bretona krew świeżą».
+
+/ Wychodzą. /
+
+
+
+SCENA V
+
+/ Sala w zamku Gloucestera. /
+
+/ Wchodzą: Cornwall i Edmund. /
+
+
+CORNWALL
+
+Pomszczę się, nim dom ten opuszczę.
+
+
+EDMUND
+
+Mogą mnie ludzie potępić, milordzie, że pozwoliłem uczuciom powinności wziąć górę nad popędami natury; ta myśl przejmuje mnie strachem.
+
+
+CORNWALL
+
+Widzę teraz, że nie same złe skłonności podsunęły twojemu bratu myśl godzenia na jego życie, ale przewrotność ojca dała podnietę występnej złośliwości syna.
+
+
+EDMUND
+
+Jak los mój okrutny, że nie mogę bez zgryzoty być sprawiedliwym! Oto list, o którym mówił, a który dowodzi, że czynny miał udział w knowaniach na korzyść Francji. O nieba! Bodaj zdrady tu nie było lub bodajem nie ja był jej donosicielem!
+
+
+CORNWALL
+
+Chodź ze mną do księżny.
+
+
+EDMUND
+
+Jeśli treść tego listu jest prawdziwa, wielkie sprawy macie do załatwienia.
+
+
+CORNWALL
+
+Prawdziwa czy fałszywa zrobiła cię hrabią Gloucester. Wywiedz się, gdzie jest twój ojciec, aby mógł być pojmany na pierwsze skinienie.
+
+
+EDMUND
+
+/ na stronie: /
+
+Jeśli go znajdę niosącego pomoc królowi, to nowej doda siły podejrzeniom. Głośno. Wytrwam w mojej wierności, choć zażarta toczy się wojna między nią a krwią moją.
+
+
+CORNWALL
+
+Zupełną pokładam w tobie ufność: znajdziesz lepszego ojca w mojej miłości.
+
+/ Wychodzą. /
+
+
+
+SCENA VI
+
+/ Izba w oficynach zamku. /
+
+/ Wchodzą: Gloucester i Kent. /
+
+
+GLOUCESTER
+
+Lepiej jest tu jak na otwartym powietrzu; przyjmij gościnność tę wdzięcznym sercem. Dodam, co mogę, na wasze pokrzepienie. Wrócę niebawem.
+
+
+KENT
+
+Wszystkie potęgi jego umysłu uległy niecierpliwości. Bóg ci zapłać za twoją dobroć!
+
+/ Wychodzi Gloucester. — Wchodzą: Król Lear, Edgar i Błazen. /
+
+
+EDGAR
+
+Frateretto mnie woła i powiada, że Nero łowi ryby na wędkę w jeziorze ciemności. Proszę cię, niewiniątko, miej się na baczności od złego ducha.
+
+
+BŁAZEN
+
+Powiedz mi, wujaszku, czy wariat jest szlachcicem, czy mieszczuchem?
+
+
+KRÓL LEAR
+
+Królem! Królem!
+
+
+BŁAZEN
+
+Nie, jest mieszczuchem, co ma syna szlachcica; bo wariat to mieszczuch, który widzi swojego syna szlachcicem, wprzódy nim sam nim został.
+
+
+KRÓL LEAR
+
+Z rozpalonymi gdybym miał rożnami
+Tysiąc szatanów i z świstem wpadł na nie!
+
+
+EDGAR
+
+Zły duch w krzyże mnie kąsa.
+
+
+BŁAZEN
+
+Szalony to człowiek, co ufa ugłaskaniu wilka, zdrowiu konia, miłości dziecka lub przysiędze ladacznicy.
+
+
+KRÓL LEAR
+
+Tak jest; natychmiast oskarżyć je muszę.
+Do Edgara:
+Chodź, usiądź tutaj, ty przemądry sędzio;
+Do Błazna:
+A ty, uczony panie, siadaj tutaj.
+Wy zaś, lisice —
+
+
+EDGAR
+
+                        Jak oczyma strzyże!
+Czy sędziów uwieść pragniesz, mościa pani?
+Do mnie, Bessy, po głębinie.
+
+
+BŁAZEN
+
+Lecz szczelina jest w jej łodzi,
+A wyznać się jej nie godzi,
+Czemu do ciebie nie płynie.
+
+
+EDGAR
+
+Czarny duch nawiedza biednego Tomka w głosie słowika. Hołupnik krzyczy w Tomka brzuchu o dwa białe śledzie. Nie kracz, czarny aniele! Nie mam dla ciebie strawy.
+
+
+KENT
+
+O nie stój, panie, w takim osłupieniu!
+Czy nie chcesz na tym wypocząć wezgłowiu?
+
+
+KRÓL LEAR
+
+Chcę wprzód zobaczyć sąd ich. Gdzie świadkowie?
+Do Edgara:
+Ty, gronostajny sędzio, zabierz miejsce.
+Do Błazna:
+A ty siądź przy nim, jego towarzyszu.
+Do Kenta:
+Ty zaś dodany jesteś do kompletu.
+
+
+EDGAR
+
+Sądźmy sprawiedliwie!
+Czy śpisz, czy czuwasz piękny mój pasterzu?
+Twoje owce wlazły w zboże;
+Jedno świstnienie twoich pięknych ustek
+Twą trzodę ocalić może.
+Pur! To kot czarny.
+
+
+KRÓL LEAR
+
+Sądźcie tę najpierwej; to Goneril. Składam pod przysięgą przed tym dostojnym trybunałem, że wygnała biednego króla, swojego ojca.
+
+
+BŁAZEN
+
+Zbliż się, mościa pani. Imię twoje Goneril?
+
+
+KRÓL LEAR
+
+Nie może temu zaprzeczyć.
+
+
+BŁAZEN
+
+Przebacz, proszę; wziąłem cię za stołek.
+
+
+KRÓL LEAR
+
+A to jest druga, ukośne spojrzenie
+Dowodzi jasno, jakie jest jej serce.
+Ucieka! Trzymaj! Do broni! Do broni!
+Do trybunału wkradło się przekupstwo!
+Fałszywy sędzio, czemuś dał jej uciec?
+
+
+EDGAR
+
+Błogosław Panie twoim pięciu zmysłom!
+
+
+KENT
+
+Boże! — Gdzie teraz, panie, twa cierpliwość,
+Z której się często tak dumnie chełpiłeś?
+
+
+EDGAR
+
+/ na stronie: /
+
+Łzy me ku jego tak stronie się chylą,
+Że zdolne zdradzić moje są przebranie.
+
+
+KRÓL LEAR
+
+I małe pieski, i cała ta sfora,
+Białek i Miłka, patrz, szczekają na mnie!
+
+
+EDGAR
+
+Tomek im swą głową rzuci.
+Precz stąd, kundle!
+Czarna czy biała twa gęba,
+Czy trucizna cieknie z zęba,
+Bonończyk czy brytan srogi,
+Chart czy jamnik krzywonogi,
+Ogar, wyżeł czy pijawka,
+Będzie skomlał — ma to sprawka,
+Gdy mą głowę cisnę na nie,
+Śladu po nich nie zostanie.
+
+Do de, do de. Sessa! Dalej, śpieszmy na wieczernice, jarmarki i targi! Biedny Tomku, pusto na twojej miseczce.
+
+
+KRÓL LEAR
+
+Anatomizujcie Reganę; zobaczcie, co jest w jej sercu. Czy jest w naturze jaka siła, która kształtuje te twarde serca? Do Edgara: Ciebie, panie, biorę na jednego z moich stu rycerzy; tylko mi się nie podoba krój twojego stroju; powiesz mi, że to ubiór perski? Zmień go przecie.
+
+
+KENT
+
+Teraz, mój panie, spocznij tu na chwilę.
+
+
+KRÓL LEAR
+
+Nie róbcie hałasu, nie róbcie hałasu; zasuńcie firanki. Tak, tak! Pójdziemy wieczerzać z porankiem.
+
+
+BŁAZEN
+
+A ja pójdę do łóżka o południu.
+
+/ Wraca Gloucester. /
+
+
+GLOUCESTER
+
+Mów, przyjacielu, gdzie jest król a pan mój?
+
+
+KENT
+
+Tu, lecz go nie budź, rozum mu się zbłąkał.
+
+
+GLOUCESTER
+
+Na twych go rękach unieś, przyjacielu,
+Bom tu na życie jego odkrył spisek.
+Czeka przed drzwiami gotowa lektyka,
+Nieś go do Dover, a tam, przyjacielu,
+Znajdziesz przyjęcie dobre i opiekę.
+Śpiesz się, bo jeśli stracisz pół godziny,
+Jego i twoja, i jego obrońców
+Śmierć niezawodna. Unieś go natychmiast,
+A ja ci drogę ratunku pokażę.
+
+
+KENT
+
+Znękana bólem śpi teraz natura.
+Sen będzie może balsamem twych zmysłów,
+Które uleczyć trudniej może będzie,
+Gdy raz sposobna przeminie godzina.
+Do Błazna:
+I ty nam pomóż twego unieść pana,
+Nie możesz zostać tutaj.
+
+
+GLOUCESTER
+
+                        Dalej w drogę!
+
+/ Wychodzą: Kent, Gloucester i Błazen, unosząc króla Leara. /
+
+
+EDGAR
+
+Gdy lepsi od nas razem cierpią z nami,
+Ciosy boleści mniej czujemy sami;
+Najboleśniejsze samotne są płacze,
+Gdy wszystko wkoło śmieje się i skacze;
+Łatwiej tam dusza skargi swe uciszy,
+Gdzie widzi smutków swoich towarzyszy;
+Trosk własnych brzemię jak cięży mi mało,
+Kiedy pod równym gnie się króla ciało!
+Ojciec mój dla mnie, czym dla niego dzieci.
+Uciekaj, Tomku, a gdy dzień zaświeci,
+W którym potwarcze zbić potrafisz słowo,
+Wystąp i z światłem pogódź się na nowo.
+W tej strasznej nocy niech się co chce stanie,
+Byle się tylko król mógł uratować!
+Więc baczność! Baczność!
+
+/ Wychodzi. /
+
+
+
+SCENA VII
+
+/ Sala w zamku Gloucestera. /
+
+/ Wchodzą: Cornwall, Regan, Goneril, Edmund i Służba. /
+
+
+CORNWALL
+
+Wracaj co prędzej do milorda, twojego małżonka; pokaż mu ten list. Armia francuska wylądowała. Szukajcie zdrajcy Gloucestera!
+
+/ Wychodzi kilku Sług. /
+
+
+REGAN
+
+Powieś go natychmiast!
+
+
+GONERIL
+
+Wyłup mu oczy!
+
+
+CORNWALL
+
+Zostawcie go mojemu gniewowi! — Edmundzie, zostań przy mojej siostrze. Pomsta, którą obowiązani jesteśmy dokonać na zdrajcy, twoim ojcu, nie jest to właściwy widok dla ciebie. Radź księciu, do którego się udajesz, aby się gotował z największym pośpiechem; my zrobimy to samo z naszej strony. Przez szybkich posłańców należy nam w ciągłym być porozumieniu. Bądź zdrowa, droga siostro! Żegnam cię, lordzie Gloucesterze! Wchodzi Oswald. Co nowego? Gdzie król?
+
+
+OSWALD
+
+Króla stąd milord Gloucester uprowadził.
+Trzydziestu pięciu lub sześciu rycerzy
+Zdołali w końcu przy bramach go znaleźć,
+Z pomocą kilku lorda domowników,
+Z królem do Dover ciągną, gdzie, jak mówią,
+Znajdą gotowych zbrojnych przyjacieli.
+
+
+CORNWALL
+
+Dla twojej pani idź konie przygotuj!
+
+
+GONERIL
+
+Bądź zdrów, milordzie, i ty, droga siostro!
+
+/ Wychodzą: Goneril i Edmund. /
+
+
+CORNWALL
+
+Bądź zdrów, Edmundzie! Szukajcie Gloucestera,
+Stawcie go tutaj w dybach jak złodzieja.
+Wychodzi kilku Służących.
+Choć mi nie wolno życia mu odbierać
+Bez formy sądu, władza ma dość wielka,
+Abym potrafił zemstę mą nasycić,
+Ludzie mnie mogą ganić, lecz nie wstrzymać.
+Kto tam? A, zdrajca?
+
+/ Wchodzą Słudzy z Gloucesterem. /
+
+
+REGAN
+
+                        To on, lis niewdzięczny!
+
+
+CORNWALL
+
+Zwiążcie mu ręce!
+
+
+GLOUCESTER
+
+                        Dobrzy przyjaciele,
+Zważcie, że gośćmi jesteście moimi,
+Tak wielkiej krzywdy nie róbcie mi, proszę!
+
+
+CORNWALL
+
+Zwiążcie go, mówię!
+
+/ Słudzy wiążą go. /
+
+
+REGAN
+
+                        Silniej! Szpetny zdrajco!
+
+
+GLOUCESTER
+
+Niemiłosierną jesteś dla mnie panią,
+Lecz ja nie jestem zdrajcą.
+
+
+CORNWALL
+
+                        Do tej ławy
+Przywiążcie zdrajcę! Zobaczysz, nędzniku —
+
+/ Regan szarpie go za brodę. /
+
+
+GLOUCESTER
+
+Jak czyn niegodny szarpać moją brodę!
+
+
+REGAN
+
+Jak biała broda, a on taki zdrajca!
+
+
+GLOUCESTER
+
+Okrutna pani, włosy twoją ręką
+Z mej siwej brody wydarte ożyją,
+By cię oskarżyć! Jestem wasz gospodarz,
+Jakże śmiesz ręką kalać rozbójniczą
+Twarz mą gościnną? Powiedz, czego chcecie?
+
+
+CORNWALL
+
+Mów, co za listy odebrałeś z Francji?
+
+
+REGAN
+
+Mów tylko szczerze, wiemy bowiem prawdę.
+
+
+CORNWALL
+
+Jakie przymierze z zdrajcami zawarłeś,
+Którzy na brzegach tych wylądowali?
+
+
+REGAN
+
+Gdzie wyprawiłeś króla lunatyka?
+Mów!
+
+
+GLOUCESTER
+
+                        Odebrałem list pełny przypuszczeń,
+List napisany ręką neutralną,
+Nie wrogą.
+
+
+CORNWALL
+
+                        Wykręt!
+
+
+REGAN
+
+                        A wykręt kłamliwy.
+
+
+CORNWALL
+
+Gdzieś wysłał króla?
+
+
+GLOUCESTER
+
+                        Do Dover.
+
+
+REGAN
+
+                        Dlaczego?
+Czyś nie odebrał rozkazu pod karą —
+
+
+CORNWALL
+
+Czemu do Dover? Niech na to odpowie!
+
+
+GLOUCESTER
+
+Do pnia związany muszę hece znosić!
+
+
+REGAN
+
+Czemu do Dover?
+
+
+GLOUCESTER
+
+                        Bo nie chciałem widzieć
+Ócz jego starych wydartych okrutnie
+Twymi palcami i twej srogiej siostry,
+Topiącej pazur w ciele pomazańca.
+Morze, śród burzy, którą z gołą głową
+W piekielnych nocy wytrzymał ciemnościach,
+Morze by samo wzdęło się, by zgasić
+Gwiazd wieczny ogień; przecie, biedny starzec,
+Łzami niebieską powiększał ulewę.
+Gdyby wilk przy twej bramie w taką porę
+Zawył, do twego rzekłabyś klucznika:
+Idź, otwórz wrota! Bo w całej naturze
+Miękły z litości i najtwardsze serca,
+Oprócz waszego. Lecz skrzydlatą zemstę
+Ujrzę na takie spadającą dzieci!
+
+
+CORNWALL
+
+Nie ujrzysz nigdy! Przytrzymajcie ławę!
+Na twoich oczach postawię mą nogę.
+
+
+GLOUCESTER
+
+Niech mi na pomoc pospieszy, kto pragnie
+Lat starych dożyć! Okrutny! O Boże!
+
+
+REGAN
+
+Jedna by strona urągała drugiej,
+Więc drugie teraz!
+
+
+CORNWALL
+
+                        Jeśli ujrzysz zemstę —
+
+
+SŁUGA
+
+Wstrzymaj się, panie! Od dziecka ci służę,
+Alem ci nigdy nie usłużył lepiej
+Jak teraz, twoją zatrzymując rękę.
+
+
+REGAN
+
+A, ty psie podły!
+
+
+SŁUGA
+
+                        Gdybyś miała brodę,
+Za takie słowa dobrze bym nią trząsnął!
+Co chcesz?
+
+
+CORNWALL
+
+                        Mój sługa!
+Dobywa oręża i rzuca się na niego.
+
+
+
+SŁUGA
+
+                        Jeśli twoja wola
+Zbliż się, wytrzymaj próbę mej wściekłości!
+
+/ Dobywa oręża — walczą — Cornwall ranny. /
+
+
+REGAN
+
+/ do innego sługi: /
+
+Daj mi twój oręż! Chłop, stawiać nam czoło!
+
+/ Wydziera oręż, zbliża się z tyłu i przebija go. /
+
+
+SŁUGA
+
+Zginąłem! Lordzie! Zostało ci oko,
+Byś widział jego upadek. Umieram!
+
+/ Umiera. /
+
+
+CORNWALL
+
+Jest sposób, aby nie zobaczył więcej.
+Precz galareto podła! A gdzie teraz
+Blask się twój podział?
+
+
+GLOUCESTER
+
+                        Noc straszna! Noc wieczna!
+Gdzie syn mój Edmund? Edmundzie, w twej duszy
+Wszystkie natury roznieć teraz iskry,
+By czyn okrutny ten pomścić!
+
+
+REGAN
+
+                        Ha, zdrajco!
+Wołasz na tego, co cię nienawidzi;
+On nam o zdradzie twojej dał wiadomość,
+Zbyt dobry, by się litować nad tobą.
+
+
+GLOUCESTER
+
+O, ja szalony! Edgar był spotwarzon!
+Przebacz mi, Boże, a jemu błogosław!
+
+
+REGAN
+
+Rzućcie go za drzwi, niechaj sobie wietrzy
+Drogę do Dover! — Jak ci jest, milordzie?
+
+
+CORNWALL
+
+Jestem raniony. Oddalmy się, pani.
+Ślepego zdrajcę wygońcie co prędzej,
+Na gnój mi tego rzućcie niewolnika!
+Czuję, Regano, że mnie krew uchodzi;
+W niedobrą porę przyszła mi ta rana.
+Podaj mi rękę.
+
+/ Wychodzi Cornwall, prowadzony przez Reganę. — Słudzy odwiązują i wyprowadzają Gloucestera. /
+
+
+1 STRÓŻ
+
+                        Na wszystko się ważę,
+Jeśli on dobrze skończy.
+
+
+2 SŁUGA
+
+                        Jeśli ona
+Żyć długo będzie, jeśli się doczeka
+W podeszłych latach zwykłej starcom śmierci,
+Wszystkie kobiety zmienią się w potwory.
+
+
+1 STRÓŻ
+
+Idźmy za hrabią, skłońmy Bedlamczyka,
+By go prowadził, gdzie zechce; na wszystko
+Gotowe jego hultajskie szaleństwo.
+
+
+2 SŁUGA
+
+Idź ty, ja pójdę po płótno i białko,
+By je przyłożyć na skrwawione oczy.
+Bądź mu pomocą, miłosierny Boże!
+
+/ Wychodzą. /
+
+
+
+
+AKT CZWARTY
+
+
+
+SCENA I
+
+/ Otwarte pole. /
+
+/ Wchodzi Edgar. /
+
+
+EDGAR
+
+Lepiej wzgardzonym być, a wiedzieć o tym,
+Niż być wzgardzonym, a słuchać pochlebstwa.
+Ostatni żebrak przez losy deptany
+Bez trwogi żyje, karmi się nadzieją;
+Tylko szczęśliwy blednie na myśl zmiany,
+Zmiana przynosi uśmiech nędzarzowi.
+Czcze więc powietrze, które ściskam, witaj!
+Nędzarz, któregoś w przepaść cierpień wwiało,
+Nic ci nie winien. Lecz któż się to zbliża?
+Wchodzi Gloucester prowadzony przez Starca.
+Mój ojciec, a w tak ubogim orszaku?
+O świecie, gdyby dziwne twe przemiany
+Wstrętu ku tobie w nas nie rozbudzały,
+Z życiem by rozstać nie chciała się starość!
+
+
+STARZEC
+
+Dobry mój panie, byłem twoim lennikiem i lennikiem twojego ojca przez te lat osiemdziesiąt.
+
+
+GLOUCESTER
+
+Opuść mnie, odejdź, dobry przyjacielu,
+Twoja mi pomoc na nic się nie przyda,
+A tobie może zaszkodzić.
+
+
+STARZEC
+
+                        Nie możesz
+Twej drogi widzieć.
+
+
+GLOUCESTER
+
+                        Nie ma dla mnie drogi,
+A więc i żadnych nie trzeba mi oczu.
+Widząc, upadłem; ach, bo jakże często
+Zawodem dla nas to, co posiadamy,
+A wybawieniem nasze niedostatki!
+Drogi mój synu Edgarze! Ofiaro
+Oszukanego rodzica wściekłości!
+Gdybym choć tchnieniem zobaczyć cię dożył,
+Rzekłbym, że moje wrócone mi oczy.
+
+
+STARZEC
+
+Kto tam?
+
+
+EDGAR
+
+/ na stronie: /
+
+                        O bogi, kto może powiedzieć:
+Teraz już ze mną nie może być gorzej?
+Mnie teraz gorzej, niźli było kiedy.
+
+
+STARZEC
+
+To biedny Tomek.
+
+
+EDGAR
+
+/ na stronie: /
+
+                        A może być gorzej.
+Nie jest najgorzej, póki możem mówić:
+To jest najgorzej.
+
+
+STARZEC
+
+                        Gdzie idziesz, kamracie?
+
+
+GLOUCESTER
+
+Czy to jest żebrak?
+
+
+STARZEC
+
+                        Żebrak i szalony.
+
+
+GLOUCESTER
+
+Ma trochę zmysłu, skoro żebrać może.
+Widziałem jemu podobne stworzenie
+W ostatniej burzy; człowiek jest robakiem,
+Wyrzekłem w duchu; syn na myśl mi przyszedł,
+Choć myśl ma wtedy nie była mu skłonną.
+Wiele się rzeczy później dowiedziałem.
+Jesteśmy bogom, czym są muchy dzieciom,
+I dla zabawy swej nas zabijają.
+
+
+EDGAR
+
+/ na stronie: /
+
+Co tutaj począć, liche to rzemiosło
+W obliczu smutku udawać szaleństwo,
+I siebie dręczyć, i drugich zasmucać.
+Głośno. Witam cię, panie!
+
+
+GLOUCESTER
+
+                        Czy to nagi żebrak?
+
+
+STARZEC
+
+To on.
+
+
+GLOUCESTER
+
+                        Idź. Jeśli zechcesz nas dogonić
+O jaką milę na drodze do Dover,
+Przez pamięć starej uczyń to przyjaźni,
+Przynieś odziewek dla tego łazarza,
+A on tymczasem na mą będzie prośbę
+Mym przewodnikiem.
+
+
+STARZEC
+
+                        Panie, on szalony.
+
+
+GLOUCESTER
+
+Czasów to naszych klątwa, że ślepego
+Wiedzie szalony. Zrób, o co cię proszę,
+Albo zrób raczej, co ci się podoba,
+Oddal się tylko.
+
+
+STARZEC
+
+                        Co mam najlepszego
+Chętnie przyniosę, niech się co chce stanie.
+
+/ Wychodzi. /
+
+
+GLOUCESTER
+
+Hola, łazarzu!
+
+
+EDGAR
+
+                        Zimno jest Tomkowi!
+Na stronie. Nie zdołam dłużej!
+
+
+GLOUCESTER
+
+                        Przyliż się, kamracie.
+
+
+EDGAR
+
+/ na stronie: /
+
+A muszę jednak. Głośno. Niech Bóg błogosławi
+Słodkim źrenicom twoim zakrwawionym!
+
+
+GLOUCESTER
+
+Czy znasz drogę do Dover?
+
+
+EDGAR
+
+Wszystkie rogatki i bramy, gościńce i ścieżki. Strach wygonił rozum z głowy biednego Tomka. Niech cię Bóg strzeże, uczciwcze, od złego ducha. Pięciu diabłów wprowadziło się naraz do biednego Tomka; diabeł rozpusty Obidicut; Hobbididance, książę niemoty; Mahu, kradzieży; Modo, mężobójstwa; Flibbertigibbet, grymasów i wydrzeźniań, który teraz opętał pokojówki i garderobiane. Niechże ci więc Bóg błogosławi, paneczku!
+
+
+GLOUCESTER
+
+Weź tę sakiewkę. Gdy cię niebios wola
+Na losów chłostę wydała okrutną,
+Moja niedola szczęściem twoim będzie.
+Spraw, spraw, o Boże, by tak zawsze było!
+Opływający w zbytki niech rozpustnik,
+Co z twych praw szydzi, który nie chce widzieć,
+Nie czuje bowiem, pozna twą potęgę,
+A dostatkami swymi się podzieli,
+I każdy znajdzie, ile mu potrzeba.
+Znasz Dovr?
+
+
+EDGAR
+
+                        Znam, panie.
+
+
+GLOUCESTER
+
+
+
+
+                        Jest przy mieście skała
+Na przepaść u swych stóp spoglądająca,
+Tylko na krawędź skały tej mnie wprowadź,
+A ja obecnej ulżę twojej nędzy
+Kosztownościami, które mam przy sobie;
+Stamtąd przewodnik już mi niepotrzebny.
+
+
+EDGAR
+
+Daj rękę. Biedny powiedzie cię Tomek.
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Przed pałacem księcia Albany. /
+
+/ Wchodzą: Goneril i Edmund, Oswald spotyka się z nimi. /
+
+
+GONERIL
+
+Witaj, milordzie! Dziwna, że nie wyszedł
+Mąż mój łaskawy na spotkanie nasze.
+Gdzie pan twój?
+
+
+OSWALD
+
+                        W zamku; ale jak zmieniony!
+Gdy mu o armii najezdnej mówiłem,
+Rozśmiał się; słysząc o waszym przybyciu,
+Odrzekł «tym gorzej», o zdradzie Glocestera
+I o lojalnej służbie jego syna,
+Głupcem mnie nazwał, dodał, żem przewrócił
+Nice na lice; zdaje się radować
+Z wypadków, które smucić go powinny,
+A opłakiwać wszystko, co pomyślne.
+
+
+GONERIL
+
+/ do Edmunda: /
+
+Więc nie idź dalej! Duch jego lękliwy
+Nie śmie przedsięwziąć, nie chce krzywdy uznać,
+Która o pomstę woła, i być może,
+Że nasze w drodze poczęte życzenia
+Sprawdzą się tutaj. Wróć do mego brata,
+Przyśpiesz zaciągi i stań na ich czele.
+Ja muszę w domu przemienić nazwiska
+I kądziel złożyć w męża mego dłonie.
+Ten wierny sługa będzie naszym posłem.
+Wkrótce odbierzesz damy twej rozkazy,
+Jeśli masz serce sprawie służyć własnej.
+Daje mu kokardę:
+Przypnij to godło! Szczędź słów! Uchyl głowę!
+Ten pocałunek, gdyby śmiał przemówić,
+Uniósłby ducha twojego do niebios.
+Zrozum mnie; żegnaj!
+
+
+EDMUND
+
+                        Jestem twym do śmierci!
+
+
+GONERIL
+
+Drogi Gloucesterze!
+Wychodzi Edmund.
+                        O jakże odmienny
+Mąż jest od męża! Tobie się należy
+Kobiety służba; głupiec ma me ciało.
+
+
+OSWALD
+
+Książę się zbliża.
+
+/ Wychodzi. — Wchodzi Albany. /
+
+
+GONERIL
+
+                        Wartam była świstu.
+
+
+ALBANY
+
+Nie jesteś warta pyłu, o Goneril,
+Który wiatr miota na twoje oblicze!
+Twój mnie charakter straszy, bo natura,
+Która swym własnym pogardziła szczepem,
+Trudno, by w pewnych trzymała się karbach.
+Gałąź rodzimy sok odpychająca,
+Musi uwiędnąć i śmierci dojść kresów.
+
+
+GONERIL
+
+Skończ, bo niemądry tekst twego kazania!
+
+
+ALBANY
+
+Mądrość i dobroć podłe są dla podłych;
+Zgnilizna tylko smakuje w gniliźnie.
+Co wy zrobiły, tygrzyce nie córki?
+Wy ojca, starca pełnego dobroci,
+Którego stopy i niedźwiedź by lizał,
+Wy do szaleństwa przywiodły, wyrodne!
+Jak mógł pozwolić na to brat mój, książę,
+Dobrodziejstwami jego obsypany?
+Jeżeli niebo nie ześle na ziemię
+Widomych duchów, by grzechy te pomścić,
+To przyjdą czasy, w których ludzie wzajem
+Jak mórz potwory będą się pożerać!
+
+
+GONERIL
+
+Z mleka jest twoja wątroba, człowieku.
+Sam swe policzki na ciosy podstawiasz,
+I nie masz oczu, byś zdołał rozróżnić
+Honor od hańby. Nie, ty tego nie wiesz,
+Że tylko głupcy czują w sercu litość
+Dla tych nędzników, co przyjmują chłostę,
+Zanim się jeszcze złego dopuścili!
+Gdzie twoje bębny? Francuz już rozwinął
+Na tej spokojnej wyspie swe chorągwie;
+Zbójca ci grozi hełmu swego piórem,
+A ty, pobożny głupcze, cicho siedzisz
+I płacząc, pytasz, czemu on to robi?
+
+
+ALBANY
+
+Spojrzyj na siebie, okrutna diablico,
+Szpetność mniej szpetną zdaje się w szatanie
+Niż w złej kobiecie!
+
+
+GONERIL
+
+                        O ty, pusty głupcze!
+
+
+ALBANY
+
+Ofiaro własnej hańby dobrowolna,
+Nie kaź twych rysów taką potwornością!
+Gdybym był zdolny dłoniom tym nakazać
+Krwi posłuszeństwo mojej, sam bym teraz
+Na części szarpał ciało twe i kości,
+Ale choć jesteś wcielonym szatanem,
+Tarczą jest twoją kobieca twa postać!
+
+
+GONERIL
+
+Co za odwaga!
+
+/ Wchodzi Posłaniec. /
+
+
+ALBANY
+
+                        Jaką wieść przynosisz?
+
+
+POSŁANIEC
+
+Ach, dobry panie, książę Cornwall skonał.
+Zabił go własny sługa, gdy zamierzał
+Z Gloucestera głowy drugie wyrwać oko.
+
+
+ALBANY
+
+Gloucestera oczy!
+
+
+POSŁANIEC
+
+                        Tknięty miłosierdziem,
+Sługa od dziecka u niego chowany,
+Chciał go zatrzymać i na swego pana
+Wymierzył oręż; książę, gniewem wściekły,
+Jednym go cięciem u nóg swych powalił,
+Lecz sam był ranny i z rany tej umarł.
+
+
+ALBANY
+
+Więc jest tam w górze jeszcze sprawiedliwość,
+Spiesznie karcąca ziemskie nasze zbrodnie!
+Więc biedny Gloucester jedno stracił oko?
+
+
+POSŁANIEC
+
+Ach, stracił oba! Oto pismo, pani,
+Które wymaga śpiesznej odpowiedzi;
+To list twej siostry.
+
+
+GONERIL
+
+/ na stronie: /
+
+                        Rzecz pod pewnym względem
+Jest po mej myśli: ale, gdy mój Gloucester
+Jest przy mej siostrze teraz owdowiałej,
+Gmach mych nadziei może się obalić
+Na moją głowę. Zresztą, wieść jest dobra.
+Głośno.
+List ten przeczytam i wyślę odpowiedź.
+
+/ Wychodzi. /
+
+
+ALBANY
+
+Gdzie był syn, gdy mu wydzierano oczy?
+
+
+POSŁANIEC
+
+Tu z panią dążył.
+
+
+ALBANY
+
+                        Tu jednak nie przybył.
+
+
+POSŁANIEC
+
+Gdy wracał, panie, spotkałem go w drodze.
+
+
+ALBANY
+
+Czy wie on o tym?
+
+
+POSŁANIEC
+
+                        Wie o wszystkim, panie.
+On go oskarżył, a zamek opuścił,
+Aby ich zemście pełną dać swobodę.
+
+
+ALBANY
+
+Żyję, Gloucesterze, by ci podziękować
+Za twoją wierność dla twojego króla,
+Oczy twe pomścić! Idźmy, przyjacielu,
+Abyś mi wszystko, co wiesz, opowiedział.
+
+/ Wychodzą. /
+
+
+
+SCENA III
+
+/ Obóz francuski w bliskości Dover. /
+
+/ Wchodzą: Kent i Dworzanin. /
+
+
+KENT
+
+Czy wiesz, dla jakich powodów król francuski tak śpiesznie do swojego kraju powrócił?
+
+
+DWORZANIN
+
+Zostawił jakąś ważną sprawę w zawieszeniu, a która po jego tu przybyciu groziła królestwu tak wielkim niebezpieczeństwem, że przytomność jego osobista stała się koniecznością.
+
+
+KENT
+
+Komu zostawił dowództwo?
+
+
+DWORZANIN
+
+Marszałkowi Francji Monsieur La Far.
+
+
+KENT
+
+Czy listy, które wręczyłeś, wyrwały z ust królowej jakie oznaki boleści?
+
+
+DWORZANIN
+
+W mej przytomności odczytała listy,
+A w jej źrenicach od czasu do czasu
+Łzy się kręciły, była jednak panią
+Swego uczucia, które, zbuntowane,
+Pragnęło nad jej istnością królować.
+
+
+KENT
+
+Była wzruszoną?
+
+
+DWORZANIN
+
+                        Ale nie do gniewu.
+Cierpliwość wojnę ze smutkiem toczyła,
+Kto jej obliczu piękniejszy da wyraz.
+Widziałeś panie, deszcz i słońce razem?
+Taki wdzięk miały łzy jej i uśmiechy,
+Słodkie uśmiechy, które na jej ustach,
+Zdały się igrać, jakby nie wiedziały,
+Jacy z jej źrenic wypadali goście,
+Niby sznur pereł z jasnych dyjamentów.
+Smutek najmilszą stałby się rzadkością,
+Gdyby tak każdej przystać mógł niewieście.
+
+
+KENT
+
+Czy nic nie rzekła?
+
+
+DWORZANIN
+
+                        Raz albo dwa razy
+Z cichym westchnieniem wyszepnęła: ojcze!
+Jakby ten wyraz na sercu jej ciężał.
+«O siostry, siostry! Hańbo kobiet, siostry!
+Kent! Ojcze! Siostry! Co? W nocy? Śród burzy?
+Niech odtąd w ludzką litość nikt nie wierzy!»
+Gdy tak mówiła, z niebieskich swych źrenic
+Obfite strugi świętych łez strząsała
+Na swoje łkania i w końcu wybiegła,
+By sama swojej oddać się boleści.
+
+
+KENT
+
+Gwiazdy kształtują ludzkich serc naturę;
+Jakby z jednego ojca, jednej matki
+Mogły tak różne puścić latorośle?
+Nie rozmawiałeś z nią później?
+
+
+DWORZANIN
+
+                        Nie, panie.
+
+
+KENT
+
+Czy się to działo przed powrotem króla?
+
+
+DWORZANIN
+
+Nie, panie, później.
+
+
+KENT
+
+                        Biedny Lear jest w mieście,
+Czasami jasno sobie przypomina,
+Co nas tu wiodło, ale żadną miarą
+Nie chce swej córki widzieć.
+
+
+DWORZANIN
+
+                        A dlaczego?
+
+
+KENT
+
+Dręczony wstydem, gdy sobie przypomni,
+Jak jej odmówił swoich błogosławieństw,
+Przytułku szukać śród obcych przymusił,
+A wszystkie prawa jej okrutnie przelał
+Na dwie jej siostry z wilczym w piersiach sercem;
+Taka zgryzota zatruła mu duszę,
+Że wstydem płonąc, unika Kordelii.
+
+
+DWORZANIN
+
+O nieszczęśliwy!
+
+
+KENT
+
+                        Czy masz wiadomości
+O ruchach książąt Cornwall i Albany?
+
+
+DWORZANIN
+
+Ciągną tu z wojskiem.
+
+
+KENT
+
+                        Powiodę cię teraz
+I króla Leara straży twej poruczę.
+Ważne powody jeszcze mnie zmuszają
+Na dłużej w moim ukryciu pozostać;
+Lecz gdy mnie poznasz, nie będziesz żałował,
+Żeś mi te ważne przyniósł wiadomości.
+A teraz, panie, racz mi towarzyszyć.
+
+/ Wychodzą. /
+
+
+
+SCENA IV
+
+/ Obóz francuski w bliskości Dover. Namiot. /
+
+/ Wchodzą: Kordelia, Doktor i Żołnierze. /
+
+
+KORDELIA
+
+Ach, to on! Właśnie spotkano go teraz,
+Gdy głośno śpiewał, szalony jak morze,
+W wianku dymnicy, łopianu, szaleju,
+Pokrzyw, kąkolu i ze wszystkich chwastów
+Rosnących w zboża polu życiodajnym.
+Wypraw setnika, niech badawczą nogą
+Przebieży niwy bujnie zarośnięte,
+Niech go przywiedzie. Wychodzi Oficer. Zdołaż ludzka mądrość
+Wrócić mu znowu rozum obłąkany?
+Kto mu pomoże, wszystko, co mam, weźmie.
+
+
+DOKTOR
+
+Jest jeszcze, pani, nadzieja ratunku.
+Mamką natury naszej jest spoczynek;
+Snu mu potrzeba; by mu sen sprowadzić,
+Mamy lekarstwa, których wpływ potężny
+Samej boleści zamknąć mógłby oczy.
+
+
+KORDELIA
+
+Błogosławione wszystkie cnoty ziemi,
+Dotąd ukryte, pod łez moich rosą
+Na świat wystrzelcie i bądźcie lekarstwem
+Nieszczęśliwego starca obłąkaniu!
+Idźcie go szukać lub szalona wściekłość
+Bez przewodnika żywot jego strzaska.
+
+/ Wchodzi Posłaniec. /
+
+
+POSŁANIEC
+
+Przynoszę wieści. Brytańskie zaciągi
+W tę śpieszą stronę.
+
+
+KORDELIA
+
+                        Już nam to wiadomo;
+Na ich przyjęcie wszystko tu gotowe.
+O, drogi ojcze, w twojej sprawie walczę!
+Wielki król Francji zlitować się raczył
+Nad mą żałobą, nad moimi łzami.
+Broń nam podaje nie pycha nadęta,
+Lecz święta miłość i prawa ojcowskie.
+Ach, kiedyż ujrzę, kiedyż go usłyszę?
+
+/ Wychodzą. /
+
+
+
+SCENA V
+
+/ Izba w zamku Gloucestera. /
+
+/ Wchodzą: Regan i Oswald. /
+
+
+REGAN
+
+Czy wyruszyły brata mego wojska?
+
+
+OSWALD
+
+Od dawna, pani.
+
+
+REGAN
+
+                        A on na ich czele?
+
+
+OSWALD
+
+Z wielką niechęcią. Z siostry twojej, pani,
+Lepszy jest żołnierz.
+
+
+REGAN
+
+                        Czy w zamku, z twym panem
+Lord Edmund nie miał tajemnej rozmowy?
+
+
+OSWALD
+
+Nie.
+
+
+REGAN
+
+                        Jakie może zawierać sekreta
+List jej do niego?
+
+
+OSWALD
+
+                        Nie umiem powiedzieć.
+
+
+REGAN
+
+W ważnych on sprawach tak nagle odjechał.
+Wielkim to było błędem Gloucesterowi
+Zostawić życie po wydarciu oczu;
+Gdzie się pokaże, przeciw nam buntuje,
+Serca mieszkańców. Edmund, jak przypuszczam,
+Pobiegł, z litości nad jego niedolą,
+Dać koniec życiu bez światła, a razem
+Powziąć języka o wrogów zastępach.
+
+
+OSWALD
+
+Z mym listem muszę śpieszyć za nim, pani.
+
+
+REGAN
+
+Jutro wyruszysz razem z naszym wojskiem,
+Dziś zostań; drogi zbyt są niebezpieczne.
+
+
+OSWALD
+
+Nie mogę, pośpiech nakazała pani.
+
+
+REGAN
+
+Ale dlaczego pisze do Edmunda?
+Czy ci nie mogła ustnych dać poleceń?
+Zapewne, nie wiem dla jakich powodów —
+Wdzięczną ci będę, jeśli mi pozwolisz
+List ten otworzyć.
+
+
+OSWALD
+
+                        Pani, wolę raczej —
+
+
+REGAN
+
+Wiem i zupełnie jestem tego pewna,
+Że swego męża pani twa nie kocha,
+Bo, gdy ostatnią była tutaj razą,
+Dziwnie wymowne ciskała spojrzenia
+Na szlachetnego Edmunda; wiem także,
+Że powiernikiem jesteś jej.
+
+
+OSWALD
+
+                        Ja, pani?
+
+
+REGAN
+
+Ty, a nie mówię tego bez przyczyny.
+Korzystaj przeto z rady, którą daję.
+Mąż mój nie żyje; są pewne układy
+Między Edmundem a mną; z wielu względów
+Właściwsze jego ze mną jest małżeństwo
+Niż z nią; sam łatwo reszty się domyślisz.
+Jeśli go znajdziesz, oddaj mu ten pierścień.
+Daje mu pierścień.
+A gdy to wszystko pani twej opowiesz,
+Radź, niech przywoła swój rozum na pomoc.
+Bądź zdrów! Jeżeli usłyszysz przypadkiem
+O ślepym zdrajcy, ogłoś, że sowitą
+Otrzyma płacę mąż, który go sprzątnie.
+
+
+OSWALD
+
+Jakżebym pragnął sam go spotkać, pani,
+By złożyć dowód, z którą trzymam stroną!
+
+
+REGAN
+
+Bądź zdrów!
+
+/ Wychodzą. /
+
+
+
+SCENA VI
+
+/ Okolica w bliskości Dover. /
+
+/ Wchodzą: Gloucester i Edgar przebrany za wieśniaka. /
+
+
+GLOUCESTER
+
+Kiedy wejdziemy na wierzchołek skały?
+
+
+EDGAR
+
+Pniemy się teraz, czujesz, jak mozolnie.
+
+
+GLOUCESTER
+
+Mnie by się zdało, że to jest równina.
+
+
+EDGAR
+
+Straszna spadzistość. Czy słyszysz ryk morza?
+
+
+GLOUCESTER
+
+Nie słyszę wcale.
+
+
+EDGAR
+
+                        To z twoich ócz stratą
+I reszty zmysłów omdlała potęga.
+
+
+GLOUCESTER
+
+Bardzo być może. I głos twój, mym zdaniem,
+Zmienił się także; we wszystkim, co mówisz,
+Lepsza jest teraz treść i wyrażenie.
+
+
+EDGAR
+
+Mylisz się; tylko ubranie zmieniłem.
+
+
+GLOUCESTER
+
+Zda mi się jednak, że mówisz poprawniej.
+
+
+EDGAR
+
+Oto szczyt skały; wstrzymaj twoje kroki.
+Głowa się kręci, patrząc w straszną przepaść.
+Wrony i kawki dołem szybujące
+Zdają się chrząszcze; na połowę drogi
+Zbieracz rozłupu huśta się na linie;
+Straszne rzemiosło! W takiej odległości,
+Od swojej głowy nie zdaje się większy.
+Na morskim brzegu wędrujący rybak
+Myszą się zdaje. Okręt na kotwicy
+Do swej szalupy skurczył się rozmiarów,
+Sama szalupa beczką się wydaje,
+Ledwo ją widać! Szum morskich bałwanów,
+Z gniewem chłoszczących nadbrzeżne kamyki,
+Do wysokości takiej nie dosięga.
+Odwracam oczy; w głowie mi się mąci,
+A wzrok niepewny pchnąłby mnie za chwilę
+W bezdenną przepaść.
+
+
+GLOUCESTER
+
+                        Staw mnie, gdzie sam stoisz.
+
+
+EDGAR
+
+Daj rękę; jesteś teraz od krawędzi
+Na jedną stopę. Nie chciałbym tam skoczyć
+Za skarby świata.
+
+
+GLOUCESTER
+
+                        Puść mi teraz rękę.
+Weź, przyjacielu, drugą tę sakiewkę,
+Znajdziesz tam klejnot godny rąk biedaka,
+Niech ci z nim szczęście Bóg i wróżki dadzą!
+Oddal się teraz; pożegnaj się ze mną.
+Niech twój chód słyszę.
+
+
+EDGAR
+
+                        Bądź zdrów, dobry panie!
+
+/ Zda się oddalać. /
+
+
+GLOUCESTER
+
+Dzięki ci!
+
+
+EDGAR
+
+                        Z jego igram tak rozpaczą,
+By ją uleczyć.
+
+
+GLOUCESTER
+
+                        Wszechmogące bogi,
+Świat ten opuszczam i w waszym obliczu
+Bez gniewu z moich cierpień się otrząsam!
+Gdybym mógł dłużej znosić je bez skargi
+Na waszą wolę nieprzezwyciężoną,
+Czekałbym chwili, w której sam by zagasł
+Knot lampy mego nędznego żywota.
+Waszej opiece polecam Edgara,
+Jeżeli żyje. Bądź zdrów, przyjacielu!
+
+
+EDGAR
+
+Żegnam cię, panie! Czas mi się oddalić.
+Gloucester skacze i upada.
+A przecie łatwo może wyobraźnia
+Skarb życia ukraść, jeśli samo życie
+Zezwala na tę kradzież dobrowolnie.
+Gdyby naprawdę tam był, gdzie być myślał,
+Już by go teraz wszelka myśl odbiegła.
+Żyw czy umarły? Ho, panie! Czy słyszysz?
+Ho, panie! Jak to, czy naprawdę skonał?
+Wraca do zmysłów. Kto ty jesteś, panie?
+
+
+GLOUCESTER
+
+Oddal się, pozwól umrzeć mi w pokoju.
+
+
+EDGAR
+
+Gdybyś był piórkiem, wiatrem, pajęczyną,
+Nie mógłbyś z takiej upaść wysokości
+Niepotrzaskany w kawałki jak jaje.
+Oddychasz przecie; ciało twoje ciężkie,
+A jednak całe; nie tracisz krwi, mówisz.
+Jeden na drugim i dzięsięć by masztów
+Nie sięgło szczytu, z którego upadłeś.
+Twe życie cudem; ale przemów jeszcze.
+
+
+GLOUCESTER
+
+Czym spadł naprawdę?
+
+
+EDGAR
+
+                        Z groźnego wierzchołka
+Wapiennej skały. Podnieś tylko oczy!
+Z tej odległości ucho nie dosłyszy,
+Nie dojrzy oko śpiewnego skowronka.
+Spójrz tylko w górę!
+
+
+GLOUCESTER
+
+                        Ach, ja nie mam oczu!
+Czyż nędzy zbywa i na tym ratunku,
+By koniec znaleźć w dobrowolnej śmierci?
+Nędzy pociechą było, kiedy mogła
+Oszukać wściekłość dumnego tyrana
+I zawieść woli jego mściwe plany.
+
+
+EDGAR
+
+Podaj mi rękę, wstań! Czy czujesz nogi?
+Widzę, że stoisz.
+
+
+GLOUCESTER
+
+                        Zbyt dobrze, zbyt dobrze!
+
+
+EDGAR
+
+To cud nad cudy! Na wierzchołku skały
+Kto był przy tobie?
+
+
+GLOUCESTER
+
+                        Ubogi był żebrak.
+
+
+EDGAR
+
+Gdym stąd spoglądał na was, jego oczy
+Świeciły niby dwa księżyce w pełni,
+Tysiąc miał nosów, krzywe jego rogi
+Jak fale morskie zdały się kołysać.
+To czart być musiał; więc, szczęśliwy ojcze,
+Nie wątp, że ręka opiekuńcza bogów,
+Których jest chwałą zwyciężyć, gdzie mdleje
+Moc ludzka, w tej cię zbawiła potrzebie.
+
+
+GLOUCESTER
+
+Pojmuję teraz. Odtąd zniosę boleść,
+Aż sama powie: już dosyć, umieraj!
+To, o czym mówisz, zdało mi się mężem;
+«Czart! czart!» powtarzał; on mnie tam wprowadził.
+
+
+EDGAR
+
+Bądź dobrej myśli; uzbrój się w cierpliwość!
+Lecz kto się zbliża?
+Wchodzi król Lear, fantastycznie ubrany w kwiaty.
+                        Nigdy umysł zdrowy
+W ten sposób pana nie ubrałby swego.
+
+
+KRÓL LEAR
+
+Tknąć mnie nie mogą, że biłem monetę;
+Wszak królem byłem.
+
+
+EDGAR
+
+                        Bolesny widoku!
+
+
+KRÓL LEAR
+
+Natura przechodzi sztukę w tym względzie. Oto wasz jurgielt. Ten wyrostek włada kuszą jak pastuch; wypuść mi strzałę długą jak łokieć sukienniczy. Patrz, patrz, to mysz! Cicho, cicho! Kawałek pieczonego sera wystarczy. Oto moja rękawica, cisnę ją olbrzymowi. Przynieście szare halabardy! — Zaprawdę, pięknie latasz mój ptaszku! W sam cel! W sam cel! Hura! — Zdaj hasło!
+
+
+EDGAR
+
+Wonny majeranek.
+
+
+KRÓL LEAR
+
+Przechodź!
+
+
+GLOUCESTER
+
+Znam ten głos.
+
+
+KRÓL LEAR
+
+Ha! Goneril! — Na białą brodę! — Głaskały mnie jak psa; mówiły mi, że miałem białe włosy na brodzie, nim czarne puściły. Powtarzały: tak i nie na wszystko, co powiedziałem. Ale to tak i to nie, nie były dobrą teologią. Dopiero gdy deszcz mnie zmoczył, a wiatr kazał mi dzwonić zębami, dopiero gdy piorun nie chciał zmilknąć na mój rozkaz, dopiero wtedy je odkryłem, wtedy je zwąchałem. Ba! Nie są to słowni ludzie; mówili mi, że byłem wszystkim, ale to kłamstwo, nie jestem zahartowany na febrę.
+
+
+GLOUCESTER
+
+Ach, przypominam sobie ten dźwięk głosu.
+Czy to król?
+
+
+KRÓL LEAR
+
+                        Zgadłeś, tak, król w każdym calu.
+Patrz, kędy spojrzę, drżą moi poddani!
+Tobie przebaczam. Za coś był skazany?
+Za cudzołóstwo. Śmierć za cudzołóstwo?
+Nie, ty nie umrzesz! Królik cudzołoży,
+W mych oczach złota muszka ta wszeteczni.
+Wiwat parzenie! Toć bękart Gloucestera
+Tkliwszym dla ojca był, niźli me córki,
+Chociaż poczęte w prawych prześcieradłach.
+Śmiało, rozpusto! Trzeba mi żołnierzy.
+Widzisz tę damę mizdrzącą się skromnie.
+Twarz zda się mówić, że z śniegu ma ciało,
+Gra też świętoszkę i potrząsa głową,
+Gdy słowo: rozkosz przy niej kto wymówi;
+Do sprawy jednak klacz albo łasica
+Nie idą z takim jak ona pochopem.
+
+Niżej pasa to Centaury, choć kobiety wyżej. Wszystko co do pasa, do bogów należy, wszystko co niżej, jest diabła własnością; tam jest piekło, tam jest ciemność tam jest siarczysta przepaść, żar, opalenizna, smród i zgnilizna. Fe, fe! Puah, puah! Daj mi łut piżma, dobry aptekarzu, okadź moją wyobraźnię. Oto pieniądze dla ciebie.
+
+
+GLOUCESTER
+
+O, pozwól dłoń tę pocałować!
+
+
+KRÓL LEAR
+
+                        Czekaj,
+Niech ją wprzód otrę, czuć ją śmiertelnością.
+
+
+GLOUCESTER
+
+O zrujnowany utworze natury!
+I świat ten wielki tak w nic się obróci.
+Czy znasz mnie?
+
+
+KRÓL LEAR
+
+Przypominam sobie dosyć dobrze twoje oczy. Zerkiem na mnie spozierasz? Nie, rób, co ci się podoba, ślepy Kupidynie, nie zakocham się już więcej. Czytaj to wyzwanie; daj tylko baczność na pismo.
+
+
+GLOUCESTER
+
+Gdyby litera każda była słońcem,
+Nie mógłbym widzieć.
+
+
+EDGAR
+
+                        Ani bym uwierzył,
+Gdybym to słyszał. To jest — na ten widok
+Serce mi pęka.
+
+
+KRÓL LEAR
+
+Czytaj!
+
+
+GLOUCESTER
+
+Czym? Ocznymi jamami?
+
+
+KRÓL LEAR
+
+Oho! Czy tak sobie ze mną postępujesz? Ani oczu w głowie, ani pieniędzy w kieszeni? Oczy twoje w ciężkim są stanie, ale w lekkim twoje kieszenie. Widzisz przecie, jak świat ten idzie.
+
+
+GLOUCESTER
+
+Widzę, bo czuję.
+
+
+KRÓL LEAR
+
+Co? Czy oszalałeś? Człowiek może widzieć, jak świat ten idzie, bez pomocy oczu. Patrz uszyma. Czy widzisz, jak ten sędzia wymyśla nad tym głupowatym złodziejem? Słuchaj teraz, co ci powiem do ucha: zmień miejsca, a zgadnij zgadula, który sędzia, a który złodziej. Widziałeś, jak pies gospodarski szczekał na żebraka?
+
+
+GLOUCESTER
+
+Widziałem, panie.
+
+
+KRÓL LEAR
+
+I jak biedaczyna przed kundlem uciekał? To widziałeś wielki obraz władzy; i psa słuchają, gdy na urzędzie.
+
+Obrzydły kacie, wstrzymaj krwawą rękę;
+Dlaczego chłostasz biedną wszetecznicę?
+Grzbiet obnaż własny, bo pragniesz gorąco
+Sam z nią to robić, za co ją tak chłostasz.
+Lichwiarz oszusta wiesza. Małe grzechy
+Skryć się nie mogą pod dziurawą kurtką;
+Wszystko zasłania płaszcz gronostajowy.
+Powlecz grzech złotem, a strzaska się na nim
+W bezsilnym ciosie miecz sprawiedliwości;
+Daj mu łachmany, a karła go słomka
+Na wskróś przeszyje. Nie, nie ma występnych,
+Nie ma, powiadam! (bo wszystkim przebaczam)
+Możesz mi wierzyć, mnie, który mam władzę
+Zapieczętować skarżącego usta.
+Radzę ci teraz szklane kupić oczy,
+Jak wyszarzany polityk udawać,
+Że widzisz jasno to, czego nie widzisz.
+A teraz, teraz, teraz ściąg mi buty!
+Ciąg silniej, dobrze!
+
+
+EDGAR
+
+                        Co za mieszanina
+Sensu i dziwactw! To rozum w szaleństwie.
+
+
+KRÓL LEAR
+
+Jeżeli pragniesz nad mym płakać losem,
+Weź moje oczy. Znam ja cię dość dobrze;
+Imię twe Gloucester; musisz mieć cierpliwość;
+Wszak płacząc, na tę przybyliśmy ziemię;
+Wiesz, że smakując raz pierwszy powietrze,
+Kwilimy. Słuchaj, powiem ci kazanie.
+
+
+GLOUCESTER
+
+O dniu boleści!
+
+
+KRÓL LEAR
+
+                        Rodząc się, płaczemy,
+Żeśmy na wielką błaznów przyszli scenę. —
+Co za kapelusz! — Pyszny byłby fortel
+Dać szwadronowi pilśniane podkowy.
+Spróbuję, a gdy zięciów mych podejdę,
+Na kark im wpadnę, siekaj, rąb, zabijaj!
+
+/ Wchodzi Szlachcic z Oddziałem. /
+
+
+SZLACHCIC
+
+To on; musimy zabrać go. O panie,
+Twa droga córka —
+
+
+KRÓL LEAR
+
+                        Nikt mnie nie odbije?
+Co? Jestem jeńcem? Widzę, żem stworzony,
+Aby fortuny wieczną być igraszką.
+Miejcie wzgląd dla mnie; dostaniecie okup.
+A gdzie jest chirurg? Cięto mnie do mózgu.
+
+
+SZLACHCIC
+
+Będziesz miał wszystko.
+
+
+KRÓL LEAR
+
+                        Sam? Bez pomocników?
+Toć starczy, żeby człowieka w sól zmienić,
+Z ócz jego zrobić ogrodową konew,
+By kurz jesienny polewać.
+
+
+SZLACHCIC
+
+                        O panie —
+
+
+KRÓL LEAR
+
+Umrę walecznie jak hoży pan młody;
+Będę rubaszny; dalej, jestem królem!
+Mości panowie, czy wy o tym wiecie?
+
+
+SZLACHCIC
+
+I jak królowi będziem ci posłuszni.
+
+
+KRÓL LEAR
+
+Więc jest tu jeszcze ratunek. Dalej! Jeśli mnie złapiecie, to cwałem. Cmyk! Cmyk, cmyk!
+
+/ Wybiega, a za nim Oddział. /
+
+
+SZLACHCIC
+
+Bolesny widok w ostatnim nędzarzu,
+A w królu mowy przechodzi granice.
+Masz córkę, która wybawi naturę
+Od klątwy wiecznej, co na nią ściągnęły
+Dwie inne córki.
+
+
+EDGAR
+
+                        Pozdrawiam cię, panie.
+
+
+SZLACHCIC
+
+Bóg z tobą także! Czego chcesz ode mnie?
+
+
+EDGAR
+
+Czyś słyszał, panie, o bliskiej potyczce?
+
+
+SZLACHCIC
+
+Kto o tym nie wie? Każdy o tym słyszał,
+Który rozróżnić może dźwięki mowy.
+
+
+EDGAR
+
+Lecz jak daleko są wrogów zastępy?
+
+
+SZLACHCIC
+
+W spiesznym pochodzie i za lada chwilę
+Ujrzysz je tutaj.
+
+
+EDGAR
+
+                        Dziękuję ci, panie.
+
+
+SZLACHCIC
+
+Chociaż królowa dla ważnych powodów
+Jeszcze tu bawi, ruszyło już wojsko.
+
+
+EDGAR
+
+Dzięki ci, panie.
+
+/ Wychodzi Szlachcic. /
+
+
+GLOUCESTER
+
+Weź duszę moją, miłosierny Boże,
+Aby mnie znowu zły duch nie podkusił
+Umrzeć, nim twoja zawoła mnie wola!
+
+
+EDGAR
+
+Dobra modlitwa, ojcze.
+
+
+GLOUCESTER
+
+                        Kto ty jesteś?
+
+
+EDGAR
+
+Jestem biedakiem, do fortuny ciosów
+Z dawna przywykłym, a na litość czułym,
+Przez długie ciężkich smutków doświadczenie.
+Daj rękę! Pójdziem szukać ci przytułku.
+
+
+GLOUCESTER
+
+Z serca dziękuję. Niech na twoją głowę
+Wszystkie swe niebo śle błogosławieństwa!
+
+/ Wchodzi Oswald. /
+
+
+OSWALD
+
+O, co za szczęście! Spostrzegam banitę!
+Na to stworzona twoja ślepa głowa,
+By podwaliną mej była fortuny.
+Więc, stary zdrajco, krótki zrób rachunek,
+Bo miecz dobyty, który z tobą skończy.
+
+
+GLOUCESTER
+
+Daj Bóg twej dobrej ręce dosyć siły.
+
+/ Edgar zasłania Gloucestera. /
+
+
+OSWALD
+
+Zuchwały chłopie, bronić chcesz banitę?
+Precz, jeśli nie chcesz, ażeby los jego
+Spadł i na ciebie! Usuń się na stronę!
+
+
+EDGAR
+
+Nie opuściwa my się, dobrodzieju,
+Bez dobrych przyczyn.
+
+
+OSWALD
+
+                        Puść go albo zginiesz!
+
+
+EDGAR
+
+Dobry panecku, idźta sobie z Panem Bogiem, a nie zastępujta drogi biednemu ludkowi. Gdybym miał od grubych słów ginąć, toćby mnie już nie stało od dwóch tygodni. Nie, nie przybliżajta się do starowiny, trzymajta się w dali, albo spróbuję, cy wasa caska twardsa od mojej pałki! Mówię bez ceregieli.
+
+
+OSWALD
+
+Precz stąd, kupo gnoju!
+
+
+EDGAR
+
+Wybiję wam wsyćkie zęby, panecku. Zbliżta się tylko, kpię ja z wasego młynka.
+
+/ Biją się, Edgar powala Oswalda. /
+
+
+OSWALD
+
+Zabił mnie, nędznik! Chamie, weź tę kieskę,
+Pogrzeb me ciało, jeśli szczęścia pragniesz;
+List, który przy mnie znajdziesz, oddaj w ręce
+Edmunda, księcia Gloucester; idź go szukać
+W angielskiej armii. O śmierci przedwczesna!
+
+/ Umiera. /
+
+
+EDGAR
+
+Znam ja cię dobrze, usłużny nędzniku,
+Grzesznych rozkazów wierny wykonawco
+Występnej pani.
+
+
+GLOUCESTER
+
+                        Co, czy go zabiłeś?
+
+
+EDGAR
+
+Usiądź, mój ojcze, i wypocznij sobie.
+Zajrzyjmy w kieszeń; list, o którym mówi,
+Może mi dobrym będzie przyjacielem.
+Umarły. Tego jedynie żałuję,
+Że nie kto inny jego był oprawcą.
+Zobaczmy. Laku, nie stawiaj oporu,
+A ty, honorze, nie bierz tego za złe;
+By nieprzyjaciół naszych poznać myśli,
+Kto by się wahał serce ich rozedrzeć?
+Rozedrzeć papier uczynek godziwszy.
+
+/ Czyta: /
+
+„Nie zapominaj wzajemnych naszych ślubów. Masz niemało sposobności sprzątnienia go. Byle ci na dobrej woli nie brakło, znajdziesz na to dogodny czas i miejsce. Wszystko przepadło, jeżeli wróci zwycięzcą. Będę wtedy niewolnicą, a jego łożnica będzie moim więzieniem. Wyzwól mnie od jego obrzydłego ciepła, a weź jego miejsce za swoje trudy. Twoja (jakbym chciała powiedzieć żona!) przywiązana służebnica, Goneril.”
+
+Żądz niezgłębiona niewieścich otchłani!
+Spisek na życie cnotliwego męża,
+Ażeby miejsce jego brat mój zajął!
+W tym cię zakopię piasku, grzeszny pośle,
+List ten występny poniosę przed oczy
+Zagrożonego spiskiem tym książęcia.
+Szczęście to jego, że się razem dowie
+O twojej śmierci i o twym poselstwie.
+
+/ Wychodzi, ciągnąc za sobą ciało. /
+
+
+GLOUCESTER
+
+Król obłąkany. Jak rozum mój twardy,
+Że mogę żywe zachować uczucie
+Wielkich mych smutków! Lepiej by mi było
+Utracić rozum; myśli wtedy moje
+Od mych by ciężkich odbiegły boleści,
+A w obłąkaniu wyobraźni dusza
+Swoich by własnych nie poznała cierpień.
+
+/ Wraca Edgar. /
+
+
+EDGAR
+
+Zda mi się, słyszę bęben w odległości.
+Daj rękę ojcze, czas nam się oddalić.
+Pieczy przyjaciół moich cię polecę.
+
+/ Wychodzą. /
+
+
+
+SCENA VII
+
+/ Namiot w obozie francuskim. /
+
+/ Król Lear uśpiony na łożu, około niego Doktor, Szlachta i inni. — Wchodzą: Kordelia i Kent. /
+
+
+KORDELIA
+
+O dobry Kencie, jak zdołam twą dobroć
+Godnie zapłacić? Życie me zbyt krótkie
+I wszelka miara jest niedostateczna.
+
+
+KENT
+
+Twe słowa, pani, z lichwą mi już płacą.
+Prawda natchnęła każde moje słowo,
+Nic nie odjąłem, nic nie dorzuciłem.
+
+
+KORDELIA
+
+Weź lepszą odzież, ta, którą masz teraz,
+Zbyt przypomina złe życia godziny.
+Odrzuć ją, proszę.
+
+
+KENT
+
+                        Zostaw mi ją, pani.
+Dać się dziś poznać plany me niweczy.
+Traktuj mnie, pani, jakbyś mnie nie znała,
+Póki nie powiem: «teraz przyszła pora».
+
+
+KORDELIA
+
+Niech i tak będzie. do Doktora Jakże zdrowie króla?
+
+
+DOKTOR
+
+Śpi ciągle, pani.
+
+
+KORDELIA
+
+                        Miłosierny Boże,
+Napraw ten wielki wyłom w jego duszy!
+Wróć ład do myśli dziko rozstrojonych
+Ojca na dziecko teraz zmienionego!
+
+
+DOKTOR
+
+Czy nam pozwalasz, pani, zbudzić króla?
+Śpi już dość długo.
+
+
+KORDELIA
+
+                        Rządź się swoją sztuką,
+Rób, jak sam zechcesz. Czy jest już ubrany?
+
+
+SZLACHCIC
+
+W śnie jego ciężkim nietrudno nam było
+Zmienić mu odzież.
+
+
+DOKTOR
+
+                        Bądź przytomną, pani,
+Gdy go obudzim. Nie mam wątpliwości,
+Będzie spokojny.
+
+
+KORDELIA
+
+                        Dobrze.
+
+
+DOKTOR
+
+                        Zbliż się, pani!
+Głośniej, muzyko!
+
+
+KORDELIA
+
+                        O, mój drogi ojcze,
+Bodaj lekarstwo dla ciebie na ustach
+Moich zawisło, a ten pocałunek
+Uleczył ciosy przez dwie moje siostry
+Majestatowi twojemu zadane!
+
+
+KENT
+
+Droga, szlachetna pani!
+
+
+KORDELIA
+
+                        Gdybyś nawet
+Nie był ich ojcem, to włos ten twój biały
+W ich sercach litość winien był rozbudzić.
+Tożli jest głowa, aby ją wystawiać
+Na wściekłość wichrów, na piorunów strzały,
+Śród grzmotów, pośród siarczystych błyskawic?
+Trzymać straż, biedny, zgubiony strażniku,
+W tak wiotkim hełmie! Pies mojego wroga
+Śród takiej nocy, choćby mnie pokąsał,
+Znalazłby miejsce przy moim ognisku.
+A tyś był, biedny ojcze, przymuszony
+Na garści zgniłej słomy skronie złożyć,
+W chlewie z wieprzami, w łotrów towarzystwie!
+Ach, jak rzecz dziwna, że z twoim rozumem
+I życie twoje razem nie odbiegło!
+Budzi się; przemów!
+
+
+DOKTOR
+
+                        Lepiej będzie, pani,
+Gdy ty przemówisz.
+
+
+KORDELIA
+
+                        Królu, jak twe zdrowie?
+
+
+KRÓL LEAR
+
+Na moją krzywdę z grobu mnie budzicie.
+Tyś duchem w niebie, lecz jam jest wpleciony
+W ogniste koło, a łzy moje własne
+Palą mnie niby ołów roztopiony.
+
+
+KORDELIA
+
+Czy znasz mnie, panie?
+
+
+KRÓL LEAR
+
+                        O wiem, jesteś duchem.
+Kiedyś umarła?
+
+
+KORDELIA
+
+                        Zawsze obłąkany!
+
+
+DOKTOR
+
+Ledwo się zbudził; zostawmy go chwilę.
+
+
+KRÓL LEAR
+
+Gdziem był? Gdzie jestem? Jasny dzień pogody?
+Dziwne złudzenie! Umarłbym z litości,
+Gdybym innego w takim widział stanie.
+Nie wiem, co mówić, i nie chciałbym przysiąc,
+Że to me ręce; zobaczmy; ja czuję
+Szpilki tej ostrze. Jakbym o mym stanie
+Chciał się zapewnić!
+
+
+KORDELIA
+
+                        O panie, spójrz na mnie,
+Nie, nie, nie klękaj!
+
+
+KRÓL LEAR
+
+                        Proszę, nie szydź ze mnie,
+Wszak ci ja stary i biedny gaduła!
+Osiem krzyżyków z górą, ni godziny
+Mniej albo więcej, a mówiąc ci szczerze,
+Myślę, żem trochę na umyśle chory.
+Myślę, że znam cię i tego człowieka,
+A jednak wątpię, nie wiem bowiem wcale
+Gdzie jestem; darmo chcę sobie przypomnieć,
+Skąd mam tę odzież; nie pamiętam także,
+Jak, gdzie ostatnią noc tę przepędziłem.
+Nie śmiej się ze mnie, ale, jakem człowiek,
+Zda mi się, że to córka ma, Kordelia.
+
+
+KORDELIA
+
+To ona, ona!
+
+
+KRÓL LEAR
+
+                        Czy mokre łzy twoje?
+Mokre, zaprawdę. O proszę cię, nie płacz!
+Jeśli masz dla mnie truciznę, wypiję.
+Że mnie nie kochasz, wiem, bo twoje siostry,
+Ile pamiętam, ciężko mnie skrzywdziły.
+Ty masz powody, one ich nie miały.
+
+
+KORDELIA
+
+Żadnych, o żadnych!
+
+
+KRÓL LEAR
+
+                        Czy jestem we Francji?
+
+
+KORDELIA
+
+W własnym królestwie.
+
+
+KRÓL LEAR
+
+                        Nie zwódźcie mnie tylko.
+
+
+DOKTOR
+
+Bądź dobrej myśli, pani; wielka wściekłość
+Przeszła, jak widzisz; lecz jest niebezpiecznie
+Na myśl ubiegłe przywodzić mu czasy.
+Proś, niechaj wejdzie; zostaw go w pokoju,
+Póki wszystkiego czas nie ułagodzi.
+
+
+KORDELIA
+
+Wejdź, panie.
+
+
+KRÓL LEAR
+
+                        Przebacz, bądź wyrozumiałą,
+Zapomnij! Jestem starzec zdziecinniały.
+
+/ Wychodzą: Lear, Kordelia, Doktor i Służba. /
+
+
+SZLACHCIC
+
+Czy się potwierdza wieść, że książę Cornwall
+Zabity?
+
+
+KENT
+
+                        Żadnej nie ma wątpliwości.
+
+
+SZLACHCIC
+
+A kto na czele pułków jego stanął?
+
+
+KENT
+
+Lorda Gloucestera bękart, powiadają.
+
+
+SZLACHCIC
+
+Słychać, że Edgar, syn jego wygnany,
+Do Niemiec z lordem Kentem się ratował.
+
+
+KENT
+
+Zwodne są wieści. Czas myśleć o wojnie,
+Bo niedaleko królewskie zaciągi.
+
+
+SZLACHCIC
+
+Potrzeba będzie krwawa, jak się zdaje.
+Żegnam cię, panie.
+
+/ Wychodzi. /
+
+
+KENT
+
+                        Bitwa ta rozstrzygnie,
+Czy źle czy dobrze skończą się me plany.
+
+/ Wychodzi. /
+
+
+
+
+AKT PIĄTY
+
+
+
+SCENA I
+
+/ Obóz wojsk brytańskich w bliskości Dover. /
+
+/ Wchodzą przy odgłosie bębnów, z rozwiniętymi chorągwiami: Edmund, Regan, Oficerowie, Żołnierze i inni. /
+
+
+EDMUND
+
+Zapytaj księcia, czy trwa w pierwszej myśli,
+Czy też ją zmienił, bo ciągle się waha,
+Sam z sobą w wojnie. Przynieś mi odpowiedź,
+Co chce stanowczo.
+
+/ Wychodzi Oficer. /
+
+
+REGAN
+
+                        Zapewne nieszczęście
+Spotkało siostry posłańca na drodze.
+
+
+EDMUND
+
+Bardzo się lękam.
+
+
+REGAN
+
+                        Teraz, słodki panie,
+Wiesz, co zamierzam dla twojego szczęścia.
+Powiedz, lecz szczerze, powiedz mi otwarcie,
+Czyli nie kochasz siostry mej?
+
+
+EDMUND
+
+                        Uczciwie.
+
+
+REGAN
+
+Ale czy nigdy brata mego drogi
+Na zabronione nie znalazłeś miejsce?
+
+
+EDMUND
+
+Mylisz się, pani.
+
+
+REGAN
+
+                        Wszystko mi się zdaje,
+Że się tak wasze połączyły piersi,
+Iż ona twoją, a ty jej połową.
+
+
+EDMUND
+
+Nie, pani, przeczę temu, na mój honor!
+
+
+REGAN
+
+Od dziś na zawsze znieść jej nie potrafię.
+Mój drogi, nie bądź tak z nią poufały!
+
+
+EDMUND
+
+Nie troszcz się, pani. Ona, z swym małżonkiem —
+
+/ Wchodzą: Albany, Goneril i Wojsko. /
+
+
+GONERIL
+
+/ na stronie: /
+
+Wolę tę bitwę przegrać, niźli widzieć,
+Że go ode mnie siostra ma oderwie.
+
+
+ALBANY
+
+Kochana siostro, szczęśliwe spotkanie.
+Król, jak słyszałem, z córką się połączył,
+Z nim wielu panów, których oburzyła
+Zbyteczna rządu naszego surowość.
+Nie miałem nigdy serca, gdzie nie było
+Uczciwej sprawy, i w obecnej wojnie
+Dobyłem szabli tylko na Francuza,
+A nie na króla, ni jego przyjaciół,
+Których, jak myślę, zbyt słuszne powody
+Do podniesienia buntu przymusiły.
+
+
+EDMUND
+
+Szlachetne słowa!
+
+
+REGAN
+
+                        Po co te rozprawy?
+
+
+GONERIL
+
+Połączmy siły na nieprzyjaciela.
+O osobistych, prywatnych rozterkach
+Nie teraz pora właściwa rozmyślać.
+
+
+ALBANY
+
+Idźmy o planie bitwy się naradzić
+Z posiwiałymi w wojnie rycerzami.
+
+
+EDMUND
+
+W waszym namiocie stawię się za chwilę.
+
+
+REGAN
+
+Chodź z nami, siostro.
+
+
+GONERIL
+
+                        Nie.
+
+
+REGAN
+
+                        Chodź proszę, z nami,
+Rzecz to konieczna.
+
+
+GONERIL
+
+/ na stronie: /
+
+                        Odkryłam zagadkę!
+Głośno. Idę.
+
+/ Gdy się chcą oddalić; wchodzi Edgar przebrany. /
+
+
+EDGAR
+
+                        Jeżeli kiedykolwiek, panie,
+Raczyłeś słuchać biednego człowieka,
+Słuchaj mnie.
+
+
+ALBANY
+
+                        Wkrótce przyjdę. Co chcesz mówić?
+
+/ Wychodzą: Edmund, Regan, Goneril, Oficerowie, Żołnierze i Służba. /
+
+
+EDGAR
+
+Nim stoczysz bitwę, przeczytaj to pismo.
+Jeśli zwyciężysz, niech przywoła trąba
+Tego, co przyniósł. Choć jestem nędzarzem,
+Stawię rycerza, który szablą stwierdzi
+Prawdę litery każdej tego listu.
+Gdy przegrasz, wszystko dla ciebie na ziemi
+Już się skończyło i skończą się spiski.
+Bóg z tobą!
+
+
+ALBANY
+
+                        Czekaj, aż list ten przeczytam.
+
+
+EDGAR
+
+To mi wzbroniono. Lecz gdy przyjdzie pora,
+Na pierwszy sygnał twojego herolda
+Ujrzysz mnie znowu.
+
+/ Wychodzi. /
+
+
+ALBANY
+
+                        Niechże i tak będzie.
+Bądź zdrów! A teraz przeczytajmy pismo.
+
+/ Wchodzi Edmund. /
+
+
+EDMUND
+
+Wróg się przybliża; szykuj twoje pułki.
+Oto wiadomość o jego potędze,
+Przez naszych zwiadów troskliwie zebrana.
+Śpiesz się, czas nagli!
+
+
+ALBANY
+
+                        Znajdzie nas gotowych.
+
+/ Wychodzi. /
+
+
+EDMUND
+
+Obu tym siostrom miłość mą przysiągłem.
+Jak ukąszony na żmiję ze zgrozą
+Patrzą na siebie. Którąż z nich wybiorę?
+Obie? Czy jedną? Czy żadnej? Nie mogę
+Żadnej z nich posiąść, póki obie żyją.
+Gdybym wziął wdowę, siostra jej, Goneril,
+Będzie szalała; póki mąż jej żyje,
+Trudno mi będzie celów moich dobiec.
+Na dziś on w boju będzie mi pomocą,
+A niech ta potem, co się chce go pozbyć,
+Najkrótszą drogę do tego wynajdzie.
+A co do łaski, o której wspominał,
+Dla króla Leara i jego Kordelii,
+Byle raz w nasze dostali się ręce,
+Jego przebaczeń nie będzie im trzeba.
+Bo, jeśli własną głowę chcę ratować,
+Bronić się muszę, a nie dyskutować.
+
+/ Wychodzi. /
+
+
+
+SCENA II
+
+/ Pole między dwoma obozami. /
+
+/ Alarm za sceną. Przechodzą przy odgłosie bębnów z chorągwiami: Król Lear, Kordelia i ich Wojsko. Następnie wchodzą: Edgar i Gloucester. /
+
+
+EDGAR
+
+Tu, ojcze, drzewa tego cień niech będzie
+Twoją gospodą. Proś Boga gorąco,
+By sprawiedliwość odniosła zwycięstwo.
+Jeżeli wrócę, przyniosę ci w datku
+Wielką pociechę.
+
+
+GLOUCESTER
+
+                        Niech cię Bóg prowadzi!
+
+/ Wychodzi Edgar. — Alarm. Odwrót. Wbiega Edgar. /
+
+
+EDGAR
+
+Uciekaj, starcze! Daj rękę, uciekaj!
+Król Lear pobity i z córką pojmany.
+Daj rękę; idźmy!
+
+
+GLOUCESTER
+
+                        Nie, nie, ani kroku!
+Zarówno dobrze i tu człowiek zgnije.
+
+
+EDGAR
+
+Znowu złe myśli? Musimy posłusznie
+Na świat przychodzić i świat ten opuszczać.
+Być w pogotowiu nasza jest powinność.
+Więc idźmy!
+
+
+GLOUCESTER
+
+                        Idźmy, bo prawda, co mówisz.
+
+/ Wychodzą. /
+
+
+
+SCENA III
+
+/ Brytański obóz w bliskości Dover. /
+
+/ Wchodzą: Edmund tryumfalnie, przy odgłosie bębnów, z chorągwiami, Król Lear i Kordelia jako jeńcy, Oficerowie, Żołnierze itd. /
+
+
+EDMUND
+
+Pod dobrą strażą trzymajcie tych brańców,
+Dopóki woli swojej nie objawią
+Ci, którym prawo sądzić ich należy.
+
+
+KORDELIA
+
+Nie pierwsi, chęcią wiedzeni najlepszą,
+Złą mamy dolę. Królu zwyciężony,
+Twój los jedynie dolega mi ciężko;
+Łatwo bym sama wzgardą odepchnęła
+Wzgardę fortuny. Czy wolą jest twoją
+Na chwilę widzieć siostry me, twe córki?
+
+
+KRÓL LEAR
+
+Nie, nie, nie, nigdy! Idźmy do więzienia,
+Będziem tam śpiewać jak dwa ptaszki w klatce.
+Gdy prosić będziesz o błogosławieństwo,
+Uklęknę, prosząc o twe przebaczenie,
+I tak przeżyjem śród modłów i śpiewu,
+Będziemy stare powtarzali baśnie,
+Śmiać się będziemy do złotych motyli;
+A kiedy biedak przyniesie nam jaki
+Dworskie nowiny, będziemy go pytać,
+Kto spadł, kto urósł, kto wygrał, kto przegrał,
+I wszystkie świata zgłębim tajemnice,
+Jakby na zwiady Bóg nas tam wyprawił.
+W ciasnych więzienia murach przeżyjemy
+Potężnych panów spiski i stronnictwa,
+Którzy jak morze pod księżyca wpływem
+Rosną, spadają.
+
+
+EDMUND
+
+                        Do więzienia z nimi!
+
+
+KRÓL LEAR
+
+Moja Kordelio, na takie ofiary
+Bogowie sami rzucają kadzidła!
+Więc cię znalazłem? Ten, co nas rozdzieli,
+Z niebios płonącą przynieść musi głownię
+I ogniem z jamy jak lisów wykurzyć.
+Otrzyj źrenice, bo wprzódy zaraza
+Pożre ich ciało i skórę, bo wprzódy
+Na śmierć ich głodną będziemy patrzyli,
+Nim z naszych źrenic jedną łzę wycisną!
+Chodź.
+
+/ Wychodzą Król Lear i Kordelia pod strażą. /
+
+
+EDMUND
+
+                        Zbliż się do mnie, rotmistrzu i słuchaj.
+Czytaj ten papier. Daje mu papier. Pośpiesz do więzienia;
+O jeden stopień już cię posunąłem;
+Jeśli wykonasz, co pismo zawiera,
+Staniesz na drodze do świetnej fortuny.
+Wiedz, że się ludzie stosują do czasu,
+Mieczowi serce nie przystoi czułe.
+Nie cierpi rozpraw wielkie to zlecenie;
+Lub powiedz, że je do słowa wykonasz,
+Albo idź szczęścia w inny szukać sposób.
+
+
+OFICER
+
+Wykonam, panie.
+
+
+EDMUND
+
+                        Więc śpiesz się do dzieła.
+Zwij się szczęśliwym, gdy wszystko się skończy.
+Uważaj tylko, powtarzam: natychmiast,
+A słowo w słowo, jak tu napisałem!
+
+
+OFICER
+
+Nie mogę ciągnąć wozu ni żyć owsem;
+Co człowiek może wykonać, wykonam.
+
+/ Wychodzi. /
+
+/ Trąby. Wchodzą: Albany, Goneril, Regan, Oficerowie, Służba. /
+
+
+ALBANY
+
+Złożyłeś męstwa twego dziś dowody,
+A szczęście szabli twej towarzyszyło:
+Twymi jeńcami nasi przeciwnicy.
+Wymagam teraz, żebyś mi ich oddał,
+Jak zasłużyli, bym z nimi postąpił,
+I jak wymaga nasze bezpieczeństwo.
+
+
+EDMUND
+
+Stosowną rzeczą zdało mi się, książę,
+Nędznego starca do więzienia posłać.
+Jego wiek, tytuł jego mają urok
+Zdolny pospólstwa serca doń przyciągnąć,
+I lance nasze zaciężne obrócić
+Przeciw nam samym. Dla tych samych przyczyn
+W jednym więzieniu zamknąłem królową,
+A jutro albo na dniu oznaczonym
+Tam ich przywiodę, gdzie sąd wasz zasiądzie.
+Dziś krwią i potem jesteśmy oblani,
+Dzisiaj przyjaciel przyjaciela płacze;
+Najlepszą sprawę śród upałów wojny
+Gotów przeklinać, kto ostrość jej uczuł.
+Sprawa Kordelii i króla, jej ojca,
+Musi właściwszej doczekać się pory.
+
+
+ALBANY
+
+Przebacz mi, panie, ale moim zdaniem
+W tej wojnie jesteś poddanym, nie bratem.
+
+
+REGAN
+
+Stosownie, jak go zechcemy nagrodzić.
+Nim doń w ten sposób przemówiłeś, książę,
+Mogłeś się spytać, jaka nasza wola.
+On wiódł me pułki, był mym namiestnikiem,
+A godność taka może, moim sądem,
+Bratu go zrównać.
+
+
+GONERIL
+
+                        Trochę mniej gorąco!
+Wyżej go własne wynoszą zasługi
+Niż twoja łaska.
+
+
+REGAN
+
+                        Praw moich potęgą,
+Moją powagą równy jest najwyższym.
+
+
+GONERIL
+
+To chyba gdyby mężem twoim został.
+
+
+REGAN
+
+Nie raz żartowniś w proroka się zmienił.
+
+
+GONERIL
+
+Hola! To oko, co tak ci mówiło,
+Patrzało zezem.
+
+
+REGAN
+
+                        Jestem zbyt cierpiąca,
+Inaczej, pani, dałabym odpowiedź
+Z pełnego serca. — Ty, mój generale,
+Weź moje wojska, jeńców, ojcowiznę,
+Bądź ich jak moim panem; wszystko twoje.
+W obliczu świata ogłaszam cię teraz
+Mężem i panem.
+
+
+GONERIL
+
+                        Więc myślisz go pojąć?
+
+
+ALBANY
+
+Wyrok w tej sprawie nie będzie zależał
+Od twojej woli.
+
+
+EDMUND
+
+                        Ni od twej, milordzie.
+
+
+ALBANY
+
+Owszem, od mojej, mości pół-szlachcicu!
+
+
+REGAN
+
+/ do Edmunda: /
+
+Niech bęben powie, że tytuł mój twoim.
+
+
+ALBANY
+
+Wstrzymaj się chwilę! Edmundzie, na ciebie
+Jako na zdrajcę stanu areszt kładę,
+A z tobą razem na tę złotą żmiję,
+Bo twojej woli opieram się, siostro,
+W obronie żony mojej interesów,
+Jest bowiem panu temu zaręczoną;
+Jej mąż, sprzeciwiam twym się zapowiedziom.
+Jeśli chcesz męża, umizgaj się do mnie,
+Bo on poprzednio panią tę zamówił.
+
+
+GONERIL
+
+Co za komedia!
+
+
+ALBANY
+
+                        Zbrojnyś jest, Gloucesterze —
+Uderzcie w trąby! — jeśli nikt nie stanie,
+By twoich mnogich, czarnych zdrad ci dowieść,
+Oto mój zakład! Rzuca rękawicę. Krwią twoją dowiodę,
+Nim kąsek chleba do ust moich włożę,
+Że jesteś, czym cię w tej chwili ogłaszam.
+
+
+REGAN
+
+Słabo mi, mdleję!
+
+
+GONERIL
+
+/ na stronie: /
+
+                        Gdyby nie tak było,
+Wszelkiej truciźnie przestałabym ufać.
+
+
+EDMUND
+
+/ rzucając rękawicę /
+
+To ma odpowiedź! Kto bądź się odważy
+Zdrajcą mnie nazwać, temu pojedynkiem,
+Tobie, każdemu, śród szranków dowiodę,
+Że moja wiara i honor mój czysty.
+
+
+ALBANY
+
+Wystąp, heroldzie!
+
+
+EDMUND
+
+                        O wystąp, heroldzie!
+
+
+ALBANY
+
+Na własne tylko rachuj teraz męstwo,
+Bo w mym imieniu twe zaciężne pułki
+Już są zwinięte.
+
+
+REGAN
+
+                        Słabość się ma wzmaga!
+
+/ Wchodzi Herold. /
+
+
+ALBANY
+
+Mdleje; do mego wiedźcie ją namiotu!
+wyprowadzają Reganę
+Zbliż się, heroldzie, każ w trąbę uderzyć!
+Czytaj to głośno!
+
+
+OFICER
+
+                        Ozwijcie się, trąby!
+
+/ Odgłos trąb. /
+
+
+HEROLD
+
+/ czyta: /
+
+Jeśli jest mąż znakomity rodem albo stopniem w szeregach armii, chcący dowieść Edmundowi, mniemanemu hrabi Gloucester, że jest wielokrotnym zdrajcą, niech wystąpi na trzeci odgłos trąby: on sam stanie śmiało w swojej obronie.
+
+
+EDMUND
+
+Zatrąb!
+
+/ Pierwszy odgłos trąb. /
+
+
+HEROLD
+
+Jeszcze!
+
+/ Drugi odgłos trąb. /
+
+
+HEROLD
+
+Jeszcze!
+
+/ Trzeci odgłos trąb. /
+
+/ Trąba odpowiada za sceną. Wchodzi Edgar uzbrojony, przed nim Trębacz. /
+
+
+ALBANY
+
+Spytaj, dla jakich wystąpił powodów
+Na odgłos trąby?
+
+
+HEROLD
+
+                        Odpowiedz, kto jesteś?
+Twe imię, godność? Czemu na głos trąby
+Stawiasz się tutaj?
+
+
+EDGAR
+
+                        Straciłem me imię
+Zatrutym zębem zdrady przegryzione.
+Lecz jestem szlachcic i nie niższy rodem
+Od tego, z którym przychodzę się mierzyć.
+
+
+ALBANY
+
+Kto twoim wrogiem?
+
+
+EDGAR
+
+                        Kto tu odpowiada
+W imieniu hrabi Edmunda Gloucestera?
+
+
+EDMUND
+
+On sam cię pyta, co mu chcesz zarzucić?
+
+
+EDGAR
+
+Dobądź oręża, aby twoje ramię,
+Gdy słowem serce szlachetne obrażę,
+Pomściło krzywdę! Oto moja szabla.
+Wiedz, że powagą moich przywilejów,
+Mego honoru, przysiąg i rzemiosła,
+Mimo twej siły, młodości, zaszczytów,
+Mimo twej szabli zwycięskiej fortuny
+Świeżo ukutej, odwagi i serca,
+Ogłaszam światu, że ty jesteś zdrajcą,
+Żeś przeniewiercą Bogu, bratu, ojcu,
+Że knujesz spiski na twojego pana,
+Że od wierzchołka głowy aż do prochu
+Twoją zdradziecką deptanego nogą
+Jesteś ropuchy jadu pełnym zdrajcą.
+Jeśli mi powiesz «nie!» ten miecz, to ramię
+I moje męstwo gotowe są dowieść
+Krwią twego serca, że twe zaprzeczenie
+Jest łgarstwem!
+
+
+EDMUND
+
+                        Gdybym roztropności słuchał,
+Naprzód o imię winien bym cię pytać,
+Lecz gdy twa postać piękna i rycerska,
+Gdy słowa twoje tchną szlachectwa duchem,
+Zwłokę rycerskim dozwoloną prawem,
+Chociaż mi służy, z pogardą odrzucam.
+Twe słowo zdrady na twą ciskam głowę,
+Z piekielną zemstą łgarstwo ci oddaję,
+A jeśli słowa moje bez twej krzywdy
+Po twojej zbroi ślizgają się teraz,
+Niedługo miecz ten drogę im otworzy
+Do serca, w którym na wieki zostaną.
+Uderzcie trąby!
+
+/ Alarm. Walczą. Edmund upada. /
+
+
+ALBANY
+
+                        O, daruj mu życie!
+
+
+GONERIL
+
+To szpetny podstęp, bo rycerskim prawem
+Mogłeś, Gloucesterze, nieznanego wroga
+Gardzić wyzwaniem; jesteś oszukany,
+Nie zwyciężony!
+
+
+ALBANY
+
+                        Zamknij usta, pani,
+Albo sam tym ci zamknę je papierem!
+Do Edmunda:
+Patrz! Do Goneril: A ty, gorsza niż najgorsza nazwa,
+Czytaj twą niecność! Tylko nie drzyj pisma!
+Widzę, że znasz je.
+
+/ Daje list pisany do Edmunda. /
+
+
+GONERIL
+
+                        I cóż, choćbym znała?
+Jestem tu panią, tu prawa są moje
+Nie twoje; kto by śmiał mnie tu oskarżać?
+
+/ Wychodzi. /
+
+
+ALBANY
+
+O zgrozo, zgrozo! Czy ty znasz to pismo?
+
+
+EDMUND
+
+Co znam, nie pytaj.
+
+
+ALBANY
+
+/ do jednego z Oficerów: /
+
+                        Spiesz za nią, jej sercem
+Owładła rozpacz, idź i czuwaj nad nią!
+
+/ Wychodzi Oficer. /
+
+
+EDMUND
+
+Spełniłem wszystko, co mi zarzuciłeś,
+I więcej, więcej! Czas odkryje wszystko;
+Lecz wszystko przeszło, tak jak moje życie.
+Lecz kto ty jesteś, szczęśliwy zwycięzco?
+Jeśliś szlachcicem, chętnie ci przebaczam.
+
+
+EDGAR
+
+Przebaczmy sobie wzajemnie, Edmundzie,
+Jam ci krwią równy, a jeżeli wyższy,
+To mi tym większą krzywdę wyrządziłeś.
+Me imię Edgar, ojciec twój mym ojcem.
+Bóg sprawiedliwy nasze słodkie grzechy
+Zmienia w narzędzia grzechów naszych kaźni.
+Występne dzieło twojego poczęcia
+Spłacił ócz stratą.
+
+
+EDMUND
+
+                        Prawdę powiedziałeś.
+Koło skończyło swój krąg i tu jestem!
+
+
+ALBANY
+
+Już krok twój każdy królewską szlachetność
+Zdawał się wróżyć. Muszę cię uścisnąć.
+Niech boleść serce w mych rozedrze piersiach,
+Jeślim był wrogiem twym lub twego ojca.
+
+
+EDGAR
+
+Wiem o tym, książę.
+
+
+ALBANY
+
+                        Gdzie się ukrywałeś?
+Skąd wiesz o ojca twojego niedoli?
+
+
+EDGAR
+
+Czuwając nad nią. Krótka moja powieść,
+A gdy ją skończę, niech serce to pęknie!
+By się ocalić przed krwawym wyrokiem,
+Co gonił za mną (jak słodkie jest życie,
+Gdy ciągłe śmierci przenosim męczarnie
+Nad śmierć bezzwłoczną!), w szaleńca łachmany
+Oblokłem ciało, z łachmanem przybrałem
+Szaleńca postać, psom nawet obrzydłą.
+Spotkałem ojca, gdy z jego pierścieni
+Właśnie co drogie wydarto kamienie,
+Wiodłem go, w drodze żebrałem dla niego
+I od rozpaczy go uratowałem.
+Nigdy (to grzech mój) nie dałem się poznać,
+Dopiero chwila temu, uzbrojony,
+Niepewny skutku, choć pełny nadziei,
+Kiedym go prosił o błogosławieństwo,
+Całąm mu naszą opisał pielgrzymkę,
+Ale, ach! serce jego nadwątlone
+Nie mogło ciosu takiego wytrzymać,
+I w zbytku razem smutku i radości
+Pękło w uśmiechu.
+
+
+EDMUND
+
+                        Tknęła mnie twa powieść
+I może dobre przyniesie owoce.
+Lecz mów, bo widzę, że pragniesz coś dodać.
+
+
+ALBANY
+
+Jeśli twa powieść ma być boleśniejsza,
+Przestań, bo istność ma prawie topnieje
+Pod wrażeniami tego, co słyszałem.
+
+
+EDGAR
+
+Tutaj zapewne należało skończyć
+Dla ludzi, którym wstrętne jest cierpienie,
+Inny by jeszcze nowy dodał smutek,
+Prowadząc powieść do szczytu boleści.
+Śród mych narzekań przybliżył się człowiek,
+Który, gdy widział mnie w mym poniżeniu,
+Z wstrętem unikał mego towarzystwa,
+Ale gdy odkrył, kto był tym nędzarzem,
+W silnym uścisku moją objął szyję,
+A rycząc, jakby niebo chciał roztrącić,
+Na ciało ojca mojego się rzucił,
+A prawił powieść o królu i sobie,
+Że boleśniejszej ucho nie słyszało.
+Za każdym słowem rosła jego rozpacz,
+Żywota nici rwać się zaczynały,
+Gdy drugi odgłos trąby usłyszałem
+I omdlałego musiałem opuścić.
+
+
+ALBANY
+
+Kto był ten człowiek?
+
+
+EDGAR
+
+                        To był Kent wygnany;
+W przybranym stroju pośpieszył za królem,
+Swym srogim sędzią, oddał mu usługi,
+Których by nie chciał oddać i niewolnik.
+
+/ Wbiega Szlachcic z zakrwawionym nożem. /
+
+
+SZLACHCIC
+
+Przebóg! Ratujcie!
+
+
+EDGAR
+
+                        Co mamy ratować?
+
+
+ALBANY
+
+Mów!
+
+
+EDGAR
+
+                        Co ten krwawy nóż w ręku twym znaczy?
+
+
+SZLACHCIC
+
+Jeszcze gorąca krew na nim się kurzy;
+To krew jest z serca, niestety! Skonała.
+
+
+ALBANY
+
+Mów, mów, kto skonał?
+
+
+SZLACHCIC
+
+                        Żona twoja, książę.
+Przez nią to siostra była jej otruta;
+W chwili skonania sama to wyznała.
+
+
+EDMUND
+
+Jednej i drugiej byłem zaręczony;
+Za chwilę będziem we troje złączeni.
+
+
+EDGAR
+
+Kent się przybliża.
+
+
+ALBANY
+
+                        Przynieście tu ciała,
+Żywe czy trupy. Ten straszny sąd boży
+Przenika serce strachem, nie litością!
+Wychodzi Szlachcic. — Wchodzi Kent.
+To on. Wypadki mi nie dają czasu
+Zwykłej grzeczności pozdrowić cię słowem.
+
+
+KENT
+
+Przynoszę panu memu i królowi
+Wieczne dobranoc; czy tutaj go nie ma?
+
+
+ALBANY
+
+Ach, o jak ważnej zapomniałem sprawie!
+Edmundzie, gdzie jest król, gdzie Kordelia?
+Czy widzisz, Kencie?
+
+/ Wnoszą ciała Gonerili i Regany. /
+
+
+KENT
+
+                        Przebóg! Co to znaczy?
+
+
+EDMUND
+
+Kochany jednak był Edmund, gdy jedna
+Otruła drugą dla mojej miłości,
+A potem własną zabiła się ręką.
+
+
+ALBANY
+
+Tak właśnie; prawda. Zasłońcie ich twarze!
+
+
+EDMUND
+
+Śmierć się przybliża. Przeciw mej naturze
+Chcę dobrze zrobić. Wyślijcie co prędzej,
+Bez chwili zwłoki, wyślijcie do zamku,
+Moje rozkazy zagrażają życiu
+Leara, Kordelii. O, nie traćcie czasu!
+
+
+ALBANY
+
+Leć! Leć!
+
+
+EDGAR
+
+                        Do kogo? Kto otrzymał rozkaz?
+Daj mi znak jaki, że rozkaz ten cofasz.
+
+
+EDMUND
+
+Weź moją szablę, pokaż ją dowódcy.
+
+
+ALBANY
+
+O śpiesz się, śpiesz się, jeśli kochasz życie!
+
+/ Wybiega Edgar. /
+
+
+EDMUND
+
+Odebrał rozkaz mój i twojej żony,
+Aby w więzieniu powiesił Kordelię,
+A potem winę na rozpacz jej zwalił
+I samobójstwu tę jej śmierć przypisał.
+
+
+ALBANY
+
+Ocal ją, Boże! Weźcie go na stronę!
+
+/ Wynoszą Edmunda. — Wchodzi Lear z umarłą Kordelią na ręku, Edgar, Oficerowie i inni. /
+
+
+KRÓL LEAR
+
+O wyjcie, wyjcie! Kamienni z was ludzie!
+Gdybym miał wasze języki i oczy,
+Tak bym ich użył, żeby niebo pękło!
+Ach, ona znikła na zawsze! Na zawsze!
+Wiem ja, kto żywy, a kto jest umarły.
+Ona umarła. Dajcie mi zwierciadło!
+Jeśli jej oddech blask zwierciadła przyćmi,
+To jeszcze żyje.
+
+
+KENT
+
+                        Czy to świata koniec
+Zapowiedziany?
+
+
+EDGAR
+
+                        Grozy jego obraz?
+
+
+ALBANY
+
+Przepadnij, świecie!
+
+
+KRÓL LEAR
+
+                        Piórko się to chwieje.
+Żyje! Jeżeli żyje, to mi szczęście
+Zapłaci wszystkie minione boleści.
+
+
+KENT
+
+Dobry mój panie —
+
+/ Klęka. /
+
+
+KRÓL LEAR
+
+                        O, oddal się, proszę!
+
+
+EDGAR
+
+To twój przyjaciel, to jest Kent szlachetny.
+
+
+KRÓL LEAR
+
+Zgińcie! Wy wszyscy mordercy i zdrajcy!
+Jeszcze ją mogłem ocalić, a teraz
+Zgasła na wieki! Kordelio! Kordelio!
+Poczekaj chwilę! Ha! Co do mnie mówisz?
+Głos jej był zawsze słodki, miły, cichy;
+W głosie kobiety wielki to jest przymiot.
+Tąm ręką zabił łotra, co ją wieszał.
+
+
+OFICER
+
+To prawda, panie.
+
+
+KRÓL LEAR
+
+                        Czym nie zabił? Powiedz.
+O, były czasy, w których moją szablą
+Ostrą, siekącą, tańczyć bym ich uczył!
+Dziś jestem stary, a śród przeciwności
+Osłabło ramię. Powiedz, kto ty jesteś?
+Bo oczy moje w nie najlepszym stanie,
+Powiem ci szczerze.
+
+
+KENT
+
+                        Jeśli los się chełpi
+Że kochał kiedyś dwóch i nienawidził,
+Widzim jednego.
+
+
+KRÓL LEAR
+
+                        Smutny to jest widok!
+Czy Kent twe imię?
+
+
+KENT
+
+                        Tak jest, Kent, twój sługa.
+A gdzie twój sługa Kajus?
+
+
+KRÓL LEAR
+
+                        Możesz wierzyć,
+Dobry to chłopak; mógł siec, a siec żwawo;
+Ale już umarł i zgnił.
+
+
+KENT
+
+Jam jest tym sługą.
+
+
+KRÓL LEAR
+
+                        Zaraz zobaczymy.
+
+
+KENT
+
+Który od pierwszej nieszczęść twoich chwili
+Szedł zawsze wiernie za smutnym twym śladem.
+
+
+KRÓL LEAR
+
+Witam radośnie!
+
+
+KENT
+
+                        Nie ma tu radości,
+Wszystko jest smutne, ciemne i śmiertelne!
+Twe starsze córki same się zabiły
+W chwili rozpaczy.
+
+
+KRÓL LEAR
+
+                        I ja też tak myślę.
+
+
+ALBANY
+
+Nie wie, co mówi. Próżno byśmy chcieli,
+Żeby nas poznał.
+
+
+EDGAR
+
+                        Daremne zachody.
+
+/ Wchodzi Oficer. /
+
+
+OFICER
+
+Panie mój, Edmund skonał.
+
+
+ALBANY
+
+                        Mała strata.
+Słuchajcie teraz, jakie nasze myśli.
+Zrobimy wszystko, co może osłodzić
+Wielkiej ruiny ciężkie utrapienie.
+Przez ciąg żywota starego monarchy
+Składamy w jego ręce naszą władzę.
+Do Edgara i Kenta:
+Was przywracamy do waszych praw dawnych,
+Dodając godność, choć wiemy, że nigdy
+Nie może waszym równą być zasługom.
+Każdy przyjaciel z naszych rąk odbierze
+Cnót swych zapłatę, każdy nieprzyjaciel
+Wychyli kielich należnej goryczy.
+O, patrzcie, patrzcie!
+
+
+KRÓL LEAR
+
+                        I biedny mój błazen
+Był powieszony! Nie, nie, nie chcę życia!
+Ach! I dlaczegóż pies, koń i szczur żyje,
+A ty bez ducha? Nigdy już nie wrócisz.
+Nigdy i nigdy, ach! Nigdy i nigdy!
+Proszę, odepnij guzik ten. Dziękuję.
+Czy widzisz? Spojrzyj na nią, na jej lice,
+Patrz, tam, tam!
+
+/ kona /
+
+
+EDGAR
+
+                        Mdleje! Panie, panie!
+
+
+KENT
+
+O, pęknij serce! O, błagam cię, pęknij!
+
+
+EDGAR
+
+Panie, spójrz na nas!
+
+
+KENT
+
+                        Nie dręcz próżnym słowem
+Smutnego ducha; pozwól, niech uleci.
+Ten wrogiem jego, kto by jeszcze pragnął
+Wplatać go dłużej w twarde świata koło.
+
+
+EDGAR
+
+Skonał naprawdę.
+
+
+KENT
+
+                        W tym dziw, że tak długo
+Mógł przywłaszczonym tylko istnieć życiem.
+
+
+ALBANY
+
+Wynieście ciała. Pierwszą troską naszą
+Będzie powszechna, królewska żałoba.
+Do Kenta i Edgara:
+W ręce wam daję rządy, przyjaciele,
+Namiestnikami wy bądźcie moimi,
+Opatrzcie rany zakrwawionej ziemi.
+
+
+KENT
+
+Na mnie już długa podróż czeka, panie;
+Za królem idę na jego wezwanie.
+
+
+ALBANY
+
+Woli przeznaczeń poddać się musimy,
+Nie co chcem mówić, ale co czujemy.
+Co zniósł najstarszy w złych czasów powodzi,
+Nigdy już tego nie dożyją młodzi.
+
+/ Wychodzą przy odgłosie pogrzebowego marsza. /

@@ -1,0 +1,5258 @@
+Plaut
+
+Bracia
+tłum. Gustaw Przychocki
+
+ISBN 978-83-288-7544-9
+
+
+
+
+Wstęp
+
+
+I. Komedia grecka
+
+Śmiech był tym głównym pierwiastkiem życiodajnym, z którego urodziła się komedia europejska — w Grecji, tej ojczyźnie wszystkich naszych gatunków literackich. Dlatego też słusznie o komedii mówi Arystoteles, że „ojcem jej jest śmiech”, a jeden z najwybitniejszych przedstawicieli tzw. starej komedii attyckiej, *Arystofanes*, każe siebie „sądzić tylko według tego, czy i o ile śmiech umie wywołać”. Tak też i jego komedia jest najpotężniejszą afirmacją życia i jego radości, a w najśmielszych swych wybuchach najlepszą karm dla swego śmiechu znajduje w satyrze politycznej i osobistej zaczepce. Pod wpływem zmienionych warunków politycznych po upadku niepodległości Grecji, wraz z ogólnym zubożeniem i wraz z wzmożonym wpływem filozofii spekulatywnej, komedia grecka tego okresu, tzw. komedia nowa, pozbawiona pod naciskiem stosunków społecznych prawie zupełnie zaczepności osobistej i polityki, staje się coraz mniej wesoła, coraz więcej melancholijna i refleksyjna, nieraz zgryźliwa, a zajmuje się już prawie wyłącznie tylko problemami życia ludzkiego (zwłaszcza rodzinnego) i rozważaniem jego wartości czy stosunku do wszechwładnej Tyche. Opierając się głównie na subtelnej analizie charakterów i typów, naśladuje przy tym wszystkim i przede wszystkim samo życie, którego chce być zwierciadłem; toteż nie okazuje ani krzty więcej wesołości, niż jej samo życie posiada, i doprowadza w końcu, pomimo sporadycznych swawolnych reminiscencji, do zupełnego niemal zaniku tej najistotniejszej cechy gatunku, którą był pierwotnie swobodny, niefrasobliwy śmiech. Tendencja wywołania efektu humorystycznego, „komiczność”, schodzi na drugi albo jeszcze dalszy plan, staje się tylko przygodna, jak to nam dziś zwłaszcza wyraźnie okazują wszystkie odkryte w papirusach fragmenty klasyka tej „nowej” komedii, *Menandra*. Jest on co najwyżej „miły” — jak o nim słusznie powiedział Owidiusz — czasem nawet skłoni do uśmiechu, ale do radosnego śmiechu bez zastrzeżeń nie porwie nigdy. Śmiech odzyskać miała komedia dopiero w następnej fazie swego rozwoju, a to na gruncie latyńskim, na który przeszczepili ją już pierwsi rzymscy pisarze.
+
+
+II. Poprzednicy Plauta
+
+Nie wiemy, jak wyglądały te pierwsze komedie, które przedstawiał Rzymianom, począwszy od r. 240 p.n.e., pierwszy dramaturg i pierwszy w ogóle autor rzymski, *Liwiusz Andronikus*. Były to „przekłady”, raczej przeróbki sztuk greckich współczesnego okresu, tj. „komedii nowej” — po tej drodze poszła już później cała prawie komediopisarska działalność Rzymu — ale niewątpliwie musiały one już w rękach Liwiusza ulec znacznym zmianom, jeśli miały się podobać rzymskim widzom, którzy na przedstawienie teatralne szli tylko jako na „dziwowisko” (spectaculum), nie mieli wówczas żadnego wyczucia dla melancholii i subtelności greckich oryginałów, a jeszcze w 80 lat później woleli linoskoczków i gladiatorów niż jakąś mniej wesołą komedię.
+
+O drugim z rzędu komediopisarzu, którym był *Gnejus Newiusz*, gorącego temperamentu Kampańczyk, wiemy już na pewno, że sztuki greckie w znacznej mierze naginał do upodobań rzymskich i próbował nawet złośliwych aluzji do osób i stosunków współczesnych, a zwłaszcza ożywił znacznie monotonne greckie wiersze nowymi rytmami i wszczepił italską werwę tudzież rodzimy dowcip w spokojną dykcję greckich oryginałów. Tendencja komiczna była najwidoczniej już jego główną myślą przewodnią, ale cel ten, by rozbawiać widzów za wszelką cenę i dać im ten ożywczy śmiech, którego jedynie szukali w teatrze, osiągnął w całej pełni dopiero Plautus, ten najgenialniejszy dramaturg rzymski. Wrodzony nerw komizmu, ale też i silna konkurencja coraz śmielej panoszących się w Rzymie roześmianych greckich fars i swawolnych półdramatycznych utworów, które wraz z zawrotną muzyką i tańcem szalonym przychodziły z południowej, greckiej Italii, zadecydowały o typie tych wszystkich zmian, które w swych greckich pierwowzorach przeprowadzał.
+
+
+III. Życiorys Plauta
+
+Nie posiadamy autentycznego życiorysu Plauta. Nawet nazwisko poety, o ile chodzi o jego całość i imię rodowe, ustalone zostało dopiero dzięki badaniom uczonych w drugiej połowie XIX w. jako *Tytus Makcjusz Plautus* (Titus Maccius Plautus), gdyż dawniej zaliczano go stale do rodziny Akcjuszów (Accii), której nazwisko nosił także sławny tragik rzymski L. Akcjusz. O życiu Plauta opowiada nam tylko legenda, i to przekazana dopiero z drugiej ręki. Według tej legendy Plautus zarabia w Rzymie na życie, początkowo „u artystów scenicznych”; później chwyta się rzekomo kupiectwa i wyjeżdża w zamorską podróż handlową; tu jednak szczęście mu nie sprzyja, Plautus traci cały majątek i po powrocie do Rzymu najmuje się jako parobek u młynarza. W przerwach wolnych od pracy pisze sztuki; teraz dopiero odkrywa w sobie swój wielki talent i jako sławny komediopisarz dokonuje żywota. A więc żywot dość zastanawiający, o ile chodzi o karierę autora dramatycznego: artysta sceniczny — kupiec — parobek u młynarza — w końcu najsławniejszy komik rzymski. To coś jak Beaumarchais: zegarmistrz — harfiarz — finansista — polityk i autor słynnych komedii. Skrupulatne jednak prace uczonych, zwłaszcza z początkiem naszego wieku, wykazały, że tą legendą, opracowaną zresztą w zasadniczych punktach na wzór pewnego typu biografii greckiego pochodzenia i opartą po części (bezpodstawnie) na rysach niektórych postaci Plautyńskich, starała się ówczesna rzymska nauka pokryć zupełny niemal brak danych autentycznych, tak że dzisiaj dopiero i z tej legendy plautyńskiej, i z innych luźnych wzmianek w literaturze rzymskiej wybieramy ziarna prawdy — niestety, bardzo nieliczne.
+
+Plautus zatem, z rodziny Makcjuszów, prawdopodobnie w jakiś sposób związanej ze sztuką dramatyczną — jak na to wskazuje imię rodowe, pochodzące od Makkusa, pewnej wybitnej figury italskiej farsy ludowej — urodził się w Sarsynie w Umbrii około r. 250 p.n.e. Nie był tedy rodowitym Rzymianinem, ale już w ojczyźnie swej zapewne nabył dostateczną znajomość języka łacińskiego. O jakichś studiach jego nic nie wiemy, ale przyjąć należy, że później istotnie w Rzymie był zajęty w nieznanym bliżej przedsiębiorstwie „artystów scenicznych” (in operis artificum scaenicorum), tj. w jakiejś organizacji zajmującej się zawodowo przedstawieniami scenicznymi, niewątpliwie za wzorem podobnych a licznych wówczas greckich organizacji tzw. „technitów dionizyjskich”, podejmujących się urządzania najrozmaitszych widowisk przy wszelkich okazjach. To zajęcie wpłynęło zapewne na rozwój jego talentu. Najdawniejszą, prawie pewną datą wystawienia jego komedii jest r. 204 p.n.e., w którym grano Żołnierza samochwała, ale nie ulega wątpliwości, że zaczął pisać komedie co najmniej 10–15 lat wcześniej, gdyż około r. 218 jest już sławnym i uznawanym komediopisarzem. Rówieśnik poety Enniusza i starego Katona, umiera w r. 184 p.n.e.
+
+Działalność jego tedy, rozciągająca się na mniej więcej 35 lat, musiała być bardzo obfita; dziś posiadamy jego komedii 20 i szczątki dwudziestej pierwszej, ale wzmianki i fragmenty, u różnych autorów rzymskich zachowane, wskazują ponadto na przeszło 30 komedii dziś zaginionych i wiemy, że w II w. n.e. znano pod imieniem Plauta aż 130 sztuk. Z tych jednak znaczną część stanowiły zapewne sztuki późniejszych autorów, podszywających się pod imię wielkiego komika.
+
+Wybitnym, cenionym wysoko przez Plauta aktorem, grającym najlepsze jego role, a zapewne także przedsiębiorcą teatralnym i reżyserem był Tytus Publiusz *Pellio*, o którym słyszymy w r. 200 p.n.e. z okazji przedstawienia Stichusa, kompozytorem zaś muzycznym był nieznany nam bliżej *Marcipor*, niewolnik czy wyzwoleniec Oppiusza.
+
+
+IV. Przegląd komedii Plauta
+
+Z powodu braku odpowiednich danych chronologia komedii Plautyńskich ustalić się nie da i dlatego ich przegląd oprzeć się musi na przekazanym przez rękopisy porządku:
+
+1. *Amfitrion* (Amphitruo) to komedia sobowtórów, polegająca na tym, że Amfitrion, wódz tebański, wracając ze swym sługą Sozją z wyprawy wojennej do domu, zastaje tam rozpanoszonego, nawet w alkowie żony, drugiego Amfitriona, który ma za służącego drugiego Sozję. Drugim Amfitrionem jest Jowisz, a drugim Sozją jest Merkury. Tysiączne zawikłania rozwiązuje dopiero sam Jowisz, odkrywając skłopotanemu Amfitrionowi całą prawdę i podnosząc zaszczyt współojcostwa z panem bogów i ludzi.
+
+2. *Komedia ośla* (Asinaria) polega na tym, że pieniądze za sprzedane przez pana domu osły dostaje w swe ręce, za pomocą pomysłowego fortelu, sprytny niewolnik, po to, aby zapewnić paniczowi wydobycie z rąk stręczycielki jego kochanki. Gdy ojciec, znakomity pantoflarz, a sprzyjający po cichu synowi, chce w nagrodę za to wziąć udział w jego zabawie z kochanką, wpada na to straszna jego a mściwa żona i pędzi skompromitowanego małżonka do domu.
+
+3. *Skarb* (Aulularia) zawiera postać starego skąpca Eukliona, który właśnie dowiaduje się, że mu skradziono ukochaną stągiewkę (aula) z pieniędzmi, a dawniej jeszcze uwiedziono córkę. Młody uwodziciel sam zgłasza się ze skruchą, ale stary niezbyt się wzrusza katastrofą córki wobec katastrofy skarbu; kiedy jednak przez podstęp niewolnika skarb dostaje się do rąk młodego uwodziciela, ten zwraca go staremu i zapewne w zamian za to otrzymuje córkę za żonę, być może ze skarbem, jako posagiem.
+
+4. *Siostry* (Bacchides). Dwie bliźnie siostry, hetery o tym samym imieniu (Bacchis), łapią w swe sidła dwóch młodzieńców, z których jeden wyłamuje się w tym celu spod opieki guwernera, drugi zaś przez chytrego niewolnika dwukrotnie wyłudza pieniądze od ojca. Obaj zagniewani ojcowie przypuszczają szturm do domku dwóch dziewcząt, by stamtąd wydobyć zbłąkanych młodzieńców, ale sami ulegają czarom przebiegłych heter.
+
+5. *Jeńcy* (Captivi). Tematem tej poważnej sztuki jest odzyskanie przez strapionego ojca dwóch synów: jednego zaginionego przed laty, drugiego zabranego właśnie w niewolę, przy czym są elementy wzruszające, zwłaszcza w poświęceniu się szlachetnego niewolnika za swojego pana.
+
+6. *Panna młoda* (Casina). Ojciec i syn rywalizują w pozyskaniu pięknej służącej imieniem Casina i obaj chcą ją wydać za mąż za swoich niewolników, mających być tylko figurantami. Staremu udaje się odnieść zwycięstwo nad synem, ale wskutek chytrości i złośliwego podstępu zazdrosnej żony okazuje się w krytycznej chwili, że „panna młoda” jest przebranym niewolnikiem, który okłada pięściami i pędzi niedoszłego „pana młodego” aż przed oblicze triumfującej żony.
+
+7. *Komedia skrzynkowa* (Cistellaria) traktuje o nieszczęściach miłosnych młodzieńca, w którego kochance, przeznaczonej już na heterę, rozpoznają w końcu rodzice (przy pomocy skrzyneczki z bawidełkami) porzuconą niegdyś córką, dając ją młodzieńcowi za żonę.
+
+8. *Kurkulio* (Curculio) nazywa się pasożyt, który za pomocą skradzionego sygnetu fałszuje list i wydobywa z rąk stręczyciela kochankę młodego Fedromusa. W końcu okazuje się, że dziewczyna jest wolno urodzona, i wychodzi za mąż za Fedromusa, a wszystko krupi się na znienawidzonym stręczycielu.
+
+9. *Epidikus* (Epidicus) to imię wygi niewolnika, który wspomagając panicza w miłostkach, skłania swym niesłychanym sprytem starego do zakupienia kolejno dwóch dziewcząt i wmawia w niego, że jedna jest jego zaginioną córką, a druga niebezpieczną kochanką syna, aż wreszcie w trzeciej dziewczynie, którą młodzieniec przywiózł jako brankę z wojny, rozpoznaje naprawdę zaginioną niegdyś córkę pańską, i wszystko dobrze się kończy.
+
+10. *Bracia* (Menaechmi) to druga komedia sobowtórów. Jeden Menechmus szuka drugiego Menechma, swego zaginionego niegdyś bliźniego brata, i przybywa przypadkiem do miasta, gdzie tam ten właśnie mieszka. Skutkiem łudzącego podobieństwa braci wynika cała masa najkomiczniejszych nieporozumień, aż wreszcie bracia spotykają się i poznają.
+
+11. *Kupiec* (Mercator) ma za temat znów rywalizację ojca z synem, którym chodzi o zdobycie pięknej dziewczyny. Staremu udaje się chwilowo odnieść zwycięstwo, sprząta synowi z przed nosa dziewczynę i umieszcza ją na razie w domu sąsiada, którego żona bawi na wsi. Nagle żona wraca niespodziewanie, zastaje podejrzaną dziewczynę i piekło rozpętuje się nad głową najniewinniejszego w świecie męża. Wszystko się wydaje i ojciec młodzieńca z obawy przed swoją znów żoną ustępuje synowi.
+
+12. *Żołnierz samochwał* (Miles gloriosus). Butny a głupi oficer Pyrgopolinices zabrał młodzieńcowi jego kochankę. Młodzieniec spotyka się z nią jednak dzięki sprytnemu pomysłowi przebicia ściany, a w końcu, przez podsunięcie zarozumiałemu na swą urodę oficerowi, przy pomocy chytrego niewolnika, zakochanej w nim niby, rzekomej żony sąsiada, odbiera mu dziewczynę. Oficer wpada przy tym w strasznie kompromitującą go zasadzkę.
+
+13. *Strachy* (Mostellaria). Ojciec wraca najniespodzianiej z podróży, podczas gdy w domu, dzięki rozrzutnemu synalkowi, „tańce, hulanka, swawola”. Sprytny niewolnik nie dopuszcza jednak starego do domu, pod pozorem, że tam zagnieździły się strachy; dom jest rzekomo opuszczony, a syn kupił dom sąsiada. Po całej serii krętactw niewolnika wydaje się wprawdzie wszystko, ale stary daje się przebłagać.
+
+14. *Pers* (Persa). Tematem tej sztuki są amory niewolników, którzy chytrze wydobywają z rąk stręczyciela nie tylko swą kochankę, ale i potrzebne na wszystko pieniądze, a to przy pomocy niewolnika, przebranego za Persa i sprzedającego stręczycielowi rzekomą brankę. Kończy sztukę wesoła uczta, przy której nie brak i tańca.
+
+15. *Punijczyk* (Poenulus). Jest to historia odnalezienia przez Punijczyka Hannona w Kalidonie swego zaginionego niegdyś bratanka i również zaginionych dwóch córek, które wpadły w ręce stręczyciela i właśnie miały zostać heterami. Spryt niewolnika pogrąża znienawidzonego stręczyciela, a bratanek dostaje za żonę jedną z sióstr przyrodnich, w której dawno się kochał.
+
+16. *Pseudolus* (Pseudolus), „Krętacz” nazywa się przebiegły niewolnik, który za pomocą podstawionego posłańca wydziera kochankę panicza z rąk stręczyciela, a od ojca panicza wyłudza potrzebne na opłatę miłostek pieniądze za pomocą genialnie pomyślanego i wygranego zakładu.
+
+17. *Lina* (Rudens) ma treść zupełnie podobną do Komedii skrzynkowej, z tą jedynie różnicą, że z obojga rodziców żyje tylko ojciec, a dziewczyna została przed laty przez kogoś porwana.
+
+18. *Stichus* (Stichus) nazywa się niewolnik grający pewną rolę w tej płaczliwej, ale dziwnie skróconej i zmienionej historii o dwóch żonach, które w czasie długiej nieobecności swych mężów żyją w wielkiej opresji, aż wreszcie wybawia je niespodziewany powrót małżonków. Rzecz kończy się bardzo wesołym i hałaśliwym baletem.
+
+19. *Dzień trzygroszowy* (Trinummus) przedstawia historię życia i ożenku lekkomyślnego, ale zacnego w gruncie rzeczy młodzieńca-hulaki, trwoniącego w nieobecności ojca cały majątek.
+
+20. *Gbur* (Truculentus). Gburem jest niewolnik wiejski, który chce początkowo ratować młodego pana swojego, wyzyskiwanego bezczelnie przez chytrą heterę, ale sam w końcu wpada w sidła zastawione na niego przez pokojówkę hetery. Panicz jednak skutkiem rozpoznania podstawionego dziecka wraca do swej narzeczonej. Bohaterką sztuki jest hetera, swą wyrafinowaną przebiegłością wodząca za nos trzech kochanków.
+
+21. *Komedia koszykowa* (Vidularia). Sztuka ta, z której przechowały się tylko szczątki, polegała prawdopodobnie na odnalezieniu i rozpoznaniu (przy pomocy koszyka z bawidełkami) zaginionego niegdyś syna.
+
+Ścisła klasyfikacja komedii Plauta nie jest możliwa, ponieważ ani w klasycznych, ani w nowożytnych kategoriach nie mieszczą się poszczególne komedie bez reszty. Ze względu jednak na rolę, jaką w jego sztukach gra przebiegłość i podstęp, można by prawie wszystkie nazwać komediami intryg. Za komedie charakteru można by uważać Skarb (skąpiec), Żołnierza (samochwał), Gbura (hetera), a za dramaty rodzinne, miejscami wzruszające (comédies larmoyantes), Jeńców, Komedię skrzynkową, Linę, Dzień trzygroszowy, Stichusa (w pierwszej części) i zapewne Komedię koszykową, chociaż i te są obficie przesiąknięte pierwiastkami intrygi. Ze względu na nieprawdopodobieństwo pomysłów i szalone tempo komiczne mogłyby znów komedie Plautyńskie w znacznej mierze uchodzić za farsy, tak jak większość Molierowskich — a przez to, że są zawsze ożywione partiami śpiewanymi, nieraz bardzo licznymi, czasem nawet baletem, mogłyby być nazwane operetkami. Plautus najchętniej i najlepiej pisze komedie intryg i podstępów, zakochany jak prawdziwy Italczyk w każdym imbroglio, a im która sztuka swawolniejsza, tym więcej mu się podoba. Tak jak i jego widzom, którzy przepadali np. za Panną młodą, a jakoś nie bardzo chcieli oklaskiwać Jeńców, ostentacyjnie „moralnych”.
+
+*
+
+
+
+Komedie Plautyńskie są komediami *typów*, tak jak cała grecka „komedia nowa” — i cała zresztą komedia europejska aż do XIX w. Są to oczywiście typy greckie, ponieważ tego wymagał z jednej strony styl gatunku, nazwanego nawet u Rzymian od stale greckiego stroju tych postaci „komedią w greckim płaszczu” (fabula palliata), a z drugiej strony — policja rzymska, która by wówczas na wprowadzanie osobistości rzymskich w atmosferze tych sztuk greckich nie była pozwoliła. Postaci te to, ogółem biorąc, mieszczaństwo kupieckie, grające główną rolę w ówczesnym społeczeństwie greckim, kwietystycznym, pozbawionym wszelkich ideałów. Przeważają tu, podobnie jak u Moliera i Fredry, postaci męskie, pomimo iż we wszystkich prawie sztukach gra idzie o kobietę, a pierwiastek erotyczny z niewielu tylko wyjątkami, jak np. w Jeńcach, okazuje się nieodzowną częścią fabuły.
+
+Parę kochanków stanowią zwykle młodzieniec i hetera (rzadziej córka obywatelska). Do obozu przeciwnego należą: ojciec, żołnierz, stręczyciel lub stręczycielka, czasem bankier; wykonawcą zaś całej akcji jest z reguły sprytny niewolnik, zaufany powiernik młodego pana. Czasem występuje też, jako element przeszkadzający, ale z góry skazany na niepowodzenie, druga miłość, tj. donżuaneria ojca czy też rywalizacja żołnierza. Żołnierz jest bardzo często postacią błaznowatą, służącą do rozweselenia widzów, tak jak stale do tych celów wprowadzany pasożyt. Najwybitniejszą rolę w akcji i przeprowadzaniu fabuły gra wśród postaci Plautyńskich niewolnik, występujący we wszystkich sztukach, i żona, zwłaszcza małżonka terroryzująca męża; to są też postaci, obok pasożyta, najwięcej przez samego Plauta ulubione. Plautus bowiem do wszystkich swych postaci odnosi się z żywą sympatią, nieraz wyraźnie staje po stronie tej lub owej osobistości lub wprost z nią się w danej akcji utożsamia; dlatego też, pomimo iż nie są one jego własnymi kreacjami, żyją wszystkie życiem prawdziwym, pełnym werwy i italskiego, Plautyńskiego temperamentu.
+
+
+V. Charakterystyka twórczości Plautyńskiej
+
+*Cechy charakterystyczne* twórczości Plautyńskiej występują najlepiej na tle stosunku Plauta do oryginałów greckich.
+
+Plautus nie ma potrzeby ukrywać (wobec ówczesnych zapatrywań literackich) i nie ukrywa wcale, że sztuki swoje zapożycza od greckich komediopisarzy; raczej nawet w prologach swych wyraźnie tym się przechwala. Dzięki tym wzmiankom i innym źródłom wiemy, że wśród pierwowzorów Plauta są wprawdzie sztuki trzech klasyków greckiej „komedii nowej”, *Menandra*, *Filemona*, *Difilosa*, ale jest też i sztuka nieznanego nam dzisiaj zupełnie *Demofilosa*, co wskazuje na to, że Plautus nie ulegał zbytnio sugestii autorytetów w doborze swych wzorów, zmieniając zresztą nieraz w sposób zupełnie swobodny, stosownie do swych własnych tendencji, przejęte sztuki, i doczepiając nawet czasem do zasadniczej komedii postaci, sceny i całe partie z innych sztuk greckich („*kontaminacja*”). Menander np. nie byłby może nawet rozpoznał swej sztuki w Plautyńskim Stichusie, zwłaszcza w jego drugiej połowie.
+
+W kompozycji sztuk trzyma się Plautus zasadniczo greckich oryginałów i na ogół greckich postulatów, ale okazuje przy tym wiele oryginalnej swobody, polegającej zwłaszcza na bardzo śmiałych *skrótach*, gdy np. obcina całe końcowe partie sztuk greckich, o ile nie wydają mu się dosyć zajmujące, i każe w sowizdrzalski sposób występującej w danej chwili osobie motywować swoje zejście ze sceny lub decyzję tym, że „zarazem skróci się przez to sztukę”, a „reszta odbędzie się już za sceną” — lub na interesujących dla jego widzów *wstawkach*, które nie mają nieraz nic wspólnego z całą fabułą i akcją. Często również szarpie w komiczny sposób *iluzję sceniczną*, każąc swym aktorom komunikować się ze sceny z publicznością i w najzabawniejszy sposób wypadać z roli. W ogóle Plautus lekceważy sobie zupełnie tak cenioną przez Greków zwartość i całość kompozycyjną, a dąży głównie do zajmującego i rozweselającego oddziaływania na widzów momentem, chwilą, nieraz zupełnie oderwaną od całości, operując przy tym swym niezrównanym wirtuozostwem *komizmu sytuacyjnego*, jakiego nie okazuje w ogóle żaden inny komediopisarz klasyczny.
+
+W *doborze typów*, chociaż ciągle w ramach przejętych fabuł, wyolbrzymił Plautus niewątpliwie rolę niewolnika, który w greckich oryginałach grał rolę bardzo wybitną, ale bynajmniej nie dominującą, a być może, że podobnie ma się sprawa z tak faworyzowanymi przez Plauta postaciami pasożyta i żony zjadliwej. Dążąc również i w kreśleniu swych typów do efektu komicznego za wszelką cenę, nie dba tu Plautus wiele — w przeciwieństwie do greckich autorów — o istotną prawdę życiową (typów zresztą w życiu nie ma) i postaci swe nieraz przesadnie ośmiesza lub karykaturuje, mając do rozprowadzenia olbrzymi zasób własnych przeważnie, a niezmiernie efektownych sposobów charakterystyki i świetnych rysów *komiki charakterów*, tym żywszych, że Plautus znakomicie „widzi” swoje postaci.
+
+Niezmiernie silnie zaznaczyła się indywidualność Plauta w jego *stylu i języku*, który należy do najciekawszych i najwspanialszych zjawisk literatury rzymskiej, a może i europejskiej w ogóle, tak że żadnym innym językiem w całości oddać się nie da. Mowa Plautyńska, iskrząca się tysiącznymi barwami stylowymi i językowymi, niewyczerpanymi dowcipami, igraszkami, figlami i grami słów, wre niemal ciągle i kipi nieposkromionym temperamentem, stwarzając przez swą werwę ten jedyny w swoim typie i tempie dialog Plautyński, któremu równego próżno szukać w spokojnie i z umiarkowanym tylko ożywieniem płynących rozmowach greckich jego wzorów z poarystofanesowskiego okresu. Wśród nieprzeliczonych środków Plautyńskiego *komizmu słów* ogromną rolę grają śmiało tworzone nowe, przekomiczne wyrazy, stopniowania wyrazów, których w ogóle stopniować nie można, jedyne Plautyńskie imiona mówiące i niesłychane etymologie, a zwłaszcza to zupełnie świadome i celowe, a bardzo dowcipne pokpiwanie z greczyzny i z greckich cech języka. Tak dworuje sobie z wytwornych Greków rubaszny Rzymianin, który zamiast salonowego uśmiechu wyrafinowanej pointy dał swoim widzom zdrowy śmiech od ucha do ucha, ale bodajże nigdy nie przekroczył miary przyzwoitości, nakazanej wrodzonym, czysto rzymskim poczuciem przystojności (verecundia).
+
+Rzymskie poczucie przyzwoitości, na głębokiej szczerości oparte, nie wykluczało jednak bezpośrednich i choćby najsilniejszych wybuchów zadowolenia czy niezadowolenia i dlatego tak często spotykamy u Plauta „*harce słowne*”, przekomarzania się, sprzeczki i kłótnie, obfitujące nieraz w ulubione po dziś dzień u południowców koncerty soczystych obelg — w których Plautus jest mistrzem — ku szalonej radości swych widzów. Plautus sięga bowiem często do bogatej skarbnicy języka potocznego czy ludowego, a jeśli jego mistrzowie greccy dążyli w swym języku do jak największej poprawności i wytworności, to język Plauta był wprawdzie językiem ówczesnej inteligencji rzymskiej, ale ma typ ogólny języka codziennego, nieliterackiego, i to z silną przymieszką jędrnego jargon du jour. Bo też podczas gdy greccy komediopisarze chcieli dać w swym języku, obok wzorowej czystości samej mowy, najlepszy wyraz najsubtelniejszym drgnieniom duszy ludzkiej, to Plautus stworzył w swym języku nie tylko znakomite i zdumiewająco precyzyjne narzędzie kreślenia myśli i uczuć, ale przede wszystkim *samoistny* czynnik rozweselający i bawiący, o jakim styl Menandra nie ma pojęcia. Toteż język Plautyński budził entuzjazm już w całej starożytności klasycznej u wszystkich tych, którzy mieli wyczucie i zrozumienie dla rodzimego ducha i temperamentu. Jest oczywiście przesadą, jeśli jeden z uczonych rzymskich mówi, że „gdyby Muzy miały mówić po łacinie, to mówiłyby językiem Plautyńskim”, ale jest prawdą, że humor i dowcip Plautyński jest najlepszym wyrazem rodzimego, czysto rzymskiego humoru i dowcipu.
+
+Odbiegł też Plautus bardzo znacznie od oryginałów greckich w zakresie *kompozycji metrycznej*. Jeśli w greckich oryginałach istniały zasadniczo — z bardzo małymi wyjątkami — tylko mówione miary wierszowe, to Plautus posiada w każdej sztuce nieraz bardzo liczne i długie partie w skomplikowanych często metrach, zupełnie nieznanych greckim wzorom, tzw. cantica, albo śpiewane, albo recytowane melodramatycznie przy muzyce i połączone czasami nawet z tańcem. Wprowadził je Plautus zapewne śladem Newiusza, na wzór partii śpiewanych rzymskiej tragedii i pod wpływem współczesnej greckiej lekkiej poezji scenicznej, która coraz większym wzięciem cieszyła się w Rzymie — a jego myślą przewodnią była i tutaj chęć jak największego urozmaicenia i ożywienia monotonnych sztuk greckich gwoli zabawy rzymskich widzów. W ten sposób stworzył Plautus pierwszą *operetkę*.
+
+Partie śpiewane (arie) wykonują aktorzy, bo komedie Plautyńskie nie mają *chóru*, tak jak nie mają go już w pierwotnym znaczeniu jego wzory greckie — ale nie brak śladów, że w przerwach, potrzebnych dla wypoczynku lub przebrania się aktora, wprowadzał Plautus czasem — tak jak to i Grecy nieraz robili — jakiś śpiewacko-taneczny występ osób luźno tylko ze sztuką związanych, np. orszak rozochoconych biesiadników. Czasem znów — na co znów w greckich sztukach nie ma przykładu — dawał w tych przerwach po prostu samą tylko *muzykę* lub występ jakiejś postaci, mającej — niby typowy farceur — swym komicznym gadaniem zająć tymczasem i rozśmieszyć publiczność.
+
+Samej istotnej fabuły greckiej poza rzadkimi wyjątkami Plautus zasadniczo nigdy nie romanizuje, raczej usprawiedliwia i wyjaśnia widzom swym zwyczaje i właściwości życia greckiego, ale za to śmiało, nawet świadomie zbyt śmiało, nadaje tym greckim sztukom *koloryt* rodzimy, czysto *rzymski*, nie troszcząc się przy tym wcale o konsekwencje czy niekonsekwencje artystyczne. Tak więc ci jego Grecy, w greckich występujący miastach i w greckim stroju, greckie noszący imiona, wzywają bóstw czysto rzymskich, idą nagle na rzymskie forum czy comitium, obradują w senacie, spory sądowe załatwiają przed pretorem czy edylem, i to często na czysto rzymski sposób; słyszymy o „dyktaturze”, o „klientach”, o „odejściu na prowincję”; jeńców wojennych kupuje się u kwestorów, jest mowa o cenzorach, treswirach, liktorach, publikanach; młodzieńcy idą do legionu, mówi się o centuriach, manipułach, tribus, dekuriach itd. Rzecz dzieje się w jakiejś greckiej stolicy, ale jej mieszkańcy pokpiwają sobie z prowincjonalnych mieścin latyńskich, takich jak Cora, Aletrium, Frusino lub to nieszczęsne, najniemiłosierniej wyśmiewane Praeneste; całe miasto niby greckie, ale wśród akcji pojawiają się nagle wzmianki o rzymskich bramach, ulicach, placach, budynkach, świątyniach, a kilka razy nawet spotykamy nadzwyczaj barwne obrazki, wzięte wprost z życia ulicy ówczesnego Rzymu.
+
+Najdonioślejszą jednak zmianę, może za impulsem Newiusza, wprowadził Plautus w *nastroju i tendencji* sztuk greckich. Poza ożywieniem i urozmaiceniem spokojnych sztuk greckich za pomocą swego niezrównanego dialogu, przez rozmalowanie (i przejaskrawienie czasem) poszczególnych scen i partii, przez wprowadzenie muzyki, śpiewu i tańca, wypowiedział Plautus stanowczą wojnę wszystkim ponurym nastrojom i refleksjom, które w jego pierwowzorach zupełnie przysłoniły pierwotną jasność humoru komedii greckiej, staroattyckiej. Jak gdyby obawa jakaś przed sentymentalnością i patetycznością (horror sublimitatis) każe mu w znakomity sposób karykaturować i rozśmieszać wszystkie płaczliwo-wzruszające sceny oryginałów, i poza wypadkami, w których robi koncesję lub eksperyment, odnosi na całej linii zwycięstwo. Postawiwszy wszystko pod hasłem bawienia i śmieszenia za wszelką cenę, a nie uznając ani filozofowania, ani moralizowania w teatrze, daje widzom swym przede wszystkim swobodny i niefrasobliwy śmiech; anemicznej komedii greckiej doprowadza świeżą krew niezrównanego komizmu charakterów, sytuacji i słów i przywraca zamierającemu już gatunkowi jego pierwotną i istotną siłę życia, którą jest vis comica.
+
+
+VI. Wpływ Plauta
+
+*Wpływ Plauta* na późniejszą komedię rzymską był olbrzymi. Sztuki jego grano długo jeszcze po jego śmierci, a plautynizm, czy to w języku, czy stylu, czy tendencji, widoczny jest u wszystkich późniejszych komediopisarzy, wszystkich gatunków bez wyjątku. Komediopisarze ci uważali sobie to za zaszczyt, jeśli ich sztuki mogły uchodzić za Plautyńskie i to też było najlepszym dla widzów rzymskich poleceniem. Jedną tylko próbę antyplautyńską podjęło koło filhellenów, wysuwając przeciw suwerenności komedii Plautyńskich i ich typowi *Terencjusza*, który nie tyle za popędem swego talentu, ile za namową swych możnych przyjaciół i teoretycznie wysnutym ich postulatem spróbował nawrócić znów do czystego typu wzorów greckich. Wynik był katastrofalny, bo na Terencjuszu zemścił się brak talentu i tej ulubionej już przez rzymskich widzów „siły komicznej” — pomimo iż przedsiębiorcy teatralni zmuszali po prostu rzymską publiczność do słuchania sztuk jego. Wiemy o wypadkach, że na jego sztukach publiczność nie chciała dosiedzieć do końca, a w rezultacie komedia rzymska, pozbawiona swej duszy, którą była moc śmiechu, w ogóle żyć przestaje i z Terencjuszem schodzi właściwie do grobu.
+
+Terencjusza wydobywają jednak *wieki średnie*, gdzie rozstrzygała nie istotna wartość komedii jako takich, ale kwestia tzw. ich moralności i poprawności, a raczej łatwości języka — pro mediocritate fratrum. Terencjusz mógł istotnie służyć za wzór czystej łaciny, dawał się nawet nietrudno „oczyszczać”, ba, „chrystianizować”, a opanować niesforną werwę języka i swawolny humor komedii Plautyńskich nie było łatwo — chociaż i tak wpływ Plauta w wiekach średnich jest widoczny.
+
+Do znaczenia swojego wraca Plautus z odrodzeniem dobrego smaku, tj. z przyjściem *Renesansu*, zwłaszcza po znalezieniu w r. 1428 reszty jego komedii, nieznanych w wiekach średnich. Prym wiodą tutaj *Włochy*, gdzie prawie bezpośrednio po ukazaniu się w Wenecji pierwszego wydania Plauta (w r. 1472) zaczynają się liczne przedstawienia jego komedii na dworze papieskim i na dworach książęcych w Mediolanie, Mantui, Florencji, a zwłaszcza w Ferrarze. Wśród komediopisarzy włoskich korzystających ze sztuk Plautyńskich znajdują się najwybitniejsze nazwiska, a więc np. Ariosto, który w swych I suppositi oparł się na Plautyńskim Amfitrionie, Braciach i Jeńcach, Macchiavelli, autor przeróbki Panny młodej pt. Clizia, słynny kardynał Bibbiena, gran ladro di Plauto, jak się sam nazywa, dalej wybitni komediopisarze cinquecenta, tacy jak Cecchi, Dolce, Gelli, których cała niemal działalność zależna jest od Plauta. Wreszcie i *Goldoni*, namawiany do studium filozofii, „żywił swego ducha” — jak sam opowiada — „dużo pożyteczniejszą i milszą »filozofią«, tj. Plautem, Terencjuszem, Arystofanesem i fragmentami Menandra”.
+
+Pod wpływem Włochów i ich aktorów zapoznaje się z Plautem *Francja* i od razu również jego wpływowi ulega. Z Plauta korzystają poprzednicy Moliera, jako to: Larivey, Rotrou, dalej Quinault i Corneille (L'Illusion comique), a wreszcie i sam *Molier*, który wyszedł z farsy i dlatego Plautowi jest najbliższy ze wszystkich komediopisarzy francuskich, a może i europejskich. Właśnie to, co najwięcej charakteryzuje Plauta, mieści się w trafnych słowach charakterystyki Moliera, wypowiedzianych przez Lansona: La tâche du poète est done d'extraire le rire de toutes les parties de la vie qu'il veut présenter, ou de l'y ajouter. Znaną jest np. rzeczą, że jego Amfitrion jest przeróbką Plautyńskiego, że jego Skąpiec nie byłby powstał bez Plautyńskiego skąpca w Skarbie, ale wybitne wpływy Plautyńskie widoczne są także jeszcze wyraźnie np. w charakterystyce i roli wszystkich jego sprytnych służących, jego lekarze są zależni od lekarza Plautyńskiego w Braciach, występ pani Jourdain wobec zalotów męża do Dorymeny w Mieszczaninie szlachcicem (IV, 2) jest (słabszą) repliką pogromu męża w Plautyńskiej Komedii oślej itd. Wpływ Plauta na Moliera jest znacznie większy, niż to wykazują dotychczasowe badania. Również i następca Moliera *Regnard* naśladuje Plauta, a *Beaumarchais* wziął pomysł zasadniczy swego Wesela Figara z Plautyńskiej Panny młodej, przy czym cały Figaro jest tylko nową inkarnacją sprytnego niewolnika Plautyńskiego, a np. drugi kuplet Zuzanny jest nawet dosłowną przeróbką pewnej partii z Plautyńskiego Kupca.
+
+I w nowszych czasach okazuje Francja żywe zainteresowanie się Plautem. Tak np. w latach 1907, 1910 i 1912 wystawia w Paryżu Henri *Dargel* z wielkim powodzeniem swe znakomite farsy: La Comédie des Anes, Casina, Le Militaire avantageux, które są zmodernizowanymi i bardzo zręcznymi parafrazami Plauta, a nawet najnowsi komediopisarze, jak Tristan *Bernard* i Louis *Verneuil*, chętnie korzystają z motywów plautyńskich (p. niżej).
+
+Pod wpływem Plauta są również pisarze *hiszpańscy i portugalscy*. I tak Calderona Książę Niezłomny ma cechy zapożyczone z charakterystyki szlachetnego niewolnika w Jeńcach Plauta, a wielki twórca Luzjadów, Camoens, opracował Plautyńską sztukę w swych Os Enfatriõs (Amfitrionowie).
+
+Wśród narodów germańskich wymienić należy przede wszystkim „*duńskiego* Plauta”, Holberga, który oprócz innych sztuk opracował zwłaszcza Żołnierza Plautyńskiego w swej sztuce Jacob von Tyboe, a w komedii Abracadabra dał odbicie Strachów.
+
+W *Anglii* już tzw. pierwsza angielska komedia Udalla pt. Ralph Roister Doister (z r. 1566) powstała w wyraźnej zależności od Plauta, tak w stylu, jak i w swych głównych typach (żołnierz samochwał i pasożyt), a *Szekspir* okazuje znajomość Plauta wcale wydatną. Na Plaucie opiera się nie tylko w zupełności jego Komedia pomyłek, ale i cały szereg innych, drobniejszych szczegółów, np. przebieranka w Poskromieniu złośnicy, wzięta z Dnia trzygroszowego, nazwy niewolników w tejże sztuce, wzięte ze Strachów, budowa i typ epilogów w komediach i wiele innych. Pod znacznym wpływem Plauta stoi również uczony Ben Jonson, później Tomasz Heywood i (częściowo za pośrednictwem Moliera) także Henryk Fielding.
+
+*Niemcy* mają już w początkach XVI w. wydania i przekłady Plauta; w okresie wojny trzydziestoletniej daje Gryphius w swym Horribilicribrifaxie dwie repliki Plautyńskiego Samochwała, a później Lessing pisze i planuje na wzór Plauta szereg komedii, jako to Der Schatz na wzór Dnia trzygroszowego, Weiber sind Weiber według Stichusa, Justin na podstawie Pseudolusa. Najwięcej jednak zajmuje się Plautem Reinhold *Lenz*, który zachęcony przez Goethego, wydaje w r. 1774 Fünf Lustspiele nach dem Plautus fürs deutsche Theater.
+
+Do historii Plauta w *Polsce* brak wszelkich, nawet wstępnych badań, ale już wiadomości dorywczo zebrane składają się na dość ciekawy obraz. I tak okazuje się, że prawdopodobnie już w w. XIV, a na pewno w w. XV czyta się u nas i przepisuje średniowieczne przeróbki komedii Plautyńskich (De Geta et de Birria), a w tymże wieku słyszymy o *Grzegorzu z Sanoka*, że czytał sztuki Plautyńskie i wziął się nawet do pisania na ich wzór nowej komedii. W w. XVI wykładają już Plauta na Wszechnicy Jagiellońskiej i w związku z tymi wykładami ukazują się w opracowaniu *Mymerusa* pierwsze polskie edycje komedii Plautyńskich (niemal wszystkie jedyne do dziś dnia w Polsce), którym patronuje miłośnik widocznie i znawca Plauta, Krzysztof Szydłowiecki. Plautus znajduje się już w tym czasie w księgarniach i prywatnych bibliotekach, znają go też dobrze polscy humaniści, np. kanclerz i hetman wielki koronny *Jan Zamoyski*, na którego dworze powstaje najciekawszy w Polsce objaw zamiłowań plautyńskich: Potrójny z Plauta, komedia *Piotra Cieklińskiego*. Jest to bardzo zręczna i niezmiernie zajmująca przeróbka Plautyńskiego Dnia trzygroszowego, który w rękach młodego humanisty przemienił się na żywą po plautyńsku, ale swojską na wskroś po polsku komedię, zawierającą barwne odbicie współczesnego życia. Ciekliński chwycił się tutaj tej samej metody, za pomocą której Plautus przerabiał komedie greckie, a niezmierna to szkoda, że pracy swej nie kontynuował, gdyż stworzyłby był niezawodnie polską komedię już wtedy, kiedy to Polska dzielnie jeszcze dotrzymywała kroku w kulturze europejskiej wszystkim narodom Zachodu. Potrójny bowiem, powstały między r. 1575 a 1578, jest dzięki Plautowi pierwszą u nas prawdziwą komedią i obok Odprawy Kochanowskiego jednym z pierwszych w ogóle dramatów Odrodzenia w Polsce. Wpływ Plauta widoczny jest też w zawiązkach rodzimej komedii staropolskiej w. XVI i XVII, tj. *w intermediach i komediach rybałtowskich*; sztuki Plautyńskie znajdują się w repertuarach teatralnych *zagranicznych trup* aktorskich, bawiących w Polsce, a postaci Plautyńskich komedii występują w nowych inkarnacjach na scenie *teatru Władysława IV*.
+
+Również i *dramat jezuicki*, stanowiący jedyny właściwie w Polsce stały teatr od końca XVI w. przez cały wiek XVII i XVIII, pomimo zasadniczej niechęci jezuitów do rzymskiej komedii okazuje wielką zależność od Plauta — o ile to dziś ocenić można, wobec nieopublikowania większości repertuarów tego teatru. Szereg postaci w znanych dziś komediach jezuickich wywodzi się ostatecznie od typów Plautyńskich, a wśród komedii „szkolnych” *Bohomolca*, jak to zwłaszcza ostatnio szczegółowo wykazano, znajdują się sztuki będące tylko przeróbkami i połączeniami sztuk Plautyńskich.
+
+Niewolna od wpływów Plautyńskich jest też i *komedia stanisławowska* (prawie zaniedbana przez historyków polskiej literatury), w której niewątpliwie, obok przecenianego zwykle oddziaływania Moliera, znajdują się (bezpośrednie i pośrednie) zależności od Plauta.
+
+Zamiłowanie do Plauta zaznaczyło się też wyraźnie z początkiem w. XIX w Wilnie, w kole *Groddecka*, wyrażającego się z pietyzmem o „drogich ułamkach Plauta”. Z jego szkoły pochodził *Jan Stanisław Hryniewicz*, ostatni w Polsce wydawca komedii Plautyńskich (w latach 1820–1823), a inny jego uczeń, i to *Adam Mickiewicz* zna Plauta na tyle, że objaśnia go później na katedrze lozańskiej.
+
+Dzięki najnowszym badaniom wiemy już, że *Fredro* znał Plauta niewątpliwie, że szereg jego postaci wywodzi się od postaci Plautyńskich, że np. jego Papkin jest „potomkiem rzymskich pasożytów” z domieszką pewnych rysów Plautowego Żołnierza samochwała. Dodać można, że np. również i lichwiarz Łatka w Dożywociu jest zapewne polską inkarnacją skąpca Plautyńskiego, że służba Fredry ma nieraz te same cechy, co niewolnicy i pokojówki Plautyńskie, a szereg scen w komediach Fredrowskich (np. w tak przypominającym sztuki Plautyńskie Nowym Don Kiszocie) okazuje niezmiernie wiele podobieństwa do niektórych scen w komediach Plauta. Stosunek Fredry do Plauta wymaga jeszcze pracy monograficznej, ale już dziś są widoczne wpływy najwybitniejszego rzymskiego pisarza na twórczość klasyka polskiej komedii.
+
+Wpływy te zresztą rozstrzygnęły nie tylko w Polsce, ale i w całej Europie o typie i stylu komedii nowoczesnej. Powstanie i rozwój swój zawdzięcza ona tak Plautowi, jak i Terencjuszowi, ale istotną i dominującą aż do XIX w. cechę swoją, tj. komizm, mógł jej dać i dał prawie wyłącznie Plautus.
+
+
+VII. Bracia
+
+Treść komedii jest następująca:
+
+Menechmowie, a właściwie Menechmus i Sosikles, są to dwaj bliźniacy, synowie pewnego syrakuzańskiego kupca, tak podobni do siebie, że ich nawet rodzona matka nieraz rozpoznać nie mogła. Przed laty wybrał się ich ojciec w celach kupieckich do Tarentu i wziął ze sobą młodego Menechma; tutaj, w ogromnej ciżbie (bo właśnie były w Tarencie jakieś wielkie igrzyska), chłopiec zaginął bez śladu. Ojciec umarł z żalu po kilku dniach, a dziadek, na pamiątkę zaginionego, dał Sosiklesowi imię Menechmus. Tymczasem tamten zaginiony Menechmus I żyje: zabrał go mianowicie swojego czasu pewien bogaty a bezdzietny kupiec do Epidamnus, adoptował, zrobił głównym spadkobiercą — i umarł. Menechmowi I nieźle się więc powodzi. Ożenił się, a nadto kocha się w heterze Erotium, która tuż obok jego domu mieszka; właśnie w tej chwili, kiedy sztuka się rozpoczyna, przynosi jej piękną suknię, ukradzioną żonie, i każe urządzić ucztę, na którą obiecuje przyjść niebawem po załatwieniu pilnych spraw na rynku, wraz ze swym nieodstępnym pasożytem, Zmiotką. Erotium też zaraz wysyła do miasta po zakupy swego niewolnika, kucharza nazwiskiem Cylindrus.
+
+I oto, kiedy kucharz z miasta wraca, spotyka przed domem Menechma II, który w poszukiwaniu swego zaginionego brata po wszystkich większych miastach przybył właśnie do Epidamnus. Cylindrus bierze oczywiście Menechma II za znanego sobie dobrze Menechma I i zaniepokojony, że on już na ucztę przychodzi, a tu jeszcze nic nie gotowe, zaczyna się usprawiedliwiać. Menechmus II nie wie zupełnie, o co chodzi, tym więcej, że kucharz zaczyna mu opowiadać o żonie, o przyjaciółce, o pasożycie — i myśli, że ten człowiek zwariował. Ale to samo myśli i Cylindrus, bo przecież ani na chwilę nie wątpi, że ma przed sobą adoratora swojej pani. Menechmus II zaczyna w końcu wierzyć niewolnikowi swemu Messenionowi, że dostał się w miasto rafinowanych jakichś oszustów i czarowników, bo przecież skądże inaczej mógłby człowiek ten znać jego imię — gdy wtem dzieje się rzecz jeszcze ciekawsza:
+
+Z domu wychodzi Erotium i zwraca się do Menechma II, który ją pierwszy raz w życiu widzi, jak do dawnego znajomego, i prosi czule, by szedł na gotową już ucztę. Menechmus II najpierw zaklina się na wszystko, że jej nie zna, ale gdy ta bierze słowa jego za żart i dalej nalega, ostatecznie decyduje się na dobrą a bezpłatną zabawę, odsyła niewolnika do gospody, a sam idzie do Erotium, już umyślnie przytakując jej na wszystko i udając dawnego znajomego. Rolę swoją gra zupełnie dobrze, bierze nawet od Erotium ową suknię i naramiennik, dary tamtego Menechma, które Erotium zwraca na razie celem dokonania pewnych przeróbek i upiększeń — i wychodzi uradowany, że to przecież niezłe miasto ten Epidamnus, gdzie człowiek może się za darmo najeść, napić, zabawić i jeszcze go w końcu obdarują.
+
+Nieporozumienia i arcykomiczne zawikłania potęgują się coraz więcej, bo wszyscy mają Menechma II za tamtego, którego jedynie znają, a który tymczasem ciągle jeszcze zajęty jest na rynku jakimiś ważnymi sprawami. Przede wszystkim pasożyt Zmiotka, widząc Menechma II, wychodzącego od Erotium po uczcie, sądzi naturalnie, że to jego patron, i rozzłoszczony, iż śmiał on zjeść obiad bez niego, denuncjuje całą miłostkę żonie Menechma I. Zrozpaczona małżonka wpada z wyrzutami na męża swego, właśnie wracającego z miasta, a ten — co zrozumiałe — *nie chce* się przyznać do skradzenia sukni, choć z drugiej strony *nie może* się przyznać do udziału w uczcie, na której nie był. Wyrzucony za drzwi przez żonę, z zastrzeżeniem, by się bez sukni nie pokazywał, idzie prosić Erotium o zwrot darowanej szaty i tu dowiaduje się, że przecież dopiero co wręczyła mu nie tylko suknię, ale i naramiennik. Kiedy temu zawzięcie przeczy, Erotium, zirytowana, zakazuje mu również wstępu do swego domu — i tak biedny małżonek, wyrzucony z jednego i drugiego domu, „najwyrzuceńszy” (exclusissimus), jak powiada, zostaje bez dachu nad głową, sam nie wiedząc dobrze, jak się to stało. Ale to jeszcze nie koniec.
+
+Żona Menechma I spotyka po chwili Menechma II z ową szatą na ręce i pewna jest, że to jej mąż, odnoszący jej suknię, a gdy ten wypiera się jej zupełnie, ona, nie wiedząc, co począć, wzywa na pomoc ojca. Ojciec przychodzi, ale Menechmus II naturalnie i teraz oświadcza, że nie zna ani jej, ani teścia, a gdy wszyscy zaczynają go podejrzewać, że zapadł na jakąś chorobę umysłową, on, chcąc się ich pozbyć, umyślnie zaczyna udawać szaleńca. Teść odchodzi więc po lekarza i po ludzi ze sznurami, by szaleńca związać; gdy wracają, nie ma już Menechma II, który tymczasem uciekł; ale zastają Menechma I i rzucają się na niego, by go skrępować, przy czym lekarz przepisuje mu jakąś straszną kurację na przeciąg 20 dni. Nieszczęsnego męża wybawia z opresji dopiero Messenio, niewolnik Menechma II, myśląc oczywiście, że to jego pana tak pokrzywdzono; toteż gdy później prawdziwego swego pana spotyka, w żaden sposób z nim porozumieć się nie może.
+
+Teraz dopiero schodzą się przypadkiem obaj Menechmowie, zdziwieni niesłychanie widokiem własnych sobowtórów, i przy pomocy niewolnika rozpoznają się jako rodzeni bracia. Z radości Menechmus II wyzwala Messeniona za wierną służbę, a Menechmus I postanawia sprzedać wszystko, co ma w Epidamnus, i wrócić wraz z bratem do ojczystych Syrakuz.
+
+Jest to jedna z najlepszych komedii Plauta, choć nie najbardziej typowa, gdyż komedia, gdzie niewolnik jest wzorem zacności i nie jest intrygantem, nie jest całkiem w duchu Plauta. Ale pomimo to, ze względu na fabułę można uważać Braci za „komedię intryg”, bo rolę intryganta objął tu przypadek, który bawi widzów komicznymi nieszczęściami dwóch bliźniaków, wtrącając ich w przeliczne, najpocieszniejsze nieporozumienia i wywołując przez to zdrowy śmiech, typowy śmiech z cudzego nieszczęścia — na szczęście niezbyt nieszczęśliwego.
+
+Obaj *Menechmowie* są w rękach losu marionetkami, toteż Plautus nie poświęcił zbyt wiele trudu na ich charakterystykę, ale mimo to dał im pewne cechy indywidualne. Są to dwaj młodzi ludzie, z których jeden, nieco lekkomyślny, najwidoczniej lubi się bawić, a drugi, poważniejszy, choć nie stroni od zabawy, gdy się zdarzy sposobność, żyje jedynie myślą odnalezienia zaginionego brata. Za to sylwetki prawie wszystkich innych osób są bardzo ostro nakreślone.
+
+Sztuka właściwa rozpoczyna się od ostatnich, ale potężnych akordów jakiejś wspaniałej kłótni małżeńskiej, co w całą komedię wnosi od razu doskonałe tempo. To Menechmus I wycofuje się właśnie z pola walki po odniesionym (chwilowo tylko) zwycięstwie nad swoją żoną. Zaznaczyć bowiem należy, że komedia Plautyńska, pomimo iż zawsze prawie chodzi tu o kobietę, jest w ogóle nadzwyczaj wrogo, czy raczej złośliwie dla płci pięknej usposobiona, wychodząc z tej zasady, że „dwie kobiety są zawsze gorsze niż jedna”. Prócz zakochanych — a ci oczywiście, jako do pewnego stopnia nienormalni, nie mogą być tutaj brani w rachubę — nikt o kobietach dobrze się nie wyraża i nie ma błędów i przywar, których by im nie zarzucano. A więc pomawia się kobiety stale o złośliwość, przewrotność, chytrość, czasem znów o głupotę, a zawsze o gderliwość, kłótliwość i gadatliwość, którą do rozpaczy doprowadzają mężów. Nic dziwnego zatem, że komedia Plautyńska nie gloryfikuje małżeństwa, że kawaler na propozycję ożenku dostaje ataku przerażenia i „woli pierwej umrzeć”, a małżeństwo jest przedstawiane jako ciężka kara za wybryki młodości i jako współżycie pod jednym dachem z „psem kąśliwym i wiecznie ujadającym”.
+
+Liczne i jaskrawe sceny małżeńskie w każdej prawie komedii, która przedstawia męża i żonę, ilustrują to pożycie aż nadto dosadnie, a najczęstszym życzeniem kochającego małżonka jest „ujrzeć żonę jak najprędzej na stosie pogrzebowym”.
+
+Tylko w jednej sztuce jest u Plauta małżeństwo niekłócące się (w Komedii skrzynkowej), ale ta komedia ma dzisiaj znaczne luki i nie wiadomo, co w nich było.
+
+Toteż u Plauta mąż i żona są stale na stopie wojennej, a żonę przedstawia poeta przede wszystkim jako megierę, zadręczającą i terroryzującą męża na każdym kroku. Są to z reguły żony, które przyniosły ze sobą wielki posag i tym posagiem mężom przy każdej sposobności oczy wykłuwają, ale zamiłowane najczęściej w szalonym zbytku, do ruiny przez to cały dom umieją doprowadzić. Taka żona kontroluje każdy krok męża i dąży z zasady do osiągnięcia zupełnej władzy nad nim, nie zostawiając mu nieraz nawet grosza przy duszy; zamienia go ostatecznie w zupełnego pantofla, który „do głosu przyjść może dopiero wtedy, gdy żona zamilknie” i którego hasłem jest: „żeby się żona nie dowiedziała”. Do tego rodzaju żon należy też i *Żona Menechma I*, która — zwłaszcza o ile wierzyć jego słowom — wcale mu życia domowego nie osładza, choć i on sam nie jest bez winy. Żona czuje się z tego powodu bardzo nieszczęśliwa i nie zapomina nigdy przy swoich występach o obfitym akompaniamencie płaczu i zawodzenia, ale umie w danym razie wziąć się do męża bardzo ostro, zwymyślać go i po prostu za drzwi wyrzucić. Toteż nic dziwnego, że Menechmus, wystawiając przy końcu sztuki cały swój majątek na licytację, i żonę rad by sprzedać — „o ile by się kupiec znalazł”.
+
+Ten antymałżeński mizoginizm komedii Plautyńskiej (konwencjonalny zresztą i bynajmniej na serio nie brany) zaznacza się w pocieszny sposób — nawet i w charakterze starego *Teścia*. Wezwany przez córkę na pomoc i obronę przeciw rzekomemu zuchwalstwu męża, nadchodząc, z daleka już, wbrew wszelkim oczekiwaniom wykrzykuje, że to pewnie jakaś kłótnia małżeńska, przez córkę wywołana, zmusza jego, starego, do pędzenia tutaj — a potem, nie czekając nawet na to, co córka powie, od razu jej wymyśla za to, że męża szpieguje, wypatrując, co robi i gdzie chodzi, czego jej przecież już tyle razy zakazywał. Gdy córka, rozzłoszczona i rozpłakana, wybucha wreszcie, że mąż ma miłostki w sąsiedztwie, staremu, który ma pewno szumną młodość za sobą, wyrywa się powiedzenie: „Ma rację!” — po czym zaczyna nie córki, ale zięcia energicznie bronić i dopiero to okradanie własnej żony zaczyna mu się nie podobać, choć i tak córce nie dowierza.
+
+Bardzo dobry jest *Lekarz*, który naprzód każe na siebie długo czekać, usprawiedliwiając się potem, że był wezwany do Apollina i nawet do samego Eskulapa, następnie z góry już zapewnia, że z łatwością potrafi chorego uleczyć, choć chce się od obecnych naprzód sam dowiedzieć, co to może być za choroba, aż wreszcie dokazuje największej sztuki: u najzdrowszego człowieka odkrywa ciężką chorobę umysłową, robi go furiatem, każe związać i zanieść na swą „klinikę”, by wlewać w niego bez pardonu jakieś okropne lekarstwa. Postaci tej nie spotykamy zresztą w innych zachowanych sztukach Plautyńskich.
+
+*Pasożyt Zmiotka* ma wszystkie niemal znane z innych komedii Plautyńskich cechy klasycznych pieczeniarzy, służących przede wszystkim do rozweselania widzów; w typowy sposób przedstawia się publiczności w „programowym przemówieniu”, w którym podkreśla, że dużo łatwiej jest przykuć człowieka „więzami jedzeniowymi” niż najcięższymi kajdanami, udział w biesiadach swego patrona uważa za swoje święte, nienaruszalne prawo i za jego rzekome złamanie mści się z zaciętą pasją. W ten sposób wpływa on tutaj bardzo czynnie na rozwój akcji, w dość rzadki zresztą u Plautyńskich pasożytów sposób. Być może, że Plautus w jednej z zaginionych sztuk pt. Pieczeniarz-lekarz (Parasitus-medicus) połączył w jednej osobie komiczne cechy obu tych postaci.
+
+*Erotium* („Kochanie”) jest typem tzw. „hetery złej”, kurtyzany nieubłaganie swych adoratorów obdzierającej. Od Menechma I wyciąga nie tylko pieniądze, ale nawet klejnoty i co lepsze suknie jego własnej żony; nie dość na tym: każe mu te rzeczy jeszcze dać przerobić i poprawić, co oczywiście jest tylko odmiennym sposobem wyłudzania pieniędzy — a kiedy Menechmus, przyparty przez żonę do muru, prosi o zwrot owej sukni, hetera wypycha go bez ceremonii za drzwi ze słowami: „Bez pieniędzy mnie nie będziesz próżno za nos wodzić!”. Słusznie też ją nazywają „okrętem pirackim”. Ta chciwość heter jest w ogóle jednym z typowych motywów erotycznej literatury klasycznej i erotycznych tematów „komedii nowej”.
+
+Znakomicie jest skreślona, choć tylko w kilku rysach, sylwetka *Pokojówki*, która wynosząc Menechmowi ową suknię i naramiennik do przerobienia, nie gorzej od swojej pani się przymila i przymawia „o jakie niedrogie kolczyki w formie kropel”, by — jak mówi — „przychylniej na niego patrzała, gdy do jej pani przychodzić będzie”. Gdy Menechmus (ten obcy) nie bardzo się kwapi, ona zapewnia go po szelmowsku, że mu pieniądze z pewnością zwróci, „gdy tylko je mieć będzie”. Typ pokojówki, jeszcze lepiej skreślony, spotykamy również i w innych komediach Plauta.
+
+Postać i rola *Niewolnika*, wobec tego, że cała intryga jest nie w jego rękach — jak najczęściej — ale w rękach losu, musiała tutaj stracić dużo na swej barwności i znaczeniu. Jest to zatem tylko wierny, wzorowy sługa, który dzielnie broni swego pana, a charakteryzuje się sam w dosyć długiej i nudnej tyradzie na temat uczciwej służby. Postaci takie wyraźnie nie cieszą się wielkimi sympatiami Plauta i dlatego pewnie bardzo rzadko je u niego spotykamy.
+
+Również i postać *Kucharza*, który to typ ma za sobą wspaniałą przeszłość w greckiej komedii, jako wybitny członek dostojnej familii samochwałów, i u Plauta zresztą dość jeszcze okazale (zwłaszcza w dwóch innych sztukach) występuje — tutaj prócz pewności siebie, niektórych szczegółów dykcji i wypytywania się o gości nie okazuje wielu cech wybitnie kucharskich. Typ ten zresztą siłą rzeczy, wobec małego jeszcze wówczas u Rzymian rozwoju sztuki kulinarnej i biesiadniczej, musiał u Plauta ulec pewnemu zblednięciu, ale i tak w Braciach jako postać epizodyczna stwarza doskonale pierwszą scenę nieporozumienia.
+
+Pośród tych scen, na qui pro quo opartych, których tu jest razem jedenaście, na pierwszy plan wybijają się, jako szczególnie dobrze ujęte i przeprowadzone, sceny udanego i narzuconego szaleństwa między Teściem, Żoną, obu Menechmami i Lekarzem, a z reszty scen znakomitą jest scena małżeńska między Żoną a Menechmem I w obecności denuncjanta pasożyta.
+
+*Kompozycja* całej sztuki jest bez ważniejszego zarzutu i pełen werwy bieg całej akcji — poza typowymi i konwencjonalnymi zresztą w greckim i rzymskim teatrze, a za długimi dla nas czasem monologami — jest do samego niemal końca świetnie utrzymany. Stwierdzić jednak należy, że te monologi były w Plautyńskim teatrze prawie wszystkie monodiami (ariami), śpiewanymi czy recytowanymi melodramatycznie przy muzyce i — tak samo jak szereg innych scen wieloosobowych tej sztuki, stanowiących również cantica — oddziaływały na widzów ówczesnych nie inaczej, jak partie śpiewane naszych operetek (czy oper), gdzie nieraz w czasie (też często „za długiego”) śpiewu danego wirtuoza czy wirtuozów cała akcja jest przecież w zawieszeniu.
+
+W sytuację sztuki wprowadza widzów w drobnej części monolog pasożyta, który stanowi pierwszą scenę, poza tym rozmowa Menechma II z niewolnikiem (typowa scena ekspozycyjna: pan i sługa), ale najdokładniej dzieje się to w specjalnym *prologu* na początku sztuki. Prolog ten, koniecznie potrzebny dla rzymskich widzów celem przygotowania ich na istnienie owych łudząco podobnych do siebie bliźniaków, tudzież ze względu na to, że sztuka kończy się „rozpoznaniem”, podaje dawniejszą część fabuły i doprowadza jej objaśnienie aż do wskazania, że właśnie dziś Menechmus ze Syrakuz przybędzie tu, do Epidamnus, w poszukiwaniu brata. Prolog ten, mówiony prawdopodobnie przez bóstwo „Pomyślność” („Salus”), zawiera szereg właściwych prologom Plautyńskim dygresji i żartów.
+
+*Czas wystawienia* sztuki w Rzymie nie jest znany, a wzmianka o Hieronie (przekł. w. 414) nie daje dla chronologii Plautyńskiej sztuki żadnego punktu oparcia.
+
+Ponieważ Plautus w prologu mówi, że „treść tej komedii sycylizuje” (sicilicissitat), przeto sądzą niektórzy, że słowa te wskazują na pochodzenie greckiego oryginału od sycylijskiego komediopisarza, sławnego Epicharma. Tymczasem słowa Plauta nie oznaczają nic innego, jak tylko, że fabuła tej sztuki jest związana ze Sycylią. Tam bowiem, w Syrakuzach, zaczyna się rzeczywiście cała historia i tam też obaj bracia bliźniacy w końcu wracają. O Epicharmie zatem, jako o autorze greckiego oryginału, nie może być tutaj mowy. Pomimo że motyw sobowtórów znajdujemy w greckiej „komedii nowej” bardzo często, jak na to wskazują tytuły komedii aż u siedmiu autorów, na żadnego z tych autorów nie możemy wskazać jako na pierwowzór Plauta. Tak więc o oryginale greckim Braci nic pewnego powiedzieć nie możemy, lecz tylko przypuścić, opierając się na dotychczasowej znajomości sztuk greckich, że daleko mu było zapewne do tego humoru, którym odznacza się sztuka Plautyńska.
+
+
+VIII. Wpływ Braci
+
+Motyw sobowtórów jest, jak wspomniano, bardzo stary i w komicznym zwłaszcza ujęciu niezmiernie rozpowszechniony we wszystkich literaturach europejskich, a liczba bezpośrednich opracowań komedii Plautyńskiej, stanowiącej pierwsze i najlepsze, jakie znamy ze świata klasycznego, ujęcie tego motywu, to po prostu legion.
+
+Największym wzięciem cieszyła się ta komedia we *Włoszech*, wywołując nieskończoną niemal liczbę opracowań tego tematu, o najrozmaitszych ujęciach i odmianach, których nie sposób tutaj wszystkich wyliczać. Po wspomnianej już przeróbce *Ariosta* pierwsze swobodne opracowanie Braci dał kardynał *Bibbiena* w swej komedii pt. Calandria (od postaci Kalandra), wprowadzając szereg nowych szczegółów przez stworzenie, zamiast bliźniego brata, bliźniej siostry Santilli, przebieranej za mężczyznę. Ten sam, co u Bibbieny, motyw bliźniaczego rodzeństwa, siostry i brata, jest również tłem sztuki nieznanego autora (z pierwszej połowy XVI w.) pt. Gl' Ingannati, a za najlepsze opracowanie Braci może tu uchodzić sztuka *Cecchiego* pt. La Moglie, która jest właściwie zręcznym połączeniem dwóch sztuk Plautyńskich: Braci i Dnia trzygroszowego ze sztuką Terencjusza Andria. Natomiast, zdaje się, zupełnie od Plauta niezależna jest sztuka *Goldoniego* pt. I due Gemelli Veneziani, chociaż tytuł kazałby myśleć o wpływie sztuki Plautyńskiej.
+
+Z *francuskich* przeróbek wspomnieć należy komedię Jana *Rotrou* pt. Les Ménechmes, w której wprowadził miłość między drugim Menechmem a kochanką pierwszego. Najwięcej znanym (choć nie najlepszym) spośród wielu francuskich opracowań Braci jest sztuka *Regnarda* pt. Les Ménechmes, ou les Jumeaux. Wartość tej sztuki jednak jest bez porównania niższa niż rzymskiego oryginału. Regnard wszedł bowiem na fałszywą drogę — i chcąc fabułę uczynić więcej prawdopodobną, pozbawił ją najlepszych efektów humorystycznych. Tak np. cała intryga leży w rękach sprytnego służącego, ale w ten sposób, że kieruje on osobami zupełnie dowolnie, znając sam dobrze i rozróżniając obu bliźniaków.
+
+Wpływ Braci Plauta nie zanika we Francji nawet w najnowszych czasach, bo jeszcze w r. 1908 wystawia Tristan *Bernard* w paryskim „Théâtre Femina” trzyaktówkę Les Jumeaux de Brighton, stanowiącą po prostu zmodernizowaną przeróbkę Braci. Rzecz dzieje się w czasach obecnych w Hawrze, dwaj bliźniacy są to Beaugérard I du Havre i Beaugérard II de Paris, ale autor — jak to sam we wstępnej conférence zaznacza — wprowadził tu tę zasadniczą zmianę, że obaj bracia wzajemnie o swym istnieniu nic nie wiedzą, a całą tajemnicę zna tylko stary przyjaciel ich ojca, Roberdet. Cała fabuła i intryga jest mniej więcej ta sama: Beaugérard I żyje również w ciągłej kłótni ze swą żoną, która go terroryzuje, w roli Erotium występuje petite femme Nancy de Nancy, w miejsce sukni, skradzionej żonie, mamy voile en dentelle, a zawikłanie całe wprowadza również pasożyt, francuski Zmiotka — Labrosse. Na ogół jednak tempo jest mniej ożywione niż u Plauta, gdyż Bernard skreślił, względnie zmienił cały szereg scen, np. znakomite sceny małżeńskie i sceny z lekarzem, wmawiającym chorobę w zdrowego człowieka. Wprowadził natomiast (odmiennie niż u Plauta) jako końcowy efekt spotkanie obu braci *naraz*, naprzód przez kucharza (Cylindre, jak u Plauta), a potem przez żonę, teściową (zamiast teścia Plautyńskiego) i Roberdeta. Kucharz-pijak myśli, że dziś zapewne wyjątkowo silnie się upił i dlatego widzi dwóch zamiast jednego, wszyscy krewni w końcu sądzą, że to jakiś dziwny sen (i to jest motyw Plautyński, por. Bracia wiersz 1079), aż wreszcie rzecz całą wyjaśnia Roberdet. Bernard dodał od siebie jeszcze nowy szczegół erotyczny, a mianowicie u Beaugérarda II wyraźne zainteresowanie się żoną Beaugérarda I; zamiast prologu Plautyńskiego dał lever de rideau w 9 scenach, odbywających się w Brighton na 37 lat przed rozpoczęciem samej sztuki. Natomiast podkreślić należy, że sama conférence na początku, wraz z typowymi francuskimi dygresjami, żartami i konceptami, mającymi zainteresować i rozbawić publiczność, żywcem przypomina ton prologów Plautyńskich.
+
+Wreszcie w wystawionej w r. 1922, w „Théâtre Michel”, trzyaktowej komedii Ludwika *Verneuila* pt. La Pomme cały węzeł dramatyczny polega na tym, że łudzące podobieństwo dwóch panów, żonatego p. Pascaud i wdowca p. Templier, jest rzekomą przyczyną nawet zdrady małżeńskiej, a w rezultacie istotnym powodem tragikomicznych zawikłań.
+
+*Hiszpańska* sztuka Juana de *Timonedy* pt. Comedia de los Menecmos daje w 13 częściach treść Plautyńskich Braci, ale przez to skrócenie traci największy zapas pierwotnego humoru.
+
+Niczym innym jak tylko przeróbką Plautyńskich Braci jest słynna *Szekspirowska* Komedia pomyłek, z tą jedynie różnicą, że Szekspir rzymską sztukę rozszerzył, głównie przez dodanie postaci i motywów zaczerpniętych z innych źródeł i z własnego pomysłu. I tak np. bliźnim braciom, nazwanym u niego Antipholus z Efezu i Antipholus z Syrakuz, przydał jeszcze z Amfitriona Plautyńskiego drugą parę sobowtórów, tj. służących, Dromionów, następnie dołączył z tejże sztuki motyw, że żona jednego brata bierze jego sobowtóra za swego męża, tudzież obfite okładanie sobowtórów służących. Usunął natomiast rolę pasożyta, a denuncjację przed żoną jednego z braci oddał (z mniejszym prawdopodobieństwem niż u Plauta) w ręce hetery-kurtyzany. Liczbę nieporozumień doprowadził do 12, a dążąc zapewne przez powiększenie liczby osób (jest ich aż 15) do jeszcze większego ożywienia akcji, uczynił ją tylko więcej zawikłaną i mniej przejrzystą niż w sztuce Plautyńskiej. Korzystał najprawdopodobniej z łacińskiego oryginału, gdyż pierwszy angielski przekład Braci ukazuje się dopiero w 10 lat po napisaniu Komedii pomyłek.
+
+*Niemcy* posiadają już w r. 1548 swobodną przeróbkę Braci pióra Hansa *Sachsa*, pt. Ein comedi Plauti mit 10 personen heyst „Menechmo” und hat 5 actus, w której wszystkie prawie osoby, a zwłaszcza obaj bliźniacy, mają czysto niemieckie imiona. Bracia zwą się: Lütz der ehman i Lütz der frembd. Na przełomie zaś XVIII i XIX w. pisze A. G. *Oehlenschläger* pod wpływem Braci komedię pt. Die Drillingsbrüder von Damask, polegającą na nieporozumieniach z powodu aż trzech bliźniaków.
+
+W *Polsce* wpływ Braci spotykamy w dramacie jezuickim, a mianowicie — jak to wykazał duński uczony Petersen — w komediach „szkolnych” *Bohomolca*. Jego Bliźnięta są po prostu przeróbką sztuki Plautyńskiej, co zdradza już ich „argument”, wyraźnie na Plautyńskim prologu oparty. Bohomolec, zachowując zasadniczy pomysł Braci, wprowadził szereg zmian i dodatków. Dwaj bliźni bracia nazywają się u niego Piotr Leliusz i Jan Leliusz, i branie jednego za drugiego stanowi, tak jak u rzymskiego poety, osnowę sztuki, ale liczba Plautyńskich jedenastu nieporozumień i qui pro quo wzrasta u Bohomolca do 13. W myśl zasad dramaturgii jezuickiej usunął Bohomolec role kobiece w ten sposób, że role Żony i Pokojówki całkiem skreślił, a na miejsce hetery Erotium wprowadził przyjaciela Doranta, wobec czego zamiast sukni dał worek z pieniędzmi. Poszedł w tym ostatnim szczególe prawdopodobnie za komedią *Goldoniego* I due Gemelli Veneziani; poza tym wziął sam początek sztuki z *Regnarda* Le Divorce, monolog pasożyta Roberta (I, 2) z monologu Plautyńskiego pasożyta w Jeńcach, rozmowę i bijatykę służących (III, 7) z Amfitriona Plauta, tak że jego metoda pracy przypomina tutaj tzw. „kontaminację” rzymskich komediopisarzy. W każdym razie jest rzeczą widoczną, że dobra ta sztuka Bohomolca zawdzięcza swe powstanie Braciom Plauta.
+
+Natomiast nieporozumienia z powodu sobowtórów we *Fredrowskiej* sztuce Nikt mnie nie zna pochodzą raczej z Amfitriona niż z Braci.
+
+Również i poszczególne postaci komedii Plautyńskiej znalazły odbicie w literaturze europejskiej. Typ *lekarza* to pewna odmiana typu samochwałów (alazonów), postać znana od dawna w starożytnej Grecji i Rzymie i żyjąca do dziś dnia na wszystkich scenach europejskich jako figura lekarza-nieuka czy szarlatana. Wystarczy wspomnieć znany typ doktora z włoskiej komedii dell'arte, doktora Bartolo z Balwierza ze Sewilli Beaumarchais'go, świetnego Molierowskiego Diafoirusa z Chorego z urojenia, lekarzy z Miłości lekarzem i z Pana de Pourceaugnac, wreszcie naszych: doktora Receptę z Zabobonnika Zabłockiego, tudzież doktora Fulgencjusza z Dyliżansu Aleksandra Fredry i udawanych lekarzy w Consilium Facultatis Jana Aleksandra Fredry. Jest rzeczą prawie pewną, że wszystkie te figury wywodzą się ostatecznie właśnie od Plautyńskiego Lekarza w Braciach, stanowiącego najlepszą i najlepiej znaną odmianę tego typu w całej literaturze klasycznej.
+
+Podobnie ma się sprawa ze Zmiotką, z postacią *pasożyta*-pieczeniarza, który ma również już całą historię za sobą. Występuje on już w najdawniejszych farsach greckich, a wielce rozpowszechniony w całej greckiej i rzymskiej komedii (najczęściej w połączeniu z żołnierzem-samochwałem) jest znaną i częstą postacią w nowoczesnej literaturze europejskiej. Dalszymi bowiem inkarnacjami tego typu są figury takie, jak np. włoscy pasożyci żarłocy: Pasifilo Ariosta (I suppositi), dalej Mastica, Fagone, Edace, Don Cicchio innych włoskich komediopisarzy, francuski Fripesauce, angielski Merygreek (z Udalla Roister Doister), czy wreszcie nasze Chleburady, Dybidzbany, Liżyczopy z intermediów i komedii rybałtowskich, Figlacki Bohomolca, Kwarcicki Wieniawskiego, Fredrowscy pieczeniarze: Hilary i Zefiryn z Wychowanki, podobny trochę Smakosz z Przyjaciół, Lisiewicz z Geldhaba, Szwarc z Co tu kłopotu! i Papkin. Szczególnie upodobał sobie u nas pasożytów Lubowski, który ma szereg wyjadaczów — takich, jak np. Migdalski z Przesądów, Morowicz z Jacusia, Koszyrski z Osaczonego.
+
+Do bardzo chętnie w komedii europejskiej przedstawianych postaci należy wreszcie *pokojówka*. Sprytne służące, stanowiące typ pochodzenia greckiego, występują tu pod najrozmaitszymi nazwiskami. Tu należy bowiem np. włoska Servetta czy Fantesca, względnie Colombina z komedii dell'arte, angielska intriguing chambermaid, hiszpańska duenna, francuska Lizetta czy Klaudyna, wreszcie taka np. Kręcicka w Dziwaku Rzewuskiego lub tak bardzo do Plautyńskich pokojówek podobna Justysia z Męża i żony Fredry, czy nawet jego Zuzia z Jestem zabójcą. Kto z twórców wymienionych wyżej postaci czytał Plauta, pamiętał niewątpliwie przy tworzeniu swych „kotek pokojowych”, obok cech innych znakomitych pokojówek Plautyńskich, także i te kilka udatnych rysów Pokojówki z Braci — choć wszystkie te reminiscencje mogły też być zupełnie przypadkowe. „Tradycje literackie można by porównać z atawistycznymi instynktami, które bez wiedzy człowieka odchylają kierunek jego świadomych postanowień i postępowań; tak samo tradycje działają bez świadomości człowieka” (Sinko).
+
+
+VII. Przekłady Plauta
+
+Co do *przekładów* Plauta, to w porównaniu z innymi narodami Zachodu stoi Polska na bardzo szarym końcu. Podczas gdy np. Włosi, Francuzi, Anglicy i Niemcy mają dawno nieraz już po kilka przekładów wszystkich 20 komedii Plauta, to w Polsce są wprawdzie pewne niejasne i niestwierdzone dotychczas wieści (z czeskiego źródła) o przekładach Plauta (i Terencjusza) z pierwszej połowy XVI w. (co nie jest niemożliwe), ale faktycznie posiadamy obecnie przekłady tylko 9 komedii, i to sztuk wcale nie najlepszych, choć niektóre z nich za takie zwykle uchodzą.
+
+Przekłady te pochodzą dopiero z wieku XIX, a zawdzięczamy je przede wszystkim wybitnemu profesorowi filologii klasycznej w byłej Szkole Głównej, a później na uniwersytecie warszawskim, Janowi *Wolframowi*, który przełożył 6 komedii pod tytułami: Garnek złota (Aulularia), Widmo (Mostellaria), Trojak (Trinummus), Jeńcy (Captivi) — wydane przez J. Przyborowskiego w Poznaniu w r. 1873 — i Żołnierz samochwał (Miles gloriosus), Bliźnięta (Menaechmi) — wydane przez P. Chmielowskiego w Warszawie w roku 1891. Przekłady te, pisane w całości białym trzynastozgłoskowcem, są — jak na ówczesny stan wiedzy i nauki o Plaucie — wcale dobre, ale niestety zacierają przeważnie tę tak charakterystyczną dla Plauta werwę i to szalone tempo rzymsko-italskie. Nieco lepszy, miejscami bardzo dobry, jest przekład Braci przez Ks. A. *Kanteckiego* pt. Menechmy (Bliźniaki), wydany w Poznaniu w r. 1875. W rękopisie pozostały przekłady Zygmunta *Węclewskiego*: Junak (Miles gloriosus) i Bliźniacy (Menaechmi).
+
+Ostatnie próby przekładów pochodzą od J. I. *Kraszewskiego*, który ciężkie chwile swego pobytu w pruskim więzieniu (1883 r.) skracał sobie czytaniem rzymskich komedii. Rezultatem są: T. M. Plauta komedii pięciu parafrazy, Złoczów 1888, tj. komedie: Samochwał, Pasożyt (Curcidio), Trojak (Trinummus), Rozbitki (Rudens), Koszyk (Cistellaria), pisane również nierymowanym trzynastozgłoskowcem. Poza dość wielu usterkami, wynikłymi zapewne z braku odpowiednich podręczników w więzieniu, dowodzą te parafrazy bardzo dobrego stosunkowo zrozumienia i odczucia oryginałów. W każdym razie wszystkim tym przekładom, a zwłaszcza Wolframowskim, zawdzięczać należy spopularyzowanie — choć jeszcze bardzo niedostateczne — Plauta we współczesnej Polsce.
+
+*
+
+
+
+W *przekładzie niniejszym* dążył tłumacz do oddania nie tyle słowa za słowem, co myśli za myślą, choć — gdzie to było możliwe i celowe — starał się odtworzyć także wartość poszczególnych wyrazów, ich rozmieszczenie w wierszu, aliterację czy grę słów itp. Język i styl, stosownie do stanu faktycznego u Plauta, ma odpowiadać mniej więcej dzisiejszej mowie potocznej ludzi wykształconych, mowie codziennej, w której dla werwy i barwności nie stroni się czasem od wyrażeń nieliterackich. W miarach wierszowych zrezygnował tłumacz z oddania nadzwyczaj nieraz skomplikowanych i nie zawsze dla nas jasnych metrów Plautyńskich, nie wierząc w możliwość odtworzenia w mowie naszej rytmów oryginału, opartych na długich i krótkich zgłoskach, których nie mamy. Zastosował tylko dwojaki wiersz, mający już u nas dawną tradycję, tj. trzynasto- i czternastozgłoskowiec nierymowany, z główną średniówką po 7, względnie 8 zgłosce, oba wiersze polegające na wrodzonych mowie polskiej akcentowych rytmach żeńskich, a posiadające dość wielkie urozmaicenie toniczne przez odpowiednią wariację akcentów w grupach zgłoskowych („stopach”) obu części wiersza. Plautyńskie partie mówione (w senarach jambicznych) oddano przez trzynastozgłoskowiec, a partie śpiewane (wszystkich innych metrów), w oryginale zasadniczo zawsze ożywione, przełożono również żywszym nieco czternastozgłoskowcem. W ten sposób usiłował tłumacz choć w drobnej części uchronić Plautyńskie cantica przed zupełnym zatarciem ich w polskim przekładzie.
+
+
+Pomni na to, czytelniku miły,
+By się według miary wiersze czciły.
+Różne w sobie mają zachowanie,
+Kto nie baczy na trafne czytanie;
+Ale kto z ich miary nie wykroczy,
+Dobrze się wiersz w czytaniu potoczy.
+
+(Marcin Bielski)
+
+
+Bibliografia
+
+*Wydania*
+
+T. M. Plauti Comoediae, ed. *Goetz-Schoell*, Lipsiae (Teubrier), I–VII, 1892–1896; ed. Friedr. *Leo*, Berolini (Weidmann), I–II, 1895–1896; ed. W. M. *Lindsay*, Oxonii (Oxford), I–II, 1903–1910 [=Li.]. — Z komentarzem: ed. I. L. *Ussing*, I–V, Hauniae (Kopenhaga) 1875–1887 (Menaechmi w tomie III, 2, z r. 1889); komentarz łaciński Ussinga stanowi podstawę wszystkich późniejszych [=Uss.]; Ausgewählte Komödien des T. Maccius Plautus, für den Schulgebrauch erklärt von Julius *Brix*, III Bändchen: Menaechmi, 5. Auflage bearb. von Max *Niemeyer*, Leipzig–Berlin 1912 [=Niem.].
+
+*Prace pomocnicze*
+
+Kazimierz *Morawski*, Historia literatury rzymskiej za Rzeczypospolitej, Kraków 1909.
+
+Kazimierz *Morawski*, Zarys literatury rzymskiej, Kraków 1922.
+
+W. Y. *Sellar*, The Roman Poets of the Republic, wyd. III, Oxford 1905.
+
+Friedrich *Leo*, Geschichte der römischen Literatur, I, Berlin 1913.
+
+Martin *Schanz*, Karl *Hosius*, Geschichte der römischen Literatur, I, wyd. III, München 1907.
+
+W. S. *Teuffels*, Geschichte der römischen Literatur, wyd. VI, von Wilh. *Kroll* und Fr. *Skutsch*, Leipzig–Berlin 1916.
+
+Friedrich *Leo*, Plautinische Forachungen, wyd. II, Berlin 1912.
+
+G. *Michaut*, Histoire de la Comédie Romaine, Sur les tréteaux latins, Paris 1912.
+
+G. *Michaut*, Histoire de la Comédie Romaine, Plaute I–II, Paris 1920.
+
+Eduard *Fränkel*, Plautinisches im Plautus („Philol. Unters.” 28), Berlin 1922.
+
+Gustaw *Przychocki*, Plautus, Kraków 1924 (Z historii i literatury, nr 26, Krak. Sp. Wyd.).
+
+Karl von *Reinhardtstoettner*, Plautus, Spätere Bearbeitungen plautinischer Lustspiele, Leipzig 1886.
+
+G. A. *Galzigna*, Fino a che punto i commediografi del Rinascimento abbiano imitato Plauto e Terenzio, I–II, Capodistria 1899–1900.
+
+Tadeusz *Sinko*, Genealogia kilku typów i figur A. Fredry, Kraków 1918.
+
+------------------------------------------------
+
+
+
+Przekład opiera się na tekście wydania *Lindsaya*. Odstępstwa zaznaczone są w uwagach, z podaniem źródła.
+
+
+
+
+Bracia
+
+
+
+
+
+Wdziej giermak, Plaucie, zwlokszy się swej togi,
+Zzuj swe, wzuj buty kowane na nogi
+I mów po polsku.
+
+Piotr Ciekliński
+
+
+
+
+
+
+OSOBYOSOBY --- Rękopisy plautyńskie nie mają ,,spisów osób" (choć bywały one w rękopisach sztuk greckich, jak świadczą papirusowe fragmenty komedii Menandra); imiona osób znajdują się tylko w tekście, przy zmianie osób mówiących, względnie w tytułach scen.
+
+Imiona Plautyńskie są z niewielu wyjątkami zawsze greckie, choć najprawdopodobniej przeważnie przez samego Plauta na modłę grecką tworzone. Są to bardzo często tak zwane ,,imiona mówiące", o komicznym zacięciu, maniera w całej komedii od najdawniejszych do najnowszych czasów nader rozpowszechniona.
+
+Za czasów Plauta aktorzy nie używają jeszcze masek.:
+ * Pomyślność, bogini
+ * Zmiotka, pasożyt Menechma I
+ * Menechmus I, bliźniak Menechma II
+ * Menechmus II, bliźniak Menechma I
+ * Erotium, hetera
+ * Cylindrus, kucharz
+ * Messenio, niewolnik Menechma II
+ * Pokojówka hetery Erotium
+ * Żona Menechma I
+ * Decjo, chłopiec do posyłek w domu Menechma I
+ * Teść Menechma I
+ * Lekarz
+ * Czterech Pachołków
+
+
+
+
+Rzecz dzieje się w Epidamnus, na ulicy, przed dwoma domami: Menechma I i hetery Erotium. W środku między tymi domami wąska uliczka, po bokach prowadzą szersze ulice, z lewej strony (od widza) ku portowi, z prawej ku rynkowi. Przed domem Menechma ołtarz.
+
+
+
+
+PROLOG
+
+
+POMYŚLNOŚĆ
+
+/ wchodzi na scenę i mówi do widzów /
+
+Pomyślność — zaraz z miejsca nasamprzód obwieszczam
+Mnie jest wielce przychylna — no i wam, widzowie!
+Plauta wam tu przynoszę nie ręką, lecz mową,
+I proszę, byście chcieli łaskawe dać ucho.
+Teraz treść wam opowiem, zechciejcie uważać,
+Rzecz przedstawię najkrócej, jak tylko potrafię.
+A poeci to zawsze tak robią w komediach:
+O wszystkim zwykli twierdzić: „Działo się w Atenach”,
+Żeby wam się to zdało jeszcze więcej greckie —
+Ja nie podam inaczej, tylko tam, gdzie było.
+Otóż treść tej komedii wprawdzie „grecyzuje”,
+Lecz nie „attycyzuje” — ba — „sycylizuje”!
+To wszystko, com rzekł dotąd, to był wstęp do treści,
+Teraz z treści odmierzę, co wam się należy:
+Nie garncem lub trójgarncem, lecz całym spichlerzem.
+Taki-m dla was jest szczodry, gdy daję treść sztuki!
+Był sobie w Syrakuzach pewien stary kupiec,
+Któremu się dwóch synów bliźniąt urodziło,
+Chłopaków tak podobnych, że aż własna mamka,
+Co im piersi dawała, rozróżnić nie mogła,
+Ani matka, ta sama, co ich urodziła.
+(Tak mi mówił przynajmniej ten, co chłopców widział,
+Ja ich sam nie widziałem, niech nikt z was nie myśli).
+Gdy już mieli lat siedem, wtedy jakoś ojciec
+W duży statek władował wielką moc towarów;
+Zabrał potem na statek jednego bliźniaka
+I wziął w podróż handlową z sobą do Tarentu,
+A drugiego zostawił razem z matką w domu.
+W Tarencie właśnie były igrzyska, gdy przybył,
+I — jak to na igrzyska — moc ludzi się zbiegła.
+Chłopak ojcu się zgubił, zabłąkał się w ciżbie.
+Lecz był tam pewien kupiec z miasta Epidamnus,
+Ten wziął chłopca i zawiózł ze sobą do domu.
+Ojcu zaś, skoro syna w ten sposób postradał,
+Chęć do życia odeszła i w kilka dni później
+Zmarło mu się w Tarencie, po prostu ze żalu
+(Mówił mi to ten, który na pogrzeb go sprawiał).
+Skoro więc do Syrakuz wieść o tym nadeszła
+Do dziadka tych bliźniaków, że chłopca ktoś porwał
+I że umarł w Tarencie ojciec tego chłopca,
+Dziadek zmienia drugiemu bliźniakowi imię
+(Bo tak kochał tamtego, którego porwano);
+Jego imię — Menechma — nadaje więc temu,
+Co jest w domu. Toż imię miał ten, co zaginął,
+I dziadek sam miał również tak samo na imię.
+(A tym lepiej pamiętam, że tak się nazywał,
+Bo widziałem, że głośno tak za nim wołali).
+Byście w błędzie nie byli, już teraz zapowiem:
+To samo imię mają obaj bliźni bracia.
+(Teraz wracam — piechotą — znów do Epidamnus,
+By wam całą tę sprawę dokładnie wyłożyć.
+Jeśli ktoś z was chce może, by mu w Epidamnus
+Coś sprawić, nuże, śmiało niech mówi i każe —
+Lecz tylko, gdy da na to, co chce, by mu sprawić;
+Bo gdy nie da pieniędzy, to wszystko jest na nic,
+Ale gdy da to — — wtedy dopiero jest na nic!
+Lecz wracam, skądem odszedł — a stoję na miejscu).
+Ten tedy z Epidamnus, jak to już się rzekło,
+Ten, co porwał tamtego drugiego bliźniaka,
+Prócz bogactw, żadnych prawie dzieci nie posiadał.
+Adoptuje więc tego chłopca porwanego
+Jako syna — i żonę daje mu posażną,
+I robi go dziedzicem, gdy mu umrzeć przyszło.
+Bo kiedy raz szedł na wieś po gwałtownym deszczu,
+Przechodząc potok rwący jakoś tuż pod miastem —
+Temu, co porwał chłopca, prąd nogi poderwał,
+I tak porwał człowieka gdzieś do wszystkich diabłów,
+Tak temu więc przypadły olbrzymie bogactwa.
+Ten zatem tutaj mieszka, ten bliźniak porwany.
+Teraz znów tamten bliźniak, co jest w Syrakuzach,
+Przyjdzie do Epidamnus, dziś, ze swym służącym,
+Szukając tego właśnie brata bliźniaczego.
+Gród ten to Epidamnus — na czas tej tu sztuki,
+Bo w innej znowu sztuce będzie innym miastem.
+Tak samo się zmieniają tutaj i mieszkańcy:
+Raz mieszka tutaj rajfur, raz młokos, raz staruch,
+Dziad czy żebrak, król, wieszczbiarz albo i pasożyt
+
+------------------------------------------------
+
+
+
+
+
+
+AKT I
+
+
+ZMIOTKA
+
+/ wchodzi i mówi do publiczności /
+
+Młodzież zowie mnie „Zmiotką” — a to z tej przyczyny,
+Że ja, kiedy zajadam, to stół cały zmiatam.
+Ci wszyscy, którzy więźniów wiążą łańcuchami,
+A zbiegów niewolników skuwają w kajdany,
+Ci, według mego zdania, strasznie głupio robią,
+Bo człek nędzny, gdy wpada jeszcze z biedy w biedę,
+Jeszcze większą ma chętkę, by zbiec i coś zbroić.
+Toż z łańcuchów się nawet jakoś wydostają,
+A skuci, ci pilnikiem obręcz umią przetrzeć
+Lub hak wybić kamieniem. To wszystko jest na nic.
+Gdy chcesz kogo przytrzymać tak dobrze, by nie zbiegł,
+To jedzeniem i piciem trzeba go przywiązać.
+Przywiąż go tylko za dziób do pełnego stołu,
+A jeśli mu dostarczysz jedzenia i picia,
+By miał co dzień dostatkiem, ile tylko zechce,
+To z pewnością nie drapnie; nigdy, nawet gdyby
+Szło o sprawę gardłową. Łatwo go przytrzymasz,
+Gdy go „zwiążesz” w ten sposób. Takie są sprężyste
+Te więzy „jedzeniowe”: im więcej rozciągasz,
+Tym się więcej ściskają. Ja też idę tutaj,
+Gdziem już dawno „skazany”, to jest do Menechma,
+Sam idę, dobrowolnie, ażeby mnie „związał”.
+Bo on nie dość, że karmi, ale pielęgnuje
+I ożywia. Nikt lepiej leczyć nie potrafi.
+Taki to już człek młody; sam dobrze zjeść lubi,
+Sute uczty urządza, tak stoły zastawia
+I takie na nich stosy piętrzy półmiskowe,
+Że na sofie trza stanąć, gdy coś chcesz wziąć z góry.
+Lecz teraz była przerwa od dłuższego czasu:
+W mym domu panowałem nad mymi drogimi,
+Bo co zjeść chcę lub kupić — wszystkie strasznie drogie.
+I co jeszcze: zmykają ci drodzy z szeregu.
+Teraz zajrzę do niego. — Lecz drzwi ktoś otwiera.
+Otóż on sam. Menechmus. Przed dom tu wychodzi.
+
+
+
+
+
+/ Menechmus I, Zmiotka. /
+
+
+MENECHMUS I
+
+/ we drzwiach domu, krzyczy na żonę /
+
+Gdyby nie to, żeś zła, głupia, uparta, złośnica,
+Widząc, że mąż czego nie chce, sama byś nie chciała!
+A jeżeli mi raz jeszcze coś takiego zrobisz,
+To zobaczysz: pójdziesz za drzwi, jak wdowa, do ojca!
+Bo gdy tylko gdzieś wyjść zechcę, to mnie zatrzymujesz,
+Odwołujesz, wypytujesz, gdzie idę, co robię,
+Co za sprawy, com tam robił, po com szedł, com przyniósł.
+Ja celnika mam w swym domu, nie żonę! Tak muszę
+Ze wszystkiego się spowiadać, co robię, com robił!
+O, za długom cię już słuchał. Zrobię, jak mówiłem!
+Jeśli ja ci daję służbę, zapasy i wełnę,
+Szaty, złoto, stroje zdobne, masz wszystko dostatkiem,
+Strzeż się licha i miej rozum, przestań męża śledzić!!
+A żebyś mnie nie śledziła na próżno — umyślnie
+Dziewkę wezmę dziś na ucztę — gdzieś w mieście to zrobię.
+
+
+ZMIOTKA
+
+/ na stronie /
+
+Niby żonie tak wymyśla, lecz on mnie wymyśla;
+Uczta w mieście? Wszak to zemsta na mnie, nie na żonie!
+
+
+MENECHMUS I
+
+/ wychodzi, ubrany pod płaszczem w suknię kobiecą /
+
+Brawo! Przeciem babę krzykiem ode drzwi odpędził!
+Lecz gdzież są mężowie wszyscy, co mają kochanki?
+Czemu darów mi nie znoszą, żem walczył tak mężnie?
+
+/ odsłania suknię żony, podnosząc płaszcz /
+
+Ot, tę suknię żonie-m ściągnął, niosę ją do dziewki!
+Tak to ładnie podejść stróża, jeszcze tak chytrego.
+To czyn piękny, zacny, miły, to sprytnie zrobione
+(Na złe mi to jednak wyjdzie, com wziął od złej baby:
+Wszak na stratę to poniosę). — Łup nieprzyjaciołom
+Wręcz wydarłem! Bez strat żadnych naszych sprzymierzeńców!
+
+
+ZMIOTKA
+
+Hej, młodzieńcze! Czy w tym łupie jest jaka część dla mnie?
+
+
+MENECHMUS I
+
+Oj, zasadzka!
+
+
+ZMIOTKA
+
+                        Nie, to pomoc! Tylko nic się nie bój!
+
+
+MENECHMUS I
+
+Któż to?
+
+
+ZMIOTKA
+
+                        Ja.
+
+
+MENECHMUS I
+
+                        O moje „Szczęście”! Moja „Dogodności”!
+Witaj!
+
+
+ZMIOTKA
+
+                        Witaj!
+
+
+MENECHMUS I
+
+                        Co porabiasz?
+
+
+ZMIOTKA
+
+                        Rękę właśnie ściskam
+Mego opiekuna.
+
+
+MENECHMUS I
+
+                        Brawo! Toż więcej na czasie
+Przyjść nie mogłeś, jak w tej chwili.
+
+
+ZMIOTKA
+
+                        O, bo ja tak zawsze,
+Znam na wylot dogodności wszyściutkie zasady!
+
+
+MENECHMUS I
+
+A chcesz widzieć coś pysznego?
+
+
+ZMIOTKA
+
+                        Jakiż to piekł kucharz?
+Już ja poznam, czy nie skrewił, gdy resztki zobaczę.
+
+
+MENECHMUS I
+
+Powiedz mi, czyś widział kiedy malowidło ścienne,
+Jak porywa Katamita orzeł albo Wenus
+Adoneusa?
+
+
+ZMIOTKA
+
+                        Często. Ale — co ma obraz do mnie?
+
+
+MENECHMUS I
+
+/ rozciąga płaszcz, pokazuje suknię żony /
+
+Więc patrz na mnie. — Czy nie jestem taki jak ten obraz?
+
+
+ZMIOTKA
+
+Cóż to znowu za ubranie?
+
+
+MENECHMUS I
+
+                        Powiedz, czy nie jestem
+Człek przemiły? No, powiedzże!
+
+
+ZMIOTKA
+
+                        A gdzie jeść się będzie?
+
+
+MENECHMUS I
+
+Mów, co każę!
+
+
+ZMIOTKA
+
+                        No więc mówię: „Człowieku przemiły”.
+
+
+MENECHMUS I
+
+A od siebie nic nie dodasz?
+
+
+ZMIOTKA
+
+                        „i najrozkoszniejszy!”
+
+
+MENECHMUS I
+
+Dalej, dalej!
+
+
+ZMIOTKA
+
+                        Tu nic „dalej” — gdy nie wiem, co z tego.
+Muszę być ostrożny z tobą: kłócisz się ze żoną.
+
+
+MENECHMUS I
+
+Gdyby tak bez wiedzy żony gdzieś ten dzień „pogrzebać” —
+
+
+ZMIOTKA
+
+/ przerywa z ożywieniem /
+
+Owszem, owszem, tu masz rację. Kiedyż stos podpalę?
+Dzień już przecież do połowy swój żywot zakończył.
+
+
+MENECHMUS I
+
+Sam opóźniasz, gdy przerywasz.
+
+
+ZMIOTKA
+
+                        Więc wybij mi oko
+Tu na ziemię, jeśli wtrącę choć słowo wbrew tobie!
+
+
+MENECHMUS I
+
+/ odsuwa go od drzwi swego domu, ciągle się oglądając /
+
+Cofnijże się tu ode drzwi.
+
+
+ZMIOTKA
+
+                        Dobrze.
+
+
+MENECHMUS I
+
+                        Jeszcze.
+
+
+ZMIOTKA
+
+                        Dobrze.
+
+
+MENECHMUS I
+
+Jeszcze cofnij się odważnie, tu od tej lwiej groty.
+
+
+ZMIOTKA
+
+Ej, dalibóg, byłby z ciebie, myślę, mistrz-woźnica!
+
+
+MENECHMUS I
+
+Czemu?
+
+
+ZMIOTKA
+
+                        Ciągle się oglądasz, czy żona nie goni.
+
+
+MENECHMUS I
+
+/ wracając do tematu urządzenia uczty /
+
+Cóż ty na to?
+
+
+ZMIOTKA
+
+/ udaje obrażonego i nie chce gadać /
+
+                        Ja? Co ty chcesz — to mówię lub przeczę.
+
+
+MENECHMUS I
+
+A czy też ty coś z zapachu — jeżeli powąchasz —
+Nie rozpoznasz?
+
+
+ZMIOTKA
+
+                        [Ściśle powiem, co się gotowało,
+Tak, jakbyś tu cech kucharzy] wezwał do narady.
+
+
+MENECHMUS I
+
+Więc powąchajże tę suknię. Co czuć? Nos odwracasz?
+
+
+ZMIOTKA
+
+Z góry zawsze trzeba wąchać ubranie kobiece,
+Bo z tej strony nos przechodzi odorem nieznośnym.
+
+
+MENECHMUS I
+
+Więc tu wąchaj! Co za mina!
+
+
+ZMIOTKA
+
+                        Bo tak się należy.
+
+
+MENECHMUS I
+
+No więc cóż? Mów, co tam czujesz?
+
+
+ZMIOTKA
+
+                        Kradzież, dziewkę, ucztę.
+
+
+MENECHMUS I
+
+Niech ci będzie, [co zapragniesz! Skoroś tak dokładnie]
+Odgadł [wszystko, bo tę suknię właśnie żonie ściągłem.]
+Teraz pójdzie tu do dziewki, do mojej Erotium.
+Każę ucztę tu zgotować, mnie i tobie.
+
+
+ZMIOTKA
+
+                        Brawo!
+
+
+MENECHMUS I
+
+Po czym tutaj pić będziemy aż do gwiazd porannych.
+
+
+ZMIOTKA
+
+Doskonale!
+
+/ pędzi do drzwi Erotium /
+
+                        Czy mam pukać?
+
+
+MENECHMUS I
+
+                        Pukaj! lub — poczekaj!
+
+/ Łapie go za płaszcz. /
+
+
+ZMIOTKA
+
+/ niechętnie staje /
+
+Tysiąc kroków opóźniłeś naszą pijatykę!
+
+
+MENECHMUS I
+
+Pukaj lekko!
+
+
+ZMIOTKA
+
+/ drwiąc /
+
+                        Czy się boisz, że drzwi są za kruche?
+
+
+MENECHMUS I
+
+Czekajże, na miłość boską! — O! sama wychodzi.
+
+/ Erotium staje we drzwiach. /
+
+Och! Patrz! Słońce pociemniało przy blasku jej ciała!
+
+
+
+
+
+/ Erotium, Zmiotka, Menechmus I. /
+
+
+EROTIUM
+
+Witaj, duszko ma, Menechmie!
+
+
+ZMIOTKA
+
+                        A ja?
+
+
+EROTIUM
+
+                        Tyś zbyteczny!
+
+
+ZMIOTKA
+
+No — są przecież nadliczbowi nawet i w legionie.
+
+
+MENECHMUS I
+
+Dziś kazałem tu u ciebie „bitwę” przygotować.
+
+
+EROTIUM
+
+Więc dziś będzie.
+
+
+MENECHMUS I
+
+                        I w tej „bitwie” oba pić będziemy,
+A kto lepszy się okaże wojownik przy piciu,
+Ty wybierzesz i orzekniesz, z kim… dziś noc przepędzisz!
+Ach, jak żony nienawidzę przy tobie, kochanie!
+
+
+EROTIUM
+
+A tymczasem chodzisz nawet w jej szatkach na sobie?
+Cóż to jest?
+
+/ Wskazuje na suknię żony, widoczną pod płaszczem Menechma. /
+
+
+MENECHMUS I
+
+                        To „zdjęcie” z żony — różo — „wdzianie” tobie!
+
+
+EROTIUM
+
+Gładkoś pobił wszystkich innych i wolę cię od nich!
+
+
+ZMIOTKA
+
+Dziewka schlebia tylko potąd, pokąd jeszcze widzi
+Coś do zdarcia. — Gdybyś jego naprawdę kochała,
+Tobyś chyba mu dotychczas — najmniej nos odgryzła!
+
+
+MENECHMUS I
+
+/ zabiera się do zdjęcia sukni, podaje do potrzymania płaszcz /
+
+Trzymaj, Zmiotko, chcę ślub spełnić i „zdjęcia” dokonać.
+
+
+ZMIOTKA
+
+Daj — lecz teraz, ja cię proszę, zatańcz tak, w tej szatce!
+
+
+MENECHMUS I
+
+Ja mam tańczyć? Czyś zwariował?
+
+
+ZMIOTKA
+
+                        Ja czy ty — kto raczej?
+Gdy nie tańczysz, to ją zdejmij.
+
+
+MENECHMUS I
+
+/ zdejmuje suknię /
+
+                        Ściągnąłem ją dzisiaj
+Wśród ogromnych niebezpieczeństw. Myślę, że Herkules
+Ani w przybliżeniu takich nie miał niebezpieczeństw
+Gdy pas zabrał Hippolicie.
+
+/ podaje jej suknię /
+
+                        Przyjmijże ją tedy,
+Gdyś ty jedna jest na świecie tak dla mnie życzliwa.
+
+
+EROTIUM
+
+Tacy wszyscy być powinni porządni amanci!
+
+
+ZMIOTKA
+
+/ na stronie /
+
+Co się sami jak najszybciej w żebractwo wtrącają!
+
+
+MENECHMUS I
+
+Żonie-m kupił ją rok temu, dałem cztery miny.
+
+
+ZMIOTKA
+
+/ jak wyżej /
+
+Cztery miny licho wzięło — to jasny rachunek.
+
+
+MENECHMUS I
+
+Wiesz, co chcę, byś ty zrobiła?
+
+
+EROTIUM
+
+                        Wiem — zrobię, co zechcesz.
+
+
+MENECHMUS I
+
+Dla nas trojga każ więc ucztę u siebie przyrządzić
+I na rynku każ zakupić trochę smakołyków:
+Podgardlankę-Wieprzowinkę, Słoninkę-Szynkidzką,
+Może też głowiznę z wieprza lub coś podobnego,
+Co zwarzone i podane wilczy smak pobudza!
+I to zaraz!
+
+
+EROTIUM
+
+                        Oczywiście.
+
+
+MENECHMUS I
+
+                        My przedtem na rynek,
+Ale zaraz tu będziemy. A nim się zgotuje,
+Popijemy.
+
+
+EROTIUM
+
+                        Przyjdź, gdy zechcesz. Wszystko przygotuję.
+
+
+MENECHMUS I
+
+Śpiesz się tylko.
+
+/ do Zmiotki /
+
+                        Ty chodź ze mną.
+
+
+ZMIOTKA
+
+                        Już ja cię nie puszczę!
+Idę, już cię nie odstąpię za skarby niebiańskie!
+
+/ Odchodzą na rynek. /
+
+
+EROTIUM
+
+/ otwiera drzwi swego domu i mówi: /
+
+Wywołajcie mi tu zaraz Cylindra, kucharza!
+
+/ Kucharz wchodzi. /
+
+
+
+
+
+/ Erotium, Cylindrus. /
+
+
+EROTIUM
+
+Bierz koszyk i pieniądze. Masz tutaj trzy grosze.
+
+
+CYLINDRUS
+
+Mam.
+
+
+EROTIUM
+
+                        Idź, przynieś tu zapasów. Patrz, by na trzech było,
+Nie za mało, nie za dużo.
+
+
+CYLINDRUS
+
+                        Któż to taki będzie?
+
+
+EROTIUM
+
+Ja, Menechmus i pasożyt.
+
+
+CYLINDRUS
+
+                        To już dziesięć osób,
+Bo pasożyt bardzo łatwo za ośmiu wystarczy.
+
+
+EROTIUM
+
+A więc gości wymieniłam. Reszta twoja.
+
+
+CYLINDRUS
+
+                        Dobrze.
+Już gotowe — proś do stołu!
+
+
+EROTIUM
+
+                        Wróć prędko.
+
+
+CYLINDRUS
+
+                        Już wracam!
+
+/ Odchodzi na rynek, Erotium wchodzi do domu. /
+
+
+
+
+AKT II
+
+/ Menechmus II, Messenio z ludźmi dźwigającymi bagaże. /
+
+/ Messenio dźwiga koszyk — wchodzą od strony portu. /
+
+
+MENECHMUS II
+
+Nie ma większej rozkoszy żeglarz, mój Messenio,
+Mym zdaniem, jak gdy ujrzy, hen z pełnego morza,
+Ziemię!
+
+
+MESSENIO
+
+                        Większa to rozkosz, by prawdę powiedzieć,
+Gdy wracając z daleka, *własną* ujrzysz ziemię.
+Bo, powiedz, po cóż znowu tu, do Epidamnus
+Przybywamy? Czy żeby, całkiem jak to morze,
+Wszystkie wyspy opłynąć?
+
+
+MENECHMUS II
+
+                        Brata rodzonego,
+Bliźniaka poszukuję.
+
+
+MESSENIO
+
+                        Kiedyż się to skończy?
+Toć już przecież rok szósty, jak się tak męczymy.
+Objechaliśmy całą Histrię i Hiszpanię,
+Massylię i Hilurię, całe Górne Morze,
+Grecję nawet Daleką, italskie wybrzeża
+Wszyściuteńkie, tam wszędzie, gdzie morze dochodzi.
+Toć gdybyś szpilki, myślę, gdybyś szpilki szukał,
+Dawno byłbyś ją znalazł, jeśliby gdzie była.
+Bo wśród żywych szukamy człeka umarłego;
+Dawno byśmy go mieli, gdyby był przy życiu!
+
+
+MENECHMUS II
+
+Otóż tego ja szukam, by mnie ktoś zapewnił,
+Powiedział, że wie o tym, że on już nie żyje:
+Wtedy wcale nie będę trudzić się szukaniem.
+Inaczej — póki żyję — szukać nie przestanę.
+Wiesz przecież, jaki drogi jest sercu mojemu.
+
+
+MESSENIO
+
+To jest wszystko na próżno. Wróćmyż stąd do domu,
+Lub — chyba mamy pisać jakiś opis świata?
+
+
+MENECHMUS II
+
+/ zirytowany /
+
+Słuchaj, gdy ci jeść daję! Strzeż się coś oberwać!
+Nie sklamrz! Nie twa w tym głowa!
+
+
+MESSENIO
+
+                        Więc otóż to właśnie,
+To słowo mnie poucza, że jestem niewolnik.
+Nie można było więcej tak krótko powiedzieć.
+Mimo wszystko nie mogę zaprzestać gadania.
+Wiesz, Menechmie, gdy tutaj patrzę w naszą kiesę,
+To nasz zapas na drogę jest nazwyczaj „letni”,
+Ja myślę, że dalibóg, jeśli się nie wrócisz,
+Bez grosza brata tropiąc, biedy się dopytasz!
+Bo tu jest taki naród: ci Epidamczycy
+To największe hulaki, największe pijaki.
+Najwięcej tutaj mieszka przeróżnych łobuzów,
+Wykpigroszów. A mówią o tutejszych dziewkach,
+Że nigdzie nie są takie kuszące, jak tutaj,
+Więc dlatego to miasto zwie się Epi-dam-nus,
+Że kto tutaj zajedzie, tylko „dam” „dam” ciągle!
+
+
+MENECHMUS II
+
+/ zaniepokojony /
+
+Już ja będę uważał. Daj no tu tę kiesę!
+
+
+MESSENIO
+
+Na co?
+
+
+MENECHMUS II
+
+                        Bo już się boję — ty tak jakoś mówisz…
+
+
+MESSENIO
+
+Co się boisz?
+
+
+MENECHMUS II
+
+                        Co? Żebyś… nie „dam”, „dam” za dużo!
+Ty, Messenio, wiem, lubisz ogromnie kobiety,
+Ja znów jestem gniewliwy i bardzo porywczy;
+Mając grosze przy sobie, dwóch rzeczy uniknę:
+Byś ty coś nie przeskrobał i ja się nie złościł.
+
+
+MESSENIO
+
+/ obrażony oddaje kiesę /
+
+Masz, pilnuj; mnie tym zrobisz największą przyjemność.
+
+
+
+
+
+/ Cylindrus, Menechmus II, Messenio. /
+
+
+CYLINDRUS
+
+/ wraca z miasta z zapasami /
+
+Dobrzem wszystko zakupił, całkiem tak jak chciałem,
+I dobre biesiadnikom zastawię jedzenie.
+Lecz cóż to? To Menechmus! Oj, źle z moim grzbietem!
+Biesiadnicy już chodzą pod naszymi drzwiami,
+Zanim jeszcze wróciłem. Podejdę, przemówię —
+Witaj, witaj Menechmie!
+
+
+MENECHMUS II
+
+                        Kimkolwiek ty jesteś,
+Niechaj bogi ci darzą.
+
+
+CYLINDRUS
+
+/ zdumiony, do siebie /
+
+                        „Kimkolwiek”? [Oszalał!
+Więc nie wiesz, kto] ja jestem?
+
+
+MENECHMUS II
+
+                        Dalibóg, że nie wiem.
+
+
+CYLINDRUS
+
+Gdzież reszta biesiadników?
+
+
+MENECHMUS II
+
+                        Jakich biesiadników?
+
+
+CYLINDRUS
+
+Twój pasożyt.
+
+
+MENECHMUS II
+
+                        Pasożyt?
+
+
+CYLINDRUS
+
+/ do siebie /
+
+                        Ten człowiek zwariował.
+
+
+MESSENIO
+
+/ wtrąca /
+
+Nie mówiłem, że tutaj pełno jest łobuzów?
+
+
+MENECHMUS II
+
+/ do Cylindrusa /
+
+Cóż to za „pasożyta mojego” ty szukasz?
+
+
+CYLINDRUS
+
+Zmiotki.
+
+
+MESSENIO
+
+                        Mam ją w koszyku, zupełnie w porządku.
+
+
+CYLINDRUS
+
+Menechmie, bardzo wcześnie przychodzisz na ucztę.
+Właśnie wracam z zakupna.
+
+
+MENECHMUS II
+
+                        Powiedz no mi, chłopcze.
+Po wiele tu prosięta „czyste”, do ofiary?
+
+
+CYLINDRUS
+
+Po groszu.
+
+
+MENECHMUS II
+
+                        Masz tu grosza; każ, niech kosztem moim
+Ofiarę oczyszczenia złożą tu za ciebie,
+Bo nie mam wątpliwości, że masz kiepsko w głowie,
+Gdy — kimkolwiek ty jesteś — obcego kłopotasz.
+
+
+CYLINDRUS
+
+Toż ja jestem Cylindrus. Nie wiesz, jak się zowię?
+
+
+MENECHMUS II
+
+Cylinder czy Koriender, niech cię licho porwie!
+Ja cię nie znam, nie pragnę twojej znajomości!
+
+
+CYLINDRUS
+
+Ty się zowiesz Menechmus.
+
+
+MENECHMUS II
+
+                        To jedno, co widzę,
+Że mówisz nie od rzeczy, gdy mnie tak nazywasz.
+Lecz skąd ty mnie znać możesz?
+
+
+CYLINDRUS
+
+                        Ja skąd cię znać mogę?
+Ciebie, co się tu kochasz w mej pani, Erotium?
+
+
+MENECHMUS II
+
+Ani się tu nie kocham, ani ciebie nie znam!
+
+
+CYLINDRUS
+
+Mnie nie znasz, co ci zawsze kielichy napełniam
+U nas, gdy pić przychodzisz?
+
+
+MESSENIO
+
+                        O, że też ja nie mam
+Nic takiego pod ręką, żeby mu łeb rozbić!
+
+
+MENECHMUS II
+
+Ty kielichy nalewasz? Mnie? Com nigdy przedem
+Epidamnu nie widział i nigdy tu nie był?
+
+
+CYLINDRUS
+
+Więc przeczysz?
+
+
+MENECHMUS II
+
+                        Oczywiście.
+
+
+CYLINDRUS
+
+/ wskazuje na dom Menechma I /
+
+                        Więc ty tu nie mieszkasz?
+
+
+MENECHMUS II
+
+Niech ich bogi wytracą tych, co tu mieszkają!
+
+
+CYLINDRUS
+
+/ do siebie /
+
+Nie — ten człowiek oszalał! Sam sobie wymyśla!
+
+/ do Menechma II /
+
+Ty, Menechmie!…
+
+
+MENECHMUS II
+
+                        Co znowu?
+
+
+CYLINDRUS
+
+                        Jeśli chcesz mej rady,
+Za ten grosz, coś go właśnie mnie chciał dać przed chwilą
+(Boś ty przecież na pewno niespełna rozumu,
+Menechmie, jeśli sobie sam tutaj wymyślasz),
+Każże sobie samemu sprowadzić prosiaka.
+
+
+MESSENIO
+
+Ach, cóż to jest za człowiek obrzydły, nieznośny!
+
+
+CYLINDRUS
+
+/ po namyśle, do widzów /
+
+E — on często tak ze mną lubi pożartować
+I bywa bardzo śmieszny, kiedy żony nie ma.
+
+/ do Menechma II /
+
+Ty, słuchaj! Słuchaj, mówię. Czy dość to, co widzisz
+Dla was trojga kupione, czy mam kupić więcej
+Dla ciebie, pasożyta i dla tej kobiety?
+
+
+MENECHMUS II
+
+Co za kobiety — gadasz? Co za pasożyty?
+
+
+MESSENIO
+
+/ do Cylindrusa /
+
+Co cię znów za choroba, tak się mu naprzykrzać?
+
+
+CYLINDRUS
+
+/ do Messeniona /
+
+Cóż ty znów chcesz ode mnie? Ja cię wcale nie znam,
+Z nim, z znajomym rozmawiam.
+
+
+MESSENIO
+
+                        Dalibóg, człowieku,
+Ty nie masz dobrze w głowie. Pewien tego jestem.
+
+
+CYLINDRUS
+
+/ zabiera się do odejścia; do Menechma II /
+
+Już ja to ugotuję szybko, bez spóźnienia.
+Toteż ty tu nie odchodź daleko od domu.
+Chcesz coś jeszcze ode mnie?
+
+
+MESSENIO
+
+                        Byś poszedł do kata!
+
+
+CYLINDRUS
+
+Lepiej, żebyś ty poszedł —
+
+/ Menechmus zamierza się na niego, Cylindrus w tej chwili zmienia dalszy ciąg zdania /
+
+                        — tymczasem lec sobie,
+Podczas gdy ja to oddam „pod przemoc Wulkana”.
+Pójdę, powiem Erotium, że ty tutaj stoisz,
+Niech cię weźmie do domu, byś nie stał pod drzwiami.
+
+/ Wchodzi do domu Erotium. /
+
+
+MENECHMUS II
+
+Już poszedł? Poszedł.
+
+/ do Messeniona /
+
+                        Widzę, żeś wcale, dalibóg,
+Nic nie skłamał, coś mówił.
+
+
+MESSENIO
+
+                        Poczekaj no tylko,
+Bo tu, myślę, że mieszka właśnie ta hetera,
+Jak to mówił ten wariat, co stąd teraz odszedł.
+
+
+MENECHMUS II
+
+To dziwne, skąd mógł wiedzieć, jak ja się nazywam?
+
+
+MESSENIO
+
+To nie jest wcale dziwne. Hetery tak robią:
+Do portu posyłają chłopców, pokojówki,
+Gdy jakiś obcy statek do portu przybije,
+Pytają, skąd ten statek, jak on się nazywa,
+Potem w lot się do niego przyczepią, przylepią,
+A jeżeli go zwabią — to zrujnowanego
+Do domu odsyłają. Teraz tu w tym porcie
+
+/ wskazuje na dom Erotium /
+
+Stoi okręt korsarski, przed którym doprawdy
+Trzeba nam się strzec pilnie.
+
+
+MENECHMUS II
+
+                        Ach, jak dobrze mówisz!
+
+
+MESSENIO
+
+Ja nie pierwej uwierzę, że mówiłem „dobrze”,
+Aż ty się od tej dziewki „dobrze” nie ustrzeżesz.
+
+
+MENECHMUS II
+
+Pst! Cicho na chwileczkę! Bo drzwi tu skrzypnęły:
+Patrzmy, kto tu wychodzi.
+
+
+MESSENIO
+
+                        To złożę tymczasem.
+
+/ Składa na boku swój kosz; do ludzi dźwigających bagaże: /
+
+Przypilnujcie tu tego, wy, „nogi okrętu”!
+
+
+
+
+
+/ Erotium, Menechmus II, Messenio. /
+
+
+EROTIUM
+
+/ mówi początkowo w progu, do służącej czyszczącej drzwi /
+
+No, już odejdź, drzwi tak zostaw, niech będą otwarte.
+Domem zajmij się, przypilnuj, patrz czego tam trzeba:
+Sofy pokryć kobiercami, kadzidła rozpalić;
+Wszak wykwintność jest przynętą dla naszych kochanków.
+Urok miejsca jest ich zgubą — a nam zysk przynosi.
+A gdzie on? Wszak kucharz mówił, że stoi przed domem?
+Oto jest! To człek przydatny, niezmiernie pomocny!
+Toteż on znów w zamian za to ma tu w naszym domu
+Pierwsze względy. — Więc podejdę i pierwsza zagadam.
+
+/ do Menechma /
+
+Duszko moja, cóż to znaczy? Tak stoisz pod drzwiami,
+A drzwi stoją ci otworem. Przecież dom ten więcej
+*Twoim* domem, niźli dom *twój*! Wszystko już gotowe,
+Jak kazałeś i jak chciałeś, i wszystko tu czeka!
+Obiad gotów, jak kazałeś. Chcesz, to chodź do stołu.
+
+
+MENECHMUS II
+
+A ta znów do kogo gada?
+
+
+EROTIUM
+
+                        Do ciebie, do ciebie!
+
+
+MENECHMUS II
+
+Co masz do mnie lub coś miała?
+
+
+EROTIUM
+
+                        To, że Wenus chciała,
+Byś mi droższy był nad wszystkich dzięki twej zasłudze.
+Tylko dzięki twej dobroci opływam w dostatki!
+
+
+MENECHMUS II
+
+/ do Messeniona, na stronie /
+
+Ta ma w głowie lub ma bzika! Na pewno, Messenio,
+Jeżeli tak czule mówi do nieznajomego.
+
+
+MESSENIO
+
+Nie mówiłem, że tak tutaj? To liście padają —
+A co, gdy trzy dni tu będziesz? Drzewa cię przywalą!
+Takie to są te hetery: wszystkie pieniądz wabią!
+Pozwól, niech ja ją zapytam. Słysz, kobieto!
+
+
+EROTIUM
+
+                        Czego?
+
+
+MESSENIO
+
+A ty jego gdzieś poznała?
+
+
+EROTIUM
+
+                        Gdzie on mnie, od dawna,
+W Epidamnus.
+
+
+MESSENIO
+
+                        W Epidamnus? Gdy on tu, w to miasto,
+Nigdy nogą swą nie stąpił aż dzisiaj?
+
+
+EROTIUM
+
+                        Ech, żarty!
+Mój Menechmie, chodźże do mnie, tam ci będzie lepiej.
+
+
+MENECHMUS II
+
+/ na stronie, do Messeniona /
+
+Lecz, dalibóg, ta kobieta dobrze mnie nazywa
+Mym imieniem. Straszniem ciekaw, co na tym być może.
+
+
+MESSENIO
+
+Co? Tę kiesę przewąchała, co ją masz przy sobie.
+
+
+MENECHMUS II
+
+Dalibóg, że dobrze mówisz.
+
+/ oddaje mu kiesę /
+
+                        Potrzymaj ją trochę.
+Zaraz ujrzę, czy mnie woli, czy też moją kiesę.
+
+
+EROTIUM
+
+Chodźmyż tedy tu zjeść obiad.
+
+
+MENECHMUS II
+
+/ odmawiając /
+
+                        Zbytek łaski — dzięki.
+
+
+EROTIUM
+
+Po cóżeś mi tedy kazał obiad sobie warzyć?
+
+
+MENECHMUS II
+
+Ja ci kazał obiad warzyć?
+
+
+EROTIUM
+
+                        Pewnie. I to tobie
+Razem z twoim pasożytem.
+
+
+MENECHMUS II
+
+                        Z jakim pasożytem?
+Ta kobieta ma źle w głowie, na pewno!
+
+
+EROTIUM
+
+                        Ze Zmiotką.
+
+
+MENECHMUS II
+
+Co za zmiotka znów? Do czego? Kurz zmiatać z trzewików?
+
+
+EROTIUM
+
+Z tym, co przedtem z tobą przyszedł, gdyś mi suknię przyniósł,
+Tę, coś ściągnął twojej żonie.
+
+
+MENECHMUS II
+
+                        Co znów? Ja ci dałem
+Suknię, com ją ściągnął żonie? Masz ty dobrze we łbie?
+Ta kobieta śni na pewno, śpi, stojąc, jak szkapa!
+
+
+EROTIUM
+
+Czemu sobie ty kpisz ze mnie i przeczysz wszystkiemu.
+Co się stało?
+
+
+MENECHMUS II
+
+                        No więc powiedz, co przeczę, żem robił?
+
+
+EROTIUM
+
+Żeś mi dał dziś suknię żony.
+
+
+MENECHMUS II
+
+                        I teraz zaprzeczę.
+Anim nigdy żony nie miał, ani jej dziś nie mam,
+Anim nigdy, odkąd żyję, tu nie był w tym mieście!
+Obiad jadłem na okręcie, stamtąd tu przyszedłem.
+
+
+EROTIUM
+
+Oj, źle ze mną! Jaki okręt? Co ty gadasz?
+
+
+MENECHMUS II
+
+                        Jaki?
+No — drewniany, heblowany, często pobijany,
+Często młotem opukany; jak warsztat kuśnierza
+Pełny palów, gdzie pal stoi przy palu w pobliżu!
+
+
+EROTIUM
+
+No, już przestań robić żarty i chodźże tu ze mną!
+
+
+MENECHMUS II
+
+Ty, kobieto, nie mnie szukasz, lecz kogoś innego!
+
+
+EROTIUM
+
+Nie znam cię? Menechma nie znam? Jego ojciec Moschus,
+A jest rodem, jak wiadomo, z Sycylii, z Syrakuz,
+Gdzie królował Agatokles, a potem Fintijas,
+Po nim znowu król Liparo, który umierając,
+Oddał tron Hijeronowi, dziś Hijeron rządzi?
+
+
+MENECHMUS II
+
+/ bardzo zdziwiony /
+
+Wszystko prawda to, co mówisz!
+
+
+MESSENIO
+
+/ na stronie do Menechma /
+
+                        Słuchaj, na Jowisza!
+Może ona stamtąd przyszła, że cię zna tak dobrze?
+
+
+MENECHMUS II
+
+Trudno, myślę, jej odmawiać.
+
+
+MESSENIO
+
+                        Tylko tego nie rób!
+Już po tobie, gdy próg przejdziesz!
+
+
+MENECHMUS II
+
+                        Ależ bądźże cicho!
+Dobrze idzie. Ja przyświadczę, cokolwiek mi powie,
+I tak zyskam tu gościnę.
+
+/ do Erotium /
+
+                        Ciąglem się sprzeciwiał
+Nie bez racji, bom miał stracha — przed nim,
+
+/ pokazuje na Messena /
+
+                        by mej żonie
+Coś nie doniósł o tej sukni i o tym obiedzie.
+Teraz, jeśli chcesz, to chodźmy.
+
+
+EROTIUM
+
+                        A cóż z pasożytem?
+Czy poczekasz?
+
+
+MENECHMUS II
+
+                        Ni nie czekam, ni nie dbam o niego,
+Ani nie chcę, by go wpuszczać, gdy przyjdzie.
+
+
+EROTIUM
+
+                        I owszem.
+
+/ przymilając się /
+
+Lecz wiesz, o co chcę cię prosić?
+
+
+MENECHMUS II
+
+                        Rozkazuj, co zechcesz!
+
+
+EROTIUM
+
+Tę sukienkę, coś mi przyniósł, byś dał do hafciarza,
+Żeby trochę ją odświeżył i dodał, co każę.
+
+
+MENECHMUS II
+
+Doskonale! Potem suknia będzie tak zmieniona,
+Że jej żona nie rozpozna, choć ciebie w niej spotka!
+
+
+EROTIUM
+
+Więc ją weźmiesz zaraz z sobą, gdy stąd pójdziesz.
+
+
+MENECHMUS II
+
+                        Ślicznie!
+
+
+EROTIUM
+
+No więc chodźmy.
+
+
+MENECHMUS II
+
+                        Zaraz idę. Z nim tylko pogadam.
+
+/ Erotium wchodzi do domu. /
+
+Hej, Messenio, chodź no tutaj.
+
+
+MESSENIO
+
+                        Co jest?
+
+
+MENECHMUS II
+
+                        Skacz z radości!
+
+
+MESSENIO
+
+Na co?
+
+
+MENECHMUS II
+
+/ z szelmowską miną /
+
+                        Na to!
+
+/ wskazuje w stronę domu hetery /
+
+                        Wiem, co powiesz!
+
+
+MESSENIO
+
+                        Tym gorzej!
+
+
+MENECHMUS II
+
+                        Mam zdobycz.
+Tak potężne dzieło wszcząłem. Śpiesz się, ile zdołasz,
+A tych tu odprowadź zaraz do jakiejś gospody,
+Potem patrz, byś przyszedł po mnie przed zachodem słońca.
+
+
+MESSENIO
+
+Ty ich wcale nie znasz, panie, tych heter.
+
+
+MENECHMUS II
+
+                        Bądź cicho!
+Ja odcierpię sam, a nie ty, jeśli pokpię sprawę.
+Ta kobieta jest zbyt głupia i nierozgarnięta,
+I, o ile tylko widzę, tu jest zdobycz dla nas!
+
+/ Wchodzi do domu Erotium. /
+
+
+MESSENIO
+
+O, źle ze mną! Więc już idziesz! — Już przepadł z kretesem!
+Wlecze już korsarski statek tę lekką szalupę
+Prosto na złamanie karku! — Lecz ja jestem głupi,
+Że chcę panu coś przerządzać. Wszak kupił mnie na to,
+Bym ja słuchał jego słowa, nie nad nim panował.
+
+/ do swych ludzi /
+
+Chodźcie, bym mógł na czas wrócić tak, jak mi kazano.
+
+/ Odchodzi z ludźmi dźwigającymi bagaże w uliczkę ku miastu. /
+
+
+
+
+AKT III
+
+
+ZMIOTKA
+
+/ wchodzi od strony miasta i mówi /
+
+Mam lat więcej niż trzydzieści, a nigdy dotychczas
+Gorszej zbrodni nie spełniłem ani potworniejszej,
+Jak to dziś, gdym się, nieszczęsny, w wiec jakiś wpakował.
+Gdy tam stoję zagapiony, gdzieś mi zwiał Menechmus.
+Poszedł pewnie do kochanki: mnie nie wziął umyślnie.
+A niechże go wszystkie bogi! Tego, który pierwszy
+Wpadł na pomysł wiec zwoływać, zajętych zajmować!
+Czyż nie wybrać na to takich, którzy nic nie robią?
+* * * * * * ** * * * * *
+Dość jest ludzi, którzy dzień w dzień raz tylko jadają,
+Nic nie robią — i nie proszą, ni ich nikt nie prosi:
+Ci niech chodzą na te wiece i na zgromadzenia!
+W takim razie ja bym dzisiaj nie stracił obiadu,
+Który mi się tak należał, tak jak wiem, że żyję!
+Ale pójdę. Jeszcze teraz cieszę się na resztki.
+Lecz co widzę? To Menechmus! W wieńcu tu wychodzi!
+Koniec uczty. W sam czas tutaj po niego przychodzę!
+Patrzmy, co on będzie robił. Później go zagadnę.
+
+/ Odsuwa się na bok, Menechmus II wychodzi, już po uczcie, z wieńcem na głowie; na ręku ma suknię, przyniesioną przez Menechma I. /
+
+
+
+
+
+/ Menechmus II, Zmiotka. /
+
+
+MENECHMUS II
+
+/ mówi, wychodząc /
+
+No, więc bądźże spokojna. Już ja ci ją pięknie,
+Prześlicznie odświeżoną dziś na czas odniosę,
+Nie poznasz jej po prostu: tak będzie zmieniona!
+
+
+ZMIOTKA
+
+/ na stronie /
+
+Do hafciarza ją niesie. Więc jest po jedzeniu,
+Po wypitce: pasożyt — był przy tym za drzwiami!
+Nie jestem tym, co jestem, jeśli jak się patrzy
+Tej krzywdy mej nie pomszczę! Zobaczysz, co zrobię!
+
+
+MENECHMUS II
+
+Bogowie nieśmiertelni! Komużeście kiedy
+Więcej dobra w dniu jednym dali niespodzianie?
+Jadłem, piłem wraz dziewką, tę suknię jej wziąłem,
+Której po dniu dzisiejszym już nigdy nie ujrzy.
+
+
+ZMIOTKA
+
+/ na stronie /
+
+Nie mogę stąd podsłuchać, o czym on tu gada;
+Czy o mnie? I to teraz, gdy się sam już najadł?
+
+
+MENECHMUS II
+
+Mówi, żem jej dał suknię i że ją porwałem
+Mej żonie — skoro widzę, że się całkiem myli,
+W lot wziąłem przytakiwać, jakbym miał z nią kiedy
+Coś wspólnego. Co tylko ona powiedziała,
+Ja to samo — i co tu dużo jeszcze gadać?
+Nie — nigdy mniejszym kosztem tak się nie bawiłem!
+
+
+ZMIOTKA
+
+Więc podejdę do niego. Muszę piekło zrobić!
+
+/ Zbliża się do Menechma II. /
+
+
+MENECHMUS II
+
+Któż to idzie tu do mnie?
+
+
+ZMIOTKA
+
+                        Cóż ty, świszczypałko,
+Niegodziwcze najgorszy, zakało ludzkości,
+Ty podstępny nicponiu! Cóżem ja ci winien,
+Byś mnie gubił w ten sposób? Jakeś mi się wymknął
+Tam z rynku? „Pogrzebałeś” beze mnie ten obiad!
+Jak śmiałeś? Gdym ja także miał być „spadkobiercą”?
+
+
+MENECHMUS II
+
+Człowieku, ja cię proszę, co ty chcesz ode mnie?
+Nie znasz mnie, jestem obcy, a ty mi wymyślasz.
+
+/ grozi mu /
+
+Mogłoby cię coś spotkać za to wymyślanie!
+
+
+ZMIOTKA
+
+Myślę, że mnie od ciebie już dosyć spotkało!
+
+
+MENECHMUS II
+
+Powiedzże mi, człowieku, jak się ty nazywasz?
+
+
+ZMIOTKA
+
+No, więc jeszcze kpisz ze mnie, tak jakbyś mnie nie znał?
+
+
+MENECHMUS II
+
+Dalibóg, żem cię nigdy — o ile wiem tylko —
+Nie widział, aż do dziś dnia, nigdym cię nie poznał.
+A zresztą, w każdym razie, ktokolwiek ty jesteś,
+Dobrze zrobisz, jeżeli dasz mi wreszcie spokój!
+
+
+ZMIOTKA
+
+/ potrząsa nim /
+
+Ocknijże się, Menechmie!
+
+
+MENECHMUS II
+
+                        Toć nie śpię, dalibóg,
+Chyba tyle wiem jeszcze.
+
+
+ZMIOTKA
+
+                        A więc ty mnie nie znasz?
+
+
+MENECHMUS II
+
+Nie znam! Tożbym nie przeczył, jeśliby tak było.
+
+
+ZMIOTKA
+
+Więc twego pasożyta nie znasz?
+
+
+MENECHMUS II
+
+                        Ty, człowieku,
+Masz coś niezdrowo w głowie, o ile rozumiem.
+
+
+ZMIOTKA
+
+Więc powiedz, czyś nie ściągnął dzisiaj twojej żonie
+Tej sukni i czyś nie dał jej tutaj Erotium?
+
+
+MENECHMUS II
+
+Toć ani nie mam żony, anim nic Erotium
+Nie dawał, ani żadnej sukni nie ściągnąłem.
+
+
+ZMIOTKA
+
+Masz rozum?
+
+/ do siebie /
+
+                        Kiepska sprawa! —
+
+/ do Menechma /
+
+                        Czyżem cię nie widział,
+Jakeś tu stąd wychodził, w tej szatce kobiecej?
+
+
+MENECHMUS II
+
+/ zamierza się ze złością na Zmiotkę /
+
+Idź, bo ci łeb rozbiję! Czy myślisz, że wszyscy
+Są przez to niewieściuchy, że ty sam nim jesteś?
+Więc twierdzisz, żeś mnie widział w tej sukni kobiecej?
+
+
+ZMIOTKA
+
+Tak twierdzę.
+
+
+MENECHMUS II
+
+/ z pasją /
+
+                        Odejdź — mówię — tam, gdzie ci się patrzy,
+Lub proś bogów o zdrowie, ty ciężki wariacie!
+
+
+ZMIOTKA
+
+/ wrzeszczy ze złości /
+
+Nikt mnie nigdy, dalibóg, od tego nie wstrzyma,
+Bym twej żonie o wszystkim, jak było, nie doniósł!
+Tak się wrócą do ciebie te wszystkie obelgi,
+Zobaczysz, jak się zemszczę za obiad zjedzony!
+
+/ Wygrażając się, wchodzi do domu Menechma I. /
+
+
+MENECHMUS II
+
+Cóż to wszystko ma znaczyć? Kogo tylko ujrzę,
+Każdy mnie chce nabierać! — Ale drzwi skrzypnęły.
+
+
+
+
+
+/ Pokojówka, Menechmus II. /
+
+
+POKOJÓWKA
+
+/ ma w ręce naramiennik swej pani /
+
+Menechmie, bardzo pięknie prosi cię Erotium,
+Byś to za jedną drogą zaniósł do złotnika
+I dodał tu do tego jakąś uncję złota
+I kazał naramiennik na nowy przerobić.
+
+
+MENECHMUS II
+
+I to, i wszystko inne, czego tylko zechce,
+Powiedz, że jej załatwię, i jak tylko zechce.
+
+
+POKOJÓWKA
+
+/ podaje mu naramiennik /
+
+A znasz ten naramiennik?
+
+
+MENECHMUS II
+
+                        Wiem tylko, że złoty.
+
+
+POKOJÓWKA
+
+To jest ten, coś to mówił, żeś go potajemnie
+Kiedyś ściągnął ze szafy twej żonie.
+
+
+MENECHMUS II
+
+                        Nie, wcale,
+To tak nigdy nie było!
+
+
+POKOJÓWKA
+
+                        Jak to? Nie pamiętasz?
+To oddaj naramiennik, jeśli nie wiesz.
+
+
+MENECHMUS II
+
+                        Czekaj,
+Owszem, owszem, pamiętam, ten sam, co jej dałem!
+A to… gdzież bransolety, com jej dał z nim razem?
+
+
+POKOJÓWKA
+
+Wcaleś nie dał.
+
+
+MENECHMUS II
+
+                        A prawda! Tylko tamto dałem.
+
+
+POKOJÓWKA
+
+Powiedzieć, że załatwisz?
+
+
+MENECHMUS II
+
+                        Powiedz, że się zrobi.
+Naramiennik ze suknią razem się odniesie.
+
+
+POKOJÓWKA
+
+/ przymilając się /
+
+Menechmeczku mój drogi, a każ mi też zrobić
+Kolczyki w kształcie kropli, na wagę dwóch złotych,
+Bym cię chętnie widziała, kiedy do nas przyjdziesz.
+
+
+MENECHMUS II
+
+Dobrze, tylko daj złoto. Ja płacę robotę.
+
+
+POKOJÓWKA
+
+Daj, proszę, ze swojego, ja ci potem oddam.
+
+
+MENECHMUS II
+
+Nie, lepiej ty daj swoje. Oddam ci w dwójnasób.
+
+
+POKOJÓWKA
+
+Nie mam.
+
+
+MENECHMUS II
+
+                        To więc dasz wtedy, kiedy je mieć będziesz.
+
+
+POKOJÓWKA
+
+Cóż jeszcze?
+
+
+MENECHMUS II
+
+                        Tylko powiedz, że ja się postaram —
+
+/ Pokojówka odchodzi. /
+
+Sprzedać wszystko najprędzej, najlepiej jak można.
+Już weszła? Tak, odeszła, drzwi zamkła za sobą.
+
+/ Sam /
+
+Wszystkie bogi mnie lubią, darzą, wspomagają!
+Ale czemu ja zwlekam, póki mam sposobność
+I czas, żeby stąd drapnąć, z tej tu rajfurszczyzny?
+Śpiesz się tedy, Menechmie! Nogi za pas, zmykaj!
+Ten wieniec teraz zdejmę, rzucę tu, na lewo,
+By mnie w razie pościgu w tej stronie szukali.
+Pójdę, jeśli się uda, sługę mego znaleźć,
+Powiedzieć mu to wszystko, jak mnie bogi darzą.
+
+/ Odchodzi ku miastu w uliczkę. /
+
+
+
+
+AKT IV
+
+/ Żona Menechma I, Zmiotka. /
+
+/ Wychodzą oboje z domu Menechma I. /
+
+
+ŻONA
+
+/ zawodząc /
+
+Więc jakże ja mam ścierpieć to moje małżeństwo,
+Gdy mąż chyłkiem wykrada, co tylko jest w domu,
+I niesie do kochanki?
+
+
+ZMIOTKA
+
+                        Mówię ci, bądź cicho,
+Schwycisz go na uczynku. Tylko tu chodź za mną.
+Niósł właśnie do hafciarza, z wieńcem i pijany,
+Tę suknię, którą dzisiaj tu z domu ci ściągnął.
+
+/ spostrzega i podnosi porzucony wieniec /
+
+O, otóż jego wieniec. No, może ja kłamię?
+O, tu odszedł, w tę stronę, jeśli iść za śladem.
+
+/ spostrzega wracającego z miasta Menechma I /
+
+Ot, właśnie teraz wraca, i w sam czas, dalibóg,
+Lecz tej sukni nie niesie.
+
+
+ŻONA
+
+                        Cóż ja mam z nim zrobić?
+
+
+ZMIOTKA
+
+To, co zawsze. Zwymyślaj!
+
+/ Żona reaguje gestem /
+
+                        To, sądzę, najlepsze.
+Chodźmy teraz tu na bok. Czatuj tu w zasadzce.
+
+/ Chowają się oboje w uliczkę, za węgiel domu. /
+
+
+
+
+
+/ Menechmus I, Zmiotka, Żona. /
+
+
+MENECHMUS I
+
+/ wracając z rynku, opowiada /
+
+Jaki też to zwyczaj mamy niesłychanie głupi,
+Przykry, podły — a tym więcej ulega mu każdy,
+Im kto lepszy! Tak chcą wszyscy mieć wiele klientów:
+A czy zacni są, czy podli, nikt o to nie pyta;
+Dbają więcej o majątek niż o ich uczciwość:
+Gdy jest biedny, choć człek niezły, dla nich to jest nicpoń,
+Gdy bogaty, chociaż gałgan, dla nich dobry klient!
+Ci, co ni praw nie szanują, ni dobra, słuszności,
+Takich mają za patronów, co się za nich trapią.
+Zaprzeczają, gdy co wezmą, pełni kłótliwości,
+A drapieżni i podstępni — pieniądze zbijają,
+Czy na lichwie, czy oszustwie, i skargi im w głowie!
+Gdy ich ktoś do sądu pozwie — to patronów wzywa,
+Bo *nam* tego bronić trzeba, co *oni* przeskrobią:
+Czy w urzędzie, czy przed sędzią, czy na zgromadzeniu.
+Jak i mnie dziś pewien klient cały czas zaprzątnął,
+Żem już nie mógł nic załatwić, com chciał, z kim być miało,
+Tak mnie zajął, tak zatrzymał! Otóż przed edylem
+Ja broniłem jego sprawek najgorszych, rozlicznych,
+I warunki-m musiał stawiać krętackie, podstępne:
+Przemawiałem na los szczęścia, sprawę przetrzymując,
+Chcąc mieć sponzję. Cóż ten na to, co dał zakładnika?
+Nie widziałem jeszcze nigdy, żeby kogoś lepiej
+Na uczynku przyłapano: na wszystkie łajdactwa
+Było po trzech tęgich świadków. — Niech go wszystkie bogi,
+Że mi dzień ten dzisiaj zepsuł. — Niech mnie! Bym tak nigdy
+Nie był spojrzał dziś na rynek. Dzień śliczny straciłem:
+Ucztę-m kazał przygotować — tak — czeka kochanka.
+Skorom tylko mógł się wyrwać, pędzę tutaj z rynku.
+Pewnie się już na mnie gniewa: suknia ją ugłaska,
+Com ją dzisiaj zwędził żonie i dał tej Erotium.
+
+
+ZMIOTKA
+
+/ na stronie do Żony /
+
+Cóż ty na to?
+
+
+ŻONA
+
+                        Żem *źle* wyszła, za *złego* człowieka.
+
+
+ZMIOTKA
+
+Dobrze słyszysz, co on mówi?
+
+
+ŻONA
+
+                        Dobrze.
+
+
+MENECHMUS I
+
+/ podchodzi do drzwi Erotium /
+
+                        Wejdę sobie!
+Tu mnie czeka coś dobrego!
+
+
+ZMIOTKA
+
+/ wypada z boku, łapie go i zatrzymuje /
+
+                        Ale tu coś złego!
+
+
+ŻONA
+
+/ wpada na niego z drugiej strony /
+
+Już tyś ją na dobry procent dziś zwędził, dalibóg!
+
+
+ZMIOTKA
+
+/ triumfująco /
+
+Teraz masz!
+
+
+ŻONA
+
+                        Tyś myślał może, że nikt o tym nie wie,
+O twych sprawkach?
+
+
+MENECHMUS I
+
+/ przerażony, próbuje jednak udać niewinnego i Żonę ugłaskać /
+
+                        O co chodzi?
+
+
+ŻONA
+
+                        To ty mnie się pytasz?
+
+
+MENECHMUS I
+
+No, więc jego się zapytam.
+
+
+ŻONA
+
+                        Daj spokój wykrętom!
+
+
+ZMIOTKA
+
+/ podjudza ją /
+
+Dalej!
+
+
+MENECHMUS I
+
+                        Coś mi taka chmurna?
+
+
+ŻONA
+
+                        Tyś wiedzieć powinien.
+
+
+ZMIOTKA
+
+/ do Żony /
+
+Wie, udaje tylko, szelma!
+
+
+MENECHMUS I
+
+                        Co takiego?
+
+
+ŻONA
+
+                        Suknię…
+
+
+MENECHMUS I
+
+Suknię?
+
+
+ŻONA
+
+                        Ktoś tu moją suknię…
+
+
+ZMIOTKA
+
+/ do Menechmusa I /
+
+                        Czemuż drżysz?
+
+
+MENECHMUS I
+
+                        Nie, wcale.
+
+
+ZMIOTKA
+
+/ drwi /
+
+Tylko suknia tak cię wzrusza.
+
+/ zniżonym głosem /
+
+                        Widzisz, nie trza było
+Zjeść obiadu bez mej wiedzy!
+
+/ do Żony /
+
+                        No, dalej na niego!
+
+
+MENECHMUS I
+
+/ do Zmiotki /
+
+Będziesz cicho?
+
+
+ZMIOTKA
+
+                        Nie chce mi się.
+
+/ do Żony /
+
+                        Miga, bym nie gadał.
+
+
+MENECHMUS I
+
+Nie, bynajmniej, nigdy w świecie nie migam, nie mrugam.
+
+
+ŻONA
+
+/ zaczyna zawodzić /
+
+Oj, oj, biednam ja kobieta!
+
+
+MENECHMUS I
+
+/ zbliża się, obejmuje ją, chce uspokoić /
+
+                        Czemuś biedna? Powiedz!
+
+
+ZMIOTKA
+
+/ do Żony /
+
+Szczyt czelności! Sama widzisz, a on jeszcze przeczy!
+
+
+MENECHMUS I
+
+Na Jowisza klnę się, żono, i na wszystkie bogi
+(To ci dosyć?), żem ja jemu bynajmniej nie migał.
+
+
+ZMIOTKA
+
+Już ci wierzy co do „niego”, lecz wróć do tamtego!
+
+
+MENECHMUS I
+
+Do jakiego?
+
+
+ZMIOTKA
+
+                        Do hafciarza, i suknię jej odnieś!
+
+
+MENECHMUS I
+
+Co za suknię?
+
+
+ZMIOTKA
+
+                        Ja już milczę, jeśli ona sama
+Nie dba o swą własną sprawę.
+
+
+MENECHMUS I
+
+/ do Żony /
+
+                        Czy ktoś z sług przewinił?
+Może ci odpowiadają słudzy lub służące?
+Powiedz! Zaraz ich ukarzę.
+
+
+ŻONA
+
+                        Ależ głupstwa gadasz.
+
+
+MENECHMUS I
+
+Strasznieś chmurna. Nie, nie lubię…
+
+
+ŻONA
+
+                        Ależ głupstwa gadasz.
+
+
+MENECHMUS I
+
+Pewnieś zła na kogo z służby.
+
+
+ŻONA
+
+                        Ależ głupstwa gadasz.
+
+
+MENECHMUS I
+
+Czyż się może na mnie gniewasz?
+
+
+ŻONA
+
+                        Tu nie głupstwa gadasz.
+
+
+MENECHMUS I
+
+Przeciem ja nic nie zawinił.
+
+
+ŻONA
+
+                        Tu znów głupstwa gadasz.
+
+
+MENECHMUS I
+
+/ przymilając się, głaszcząc Żonę /
+
+Powiedz, żonko, co cię gniewa?
+
+
+ZMIOTKA
+
+/ do Żony /
+
+                        Cacuś! Jak się mizdrzy!
+
+
+MENECHMUS I
+
+Przestań raz już z tym natręctwem! Czy do ciebie mówię?
+
+
+ŻONA
+
+/ wyrywa się /
+
+Weź tę rękę!
+
+
+ZMIOTKA
+
+/ do Menechma I /
+
+                        Tak, masz teraz! — Śpiesz się zjeść beze mnie,
+Potem w wieńcu stój przed domem, drwij ze mnie pijany!
+
+
+MENECHMUS I
+
+Dalibóg, żem ani nie jadł, anim tu mą nogą
+Dziś nie stąpił.
+
+
+ZMIOTKA
+
+                        A więc przeczysz?
+
+
+MENECHMUS I
+
+                        I jeszcze jak przeczę!
+
+
+ZMIOTKA
+
+Ta bezczelność! Czym cię tutaj przed domem nie widział
+Co dopiero w wieńcu z kwiatów? Jakeś do mnie mówił,
+Że mam głowę nie w porządku, że mnie całkiem nie znasz,
+I żeś tu jest całkiem obcy?
+
+
+MENECHMUS I
+
+                        Toż dopiero teraz,
+Odkąd z tobą się rozstałem, tu wracam do domu.
+
+
+ZMIOTKA
+
+Znam cię dobrze. Tyś był pewny, że nie mam sposobu,
+By się zemścić. Mam: twej żonie wszystko powiedziałem!
+
+
+MENECHMUS I
+
+Coś powiedział?
+
+
+ZMIOTKA
+
+                        Ja nic nie wiem. Jej się możesz spytać.
+
+
+MENECHMUS I
+
+Co to, żono? Co takiego on ci opowiedział?
+O co chodzi? Czemuż milczysz? Czemu nic nie mówisz,
+O co chodzi?
+
+
+ŻONA
+
+                        Tak, jakżebyś — sam o tym nie wiedział!
+Suknię z domu mi ktoś ściągnął!
+
+
+MENECHMUS I
+
+                        Suknię ci ktoś ściągnął?
+
+
+ŻONA
+
+Mnie się pytasz?
+
+
+MENECHMUS I
+
+                        Nie pytałbym, gdybym mógł to wiedzieć.
+
+
+ZMIOTKA
+
+Co za gałgan! Jak udaje!
+
+/ do Menechma I /
+
+                        Lecz nic nie ukryjesz!
+Wie dokładnie! Wszyściuteńko jej opowiedziałem.
+
+
+MENECHMUS I
+
+Co takiego?
+
+
+ŻONA
+
+                        No, więc jeśli sam się nic nie wstydzisz,
+Dobrowolnie się nie przyznasz — to słuchaj, uważaj:
+Wnet się dowiesz, czemum chmurna i co on mi mówił:
+Suknię z domu mi ktoś ściągnął.
+
+
+MENECHMUS I
+
+                        Suknię mi ktoś ściągnął?…
+
+
+ZMIOTKA
+
+/ do Żony /
+
+Patrz, jak chce cię podejść, szelma!
+
+/ do Menechma I /
+
+                        Jej ściągnął, nie *tobie*!
+Bo gdyby ją tobie ściągli — już by jej nie było!
+
+
+MENECHMUS I
+
+Idź ode mnie!
+
+/ do Żony /
+
+                        Ciebie pytam.
+
+
+ŻONA
+
+                        Toż mówię, że suknia
+Z domu dziś mi zaginęła.
+
+
+MENECHMUS I
+
+                        A któż ci ją ściągnął?
+
+
+ŻONA
+
+Ten wie pewnie, kto ją zabrał.
+
+
+MENECHMUS I
+
+                        A któż to jest taki?
+
+
+ŻONA
+
+Ściągnął ją Menechmus jakiś.
+
+
+MENECHMUS I
+
+                        A cóż to za zbrodnia!
+Co za jeden ten Menechmus?
+
+
+ŻONA
+
+                        Tyś nim jest, powiadam!
+
+
+MENECHMUS I
+
+Ja?
+
+
+ŻONA
+
+                        Ty.
+
+
+MENECHMUS I
+
+                        A któż to zaświadczy?
+
+
+ŻONA
+
+                        Ja sama.
+
+
+ZMIOTKA
+
+                        Ja także!
+I tuś zaniósł, tej kochance, Erotium.
+
+
+MENECHMUS I
+
+                        Ja dałem?
+
+
+ŻONA
+
+Ty, ty, mówię.
+
+
+ZMIOTKA
+
+                        Może zechcesz, by puchacza przynieść,
+By ci ciągle „ty-ty” mówił? Myśmy już zmęczeni.
+
+
+MENECHMUS I
+
+Na Jowisza klnę się, żono, i na wszystkie bogi
+(To ci dosyć?), żem jej nie dał.
+
+
+ZMIOTKA
+
+                        A my znów się klniemy,
+Żeśmy prawdę powiedzieli.
+
+
+MENECHMUS I
+
+                        Lecz ja jej nie dałem,
+Tylko tak… wypożyczyłem.
+
+
+ŻONA
+
+                        Ja jednak nikomu
+Nie pożyczam twej chlamidy ani płaszcza twego.
+Żona może wypożyczyć gdzieś suknię kobiecą,
+A mąż męską.
+
+/ po chwili, gdy mąż milczy /
+
+                        A więc kiedyż tę suknię odniesiesz?
+
+
+MENECHMUS I
+
+Już ja ci ją tu odniosę.
+
+
+ŻONA
+
+/ z pasją /
+
+                        Sobie dobrze zrobisz,
+Bo tu progu nie przestąpisz, gdy z suknią nie przyjdziesz.
+Ja odchodzę.
+
+
+ZMIOTKA
+
+                        A co ze mną, żem ci się przysłużył?
+
+
+ŻONA
+
+Gdy coś tobie w domu ściągną, ja ci się odsłużę.
+
+/ Wchodzi do domu. /
+
+
+ZMIOTKA
+
+/ wściekły /
+
+To jest — nigdy. Bo nic nie mam, żeby mi ktoś ściągnął.
+Z mężem, żoną — niech was bogi!… Ja śpieszę na rynek,
+Bo tu, w tej familii, myślę, nie mam już co robić.
+
+/ Wygrażając się, odchodzi na rynek. /
+
+
+MENECHMUS I
+
+/ sam /
+
+Myśli, że mi źle zrobiła, że mnie wyrzuciła! —
+Jakbym nie miał gdzie się podziać, gdzie mi lepiej będzie.
+Jeśli ci się nie podobam, to małe zmartwienie.
+Tej Erotium się spodobam. Ta mnie nie *odtrąci*,
+Ale *wtrąci* w ten swój domek. Teraz pójdę do niej,
+Z prośbą, by zwróciła suknię, com jej dał przed chwilą,
+Inną, lepszą jej odkupię.
+
+/ puka do drzwi /
+
+                        Hej! Jest tu odźwierny?
+Otwierajcie! Niech kto tutaj Erotium poprosi.
+
+
+
+
+
+/ Erotium, Menechmus I. /
+
+
+EROTIUM
+
+/ wychodzi /
+
+Kto mnie szuka?
+
+
+MENECHMUS I
+
+                        Wróg — dla siebie, lecz nigdy dla ciebie!
+
+
+EROTIUM
+
+Mój Menechmie! Tyś pod drzwiami? Chodźże do mnie.
+
+
+MENECHMUS I
+
+                        Czekaj.
+Czy wiesz, po co tu przychodzę?
+
+
+EROTIUM
+
+                        Wiem, po rozkosz do mnie!
+
+
+MENECHMUS I
+
+Owszem, właśnie, wiesz… tę suknię, co ci ją tu dałem,
+Zwróć mi, proszę. Żona moja już się dowiedziała
+O tym wszystkim najdokładniej! Ja ci ją odkupię,
+Jaką tylko zechcesz suknię, ba, dwa razy droższą!
+
+
+EROTIUM
+
+/ zdziwiona /
+
+Toż ci dałam ją przed chwilą, ażebyś ją zaniósł
+Do hafciarza; a z nią razem także naramiennik,
+Byś go zaniósł do złotnika, żeby go odnowił!
+
+
+MENECHMUS I
+
+Tyś mi dała naramiennik i suknię? Nie, nigdy!
+Wszak jakem ci suknię wręczył i odszedł na rynek,
+To dopiero teraz wracam, teraz cię znów widzę.
+
+
+EROTIUM
+
+/ zirytowana /
+
+No, już wiem, o co ci chodzi. Com ci powierzyła,
+Chcesz mi zwędzić przez ten podstęp! Do tego ty zmierzasz!
+
+
+MENECHMUS I
+
+Toż nie dla podstępu proszę. Wszak mówię ci przecież,
+Że się żona dowiedziała —
+
+
+EROTIUM
+
+/ przerywa mu, krzycząc /
+
+                        Wcalem nie prosiła!
+Sameś ją tu do mnie przyniósł, sameś mi darował!
+Teraz żądasz jej z powrotem. — Dobrze. Trzymaj sobie,
+Zabierz, noś ją, ty czy żona, wrzućcie nawet w skrzynię.
+Ale ty mi tutaj progu od dziś nie przestąpisz,
+I nie próbuj! Gdym ci dobra, a ty mną pomiatasz,
+Bez pieniędzy mnie nie będziesz próżno za nos wodzić!
+Szukaj sobie teraz innej, żebyś ją tak mamił.
+
+
+MENECHMUS I
+
+Ależ to się pogniewała!
+
+/ Podbiega do drzwi /
+
+                        Hej, słuchaj, poczekaj,
+Wróć się! Stańże przez wzgląd na mnie! Przecież wróć się! — Poszła.
+Dom zamknęła. Teraz jestem naj-najwyrzuceńszy.
+Ni w domu, ni u kochanki, nikt mi nic nie wierzy.
+Pójdę się przyjaciół radzić, co mam teraz robić.
+
+/ Idzie ku miastu. /
+
+
+
+
+
+/ Menechmus II, Żona Menechma I. /
+
+
+MENECHMUS II
+
+/ wraca z miasta, suknię ma na ręce /
+
+Strasznie głupio zrobiłem, że Messenionowi
+Powierzyłem przed chwilą tę kiesę z pieniędzmi.
+Musiał wsiąknąć z pewnością gdzieś w jakąś garkuchnię.
+
+
+ŻONA
+
+/ wychodzi z domu z Decjonem /
+
+Popatrzę, jak też prędko mąż wróci do domu.
+A otóż i on właśnie. Ślicznie! Suknię niesie.
+
+
+MENECHMUS II
+
+Ciekawym, gdzie też teraz łazi ten Messenio.
+
+
+ŻONA
+
+/ do siebie /
+
+Podejdę i powitam tak, jak się mu patrzy.
+
+/ do Menechma II /
+
+Więc czy ci nie wstyd teraz przyjść mi tu na oczy,
+Ty, ohydny człowieku, z tą szatą?
+
+
+MENECHMUS II
+
+/ zdziwiony /
+
+                        Co znowu?
+Co cię nosi kobieto?
+
+
+ŻONA
+
+                        Więc jeszcze, bezczelny,
+Śmiesz pisnąć jedno słowo lub mówić coś do mnie?
+
+
+MENECHMUS II
+
+Com takiego zawinił, żebym nie śmiał mówić?
+
+
+ŻONA
+
+Mnie pytasz? Ale też to bezwstydna bezczelność!
+
+
+MENECHMUS II
+
+Ty wiesz chyba, kobieto, dlaczego Hekubę
+„Suką” Grecy nazwali?
+
+
+ŻONA
+
+                        Wcale tego nie wiem.
+
+
+MENECHMUS II
+
+Bo ona to zrobiła, co ty teraz robisz:
+Kogo tylko ujrzała — z pyskiem na każdego.
+I słusznie ją dlatego „suką” nazywali.
+
+
+ŻONA
+
+/ zaczyna zawodzić /
+
+Nie — już tego wszystkiego nie mogę wytrzymać
+I wolę całe życie już wdową pozostać,
+Niźli wszystko to znosić, co ty tu wyrabiasz!
+
+
+MENECHMUS II
+
+A co mnie to obchodzi, czy chcesz z twoim mężem
+Wytrzymać, czy też odejść? Czy tu taki zwyczaj,
+Żeby obcym przybyszom bajki opowiadać?
+
+
+ŻONA
+
+/ dalej płacze /
+
+Jakie bajki? Toć mówię, że już nie wytrzymam
+I wolę wdową zostać, niźli ciebie znosić.
+
+
+MENECHMUS II
+
+No, jeśli o mnie chodzi, to bądź sobie wdową
+Nawet dotąd, jak długo królem będzie Jowisz.
+
+
+ŻONA
+
+/ jak wyżej /
+
+Takeś wpierw się wymawiał, żeś mi jej nie ściągnął,
+Teraz mi ją na oczach, tutaj trzymasz. Wstydź się!
+
+
+MENECHMUS II
+
+Ale żeś ty, kobieto, i zła, i zuchwała.
+Śmiesz mówić, żem ci ściągnął, co mi ją tu dała
+Całkiem inna kobieta, bym ją dał odświeżyć?
+
+
+ŻONA
+
+/ jak wyżej /
+
+Nie, dalibóg — ja ojca mojego przywołam,
+Jemu wszystko opowiem, co ty tu wyrabiasz.
+Idź, Decjo, szukaj ojca — proś, niech razem z tobą
+Przyjdzie do mnie; i powiedz, że tak sprawy stoją.
+
+/ Chłopiec biegnie. /
+
+Już ja mu tu opowiem o tych twoich sprawkach!
+
+
+MENECHMUS II
+
+Masz rozum? Jakie sprawki?
+
+
+ŻONA
+
+                        Suknie i klejnoty
+Kradniesz z domu twej żonie — i twej przyjaciółce
+Zanosisz. No, czy dosyć wyraźnie to mówię?
+
+
+MENECHMUS II
+
+Ja cię proszę, kobieto: jeśli wiesz, to powiedz,
+Co mam zażyć, by ścierpieć tę twoją bezczelność?
+Kogo we mnie ty widzisz — ja nie mam pojęcia;
+Ja ciebie znam tak samo, jak… jak Portaona.
+
+
+ŻONA
+
+/ wskazując na zbliżającego się Teścia /
+
+No, więc jeśli kpisz ze mnie, to z niego nie będziesz,
+Z ojca, który tu idzie. Przecież się oglądnij!
+No, czy jego też nie znasz?
+
+
+MENECHMUS II
+
+/ ogląda się /
+
+                        Znam tak jak Kalchasa.
+W ten sam dzień go widziałem, co i ciebie przedtem.
+
+
+ŻONA
+
+Więc mówisz, że mnie nie znasz? Nie znasz mego ojca?
+
+
+MENECHMUS II
+
+Jeśli dziadka przywiedziesz, to samo ci powiem.
+
+
+ŻONA
+
+To tak samo, dalibóg, jak wszystko, co robisz.
+
+
+
+
+
+/ Teść, Żona, Menechmus II. /
+
+
+TEŚĆ
+
+/ nadchodzi od strony miasta, strudzony, wspierając się na lasce; mówi: /
+
+Tak jak wiek mój mi pozwala i jak rzecz wymaga,
+Idę, śpieszę — lecz nie taję, że mi to niełatwo.
+Żwawość znikła, starość gniecie i ciężkie już ciało,
+Sił już brak; o, wiek niedobry, niedobry to towar!
+Bo przynosi, gdy przychodzi, moc rzeczy najgorszych;
+Gdybym chciał wyliczać wszystko, za długo bym gadał!
+Ale to mnie niepokoi i w sercu mnie trapi,
+Co to jest, że mnie ma córka tak nagle tu wzywa,
+Nic nie mówi, o co chodzi. Po cóż mnie przyzywa?
+Lecz już prawie się domyślam, co to jest za sprawa:
+Pewnie jakaś kłótnia z mężem. Bo one tak zwykle:
+Chcą, by mąż im zawsze służył, przez swoje posagi
+Pewne siebie i zuchwałe. Choć i oni często
+Nie ustrzegą się od winy. Jest przecież granica,
+Pokąd żona winna znosić, ni też córka nigdy
+Nie przyzywa swego ojca, gdy nie ma przyczyny
+Czy z przewiny, czy też z kłótni. Lecz już się tu dowiem.
+Otóż ona tu przed domem i jej mąż, coś chmurny,
+To jest to, co przypuszczałem. — Więc do niej przemówię.
+
+
+ŻONA
+
+Więc podejdę. O mój ojcze, witaj!
+
+
+TEŚĆ
+
+                        I ty witaj!
+Więc przychodzę w dobrą chwilę? W dobry czas mnie wzywasz?
+Czemuś chmurna? Cóż on znowu, zły, z dala od ciebie?
+Posprzeczaliście się o coś między sobą. Powiedz,
+Kto z was winien, ale krótko, nie lubię mów długich!
+
+
+ŻONA
+
+Ja bynajmniej nic nie winna, nic a nic — to pierwsze;
+Ale tutaj żyć nie mogę, ni wytrwać nie sposób!
+Więc mnie zabierz stąd!
+
+
+TEŚĆ
+
+                        Co znowu?
+
+
+ŻONA
+
+                        Tu kpią ze mnie, ojcze!
+
+
+TEŚĆ
+
+Kto?
+
+
+ŻONA
+
+                        Ten, komuś ty mnie oddał — mój mąż.
+
+
+TEŚĆ
+
+                        Otóż kłótnia!
+Wielem razy ci nakazał, byście mi się strzegli,
+By z was żadne nie szło do mnie ze skargą?
+
+
+ŻONA
+
+                        Mój ojcze,
+Jakże ja się mogę ustrzec?
+
+
+TEŚĆ
+
+                        Mnie się o to pytasz?
+
+
+ŻONA
+
+/ urażona tym ofuknięciem /
+
+No, jak nie chcesz…
+
+
+TEŚĆ
+
+                        Wielem razy tobie przykazywał,
+Byś dla męża była dobra i nie szpiegowała
+Ni co robi, ni gdzie chodzi?
+
+
+ŻONA
+
+/ wybucha płaczem /
+
+                        Lecz on tu się kocha
+W tej heterze zaraz obok…
+
+
+TEŚĆ
+
+                        Ma rację! A nawet
+Ja ci na złość tu pokażę, że się jeszcze więcej
+Kochać będzie!
+
+
+ŻONA
+
+/ dalej zawodzi /
+
+                        I tam pije!
+
+
+TEŚĆ
+
+                        No, więc on dla ciebie
+Mniej pić będzie, czy to u niej, czy gdzie mu się zachce?
+Co — do licha — za bezczelność! Tak samo zażądaj,
+By zaproszeń nie przyjmował lub gościa żadnego
+Sam nie przyjął! Lub tak samo wyznacz mu robotę:
+Każ, niech siedzi pośród dziewek i wełnę grępluje!
+
+
+ŻONA
+
+/ zirytowana /
+
+Nie dla siebiem więc przywiodła obrońcę, mój ojcze,
+Lecz dla męża. Jego bronisz, stojąc po mej stronie!
+
+
+TEŚĆ
+
+Jeśli on znów coś zawini, to go jeszcze ostrzej
+Skarcę niźli ciebie nawet. Lecz jeśli dba dobrze
+O twe stroje i klejnoty, dostarcza, jak trzeba,
+Czy służących, czy zapasów, to lepiej, kobieto,
+Miej ty rozum!
+
+
+ŻONA
+
+                        Lecz on właśnie klejnoty mi kradnie
+me suknie ze skrzyń w domu — i mnie tak obdziera,
+Moje stroje potajemnie do heter wynosi!
+
+
+TEŚĆ
+
+To źle *robi*, gdy tak *robi*. Lecz jeśli nie *robi*,
+Ty źle *robisz*, pomawiając człeka niewinnego.
+
+
+ŻONA
+
+Toż on, ojcze, teraz jeszcze ma w rękach tę suknię
+I ten naramiennik właśnie, który do niej zaniósł,
+A żem ja się dowiedziała, więc teraz odnosi.
+
+
+TEŚĆ
+
+Już ja dowiem się od niego, jak to wszystko było.
+Więc podejdę i zagadam.
+
+/ do Menechma II, który stoi cały czas na boku /
+
+                        Powiedz no, Menechmie,
+O cóż to wy się spieracie, niech wiem. Czemuś chmurny?
+Cóż ta znowu zagniewana, z daleka od ciebie?
+
+
+MENECHMUS II
+
+Więc kimkolwiek jesteś, starcze, jakkolwiek się zowiesz,
+Klnę się na Jowisza władcę, na bogów…
+
+
+TEŚĆ
+
+/ przerywa /
+
+                        Lecz o co,
+Po co, na co?
+
+
+MENECHMUS II
+
+                        …żem jej ani nic złego nie zrobił,
+Tej kobiecie, co mnie skarży, żem jej suknię z domu
+Ściągnął, porwał —
+
+
+ŻONA
+
+/ przerywa /
+
+                        Toż on kłamie!
+
+
+MENECHMUS II
+
+                        Więc jeślim ja kiedy
+Nogą wstąpił do jej domu, niech będę ze wszystkich
+Nieszczęsnych najnieszczęśliwszy!
+
+
+TEŚĆ
+
+                        A gdzież ty masz rozum,
+Że się tutaj tak przysięgasz i przeczysz, żeś nigdy
+Nogą tu w ten dom nie wstąpił, gdzie mieszkasz, wariacie?
+
+
+MENECHMUS II
+
+Więc ty twierdzisz o mnie, stary, że mieszkam w tym domu?
+
+
+TEŚĆ
+
+Może nie?
+
+
+MENECHMUS II
+
+                        No nie, dalibóg!
+
+
+TEŚĆ
+
+                        To kłamiesz, dalibóg;
+Chyba żeś się wyprowadził dzisiaj w nocy.
+
+/ do córki, biorąc ją na bok /
+
+                        Chodź no!
+Czyście się wyprowadzili?
+
+
+ŻONA
+
+/ na stronie /
+
+                        Ależ gdzie — i po co?
+
+
+TEŚĆ
+
+/ na stronie /
+
+Ja sam nie wiem.
+
+
+ŻONA
+
+/ na stronie /
+
+                        On wyraźnie kpi z ciebie. Nie widzisz?
+
+
+TEŚĆ
+
+No, Menechmie, już dość żartów! Więc teraz do rzeczy.
+
+
+MENECHMUS II
+
+/ w ostatecznej pasji /
+
+Co masz do mnie? Skądeś przylazł? Lub coś ty za jeden?
+Ty, czy ona, co mnie tutaj zadręcza bez końca!
+
+
+ŻONA
+
+/ do ojca, przerażona wyglądem rzekomego męża /
+
+Patrz, zielenią mu się oczy! Zieloność mu bije
+Z skroni, z czoła — popatrz tylko, jak mu oczy płoną!
+
+
+MENECHMUS II
+
+/ z nagłą decyzją, do siebie /
+
+Wiem, co zrobię! Skoro oni wariatem mnie robią,
+Udam szał i ich w ten sposób od siebie odstraszę!
+
+/ Zaczyna rozdziawiać usta, toczyć oczyma, rzucać się itd. /
+
+
+ŻONA
+
+/ z przerażeniem /
+
+Co za usta! Jak nim rzuca! Ojcze! Co tu robić?
+
+
+TEŚĆ
+
+Chodź tu na bok, moja córko, najdalej od niego.
+
+
+MENECHMUS II
+
+/ patetycznym tonem, udając nieprzytomnego /
+
+Eú-ho-e, Eú-ho-e, Bromiu! Gdzież mnie to w las wołasz?
+Słyszę, lecz nie mogę odejść z tych tutaj okolic,
+Bo mnie tu od lewej strzeże wściekła suka ludzka,
+A tu znowu kozioł stary, co nieraz w swym życiu
+Zabił człeka niewinnego fałszywym świadectwem!
+
+
+TEŚĆ
+
+/ zamierza się laską /
+
+Idź, bo jak cię…
+
+
+MENECHMUS II
+
+                        A Apollo każe mi wyrocznią,
+Bym ja oczy jej wypalił płonącą pochodnią!
+
+
+ŻONA
+
+/ chowa się za ojca /
+
+Ratuj, ojcze! On mi przecież oczy chce wypalić!
+
+
+MENECHMUS II
+
+/ na stronie /
+
+Aha! Mówią, żem ja wariat, a sami wariują!
+
+
+TEŚĆ
+
+/ na stronie /
+
+Córko!
+
+
+ŻONA
+
+                        Co?
+
+
+TEŚĆ
+
+/ jak przedtem /
+
+                        Co robić teraz? Może wezwać służbę?
+Pójdę do nich, niech go wezmą i w domu skrępują,
+Zanim jeszcze tu narobi więcej zamieszania.
+
+
+MENECHMUS II
+
+/ do siebie /
+
+Wpadłem! Gdy coś nie poradzę, do domu mnie porwą!
+
+/ na głos /
+
+Każesz, bym jej na tej gębie nie szczędził mych pięści,
+Jeśli z oczu mych nie zejdzie na karku złamanie!
+Zrobię tak, jak chcesz, Apollo!
+
+/ Posuwa się ku Żonie. /
+
+
+TEŚĆ
+
+/ do córki /
+
+                        Zmykaj, co masz siły,
+By cię nie zbił!
+
+
+ŻONA
+
+                        Już uciekam — strzeżże go, mój ojcze,
+By się stąd gdzieś nie oddalił. Jakażem ja biedna!
+
+/ Zawodząc, wchodzi do domu. /
+
+
+MENECHMUS II
+
+/ do siebie /
+
+No, tej nieźle się pozbyłem. A teraz do tego
+Obrzydłego, brodatego, drżącego Tytana,
+Co za ojca miał Cyknusa.
+
+/ na głos /
+
+                        Tak mi rozkazujesz,
+Bym mu członki razem z kośćmi i wraz ze stawami
+Poprzetrącał własną laską!
+
+
+TEŚĆ
+
+                        Możesz sam oberwać,
+Gdy mnie tkniesz lub jeśli tylko do mnie się przybliżysz!
+
+
+MENECHMUS II
+
+/ dalej w „natchnieniu” /
+
+Spełnię rozkaz: schwycę topór dwusieczny — i tego
+Na kawałki tu posiekam starucha z kościami!
+
+
+TEŚĆ
+
+/ trochę w strachu, do siebie /
+
+Ej, tu chyba lepiej strzec się i trochę uważać;
+Bo naprawdę się go boję, by mi coś nie zrobił,
+Tak jak grozi.
+
+
+MENECHMUS II
+
+                        Apollinie, liczne twe rozkazy!
+Teraz każesz mi pochwycić czwórkę koni dzikich
+I ognistych — i wsiąść na wóz, by zetrzeć lwa tego
+Zgrzybiałego, smrodliwego, całkiem bezzębnego.
+I już stoję na tym wozie, trzymam lejce, bodziec,
+Nuże, konie! Niechaj zagrzmi tętent waszych kopyt,
+A od pędu niech się wygną wasze chyże nogi!
+
+
+TEŚĆ
+
+Więc mnie grozisz czwórką koni?
+
+
+MENECHMUS II
+
+                        Oto znów, Apollo,
+Każesz runąć mi na tego, co stoi na drodze,
+i uśmiercić —
+
+/ Chce niby wpaść na starego, ale ostatecznie woli nie ryzykować /
+
+                        Ale któż to za włosy mnie ściąga?
+Przeinacza twe rozkazy i nakaz Apolla!
+
+/ Pada na ziemią i leży niby w konwulsjach, nieprzytomny. /
+
+
+TEŚĆ
+
+Ale też to jest choroba ostra, ciężka * *
+* * * * * * * * * * * * * * * Bogi!
+Jakiż zdrowy był przed chwilą — teraz szał go łamie!
+Jak go niespodzianie wzięła tak straszna choroba!
+Pójdę wezwać jak najprędzej jakiego lekarza.
+
+/ Odchodzi ku miastu. /
+
+
+MENECHMUS II
+
+/ zrywa się /
+
+Czyż się wreszcie stracili z mych oczu ci ludzie,
+Co mnie gwałtem chcą zrobić, zdrowego, wariatem?
+Ale czemuż nie zmykam, pókim jeszcze cały?
+
+/ Zwraca się do widzów /
+
+A was wszystkich tu proszę, jeśli stary wróci,
+Nie zdradźcież mnie, którędy stąd dałem drapaka!
+
+/ Ucieka w uliczkę. /
+
+
+
+
+AKT V
+
+/ Teść, Lekarz. /
+
+
+TEŚĆ
+
+/ wraca z miasta, za nim idzie Lekarz /
+
+Lędźwie bolą z siedzenia, oczy od patrzenia
+Gdy czekam na lekarza, aż wróci z zajęcia.
+Nareszcie, ledwie wrócił pokraka od chorych,
+Nogę, mówi, złamaną musiał opatrywać
+Eskulapowi — mówi — ramię Apollowi!
+Teraz myślę, że nie wiem, kogo tu prowadzę:
+Lekarza czy stolarza, co bogów naprawia!
+No, wreszcie już nadchodzi.
+
+/ do Lekarza /
+
+                        Ruszże ten krok mrówczy!
+
+/ Lekarz nadchodzi drobnym kroczkiem. /
+
+
+LEKARZ
+
+Na co chory, mówiłeś? Opowiedzże, stary.
+Opętany czy wariat? Powiedzże, chcę wiedzieć.
+Czy ma śpiączkę? Lub może ma wodną puchlinę?
+
+
+TEŚĆ
+
+Toć cię po to tu wiodę, byś *ty* mi powiedział
+I jego sam uzdrowił.
+
+
+LEKARZ
+
+                        O, to bardzo łatwo:
+Na mą cześć cię zapewniam, że on będzie zdrowy.
+
+
+TEŚĆ
+
+Chciałbym, byś się nim zajął z większą troskliwością.
+
+
+LEKARZ
+
+Toż ja w niego nawlewam dość przez dzień. — W ten sposób
+Z wielką ci troskliwością chorego wyleczę.
+
+
+TEŚĆ
+
+Lecz otóż on jest właśnie. Patrzmy, co z nim będzie.
+
+
+
+
+
+/ Menechmus I, Teść, Lekarz. /
+
+
+MENECHMUS I
+
+/ wchodzi, powracając z miasta /
+
+Ale też to dzień mam dzisiaj przewrotny, przeciwny —
+Com miał za mą tajemnicę, to wszystko rozgłosił
+Ten pasożyt, co mnie wtrącił w taki strach i hańbę,
+Mój Ulikses, co tak ślicznie swego pana wsypał!
+Już ja mu tu — bym tak zdrów był — wydrę jego życie —
+O ja głupi! Wszak nie „jego”, to jest moje życie,
+Żyje przecież moim kosztem i moim jedzeniem.
+Nie — ja *duszy* go pozbawię. — A ta znów hetera
+Tak zrobiła jak hetery: że proszę o suknię,
+By ją odnieść nazad żonie — mówi, że mnie dała!
+Oj, doprawdy, jakiż biedny dzisiaj ze mnie człowiek!
+
+
+TEŚĆ
+
+/ na stronie do Lekarza /
+
+Słyszysz?
+
+
+LEKARZ
+
+                        Słyszę, jak narzeka.
+
+
+TEŚĆ
+
+                        Przystąpże do niego.
+
+
+LEKARZ
+
+/ do Menechma I /
+
+Hej, Menechmie, witaj!
+
+/ spostrzega, że Menechmus, gestykulując żywo, odsłonił jedno ramię /
+
+                        Ależ, cóż ramię odsłaniasz?
+Nie wiesz, jakie to szkodliwe w tej twojej chorobie!
+
+
+MENECHMUS I
+
+/ zirytowany /
+
+Powieśże się!
+
+
+TEŚĆ
+
+/ do Lekarza na stronie /
+
+                        No, więc widzisz?
+
+
+LEKARZ
+
+                        I jeszcze jak widzę!
+To się nie da łatwo zrobić. Nawet całym morgiem
+Ciemierzycy nie poradzisz. — Lecz słuchaj, Menechmie!
+
+
+MENECHMUS I
+
+Co chcesz?
+
+
+LEKARZ
+
+                        Powiedz, co cię spytam: jakie wino pijasz,
+Białe, ciemne?
+
+
+MENECHMUS I
+
+                        Idź do kata!
+
+
+TEŚĆ
+
+/ do Lekarza /
+
+                        Dalibóg, po trochu
+Znów zaczyna szał go chwytać.
+
+
+MENECHMUS I
+
+/ do Lekarza /
+
+                        Czemuż mnie nie pytasz,
+Czy chleb jadam ciemny, jasny lub może żółtawy?
+Czy jem drób okryty łuską, a ryby pierzaste?
+
+
+TEŚĆ
+
+/ do Lekarza /
+
+Oj, oj! Słyszysz jak on bredzi? Czemu mu nie dajesz
+Coś do picia jeszcze naprzód, nim szał go pochwyci?
+
+
+LEKARZ
+
+Czekaj tylko — ja się muszę jeszcze coś wypytać.
+
+
+TEŚĆ
+
+/ zirytowany /
+
+Nie wytrzymam twoich bajań!
+
+
+LEKARZ
+
+/ spokojnie dalej do Menechma I /
+
+                        A powiedz mi jeszcze,
+Czy ci czasem twoje oczy nie robią się sztywne?
+
+
+MENECHMUS I
+
+Cóż ty mnie masz za szarańczę, niedołęgo jakiś?
+
+
+LEKARZ
+
+/ spokojnie dalej /
+
+Powiedz, czy uważasz czasem, że ci burczy w brzuchu?
+
+
+MENECHMUS I
+
+Gdy się najem, to nie burczy. Burczy, gdym jest głodny.
+
+
+LEKARZ
+
+/ do Teścia /
+
+To przynajmniej odpowiedział wcale nie jak wariat. —
+A czy zwykle śpisz do rana? Czy masz sen spokojny?
+
+
+MENECHMUS I
+
+/ już ma dosyć tych pytań /
+
+Śpię do rana, gdy zapłacę, com jest komu winien —
+A niechże cię, wywiadowco, Jowisz, wszystkie bogi!!…
+
+
+LEKARZ
+
+/ do Teścia /
+
+Teraz już zaczyna szaleć. Patrz, co gada! — Strzeż się!
+
+
+TEŚĆ
+
+To, co gada, to w porządku. Mówi niby Nestor,
+W porównaniu, co wpierw gadał, gdy żonę nazywał
+Suką wściekłą!
+
+
+MENECHMUS I
+
+                        Ja mówiłem?
+
+
+TEŚĆ
+
+                        Mówiłeś w szaleństwie.
+
+
+MENECHMUS I
+
+Ja?
+
+
+TEŚĆ
+
+                        Ty sam — coś mnie też groził, że mnie czwórką koni
+Roztratujesz! Wiem, widziałem, ja świadczę na ciebie!
+
+
+MENECHMUS I
+
+/ w pasji /
+
+A ja wiem, żeś święty wieniec ściągnął Jowiszowi,
+Wiem, że za to cię za karę w więzienie wtrącili,
+Wiem, że gdy cię wypuścili, byłeś bity w dybach,
+Wiem, żeś zabił swego ojca i żeś matkę sprzedał!
+No, czy dość, jak na zdrowego, tych obelg za twoje?
+
+
+TEŚĆ
+
+/ do Lekarza /
+
+Ja cię błagam, pośpieszże się, róbże, co masz robić!
+Czy nie widzisz, że szaleje?
+
+
+LEKARZ
+
+/ do Teścia /
+
+                        Wiesz, co zrób najlepiej?
+Każ go do mnie zanieść.
+
+
+TEŚĆ
+
+                        Myślisz?
+
+
+LEKARZ
+
+                        A pewnie. U siebie
+Będę mógł go tak kurować, jak zechcę.
+
+
+TEŚĆ
+
+                        No, dobrze.
+
+
+LEKARZ
+
+/ do Menechma, grożąc mu /
+
+Ciemierzycę pić mi będziesz jakieś dni dwadzieścia!
+
+
+MENECHMUS I
+
+A ja kłuć cię — na wisząco — będę dni trzydzieści!
+
+
+LEKARZ
+
+/ do Teścia /
+
+Idź i sprowadź tutaj ludzi, niech mi go przyniosą.
+
+
+TEŚĆ
+
+Wieluż starczy?
+
+
+LEKARZ
+
+                        Według tego, jak widzę szał jego,
+Czterech najmniej.
+
+
+TEŚĆ
+
+                        Zaraz będą. A ty go tu pilnuj.
+
+
+LEKARZ
+
+/ który się boi sam zostać z szaleńcem /
+
+Nie — do domu raczej pójdę, żeby przygotować,
+Co potrzeba. Ty każ służbie, niech mi go przyniosą.
+
+
+TEŚĆ
+
+Już ja ci go tam dostawię.
+
+
+LEKARZ
+
+                        Ja idę.
+
+/ Odchodzi w uliczkę. /
+
+
+TEŚĆ
+
+                        Więc żegnaj!
+
+/ Odchodzi ku miastu. /
+
+
+MENECHMUS I
+
+/ sam /
+
+Odszedł teść i odszedł lekarz. Jestem sam. — Jowiszu!
+Co w tym jest, że mnie ci ludzie mają za wariata?
+Tożem przecież, odkąd żyję, ni dnia nie chorował,
+Nie szaleję ani bitek, ni kłótni nie wszczynam,
+Jestem zdrów i innych widzę, że są całkiem zdrowi,
+Ludzi przecież rozpoznaję, do nich się odzywam —
+Może oni zwariowali, a we mnie wmawiają?
+Co tu robić? Chcę do domu — żona nie pozwala!
+Tu znów
+
+/ wskazuje na dom Erotium /
+
+                        nikt mnie wpuścić nie chce. Strasznie źle mi wyszło!
+
+/ po chwili namysłu /
+
+Tu zostanę. W nocy, myślę, wpuszczą mnie do domu.
+
+
+
+
+
+/ Messenio, Menechmus I, Teść, czterej Pachołkowie. /
+
+
+MESSENIO
+
+/ nadchodzi z miasta po swojego pana, w myśl poleceń /
+
+Po tym zawsze poznać sługę, co dobry naprawdę,
+Co o sprawy swego pana troszczy się i stara,
+Co je zawsze ma na oku i o nich pamięta —
+Że choć pana jego nie ma, on strzeże spraw pańskich
+Tak troskliwie, jakby pan sam, albo jeszcze lepiej.
+Kto ma skromne wymagania, ten więcej dbać winien
+O swój grzbiet niż o swe gardło, a nad brzuch przeniesie
+Swe golenie. — I pomyśli, jaką to nagrodę
+Mają od swych panów tacy, co to są nicponie
+I leniuchy lub gałgany: więc baty, kajdany,
+Żarna, wielkie umęczenie, głód i ostre zimno.
+To nagroda za lenistwo. Tego *zła* się boję.
+I dlatego też być wolę nie *złym*, ale dobrym,
+Znacznie łatwiej znieść *wyrazy* — ja *razów* nie lubię.
+Chętniej wolę zjeść coś z *mąki*, niż *mąkę* wyrabiać!
+Więc rozkazów pana słucham i trzymam się tego
+Należycie i spokojnie — i jest mi z tym dobrze.
+Jeśli inni są takimi, jak to im dogadza,
+To ja wolę już być takim, jakem być powinien,
+Tego muszę się obawiać, w tym się strzec przestępstwa,
+Żeby panu być pod ręką wciąż, na każdym miejscu.
+Słudzy, którzy są niewinni, a przecież się boją,
+Ci są panom swym przydatni. Ci, co się nie boją,
+Ci dopiero, gdy coś zbroją — to wtedy się boją.
+Niezbyt długo bać się muszę; bo już niedaleko,
+Jak mnie mój pan wynagrodzi za tę służbę moją.
+Ja tak służę, jak uważam, że grzbiet na tym zyska.
+Skorom służbę i bagaże umieścił w gospodzie,
+Idę tu naprzeciw niego, tak jak kazał. — Teraz
+Tutaj do tych drzwi zapukam, by wiedział, że jestem
+I by go tu stąd wydobyć, z tej jaskini zguby,
+Lecz czym ja tu nie za późno, czy już nie po wszystkim?
+
+
+TEŚĆ
+
+/ prowadzi czterech pachołków ze sznurami i mówi do nich /
+
+Więc na bogów i na ludzi wam tu przykazuję,
+Byście dobrze uważali, com kazał i każę:
+Patrzcie, żeby mi ten człowiek był tam zaniesiony
+Do lekarza — jeśli miłe wam wasze golenie,
+Wasze boki! — Co stoicie? Co się namyślacie?
+On powinien być już dawno do góry porwany!
+Idę naprzód do lekarza, będę tam przed wami.
+
+/ Odchodzi ku miastu. /
+
+/ Pachołkowie zbliżają się powoli, potem biegiem ku Menechmowi. /
+
+
+MENECHMUS I
+
+/ przerażony /
+
+Oj, źle ze mną! Cóż to znaczy? Cóż ci do mnie pędzą?
+Co wy chcecie? Co szukacie? Co mnie osaczacie?
+A gdzież wy mnie porywacie? Gdzież wy mnie niesiecie?
+O, już po mnie! — Ja zaklinam! — Hej, Epidamczycy,
+Ratujcie, obywatele! — Mówię wam, puszczajcie!
+
+/ Szamoce się bezskutecznie z pachołkami, którzy go już związali i niosą wysoko na barkach. /
+
+
+MESSENIO
+
+/ myśli, że to jego pan w opresji /
+
+Oj, na bogów nieśmiertelnych! A cóż ja tu widzę?
+Mego pana porywają jacyś niegodziwcy!
+
+
+MENECHMUS I
+
+Nikt nie przyjdzie mi z pomocą?
+
+
+MESSENIO
+
+/ podbiega /
+
+                        Ja, panie — co siły!
+Co za zbrodnia niegodziwa. Hej, Epidamczycy!
+Żeby tak w spokojnym mieście, za dnia, na ulicy
+Mego pana mi porywać, co wolny tu przybył?
+Puśćcie go!
+
+
+MENECHMUS I
+
+                        Ja cię zaklinam, ktokolwiek ty jesteś,
+Pomóż mi, nie dopuść na mnie takiej strasznej krzywdy!
+
+
+MESSENIO
+
+Jak najchętniej ci pomogę, obronię, zratuję.
+Ja ci zginąć nie pozwolę — lepiej niech ja zginę!
+Wydrzyjże mu oko, temu, co cię za bark trzyma,
+Ja tym tutaj po ich gębach me pięści rozsieję!
+Dobrze mi dziś zapłacicie za ten napad! Puśćcie!
+
+/ Rzuca się na pachołków. /
+
+
+MENECHMUS I
+
+Trzymam go tu za to oko!
+
+
+MESSENIO
+
+                        Rwij! Dziurę mu zostaw!
+
+/ wali pachołków /
+
+Wy zbrodniarze! Wy rabusie! Wy zbóje!
+
+
+PACHOŁKOWIE wszyscy
+
+                        Już po nas!
+
+
+PACHOŁEK z podbitym okiem
+
+Oj, litości!
+
+
+MESSENIO
+
+                        To puszczajcie!
+
+
+MENECHMUSI
+
+                        Jak mnie śmiecie tykać?
+
+/ do Messeniona /
+
+W nich, pięściami!
+
+
+MESSENIO
+
+/ okłada ich dalej i pędzi ich /
+
+                        Dalej w nogi, zmykajcie do licha!
+
+/ Uciekają. /
+
+Masz ty jeszcze! Żeś na końcu, masz za to nagrodę!
+Alem im przejechał gęby! To mi się udało!
+Alem też i tobie, panie, w sam czas przyniósł pomoc.
+
+
+MENECHMUS I
+
+Niech ci zawsze, mój ty chłopcze, ktokolwiek ty jesteś,
+Bogi darzą. Bo bez ciebie — już bym do wieczora
+Pewnie nie żył.
+
+
+MESSENIO
+
+                        Więc też, panie, gdy chcesz dobrze zrobić,
+Mnieś powinien dziś wyzwolić.
+
+
+MENECHMUS I
+
+                        Ja ciebie wyzwolić?
+
+
+MESSENIO
+
+Wszak cię ocaliłem, panie.
+
+
+MENECHMUS I
+
+                        Co? Mylisz się, chłopcze.
+
+
+MESSENIO
+
+Jak się mylę?
+
+
+MENECHMUS I
+
+                        Więc przysięgam na Ojca Jowisza,
+Że nie jestem twoim panem.
+
+
+MESSENIO
+
+                        Przestań!
+
+
+MENECHMUS I
+
+                        Ja nie kłamię;
+Ni też nigdy mnie mój sługa tak się nie przysłużył.
+
+
+MESSENIO
+
+Więc mi pozwól, niech odejdę, wolny — jeśli mówisz,
+Żem jest nie twój.
+
+
+MENECHMUS I
+
+                        Więc, co do mnie, bądź wolny i odejdź,
+Gdzie sam chcesz.
+
+
+MESSENIO
+
+                        Więc rozkazujesz?
+
+
+MENECHMUS I
+
+                        Tak jest, rozkazuję —
+Jeśli mogę ci coś kazać.
+
+
+MESSENIO
+
+/ uradowany /
+
+                        Witaj, mój patronie!
+
+/ udaje, że odbiera gratulacje /
+
+„Cieszę się, że jesteś wolny, Messenio!” — No, myślę!
+Lecz, patronie — jak cię proszę — tak mną rozporządzaj,
+Jak gdym był twym niewolnikiem. U ciebie zamieszkam
+I zabiorę się wraz z tobą, kiedy będziesz wracał.
+
+
+MENECHMUS I
+
+/ na stronie /
+
+O, bynajmniej.
+
+
+MESSENIO
+
+                        Teraz pójdę, by ci tutaj przynieść
+Twe bagaże z tej gospody i twoje pieniądze.
+Kiesa jest tam w tym koszyku pod dobrą pieczęcią,
+W niej pieniądze są na drogę: w lot ci to przyniosę.
+
+
+MENECHMUS I
+
+/ chytrze /
+
+Przynieś, przynieś, byle szybko.
+
+
+MESSENIO
+
+                        Oddam ci w całości
+Wszystko, tak jak ty mi dałeś. Poczekaj tu na mnie.
+
+/ Odchodzi ku miastu. /
+
+
+MENECHMUS I
+
+Coś dziwnego mi się dzisiaj przedziwnie wydarza:
+Jedni mówią, żem tym nie jest, kim jestem — i ci mnie
+Za drzwi tu wręcz wyrzucają — a drudzy znów mówią,
+Żem jest tym, kim wiem, żem nie jest — i pragną koniecznie
+Być mymi niewolnikami. Jak i ten, co twierdził,
+Że jest moim niewolnikiem, com go tu wyzwolił.
+Mówi, że mi tu przyniesie sakiewkę z pieniędzmi:
+Wtedy każę mu, niech idzie, gdzie chce, gdy jest wolny —
+Żeby, gdy do zdrowia wróci, zwrotu nie zażądał.
+Teść i lekarz, ci twierdzili, żem jest wariat. Dziwne.
+Wszystko mi się tak wydaje, jakby sen. — A teraz
+Pójdę tu, do tej hetery, choć się gniewa na mnie,
+Może suknię tę wyproszę, by ją oddać w domu.
+
+/ Wchodzi do domu Erotium. /
+
+
+
+
+
+/ Menechmus II, Messenio /
+
+/ wchodzą, żywo rozmawiając. /
+
+
+MENECHMUS II
+
+Więc śmiesz mówić mnie, zuchwalcze, żeś mnie dziś gdzieś spotkał,
+Po tym, jak ci tu kazałem przyjść po mnie?
+
+
+MESSENIO
+
+                        Toż właśnie
+Tum cię wyrwał przed tym domem, co cię czterech ludzi
+Na swych barkach w górze niosło. Tyś bogów przyzywał,
+Ludzi wszystkich — ja przybiegam: po walce zaciętej
+Wyrywam cię im przemocą. Za toś mnie wyzwolił,
+Żem ci życie uratował. Lecz skorom powiedział,
+Że odchodzę po pieniądze i bagaż, tyś pobiegł
+Naprzód, ile tylko siły, ażeby zaprzeczyć
+Wręcz wszystkiemu.
+
+
+MENECHMUS II
+
+                        Ja kazałem, żebyś odszedł wolny?
+
+
+MESSENIO
+
+Pewnie.
+
+
+MENECHMUS II
+
+                        Otóż to najpewniej, że ja przedtem raczej
+Sam zostanę niewolnikiem, niż ciebie wyzwolę!
+
+
+
+
+
+/ Menechmus I, Messenio, Menechmus II. /
+
+
+MENECHMUS I
+
+/ wychodzi z domu Erotium /
+
+A choćbyście przysięgały na oczy, dalibóg,
+Tego nigdy nie zrobicie, że ja stąd zabrałem
+Suknię i ten naramiennik!
+
+
+MESSENIO
+
+/ spostrzega Menechma I /
+
+                        Bogi nieśmiertelne!
+Co ja widzę!
+
+
+MENECHMUS II
+
+                        No, cóż widzisz?
+
+
+MESSENIO
+
+/ wskazuje na Menechma I /
+
+                        Toż twoje zwierciadło!
+
+
+MENECHMUS II
+
+Co takiego?
+
+
+MESSENIO
+
+                        Toż twój portret. Ale jak podobny!
+
+
+MENECHMUS II
+
+/ spogląda /
+
+Dalibóg, że jest podobny, o ile znam siebie.
+
+
+MENECHMUS I
+
+/ do Messeniona /
+
+Witajże, ktokolwiek jesteś, młodzieńcze, mój zbawco!
+
+
+MESSENIO
+
+Ja cię błagam, mój młodzieńcze, powiedz mi twe imię,
+Bądź tak dobry.
+
+
+MENECHMUS I
+
+                        Nie takeś się wobec mnie zasłużył,
+Bym ci tego miał żałować. Zowię się Menechmus.
+
+
+MENECHMUS II
+
+To jest przecież moje imię!
+
+
+MENECHMUS I
+
+                        Jestem ze Sycylii,
+Ze Syrakuz.
+
+
+MENECHMUS II
+
+                        To jest przecież mój dom i ojczyzna!
+
+
+MENECHMUS I
+
+Co ty mówisz?
+
+
+MENECHMUS II
+
+                        To, co prawda.
+
+
+MESSENIO
+
+/ myląc się we wszystkim i sądząc, że Menechmus I jest jego panem /
+
+                        Toć ja go znam dobrze.
+To jest pan mój. I ja jestem jego niewolnikiem.
+Lecz myślałem, żem jest tego.
+
+/ wskazuje na Menechma II i podchodzi do Menechma I /
+
+                        Jegom brał za ciebie,
+Jemum także tu dopomógł. Zechciej mi przebaczyć,
+Jeślim ci coś po głupiemu niechcący powiedział.
+
+
+MENECHMUS II
+
+/ do Messenia /
+
+Tyś zwariował, jak się zdaje. Czyż ty nie pamiętasz,
+Żeś dziś ze mną wysiadł z statku?
+
+
+MESSENIO
+
+/ od razu przekonany, przechodzi do Menechma II /
+
+                        Tak, prawda, masz rację.
+Tyś pan mój.
+
+/ do Menechma I /
+
+                        Ty szukaj sługi.
+
+/ do Menechma II /
+
+                        Ty witaj!
+
+/ do Menechma I /
+
+                        Ty żegnaj!
+
+/ wskazuje na Menechma II /
+
+Ten, jak twierdzę, jest Menechmem.
+
+
+MENECHMUS I
+
+                        Ja twierdzę, żem ja jest!
+
+
+MENECHMUS II
+
+/ do Menechma I /
+
+Cóż to znowu za historia! Ty jesteś Menechmus?
+
+
+MENECHMUS I
+
+Ja nim jestem, syn Moschusa.
+
+
+MENECHMUS II
+
+                        Tyś syn mego ojca?
+
+
+MENECHMUS I
+
+Nie młodzieńcze, *mego* ojca! I wcale ci nie chcę
+Ani zająć, ani porwać twojego rodzica.
+
+
+MESSENIO
+
+O bogowie nieśmiertelni! Spełnijcie nadzieję
+Niespodzianą, me domysły! Bo, jeślim nie w błędzie,
+To są przecież ci bliźniacy i bracia rodzeni:
+Obaj ojców i ojczyznę tak samo podają.
+Mego pana tu odwołam. Menechmie!
+
+
+MENECHMUS I i MENECHMUS II
+
+/ obaj razem /
+
+                        Chcesz czego?
+
+
+MESSENIO
+
+Toż nie obu, tylko tego, co ze mną przyjechał.
+
+
+MENECHMUS I
+
+No, to nie mnie.
+
+
+MENECHMUS II
+
+                        Lecz mnie właśnie.
+
+
+MESSENIO
+
+                        A więc ciebie proszę,
+Chodź tu na bok.
+
+
+MENECHMUS II
+
+                        Jestem. — Co jest?
+
+
+MESSENIO
+
+                        To jest albo oszust,
+Albo to jest brat twój bliźni. Nigdy nie widziałem,
+Żeby człowiek do człowieka mógł być podobniejszy.
+Nigdy woda wszak do wody ni mleko do mleka,
+Wierz mi, nie jest podobniejsze niźli on do ciebie,
+Albo ty do niego znowu; potem znów tę samą
+I ojczyznę on podaje, i ojca. — Najlepiej
+Wprost przystąpić i wypytać.
+
+
+MENECHMUS II
+
+                        Rada doskonała,
+Dzięki! Róbże dalej wszystko. Będziesz wyzwolony,
+Gdy wykryjesz, że to brat mój.
+
+
+MESSENIO
+
+                        Myślę.
+
+
+MENECHMUS II
+
+                        I ja myślę.
+
+
+MESSENIO
+
+/ zwraca się do Menechma I /
+
+Słuchaj! Tyś tu jakoś mówił, że zwiesz się Menechmus?
+
+
+MENECHMUS I
+
+Tak.
+
+
+MESSENIO
+
+                        I ten się zwie Menechmus. Mówiłeś, żeś rodem
+Ze Sycylii, ze Syrakuz. I ten stamtąd rodem.
+Że twym ojcem miał być Moschus. I z nim jest to samo.
+Teraz oba się przysłużcie mnie i sobie razem.
+
+
+MENECHMUS I
+
+Dużoś u mnie się zasłużył. Proś, zyskasz, co zechcesz,
+Będę twoim niewolnikiem, tak jakbyś mnie kupił!
+
+
+MESSENIO
+
+Mam nadzieję, że wykryję, że bracia jesteście
+I bliźniacy z jednej matki i z ojca jednego,
+I w dniu jednym urodzeni.
+
+
+MENECHMUS I
+
+                        Cuda! Obyś zdołał
+Spełnić przyrzeczenie!
+
+
+MESSENIO
+
+                        Zdołam! — Lecz teraz wy obaj
+Mówcie, co was tu zapytam.
+
+
+MENECHMUS I
+
+                        Pytaj, co zapragniesz,
+Ja odpowiem. Nic nie skryję. Co tylko wiem, powiem.
+
+
+MESSENIO
+
+/ do Menechma I /
+
+Ty na imię masz Menechmus?
+
+
+MENECHMUS I
+
+                        Tak.
+
+
+MESSENIO
+
+/ do Menechma II /
+
+                        I ty tak samo?
+
+
+MENECHMUS II
+
+Tak.
+
+
+MESSENIO
+
+/ do Menechma I /
+
+                        Twym ojcem miał być Moschus?
+
+
+MENECHMUS I
+
+                        Tak.
+
+
+MENECHMUS II
+
+                        I moim także!
+
+
+MESSENIO
+
+/ do Menechma I /
+
+I pochodzisz ze Syrakuz?
+
+
+MENECHMUS I
+
+                        Tak.
+
+
+MESSENIO
+
+/ do Menechma II /
+
+                        A ty?
+
+
+MENECHMUS II
+
+                        Tak samo.
+
+
+MESSENIO
+
+Dotąd zgadza mi się wszystko. Więc dalej, uwaga!
+
+/ do Menechma I /
+
+Powiedz, jakie najdawniejsze masz z domu wspomnienie?
+
+
+MENECHMUS I
+
+Żem na targ pojechał z ojcem do Tarentu; potem,
+Żem się mu zagubił w ciżbie i że mnie ktoś uwiózł.
+
+
+MENECHMUS II
+
+/ zdumiony /
+
+Ach, Jowiszu ty najwyższy!
+
+
+MESSENIO
+
+                        Co krzyczysz? Bądź cicho!
+
+/ do Menechma I /
+
+Wieleś lat miał, kiedyś z ojcem z ojczyzny wyjechał?
+
+
+MENECHMUS I
+
+Siedem, bo mi właśnie zęby zaczęły wypadać.
+I już nigdym potem ojca nie widział.
+
+
+MESSENIO
+
+                        A wielu
+Ojciec wasz miał wtedy synów?
+
+
+MENECHMUS I
+
+                        Dwóch, o ile tylko
+Dziś pamiętam.
+
+
+MESSENIO
+
+                        Kto był starszy? Ty czy tamten?
+
+
+MENECHMUS I
+
+                        Obaj
+W równym wieku.
+
+
+MESSENIO
+
+                        W jaki sposób?
+
+
+MENECHMUS I
+
+                        Byliśmy bliźniacy.
+
+
+MENECHMUS II
+
+/ uradowany /
+
+Bogi! Wy mi pomagacie!
+
+
+MESSENIO
+
+/ zirytowany /
+
+                        Jeśli mi przerywasz,
+Milczę.
+
+
+MENECHMUS II
+
+                        To ja raczej milczę.
+
+
+MESSENIO
+
+/ znów do Menechma I /
+
+                        Powiedz, czy imiona
+Obaj mieliście te same?
+
+
+MENECHMUS I
+
+                        Bynajmniej. Ja miałem
+To, co dziś, to jest Menechmus; tamten był Sosikles.
+
+
+MENECHMUS II
+
+/ nie posiadając się z radości /
+
+Tu mam dowód! Nie wytrzymam! Muszę cię uściskać!
+
+/ obejmuje i ściska brata /
+
+Mój rodzony, bliźni bracie! Witaj, jam Sosikles!
+
+
+MENECHMUS I
+
+A więc jak ci potem dano na imię Menechmus?
+
+
+MENECHMUS II
+
+Skoro nam donieśli o tym, [gdy okręt powrócił,
+Że cię porwał ktoś w Tarencie] i że ojciec umarł,
+Dziadek zmienił moje imię i mnie nadał twoje.
+
+
+MENECHMUS I
+
+Wierzę ci — lecz powiedz jeszcze…
+
+
+MENECHMUS II
+
+                        Co? Tylko się pytaj!
+
+
+MENECHMUS I
+
+Jak się zwała nasza matka?
+
+
+MENECHMUS II
+
+                        Teuksimarcha.
+
+
+MENECHMUS I
+
+                        Właśnie.
+
+/ uradowany, rzuca się bratu w objęcia /
+
+Witaj mi! Po tylu latach! Jesteś, niespodzianie!
+
+
+MENECHMUS II
+
+I ty, bracie, com cię szukał ciągle wśród tak wielu
+Trudów różnych i przykrości! Szczęście, żeś się znalazł!
+
+
+MESSENIO
+
+/ do Menechma II /
+
+To dlatego ta hetera do ciebie mówiła
+Jego imię! I zapewne, prosząc cię na ucztę,
+Ciebie brała za tamtego!
+
+
+MENECHMUS I
+
+                        Bom ja oczywiście
+Kazał tu dziś ucztę zrobić, w skrytości przed żoną,
+Com jej suknię ściągnął z domu i dał tej.
+
+/ Wskazuje na dom Erotium. /
+
+
+MENECHMUS II
+
+/ pokazuje suknię, którą miał schowaną pod płaszczem /
+
+                        Tę, mówisz,
+Suknię, bracie, co tu trzymam?
+
+
+MENECHMUS I
+
+                        Tę, lecz w jaki sposób
+Mogła się do ciebie dostać?
+
+
+MENECHMUS II
+
+                        Hetera mnie wzięła
+Tu na obiad i mówiła, żem ja jej darował.
+Zjadłem obiad doskonały, piłem, z nią leżałem,
+Wziąłem suknię i to złoto.
+
+/ Pokazuje naramiennik. /
+
+
+MENECHMUS I
+
+/ śmiejąc się /
+
+                        Cieszę się, dalibóg,
+Jeśli ci tak dobrze poszło z mojego powodu.
+Bo ta, ciebie zapraszając, mnie miała na myśli!
+
+
+MESSENIO
+
+/ do Menechma II /
+
+Teraz chyba mnie wyzwolisz, tak jakeś już mówił?
+
+
+MENECHMUS I
+
+Słusznie prosi i godziwie, bracie, ja się wstawiam.
+
+
+MENECHMUS II
+
+/ do Messeniona /
+
+Więc bądź wolny!
+
+
+MENECHMUS I
+
+/ gratuluje mu /
+
+                        Jak się cieszę, Messenio, żeś wolny!
+
+
+MESSENIO
+
+Byle tylko z lepszym szczęściem, bym stale był wolny!
+
+
+MENECHMUS II
+
+Skoro nam to wszystko, bracie, po myśli wypadło,
+Wróćmy obaj do ojczyzny.
+
+
+MENECHMUS I
+
+                        Dobrze, jak chcesz, bracie.
+Tutaj zrobię licytację: sprzedam, co mam, wszystko.
+Lecz tymczasem chodźmy tutaj.
+
+
+MENECHMUS II
+
+                        Dobrze.
+
+
+MESSENIO
+
+                        Ja mam prośbę.
+
+
+MENECHMUS I
+
+Jaką?
+
+
+MESSENIO
+
+                        Żebym ja był woźnym przy tej licytacji.
+
+
+MENECHMUS II
+
+Dobrze.
+
+
+MESSENIO
+
+                        Więc obwołać zaraz?
+
+
+MENECHMUS I
+
+                        Tak. Termin dni siedem.
+
+
+MESSENIO
+
+/ zwraca się do widzów i obwołuje urzędowym tonem /
+
+Rychło rano dnia siódmego będzie u Menechma
+Licytacja na dom z gruntem, służbę, sprzęty — wszystko,
+Sprzeda się za ile można, ale za gotówkę.
+Sprzeda się i żonę nawet, jeśli kupiec będzie!
+Całe kupno wynieść może — głupie pięć milionów;
+Teraz żegnam was, widzowie — a głośno klaskajcie!

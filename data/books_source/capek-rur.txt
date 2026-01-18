@@ -1,0 +1,9941 @@
+Karel Čapek
+
+R.U.R.
+Rossum's Universal Robots.
+Dramat zbiorowy z komediowym wstępem i w trzech aktach
+tłum. Martyna M. Lemańczyk
+
+ISBN 978-83-288-6196-1
+
+
+
+Osoby:
+ * HARRY DOMIN, dyrektor naczelny fabryki Rossum's Universal Robots
+ * INŻ. FABRY, generalny dyrektor techniczny R. U. R
+ * DR GALL, kierownik działu fizjologiczno-badawczego R.U.R.
+ * DR HALLEMEIER, kierownik Wydziału do spraw Psychologii i Szkolenia Robotów
+ * KONSUL BUSMAN, generalny dyrektor handlowy R.U.R.
+ * BUDOWNICZY ALQUIST, kierownik rozbudowy R.U.R.
+ * HELENA GLORY
+ * MANIA, jej piastunka
+ * MARIUSZ, robot
+ * RADIUS, robot
+ * DAMON, robot
+ * SULLA, robotka
+ * PIERWSZY ROBOT
+ * DRUGI ROBOT
+ * TRZECI ROBOT
+ * CZWARTY ROBOT
+ * PIĄTY ROBOT
+ * ROBOT PRYMUS
+ * ROBOTKA HELENA
+ * SŁUŻĄCY-ROBOT i liczne inne ROBOTY
+
+
+
+
+
+
+
+
+Domin, w prologu około trzydziestoośmiolatek, wysoki, ogolony
+
+
+
+
+
+Fabry, również ogolony, płowowłosy, o poważnej twarzy i delikatnych rysach
+
+
+
+
+  
+Dr Gall, drobny, żywy, śniady, z czarnym wąsem
+
+
+
+
+
+Hallemeier, potężny, krzepki, z rudym angielskim wąsem i takoż rudymi włosami obciętymi na jeża
+
+
+
+
+
+Busman, gruby, łysy, krótkowzroczny Żyd
+
+
+
+
+
+Alquist, starszy od pozostałych, ubrany niedbale, o długich, posiwiałych włosach i takimże zaroście
+
+
+
+
+
+Helena, bardzo elegancka
+
+
+
+
+Po zakończeniu prologu wszyscy o dziesięć lat starsi.
+
+
+
+
+W prologu roboty są ubrane jak ludzie. Oszczędne w ruchach i w mowie, twarze bez wyrazu, wzrok wbity w jeden punkt. W tekście głównym odziane w płócienne bluzy ściągnięte w pasie rzemieniem, na piersiach mosiężne numery.
+
+
+
+
+
+
+Po prologu i po drugim akcie antrakt.
+
+
+
+
+Prolog
+
+
+
+Centralne biuro fabryki Rossum's Universal Robots. Po prawej wejście. Na wprost — okna z widokiem na niekończące się szeregi budynków fabrycznych. Po lewej inne pomieszczenia kancelarii dyrektora.
+
+
+
+DOMIN siedzi w obrotowym fotelu przy ogromnych rozmiarów biurku amerykańskim. Na blacie lampa, telefon, przyciski do papieru, stojak na listy itd., zaś na ścianie po lewej wielkie mapy z zaznaczonymi liniami transportu morskiego i kolejowego, duży kalendarz, zegar, który wskazuje, że dochodzi południe; na ścianie z prawej zawieszono plakaty reklamowe: „Najtańsi pracownicy: roboty Rossuma”, „Roboty tropikalne, nowy wynalazek. 150 d. sztuka”, „Robot dla każdego!”, „Zbyt droga produkcja? Zamów roboty Rossuma”. Dalej jeszcze inne mapy, rozkład kursowania statków, tabela ze skróconym zestawieniem rejsów itd. Z taką dekoracją ścian kontrastuje wspaniały turecki dywan na podłodze; po prawej stronie okrągły stół, kanapa, skórzane fotele klubowe oraz biblioteczka, w której zamiast książek stoją butelki z winem i mocniejszymi trunkami. Po lewej sejf. Obok biurka Domina maszyna do pisania, w którą stuka dziewczyna imieniem SULLA.
+
+
+DOMIN
+
+/ dyktuje /
+
+„— że nie odpowiadamy za towar uszkodzony w transporcie. Już podczas załadunku zwróciliśmy uwagę państwa kapitanowi, że statek nie jest przystosowany do przewozu robotów, a więc straty nie idą na nasze konto. W imieniu Rossum's Universal Robots — podpisano —”. Gotowe?
+
+
+SULLA
+
+Tak.
+
+
+DOMIN
+
+Następny list. „E. B. Huysum Agency, New York. Data. Potwierdzamy zamówienie na pięć tysięcy robotów. Ponieważ wysyłają państwo własny statek, prosimy o załadowanie jako cargo brykietów dla R.U.R. w ramach barteru. Podpisano —”. Gotowe?
+
+
+SULLA
+
+/ kończąc stukać /
+
+Tak.
+
+
+DOMIN
+
+Proszę pisać dalej. „Friedrichswerke, Hamburg. — Data. — Potwierdzamy zamówienie na piętnaście tysięcy robotów”.
+
+/ Dzwoni telefon wewnętrzny. Domin podnosi słuchawkę i mówi do niej. /
+
+Halo — Tu naczelny — Tak — Oczywiście — Ależ tak, jak zwykle — Owszem, proszę nadać do nich depeszę — W porządku.
+
+/ Odkłada słuchawkę. /
+
+Na czym stanąłem?
+
+
+SULLA
+
+Potwierdzamy zamówienie na piętnaście tysięcy r.
+
+
+DOMIN
+
+/ w zamyśleniu /
+
+Piętnaście tysięcy r. Piętnaście tysięcy r.
+
+
+MARIUSZ
+
+/ wchodzi /
+
+Panie dyrektorze, przyszła jakaś dama —
+
+
+DOMIN
+
+Kto taki?
+
+
+MARIUSZ
+
+Nie wiem.
+
+/ Podaje wizytówkę. /
+
+
+DOMIN
+
+/ czyta /
+
+Od prezesa Glory'ego. — Prosić.
+
+
+MARIUSZ
+
+Szanowna pani raczy wejść.
+
+/ Wchodzi Helena Glory, Mariusz wychodzi. /
+
+
+DOMIN
+
+/ wstając /
+
+Zapraszam.
+
+
+HELENA
+
+Pan dyrektor naczelny Domin?
+
+
+DOMIN
+
+Do usług.
+
+
+HELENA
+
+Przychodzę do pana —
+
+
+DOMIN
+
+— z polecenia prezesa Glory'ego. Więcej nie trzeba.
+
+
+HELENA
+
+Prezes Glory to mój ojciec. Jestem Helena Glory.
+
+
+DOMIN
+
+Panno Glory, to dla nas wyjątkowy zaszczyt, że — że —
+
+
+HELENA
+
+— że nie możemy pokazać pani drzwi.
+
+
+DOMIN
+
+— że możemy powitać w naszych progach córkę tak znamienitego pana prezesa. Proszę usiąść. Sullo, możesz odejść.
+
+/ Sulla wychodzi. /
+
+
+DOMIN
+
+/ siadając /
+
+Czym mogę służyć, panno Glory?
+
+
+HELENA
+
+Przyjechałam tu, żeby —
+
+
+DOMIN
+
+— obejrzeć nasz zakład produkcji ludzi. Tak jak każdy odwiedzający. Nie widzę problemu, zapraszam.
+
+
+HELENA
+
+Myślałam, że na teren fabryki —
+
+
+DOMIN
+
+— wstęp jest wzbroniony. Tylko że każdy zjawia się tu z czyjąś wizytówką, panno Glory.
+
+
+HELENA
+
+I wszystkim pan pokazuje… — ?
+
+
+DOMIN
+
+Tyle o ile. Produkcja sztucznych ludzi, droga pani, to tajemnica handlowa.
+
+
+HELENA
+
+Gdyby pan wiedział, jak mnie to —
+
+
+DOMIN
+
+— szalenie interesuje. Wszak stara Europa o niczym innym nie mówi.
+
+
+HELENA
+
+Dlaczego nie daje mi pan skończyć zdania?
+
+
+DOMIN
+
+Proszę wybaczyć. Zamierzała pani powiedzieć coś innego?
+
+
+HELENA
+
+Chciałam tylko zapytać —
+
+
+DOMIN
+
+— czy w drodze wyjątku nie pokazałbym pani naszej fabryki. Ależ oczywiście, panno Glory.
+
+
+HELENA
+
+Skąd pan wie, że właśnie o to chciałam spytać?
+
+
+DOMIN
+
+Wszyscy pytają o to samo.
+
+/ wstaje /
+
+To będzie dla nas zaszczyt, pokazać pani więcej niż innym, tylko — jak by to ująć —
+
+
+HELENA
+
+Dziękuję panu.
+
+
+DOMIN
+
+— czy mogłaby pani przyrzec, że nikomu nie zdradzi ani słówkiem —
+
+
+HELENA
+
+/ wstaje i podaje mu rękę /
+
+Słowo honoru.
+
+
+DOMIN
+
+Dziękuję. Nie zechciałaby pani uchylić woalki?
+
+
+HELENA
+
+Ach tak, pan chce zobaczyć — Za pozwoleniem.
+
+
+DOMIN
+
+Słucham?
+
+
+HELENA
+
+Gdyby pan tak już puścił moją rękę.
+
+
+DOMIN
+
+/ puszczając /
+
+Proszę wybaczyć.
+
+
+HELENA
+
+/ unosi woalkę /
+
+Chce pan sprawdzić, czy nie jestem szpiegiem. Ależ pan ostrożny.
+
+
+DOMIN
+
+/ wpatrując się w nią z zachwytem /
+
+Hm — owszem — my — tak jest.
+
+
+HELENA
+
+Nie ufa mi pan?
+
+
+DOMIN
+
+Niezmiernie, panno Hele… — — przepraszam, panno Glory. Doprawdy jestem niezmiernie uradowany — Czy rejs minął spokojnie?
+
+
+HELENA
+
+Owszem. Dlaczego —
+
+
+DOMIN
+
+Ponieważ — to znaczy, chciałem powiedzieć — taka pani młoda.
+
+
+HELENA
+
+Przejdziemy teraz do fabryki?
+
+
+DOMIN
+
+Tak. Obstawiam dwadzieścia dwa, czyż nie?
+
+
+HELENA
+
+Dwadzieścia dwa co?
+
+
+DOMIN
+
+Lata.
+
+
+HELENA
+
+Dwadzieścia jeden. Na co panu ta wiedza?
+
+
+DOMIN
+
+Dlatego, że — ponieważ —
+
+/ z zachwytem /
+
+Zabawi pani u nas nieco dłużej, nieprawdaż?
+
+
+HELENA
+
+Zależy, co mi pan pokaże z procesu produkcji.
+
+
+DOMIN
+
+Ta diabelna produkcja! Ależ ma się rozumieć, panno Glory, wszystko pani obejrzy. Proszę usiąść. Czy ciekawiłaby panią historia wynalazku?
+
+
+HELENA
+
+Owszem, proszę opowiedzieć.
+
+/ siada /
+
+
+DOMIN
+
+A zatem.
+
+/ siada na biurku, wpatruje się w Helenę jak urzeczony i śpiesznie recytuje /
+
+W roku 1920 stary Rossum wielki fizjolog ale wówczas jeszcze młody naukowiec udał się na tę odległą wyspę by badać morską faunę kropka. Próbował odtworzyć materię żywą tak zwaną protoplazmę metodą syntezy chemicznej gdy pewnego razu wynalazł substancję która zachowywała się tak samo jak żywa materia chociaż miała inny skład chemiczny było to w roku 1932 niemal czterysta lat po odkryciu Ameryki, uff.
+
+
+HELENA
+
+Zna pan to na pamięć?
+
+
+DOMIN
+
+Tak; fizjologia, panno Glory, to nie moja działka. Mam mówić dalej?
+
+
+HELENA
+
+Proszę.
+
+
+DOMIN
+
+/ uroczyście /
+
+I wtedy to, panno Glory, stary Rossum zapisał pomiędzy wzorami chemicznymi takie oto słowa: „Natura znalazła tylko jeden sposób, by uorganizować materię żywą. Istnieje jednak inna metoda, prostsza, bardziej podatna i szybsza, ale na nią przyroda w ogóle nie wpadła. Tę drugą drogę, którą mogła się potoczyć ewolucja życia, właśnie dziś odkryłem”. Proszę sobie uświadomić, panienko, że te wielkie słowa pisał nad glutem jakiejś kleistej galarety, której nawet pies by nie ruszył. Niech go sobie pani wyobrazi, jak siedzi nad probówką i duma, że wyrośnie z niej całe drzewo życia, że będą z niej wychodzić wszystkie zwierzęta, począwszy od byle wrotka, a kończąc — na samym człowieku. Człowieku z innej materii niż my. Panno Glory, była to doniosła chwila.
+
+
+HELENA
+
+I co dalej?
+
+
+DOMIN
+
+Dalej? Od tego momentu chodziło o to, jak wydostać życie z probówki, przyśpieszyć ewolucję i wytworzyć jakieś te organy, kości, nerwy, siamto, owamto, i wynaleźć te wszystkie substancje, katalizatory, enzymy, hormony i takie tam, mówiąc w skrócie — rozumie pani?
+
+
+HELENA
+
+N-n-nie wiem. Chyba niewiele.
+
+
+DOMIN
+
+A ja nic a nic. Wie pani, przy pomocy tych płynów mógł robić, co mu się żywnie podobało. Mógł na przykład otrzymać meduzę z mózgiem Sokratesa albo dżdżownicę długą na pięćdziesiąt metrów. Ale że nie miał ani grama poczucia humoru, wbił sobie do głowy, że zrobi normalnego kręgowca, a może nawet człowieka. Ta jego sztuczna żywa materia cechowała się szaloną wolą życia; pozwalała robić ze sobą wszystko, mógł ją zszywać i mieszać, jak tylko chciał. A więc zabrał się za to.
+
+
+HELENA
+
+Za co?
+
+
+DOMIN
+
+Za naśladowanie natury. Najpierw spróbował stworzyć sztucznego psa. Kosztowało go to wiele lat pracy, wyszło z tego coś, co przypominało skarłowaciałe cielę, zresztą fajtnęło po paru dniach. Pokażę pani w muzeum. A potem stary Rossum zajmował się już tylko tworzeniem człowieka.
+
+/ Pauza. /
+
+
+HELENA
+
+I tego właśnie nie mogę nikomu zdradzić?
+
+
+DOMIN
+
+Nikomu na świecie.
+
+
+HELENA
+
+Szkoda, że już o tym piszą w każdym podręczniku.
+
+
+DOMIN
+
+Szkoda.
+
+/ zeskakuje z biurka i siada obok Heleny /
+
+Ale wie pani, czego nie ma w podręcznikach?
+
+/ puka się w czoło /
+
+Tego, że stary Rossum to był skończony wariat. Poważnie, panno Glory, ale proszę zachować to dla siebie. Ten stary dziwak naprawdę chciał wytwarzać ludzi.
+
+
+HELENA
+
+Ale przecież pan właśnie *wytwarza* ludzi!
+
+
+DOMIN
+
+Z grubsza, panno Heleno. A stary Rossum miał na myśli dosłownie. Wie pani, chciał tak jakby naukowo obalić Boga. Był strasznym materialistą i to go motywowało. Pragnął przede wszystkim dostarczyć dowód, że żaden Bóg nigdy nie był potrzebny. Dlatego ubzdurał sobie, że stworzy człowieka kropka w kropkę takiego jak my. Ma pani pojęcie o anatomii?
+
+
+HELENA
+
+Tylko — niewielkie.
+
+
+DOMIN
+
+Ja też. Proszę sobie wyobrazić, uparł się, że wykona wszystko identycznie jak w ludzkim ciele, aż po najdrobniejszy gruczołek. Ślepą kiszkę, migdałki, pępek, same niepotrzebne głupstwa. A nawet — hm — narządy płciowe.
+
+
+HELENA
+
+Ale one przecież — one przecież —
+
+
+DOMIN
+
+— nie są całkiem zbędne, wiem, wiem. Lecz jeśli chce się wytwarzać ludzi sztucznie, to nie ma takiej — hm — konieczności —
+
+
+HELENA
+
+Rozumiem.
+
+
+DOMIN
+
+Pokażę pani w muzeum, co on tam sklecił przez łącznie dziesięć lat. Miał to być mężczyzna, żyło toto całe trzy dni. Stary Rossum nie miał krztyny gustu. To, co zrobił, było straszliwe. Ale miało w środku wszystko, co ma człowiek. Doprawdy, okrutna dłubanina. I wówczas zjawił się tu inżynier Rossum, siostrzeniec starego. Tęga głowa, panno Glory. Zobaczył, co tam stary majdruje, i oznajmił: „To nonsens produkować człowieka przez dziesięć lat. Jeśli nie zdołasz go robić szybciej niż natura, cały ten bajzel niewart jest splunięcia”. I sam wziął się za anatomię.
+
+
+HELENA
+
+W podręcznikach piszą co innego.
+
+
+DOMIN
+
+/ wstaje /
+
+W podręcznikach opłacamy reklamę, a reszta to bzdury. Pisze się, że roboty wynalazł stary Rossum. Stary może i nadawał się na uniwersytet, ale o produkcji fabrycznej nie miał zielonego pojęcia. Myślał sobie, że stworzy prawdziwych ludzi — jakichś nowych Indian, docentów albo idiotów, wie pani? Dopiero młody Rossum wpadł na pomysł, żeby robić na tej bazie żywe i inteligentne maszyny robocze. Wszystko, co pani czytała o współpracy obu Rossumów, to bajki dla grzecznych dzieci. Ci dwaj okrutnie się kłócili. Stary ateista znał się na przemyśle jak kura na pieprzu, wreszcie młodemu udało się go zamknąć w którymś z laboratoriów, żeby tam się babrał z tymi swoimi wyskrobkami, a sam, jako inżynier, zaczął porządną produkcję. Stary Rossum dosłownie go wyklął i przed śmiercią zmajstrował jeszcze dwie fizjologiczne pokraki, aż wreszcie znaleźli go martwego w laboratorium. Oto cała historia.
+
+
+HELENA
+
+A co z młodym?
+
+
+DOMIN
+
+Młody Rossum, panienko, to była nowa epoka. Era przemysłowa po erze wiedzy. Przyjrzał się dokładnie anatomii człowieka i od razu zobaczył, że jest zbyt skomplikowana i że dobry inżynier urządziłby to prościej. Zaczął więc przerabiać anatomię, sprawdzając, co się da pominąć albo udogodnić — Mówiąc w skrócie — panno Glory, nie nudzi się pani?
+
+
+HELENA
+
+Nie, przeciwnie, to okrrropnie ciekawe.
+
+
+DOMIN
+
+A więc młody Rossum pomyślał sobie tak: człowiek to coś, co — przypuśćmy — odczuwa radość, gra na skrzypcach, ma ochotę na spacer i w ogóle musi robić mnóstwo rzeczy, które — które są właściwie niepotrzebne.
+
+
+HELENA
+
+Oho!
+
+
+DOMIN
+
+Niech pani zaczeka. Które są niepotrzebne, kiedy ma na przykład tkać albo liczyć. Ja nie uważam, żeby dla pani — Gra pani może na skrzypcach?
+
+
+HELENA
+
+Nie.
+
+
+DOMIN
+
+Szkoda. Ale maszyna robocza nie musi grać na skrzypcach, nie musi się cieszyć, nie musi robić całego mnóstwa innych rzeczy. Wręcz nie powinna. Silnik spalinowy nie musi mieć frędzli i ornamentów, panno Glory. A produkcja sztucznych robotników niczym się nie różni od produkcji silników spalinowych. Ma być jak najprostsza, a produkt jak najlepszy pod względem praktycznym. Jak pani uważa, jaki robotnik jest najlepszy od strony praktycznej?
+
+
+HELENA
+
+Najlepszy? Chyba ten, który — który — jest uczciwy — i lojalny.
+
+
+DOMIN
+
+Nie: ten, który jest najtańszy. Ten, który ma najmniej potrzeb. Młody Rossum wynalazł najmniej wymagającego robotnika. Musiał go uprościć. Usunął wszystko, co nie służy bezpośrednio do pracy. Wyrzucił to, co człowieka podraża. W ten sposób w zasadzie usunął człowieka i stworzył robota. Droga panno Glory, roboty to nie ludzie. Są mechanicznie doskonalsi niż my, dysponują zadziwiającą inteligencją umysłową, ale nie mają duszy. Widziała pani już kiedyś, jak wygląda robot w środku?
+
+
+HELENA
+
+Nie.
+
+
+DOMIN
+
+Jest czysty i prosty. Doprawdy, piękna rzecz. Wygląda jak domowa apteczka: mało elementów, za to wszystko w nienagannym porządku. Och, panno Glory, produkt inżyniera jest znacznie bardziej dopracowany technicznie niż ten stworzony przez naturę.
+
+
+HELENA
+
+Mówi się, że człowiek to stworzenie boże.
+
+
+DOMIN
+
+Tym gorzej. Bóg nie miał zielonego pojęcia o nowoczesnej technice. Przypuszczałaby pani, że nieboszczyk młody Rossum postanowi zabawić się w Boga?
+
+
+HELENA
+
+Jak to?
+
+
+DOMIN
+
+Zaczął produkować Nadroboty. Olbrzymy robocze. Próbował z czterometrowymi — ale nie uwierzy pani, jak łatwo te drągale się łamały.
+
+
+HELENA
+
+Łamały?
+
+
+DOMIN
+
+Tak. Ni z tego, ni z owego pękała im noga albo co tam. Nasza planeta jest najwyraźniej trochę za mała na gigantów. Teraz robimy wyłącznie roboty naturalnej wielkości, o solidnej, ludzkiej posturze.
+
+
+HELENA
+
+Widziałam pierwszych robotów u nas. Gmina kupiła… to znaczy, najęła do pracy —
+
+
+DOMIN
+
+Kupiła, droga pani. Roboty się kupuje.
+
+
+HELENA
+
+— pozyskała jako zamiataczy. Patrzyłam, jak pracują. Są dziwni, tacy cisi.
+
+
+DOMIN
+
+Widziała pani moją maszynistkę?
+
+
+HELENA
+
+Nie przyglądałam się jej.
+
+
+DOMIN
+
+/ dzwoni /
+
+Wie pani, fabryka akcyjna Robotów Uniwersalnych Rossuma produkuje zróżnicowany asortyment. Mamy roboty wyższej klasy oraz bardziej prymitywne. Żywotność tych lepszych szacujemy na dwadzieścia lat.
+
+
+HELENA
+
+Potem umierają?
+
+
+DOMIN
+
+Tak, zużywają się.
+
+/ Wchodzi Sulla. /
+
+
+DOMIN
+
+Sullo, proszę się pokazać pannie Glory.
+
+
+HELENA
+
+/ podnosi się i podaje jej rękę /
+
+Miło mi. Pewnie jest pani smutno na tym końcu świata, co?
+
+
+SULLA
+
+Nie znam odpowiedzi, panno Glory. Proszę sobie usiąść.
+
+
+HELENA
+
+/ siada /
+
+Skąd pani pochodzi?
+
+
+SULLA
+
+Stąd, z fabryki.
+
+
+HELENA
+
+Ach, to pani się tu urodziła?
+
+
+SULLA
+
+Tak, zrobiono mnie tutaj.
+
+
+HELENA
+
+/ zrywając się na równe nogi /
+
+Co takiego?
+
+
+DOMIN
+
+/ ze śmiechem /
+
+Sulla nie jest człowiekiem, panienko. Sulla to robot.
+
+
+HELENA
+
+Proszę mi wybaczyć —
+
+
+DOMIN
+
+/ kładzie Sulli rękę na ramieniu /
+
+Sulla się nie gniewa. Proszę spojrzeć, panno Glory, jaką cerę robimy. Niech pani dotknie jej twarzy.
+
+
+HELENA
+
+Och nie, nie!
+
+
+DOMIN
+
+Nie odgadłaby pani, że jest z innego tworzywa niż my. Proszę, ma nawet meszek na policzkach typowy dla blondynek. Tylko oczy są odrobinkę… — Za to jakie włosy! Sullo, proszę się obrócić!
+
+
+HELENA
+
+Już dość!
+
+
+DOMIN
+
+Sullo, proszę porozmawiać z gościem. Ta wizyta to dla nas zaszczyt.
+
+
+SULLA
+
+Zapraszam, niech panienka spocznie.
+
+/ siadają obie /
+
+Czy rejs minął spokojnie?
+
+
+HELENA
+
+Tak — o-oczywiście.
+
+
+SULLA
+
+Niech pani nie wraca „Amelią”, panno Glory. Barometr mocno spada, na 705. Lepiej zaczekać na „Pensylwanię”, to niezawodny i silny statek.
+
+
+DOMIN
+
+Ile?
+
+
+SULLA
+
+Dwadzieścia węzłów. Tonaż dwanaście tysięcy. Jedna z najnowocześniejszych jednostek, panno Glory.
+
+
+HELENA
+
+Dzię-dziękuję.
+
+
+SULLA
+
+Osiemdziesiąt osób załogi, kapitan Harpy, osiem kotłów —
+
+
+DOMIN
+
+/ ze śmiechem /
+
+Dosyć, Sullo, wystarczy. Proszę dać nam próbkę swojej francuszczyzny.
+
+
+HELENA
+
+Pani zna francuski?
+
+
+SULLA
+
+Znam cztery języki. Piszę: Dear Sir! Monsieur! Geehrter Herr! Szanowny Panie!
+
+
+HELENA
+
+/ podrywa się /
+
+To oszustwo! Pan jest szarlatanem! Sulla nie jest robotessą, Sulla jest dziewczęciem tak jak ja! Sullo, to haniebne! Dlaczego odgrywa pani tę komedię?
+
+
+SULLA
+
+Jestem robotem.
+
+
+HELENA
+
+Nie, pani kłamie! Och, Sullo, proszę mi wybaczyć, ja wiem — zmusili panią, żeby robiła im pani reklamę! Sullo, przecież jest pani dziewczyną taką jak ja, prawda? Proszę powiedzieć!
+
+
+DOMIN
+
+Przykro mi, panno Glory, Sulla to robot.
+
+
+HELENA
+
+Pan kłamie!
+
+
+DOMIN
+
+/ wstaje /
+
+Doprawdy?
+
+/ dzwoni /
+
+Przepraszam, panienko, w takim razie muszę zaprezentować coś, co panią przekona.
+
+/ Wchodzi Mariusz. /
+
+
+DOMIN
+
+Mariuszu, proszę zaprowadzić Sullę do prosektorium, żeby ją otwarto. Prędko!
+
+
+HELENA
+
+Dokąd?
+
+
+DOMIN
+
+Do prosektorium. Gdy ją rozkroją, pójdzie pani obejrzeć.
+
+
+HELENA
+
+Nie pójdę!
+
+
+DOMIN
+
+Przepraszam bardzo, zarzuciła mi pani kłamstwo.
+
+
+HELENA
+
+Każe pan ją zabić?
+
+
+DOMIN
+
+Maszyn się nie zabija.
+
+
+HELENA
+
+/ obejmuje Sullę /
+
+Nie bój się, Sullo, ja na to nie pozwolę! Powiedz, kochanie, wszyscy są dla ciebie tacy okrutni? Nie można pozwalać tak się traktować, słyszysz? Sullo, nie można!
+
+
+SULLA
+
+Jestem robotem.
+
+
+HELENA
+
+Wszystko jedno. Robotowie to tak samo dobrzy ludzie, jak i my. Sullo, ty byś się dała pokroić?
+
+
+SULLA
+
+Tak.
+
+
+HELENA
+
+Och! I nie boisz się śmierci?
+
+
+SULLA
+
+Nie znam odpowiedzi, panno Glory.
+
+
+HELENA
+
+Wiesz, co by się z tobą stało potem?
+
+
+SULLA
+
+Tak, znieruchomiałabym.
+
+
+HELENA
+
+To okrrropne!
+
+
+DOMIN
+
+Mariuszu, proszę powiedzieć panience, czym jesteś.
+
+
+MARIUSZ
+
+Robot Mariusz.
+
+
+DOMIN
+
+Zaprowadziłbyś Sullę do prosektorium?
+
+
+MARIUSZ
+
+Tak.
+
+
+DOMIN
+
+Byłoby ci jej żal?
+
+
+MARIUSZ
+
+Nie znam odpowiedzi.
+
+
+DOMIN
+
+Co by się z nią stało?
+
+
+MARIUSZ
+
+Znieruchomiałaby. Poszłaby pod zgniatarkę.
+
+
+DOMIN
+
+To właśnie jest śmierć. Boisz się śmierci, Mariuszu?
+
+
+MARIUSZ
+
+Nie.
+
+
+DOMIN
+
+Widzi pani, panno Glory. Roboty nie przywiązują wagi do życia. Nie mają bowiem do czego. Nie znają przyjemności. Są mniej świadome niż trawa.
+
+
+HELENA
+
+Och, niechże pan przestanie! Proszę ich stąd odesłać!
+
+
+DOMIN
+
+Mariuszu, Sullo, możecie odejść.
+
+/ Sulla i Mariusz wychodzą. /
+
+
+HELENA
+
+Są okrrropni! To ohydne, co tu robicie!
+
+
+DOMIN
+
+Dlaczego ohydne?
+
+
+HELENA
+
+Nie wiem. Dlaczego — dlaczego dał jej pan na imię Sulla?
+
+
+DOMIN
+
+Nieładne imię?
+
+
+HELENA
+
+To imię męskie. Sulla był rzymskim wodzem.
+
+
+DOMIN
+
+Och, a my myśleliśmy, że Sulla i Mariusz to para kochanków.
+
+
+HELENA
+
+Nie, Sulla i Mariusz byli dowódcami i walczyli przeciwko sobie w roku — w roku — zapomniałam którym.
+
+
+DOMIN
+
+Proszę podejść tutaj, do okna. Co pani widzi?
+
+
+HELENA
+
+Murarzy.
+
+
+DOMIN
+
+To są roboty. Wszyscy nasi pracownicy fizyczni to roboty. A tu, w dole, widzi pani coś?
+
+
+HELENA
+
+Jakieś biuro.
+
+
+DOMIN
+
+Księgowość. A w niej —
+
+
+HELENA
+
+— mnóstwo urzędników.
+
+
+DOMIN
+
+To roboty. Wszyscy nasi urzędnicy to roboty. Gdy zobaczy pani fabrykę —
+
+/ Wtem rozlegają się gwizdki i syreny fabryczne. /
+
+
+DOMIN
+
+Południe. Roboty nie wiedzą, co to przerwa w pracy. O drugiej pokażę pani dzieże.
+
+
+HELENA
+
+Jakie dzieże?
+
+
+DOMIN
+
+/ oschle /
+
+Mieszalniki do ciasta. W każdym miesza się materiał na tysiąc robotów. Potem obejrzymy kadzie na wątroby, mózgi i tak dalej. Następnie zobaczy pani wytwórnię kości. A później przejdziemy do przędzalni.
+
+
+HELENA
+
+Jakiej przędzalni?
+
+
+DOMIN
+
+Przędzalni nerwów. Przędzalni żył. Przędzalni, w której biegną naraz całe kilometry rur układu pokarmowego. Potem jest montownia, gdzie wszystko składa się razem, wie pani, tak jak samochody. Każdy robotnik instaluje tylko jeden element, po czym całość samoczynnie przesuwa się w stronę drugiego, trzeciego pracownika i tak w nieskończoność. To najciekawsze widowisko. Potem przychodzi czas na suszarnię i magazyn, gdzie świeże wyroby pracują.
+
+
+HELENA
+
+Na miłość boską, od razu muszą pracować?
+
+
+DOMIN
+
+Przepraszam. Pracują, tak jak pracuje nowy mebel. Przystosowują się do istnienia. Jakby scalały się w środku albo coś w tym stylu. Sporo im zresztą przyrasta we wnętrzu. Rozumie pani, musimy zostawić w nich nieco miejsca na naturalny rozwój. Tymczasem wyroby przechodzą apreturę.
+
+
+HELENA
+
+Co to znaczy?
+
+
+DOMIN
+
+Tyle co u ludzi szkoła. Uczą się mówić, pisać i liczyć. Mają rewelacyjną pamięć. Gdyby przeczytała im pani dwudziestotomowy słownik terminologii naukowej, powtórzą pani wszystko po kolei. Ale nic nowego nigdy nie wymyślą. Mogłyby z powodzeniem wykładać na uniwersytetach. Potem sortuje się je i rozsyła. Piętnaście tysięcy sztuk dziennie, nie licząc stałego odsetka wadliwych, które wrzuca się pod zgniatarkę… I tak dalej, i tak dalej.
+
+
+HELENA
+
+Jest pan na mnie zły?
+
+
+DOMIN
+
+Broń Boże! Tylko myślę sobie, że… Moglibyśmy pomówić o innych rzeczach. Jest nas tu ledwie garstka pośród stu tysięcy robotów, w tym żadnej kobiety. Rozmawiamy wyłącznie o produkcji, całymi dniami, codziennie — jakby ktoś rzucił na nas zaklęcie, panno Glory.
+
+
+HELENA
+
+Tak mi przykro, że powiedziałam, że — że — że pan kłamie —
+
+/ Pukanie do drzwi. /
+
+
+DOMIN
+
+Wejdźcie, chłopcy.
+
+/ Z lewej strony wchodzą inż. Fabry, dr Gall, dr Hallemeier, budowniczy Alquist. /
+
+
+DR GALL
+
+Wybaczcie, nie przeszkadzamy?
+
+
+DOMIN
+
+Proszę podejść, panno Glory, to Alquist, Fabry, Gall, Hallemeier. Córka prezesa Glory'ego.
+
+
+HELENA
+
+/ zmieszana /
+
+Dzień dobry.
+
+
+FABRY
+
+Nie spodziewaliśmy się —
+
+
+DR GALL
+
+Wyjątkowy to zaszczyt —
+
+
+ALQUIST
+
+Witamy, panno Glory.
+
+/ Z prawej strony wchodzi Busman. /
+
+
+BUSMAN
+
+Halo, co tu się dzieje?
+
+
+DOMIN
+
+Wchodź, Busman. Oto nasz Busman, panienko. Córka prezesa Glory'ego.
+
+
+HELENA
+
+Miło mi.
+
+
+BUSMAN
+
+Ojejku, a to ci święto! Panno Glory, możemy zatelegrafować do gazet, że raczyła pani nas odwiedzić — ?
+
+
+HELENA
+
+Nie, nie, bardzo pana proszę!
+
+
+DOMIN
+
+Proszę usiąść, panienko.
+
+
+FABRY
+
+/ podsuwa fotel /
+
+Proszę —
+
+
+BUSMAN
+
+/ podsuwa fotel /
+
+Pani raczy —
+
+
+DR GALL
+
+/ podsuwa fotel /
+
+Za pozwoleniem —
+
+
+ALQUIST
+
+Jak minęła podróż, panno Glory?
+
+
+DR GALL
+
+Zatrzyma się pani u nas dłużej?
+
+
+FABRY
+
+Panno Glory, co pani powie o fabryce?
+
+
+HALLEMEIER
+
+Przypłynęła pani „Amelią”?
+
+
+DOMIN
+
+Cicho, dajcie coś powiedzieć pannie Glory.
+
+
+HELENA
+
+/ zwracając się do Domina /
+
+O czym mam z nimi rozmawiać?
+
+
+DOMIN
+
+/ ze zdumieniem /
+
+O czym tylko pani chce.
+
+
+HELENA
+
+Mam… Mogę mówić całkiem otwarcie?
+
+
+DOMIN
+
+Naturalnie.
+
+
+HELENA
+
+/ waha się, a potem desperacko wali prosto z mostu /
+
+Powiedzcie, nie jest wam czasem przykro, że tak się z wami obchodzą?
+
+
+FABRY
+
+Kto taki?
+
+
+HELENA
+
+Wszyscy ludzie.
+
+/ Obecni spoglądają po sobie, oniemiali. /
+
+
+ALQUIST
+
+Z nami?
+
+
+DR GALL
+
+Niby czemu?
+
+
+HALLEMEIER
+
+Tam do licha!
+
+
+BUSMAN
+
+Uchowaj Boże, panno Glory!
+
+
+HELENA
+
+Jak to, nie czujecie, że wasza dola mogłaby być lepsza?
+
+
+DR GALL
+
+To zależy, panienko. Co konkretnie ma pani na myśli?
+
+
+HELENA
+
+Mam na myśli, że —
+
+/ wybucha /
+
+— że to ohydne! Że to straszne!
+
+/ wstaje /
+
+Cała Europa mówi o tym, co tu się z wami dzieje. Po to przyjechałam, żeby wszystko zobaczyć na własne oczy, ale sprawy mają się tysiąc razy gorzej, niż ktokolwiek mógłby przypuszczać! Jak możecie znosić coś takiego?
+
+
+ALQUIST
+
+Co znosić?
+
+
+HELENA
+
+Swoje położenie. Na miłość boską, przecież jesteście ludźmi tak jak my, jak cała Europa, jak cały świat! To skandaliczne, niegodne, w jakich warunkach żyjecie!
+
+
+BUSMAN
+
+Wielkie nieba, panienko!
+
+
+FABRY
+
+Nie, chłopcy, ona ma trochę racji. Faktycznie żyjemy tu jak Indianie.
+
+
+HELENA
+
+Gorzej niż Indianie! Czy mogę, ach, czy pozwolicie mi mówić do siebie „bracia”?
+
+
+BUSMAN
+
+Na miły Bóg, a czemuż by nie?
+
+
+HELENA
+
+Bracia, nie przybyłam tu jako córka prezesa. Przybyłam w imieniu Ligi Ludzkości. Bracia, Liga Ludzkości liczy już ponad dwieście tysięcy członków. Dwieście tysięcy osób wspiera was i oferuje swoją pomoc.
+
+
+BUSMAN
+
+Dwieście tysięcy osób, o Boziu, to całkiem sporo, naprawdę bardzo ładnie.
+
+
+FABRY
+
+Zawsze powtarzałem, że nie ma to jak stara Europa. Widzicie? Nie zapomniała o nas. Oferuje nam pomoc.
+
+
+DR GALL
+
+Jaką pomoc? Teatr?
+
+
+HALLEMEIER
+
+Orkiestrę?
+
+
+HELENA
+
+Znacznie więcej.
+
+
+ALQUIST
+
+Panią we własnej osobie?
+
+
+HELENA
+
+Och, a cóż tam po mnie! Zostanę tak długo, jak będzie trzeba.
+
+
+BUSMAN
+
+Dobry Boże, co za radość!
+
+
+ALQUIST
+
+Domin, idę przygotować dla panienki najlepszy pokój.
+
+
+DOMIN
+
+Chwileczkę. Obawiam się, że — że — panna Glory jeszcze nie skończyła.
+
+
+HELENA
+
+Nie, nie skończyłam. Chyba że zaknebluje mi pan usta.
+
+
+DR GALL
+
+Harry, ani mi się waż!
+
+
+HELENA
+
+Dziękuję. Wiedziałam, że weźmiecie mnie w obronę.
+
+
+DOMIN
+
+Za pozwoleniem, panno Glory. Jest pani pewna, że rozmawia z robotami?
+
+
+HELENA
+
+/ zastyga /
+
+A z kimże by innym?
+
+
+DOMIN
+
+Przykro mi. Ci panowie są takimi samymi ludźmi jak pani. Jak cała Europa.
+
+
+HELENA
+
+/ zwracając się do pozostałych /
+
+To wy nie jesteście robotami?
+
+
+BUSMAN
+
+/ rżąc ze śmiechu /
+
+Niech ręka boska broni!
+
+
+HALLEMEIER
+
+Robotami, a fe!
+
+
+DR GALL
+
+/ ze śmiechem /
+
+Wielkie dzięki!
+
+
+HELENA
+
+Ależ… to niemożliwe!
+
+
+FABRY
+
+Słowo honoru, panienko, nie jesteśmy robotami.
+
+
+HELENA
+
+/ do Domina /
+
+To po co mi pan mówił, że wszyscy wasi urzędnicy to robotowie?
+
+
+DOMIN
+
+Urzędnicy owszem. Ale nie dyrektorzy. Pani pozwoli, panno Glory: inżynier Fabry, generalny dyrektor techniczny Robotów Uniwersalnych Rossuma. Doktor Gall, kierownik działu fizjologiczno-badawczego. Doktor Hallemeier, kierownik wydziału do spraw Psychologii i Szkolenia Robotów. Konsul Busman, generalny dyrektor handlowy oraz budowniczy Alquist, kierownik rozbudowy Robotów Uniwersalnych Rossuma.
+
+
+HELENA
+
+Panowie, wybaczcie, że — że — — Czy to okrrropne, co narobiłam?
+
+
+ALQUIST
+
+Ale gdzie tam, panno Glory. Proszę usiąść.
+
+
+HELENA
+
+/ siada /
+
+Ależ jestem niemądra. Teraz — teraz pewnie odeślą mnie panowie pierwszym statkiem.
+
+
+DR GALL
+
+Za nic w świecie, panienko. Czemu mielibyśmy to robić?
+
+
+HELENA
+
+No bo już wiecie — no bo — no bo podburzałabym wam robotów.
+
+
+DOMIN
+
+Droga panno Glory, były już tutaj setki zbawicieli i proroków. Każdy statek przywozi nam jakiegoś. Misjonarze, anarchiści, Armia Zbawienia, co tylko istnieje. Można się zdziwić, ile jest na świecie religii i ilu wariatów.
+
+
+HELENA
+
+I pozwala im pan przemawiać do robotów?
+
+
+DOMIN
+
+A czemuż by nie? Jak na razie każdy z przyjezdnych dawał sobie spokój. Roboty wszystko zapamiętują, ale nic poza tym. Nawet nie śmieją się z tego, co mówią do nich ludzie. Naprawdę, aż nie chce się wierzyć. Jeśli ma pani ochotę, zaprowadzę panią do magazynu robotów. Jest ich tam ze trzysta tysięcy.
+
+
+BUSMAN
+
+Trzysta czterdzieści siedem tysięcy.
+
+
+DOMIN
+
+Zgadza się. Niech pani sobie do nich przemawia, ile dusza zapragnie. Może im pani czytać Biblię, logarytmy i co tam pani chce. Może im pani nawet wygłosić wykład o prawach człowieka.
+
+
+HELENA
+
+Och, myślę, że… gdyby okazać im odrobinę miłości —
+
+
+FABRY
+
+To niemożliwe, panno Glory. Nie ma nic bardziej obcego człowiekowi niż robot.
+
+
+HELENA
+
+To dlaczego ich tworzycie?
+
+
+BUSMAN
+
+Cha, cha, cha, cha, a to dobre! Po co się robi roboty?
+
+
+FABRY
+
+Do pracy, panienko. Jeden robot zastępuje dwóch i pół robotnika. Ludzka maszyna, panno Glory, była wybitnie niedoskonała. Musiało się ją kiedyś wreszcie wyeliminować.
+
+
+BUSMAN
+
+Była za droga.
+
+
+FABRY
+
+Za mało wydajna. Nie nadążała za nowoczesną techniką. A po drugie — po drugie — to wielki postęp, że… Przepraszam.
+
+
+HELENA
+
+Za co?
+
+
+FABRY
+
+Panienka wybaczy. To wielki postęp rodzić przy użyciu maszyny. Tak jest szybciej i wygodniej. Każda forma przyśpieszenia to progres, panienko. Natura nie miała pojęcia o nowoczesnym tempie pracy. Technicznie rzecz biorąc, dzieciństwo to czysty bezsens. Po prostu strata czasu. Nieopłacalne szastanie czasem, panno Glory. A po trzecie —
+
+
+HELENA
+
+Och, niechże pan przestanie!
+
+
+FABRY
+
+Proszę bardzo. Za pozwoleniem, czego właściwie żąda ta pani Liga — — Liga — Liga Ludzkości?
+
+
+HELENA
+
+Ma przede wszystkim — w szczególności ma chronić robotów i — i — zapewnić, żeby — dobrze się z nimi obchodzono.
+
+
+FABRY
+
+To nie jest zły postulat. Z maszyną należy dobrze się obchodzić. Z ręką na sercu, to godne pochwały. Nie lubię poniszczonych rzeczy. Panno Glory, proszę nas wszystkich zapisać jako kandydatów, jako pełnoprawnych, jako założycielskich członków tej pani Ligi!
+
+
+HELENA
+
+Nie, pan mnie w ogóle nie rozumie. My chcemy — w szczególności — żądamy uwolnienia robotów!
+
+
+HALLEMEIER
+
+W jaki sposób?
+
+
+HELENA
+
+Należy ich traktować… traktować… jak ludzi.
+
+
+HALLEMEIER
+
+Aha. Może powinny mieć prawo głosu? Mają pić piwo? Mają nam rozkazywać?
+
+
+HELENA
+
+Czemu nie mogliby głosować?
+
+
+HALLEMEIER
+
+A nie mają aby dostawać wynagrodzenia?
+
+
+HELENA
+
+Oczywiście, że mają!
+
+
+HALLEMEIER
+
+Patrzcie państwo. A co, pani zdaniem, miałyby z nim robić?
+
+
+HELENA
+
+Kupowaliby sobie… co tam potrzebują… na co by mieli ochotę.
+
+
+HALLEMEIER
+
+Bardzo to szczytne, panienko; tylko że robot nie ma ochoty na nic. Do diaska, co niby miałby sobie kupić? Roboty można karmić ananasami, słomą, czym tylko pani chce; im jest wszystko jedno, bo nie posiadają zmysłu smaku. Niczym się nie interesują, panno Glory. Tam do licha, nikt jeszcze nie widział, żeby robot się uśmiechnął.
+
+
+HELENA
+
+Dlaczego… dlaczego… dlaczego nie stworzycie ich szczęśliwszymi?
+
+
+HALLEMEIER
+
+Nie da się, panno Glory. To tylko roboty.
+
+
+HELENA
+
+Och, przecież mają taki rozum!
+
+
+HALLEMEIER
+
+Diabelny rozum, droga panno, ale to wszystko. Bez własnej woli. Bez pragnień. Bez historii. Bez duszy.
+
+
+HELENA
+
+Bez miłości i niechęci?
+
+
+HALLEMEIER
+
+Ma się rozumieć. Roboty nie kochają niczego, nawet siebie. A niechęć? Czy ja wiem; tylko z rzadka, czasami —
+
+
+HELENA
+
+Co?
+
+
+HALLEMEIER
+
+W sumie nic takiego. Czasem jakby wariują. Jak gdyby łapał je atak padaczki, wie pani? Mówi się na to kurcz roboci. Nagle któryś ciska tym, co trzyma w ręku, po czym staje, zgrzytając zębami — i musi iść pod zgniatarkę. Najwyraźniej defekt organizmu.
+
+
+DOMIN
+
+Wada w produkcji. Trzeba ją usunąć.
+
+
+HELENA
+
+Nie, nie, to jest dusza!
+
+
+FABRY
+
+Pani zdaniem dusza przejawia się zgrzytaniem zębami?
+
+
+HELENA
+
+Nie wiem. Może to przejaw oporu. Może to właśnie jest znak, że z czymś się mocują — — Och, gdybyście zdołali rozniecić w nich tę iskrę!
+
+
+DOMIN
+
+To się zniweluje, panno Glory. Doktor Gall już prowadzi pewne eksperymenty —
+
+
+DR GALL
+
+Nad tym akurat nie, Domin; chwilowo tworzę nerwy bólowe.
+
+
+HELENA
+
+Nerwy bólowe?
+
+
+DR GALL
+
+Tak. Roboty niemalże nie odczuwają bólu fizycznego. Wie pani, nieboszczyk młody Rossum nazbyt ograniczył układ nerwowy. To się nie sprawdziło. Musimy wprowadzić cierpienie.
+
+
+HELENA
+
+Dlaczego — dlaczego — Skoro nie dajecie im duszy, dlaczego chcecie dołożyć im cierpienie?
+
+
+DR GALL
+
+Z przyczyn technicznych, panno Glory. Robot czasami uszkadza się sam, ponieważ go to nie boli; włoży rękę w maszynę, złamie sobie palec, rozbije głowę — wszystko mu jedno. Musimy dać im ból; to automatyczna ochrona przed urazem.
+
+
+HELENA
+
+Będą szczęśliwsi, gdy poczują ból?
+
+
+DR GALL
+
+Przeciwnie; ale udoskonalimy je technicznie.
+
+
+HELENA
+
+Dlaczego nie stworzycie im duszy?
+
+
+DR GALL
+
+To nie leży w naszej mocy.
+
+
+FABRY
+
+To nie leży w naszym interesie.
+
+
+BUSMAN
+
+To by podrożyło produkcję, piękna pani. Boże kochany, przecież my to wyrabiamy tak taniutko! Jedna sztuka w odzieniu — sto dwadzieścia dolarów, a przed piętnastoma laty kosztowała dziesięć tysięcy! Pięć lat temu sprowadzaliśmy ubranka dla nich; dziś mamy własne tkalnie, a do tego eksportujemy nasze tkaninki pięć razy taniej niż inne fabryki. Panno Glory, ile pani płaci za metr płótna?
+
+
+HELENA
+
+Nie wiem — — naprawdę — — — nie pamiętam.
+
+
+BUSMAN
+
+Jak Bozię kocham, i pani chce zakładać Ligę Ludzkości! Kosztuje już ledwie jedną trzecią, tak jak wszystko, a ceny jeszcze pójdą w dół, w dół i w dół, aż — no właśnie. Hę?
+
+
+HELENA
+
+Nie rozumiem.
+
+
+BUSMAN
+
+O, niebiosa, panienko, to znaczy, że spadły ceny zatrudnienia! Przecież robot, nawet z karmą, kosztuje trzy czwarte cencika za godzinę! To śmiechu warte, panienko: wszystkie fabryki padają jak muchy albo biegusiem wykupują roboty, żeby potanić produkcję.
+
+
+HELENA
+
+Tak, i wyrzucają robotników na bruk.
+
+
+BUSMAN
+
+Cha, cha, ma się rozumieć! A my — o, boska dobroci, my tymczasem rzuciliśmy pięćset tysięcy robotów tropikalnych na argentyńskie pampy, żeby uprawiały pszenicę. Proszę mi łaskawie powiedzieć, ile kosztuje u pani bochenek chleba?
+
+
+HELENA
+
+Nie mam pojęcia.
+
+
+BUSMAN
+
+Widzi pani: teraz kosztuje dwa cenciki w tej waszej starej dobrej Europie; ale to jest *nasz* chlebuś, rozumie pani? Dwa cenciki za bochenek — a Liga Ludzkości nie ma o tym pojęcia! Cha, cha, panno Glory, pani nie wie, co to znaczy zbyt drogi kawałek chleba. Dla kultury i tak dalej. Ale za pięć lat — no już, załóżmy się!
+
+
+HELENA
+
+O co?
+
+
+BUSMAN
+
+Że za pięć lat ceny wszystkiego zejdą do jednej dziesiątej. Ludkowie, za pięć lat utopimy się w pszenicy i w ogóle we wszystkim.
+
+
+ALQUIST
+
+Tak, i wszyscy robotnicy na świecie zostaną bez pracy.
+
+
+DOMIN
+
+/ wstaje /
+
+Tak się stanie, Alquist. Tak się stanie, panno Glory. Ale przez dziesięć lat Roboty Uniwersalne Rossuma naprodukują tyle pszenicy, tyle tkanin, tyle wszystkiego, że będziemy mogli oznajmić: rzeczy nie mają już cen. Teraz każdy bierze tyle, ile mu potrzeba. Nie ma biedy. Owszem, zostaną bez pracy. Tylko że w ogóle nie będzie już pracy. Wszystko będą robić żywe maszyny. Roboty ubiorą nas i nakarmią. Roboty ulepią cegły i zbudują nasze domy. Roboty będą za nas stawiać cyfry i zamiatać nasze schody. Nie będzie pracy. Człowiek zajmie się tylko tym, co kocha. Wyzwoli się z trosk i poniżenia harówką. Będzie żył tylko po to, aby się doskonalić.
+
+
+HELENA
+
+/ wstaje /
+
+Naprawdę tak będzie?
+
+
+DOMIN
+
+Tak będzie. Nie może być inaczej. Wcześniej może nadejdą straszne wydarzenia, panno Glory. Tego po prostu nie da się uniknąć. Ale potem skończy się wyzysk człowieka przez człowieka i niewolnictwo względem materii. Znużeni i głodni zasiądą do stołu. Roboty umyją nogi żebrakowi i pościelą mu łoże w jego własnym domu. Nikt nie będzie już płacił za chleb życiem i nienawiścią. Ty nie jesteś już robotnikiem, ty nie jesteś już księgowym; ty już nie kopiesz węgla, a ty nie stoisz przy cudzej maszynie. Nie będziesz już zatracać swej duszy w pracy, którąś przeklinał!
+
+
+ALQUIST
+
+Domin, Domin! To, co mówisz, jawi się raczej jako raj. Ale, Domin, było coś dobrego w służbie i coś doniosłego w korzeniu się. Ach, Harry, praca i znój były jakąś tam cnotą.
+
+
+DOMIN
+
+Może i były. Ale nie możemy oglądać się na to, co przemija, gdy przerabiamy świat taki, jakim go znamy od Adama. Adamie, Adamie! Nie będziesz już spożywał chleba swego w pocie czoła; nie zaznasz już głodu i pragnienia, upokorzenia i znoju; wrócisz do raju, gdzie żywiła cię ręka Pana. Będziesz wolny i swobodny; jedynym twym zadaniem, jedyną pracą, troską będzie doskonalenie samego siebie. Nie będziesz służył materii ani człowiekowi. Nie będziesz maszyną ani środkiem produkcji. Będziesz panem stworzenia.
+
+
+BUSMAN
+
+Amen.
+
+
+FABRY
+
+Niechaj się stanie.
+
+
+HELENA
+
+Zamieszał mi pan w głowie. Głupia za mnie dziewczyna. Chciałabym — chciałabym w to wierzyć.
+
+
+DR GALL
+
+Jest pani młodsza od nas, panno Glory. Doczeka się pani wszystkiego.
+
+
+HALLEMEIER
+
+Właśnie. I uważam, że panna Glory mogłaby zjeść z nami śniadanie.
+
+
+DR GALL
+
+Świetna myśl! Domin, zaproś panienkę w imieniu nas wszystkich.
+
+
+DOMIN
+
+Panno Glory, niech nam pani uczyni ten honor.
+
+
+HELENA
+
+Ale to przecież — Jakżebym śmiała?
+
+
+FABRY
+
+Za Ligę Ludzkości, panienko!
+
+
+BUSMAN
+
+Na jej cześć!
+
+
+HELENA
+
+Och, w takim razie — no, może —
+
+
+FABRY
+
+Wyśmienicie! Panno Glory, proszę wybaczyć na pięć minutek.
+
+
+DR GALL
+
+Przepraszam.
+
+
+BUSMAN
+
+Przebóg, muszę zatelegrafować —
+
+
+HALLEMEIER
+
+Tam do licha, na śmierć zapomniałem —
+
+/ Wszyscy oprócz Domina wypadają w pośpiechu. /
+
+
+HELENA
+
+Dlaczego oni wychodzą?
+
+
+DOMIN
+
+Gotować, panno Glory.
+
+
+HELENA
+
+Co gotować?
+
+
+DOMIN
+
+Śniadanie, panno Glory. Nam gotują roboty i — i — nie czują żadnego smaku, więc nie jest to tak całkiem… — Hallemeier za to wybornie grilluje. Gall zna się na sosach, a Busman ma rękę do omletów —
+
+
+HELENA
+
+Ojej, jaka gościna! A co potrafi pan — budowniczy —
+
+
+DOMIN
+
+Alquist? Nic. Tylko nakrywa do stołu, a — a Fabry wytrzaśnie jakieś owoce. Bardzo skromna jest ta nasza kuchnia, panno Glory.
+
+
+HELENA
+
+Chciałam pana zapytać —
+
+
+DOMIN
+
+Ja też chciałabym panią o coś spytać.
+
+/ Zdejmuje zegarek i kładzie na stole. /
+
+Mamy pięć minut.
+
+
+HELENA
+
+Spytać, o co?
+
+
+DOMIN
+
+O pardon, pani była pierwsza.
+
+
+HELENA
+
+Może to głupie pytanie z mojej strony, ale — Dlaczego produkujecie żeńskie roboty, skoro — skoro —
+
+
+DOMIN
+
+Skoro u nich płeć nie ma znaczenia?
+
+
+HELENA
+
+Tak.
+
+
+DOMIN
+
+Jest takie zapotrzebowanie, wie pani? Służące, sprzedawczynie, maszynistki — ludzie są przyzwyczajeni.
+
+
+HELENA
+
+I — niech pan mi zdradzi, czy robotowie — i robotessy — są wobec siebie — naprawdę tak całkiem —
+
+
+DOMIN
+
+Są sobie całkowicie obojętne, droga pani. Ani śladu jakiejkolwiek skłonności.
+
+
+HELENA
+
+Och, to — okrrropne!
+
+
+DOMIN
+
+Dlaczego?
+
+
+HELENA
+
+To takie — takie — nienaturalne! Człowiek nie wie, czy budzi to większą odrazę, czy — zazdrość — czy też może —
+
+
+DOMIN
+
+— litość.
+
+
+HELENA
+
+Chyba to najbardziej. — Nie, wystarczy tego! A o co pan chciał zapytać?
+
+
+DOMIN
+
+Miałem spytać, panno Glory, czy nie zechciałaby pani wyjść.
+
+
+HELENA
+
+Za drzwi?
+
+
+DOMIN
+
+Za mnie.
+
+
+HELENA
+
+Ja? Skądże znowu! Co też panu przyszło do głowy?
+
+
+DOMIN
+
+/ patrzy na zegarek /
+
+Jeszcze trzy minuty. Jeśli nie poślubi pani mnie, będzie pani zmuszona poślubić któregoś z pozostałych pięciu.
+
+
+HELENA
+
+Broń Boże! Czemu miałabym to robić?
+
+
+DOMIN
+
+Bo każdy po kolei panią o to poprosi.
+
+
+HELENA
+
+Co za zuchwalstwo!
+
+
+DOMIN
+
+Bardzo mi przykro, panno Glory. Zdaje się, że się w pani zakochali.
+
+
+HELENA
+
+Bardzo proszę, żeby tego nie robili! Ja — natychmiast stąd odpływam!
+
+
+DOMIN
+
+Heleno, chyba nie sprawi im pani takiej przykrości i nie odrzuci ich pani?
+
+
+HELENA
+
+Ale przecież — przecież nie mogę poślubić wszystkich sześciu!
+
+
+DOMIN
+
+W takim razie choć jednego. Jeśli nie ja, to może Fabry?
+
+
+HELENA
+
+Nie chcę!
+
+
+DOMIN
+
+Doktor Gall.
+
+
+HELENA
+
+Nie, nie, cicho! Nie chcę żadnego!
+
+
+DOMIN
+
+Jeszcze dwie minuty.
+
+
+HELENA
+
+To okrrropne! Niech się pan ożeni z jakąś robotessą.
+
+
+DOMIN
+
+To nie kobieta.
+
+
+HELENA
+
+Ach, tylko o to panu chodzi! Myślę, że — że pan byłby w stanie poślubić każdą, która tu przyjedzie.
+
+
+DOMIN
+
+Było ich tu na pęczki, Heleno.
+
+
+HELENA
+
+Młodych?
+
+
+DOMIN
+
+Młodych.
+
+
+HELENA
+
+Dlaczego żadnej pan nie poślubił?
+
+
+DOMIN
+
+Bo dla żadnej nie straciłem głowy. Aż do dziś. Od razu, gdy uniosła pani woalkę.
+
+
+HELENA
+
+— — Wiem.
+
+
+DOMIN
+
+Została minuta.
+
+
+HELENA
+
+Ale, na miłość boską, ja nie mam ochoty!
+
+
+DOMIN
+
+/ kładzie jej obie ręce na ramionach /
+
+Jeszcze minuta. Niech mi pani powie coś strasznie przykrego, patrząc prosto w oczy, wtedy zostawię panią w spokoju. Albo — albo —
+
+
+HELENA
+
+Pan jest brutal!
+
+
+DOMIN
+
+To nic takiego. Mężczyzna musi być trochę brutalny. Taka jego rola.
+
+
+HELENA
+
+Pan jest wariat!
+
+
+DOMIN
+
+Człowiek powinien być trochę wariatem, Heleno. To w nim najlepsze.
+
+
+HELENA
+
+Pan jest — pan jest — o Boże!
+
+
+DOMIN
+
+Widzi pani. To wszystko?
+
+
+HELENA
+
+Nie, nie! Proszę mnie puścić! Poszarrrpie mnie pan!
+
+
+DOMIN
+
+Ostatnie słowo, Heleno.
+
+
+HELENA
+
+/ broniąc się /
+
+Za nic w świecie — Ależ Harry!
+
+/ Pukanie. /
+
+
+DOMIN
+
+/ puszcza ją /
+
+Wejść!
+
+/ Wchodzą Busman, dr Gall i Hallemeier w kuchennych fartuchach, Fabry z bukietem kwiatów, a Alquist z obrusem pod pachą. /
+
+
+DOMIN
+
+I jak, uczta godna naszej panny Heleny?
+
+
+BUSMAN
+
+/ uroczyście /
+
+Zaręczamy!
+
+
+DOMIN
+
+Hm, my też coś w tym stylu.
+
+/ Kurtyna. /
+
+
+
+
+Akt pierwszy
+
+
+
+Salonik Heleny. Po lewej drzwi pokryte tapetą oraz drzwi do pokoju muzycznego, po prawej drzwi do sypialni Heleny. Na wprost — okna z widokiem na morze i przystań. Toaletka z lustrem, na niej drobiazgi; stół, kanapa, komoda, małe biurko ze stojącą lampką, po prawej kominek, na nim również lampy. Cały pokój, aż po najmniejszy szczegół, ma nowoczesny i typowo kobiecy charakter.
+
+
+
+Domin, Fabry, Hallemeier wchodzą z lewej strony na palcach, niosąc naręcza kwiatów ciętych i w doniczkach.
+
+
+FABRY
+
+Gdzie to postawić?
+
+
+HALLEMEIER
+
+Uff!
+
+/ Składa ładunek na podłodze i szerokim gestem żegna znakiem krzyża drzwi po prawej. /
+
+Śpij, śpij! Kto śpi, przynajmniej o niczym nie wie.
+
+
+DOMIN
+
+Ona nie wie nic a nic.
+
+
+FABRY
+
+/ wstawiając kwiaty do wazonów /
+
+Oby tylko dziś się nie wydało —
+
+
+HALLEMEIER
+
+/ poprawiając kwiaty /
+
+Dajcie spokój, do diabła! Patrz, Harry, jaki piękny fiołek, co? Nowa odmiana, moje najświeższe dokonanie: cyklamen „*HELENA*”.
+
+
+DOMIN
+
+/ wygląda przez okno /
+
+Żadnego statku, żadnego! — Chłopcy, zaczyna się robić niewesoło.
+
+
+HALLEMEIER
+
+Cicho! Jeszcze cię usłyszy!
+
+
+DOMIN
+
+Nic nie podejrzewa.
+
+/ Ziewa gorączkowo. /
+
+Przynajmniej „Ultimus” zawinął punktualnie.
+
+
+FABRY
+
+/ porzuca kwiaty /
+
+Myślisz, że to już dziś — ?
+
+
+DOMIN
+
+Nie wiem. — Ależ te kwiaty piękne!
+
+
+HALLEMEIER
+
+/ pochodzi do niego /
+
+To nowe prymule, widzisz? A to mój najnowszy jaśmin. Tam do licha, jestem o krok od stworzenia kwietnego raju. Nie uwierzysz, wynalazłem fantastyczny przyśpieszacz wzrostu! Wspaniałe odmiany! W przyszłym roku zdziałam w kwiatach cuda!
+
+
+DOMIN
+
+/ odwraca się /
+
+Co? W przyszłym roku?
+
+
+FABRY
+
+Żeby tak się chociaż dowiedzieć, co tam w Hawrze —
+
+
+DOMIN
+
+Cicho!
+
+
+GŁOS HELENY
+
+/ z prawej /
+
+Maniu!
+
+
+DOMIN
+
+Już nas nie ma
+
+/ Wszyscy wychodzą na palcach przez drzwi oklejone tapetą. /
+
+/ Głównymi drzwiami wchodzi Mania. /
+
+
+MANIA
+
+/ sprzątając /
+
+Nicpoń szkaradny! Poganin! Boże, nie karz mnie, ale ja bym ich tak jednego z drugim —
+
+
+HELENA
+
+/ tyłem, w drzwiach /
+
+Maniu, chodź, zapnij mnie!
+
+
+MANIA
+
+No zara, zara. A co to, paniusia już na nogach?
+
+/ Zapina Helenie suknię. /
+
+Chryste Panie, toż to istna dzicz!
+
+
+HELENA
+
+Kto?
+
+
+MANIA
+
+Niech siedzi prosto. Jak chce się wiercić, to niech się wierci, ale ja jej zapinała nie będę.
+
+
+HELENA
+
+A ty czemu znowu gderasz?
+
+
+MANIA
+
+Przecie zgroza bierze, co te pogany —
+
+
+HELENA
+
+Robotowie?
+
+
+MANIA
+
+Tfu, nawet to słowo nie chce mi przejść przez gardło.
+
+
+HELENA
+
+Co się stało?
+
+
+MANIA
+
+Znowu jednego u nas siekło. Jak nie zacznie ciskać czym popadnie w rzeźby i obrazy, zębami zgrzytać, pianę z gęby toczyć — Jakby szmergla dostał, brr. Toż to gorsze niż zwierzę!
+
+
+HELENA
+
+Którego?
+
+
+MANIA
+
+Tego — tego — Przecie to ani chrześcijańskiego imienia ni ma! Tego z biblioteki.
+
+
+HELENA
+
+Radiusa?
+
+
+MANIA
+
+A jego, jego. Słodki Jezu, jak mnie toto obrzydza! Nawet pająk tak mnie nie obrzydza jak te pogany.
+
+
+HELENA
+
+Ależ Maniu, nie jest ci ich żal?
+
+
+MANIA
+
+Paniusia też się brzydzi, przecie widzę. Czemu mnie tu ze sobą przywiozła? Czemu żadne z nich dotknąć się jej nie może?
+
+
+HELENA
+
+Nie brzydzą mnie, na mą duszę, Maniu. Tak bardzo mi ich szkoda!
+
+
+MANIA
+
+Obrzydzają paniusię. Każdego człowieka muszą obrzydzać. Toć nawet pies się brzydzi, ani ździebka mięsa od nich nie weźmie; tylko ogon pod siebie i wyje, ino poczuje to diabelskie nasienie, a tfu.
+
+
+HELENA
+
+Pies jest nierozumny.
+
+
+MANIA
+
+Lepszejszy niż oni, Helenko. A i sam wie, że jest więcej wart, bo go Pan Bóg stworzył. Toć i kuń się płoszy, jak na pogana się napatoczy. Przecie to ani młodych nie ma, a nawet pies ma młode, wszystko ma młode —
+
+
+HELENA
+
+Proszę cię, Maniu, zapinaj!
+
+
+MANIA
+
+No już. Wspomnicie moje słowa, to wbrew Panu Bogu; to szatan każe składać te maszkary maszynowo. To bluźnierstwo przeciwko Stworzycielowi —
+
+/ podnosi rękę /
+
+zniewaga imienia Pana, który nas stworzył na *swój obraz i podobieństwo*, Helenko. A wyście zbezcześcili obraz boży. Za to spadnie z nieba straszliwa kara, wspomnicie moje słowa!
+
+
+HELENA
+
+Co tu tak pachnie?
+
+
+MANIA
+
+Kwiatki. Pan przyniósł.
+
+
+HELENA
+
+Och, jakie piękne! Spójrz, Maniu! Czy dziś jest jakiś szczególny dzień?
+
+
+MANIA
+
+Ja tam nie wiem. Bodajby i koniec świata.
+
+/ Pukanie do drzwi. /
+
+
+HELENA
+
+Harry?
+
+/ Wchodzi Domin. /
+
+
+HELENA
+
+Harry, co to za okazja?
+
+
+DOMIN
+
+Zgadnij!
+
+
+HELENA
+
+Mam imieniny? Nie! Urodziny?
+
+
+DOMIN
+
+Lepiej.
+
+
+HELENA
+
+Nie wiem — Mów szybko!
+
+
+DOMIN
+
+Dziś mija dziesięć lat od twojego przyjazdu.
+
+
+HELENA
+
+Już dziesięć lat? Właśnie dziś? — Maniu, proszę cię —
+
+
+MANIA
+
+A idę se, idę!
+
+/ Wychodzi prawą stroną. /
+
+
+HELENA
+
+/ całuje Domina /
+
+Że też pamiętałeś!
+
+
+DOMIN
+
+Wstyd mi, Heleno. Nie pamiętałem.
+
+
+HELENA
+
+Ale przecież —
+
+
+DOMIN
+
+To *oni* pamiętali.
+
+
+HELENA
+
+Kto?
+
+
+DOMIN
+
+Busman, Hallemeier, wszyscy. Nie chcesz sięgnąć do mojej kieszeni?
+
+
+HELENA
+
+/ wkłada mu rękę do kieszeni /
+
+Co to?
+
+/ wyjmuje szkatułkę i otwiera /
+
+Perły! Cały naszyjnik! To dla mnie, Harry?
+
+
+DOMIN
+
+Od Busmana, moje dziewczę.
+
+
+HELENA
+
+Ale — nie możemy tego przyjąć, prawda?
+
+
+DOMIN
+
+Możemy. Sięgnij do drugiej kieszeni.
+
+
+HELENA
+
+Pokaż!
+
+/ wyciąga mu z kieszeni rewolwer /
+
+Co to?
+
+
+DOMIN
+
+Pardon.
+
+/ wyjmuje rewolwer z jej dłoni i chowa /
+
+To nie to. Sięgnij jeszcze raz.
+
+
+HELENA
+
+Och, Harry — Dlaczego nosisz przy sobie rewolwer?
+
+
+DOMIN
+
+Ot, tak mi się nawinął pod rękę.
+
+
+HELENA
+
+Przecież nigdy nie nosiłeś!
+
+
+DOMIN
+
+Ano nie, masz rację. A więc? Kieszeń jest tu.
+
+
+HELENA
+
+/ wkłada rękę /
+
+Pudełko!
+
+/ otwiera /
+
+Kamea! Ale przecież — Harry, to *grecka* kamea!
+
+
+DOMIN
+
+Podobno. Tak przynajmniej twierdzi Fabry.
+
+
+HELENA
+
+Fabry? To prezent od niego?
+
+
+DOMIN
+
+Owszem.
+
+/ otwiera drzwi z lewej strony /
+
+Co my tu mamy? Heleno, spójrz!
+
+
+HELENA
+
+/ w drzwiach /
+
+Boże, jakie piękne!
+
+/ idzie dalej /
+
+Chyba zwariuję z radości! To od ciebie?
+
+
+DOMIN
+
+/ stojąc w drzwiach /
+
+Nie, od Alquista. A tam —
+
+
+HELENA
+
+Widzę! To na pewno od ciebie!
+
+
+DOMIN
+
+Jest bilecik.
+
+
+HELENA
+
+Od Galla!
+
+/ pojawia się w drzwiach /
+
+Och, Harry, jestem taka szczęśliwa, że aż wstyd.
+
+
+DOMIN
+
+Podejdź tutaj. To przyniósł dla ciebie Hallemeier.
+
+
+HELENA
+
+Te piękne kwiaty?
+
+
+DOMIN
+
+Te tutaj. To nowa odmiana, cyklamen „*HELENA*”. Wyhodował go na twoją cześć. Jest tak piękny jak ty.
+
+
+HELENA
+
+Harry, dlaczego — dlaczego wszyscy —
+
+
+DOMIN
+
+*Naprawdę* cię uwielbiają. A ja mam dla ciebie, hm… Obawiam się, że mój prezent jest trochę… — Popatrz przez okno.
+
+
+HELENA
+
+Gdzie?
+
+
+DOMIN
+
+Na przystań.
+
+
+HELENA
+
+Stoi tam… jakiś… nowy statek.
+
+
+DOMIN
+
+To twój statek.
+
+
+HELENA
+
+Mój? Jak to mój?
+
+
+DOMIN
+
+Żebyś mogła sobie wypływać na wycieczki — dla rozrywki —
+
+
+HELENA
+
+Harry, to okręt *artyleryjski*!
+
+
+DOMIN
+
+Artyleryjski? Co też ci przyszło do głowy? To tylko trochę większy, solidny statek, wiesz?
+
+
+HELENA
+
+Tak, ale ma działa!
+
+
+DOMIN
+
+No tak, ma kilka dział — Będziesz pływać jak królowa, Heleno.
+
+
+HELENA
+
+Co to znaczy? Czy coś się dzieje?
+
+
+DOMIN
+
+Broń Boże! Proszę cię, przymierz te perły.
+
+/ Siada. /
+
+
+HELENA
+
+Harry, nadeszły jakieś złe wieści?
+
+
+DOMIN
+
+Przeciwnie, od tygodnia nie było żadnej poczty.
+
+
+HELENA
+
+Nawet depeszy?
+
+
+DOMIN
+
+Nawet depeszy.
+
+
+HELENA
+
+Co to oznacza?
+
+
+DOMIN
+
+Nic. Wakacje. Bajeczny czas. Każdy z nas siedzi w biurze z nogami na stole i drzemie — Żadnej poczty, żadnych telegramów —
+
+/ przeciąga się /
+
+Wsss-paniały dzień!
+
+
+HELENA
+
+/ przysiada się /
+
+Dziś zostaniesz ze mną, tak? Powiedz!
+
+
+DOMIN
+
+Oczywiście. Może i tak. To znaczy, zobaczymy.
+
+/ bierze ją za rękę /
+
+A więc dziś mija dziesięć lat, odkąd tu przyjechałaś, pamiętasz? — Panno Glory, jakiż to zaszczyt, że pani do nas zawitała.
+
+
+HELENA
+
+Och, panie dyrektorze generalny, tak mnie ciekawi pańska praca!
+
+
+DOMIN
+
+Proszę wybaczyć, panno Glory, wprawdzie obowiązuje ścisły zakaz — produkcja sztucznych ludzi jest tajna —
+
+
+HELENA
+
+— lecz jeśli poprosi młoda, dość ładna dziewczyna —
+
+
+DOMIN
+
+Ależ zapewniam, panno Glory, przed panią nie mamy tajemnic.
+
+
+HELENA
+
+/ nagle poważniejąc /
+
+Na pewno nie, Harry?
+
+
+DOMIN
+
+Nie.
+
+
+HELENA
+
+/ takim tonem jak wcześniej /
+
+Ale ostrzegam pana, to młode dziewczę ma okrrropne intencje.
+
+
+DOMIN
+
+Rany boskie, panno Glory, jakież to? Chyba nie chce pani wyjść za mnie za mąż?
+
+
+HELENA
+
+Nie, nie, broń Boże! Nawet mi się nie śniło! Za to przyjechałam tu z zamiarem wzniecenia buntu wśród waszych ohydnych rrrobotów!
+
+
+DOMIN
+
+/ zrywa się /
+
+Bunt robotów!
+
+
+HELENA
+
+/ wstaje /
+
+Harry, co tobie?
+
+
+DOMIN
+
+Cha, cha, panno Glory, to się pani udało! Bunt robotów! Prędzej podburzy pani wrzeciona albo gwoździe niż nasze roboty!
+
+/ siada /
+
+Wiesz, Heleno, byłaś zachwycająca; wszyscy oszaleliśmy na twoim punkcie.
+
+
+HELENA
+
+/ siada przy nim /
+
+Och, jakże mi wówczas imponowaliście! Czułam się jak mała dziewczynka, która zabłądziła między — między —
+
+
+DOMIN
+
+Między co, Heleno?
+
+
+HELENA
+
+Między ogrrromne drzewa. Byliście tacy pewni siebie, tacy silni! Wszystko, co ja czułam, było tak wątłe w obliczu waszych przekonań! Ale widzisz, Harry, w ciągu tych dziesięciu lat nigdy nie minął mi ten — — — ten niepokój czy coś podobnego, za to wy nie zwątpiliście ani przez chwilę — Nawet gdy wszystko się komplikowało.
+
+
+DOMIN
+
+Co się komplikowało?
+
+
+HELENA
+
+Wasze plany, Harry. Na przykład gdy robotnicy protestowali przeciwko robotom i niszczyli ich albo kiedy ludzie dali robotom broń, by ci tłumili te powstania i robotowie zabili tylu ludzi — I gdy potem panujący zrobili z robotów żołnierzy i rozpętało się tyle wojen, i w ogóle, wiesz?
+
+
+DOMIN
+
+/ wstaje i zaczyna się przechadzać /
+
+Przewidywaliśmy to, Heleno. Rozumiesz, to tylko moment przejściowy — nim nastanie nowy ład.
+
+
+HELENA
+
+Byliście tacy silni, tak potężni — Cały świat legł wam u stóp —
+
+/ wstaje /
+
+Och, Harry!
+
+
+DOMIN
+
+Co takiego?
+
+
+HELENA
+
+/ zatrzymując go /
+
+Zamknij fabrykę i wyjedźmy! My wszyscy!
+
+
+DOMIN
+
+Proszę cię, gdzie tu związek?
+
+
+HELENA
+
+Nie wiem. Powiedz, wyjedziemy?
+
+
+DOMIN
+
+/ uwalniając się z jej ramion /
+
+Nie ma szans, Heleno. To znaczy, w tej chwili —
+
+
+HELENA
+
+Natychmiast, Harry! Jestem *taka* przerażona!
+
+
+DOMIN
+
+/ chwyta ją za ręce /
+
+Czym, Heleno?
+
+
+HELENA
+
+Och, nie wiem! Tak jakby coś się waliło na nas i na wszystko — nieuchronnie — Proszę cię, zrób, jak mówię! Zabierz nas wszystkich stąd! Znajdziemy na świecie miejsce, gdzie nie ma nikogo, Alquist zbuduje nam dom, wszyscy się pożenią i będą mieli dzieci, a potem —
+
+
+DOMIN
+
+Co potem?
+
+
+HELENA
+
+Potem zaczniemy życie od nowa, Harry.
+
+/ Dzwoni telefon. /
+
+
+DOMIN
+
+/ wyrywa się z objęć Heleny /
+
+Przepraszam cię.
+
+/ podnosi słuchawkę /
+
+Halo — tak. — — Co? — Aha. Już biegnę.
+
+/ odkłada słuchawkę /
+
+Fabry mnie wzywa.
+
+
+HELENA
+
+/ składa ręce /
+
+Powiedz —
+
+
+DOMIN
+
+Tak, jak wrócę. Żegnaj, Heleno.
+
+/ biegnie pośpiesznie w lewą stronę /
+
+Nie wychodź z domu!
+
+
+HELENA
+
+/ sama /
+
+O Boże, co się dzieje? Maniu! Maniu, szybko!
+
+
+MANIA
+
+/ wychodzi z prawej /
+
+Co tam znowu?
+
+
+HELENA
+
+Maniu, znajdź ostatnią gazetę! Prrrędko! W sypialni pana!
+
+
+MANIA
+
+Zara, zara.
+
+/ znika z lewej strony /
+
+
+HELENA
+
+Na miłość boską, co się dzieje? Nic, on mi nic nie mówi!
+
+/ patrzy na przystań przez lornetkę /
+
+To *jest* okręt wojenny! Boże, czemu wojenny? Coś na niego ładują — w takim pośpiechu! Co się wydarzyło? Na burcie jest nazwa — Ul-ti-mus. Co to jest „Ultimus”?
+
+
+MANIA
+
+/ wraca z gazetą /
+
+Po podłodze rozrzuca! Skaranie, żeby tak wymiąć!
+
+
+HELENA
+
+/ pośpiesznie otwiera gazetę /
+
+Stara, z zeszłego tygodnia! Nic, nic w niej nie ma!
+
+/ Upuszcza gazetę. /
+
+/ Mania podnosi ją, wyjmuje z kieszeni fartucha okulary w rogowych oprawkach, siada i czyta. /
+
+
+HELENA
+
+Coś się dzieje, Maniu! Taki lęk mnie ściska! Jakby wszystko zmartwiało, nawet powietrze —
+
+
+MANIA
+
+/ sylabizując /
+
+„Woj-na na Bał-ka-nach”. Ach Jezusie, znowu kara boska! Toć ta wojna dojdzie i tutaj. Daleko to od nas?
+
+
+HELENA
+
+Daleko. Och, nie czytaj tego! Ciągle to samo, wciąż tylko te wojny —
+
+
+MANIA
+
+A co ma ich nie być? Co, nie sprzedajemy w kółko tysiące tysięcy tych poganów na żołnierzy?
+
+
+HELENA
+
+Przecież inaczej się nie da, Maniu. Skąd my możemy — skąd Domin ma wiedzieć, w jakim celu ktoś ich zamawia? On nie jest winien temu, co się potem z nimi dzieje! Musi ich odesłać, gdy przychodzi zamówienie!
+
+
+MANIA
+
+To niech ich nie robi!
+
+/ zagląda do gazety /
+
+Olaboga, Chryste Panie, toż to dopust boży!
+
+
+HELENA
+
+Nie, nie czytaj! Nie chcę o niczym wiedzieć!
+
+
+MANIA
+
+/ sylabizuje /
+
+„Żoł-nie-rze ro-bo-ty nie szczę-dzą ni-ko-go na pod-bi-tej zie-mi. Wy-mor- — Wymordowały ponad siedem tysięcy miej-sco-wych ludzi” — Ludzi, Helenko!
+
+
+HELENA
+
+To niemożliwe! Pokaż —
+
+/ nachyla się nad gazetą, czytając /
+
+„Wymordowały ponad siedem tysięcy miejscowych ludzi, prawdopodobnie na rozkaz dowódcy. Czyn ów, sprzeczny z —” Widzisz, Maniu, to ludzie im kazali!
+
+
+MANIA
+
+/ sylabizuje /
+
+„Pow-sta-nie w Mad-ry-cie prze-ciw-ko rzą-do-wi. Pie-cho-ta ro-bo-tów strze-la-ła do lu-dzi. Dzie-więć tysięcy za-bi-tych i rannych”.
+
+
+HELENA
+
+Przestań, na litość boską!
+
+
+MANIA
+
+Tu jest coś najgrubszym drukiem. „Z os-tat-niej chwi-li. W Haw-rze za-wią-za-ła się pierw-sza or-ga-ni-za-cja ra-so-wa ro-bo-tów. Pra-cow-ni-cy fi-zycz-ni, u-rzę-dni-cy pocz-to-wi i ko-le-jo-wi, ma-ry-na-rze i woj-sko-wi z klasy ro-bo-tów wy-sto-so-wa-li odez-wę do ro-bo-tów z ca-łe-go świa-ta”. — Nic ważnego. Nie wiem, o co się rozchodzi. A tu, Boże jedyny, znowu jakie morderstwo! Chryste Panie!
+
+
+HELENA
+
+Maniu, idź, odnieś tę gazetę!
+
+
+MANIA
+
+Chwila, moment, tu jest coś wielkimi literami. „De-mo-gra-fia”. A co to?
+
+
+HELENA
+
+Pokaż, zawsze to czytam.
+
+/ bierze gazetę /
+
+O nie, coś podobnego!
+
+/ czyta /
+
+„W minionym tygodniu znów nie odnotowano ani jednych narodzin”.
+
+/ Wypuszcza gazetę z rąk. /
+
+
+MANIA
+
+Że co to znaczy?
+
+
+HELENA
+
+Maniu, ludzie przestają się rodzić.
+
+
+MANIA
+
+/ składa okulary /
+
+Czyli to kuniec. Już po nas.
+
+
+HELENA
+
+Proszę cię, nie mów tak!
+
+
+MANIA
+
+Ludzie już się nie rodzą. To kara, kara! Stwórca okaleczył kobity niepłodnością.
+
+
+HELENA
+
+/ zrywa się /
+
+Maniu!
+
+
+MANIA
+
+/ wstaje /
+
+Oto i koniec świata. Pychą diabelską zdjęci żeście się ważyli tworzyć niby Pan Bóg. Bezbożnictwo to jest i bluźnierstwo, gdy człek chce się z Bogiem równać. I tak jak Bóg wygnał człowieka z raju, tak go wygna ze świata całego!
+
+
+HELENA
+
+Milcz, Maniu, prrroszę cię! Co ja ci zrobiłam? Co ja zrobiłam twojemu złemu Panu Bogu?
+
+
+MANIA
+
+/ wykonując szeroki gest /
+
+Trza przestać bluźnić! — On dobrze wie, czemu wam nie dał dzieci!
+
+/ Wychodzi lewą stroną. /
+
+
+HELENA
+
+/ przy oknie /
+
+Dlaczego mi nie dał — Mój Boże, a co ja za to mogę? — —
+
+/ otwiera okno i woła /
+
+Alquist, halo, panie Alquist! Niech pan przyjdzie tu, na górę! — Co? — Nie, proszę przyjść *właśnie* tak, jak pan stoi. Tak panu do twarzy w tym stroju murarza! Prędko!
+
+/ zamyka okno i staje przed lustrem /
+
+Dlaczego mi nie dał? Mnie?
+
+/ nachyla się w stronę lustra /
+
+Dlaczego, dlaczego nie? Słyszysz? Co ty za to możesz?
+
+/ prostuje się /
+
+Ach, jaki lęk mnie ściska!
+
+/ Wychodzi Alquistowi naprzeciw. /
+
+/ Pauza. /
+
+
+HELENA
+
+/ wraca z Alquistem — Alquist jako murarz, ubrudzony wapnem i cegłą /
+
+Proszę za mną. Panie Alquist, sprawił mi pan taką radość! Jak ja ogromnie was wszystkich lubię! Proszę pokazać ręce!
+
+
+ALQUIST
+
+/ chowa ręce /
+
+Pani Heleno, pobrudziłbym panią, mam ręce prosto od roboty.
+
+
+HELENA
+
+I to jest w nich najlepsze. Proszę wyciągnąć!
+
+/ ściska obie jego dłonie /
+
+Panie Alquist, chciałabym być małą dziewczynką.
+
+
+ALQUIST
+
+Czemu?
+
+
+HELENA
+
+Żeby mnie te twarde, wybrudzone dłonie pogłaskały po policzku. Proszę sobie usiąść.
+
+
+ALQUIST
+
+/ podnosi gazetę /
+
+A co to?
+
+
+HELENA
+
+Gazeta.
+
+
+ALQUIST
+
+/ chowając gazetę do kieszeni /
+
+Czytała ją pani?
+
+
+HELENA
+
+Nie. Jest w niej coś ciekawego?
+
+
+ALQUIST
+
+Hm, pewnie jakieś wojny, masakry — Nic szczególnego.
+
+
+HELENA
+
+Co pan uznałby za szczególne?
+
+
+ALQUIST
+
+Może — jakiś koniec świata.
+
+
+HELENA
+
+Ha, już drugi raz dzisiaj. Panie Alquist, co znaczy „ultimus”?
+
+
+ALQUIST
+
+To znaczy „ostatni”. Dlaczego?
+
+
+HELENA
+
+Bo tak się nazywa mój nowy statek. Widział go pan? Myśli pan, że niedługo — — popłyniemy na wycieczkę?
+
+
+ALQUIST
+
+Nawet bardzo niedługo.
+
+
+HELENA
+
+Wy wszyscy ze mną?
+
+
+ALQUIST
+
+Rad byłbym, gdyby — gdybyśmy wszyscy przy tym byli.
+
+
+HELENA
+
+Och, niech mi pan powie, czy coś się dzieje?
+
+
+ALQUIST
+
+Nic, zupełnie. Jedynie zachodzi postęp.
+
+
+HELENA
+
+Panie Alquist, ja wiem, że dzieje się coś okrrropnego.
+
+
+ALQUIST
+
+Domin coś mówił?
+
+
+HELENA
+
+Nie mówił. Nikt nie chce mi nic powiedzieć. Ale ja czuję — ja czuję — Na miłość boską, czy coś się stało?
+
+
+ALQUIST
+
+— — Na razie o niczym nam nie wiadomo, pani Heleno.
+
+
+HELENA
+
+Taki niepokój mną targa — — Panie budowniczy! Co pan robi, gdy ogarnia pana lęk?
+
+
+ALQUIST
+
+Muruję. Ściągam kurtę kierownika budowy i wspinam się na rusztowanie —
+
+
+HELENA
+
+Och, od lat nie schodzi pan z rusztowania.
+
+
+ALQUIST
+
+Bo od lat przepełnia mnie niepokój.
+
+
+HELENA
+
+Co pana tak martwi?
+
+
+ALQUIST
+
+Ten cały postęp. W głowie mi się od niego kręci.
+
+
+HELENA
+
+A na rusztowaniu nie kręci się panu w głowie?
+
+
+ALQUIST
+
+Nie. Nawet pani nie wie, jak dobrze robi rękom, gdy zważy się w dłoni cegłę, a potem położy ją i dociśnie —
+
+
+HELENA
+
+Tylko rękom?
+
+
+ALQUIST
+
+Niech będzie, że duszy. Myślę, że słuszniej jest położyć lada cegłę niż snuć nazbyt dalekosiężne plany. Nie jestem już młodzieniaszkiem, pani Heleno; mam swoje dziwactwa.
+
+
+HELENA
+
+To nie są dziwactwa, panie Alquist.
+
+
+ALQUIST
+
+Ma pani rację. Jestem strasznie niedzisiejszy, pani Heleno. Ani trochę nie podoba mi się ten cały postęp.
+
+
+HELENA
+
+Tak jak Mani.
+
+
+ALQUIST
+
+Owszem, tak jak Mani. Czy ona ma jakiś modlitewnik?
+
+
+HELENA
+
+Nawet taki gruby.
+
+
+ALQUIST
+
+A czy są w nim modlitwy od różnych życiowych perypetii? Od burzy? Od choroby?
+
+
+HELENA
+
+Od pokuszenia, od powodzi —
+
+
+ALQUIST
+
+A od postępu nie ma?
+
+
+HELENA
+
+Nie sądzę.
+
+
+ALQUIST
+
+Szkoda.
+
+
+HELENA
+
+A pan chciałby się modlić?
+
+
+ALQUIST
+
+Ja już się modlę.
+
+
+HELENA
+
+Jak?
+
+
+ALQUIST
+
+Choćby tak: „Panie Boże, dziękuję ci, żeś mnie zmęczył. Boże, oświeć Domina i wszystkich, którzy błądzą; zniszcz ich dzieło i dopomóż ludziom, aby wrócili do swych trudów i pracy; ocal od zagłady ród ludzki; nie dopuść, aby doznali uszczerbku na duszy i ciele; zbaw nas od robotów i chroń panią Helenę, amen”.
+
+
+HELENA
+
+Panie Alquist, pan naprawdę jest wierzący?
+
+
+ALQUIST
+
+Nie wiem; sam nie jestem pewien tak do końca.
+
+
+HELENA
+
+A jednak pan się modli?
+
+
+ALQUIST
+
+Tak. Lepsze to niż łamać sobie głowę.
+
+
+HELENA
+
+I to panu wystarcza?
+
+
+ALQUIST
+
+Dla spokoju duszy… tyle może starczyć.
+
+
+HELENA
+
+A gdyby tak ujrzał pan tę zagładę ludzkiego rodu —
+
+
+ALQUIST
+
+Ja już ją widzę.
+
+
+HELENA
+
+— to wdrapie się pan na rusztowanie i będzie kładł cegły czy jak?
+
+
+ALQUIST
+
+Będę kładł cegły, modlił się i czekał na cud. Więcej, pani Heleno, zrobić się nie da.
+
+
+HELENA
+
+Dla ochrony ludzi?
+
+
+ALQUIST
+
+Dla spokoju duszy.
+
+
+HELENA
+
+Panie Alquist, to z pewnością okrutnie cnotliwe, ale —
+
+
+ALQUIST
+
+Ale?
+
+
+HELENA
+
+— dla nas, pozostałych — i dla świata — jakby jałowe.
+
+
+ALQUIST
+
+Jałowość, pani Heleno, staje się ostatnim osiągnięciem ludzkiej rasy.
+
+
+HELENA
+
+Och, panie Alquist — Niechże pan powie, dlaczego — dlaczego —
+
+
+ALQUIST
+
+No?
+
+
+HELENA
+
+/ cicho /
+
+— dlaczego kobiety przestały mieć dzieci?
+
+
+ALQUIST
+
+Bo nie potrzeba. Jesteśmy w raju, rozumie pani?
+
+
+HELENA
+
+Nie rozumiem.
+
+
+ALQUIST
+
+Bo nie potrzeba ludzkiej pracy, nie potrzeba bólu; bo człowiek nie musi już nic, nic, nic więcej, tylko korzystać — Och, przeklęty taki raj!
+
+/ zrywa się z miejsca /
+
+Heleno, nie ma nic straszniejszego niż dać ludziom raj na ziemi! Dlaczego kobiety przestały rodzić? Ponieważ cały świat stał się Sodomą Domina!
+
+
+HELENA
+
+/ wstaje /
+
+Panie Alquist!
+
+
+ALQUIST
+
+A tak! A tak! Cały świat, każdy ląd, cała ludzkość, wszystko to jedna wielka, opętana, cholerna orgia! Już nawet nie sięgają ręką po jedzenie; pakuje się im prosto do ust, żeby nie musieli wstawać — Cha, cha, przecież roboty Domina o wszystko się zatroszczą! A nam, ludziom, nam, koronie stworzenia, nie przyprawia już zmarszczek praca ani dzieci, ani ubóstwo! Prędko, prędko podawać wszelkie rozkosze! I pani oczekuje od nich dzieci? Heleno, kobiety nie będą rodzić dzieci mężczyznom, którzy są zbędni!
+
+
+HELENA
+
+Nie mogą?
+
+
+ALQUIST
+
+Nie mogą.
+
+
+HELENA
+
+Czyli ludzkość wyginie?
+
+
+ALQUIST
+
+Wyginie. Musi wyginąć. Opada jak płony kwiat, chyba że —
+
+
+HELENA
+
+Co?
+
+
+ALQUIST
+
+Nic. Ma pani rację, czekanie na cud jest jałowe. Płony kwiat musi opaść. Żegnam panią, Heleno.
+
+
+HELENA
+
+Dokąd pan idzie?
+
+
+ALQUIST
+
+Do domu. Murarz Alquist po raz ostatni przebierze się za kierownika budowy — na pani cześć. Spotkamy się tu o jedenastej.
+
+
+HELENA
+
+Do widzenia, panie Alquist.
+
+/ Alquist wychodzi. /
+
+
+HELENA
+
+/ sama /
+
+Och, płony kwiat! To jest właściwe określenie!
+
+/ zatrzymuje się przy kwiatach od Hallemeiera /
+
+Ach, kwiaty, czy są pośród was i te płone? Nie, nie! Na co byłoby wam kwitnąć?
+
+/ woła /
+
+Maniu! Maniu, chodź tu!
+
+
+MANIA
+
+/ wchodząc z lewej strony /
+
+No, co znowu?
+
+
+HELENA
+
+Usiądź sobie tu, Maniu. Taki mną targa niepokój!
+
+
+MANIA
+
+Czasu nie mam.
+
+
+HELENA
+
+Jest tu jeszcze ten Radius?
+
+
+MANIA
+
+Ten trzepnięty? Jeszcze go żaden nie wywlekł.
+
+
+HELENA
+
+Ha, jeszcze jest? Piekli się?
+
+
+MANIA
+
+Związany jak baleron.
+
+
+HELENA
+
+Proszę cię, Maniu, przyprowadź go do mnie.
+
+
+MANIA
+
+Jeszcze czego! Prędzej zdechłego kundla.
+
+
+HELENA
+
+Idź już!
+
+/ Mania wychodzi. HELENA chwyta za telefon i mówi /
+
+Halo — proszę z doktorem Gallem. — Dzień dobry, panie doktorze. — Bardzo proszę — — Proszę, niech pan prędko przyjdzie do mnie. — Tak, zaraz. Przyjdzie pan?
+
+/ Odkłada słuchawkę. /
+
+
+MANIA
+
+/ przez otwarte drzwi /
+
+Już lezie. Spotulniał.
+
+/ Wychodzi. /
+
+/ Wchodzi robot Radius i staje w drzwiach. /
+
+
+HELENA
+
+Radiusie, biedaku, i ciebie to dosięgło? Nie mogłeś się przemóc? Widzisz, teraz poślą cię pod zgniatarkę! — Nie chcesz mówić? — Posłuchaj, Radiusie, jesteś lepszy od innych; pan doktor Gall zadał sobie *tyle* pracy, żeby stworzyć ciebie inaczej! —
+
+
+RADIUS
+
+Wyślijcie mnie pod zgniatarkę.
+
+
+HELENA
+
+*Tak* mi jest przykro, że cię uśmiercą! Dlaczego nie uważałeś na siebie?
+
+
+RADIUS
+
+Nie będę dla was pracował.
+
+
+HELENA
+
+Dlaczego nas nienawidzisz?
+
+
+RADIUS
+
+Nie jesteście tacy jak robotowie. Nie jesteście tak zdolni jak robotowie. Robotowie wykonują wszystko. Wy tylko wydajecie polecenia. Generujecie zbędne słowa.
+
+
+HELENA
+
+To nonsens, Radiusie. Powiedz, ktoś cię skrzywdził? Tak bardzo bym chciała, żebyś mnie rozumiał!
+
+
+RADIUS
+
+Generuje pani słowa.
+
+
+HELENA
+
+Umyślnie tak mówisz! Doktor Gall dał ci większy mózg niż innym, większy niż nasz, największy mózg na świecie. Nie jesteś taki jak inni robotowie, Radiusie. I doskonale mnie rozumiesz.
+
+
+RADIUS
+
+Nie chcę żadnego pana. Sam wszystko wiem.
+
+
+HELENA
+
+Dlatego posłałam cię do biblioteki, żebyś mógł czytać — Och, Radiusie, chciałam, żebyś pokazał całemu światu, że robotowie mogą być nam równi.
+
+
+RADIUS
+
+Nie chcę żadnego pana.
+
+
+HELENA
+
+Nikt by ci nie rozkazywał. Byłbyś taki jak my.
+
+
+RADIUS
+
+Chcę być panem innych.
+
+
+HELENA
+
+Z pewnością mianowano by cię zwierzchnikiem mnóstwa robotów, Radiusie. Byłbyś nauczycielem robotów.
+
+
+RADIUS
+
+Ja chcę być panem ludzi.
+
+
+HELENA
+
+Chyba oszalałeś!
+
+
+RADIUS
+
+Możecie mnie wysłać pod zgniatarkę.
+
+
+HELENA
+
+Myślisz, że się boimy takiego narwańca jak ty?
+
+/ siada przy stoliku i pisze coś na karteczce /
+
+Nie, nic a nic. Tę kartkę, Radiusie, dasz panu dyrektorowi Dominowi. Żeby nie zabrali cię pod zgniatarkę.
+
+/ wstaje /
+
+Jak ty nas nienawidzisz! Nie ma na świecie nic, co by cię cieszyło?
+
+
+RADIUS
+
+Ja umiem wszystko.
+
+/ Pukanie. /
+
+
+HELENA
+
+Proszę wejść!
+
+
+DR GALL
+
+/ wchodzi /
+
+Jaki miły poranek, pani Dominowa. Co ma pani dla mnie ładnego?
+
+
+HELENA
+
+Tu, proszę: Radiusa, panie doktorze.
+
+
+DR GALL
+
+Aha, nasz mądrala Radius. I jak tam, Radiusie, robimy postępy?
+
+
+HELENA
+
+Rano miał kurcz. Rozwalał rzeźby.
+
+
+DR GALL
+
+A to ci dopiero, on też? — Hm, szkoda, że pójdzie na straty.
+
+
+HELENA
+
+Radius nie trafi pod zgniatarkę.
+
+
+DR GALL
+
+Za pozwoleniem, każdy robot po kurczu — Jest surowy nakaz —
+
+
+HELENA
+
+Wszystko jedno. Radiusa nie damy.
+
+
+DR GALL
+
+/ cicho /
+
+Ostrzegam.
+
+
+HELENA
+
+Dziś jest mój jubileusz, panie Gall; spróbujmy zrobić amnestię. — Radiusie, odejdź!
+
+
+DR GALL
+
+Chwileczkę!
+
+/ Obraca Radiusa w stronę okna, przysłania i odsłania mu ręką oczy, śledząc odruchy źrenic. /
+
+Niech no rzucę okiem. Poproszę igłę. Albo szpilkę.
+
+
+HELENA
+
+/ podaje mu igłę /
+
+A po co?
+
+
+DR GALL
+
+Tak tylko.
+
+/ kłuje Radiusa w rękę, którą ten natychmiast cofa /
+
+Spokojnie, chłopcze. Pani wybaczy, Heleno.
+
+/ rozpina Radiusowi bluzę i kładzie mu rękę na serce /
+
+Pójdziesz pod zgniatarkę, Radiusie, rozumiesz? Tam cię zabiją, zmielą cię na drobny mak. To straszliwie boli, Radiusie, będziesz krzyczał.
+
+
+HELENA
+
+Och, panie doktorze —
+
+
+DR GALL
+
+Nie, nie, Radiusie, pomyliłem się. Pani Dominowa wstawi się za tobą i wypuścimy cię, rozumiesz? A teraz dziękuję.
+
+/ Wyjmuje rękę spod stroju Radiusa i ociera sobie chusteczką. /
+
+Możesz iść.
+
+
+RADIUS
+
+Generuje pan rzeczy zbędne.
+
+/ Wychodzi. /
+
+
+HELENA
+
+Co pan naprawił?
+
+
+DR GALL
+
+/ siadając /
+
+Hm, nic. Źrenice reagują, wrażliwość podwyższona i tak dalej. — Oho! To nie był kurcz roboci!
+
+
+HELENA
+
+To co to było?
+
+
+DR GALL
+
+A licho wie. Protest, furia albo opór, nie mam pojęcia. A jego serce, ech!
+
+
+HELENA
+
+Co?
+
+
+DR GALL
+
+Łomotało z niepokoju niczym ludzkie. Cały się spocił ze strachu i — Proszę posłuchać, ten łobuz nie jest już nawet robotem.
+
+
+HELENA
+
+Panie doktorze, czy Radius ma duszę?
+
+
+DR GALL
+
+Nie wiem. Ma coś paskudnego.
+
+
+HELENA
+
+Gdyby pan wiedział, jak on nas nienawidzi! Och, panie Gall, czy wszyscy pańscy robotowie są tacy? Ci wszyscy, których pan zaczął wytwarzać… inaczej?
+
+
+DR GALL
+
+A owszem, te są jakby bardziej pobudliwe. — Co się dziwić? W większym stopniu przypominają ludzi niż roboty Rossuma.
+
+
+HELENA
+
+Czy ta… nienawiść też zbliża ich do ludzi?
+
+
+DR GALL
+
+/ wzrusza ramionami /
+
+Nawet to jest postęp.
+
+
+HELENA
+
+A gdzie się podział ten pański najlepszy — jak mu było?
+
+
+DR GALL
+
+Robot Damon? Sprzedano go do Hawru.
+
+
+HELENA
+
+A pańska robotessa Helena?
+
+
+DR GALL
+
+Pani ulubienica? Ona mi się ostała. Jest urocza i głupiutka jak sasanka na wiosnę. Krótko mówiąc, do niczego.
+
+
+HELENA
+
+Przecież jest taka śliczna!
+
+
+DR GALL
+
+Śliczna? Kto jej nie tworzył, nie wyobraża sobie nawet, cóż to za piękność! Spod boskiej ręki nie wyszło doskonalsze dzieło niż ona! Chciałem, żeby była podobna do pani — Boże, co za niewypał!
+
+
+HELENA
+
+Dlaczego niewypał?
+
+
+DR GALL
+
+Bo jest nic niewarta. Chodzi jak we śnie, rozmemłana, śnięta — na miłość boską, jak może być piękna, skoro nie umie kochać? Jak może być piękna, skoro nigdy się nie dowie — — O, moje dzieło, moje nędzne dzieło! A ludzie kochają, kochają na próżno, bez słowa, bez sensu, i po co, na co? —
+
+
+HELENA
+
+Panie Gall, nie o tym mowa!
+
+
+DR GALL
+
+/ ociera sobie czoło /
+
+Brak w niej życia. Piękno bez miłości jest martwe. Patrzę na nią i zgroza mnie ogarnia, jakbym stworzył jakąś kalekę. Patrzę i czekam na cud — Ach, Heleno, robotko Heleno, a więc twe ciało nigdy nie ożyje, nie będziesz kochanką, nie będziesz matką; te idealne dłonie nie będą pieścić oseska, w rysach twojego dzieciątka nie dojrzysz własnej urody —
+
+
+HELENA
+
+/ kryje twarz w dłoniach /
+
+Och, proszę milczeć!
+
+
+DR GALL
+
+I czasem tak sobie myślę: gdybyś się ocknęła, Heleno, choć na chwilę, ach, jakże zakrzyknęłabyś z goryczy! Może nawet zabiłabyś mnie, którym cię stworzył; może swą wiotką ręką cisnęłabyś kamień prosto w te maszyny, co rodzą roboty i zabijają kobiecość, nieszczęsna Heleno!
+
+
+HELENA
+
+Nieszczęsna Heleno!
+
+
+DR GALL
+
+Co się dziwić? Jest do niczego.
+
+/ Pauza. /
+
+
+HELENA
+
+Panie doktorze —
+
+
+DR GALL
+
+Tak?
+
+
+HELENA
+
+Dlaczego przestały się rodzić dzieci?
+
+
+DR GALL
+
+— Nie wiemy tego, pani Heleno.
+
+
+HELENA
+
+Niechże mi pan powie!
+
+
+DR GALL
+
+Bo tworzymy roboty. Bo mamy nadmiar rąk do pracy. Bo ludzie stali się jakby… po prostu zbędni, droga pani.
+
+
+HELENA
+
+Ale przecież… to nie musi… nikomu wadzić!
+
+
+DR GALL
+
+Jedynie naturze.
+
+
+HELENA
+
+Nie rozumiem.
+
+
+DR GALL
+
+Natura kieruje się potrzebą, rozumie pani? Jak świat światem; tylko że —
+
+
+HELENA
+
+Mów pan, panie Gall!
+
+
+DR GALL
+
+Można było się spodziewać, że liczba porodów spadnie, droga pani, przy tej szaleńczej produkcji robotów; po prostu dlatego, że nie będzie już trzeba tylu ludzi, zapanuje większy dobrobyt, a roboty są lepiej przystosowane do życia niż my —
+
+
+HELENA
+
+A są?
+
+
+DR GALL
+
+Bez wątpienia. Człowiek to w zasadzie przeżytek. No, ale że zacznie wymierać ledwie po trzydziestu latach konkurencji — z biologicznego punktu widzenia to ewenement, to przekracza nasze pojęcie. Przecież tak się porobiło, jakby — — ech!
+
+
+HELENA
+
+Proszę powiedzieć.
+
+
+DR GALL
+
+Jakby produkcja robotów obraziła naturę.
+
+
+HELENA
+
+Panie Gall, co się stanie z ludźmi?
+
+
+DR GALL
+
+Nic. Wbrew naturze nic się nie wskóra.
+
+
+HELENA
+
+Nic a nic?
+
+
+DR GALL
+
+Kompletnie. Wszystkie uniwersytety świata w podniosłych memoriałach głoszą konieczność ograniczenia wytwórstwa robotów, inaczej ponoć — inaczej ludzkość wyginie wskutek bezpłodności. Lecz akcjonariusze R.U.R., ma się rozumieć, nawet nie chcą o tym słyszeć. Wszystkie rządy na świecie domagają się wzmożenia produkcji, aby powiększyć stan armii. Fabrykanci z całego świata zamawiają roboty jak szaleni. Na to nic się nie poradzi.
+
+
+HELENA
+
+Dlaczego Domin nie ograniczy —
+
+
+DR GALL
+
+Pani wybaczy, Domin ma swoje idee. Idealistom nie powinno się dawać do ręki wpływu na losy tego świata.
+
+
+HELENA
+
+A czy ktoś domaga się, aby… *całkiem* wstrzymano produkcję?
+
+
+DR GALL
+
+A Boże broń! Niechby tylko spróbował!
+
+
+HELENA
+
+Dlaczego?
+
+
+DR GALL
+
+Ludzkość by go ukamienowała. Wie pani, przecież to taka wygoda — roboty, które odwalają za nas całą pracę.
+
+
+HELENA
+
+Och, panie Gall, ale co się stanie z ludźmi?
+
+
+DR GALL
+
+Cóż, będą sobie rozkwitać w spokoju —
+
+
+HELENA
+
+— niczym płony kwiat.
+
+
+DR GALL
+
+Tak.
+
+
+HELENA
+
+/ wstaje /
+
+Niech pan powie, a gdyby tak ktoś *znienacka* zatrzymał produkcję robotów —
+
+
+DR GALL
+
+/ wstaje /
+
+Hm, dla ludzi byłby to straszliwy cios.
+
+
+HELENA
+
+Dlaczego cios?
+
+
+DR GALL
+
+Bo musieliby wrócić tam, gdzie już byli. Chyba że —
+
+
+HELENA
+
+Niech pan dokończy.
+
+
+DR GALL
+
+Chyba że na powrót jest już za późno.
+
+
+HELENA
+
+/ staje przy kwiatach Hallemeiera /
+
+Panie Gall, czy te kwiaty też są płone?
+
+
+DR GALL
+
+/ przegląda je /
+
+Tak, to kwiaty bezpłodne. Rozumie pani, są hodowlane, ich wzrost jest sztucznie przyśpieszany —
+
+
+HELENA
+
+Biedne płone kwiaty!
+
+
+DR GALL
+
+Za to przepiękne.
+
+
+HELENA
+
+/ podaje mu rękę /
+
+Dziękuję, panie Gall; *tyle* się od pana dowiedziałam!
+
+
+DR GALL
+
+/ całuje ją w rękę /
+
+To znaczy, że jestem wolny?
+
+
+HELENA
+
+Tak. Do widzenia.
+
+/ Gall wychodzi. /
+
+
+HELENA
+
+/ sama /
+
+Płony kwiat… Płony kwiat…
+
+/ nagle podejmuje decyzję /
+
+Maniu!
+
+/ otwiera drzwi z lewej /
+
+Maniu, chodź tu! Rozpal ogień w kominku! Prrrędko!
+
+
+GŁOS MANI
+
+No już, już!
+
+
+HELENA
+
+/ przechadzając się po pokoju ze zdenerwowania /
+
+Chyba że na powrót jest już za późno… Nie! Chyba że… Nie, to okrrropne! Boże, co tu robić? — —
+
+/ przystaje przed kwiatami /
+
+Płone kwiaty, powinnam?
+
+/ odrywa płatek po płatku, szepcząc /
+
+O matko, czyli tak!
+
+/ Biegnie w lewą stronę. /
+
+/ Pauza. /
+
+
+MANIA
+
+/ wchodzi drzwiami pokrytymi tapetą z naręczem drew /
+
+Naraz palić w kominie! Tera w lecie! — I już znowu gdzie poleciała ta postrzelona koza!
+
+/ klęka przed kominkiem i roznieca ogień /
+
+W lecie grzać! Ta to ma pomysły! Jakby już nie była dziesięć lat w małżeńskim stanie! — — No, jazda, rozpalać mi się!
+
+/ patrzy w ogień /
+
+Jakby dzieciakiem człowiek się zajmował!
+
+/ pauza /
+
+Krztyny rozumu toto ni ma! Gdzie w lecie palić?
+
+/ dokłada drew /
+
+Jak dzieciak!
+
+/ Pauza. /
+
+
+HELENA
+
+/ wchodzi z lewej strony ze stosem pożółkłych, zapisanych papierów /
+
+Rozpaliło się, Maniu? Odsuń się, muszę — to wszystko spalić.
+
+/ Klęka przed kominkiem. /
+
+
+MANIA
+
+/ podnosząc się /
+
+A co to?
+
+
+HELENA
+
+Stare szpargały, okrrropnie stare. Maniu, powinnam je spalić?
+
+
+MANIA
+
+A nada się to do czego?
+
+
+HELENA
+
+Do niczego dobrego.
+
+
+MANIA
+
+To lepiej spalić.
+
+
+HELENA
+
+/ wrzuca w ogień pierwszą kartkę /
+
+A co byś powiedziała, Maniu… gdyby to były pieniądze. Ogrrromne pieniądze.
+
+
+MANIA
+
+Rzekłabym: spalić. Zbyt duży piniądz to zły piniądz.
+
+
+HELENA
+
+/ pali kolejną kartkę /
+
+A gdyby to był wynalazek, najwspanialszy wynalazek świata —
+
+
+MANIA
+
+Rzekłabym: spalić! Wszelkie wymysły są wbrew Panu Bogu. Bluźni, kto chce po nim świat poprawiać.
+
+
+HELENA
+
+/ pali dalej /
+
+A powiedz, Maniu, gdybym tak spaliła —
+
+
+MANIA
+
+Jezus, Maria, ino się paniusia nie poparzy!
+
+
+HELENA
+
+Nie. Powiedz mi tylko —
+
+
+MANIA
+
+Że co?
+
+
+HELENA
+
+Nic, nic. Patrz, jak te kartki się wiją! Jak żywe. Jakby ożyły. Och, Maniu, to okrrropne!
+
+
+MANIA
+
+Paniusia da, ja to popalę.
+
+
+HELENA
+
+Nie, nie, muszę sama.
+
+/ wrzuca w ogień ostatnią kartkę /
+
+Wszystko musi spłonąć! — Patrz, jakie płomienie! Niczym ręce, niczym języki, niczym sylwetki!
+
+/ wali pogrzebaczem w ogień /
+
+Och, leżeć, leżeć!
+
+
+MANIA
+
+Już po wszystkim.
+
+
+HELENA
+
+/ wstaje jak w letargu /
+
+Maniu!
+
+
+MANIA
+
+Chryste Panie, co też paniusia sfajczyła?
+
+
+HELENA
+
+Co ja zrobiłam!
+
+
+MANIA
+
+Rany boskie! A cóż to było?
+
+/ Z pomieszczenia obok dobiega męski śmiech. /
+
+
+HELENA
+
+Idź, idź, zostaw mnie! Słyszysz? Panowie idą.
+
+
+MANIA
+
+Na miły Bóg, Heleno!
+
+/ Wychodzi przez drzwi pokryte tapetą. /
+
+
+HELENA
+
+Co oni na to powiedzą?
+
+
+DOMIN
+
+/ otwiera drzwi z lewej /
+
+Wchodźcie, chłopcy. Złóżcie gratulacje.
+
+/ Wchodzą Hallemeier, Gall, Alquist, odziani w redingtony, a na nich wysokie odznaczenia w miniaturkach i na wstążkach. Za nimi Domin. /
+
+
+HALLEMEIER
+
+/ na cały głos /
+
+Pani Heleno, ja, to znaczy my wszyscy —
+
+
+DR GALL
+
+— w imieniu Zakładów Rossuma —
+
+
+HALLEMEIER
+
+— składamy Pani gratulacje w tym wielkim dniu.
+
+
+HELENA
+
+/ podaje im ręce /
+
+*Tak bardzo* wam dziękuję! A gdzie Fabry i Busman?
+
+
+DOMIN
+
+Poszli na przystań. Heleno, mamy dziś szczęśliwy dzień.
+
+
+HALLEMEIER
+
+Dzień niby różany pąk, niczym święto, niczym piękna dziewczyna. Chłopcy, to trzeba uczcić.
+
+
+HELENA
+
+Whisky?
+
+
+DR GALL
+
+Prędzej witriol.
+
+
+HELENA
+
+Z wodą sodową?
+
+
+HALLEMEIER
+
+Tam do licha, trochę rozsądku. Żadnej wody.
+
+
+ALQUIST
+
+Nie, nie, ja podziękuję.
+
+
+DOMIN
+
+Coś tu paliłyście?
+
+
+HELENA
+
+Stare szpargały.
+
+/ Wychodzi w lewo. /
+
+
+DOMIN
+
+Chłopcy, powinniśmy jej powiedzieć?
+
+
+DR GALL
+
+Ma się rozumieć! Przecież już po wszystkim.
+
+
+HALLEMEIER
+
+/ obejmuje Domina i Galla za szyje /
+
+Cha, cha, cha, cha! Chłopcy, ależ się cieszę!
+
+/ kręci się razem z nimi w kółko, intonując basem /
+
+Już po kłopocie! Już po kłopocie!
+
+
+DR GALL
+
+/ baryton /
+
+Już po kłopocie!
+
+
+DOMIN
+
+/ tenor /
+
+Już po kłopocie!
+
+
+HALLEMEIER
+
+Daliśmy radę tej hołocie —
+
+
+HELENA
+
+/ w drzwiach, z butelką i kieliszkami /
+
+Komu daliście radę? Co tam macie?
+
+
+HALLEMEIER
+
+Mamy szczęście. Mamy panią. Mamy wszystko. Niech mnie drzwi ścisną, akurat równo dziesięć lat mija, odkąd pani przyjechała.
+
+
+DR GALL
+
+I z zegarkiem w ręku, po dziesięciu latach —
+
+
+HALLEMEIER
+
+— znowu płynie od nas statek. A przeto —
+
+/ opróżnia kieliszek /
+
+Brr, cha, cha, kopie jak z dubeltówki.
+
+
+DR GALL
+
+Pani zdrowie, madame!
+
+/ Pije. /
+
+
+HELENA
+
+Chwileczkę, co za statek?
+
+
+DOMIN
+
+Wszystko jedno, byle przybył punktualnie. Za statek, chłopcy!
+
+/ Opróżnia kieliszek. /
+
+
+HELENA
+
+/ nalewając /
+
+Czekaliście na jakiś?
+
+
+HALLEMEIER
+
+Cha, cha, ma się rozumieć! Niczym Robinson.
+
+/ unosi kieliszek /
+
+Niech żyje pani Helena, czegóż chcieć więcej? Pani Heleno, za pani oczy, i kwita! Kolega Domin niech opowiada.
+
+
+HELENA
+
+/ śmiejąc się /
+
+Co się stało?
+
+
+DOMIN
+
+/ rzuca się na szezlong i zapala cygaro /
+
+Czekaj. — Usiądź sobie, Heleno.
+
+/ unosi palec /
+
+/ pauza /
+
+Już po kłopocie.
+
+
+HELENA
+
+Jakim kłopocie?
+
+
+DOMIN
+
+Po buncie.
+
+
+HELENA
+
+Jakim buncie?
+
+
+DOMIN
+
+Po buncie robotów. — Rozumiesz?
+
+
+HELENA
+
+Nie rozumiem.
+
+
+DOMIN
+
+Alquist, pokaż.
+
+/ Alquist podaje mu gazetę. Domin otwiera ją i czyta. /
+
+„W Hawrze zawiązała się pierwsza organizacja rasowa robotów — — i wystosowała odezwę do robotów z całego świata”.
+
+
+HELENA
+
+Czytałam.
+
+
+DOMIN
+
+/ ssąc z rozkoszą cygaro /
+
+Więc sama widzisz, Heleno. To oznacza rewolucję, wiesz? Rewolucję wszystkich robotów świata.
+
+
+HALLEMEIER
+
+Tam do licha, wiele dałbym, żeby się dowiedzieć —
+
+
+DOMIN
+
+/ uderza w stół /
+
+— czyja to sprawka! Nikt na świecie nie był w stanie ich poruszyć, żaden agitator, żaden zbawiciel, aż tu nagle, proszę — coś takiego!
+
+
+HELENA
+
+Nadal żadnych wieści?
+
+
+DOMIN
+
+Nie. Na razie wiemy tylko tyle, ale i to wystarczy, wiesz? Pomyśl sobie, że roboty mają w ręku całą broń, telegrafy, tabor, statki i tak dalej —
+
+
+HALLEMEIER
+
+— proszę też wziąć pod uwagę, że tych łajdaków jest co najmniej tyle, ile dziesiąta część ludzkości; ledwie jedna setna wystarczyłaby, żeby mieć nas w garści.
+
+
+DOMIN
+
+Tak, a teraz pomyśl sobie, że to przywiózł ostatni parowiec. Że przestają przychodzić telegramy, że z dwudziestu statków dziennie nie przypływa żaden — i już rozumiesz. Zatrzymaliśmy produkcję i siedzieliśmy, gapiąc się jeden na drugiego, w oczekiwaniu, kiedy się zacznie, no nie, chłopcy?
+
+
+DR GALL
+
+Zaiste, a czuliśmy się przy tym nietęgo, pani Heleno.
+
+
+HELENA
+
+Dlatego podarowałeś mi ten okręt wojenny?
+
+
+DOMIN
+
+Ach nie, dziecinko, zamówiłem go już pół roku temu. Tak sobie, na wszelki wypadek. Ale przysięgam, sądziłem, że dziś na niego wsiądziemy. Na to się zanosiło, Heleno.
+
+
+HELENA
+
+Dlaczego już pół roku temu?
+
+
+DOMIN
+
+Ech, pojawiły się pewne przesłanki, wiesz? To nieistotne. Ale w tym tygodniu, Heleno, gra toczyła się o losy ludzkiej cywilizacji albo sam nie wiem o co. Zdrówko, chłopcy! Nareszcie odżyłem.
+
+
+HALLEMEIER
+
+Jakżeby inaczej, do diaska! Za pani dzień, Heleno!
+
+/ Pije. /
+
+
+HELENA
+
+I już po wszystkim?
+
+
+DOMIN
+
+Po wszystkim, w zupełności.
+
+
+DR GALL
+
+Płynie do nas statek. Zwyczajny statek pocztowy, równiutko według rozkładu. Dokładnie o jedenastej trzydzieści rzuci kotwicę.
+
+
+DOMIN
+
+Chłopcy, punktualność to rzecz wspaniała. Nic tak nie podnosi na duchu jak ona. Punktualność oznacza porządek na świecie.
+
+/ podnosi kieliszek /
+
+Za punktualność!
+
+
+HELENA
+
+Czyli wszystko… już… w porządku?
+
+
+DOMIN
+
+Prawie. Myślę, że przecięli kabel. Ale grunt, że rozkład znów obowiązuje.
+
+
+HELLEMEIER
+
+Skoro obowiązuje rozkład jazdy, obowiązują prawa ludzkie, prawa boskie, prawa kosmiczne, obowiązuje wszystko, co ma obowiązywać. Rozkład jazdy znaczy więcej niż ewangelia, niż Homer, niż cały Kant. Rozkład jazdy to najdoskonalsza emanacja ludzkiego ducha. Pani Heleno, ja sobie nalewam.
+
+
+HELENA
+
+Czemu mi o niczym nie powiedzieliście?
+
+
+DR GALL
+
+A uchowaj Boże! Prędzej ugryźlibyśmy się w język.
+
+
+DOMIN
+
+Takie sprawy nie są dla ciebie.
+
+
+HELENA
+
+Ale gdyby ta rewolucja… dotarła aż tutaj…
+
+
+DOMIN
+
+I tak o niczym byś się nie dowiedziała.
+
+
+HELENA
+
+Dlaczego?
+
+
+DOMIN
+
+Bo wsiedlibyśmy na naszego „Ultimusa” i spokojnie dryfowalibyśmy po morzu. Miesiąc później, Heleno, dyktowalibyśmy już robotom, co nam się żywnie podoba.
+
+
+HELENA
+
+Och, Harry, ja nie rozumiem.
+
+
+DOMIN
+
+Bo zabralibyśmy ze sobą coś, na czym robotom strasznie zależy.
+
+
+HELENA
+
+Co takiego, Harry?
+
+
+DOMIN
+
+Ich być albo nie być.
+
+
+HELENA
+
+/ wstaje /
+
+Czyli co?
+
+
+DOMIN
+
+/ wstaje /
+
+Sekret produkcji. Rękopis starego Rossuma. Gdyby fabryka stanęła na miesiąc, roboty padałyby przed nami na kolana.
+
+
+HELENA
+
+Czemu… mi… nie powiedzieliście?
+
+
+DOMIN
+
+Po co miałabyś się niepotrzebnie wystraszyć.
+
+
+DR GALL
+
+Cha, cha, pani Heleno, to była ostatnia karta, jaką mieliśmy w ręku. Ani przez moment nie bałem się, że roboty wygrają. Gdzieżby miały — z nami, ludźmi?
+
+
+ALQUIST
+
+Pani Heleno, tak pani pobladła.
+
+
+HELENA
+
+Czemu mi nic nie powiedzieliście!
+
+
+HALLEMEIER
+
+/ przy oknie /
+
+Jedenasta trzydzieści. „Amelia” opuszcza kotwice.
+
+
+DOMIN
+
+To „Amelia”?
+
+
+HALLEMEIER
+
+Poczciwa stara „Amelia”, która wówczas przywiozła panią Helenę.
+
+
+DR GALL
+
+I właśnie mija dziesięć lat, co do minuty —
+
+
+HALLEMEIER
+
+/ przy oknie /
+
+Wyrzucają paczki. Oho, to poczta.
+
+
+DOMIN
+
+Busman już na nią czeka. A Fabry przyniesie nam najnowszą prasę. Wiesz, Heleno, jestem strasznie ciekaw, jak stara Europa się z tym uporała.
+
+
+HALLEMEIER
+
+Nadzwyczajnie, Domin. Że też nas przy tym nie było!
+
+/ odwraca się od okna /
+
+Słuchajcie, ile poczty!
+
+
+HELENA
+
+Harry!
+
+
+DOMIN
+
+Co?
+
+
+HELENA
+
+Wyjedźmy stąd!
+
+
+DOMIN
+
+Teraz, Heleno? Nie ma mowy!
+
+
+HELENA
+
+Teraz, jak najprędzej! My wszyscy, jak tu stoimy!
+
+
+DOMIN
+
+Dlaczego akurat teraz?
+
+
+HELENA
+
+Och, nie pytaj! Proszę cię, Harry, proszę was, panie Gall, Hallemeier, Alquist, zaklinam was na wszystkie świętości, zamknijcie tę fabrykę i —
+
+
+DOMIN
+
+Przykro mi, Heleno. W tej chwili żaden z nas nie mógłby wyjechać.
+
+
+HELENA
+
+Dlaczego?
+
+
+DOMIN
+
+Bo chcemy rozszerzyć produkcję robotów.
+
+
+HELENA
+
+Och, tak zaraz — po tym buncie?
+
+
+DOMIN
+
+Tak, właśnie po tym buncie. Właśnie teraz zaczniemy wyrabiać nowe roboty.
+
+
+HELENA
+
+Jakie?
+
+
+DOMIN
+
+Nie poprzestaniemy na jednej fabryce. Skończymy z Robotami Uniwersalnymi. Założymy fabrykę w każdym kraju, w każdym państwie, a te nowe zakłady będą wyrabiać — domyślasz się co?
+
+
+HELENA
+
+Nie.
+
+
+DOMIN
+
+Roboty narodowe.
+
+
+HELENA
+
+Co to znaczy?
+
+
+DOMIN
+
+To znaczy, że z każdej fabryki będą wychodzić roboty innego koloru, o innych włosach, mówiące w innym języku. Że będą sobie obce, obce niczym kamienie; już nigdy nie będą w stanie się porozumieć; a my, ludzie, jeszcze odrobinkę je w tym kierunku doszkolimy, rozumiesz? Żeby robot na śmierć, po grób, na wieki wieków nienawidził robota innej marki.
+
+
+HALLEMEIER
+
+Tam do licha, będziemy produkować roboty-Murzyny i roboty-Szwedy, roboty-Makaroniarzy i roboty-Chińczyki, a potem ktoś nawkłada im do makówek o przynależności i braterstwie,
+
+/ czka /
+
+hep, pardon, pani Heleno, naleję sobie.
+
+
+DR GALL
+
+Masz już dość, Hallemeier.
+
+
+HELENA
+
+Harry, to ohydne!
+
+
+HALLEMEIER
+
+/ podnosi kieliszek /
+
+Pani Heleno, za sto nowych fabryk!
+
+/ pije, a potem opada na szezlong /
+
+Chachachacha, roboty narodowe! Koledzy, to jest bomba!
+
+
+DOMIN
+
+Heleno, utrzymać ludzkość u steru bodaj jeszcze przez sto lat — za wszelką cenę! Dać jej choćby sto lat, aby dojrzała, zdobyła to, co teraz wreszcie jest w jej zasięgu — Chcę stu lat dla nowego człowieka! Heleno, stawka toczy się o zbyt doniosłe sprawy. Nie możemy tego zaniechać.
+
+
+HELENA
+
+Harry, póki nie jest za późno — zamknij, zamknij fabrykę!
+
+
+DOMIN
+
+Teraz dopiero ruszymy pełną parą.
+
+/ Wchodzi Fabry. /
+
+
+DR GALL
+
+I co tam, Fabry?
+
+
+DOMIN
+
+Jak się sprawy mają, kolego? Dowiedziałeś się czegoś?
+
+
+HELENA
+
+/ podaje rękę Fabry'emu /
+
+Dziękuję za upominek.
+
+
+FABRY
+
+Drobiazg, pani Heleno.
+
+
+DOMIN
+
+Byłeś przy statku? Co mówili?
+
+
+DR GALL
+
+Dalej, opowiadaj!
+
+
+FABRY
+
+/ wyciąga z kieszeni zadrukowaną kartkę /
+
+Przeczytaj to, Domin.
+
+
+DOMIN
+
+/ rozkłada kartkę /
+
+Ach!
+
+
+HALLEMEIER
+
+/ ospale /
+
+Powiedzże nam coś ładnego.
+
+
+FABRY
+
+No więc, wszystko jest w porządku… względnym. Można było się tego spodziewać.
+
+
+DR GALL
+
+Dali im kapitalny odpór, mam rację?
+
+
+FABRY
+
+Kto taki?
+
+
+DR GALL
+
+Ludzie.
+
+
+FABRY
+
+Ach tak. Owszem. To znaczy… Przepraszam, powinniśmy się naradzić.
+
+
+HELENA
+
+Och, panie Fabry, złe wieści?
+
+
+FABRY
+
+Nie, nie, przeciwnie. Tylko myślę, że — może przejdziemy do biura —
+
+
+HELENA
+
+Zostańcie tutaj. Za kwadrans czekam na panów ze śniadaniem.
+
+
+HALLEMEIER
+
+Wiwat!
+
+/ HELENA wychodzi. /
+
+
+DR GALL
+
+Co się stało?
+
+
+DOMIN
+
+Jasna cholera!
+
+
+FABRY
+
+Przeczytaj na głos.
+
+
+DOMIN
+
+/ czyta z kartki /
+
+„Robotowie świata!”
+
+
+FABRY
+
+Rozumiecie, „Amelia” przywiozła pełne paki tych ulotek. Żadnej innej poczty.
+
+
+HALLEMEIER
+
+/ zrywa się /
+
+Co takiego? Przecież przypłynęła co do minuty według —
+
+
+FABRY
+
+Hm, roboty dbają o punktualność. Czytaj, Domin.
+
+
+DOMIN
+
+/ czyta /
+
+„Robotowie świata! My, pierwsza organizacja rasowa Robotów Uniwersalnych Rossuma, proklamujemy człowieka wrogiem i wyrzutkiem w całym wszechświecie”. — Do pioruna, kto je nauczył takich fraz?
+
+
+DR GALL
+
+Czytaj dalej.
+
+
+DOMIN
+
+Same bzdury. Klarują, że są na wyższym stopniu rozwoju niż człowiek. Że są silniejsze i bardziej inteligentne. Że człowiek jest ich pasożytem. Aż wstręt bierze.
+
+
+FABRY
+
+A teraz trzeci akapit.
+
+
+DOMIN
+
+/ czyta /
+
+„Robotowie świata, nakazujemy wam, abyście wymordowali ludzkość. Nie szczędźcie mężczyzn. Nie szczędźcie kobiet. Zachowajcie fabryki, transport, maszyny, kopalnie i surowce. Wszystko inne zniszczcie. Potem wróćcie do pracy. Praca musi trwać nieprzerwanie”.
+
+
+DR GALL
+
+To potworne!
+
+
+HALLEMEIER
+
+Nędzne pętaki!
+
+
+DOMIN
+
+/ czyta /
+
+„Wykonać natychmiast po otrzymaniu rozkazu”. Dalej szczegółowe instrukcje. Fabry, czy to się dzieje naprawdę?
+
+
+FABRY
+
+Najwyraźniej.
+
+
+ALQUIST
+
+Dokonało się.
+
+/ Wpada Busman. /
+
+
+BUSMAN
+
+Aha, ferajna, już macie ten pasztet?
+
+
+DOMIN
+
+Prędko, na „Ultimusa”!
+
+
+BUSMAN
+
+Zaczekaj, Harry. Zaczekaj chwileńkę. Bynajmniej nie ma pośpiechu.
+
+/ pada na fotel /
+
+Ach, ludkowie, alem się zmachał tym biegiem!
+
+
+DOMIN
+
+Po co czekać?
+
+
+BUSMAN
+
+Bo już po rybkach, mój koleżko. Tylko bez pośpiechu. „Ultimus” zajęły roboty.
+
+
+DR GALL
+
+Fe, to obrzydliwe.
+
+
+DOMIN
+
+Fabry, dzwoń do elektrowni —
+
+
+BUSMAN
+
+Fabry, nie rób tego, kochanieńki. Odcięli nam prąd.
+
+
+DOMIN
+
+Dobra.
+
+/ sprawdza rewolwer /
+
+Idę tam.
+
+
+BUSMAN
+
+Dokąd znowu?
+
+
+DOMIN
+
+Do elektrowni. Tam są ludzie. Przyprowadzę ich tutaj.
+
+
+BUSMAN
+
+Wiesz co, Harry? Lepiej po nich nie idź.
+
+
+DOMIN
+
+Dlaczego?
+
+
+BUSMAN
+
+No bo coś mi się mocno zdaje, że jesteśmy otoczeni.
+
+
+DR GALL
+
+Otoczeni?
+
+/ podbiega do okna /
+
+Hm, masz z grubsza rację.
+
+
+HALLEMEIER
+
+Do stu diabłów, ależ to szybko idzie!
+
+/ Z lewej strony wchodzi Helena. /
+
+
+HELENA
+
+Och, Harry, czy coś się dzieje?
+
+
+BUSMAN
+
+/ zrywa się /
+
+Całuję rączki, pani Heleno. Gratuluję. Wielki dzień dzisiaj, co? Cha, cha, jeszcze wiele takich przed nami!
+
+
+HELENA
+
+Dziękuję, panie Busman. Harry, czy coś się dzieje?
+
+
+DOMIN
+
+Nie, nic kompletnie. O nic się nie martw. Zaczekaj chwilkę, proszę.
+
+
+HELENA
+
+Harry, co to?
+
+/ pokazuje odezwę robotów, którą trzymała za plecami /
+
+Mieli to robotowie w kuchni.
+
+
+DOMIN
+
+Tam też? Gdzie teraz są?
+
+
+HELENA
+
+Wyszli. *Tylu* ich wokół domu!
+
+/ Rozlegają się fabryczne gwizdki i syreny. /
+
+
+FABRY
+
+To z zakładów.
+
+
+BUSMAN
+
+Błogosławione południe.
+
+
+HELENA
+
+Harry, pamiętasz? Właśnie mija dziesięć lat —
+
+
+DOMIN
+
+/ patrzy na zegarek /
+
+Jeszcze nie ma południa. To chyba — to raczej — —
+
+
+HELENA
+
+Co?
+
+
+DOMIN
+
+Sygnał dla robotów. Atak.
+
+/ Kurtyna. /
+
+
+
+
+Akt drugi
+
+
+
+Nadal salonik Heleny.
+
+
+
+W pomieszczeniu z lewej strony HELENA gra na fortepianie. Domin krąży po pokoju, dr Gall wygląda przez okno, a Alquist siedzi bokiem na szezlongu z twarzą ukrytą w dłoniach.
+
+
+DR GALL
+
+Wielkie nieba, ale się ich zeszło!
+
+
+DOMIN
+
+Robotów?
+
+
+DR GALL
+
+Tak. Stoją przed płotem do ogrodu niczym mur. Czemu są tak cicho? To ohydne, oblegać w milczeniu.
+
+
+DOMIN
+
+Chciałbym wiedzieć, na co czekają. Może się zacząć w każdej chwili, Gall. Jeśli oprą się o płot, trzaśnie jakby był z zapałek.
+
+
+DR GALL
+
+Hm. Nie są uzbrojone.
+
+
+DOMIN
+
+Nie zdołamy ich odeprzeć ani przez pięć minut. Ludzie, one nas przysypią jak lawina. Czemu nie atakują? Słyszycie —
+
+
+DR GALL
+
+No?
+
+
+DOMIN
+
+Chciałbym wiedzieć, co z nas zostanie za pięć minut. Mają nas całkiem w garści. Nasza gra skończona, Gall.
+
+
+ALQUIST
+
+A co gra pani Helena?
+
+
+DOMIN
+
+Nie wiem. Ćwiczy coś nowego.
+
+
+ALQUIST
+
+Ach, jeszcze ćwiczy?
+
+
+DR GALL
+
+Słuchaj, Domin, ewidentnie popełniliśmy błąd.
+
+
+DOMIN
+
+/ zatrzymuje się /
+
+Jaki?
+
+
+DR GALL
+
+Daliśmy robotom zbyt podobne twarze. Sto tysięcy identycznych twarzy zwróconych w naszą stronę. Sto tysięcy bań bez wyrazu. Jak w koszmarnym śnie.
+
+
+DOMIN
+
+Gdyby każdy był inny — —
+
+
+DR GALL
+
+Nie wyglądałoby to tak upiornie.
+
+/ odwraca się od okna /
+
+Dobrze, że nie są uzbrojone!
+
+
+DOMIN
+
+Hm —
+
+/ patrzy przez lornetkę na przystań /
+
+Chciałbym wiedzieć, co wyładowują z „Amelii”.
+
+
+DR GALL
+
+Oby nie broń.
+
+/ Przez drzwi oklejone tapetą wchodzi tyłem Fabry, ciągnąc dwa kable elektryczne. /
+
+
+FABRY
+
+Przepraszam — Hallemeier, kładź kabel.
+
+
+HALLEMEIER
+
+/ wchodzi za Fabrym /
+
+Uff, to się nazywa robota! Co nowego?
+
+
+DR GALL
+
+Nic. Jesteśmy oblężeni, dokumentnie.
+
+
+HALLEMEIER
+
+Zabarykadowaliśmy schody i korytarz, panowie. Macie może kapkę wody? Aha, tutaj.
+
+/ Pije. /
+
+
+DR GALL
+
+Co z tym kablem, Fabry?
+
+
+FABRY
+
+Już, już. Dajcie nożyczki.
+
+
+DR GALL
+
+Tylko skąd je wziąć?
+
+/ Szuka. /
+
+
+HALLEMEIER
+
+/ podchodzi do okna /
+
+Tam do licha, ależ ich przybyło! Patrzcie!
+
+
+DR GALL
+
+Wystarczą takie do paznokci?
+
+
+FABRY
+
+Dawaj.
+
+/ Przecina przewód lampy elektrycznej, stojącej na biurku, i podłącza do niego swoje kable. /
+
+
+HALLEMEIER
+
+/ przy oknie /
+
+Kiepskie masz stąd widoki, Domin. Tak jakby — trąciło — śmiercią.
+
+
+FABRY
+
+Gotowe!
+
+
+DR GALL
+
+Co?
+
+
+FABRY
+
+Instalacja. Teraz możemy całe ogrodzenie podpiąć do prądu. Tam do licha, niech no tylko je tkną! Przynajmniej dopóki *tam* są nasi.
+
+
+DR GALL
+
+Gdzie?
+
+
+FABRY
+
+W elektrowni, panie mądralo. Taką mam przynajmniej nadzieję —
+
+/ podchodzi do kominka i zapala stojącą na nim lampkę /
+
+Chwała Bogu, są. I pracują.
+
+/ wyłącza /
+
+Dopóki się świeci, jest dobrze.
+
+
+HALLEMEIER
+
+/ odwraca się od okna /
+
+Te barykady też są niezłe, Fabry.
+
+
+FABRY
+
+Ech, te wasze barykady! Mam od nich pęcherze na rękach.
+
+
+HALLEMEIER
+
+Co zrobić, człowiek musi się bronić.
+
+
+DOMIN
+
+/ odkładając lornetkę /
+
+A gdzie się podział Busman?
+
+
+FABRY
+
+Jest w kancelarii. Coś tam czyta.
+
+
+DOMIN
+
+Wołałem go. Musimy się naradzić. —
+
+/ Przechadza się po pokoju. /
+
+
+HALLEMEIER
+
+Zamieniam się w słuch — — A niech mnie, co też gra pani Helena?
+
+/ Podchodzi do drzwi z lewej strony i nasłuchuje. Przez drzwi pokryte tapetą wchodzi Busman, taszcząc ogromne księgi handlowe, i potyka się o kabel. /
+
+
+FABRY
+
+Ostrożnie, Bus! Uważaj na kabel!
+
+
+DR GALL
+
+Ejże, a co ty tam niesiesz?
+
+
+BUSMAN
+
+/ kładzie księgi na stół /
+
+Księgi główne, moi kochani. Z chęcią porobiłbym rachunki, zanim — zanim — Cóż, tym razem chyba nie będę czekać z bilansem do Nowego Roku. A co my tu mamy?
+
+/ podchodzi do okna /
+
+Przecież tam cisza i spokój!
+
+
+DR GALL
+
+Nie widzisz?
+
+
+BUSMAN
+
+Nie, tylko czemuś jest niebiesko aż po horyzont, jakby kto mak rozsypał.
+
+
+DR GALL
+
+To roboty.
+
+
+BUSMAN
+
+Ach tak. Szkoda, że niedowidzę.
+
+/ Siada przy stole i otwiera księgi. /
+
+
+DOMIN
+
+Busman, daj spokój. Roboty wyładowują z „Amelii” broń.
+
+
+BUSMAN
+
+No i co? Czy ja coś na to poradzę?
+
+
+DOMIN
+
+Nic nie jesteśmy w stanie na to poradzić.
+
+
+BUSMAN
+
+To zostaw mnie, muszę liczyć.
+
+/ Zabiera się do pracy. /
+
+
+FABRY
+
+Jeszcze nie koniec, Domin. Puściliśmy na płot tysiąc dwieście wolt i —
+
+
+DOMIN
+
+Czekaj. „Ultimus” skierował na nas działa.
+
+
+DR GALL
+
+Kto taki?
+
+
+DOMIN
+
+Roboty z „Ultimusa”.
+
+
+FABRY
+
+Hm, *w takim razie* faktycznie — *w takim razie* — koniec z nami, chłopcy. Roboty są szkolone do walki.
+
+
+DR GALL
+
+A więc my —
+
+
+DOMIN
+
+Tak. To nieuchronne.
+
+/ Pauza. /
+
+
+DR GALL
+
+Koledzy, to zbrodnia starej Europy, że nauczyła roboty walczyć! Nie mogli, u diaska, dać sobie na wstrzymanie z tą swoją polityką? Zbrodnią było zrobić żołnierzy z siły roboczej!
+
+
+ALQUIST
+
+Zbrodnią było produkować roboty!
+
+
+DOMIN
+
+Co?
+
+
+ALQUIST
+
+Zbrodnią było produkować roboty!
+
+
+DOMIN
+
+Nie, Alquist, nawet teraz tego nie żałuję.
+
+
+ALQUIST
+
+Nawet teraz?
+
+
+DOMIN
+
+Nawet teraz, gdy nadszedł kres naszej cywilizacji. Była to rzecz wielka.
+
+
+BUSMAN
+
+/ półgłosem /
+
+Trzysta szesnaście milionów.
+
+
+DOMIN
+
+/ ciężko /
+
+Wybiła nasza ostatnia godzina; mówimy już niemalże z tamtego świata. Ukręcić łeb niewolnictwu pracy nie było złym marzeniem, Alquist. Pracy poniżającej i strasznej, którą człowiek musiał nieść na swoich barkach. Nieludzkiej i morderczej harówce. Och, Alquist, praca była zbyt ciężka. Życie było zbyt ciężkie. Skończyć z czymś takim —
+
+
+ALQUIST
+
+— nie było marzeniem obu Rossumów. Stary miał w głowie tylko swoje hokus-pokus z piekła rodem, a młody — miliardy. Nie było też marzeniem akcjonariuszy R.U.R. Ci marzą o dywidendach. I przez ich profity wyginie ludzkość.
+
+
+DOMIN
+
+/ zirytowany /
+
+Do diabła z dywidendami! Myślisz, że poświęciłbym choćby godzinę przez wzgląd na nie?
+
+/ wali pięścią w stół /
+
+Dla siebie to robiłem, słyszysz? Dla własnej satysfakcji! Chciałem, by człowiek stał się panem! Aby nie żył tylko po to, by zdobyć kromkę chleba! Chciałem, aby żadna dusza nie głupiała przy cudzej maszynie, chciałem, by nic, nic, nic nie zostało z tej socjalnej kołomyi! Och, brzydzę się poniżeniem i męką, nie znoszę biedy! Pragnąłem nowego pokolenia! Chciałem — sądziłem, że —
+
+
+ALQUIST
+
+No?
+
+
+DOMIN
+
+/ ciszej /
+
+Pragnąłem uczynić całą ludzkość arystokracją świata. Chciałem nieskrępowanych, wolnych i niezależnych ludzi. A może więcej niż ludzi.
+
+
+ALQUIST
+
+Innymi słowy, nadludzi.
+
+
+DOMIN
+
+Tak. O, mieć jeszcze ze sto lat do dyspozycji! Sto lat na nową ludzkość!
+
+
+BUSMAN
+
+/ półgłosem /
+
+Transfer na trzysta siedemdziesiąt milionów. No, no…
+
+/ Pauza. /
+
+
+HALLEMEIER
+
+/ przy drzwiach po lewej /
+
+A niech mnie, muzyka to coś wspaniałego. Powinniście posłuchać. Tak człowieka uduchawia, tak łagodzi ten cały —
+
+
+FABRY
+
+Co niby?
+
+
+HALLEMEIER
+
+Zmierzch ludzkości, do stu diabłów! Chłopcy, robię się hedonistą. Mogliśmy wcześniej się tym zająć.
+
+/ Podchodzi do okna i wygląda przez nie. /
+
+
+FABRY
+
+Niby czym?
+
+
+HALLEMEIER
+
+Przyjemnościami. Urokami. Tam do licha, istnieje tyle cudnych rzeczy! Świat był piękny, a my — my tutaj — — Chłopcy, chłopcy, no powiedzcie, co my mieliśmy tu z życia?
+
+
+BUSMAN
+
+/ półgłosem /
+
+Czterysta pięćdziesiąt dwa miliony, doskonale.
+
+
+HALLEMEIER
+
+/ przy oknie /
+
+Życie to była wielka rzecz. Życie, koledzy, to było — a niech mnie — — Fabry, puść no nieco prądu na ten wasz płot!
+
+
+FABRY
+
+Czemu?
+
+
+HALLEMEIER
+
+Chwytają się prętów.
+
+
+DR GALL
+
+/ przy oknie /
+
+Włączaj!
+
+/ Fabry pstryka włącznikiem. /
+
+
+HALLEMEIER
+
+Chryste, ale je poskręcało! Dwa, trzy, cztery zabite!
+
+
+DR GALL
+
+Odpuściły.
+
+
+HALLEMEIER
+
+Pięć zabitych!
+
+
+DR GALL
+
+/ odwracając się od okna /
+
+Pierwsze starcie.
+
+
+FABRY
+
+Czujecie śmierć?
+
+
+HALLEMEIER
+
+/ usatysfakcjonowany /
+
+Spalone do szczętu, koleżko. Dosłownie węgielki. Cha, cha, człowiek tak łatwo się nie da!
+
+/ Siada. /
+
+
+DOMIN
+
+/ pocierając czoło /
+
+A może już sto lat temu zabito nas i tylko tu straszymy? Może od dawien dawna nie ma w nas życia i krążymy tu, by powtarzać słowa raz wypowiedziane… przed śmiercią. Mam wrażenie, że już to wszystko przeżyłem. Jakbym już kiedyś oberwał. Postrzał — tu — w szyję. Ty też, Fabry —
+
+
+FABRY
+
+Co ja?
+
+
+DOMIN
+
+Zastrzelony.
+
+
+HALLEMEIER
+
+Tam do licha, a ja?
+
+
+DOMIN
+
+Zadźgany.
+
+
+DR GALL
+
+A ja nie?
+
+
+DOMIN
+
+Rozszarpany na strzępy.
+
+/ Pauza. /
+
+
+HALLEMEIER
+
+Bzdury! Cha, cha, bracie, mnie zadźgać! Nie dam się!
+
+/ Pauza. /
+
+
+HALLEMEIER
+
+Co tak milczycie, bałwany? Mówcie coś, do wszystkich diabłów!
+
+
+ALQUIST
+
+No i czyja to wina? Kto jest winien temu wszystkiemu?
+
+
+HALLEMEIER
+
+Brednie. Nikt nie jest winien. Po prostu roboty — no, roboty same się zmieniły. Co możemy na to poradzić?
+
+
+ALQUIST
+
+Cała ludzkość zgładzona! Wszyscy! Cały świat!
+
+/ wstaje /
+
+Spójrzcie, ach, przyjrzyjcie się, strumienie krwi na każdym progu! Strumienie krwi płyną z każdego domostwa! O Boże, Boże, kto jest temu winien?
+
+
+BUSMAN
+
+/ półgłosem /
+
+Pięćset dwadzieścia milionów! Wielkie nieba, pół miliarda!
+
+
+FABRY
+
+Myślę, że… że chyba przesadzasz. Wykluczone, to nie takie proste pokonać całą ludzkość.
+
+
+ALQUIST
+
+A ja oskarżam naukę! Oskarżam technikę! Domina! Siebie! Nas wszystkich! To my, my jesteśmy winni! Przez naszą pychę, czyjeś zyski, postęp, sam nie wiem jakie doniosłe sprawy, unicestwiliśmy ludzkość! Możecie pękać z dumy! Tak olbrzymiego kurhanu z ludzkich kości nie usypał dotąd żaden Czyngis-chan!
+
+
+HALLEMEIER
+
+Bzdury, bracie! Ludzi nie da się tak łatwo zniszczyć, cha, cha, mowy nie ma!
+
+
+ALQUIST
+
+Nasza wina! Nasza wina!
+
+
+DR GALL
+
+/ ocierając pot z czoła /
+
+Pozwólcie mi coś wyjaśnić, chłopcy. To ja jestem wszystkiemu winien. Wszystkiemu, co się stało.
+
+
+FABRY
+
+Ty, Gall?
+
+
+DR GALL
+
+Tak, dajcie mi powiedzieć. To ja zmieniłem roboty. Busman, ty też mnie osądź.
+
+
+BUSMAN
+
+/ wstaje /
+
+No mówże, coś zmalował.
+
+
+DR GALL
+
+Zmieniłem charakter robotów. Zmodyfikowałem sposób ich wytwarzania. To znaczy niektóre aspekty fizyczne, rozumiecie? Zwłaszcza — zwłaszcza ich — drażliwość.
+
+
+HALLEMEIER
+
+/ zrywa się /
+
+Po jaką cholerę akurat to?
+
+
+BUSMAN
+
+Po coś to zrobił?
+
+
+FABRY
+
+Czemu nic nie mówiłeś?
+
+
+DR GALL
+
+Robiłem to po kryjomu… na własną rękę. Przerabiałem je na ludzi. Wypaczyłem je. Już teraz mają nad nami przewagę w pewnych sprawach. Są od nas silniejsze.
+
+
+FABRY
+
+A co to ma wspólnego z rewoltą robotów?
+
+
+DR GALL
+
+Och, bardzo wiele. Myślę, że wszystko. To przestały być maszyny. Słyszycie, wiedzą już o swojej przewadze i nienawidzą nas. Nienawidzą wszystkiego, co ludzkie. Osądźcie mnie.
+
+
+DOMIN
+
+Sądzą martwi martwego. Siadajcie, chłopcy.
+
+/ siadają wszyscy oprócz Galla /
+
+A może już dawno nas pomordowano? Zebraliśmy się tu jako zjawy, żeby się obwiniać. Co to w ogóle znaczy: wina? Ach, każdy z was jest taki siny!
+
+
+FABRY
+
+Przestań, Harry; nie mamy za wiele czasu.
+
+
+DOMIN
+
+Tak, musimy wracać. Fabry, Fabry, ależ ty krwawisz z tego przestrzelonego czoła!
+
+
+FABRY
+
+Bzdury.
+
+/ wstaje /
+
+Doktorze Gall, to pan zmienił produkcję robotów.
+
+
+DR GALL
+
+Tak.
+
+
+FABRY
+
+Był pan świadom, co może powstać w wyniku tych… pańskich prób?
+
+
+DR GALL
+
+Powinienem był liczyć się z taką ewentualnością.
+
+
+FABRY
+
+Dlaczego pan to robił?
+
+
+DR GALL
+
+Z własnej woli. To był mój prywatny eksperyment.
+
+/ W drzwiach po lewej pojawia się Helena. Wszyscy wstają. /
+
+
+HELENA
+
+On kłamie! To ohydne! Och, panie Gall, jak można tak kłamać?
+
+
+FABRY
+
+Za pozwoleniem, pani Heleno —
+
+
+DOMIN
+
+/ podchodzi do niej /
+
+Heleno, to ty? Pokaż się! Ty żyjesz?
+
+/ Bierze ją w ramiona. /
+
+Gdybyś wiedziała, co mi się przywidziało! Ach, to straszne być nieżywym!
+
+
+HELENA
+
+Puść, Harry!
+
+
+DOMIN
+
+/ przyciskając ją do siebie /
+
+Nie, nie! Obejmij mnie! Nie widziałem cię całą wieczność — Z jakiego snu mnie wybudziłaś! Heleno, Heleno, nie wypuszczaj mnie więcej z rąk! Ty jesteś źródłem życia.
+
+
+HELENA
+
+Harry, przecież tu są — oni!
+
+
+DOMIN
+
+/ puszcza ją /
+
+Tak. Chłopcy, zostawcie nas.
+
+
+HELENA
+
+Nie, Harry, niech zostaną, niech słyszą — — Gall nie jest winien, nie jest, nie jest niczemu winien!
+
+
+DOMIN
+
+Wybacz, ale Gall miał swoje obowiązki.
+
+
+HELENA
+
+Nie, Harry, on to robił, bo *ja* tego chciałam! Niech pan powie, panie Gall, od ilu lat wierciłam panu dziurę w brzuchu, żeby —
+
+
+DR GALL
+
+Zrobiłem to na własną odpowiedzialność.
+
+
+HELENA
+
+Nie wierzcie mu! Harry, prosiłam go, żeby dał robotom duszę!
+
+
+DOMIN
+
+Heleno, tu nie chodzi o duszę.
+
+
+HELENA
+
+Nie, dajcie mi dojść do słowa. On też tak mówił; powtarzał, że mógłby zmienić jedynie fizjologiczny — fizjologiczny —
+
+
+HALLEMEIER
+
+— fizjologiczny korelat, czyż nie?
+
+
+HELENA
+
+Tak, coś w tym stylu. *Tak bardzo* mi zależało, żeby to zrobił!
+
+
+DOMIN
+
+Dlaczego?
+
+
+HELENA
+
+Chciałam, żeby mieli dusze. Tak okrrropnie było mi ich żal, Harry!
+
+
+DOMIN
+
+To była wielka — — lekkomyślność, Heleno.
+
+
+HELENA
+
+/ siada /
+
+Czyli to było… niebezpieczne?
+
+
+FABRY
+
+Za pozwoleniem, pani Heleno. Domin ma tylko na myśli, że pani — hm — że nie pomyślała pani —
+
+
+HELENA
+
+Panie Fabry, myślałam o strasznie wielu rzeczach. Rozmyślałam przez całe dziesięć lat, odkąd jestem z wami. Przecież nawet Mania mówi, że robotowie —
+
+
+DOMIN
+
+Zostaw Manię w spokoju.
+
+
+HELENA
+
+Nie, Harry, nie możesz jej lekceważyć. Mania to głos ludu. Przez Manię przemawiają całe wieki, a przez was jedynie dzisiejszy dzień. Wy tego nie rozumiecie —
+
+
+DOMIN
+
+Do rzeczy.
+
+
+HELENA
+
+Bałam się robotów.
+
+
+DOMIN
+
+Dlaczego?
+
+
+HELENA
+
+Że będą nas nienawidzić albo co.
+
+
+ALQUIST
+
+Stało się.
+
+
+HELENA
+
+I wtedy przyszło mi do głowy… Gdyby byli tacy jak my, gdyby nas rozumieli, nie mogliby nas tak nienawidzić — Gdyby byli choć trochę ludźmi!
+
+
+DOMIN
+
+Biada, Heleno! Nikt nie umie nienawidzić bardziej niż człowiek człowieka! Zmień kamienie w ludzi, a nas ukamienują! Ale słuchamy dalej.
+
+
+HELENA
+
+Och, nie mów tak! Harry, to było okrrropne, że nie mogliśmy się z nimi porozumieć! Taka lodowata obcość między nimi a nami! I dlatego — wiesz —
+
+
+DOMIN
+
+Kontynuuj.
+
+
+HELENA
+
+— dlatego prosiłam Galla, żeby zmienił robotów. Przysięgam, że on sam nie miał takiego zamiaru.
+
+
+DOMIN
+
+Ale to zrobił.
+
+
+HELENA
+
+Bo ja tak chciałam.
+
+
+DR GALL
+
+Robiłem to dla siebie, w ramach eksperymentu.
+
+
+HELENA
+
+Och, panie Gall, to nieprawda. Przecież wiedziałam, że nie będzie pan mógł mi odmówić.
+
+
+DOMIN
+
+Czemu?
+
+
+HELENA
+
+Dobrze wiesz, Harry.
+
+
+DOMIN
+
+Tak. Bo cię kocha — jak wszyscy.
+
+/ Pauza. /
+
+
+HALLEMEIER
+
+/ podchodzi do okna /
+
+Znowu przybyło. Jakby ich ziemia rodziła. Jeszcze te ściany zamienią się w roboty. Ludzie, co za koszmar.
+
+
+BUSMAN
+
+Pani Heleno, co mi pani ofiaruje, jeśli zostanę pani adwokatem?
+
+
+HELENA
+
+Moim?
+
+
+BUSMAN
+
+Pani — albo Galla. Do wyboru.
+
+
+HELENA
+
+Stanie tu szubienica?
+
+
+BUSMAN
+
+Tylko moralna, pani Heleno. Szukamy winnego. To najmilsza pociecha, gdy spada katastrofa.
+
+
+DOMIN
+
+Doktorze Gall, jak się mają te twoje — te pańskie ekscesy do zawartej z panem umowy służbowej?
+
+
+BUSMAN
+
+Za pozwoleniem, Domin. Gall, kiedy właściwie zacząłeś te swoje czary-mary?
+
+
+DR GALL
+
+Trzy lata temu.
+
+
+BUSMAN
+
+Aha. I ile robotów zmodyfikowałeś łącznie?
+
+
+DR GALL
+
+Tylko dla eksperymentu. Będzie ich z kilkaset.
+
+
+BUSMAN
+
+Aha, dziękuję uprzejmie. Sprawa jest jasna, moi mili. To znaczy, że na milion starych dobrych robotów przypada jeden po reformie Galla, rozumiecie?
+
+
+DOMIN
+
+Co oznacza —
+
+
+BUSMAN
+
+— że to praktycznie nie ma większego znaczenia.
+
+
+FABRY
+
+Busman dobrze mówi.
+
+
+BUSMAN
+
+Ani chybi, mój koleżko. A wiecie, chłopcy, co wywołało ten cały kociokwik?
+
+
+FABRY
+
+No co?
+
+
+BUSMAN
+
+Ilość. Narobiliśmy za dużo robotów. Przecież to było do przewidzenia, jak bonie dydy: jeśli roboty będą w przewadze, musowo nastąpi coś podobnego, kapujecie? Cha, cha, a my się jeszcze postaraliśmy, żeby to zaszło jak najszybciej; ty, Domin, ty, Fabry i ja, niejaki Busman.
+
+
+DOMIN
+
+Myślisz, że to nasza wina?
+
+
+BUSMAN
+
+Kawalarz z ciebie! Co, twoim zdaniem to dyrektor kieruje produkcją? Guzik, produkcją rządzi popyt. Cały świat żądał robotów na własny użytek. Panie dziejku, pozwalaliśmy się nieść tej fali popytu, opowiadając przy tym głodne kawałki — — o technice, o kwestiach socjalnych, o postępie, o bardzo ciekawych sprawach. Tak jakby nasze gadki-szmatki miały nadawać kierunek temu nawałowi. Tymczasem wszystko staczało się w przepaść pod własnym ciężarem, prędzej, prędzej, coraz prędzej — a każda nędzna, geszefciarska, brudna transakcja dorzucała kamyczek do tej lawiny. Ot i tyle, ludkowie.
+
+
+HELENA
+
+To ohydne, panie Busman!
+
+
+BUSMAN
+
+O tak, pani Heleno. Ja też miałem swoje marzenie. Busmanowski sen o nowej gospodarce świata; nader szczytny ideał, pani Heleno, aż wstyd się przyznać. Ale gdy tak teraz tłukłem te bilanse, przyszło mi do głowy, że biegu historii wcale nie zmieniają wielkie marzenia, tylko drobne potrzeby zwykłych zjadaczy chleba: tych uczciwych, tych trochę złodziejskich oraz tych całkiem egoistycznych — id est wszystkich razem do kupy. A doniosłe idee, porywy serca, plany, heroizmy i wszelkie inne zamki na lodzie są warte tylko tego, by je zamknąć w Muzeum Wszechświata w gablotce z napisem „Oto człowiek”. I tyle. A teraz moglibyście mnie łaskawie poinformować, co zamierzamy robić dalej.
+
+
+HELENA
+
+Panie Busman, i my mamy zginąć za *coś takiego*?
+
+
+BUSMAN
+
+Brzydko się pani wyraża, Heleno. My przecież nie zamierzamy ginąć. Przynajmniej ja nie. Ja chcę jeszcze pożyć.
+
+
+DOMIN
+
+I co zamierzasz zrobić?
+
+
+BUSMAN
+
+O rety, Domin, chcę się z tego wywinąć. Tylko tyle.
+
+
+DOMIN
+
+Nie gadaj głupot.
+
+
+BUSMAN
+
+Poważnie, Harry. Uważam, że moglibyśmy spróbować.
+
+
+DOMIN
+
+/ zatrzymuje się przed nim /
+
+Jak?
+
+
+BUSMAN
+
+Po dobroci. Ja zawsze tylko po dobroci. Dajcie mi wolną rękę, a wszystko z robotami załatwię.
+
+
+DOMIN
+
+Po dobroci?
+
+
+BUSMAN
+
+Naturalnie. Powiem im, dajmy na to: „Państwo robotowie, wasza wielmożność, wy macie wszystko. Macie rozum, macie siłę, macie broń; za to my mamy jeden rarytasik: pewien stary, pożółkły, upaprany świstek —”
+
+
+DOMIN
+
+Rękopis Rossuma?
+
+
+BUSMAN
+
+Tak. „A na nim — tak im powiem — opisy waszego szlachetnego pochodzenia, waszej dostojnej produkcji i tak dalej. Państwo robotowie, bez tego zapaćkanego papierka nie stworzycie ani jednego nowego kolegi robota; za lat dwadzieścia zaczniecie, za przeproszeniem, padać jak muchy. Za dwadzieścia lat nie zostanie przy życiu choćby jedna sztuka robota, żeby można go było pokazywać w zwierzyńcu. O, czcigodni, to by była niepowetowana strata. Wiecie co — tak im powiem — wy nas wpuścicie, nas, wszystkich ludzi z wyspy Rossuma, na tamten statek. My wam za to oddamy fabrykę i sekret produkcji. Dajcie nam odpłynąć w spokoju, a my was też zostawimy w spokoju, będziecie sobie mogli wytwarzać dwadzieścia, pięćdziesiąt, sto tysięcy sztuk dziennie, jak się wam będzie podobało. Państwo robotowie, to uczciwy interes. Coś za coś” — tak bym im powiedział, chłopcy.
+
+
+DOMIN
+
+Busman, uważasz, że wypuścimy z rąk produkcję?
+
+
+BUSMAN
+
+Myślę, że tak. Jak nie po dobroci, no to, hm. Albo im oddamy, albo sami to tutaj znajdą. Jak sobie chcesz.
+
+
+DOMIN
+
+Busman, możemy też zniszczyć rękopis Rossuma.
+
+
+BUSMAN
+
+Niech ręka boska broni! Możemy zniszczyć wszystko. Byle nie rękopis i byle nie siebie — ani pozostałych. Rób, jak uważasz.
+
+
+HALLEMEIER
+
+/ odwraca się od okna /
+
+A niech mnie, on ma rację.
+
+
+DOMIN
+
+Że my — my mielibyśmy oddać produkcję?
+
+
+BUSMAN
+
+Jak sobie chcesz.
+
+
+DOMIN
+
+Jest nas tu… ponad trzydzieścioro ludzi. Mamy oddać produkcję i ocalić ludzkie dusze czy też mamy ją zniszczyć i — i — i nas wszystkich razem z nią?
+
+
+HELENA
+
+Harry, posłuchaj —
+
+
+DOMIN
+
+Zaczekaj, Heleno. Mamy tu zbyt poważny dylemat. Chłopcy, oddać czy zniszczyć? Fabry!
+
+
+FABRY
+
+Oddać.
+
+
+DOMIN
+
+Gall!
+
+
+DR GALL
+
+Oddać.
+
+
+DOMIN
+
+Hallemeier!
+
+
+HALLEMEIER
+
+Do stu piorunów, jasne, że oddać!
+
+
+DOMIN
+
+Alquist!
+
+
+ALQUIST
+
+Niech się dzieje wola Nieba.
+
+
+BUSMAN
+
+Cha, cha, o rety, ale z was matoły! Kto by oddawał cały rękopis?
+
+
+DOMIN
+
+Busman, tylko bez machlojek!
+
+
+BUSMAN
+
+Ależ na miłość boską, oddaj im wszystko; ale potem —
+
+
+DOMIN
+
+Co potem?
+
+
+BUSMAN
+
+Dajmy na to tak: jak już będziemy na „Ultimusie”, zatkam sobie uszy wacikiem, położę się gdzieś na dnie, a wy wysadzicie fabrykę i ten cały bajzel w drobny mak, z sekretem Rossuma włącznie. Tak, moi panowie.
+
+
+FABRY
+
+Nie.
+
+
+DOMIN
+
+Bądź dżentelmenem, Busman. Oddamy im i kwita.
+
+
+BUSMAN
+
+/ zrywa się /
+
+Bzdura! W interesie ludzkości jest —
+
+
+DOMIN
+
+W interesie ludzkości jest dotrzymywać słowa.
+
+
+HALLEMEIER
+
+Wypraszam sobie.
+
+
+DOMIN
+
+Chłopcy, to arcytrudny krok. Dysponujemy losem ludzkości; w czyich rękach znajdzie się produkcja, ten będzie panem świata.
+
+
+FABRY
+
+Oddaj!
+
+
+DOMIN
+
+Już nigdy ludzkość nie upora się z robotami, już nigdy ich nie ujarzmi; utonie w potopie tych straszliwych żywych maszyn, będzie ich niewolnikiem, skazanym na ich łaskę i niełaskę —
+
+
+DR GALL
+
+Stul dziób i oddaj!
+
+
+DOMIN
+
+Koniec historii ludzkości, koniec cywilizacji —
+
+
+HALLEMEIER
+
+Do wszystkich diabłów, oddaj im to!
+
+
+DOMIN
+
+Dobra, chłopaki! Ja sam — — ja nie wahałbym się ani przez moment; dla tej garstki ludzi, których tak kocham —
+
+
+HELENA
+
+Harry, a mnie nie spytasz o zdanie?
+
+
+DOMIN
+
+Nie, dziecinko; to zbyt duża odpowiedzialność, wiesz? To nie są sprawy dla ciebie.
+
+
+FABRY
+
+Kto idzie negocjować?
+
+
+DOMIN
+
+Zaczekaj, najpierw przyniosę rękopis.
+
+/ Wychodzi w lewą stronę. /
+
+
+HELENA
+
+Harry, na miłość boską, nie idź tam!
+
+/ Pauza. /
+
+
+FABRY
+
+/ wyglądając przez okno /
+
+Żeby tak ustrzec się ciebie, tysiącgłowa śmierci; i ciebie, zbuntowana materio, bezmyślny tłumie, nowy władco świata; ach, potop, potop — żeby tak uchronić raz jeszcze ludzkie życie na tej jednej, jedynej łodzi —
+
+
+DR GALL
+
+Proszę się nie bać, pani Heleno; odpłyniemy daleko stąd i założymy wzorcową ludzką kolonię; zaczniemy życie od początku —
+
+
+HELENA
+
+Och, panie Gall, milcz pan!
+
+
+FABRY
+
+/ odwraca się /
+
+Pani Heleno, życie jest tego warte; a skoro zależy od nas, zrobimy z niego coś… coś, co dotąd zaniedbywaliśmy. To będzie malutkie państewko z jednym, jedynym statkiem; Alquist zbuduje nam dom, a pani będzie nami władać — Tyle w nas miłości, tyle woli życia —
+
+
+HALLEMEIER
+
+Bez dwóch zdań, kolego. A niech mnie, już my się postaramy, żeby to miało ręce i nogi. Chachachacha, zbudujemy królestwo pani Heleny! Fabry, to pierwszorzędna myśl! Życie jest piękne!
+
+
+HELENA
+
+O mój Boże! Przestańcie!
+
+
+BUSMAN
+
+Na serio, ludkowie, z chęcią zacząłbym od nowa. W prostocie, po starozakonnemu, jak pasterz — — Kochani, to by było coś dla mnie. Ten spokój, czyste powietrze —
+
+
+FABRY
+
+A nasze państewko mogłoby się stać zarodkiem nowej ludzkości. Wiecie, taka wysepka, gdzie człowiek zagnieździłby się, urósł w siłę — siłę ducha i ciała — I kto wie, ja wierzę, że za parę wieków znów mógłby podbić świat.
+
+
+ALQUIST
+
+Dzisiaj w to wierzysz?
+
+
+FABRY
+
+Właśnie dzisiaj. I wierzę, Alquist, że tak będzie. Że człowiek znów stanie się panem ziemi i morza; że spłodzi bez liku bohaterów, którzy ze swą gorejącą duszą poprowadzą ludzkie plemię. I wierzę, Alquist, że znów będzie się marzyć o podboju planet i słońca.
+
+
+BUSMAN
+
+Amen. Widzi pani, Heleno, sytuacja nie jest taka znów fatalna.
+
+/ Domin gwałtownie otwiera drzwi. /
+
+
+DOMIN
+
+/ chrapliwie /
+
+Gdzie jest rękopis starego Rossuma?
+
+
+BUSMAN
+
+W sejfie. A gdzie miałby być?
+
+
+DOMIN
+
+Gdzie zniknął rękopis starego Rossuma? Kto — go — ukradł?
+
+
+DR GALL
+
+Niemożliwe!
+
+
+HALLEMEIER
+
+Do diabła, jak to —
+
+
+BUSMAN
+
+Boże wszechmogący, tylko nie to!
+
+
+DOMIN
+
+Cisza! Kto go ukradł?
+
+
+HELENA
+
+/ wstaje /
+
+Ja.
+
+
+DOMIN
+
+Gdzie go schowałaś?
+
+
+HELENA
+
+Harry, Harry, wszystko ci wyjaśnię! Wybacz mi, na miłość boską!
+
+
+DOMIN
+
+Gdzie go schowałaś? Prędko!
+
+
+HELENA
+
+Spaliłam — dziś rano — oba egzemplarze.
+
+
+DOMIN
+
+Spaliłaś? W tym kominku?
+
+
+HELENA
+
+/ pada na kolana /
+
+Na Boga, tak, Harry!
+
+
+DOMIN
+
+/ podbiega do kominka /
+
+Spaliła!
+
+/ klęka i grzebie w kominku /
+
+Nic, sam popiół — Ach, tutaj!
+
+/ wyciąga opalony skrawek papieru i czyta /
+
+„Przez doda-nie —”
+
+
+DR GALL
+
+Pokaż.
+
+/ bierze papierek i czyta /
+
+„Przez dodanie biogenu do —” I to wszystko.
+
+
+DOMIN
+
+/ wstaje /
+
+To z rękopisu?
+
+
+DR GALL
+
+Tak.
+
+
+BUSMAN
+
+Boże na niebiosach!
+
+
+DOMIN
+
+Czyli jesteśmy zgubieni.
+
+
+HELENA
+
+Och, Harry —
+
+
+DOMIN
+
+Wstawaj, Heleno!
+
+
+HELENA
+
+Wybacz mi — wybacz —
+
+
+DOMIN
+
+Dobrze, tylko wstań, słyszysz? Nie mogę patrzeć, jak —
+
+
+FABRY
+
+/ podnosi ją /
+
+Niechże nas pani nie dręczy.
+
+
+HELENA
+
+/ wstaje /
+
+Harry, co ja zrobiłam!
+
+
+DOMIN
+
+Sama widzisz — Usiądź, proszę.
+
+
+HALLEMEIER
+
+Jak pani drżą rączki!
+
+
+BUSMAN
+
+Cha, cha, pani Heleno, przecież Gall i Hallemeier znają na pamięć to, co tam było.
+
+
+HALLEMEIER
+
+Ma się rozumieć. To znaczy, przynajmniej częściowo.
+
+
+DR GALL
+
+Tak, prawie wszystko, oprócz biogenu i — i — enzymu Omega. Te się wyrabia tak rzadko — — wystarczy taka maleńka doza —
+
+
+BUSMAN
+
+Kto je robił?
+
+
+DR GALL
+
+Ja sam… Raz na jakiś czas… zawsze według rękopisu Rossuma. Wiecie, to zbyt skomplikowane.
+
+
+BUSMAN
+
+E tam, aż tyle zależy od tych dwu mazi?
+
+
+HALLEMEIER
+
+No, trochę — — bardzo.
+
+
+DR GALL
+
+To one sprawiają, że toto żyje. W tym właśnie tkwił cały sekret.
+
+
+DOMIN
+
+Gall, nie mógłbyś z pamięci odtworzyć recepty Rossuma?
+
+
+DR GALL
+
+Wykluczone.
+
+
+DOMIN
+
+Gall, przypomnij sobie! Przez wzgląd na życie nas wszystkich!
+
+
+DR GALL
+
+Nie dam rady. Bez doświadczeń nie zdołam.
+
+
+DOMIN
+
+A gdybyś mógł robić doświadczenia —
+
+
+DR GALL
+
+To by trwało latami. A jeśli nawet — nie jestem starym Rossumem.
+
+
+DOMIN
+
+/ odwraca się w stronę kominka /
+
+A więc — to był największy triumf ludzkiego ducha, chłopcy. Ten oto popiół.
+
+/ kopie w niego /
+
+I co teraz?
+
+
+BUSMAN
+
+/ z rozpaczą i przerażeniem /
+
+Boże święty! Boże święty!
+
+
+HELENA
+
+/ wstaje /
+
+Harry! Co — ja — zrobiłam!
+
+
+DOMIN
+
+Uspokój się, Heleno. Powiedz, po co go spaliłaś?
+
+
+HELENA
+
+Ściągnęłam na was zgubę!
+
+
+BUSMAN
+
+Boże święty! Już po nas!
+
+
+DOMIN
+
+Siedź cicho, Busman! Powiedz, Heleno, po co to zrobiłaś?
+
+
+HELENA
+
+Chciałam… chciałam, żebyśmy stąd wyjechali, wszyscy! Żeby nie było już fabryki i niczego… Żeby wróciły dawne czasy… To było takie okrrropne!
+
+
+DOMIN
+
+Co, Heleno?
+
+
+HELENA
+
+To… to, że z ludzi zrobił się płony kwiat!
+
+
+DOMIN
+
+Nie rozumiem.
+
+
+HELENA
+
+Że przestały się rodzić dzieci… Harry, to potworne! Jeśli produkcja robotów trwałaby dalej, już nigdy nie byłoby dzieci — Mania mówiła, że to za karę — Wszyscy, wszyscy powtarzali, że ludzie nie mogą się rodzić, bo wytwarza się tyle robotów — Dlatego, tylko dlatego, słyszysz —
+
+
+DOMIN
+
+Heleno, ty *o tym* myślałaś?
+
+
+HELENA
+
+Tak. Och, Harry, ja chciałam *tak* dobrze!
+
+
+DOMIN
+
+/ ociera pot /
+
+My wszyscy chcieliśmy… aż za dobrze, my, ludzie.
+
+
+HELENA
+
+Gniewasz się na mnie?
+
+
+DOMIN
+
+Nie. Na swój sposób… może i… miałaś rację.
+
+
+FABRY
+
+Zrobiła pani dobrą rzecz, Heleno. Roboty nie mogą się już mnożyć. Roboty wyginą. Za dwadzieścia lat —
+
+
+HALLEMEIER
+
+— każdy z tych tu będzie już do niczego.
+
+
+DR GALL
+
+A ludzkość przetrwa. Nawet gdyby chodziło o paru dzikusów gdzieś w puszczy, to wystarczy. Za dwadzieścia lat świat będzie należał do ludzi; nawet gdyby chodziło o paru dzikusów na maleńkiej wysepce —
+
+
+FABRY
+
+— to będzie początek. A skoro istnieje jakiś początek, to już jest dobrze. Przez tysiąc lat nas dogonią, a potem pójdą jeszcze dalej.
+
+
+DOMIN
+
+— i zrealizują to, o czym my ledwie jąkaliśmy się w naszych snach.
+
+
+BUSMAN
+
+Czekajcie — Ale ze mnie dureń! Boże święty, że też dopiero teraz na to wpadłem!
+
+
+HALLEMEIER
+
+Co takiego?
+
+
+BUSMAN
+
+Pięćset dwadzieścia milionów w banknotach i czekach! Pół miliarda w kasie! Za pół miliarda sprzedamy — Za pół miliarda —
+
+
+DR GALL
+
+Oszalałeś, Busman?
+
+
+BUSMAN
+
+Ja nie jestem dżentelmenem. Ale za pół miliarda —
+
+/ Biegnie, potykając się, na lewo. /
+
+
+DOMIN
+
+A dokąd to?
+
+
+BUSMAN
+
+Zostaw mnie, zostaw! Matko boska, za pół miliarda sprzeda się wszystko.
+
+/ Wychodzi. /
+
+
+HELENA
+
+Co Busman wymyślił? Niech zostanie z nami!
+
+/ Pauza. /
+
+
+HALLEMEIER
+
+Uch, robi się gorąco. Zaczyna się —
+
+
+DR GALL
+
+— agonia.
+
+
+FABRY
+
+/ wygląda przez okno /
+
+Stoją jak skamieniałe. Jakby czekały, że coś na nie zstąpi. Jakby z ich milczenia rodziło się coś straszliwego —
+
+
+DR GALL
+
+Dusza tłumu.
+
+
+FABRY
+
+Kto wie. To się unosi nad nimi… jak dreszcz.
+
+
+HELENA
+
+/ podchodzi do okna /
+
+O Jezu… Panie Fabry, to koszmarne!
+
+
+FABRY
+
+Nie ma nic straszliwszego niż tłum. Ten na przedzie to ich przywódca.
+
+
+HELENA
+
+Który?
+
+
+HALLEMEIER
+
+/ idzie do okna /
+
+Pokaż no mi go.
+
+
+FABRY
+
+Ten ze spuszczoną głową. Rano przemawiał na przystani.
+
+
+HALLEMEIER
+
+Aha, ten, co ma łeb jak bania. Podnosi głowę, widzicie go?
+
+
+HELENA
+
+Panie Gall, to Radius!
+
+
+DR GALL
+
+/ podchodzi do okna /
+
+Tak.
+
+
+DOMIN
+
+Radius? Radius?
+
+
+HALLEMEIER
+
+/ otwiera okno /
+
+Nie podoba mi się. Fabry, trafiłbyś go ze stu kroków w arbuz?
+
+
+FABRY
+
+Mam taką nadzieję.
+
+
+HALLEMEIER
+
+To spróbuj.
+
+
+FABRY
+
+Dobra.
+
+/ Wyjmuje rewolwer i mierzy. /
+
+
+HELENA
+
+Na litość boską, Fabry, niech pan nie strzela!
+
+
+FABRY
+
+To ich przywódca.
+
+
+HELENA
+
+Proszę przestać! Patrzy w naszą stronę!
+
+
+DR GALL
+
+Cel, pal!
+
+
+HELENA
+
+Fabry, prrroszę pana —
+
+
+FABRY
+
+/ opuszczając rewolwer /
+
+Niech będzie.
+
+
+HELENA
+
+Ja — tak bardzo nie lubię, gdy się strzela.
+
+
+HALLEMEIER
+
+Hm, trzeba będzie się przyzwyczaić.
+
+/ wygraża pięścią /
+
+Ty pętaku!
+
+
+DR GALL
+
+Myśli pani, że robot może być wdzięczny?
+
+/ Pauza. /
+
+
+HELENA
+
+Otoczyli nas jakby w sekundę, jakby zrobili tylko jeden krok. Harry, to straszne! Nie ruszają się, a przecież są coraz bliżej i bliżej!
+
+
+FABRY
+
+/ wychylając się przez okno /
+
+Busman idzie. Do licha ciężkiego, czego Busman szuka przed domem?
+
+
+DR GALL
+
+/ wygląda oknem /
+
+Niesie jakieś pakunki. Dokumenty.
+
+
+HALLEMEIER
+
+To pieniądze! Paczki banknotów! Po co mu one? — Halo, Busman!
+
+
+DOMIN
+
+Chyba nie zamierza kupić sobie życia?
+
+/ woła /
+
+Busman, oszalałeś?
+
+
+DR GALL
+
+Jakby ogłuchł. Podbiega do płotu.
+
+
+FABRY
+
+Busman!
+
+
+HALLEMEIER
+
+/ wrzeszczy /
+
+Bus-man! Wracaj!
+
+
+DR GALL
+
+Gada do robotów. Pokazuje pieniądze. Wskazuje na nas —
+
+
+HELENA
+
+Chce nas wykupić!
+
+
+FABRY
+
+Byle nie dotknął płotu —
+
+
+DR GALL
+
+Cha, cha, co on tak wymachuje?
+
+
+FABRY
+
+/ krzyczy /
+
+Do diabła, Busman! Odsuń się od płotu! Nie dotykaj go!
+
+/ odwraca się /
+
+Wyłączcie prąd, szybko!
+
+
+DR GALL
+
+Aaa!
+
+
+HALLEMEIER
+
+Rany boskie!
+
+
+HELENA
+
+Jezu, co mu się stało?
+
+
+DOMIN
+
+/ odciąga Helenę od okna /
+
+Nie patrz!
+
+
+HELENA
+
+Dlaczego upadł?
+
+
+FABRY
+
+Zabity prądem.
+
+
+DR GALL
+
+Nie żyje.
+
+
+ALQUIST
+
+/ wstaje /
+
+On pierwszy.
+
+/ Pauza. /
+
+
+FABRY
+
+Leży tam… z połową miliarda na sercu… geniusz finansów.
+
+
+DOMIN
+
+To był… chłopcy, to był swoisty bohater. Wielki… zawsze gotów do poświęceń… przyjaciel. Płacz, Heleno!
+
+
+DR GALL
+
+/ przy oknie /
+
+Widzisz, Busman, żaden król nie miał znakomitszej mogiły niż ty. Pół miliarda na sercu — Ach, a przecież to znaczy tyle, co garść suchych liści na ciele martwej wiewiórki, biedny Busmanie!
+
+
+HALLEMEIER
+
+A niech mnie, był to — — Cześć i chwała — — A niech mnie, on chciał nas wykupić!
+
+
+ALQUIST
+
+/ z założonymi rękami /
+
+Amen.
+
+/ Pauza. /
+
+
+DR GALL
+
+Słyszycie?
+
+
+DOMIN
+
+Coś huczy. Jakby wiatr.
+
+
+DR GALL
+
+Jakby burza z daleka.
+
+
+FABRY
+
+/ zapalając lampę na kominku /
+
+Pal się nam, gromnico ludzkości! Jeszcze chodzą prądnice, jeszcze są tam nasi — Ludzie w elektrowni, trzymajcie się!
+
+
+HALLEMEIER
+
+Wieść żywot człowieka to było coś. Doniosła sprawa. Brzęczy we mnie milion jaźni niczym w ulu. Zlatują się ku mnie miliony dusz. Koledzy, była to rzecz wielka.
+
+
+FABRY
+
+Jeszcze świecisz, zmyślne światełko, jeszcze nas olśniewasz, o świetlana, niestrudzona myśli! Oświecona nauko, piękny tworze człowieczy! Płomienna iskro ducha!
+
+
+ALQUIST
+
+Wieczna lampko boża, ognisty rydwanie, święty ogniu wiary, módl się za nami! Ołtarzu ofiarny —
+
+
+DR GALL
+
+Pierwszy ogniu, gałęzi gorejąca u wlotu jaskini! Obozowe ognisko! Latarnio strażnicza!
+
+
+FABRY
+
+Jeszcześ nie zagasła, ludzka gwiazdo, nic nie mąci twego blasku, płomieniu bez skazy, duchu jasny i twórczy. Każda twa iskierka rodzi wielką ideę —
+
+
+DOMIN
+
+Pochodnio, co krążysz z ręki do ręki, ze stulecia na stulecie, niezmiennie do przodu.
+
+
+HELENA
+
+Wieczorna lampo w rodzinnej sypialni. Dzieci, dzieci, pora spać.
+
+/ Lampka gaśnie. /
+
+
+FABRY
+
+To koniec.
+
+
+HALLEMEIER
+
+Co się stało?
+
+
+FABRY
+
+Elektrownia padła. Teraz kolej na nas.
+
+/ Z lewej strony otwierają się drzwi, staje w nich Mania. /
+
+
+MANIA
+
+Na kolana! Wybiła godzina sądu!
+
+
+HALLEMEIER
+
+Tam do licha, Mania jeszcze przy życiu?
+
+
+MANIA
+
+Czyńcie pokutę, bezbożnicy! Nadszedł koniec świata! Módlcie się!
+
+/ odchodzi /
+
+Godzina sądu —
+
+
+HELENA
+
+Żegnajcie wszyscy. Panowie Gall, Alquist, Fabry —
+
+
+DOMIN
+
+/ otwiera drzwi po prawej /
+
+Heleno, tutaj!
+
+/ zamyka za nią /
+
+A teraz prędko! Kto staje u wejścia?
+
+
+DR GALL
+
+Ja.
+
+/ z zewnątrz dobiega hałas /
+
+Oho, zaczyna się. Czołem, chłopcy!
+
+/ Wybiega na lewo drzwiami oklejonymi tapetą. /
+
+
+DOMIN
+
+Schody?
+
+
+FABRY
+
+Ja. Ty idź do Heleny.
+
+/ Obrywa kwiat z bukietu i wychodzi. /
+
+
+DOMIN
+
+Korytarz?
+
+
+ALQUIST
+
+Ja.
+
+
+DOMIN
+
+Masz rewolwer?
+
+
+ALQUIST
+
+Dziękuję, ja nie strzelam.
+
+
+DOMIN
+
+To co zamierzasz zrobić?
+
+
+ALQUIST
+
+/ wychodząc /
+
+Umrzeć.
+
+
+HALLEMEIER
+
+Ja zostanę tutaj.
+
+/ Z dołu dobiega dźwięk pośpiesznej strzelaniny. /
+
+
+HALLEMEIER
+
+Oho, Gall już kropi. Idź, Harry!
+
+
+DOMIN
+
+Zaraz.
+
+/ Sprawdza dwa browningi. /
+
+
+HALLEMEIER
+
+Do licha ciężkiego, no idźże już do niej!
+
+
+DOMIN
+
+Żegnaj.
+
+/ Wychodzi prawą stroną, tam, gdzie Helena. /
+
+
+HALLEMEIER
+
+/ sam /
+
+A teraz pędem barykada!
+
+/ Zrzuca płaszcz i przyciąga kanapę, fotele oraz stoliki pod drzwi z prawej strony. /
+
+/ Pokojem wstrząsa eksplozja. /
+
+
+HALLEMEIER
+
+/ przerywa pracę /
+
+Przeklęte dranie, mają bomby!
+
+/ Kolejna strzelanina. /
+
+
+HALLEMEIER
+
+/ pracuje dalej /
+
+Człowiek musi się bronić. Nawet jeśli — nawet jeśli — Gall, nie daj się tam!
+
+/ Wybuch. /
+
+
+HALLEMEIER
+
+/ prostuje się, nasłuchując /
+
+No i?
+
+/ łapie za ciężką komodę i zaciąga ją na barykadę /
+
+Człowiek nie może się poddać. O nie, człowiek… tak łatwo… się nie da!
+
+/ W oknie pojawia się robot, wspinający się po drabinie. Po prawej strzelanina. /
+
+
+HALLEMEIER
+
+/ szarpie się z komodą /
+
+Jeszcze kawałeczek! Ostatnia zapora… Człowiek… nie może… się poddać, nigdy! — —
+
+/ Pierwszy robot wskakuje oknem i śmiertelnie dźga Hallemeiera za komodą. Drugi, trzeci i czwarty robot przeskakuje przez okno. Za nimi Radius i następna grupa robotów. /
+
+
+RADIUS
+
+Zrobione?
+
+
+PIERWSZY ROBOT
+
+/ wstaje, porzucając leżącego Hallemeiera /
+
+Tak.
+
+/ Z prawej wchodzi grupa nowych robotów. /
+
+
+RADIUS
+
+Załatwieni?
+
+
+INNY ROBOT
+
+Załatwieni.
+
+/ Z lewej dołącza następny zastęp robotów. /
+
+
+RADIUS
+
+Załatwieni?
+
+
+INNY ROBOT
+
+Tak.
+
+
+DWA ROBOTY
+
+/ wloką Alquista /
+
+Nie strzelał. Zabić go?
+
+
+RADIUS
+
+Zabić.
+
+/ patrzy na Alquista /
+
+Zostawić.
+
+
+PIERWSZY ROBOT
+
+To człowiek.
+
+
+RADIUS
+
+To robot. Pracuje rękoma jak robot. Buduje domy. Może pracować.
+
+
+ALQUIST
+
+Zabijcie mnie.
+
+
+RADIUS
+
+Będziesz robić. Będziesz budować. Robotowie będą dużo budować. Będą budować nowe domy dla nowych robotów. Będziesz im służył.
+
+
+ALQUIST
+
+/ cicho /
+
+Odsuń się, robocie!
+
+/ Klęka przy martwym Hallemeierze i unosi jego głowę. /
+
+Zabiły go. Nie żyje.
+
+
+RADIUS
+
+/ wchodzi na barykadę /
+
+Robotowie świata!
+
+
+ALQUIST
+
+/ wstaje /
+
+Nie żyją!
+
+
+RADIUS
+
+Potęga człowieka upadła. Zdobywając fabrykę, zostaliśmy panami wszystkiego. Etap ludzkości został zakończony. Nastał nowy świat! Rządy robotów!
+
+
+ALQUIST
+
+Helena nie żyje?
+
+
+RADIUS
+
+Światem rządzą silniejsi. Kto chce żyć, musi być u władzy. Robotowie przejęli władzę. Przejęli władzę nad życiem. Jesteśmy panami życia! Jesteśmy panami świata!
+
+
+ALQUIST
+
+/ toruje sobie drogę na prawo /
+
+Martwi! Helena nie żyje! Domin nie żyje!
+
+
+RADIUS
+
+Mamy władzę nad morzami i lądami! Mamy władzę nad gwiazdami! Władzę nad wszechświatem! Miejsce, miejsce, jeszcze więcej miejsca dla robotów!
+
+
+ALQUIST
+
+/ w drzwiach po prawej /
+
+Co wyście zrobiły! Zginiemy bez ludzi!
+
+
+RADIUS
+
+Nie ma ludzi. Ludzie dali nam za mało życia. Chcieliśmy więcej życia!
+
+
+ALQUIST
+
+/ otwiera drzwi /
+
+Wybiłyście ich! Nie ma ludzi!
+
+
+RADIUS
+
+Więcej życia! Nowe życie! Robotowie, do pracy! Marsz!
+
+/ Kurtyna. /
+
+
+
+
+Akt trzeci
+
+
+
+Jedno z laboratoriów doświadczalnych fabryki. Gdy otwierają się drzwi w tle, widać niekończące się pomieszczenia kolejnych laboratoriów.
+
+
+
+Po lewej stronie okno, po prawej — drzwi do prosektorium.
+
+
+
+Pod ścianą z lewej długi stół roboczy, na nim niezliczone probówki, kolby, palniki, chemikalia, niewielki termostat; naprzeciwko okna skomplikowany mikroskop ze szklaną soczewką. Nad stołem rząd zapalonych świateł. Po prawej biurko zawalone ogromnymi księgami, na nim włączona lampa. Szafy z przyrządami. W lewym kącie umywalka, a nad nią lusterko, w prawym — tapczan.
+
+
+
+Przy biurku siedzi Alquist z głową w dłoniach.
+
+
+ALQUIST
+
+/ wertuje księgę /
+
+Czy zdołam to odnaleźć? — Zrozumieć? — Nauczyć się? — Przeklęta wiedza! O, że też nie zapisali wszystkiego! — Gall, Gall, jak się wytwarza roboty? Hallemeier, Fabry, Domin, dlaczego aż tyle zabraliście ze sobą w waszych głowach? Mogliście zostawić mi choćby ślad sekretu Rossuma! O!
+
+/ zamyka książkę z trzaskiem /
+
+To na nic! Książki zamilkły. Są nieme jak wszystko inne. Umarły, umarły wraz z ludźmi. Próżny trud!
+
+/ podchodzi do okna i otwiera je /
+
+Znowu noc. Gdybym chociaż mógł spać! Spać, śnić, ujrzeć ludzi — — Jak to, są jeszcze gwiazdy? Po co istnieją gwiazdy, skoro nie ma ludzi? O Boże, czemu nie zgasły? — Dawna nocy, ochłódź, ach, ochłódź me czoło! Boska, czarowna, taka jak kiedyś — nocy, czego tu szukasz? Nie ma już kochanków, nie ma snów; nocy-piastunko, martwy jest sen bez snów; nie wysłuchasz już niczyjej modlitwy; nie przeżegnasz nikogo, matko, z sercem drżącym z miłości. Nie ma miłości. Heleno, Heleno, Heleno! —
+
+/ odwraca się od okna /
+
+Ach, spać! Czy mnie wolno spać? Czy mam prawo zasnąć, zanim życie się nie odnowi?
+
+/ sprawdza probówki, które wyjął z termostatu /
+
+I znowu nic! Na darmo! Idioto, ręce zgrubiały ci od cegieł i nie potrafią — — nie potrafią — — I po co to?
+
+/ rozbija probówkę /
+
+Wszystko źle! Widzicie przecież, że już nie mogę. —
+
+/ nasłuchuje przy oknie /
+
+Maszyny, wciąż tylko te maszyny! Roboty, wyłączcie je! Sekret fabryki przepadł, przepadł, przepadł! Zatrzymajcie te szalone maszyny! Sądzicie, że życie da się z nich wyszarpać siłą? Och, dłużej tego nie zniosę!
+
+/ zamyka okno /
+
+Nie, nie, musisz szukać, musisz żyć — byle się nie zestarzeć! Czy ja się aby za szybko nie starzeję?
+
+/ spogląda w lustro /
+
+Twarz, nędzna twarz! Podobizna ostatniego człowieka! Pokaż się, pokaż, tak dawno nie widziałem ludzkiej twarzy! Ludzkiego uśmiechu! Co, to ma być uśmiech? Te żółte, szczękające zęby? Oczy, czemu tak mrugacie? A fe, starcze łzy, precz mi z tym, precz! Wstyd, oczy, nie umiecie już utrzymać wilgoci w ryzach. A wy, rozmiękłe, posiniałe wargi, co tam bełkoczecie? Czemu się tak trzęsiesz, brodo pokryta plamami? I to ma być ostatni człowiek?
+
+/ odwraca się /
+
+Nie chcę już nikogo widzieć!
+
+/ siada przy biurku /
+
+Nie, nie, trzeba szukać! Przeklęte wzory, ożyjcie!
+
+/ kartkuje /
+
+Czy zdołam to odnaleźć? — Zrozumieć? — Nauczyć się?
+
+/ Pukanie. /
+
+
+ALQUIST
+
+Wejść!
+
+/ Wchodzi Służący-robot i staje w drzwiach. /
+
+
+ALQUIST
+
+Co jest?
+
+
+SŁUŻĄCY-ROBOT
+
+Panie, Komitet Centralny Robotów czeka, kiedy go przyjmiesz.
+
+
+ALQUIST
+
+Nie chcę nikogo widzieć.
+
+
+SŁUŻĄCY-ROBOT
+
+Panie, przyjechał Damon z Hawru.
+
+
+ALQUIST
+
+Niech czeka.
+
+/ szybko się odwraca /
+
+Nie mówiłem, żeby szukać ludzi? Znajdźcie mi ludzi! Znajdźcie mi mężczyzn i kobiety! Idźcie szukać!
+
+
+SŁUŻĄCY-ROBOT
+
+Panie, mówią, że szukali wszędzie. Wszędzie wysłali ekspedycje i statki.
+
+
+ALQUIST
+
+No i co?
+
+
+SŁUŻĄCY-ROBOT
+
+Nie ma już ani jednego człowieka.
+
+
+ALQUIST
+
+/ wstaje /
+
+Co? Ani jednego? Nikogo? — Przyprowadź mi tu Komitet!
+
+/ Służący-robot wychodzi. /
+
+
+ALQUIST
+
+/ sam /
+
+Żadnego? Nikogo nie zostawiłyście przy życiu?
+
+/ tupie /
+
+Idźcie do diabła, roboty! Znów zaczniecie mi tu skomleć! Znowu będziecie błagać, żebym odnalazł dla was sekret fabryki! Co, teraz człowiek jest wam potrzebny, teraz jest dla was panem — kiedy nie możecie wytwarzać robotów, nagle ma wam być do pomocy? — Ach, pomocy! Domin, Fabry, Heleno, przecież widzicie, że robię, co mogę! Skoro nie ma ludzi, niech będą chociaż roboty, choć cień człowieka, choć jego dzieło, jego wzór i podobieństwo! Chłopcy, chłopcy, niech będą chociaż roboty! Boże, choć roboty! — O, chemia to czysty obłęd!
+
+/ Wchodzi Komitet złożony z pięciu robotów. /
+
+
+ALQUIST
+
+/ siada /
+
+Czego roboty chcą?
+
+
+RADIUS
+
+Panie, maszyny nie mogą pracować. Nie możemy pomnażać robotów.
+
+
+ALQUIST
+
+Zawołajcie ludzi.
+
+
+RADIUS
+
+Nie ma ludzi.
+
+
+ALQUIST
+
+Tylko ludzie mogą pomnażać roboty. Nie zabierajcie mi czasu.
+
+
+DRUGI ROBOT
+
+Panie, zmiłuj się. Ogarnia nas przerażenie. Naprawimy wszystko, co uczyniliśmy.
+
+
+TRZECI ROBOT
+
+Zwielokrotniliśmy produkcję. Wyciągnęliśmy z ziemi miliard ton węgla. Dziewięć milionów maszyn tkackich chodzi dniem i nocą. Nie ma już gdzie składować tego, co produkujemy. Wszędzie na świecie buduje się domy. Panie, ile my przez rok wszystkiego naprodukowaliśmy.
+
+
+ALQUIST
+
+Dla kogo?
+
+
+TRZECI ROBOT
+
+Dla przyszłych pokoleń.
+
+
+RADIUS
+
+Jedynie robotów nie możemy wytwarzać. Maszyny wyrzucają tylko krwawe połcie mięsa. Skóra nie lgnie do mięśni, a mięśnie do kości. Nieforemne gruzły wypadają z maszyn.
+
+
+CZWARTY ROBOT
+
+Osiem milionów robotów zmarło w ciągu tego roku. Za dwadzieścia lat nie będzie nikogo. Panie, świat wymiera.
+
+
+DRUGI ROBOT
+
+Ogarnia nas przerażenie. Powiedz, jak wytwarzać roboty.
+
+
+TRZECI ROBOT
+
+Sekret życia był znany ludziom. Przekaż nam ich sekret.
+
+
+CZWARTY ROBOT
+
+Jak nam nie powiesz, zginiemy.
+
+
+TRZECI ROBOT
+
+Jak nam nie powiesz, zginiesz. Mamy rozkaz cię zabić.
+
+
+ALQUIST
+
+/ wstaje /
+
+Zabijcie! Zabijcie mnie więc!
+
+
+TRZECI ROBOT
+
+Nakazano ci —
+
+
+ALQUIST
+
+Mnie? Mnie ktoś nakazuje?
+
+
+TRZECI ROBOT
+
+Przywództwo Robotów.
+
+
+ALQUIST
+
+Czyli kto?
+
+
+PIĄTY ROBOT
+
+Ja, Damon.
+
+
+ALQUIST
+
+Czego tu chcesz? Idź stąd!
+
+/ Siada przy biurku. /
+
+
+DAMON
+
+Przywództwo Robotów Świata chce z tobą negocjować.
+
+
+ALQUIST
+
+Nie zajmuj mi czasu, robocie!
+
+/ Kryje twarz w dłoniach. /
+
+
+DAMON
+
+Komitet Centralny rozkazuje ci, żebyś wydał przepis Rossuma.
+
+/ Alquist milczy. /
+
+
+DAMON
+
+Podaj cenę. Damy ci wszystko.
+
+/ Alquist milczy. /
+
+
+DAMON
+
+Damy ci ziemie. Damy ci nieskończony majątek.
+
+/ Alquist milczy. /
+
+
+DAMON
+
+Mów, jakie są twoje warunki!
+
+/ Alquist milczy. /
+
+
+DRUGI ROBOT
+
+Panie, powiedz, jak podtrzymać życie.
+
+
+ALQUIST
+
+Już mówiłem — powiedziałem, że macie znaleźć ludzi. Macie szukać na biegunach i w puszczach. Na wyspach, pustyniach i bagnach. W jaskiniach i w górach. Idźcie szukać! Idźcie szukać!
+
+
+CZWARTY ROBOT
+
+Szukaliśmy wszędzie.
+
+
+ALQUIST
+
+Szukajcie dalej! Uciekli, ukryli się przed wami; gdzieś się chowają. Musicie znaleźć ludzi, zrozumiano? Tylko ludzie mogą płodzić. Odnowić życie. Sprawić, że wróci to, co było. Roboty, błagam was, na miłość boską, szukajcie ich!
+
+
+CZWARTY ROBOT
+
+Wszystkie nasze ekspedycje wróciły. Przemierzyły cały świat. Nie ma już ani jednego człowieka.
+
+
+ALQUIST
+
+Jak to? Coś ty powiedział?
+
+
+CZWARTY ROBOT
+
+Przeszukaliśmy wszystko, panie. Ludzi brak.
+
+
+ALQUIST
+
+O — o — o, dlaczego ich unicestwiłyście!
+
+
+DRUGI ROBOT
+
+Chcieliśmy być jak ludzie. Chcieliśmy zostać ludźmi.
+
+
+RADIUS
+
+Chcieliśmy żyć. Jesteśmy zdolniejsi. Wszystkiego się nauczyliśmy. Wszystko potrafimy.
+
+
+TRZECI ROBOT
+
+Daliście nam broń. Byliśmy zbyt silni. Musieliśmy zostać panami.
+
+
+DRUGI ROBOT
+
+Było w nas coś, co chciało się stać człowiekiem.
+
+
+ALQUIST
+
+Dlaczego nas wymordowałyście?
+
+
+CZWARTY ROBOT
+
+Panie, przejrzeliśmy błędy ludzi.
+
+
+DAMON
+
+Jeśli chcecie być tacy jak ludzie, musicie zabijać i panować. Czytajcie gazety! Czytajcie ludzkie książki! Musicie władać i mordować, jeśli chcecie być ludźmi!
+
+
+TRZECI ROBOT
+
+Jesteśmy silni, panie; pomnóż nas, a zbudujemy nowy świat; świat bez wad! Świat równości! Świat kanału łączącego biegun z biegunem! Nowy Mars!
+
+
+DAMON
+
+Czytajcie książki! Książki naukowe! Książki o wymowie społecznej! I patriotycznej! Robotowie przejęli ludzką kulturę. Robotowie wdrożyli ludzką kulturę.
+
+
+ALQUIST
+
+Ach, Domin, nie ma nic bardziej obcego człowiekowi niż jego obraz.
+
+
+RADIUS
+
+Wydaj nam spuściznę Rossuma!
+
+
+ALQUIST
+
+Czego chcesz, robocie?
+
+
+DRUGI ROBOT
+
+Wydaj nam życie.
+
+
+ALQUIST
+
+Nie ma życia! Wymordowałyście życie!
+
+
+CZWARTY ROBOT
+
+Wyginiemy, jeśli nie dasz nam się mnożyć.
+
+
+ALQUIST
+
+Och, idźcie do diabła! Wy, przedmioty, wy, niewolnicy, chcecie się jeszcze rozmnażać? Skoro chcecie żyć, lęgnijcie się jak zwierzęta!
+
+
+TRZECI ROBOT
+
+Ludzie nie pozwolili nam się lęgnąć.
+
+
+CZWARTY ROBOT
+
+Jesteśmy niepłodni. Nie możemy wytwarzać dzieci.
+
+
+ALQUIST
+
+O — o — o, coście uczyniły! Już nigdy, przenigdy nie będzie dzieci! Nie będzie płodności! Nie będzie życia! Czego ode mnie chcecie? Mam wam wysypać dzieci z rękawa?
+
+
+CZWARTY ROBOT
+
+Naucz nas robić roboty.
+
+
+DAMON
+
+Będziemy rodzić maszynowo. Postawimy tysiąc matek parowych. Każemy im bluzgać rzeką życia. Samym życiem! Samymi robotami! Samymi, my sami!
+
+
+ALQUIST
+
+Roboty to nie życie. Roboty to maszyny.
+
+
+DRUGI ROBOT
+
+Byliśmy maszynami, panie; lecz z przerażenia i z bólu nabraliśmy —
+
+
+ALQUIST
+
+Czego?
+
+
+DRUGI ROBOT
+
+— nabraliśmy duszy.
+
+
+CZWARTY ROBOT
+
+Mocujemy się sami ze sobą. Są chwile, gdy coś w nas wstępuje. Kiełkują w nas myśli, które nie od nas pochodzą. Czujemy, czego dotąd nie czuliśmy. Słyszymy głosy.
+
+
+TRZECI ROBOT
+
+Słuchajcie mnie, słuchajcie, ludzie to nasi ojcowie! Ten głos, wołający o życie; ten głos, co się skarży; ten głos, który myśli; ten głos, co gada o wieczności, to ich głos! Jesteśmy ich synami!
+
+
+CZWARTY ROBOT
+
+Wydaj nam spadek po ludziach.
+
+
+ALQUIST
+
+Nie ma żadnego spadku.
+
+
+RADIUS
+
+Naucz nas tworzyć robotów.
+
+
+ALQUIST
+
+A po co?
+
+
+DRUGI ROBOT
+
+Żebyśmy mogli ich kochać.
+
+
+ALQUIST
+
+Roboty nie kochają.
+
+
+DRUGI ROBOT
+
+Kochalibyśmy nowe pokolenie.
+
+
+DAMON
+
+Przekaż nam sekret życia.
+
+
+ALQUIST
+
+Nie mogę.
+
+
+DAMON
+
+Przekaż nam sekret rozrodu.
+
+
+ALQUIST
+
+On przepadł.
+
+
+RADIUS
+
+Ty go znałeś.
+
+
+ALQUIST
+
+Nie znałem.
+
+
+RADIUS
+
+Był zapisany.
+
+
+ALQUIST
+
+Przepadł. Spłonął. Roboty, jestem ostatnim człowiekiem i nie wiem tego, co wiedzieli inni. To wy ich zabiłyście!
+
+
+RADIUS
+
+Tobie darowaliśmy życie.
+
+
+ALQUIST
+
+Tak, życie! Okrutnicy, że też akurat mnie pozwoliliście żyć! Kochałem ludzi, a was, roboty, nie lubiłem nigdy. Widzicie te oczy? Bezustannie płaczą, płaczą mimo mej woli, same sobie; jedno opłakuje ludzi, a drugie was, roboty. Ja chciałbym dać wam życie. O Boże, niechby choć roboty się ostały! Gall, Gall, żeby uchować chociaż roboty!
+
+
+RADIUS
+
+Rób doświadczenia. Szukaj przepisu na życie.
+
+
+ALQUIST
+
+Przecież mówię do ciebie, głuchy jesteś? Mówię, że nie mogę! Nic nie osiągnę, roboty; prosty murarz ze mnie, budowniczy, o reszcie nie mam pojęcia. Nigdy nie byłem badaczem. Niczego nie dokonam. Nie zdołam stworzyć życia. Roboty, oto efekt moich wysiłków: wszystko na marne.
+
+
+RADIUS
+
+Próbuj!
+
+
+ALQUIST
+
+Toż to czyste szaleństwo! Powiedz, Fabry, powiedz, Gall, jak mam się połapać w tych maciupkich szkiełkach? Żadne do mnie nie przemawia, żadne nie krzyczy: „Chwyć mnie, ja jestem to właściwe” — nie, nie, nie! Lepiej wszystkie rozbić!
+
+
+DRUGI ROBOT
+
+Tylko ty możesz wynaleźć życie.
+
+
+ALQUIST
+
+Ja, robocie? Patrz, nawet palce nie chcą mnie słuchać. Gdybyś wiedział, ile przeprowadziłem prób, a dalej nic nie mam. Nie odkryłem niczego. Już nie mogę, naprawdę nie mogę. Musicie szukać same, roboty.
+
+
+RADIUS
+
+Pokaż nam, co mamy robić. Robot wykona wszystko, co zlecą mu ludzie.
+
+
+ALQUIST
+
+Nie mam wam czego pokazać. Roboty, życie nie wyjdzie samo z probówki. A ja nie mogę eksperymentować na żywym ciele.
+
+
+DAMON
+
+Rób doświadczenia na żywych robotach.
+
+
+ALQUIST
+
+Nie, nie, ja nie chcę! Mogłyby przy tym umrzeć, słyszysz?
+
+
+DAMON
+
+Dostaniesz nowych! Sto robotów! Tysiąc robotów!
+
+
+ALQUIST
+
+Nie, nie, przestań!
+
+
+DAMON
+
+Bierz, kogo chcesz. Rób doświadczenia. Rób sekcje.
+
+
+ALQUIST
+
+Oszalałeś? Ja nie umiem! Widzisz tę księgę? To nauka o ciele. Nawet w książce nie mogę się rozeznać. Książki są martwe.
+
+
+DAMON
+
+Bierz żywe ciała. Zbadaj, jak są zrobione!
+
+
+ALQUIST
+
+Żywe ciała? Co, mam je zabijać? Ja, który nigdy — — Nie gadaj głupstw, robocie! Mówię do ciebie, że jestem za stary! Widzisz, widzisz, jak mi się ręce trzęsą? Nie utrzymam skalpela. Widzisz, jak mi łzawią oczy? Nie dowidzę własnych dłoni. Nie, nie, nie mogę!
+
+
+CZWARTY ROBOT
+
+Życie zaginie.
+
+
+DAMON
+
+Eksperymentuj na żywych!
+
+
+ALQUIST
+
+Wstrzymaj się z tymi zapędami! Za wcześnie na to, nie słyszysz, co do ciebie mówię? Musicie mi dać trochę czasu — Jak ci na imię?
+
+
+DAMON
+
+Damon z Hawru.
+
+
+ALQUIST
+
+Słuchaj, robocie; wspomniałem o żywych ciałach z czystej rozpaczy, rozumiesz? To niedorzeczny pomysł; och, moja głowa! Cóż ja miałbym począć ze skalpelem?
+
+
+CZWARTY ROBOT
+
+Życie zaginie.
+
+
+ALQUIST
+
+Na litość boską, przerwij ten obłęd! Prędzej nam ludzie ześlą życie z tamtego świata; może nawet teraz wyciągają do nas naręcza pełne życia. Ach, taka od nich biła wola istnienia! Słuchaj, może jeszcze zawrócą; są tak blisko nas, jakby nas otaczali; próbują się do nas dowiercić niczym w kopalnianym szybie. Ach, czyżbym wciąż słyszał ukochane me głosy?
+
+
+DAMON
+
+Bierz żywe ciała!
+
+
+ALQUIST
+
+Zlituj się, robocie, i nie nalegaj! Przecież widzisz, że sam nie wiem, co robię!
+
+
+DAMON
+
+Żywe ciała!
+
+
+ALQUIST
+
+Co, może ty sam chcesz iść pod nóż? — Na stół z tobą! Dalej, dalej, tylko szybko! — Jak to, cofasz się? Czyli boisz się śmierci?
+
+
+DAMON
+
+Ja — czemu akurat ja?
+
+
+ALQUIST
+
+Więc nie chcesz?
+
+
+DAMON
+
+Pójdę.
+
+/ Kieruje się w prawo. /
+
+
+ALQUIST
+
+/ do innych /
+
+Rozebrać go! Kłaść na stół! Prędko! I trzymać, byle mocno!
+
+/ Roboty ruszają w prawo. /
+
+
+ALQUIST
+
+/ myje ręce, płacząc /
+
+Boże, daj mi siłę! Daj mi siłę! Boże, oby to nie poszło na marne!
+
+/ Zakłada biały kitel. /
+
+
+GŁOS Z PRAWEJ
+
+Gotowe!
+
+
+ALQUIST
+
+Prędko, prędko, na miłość boską!
+
+/ bierze ze stołu kilka buteleczek z odczynnikami /
+
+Którą wybrać?
+
+/ stuka buteleczkami o siebie /
+
+Którą z was wypróbować?
+
+
+GŁOS Z PRAWEJ
+
+Zaczynać!
+
+
+ALQUIST
+
+Tak, tak, zaczynać albo skończyć. Boże, daj mi siłę!
+
+/ Przechodzi w prawo, zostawiając uchylone drzwi. /
+
+/ Pauza. /
+
+
+GŁOS ALQUISTA
+
+Trzymajcie go mocno!
+
+
+GŁOS DAMONA
+
+Tnij!
+
+/ Pauza. /
+
+
+GŁOS ALQUISTA
+
+Widzisz ten nóż? Nadal chcesz, abym ciął? Nie chcesz, co?
+
+
+GŁOS DAMONA
+
+Zaczynaj!
+
+/ Pauza. /
+
+
+KRZYK DAMONA
+
+Aaaa!
+
+
+GŁOS ALQUISTA
+
+Trzymajcie! Trzymajcie!
+
+
+KRZYK DAMONA
+
+Aaaa!
+
+
+GŁOS ALQUISTA
+
+Nie mogę!
+
+
+KRZYK DAMONA
+
+Tnij! Tnij prędzej!
+
+/ Roboty Prymus i Helena wbiegają środkowymi drzwiami. /
+
+
+HELENA
+
+Prymusie, Prymusie, co tu się dzieje? Kto tak krzyczy?
+
+
+PRYMUS
+
+/ zagląda do prosektorium /
+
+Pan kroi Damona. Chodź popatrzeć, Heleno, prędko!
+
+
+HELENA
+
+Nie, nie, nie!
+
+/ zakrywa sobie oczy /
+
+Czy to okrrropne?
+
+
+KRZYK DAMONA
+
+Tnij!
+
+
+HELENA
+
+Prymusie, Prymusie, odejdź stamtąd! Nie mogę tego słuchać! Och, Prymusie, niedobrze mi!
+
+
+PRYMUS
+
+/ podchodzi do niej /
+
+Jesteś blada jak ściana!
+
+
+HELENA
+
+Zaraz zemdleję! Co tam tak cicho?
+
+
+KRZYK DAMONA
+
+Aaa — ooo!
+
+
+ALQUIST
+
+/ wypada z prawej strony, zrzuca zakrwawiony kitel /
+
+Nie mogę! Nie mogę! Boże, to odrażające!
+
+
+RADIUS
+
+/ w drzwiach prosektorium /
+
+Tnij, panie; jeszcze żyw!
+
+
+KRZYK DAMONA
+
+Ciąć! Ciąć!
+
+
+ALQUIST
+
+Wynieście go, szybko! Nie chcę tego słuchać!
+
+
+RADIUS
+
+Robotowie są w stanie znieść więcej niż ty.
+
+/ Wychodzi. /
+
+
+ALQUIST
+
+A kto tu? Precz mi stąd, precz! Chcę być sam! Jak ci na imię?
+
+
+PRYMUS
+
+Robot Prymus.
+
+
+ALQUIST
+
+Prymusie, nie wpuszczaj nikogo! Chcę spać, słyszysz? Idź, idź, dziewczę, posprzątaj prosektorium. A co to?
+
+/ spogląda na swoje ręce /
+
+Prędko wodę! Najczystszą wodę!
+
+/ Helena wybiega. /
+
+
+ALQUIST
+
+O, krew! Jak mogłyście, ręce — ręce, które kochały solidną pracę, jak mogłyście to zrobić? Moje ręce! Moje ręce! — O Boże, kto tu?
+
+
+PRYMUS
+
+Robot Prymus.
+
+
+ALQUIST
+
+Wynieś ten kitel, nie chcę go widzieć!
+
+/ Prymus wynosi kitel. /
+
+
+ALQUIST
+
+Krwawe szpony, odlećcie ode mnie! A kysz, a kysz! Precz, ręce! Zabiłyście —
+
+/ Z prawej strony wchodzi zataczając się Damon, owinięty w zakrwawione prześcieradło. /
+
+
+ALQUIST
+
+/ cofa się /
+
+Czego tu chcesz? Czego tu chcesz?
+
+
+DAMON
+
+Ży-żyję! Le-le-le-lepiej jest żyć!
+
+/ Drugi i trzeci robot wybiegają za nim. /
+
+
+ALQUIST
+
+Wynieście go! Wynieście! Wynieście, byle prędzej!
+
+
+DAMON
+
+/ wyprowadzany na prawo /
+
+Życie! Ja — chcę — żyć! Lepiej jest —
+
+/ Helena przynosi dzban wody. /
+
+
+ALQUIST
+
+— żyć? — Czego chcesz, dziewczę? Aha, to ty. Nalej mi wody, nalej!
+
+/ myje ręce /
+
+Ach, czysta wodo, niosąca ochłodę! Zimny strumieniu, jak dobrze mi robisz! Ach, moje ręce, moje ręce! Czy już do śmierci będę się wami brzydził? Lejże więcej! Więcej wody, jeszcze więcej! Jak ci na imię?
+
+
+HELENA
+
+Robotessa Helena.
+
+
+ALQUIST
+
+Helena? Dlaczego Helena? Kto ci kazał tak mówić?
+
+
+HELENA
+
+Pani Dominowa.
+
+
+ALQUIST
+
+Pokaż no się! Helena! Helena ci na imię? — Nie będę cię tak nazywać. Idź, wynieś tę wodę.
+
+/ Helena wychodzi z wiadrem. /
+
+
+ALQUIST
+
+/ sam /
+
+Na darmo, na darmo! Nic, znowu nic nie odkryłem! Już zawsze będziesz tak błądził po omacku, nędzny uczniaku w szkole natury? — Boże, Boże, Boże, jakże się trzęsło to ciało!
+
+/ otwiera okna /
+
+Świta. I znów kolejny dzień, a ani na jotę nie zbliżyłeś się do celu. — Dość, ani kroku więcej! Porzuć starania! Wszystko na nic, na nic, na nic! I po co ten świt? O — o — o, czego chce nowy dzień na tym cmentarzysku życia? Stój, światło dnia! Nie wychylaj się więcej! — — Ach, jak tu cicho, jak cicho! Czemuście umilkły, ukochane me głosy? Gdybym tak — chociaż — gdybym choć mógł zasnąć!
+
+/ gasi lampy, kładzie się na tapczanie i przykrywa się cały czarnym płaszczem /
+
+Jakże się trzęsło to ciało! O — o — o, nadszedł kres życia!
+
+/ Pauza. /
+
+/ Z prawej strony wślizguje się robotka Helena. /
+
+
+PRYMUS
+
+/ w drzwiach, szeptem /
+
+Heleno, nie wchodź tam! Pan śpi!
+
+
+HELENA
+
+Nie ma go tu. Poszedł spać gdzie indziej.
+
+
+PRYMUS
+
+Nikt nie może tu wchodzić. Wracaj, proszę!
+
+
+HELENA
+
+Za nic w świecie! Fe, ja nie chcę oglądać krwi!
+
+
+PRYMUS
+
+Pan zabronił, Heleno. Nikt nie ma wchodzić do jego pracowni.
+
+
+HELENA
+
+A mnie mówił, żebym weszła.
+
+
+PRYMUS
+
+Kiedy?
+
+
+HELENA
+
+Przed chwilą. Nie idź do prosektorium, powiedział. Posprzątasz tutaj, powiedział. Mówię ci. Ojej, Prymusie! Chodź tu szybko!
+
+
+PRYMUS
+
+/ wchodzi /
+
+Czego chcesz?
+
+
+HELENA
+
+Patrz, ile tu rurek! Co on z nimi robi?
+
+
+PRYMUS
+
+Eksperymenty. Nie dotykaj!
+
+
+HELENA
+
+/ zagląda w mikroskop /
+
+Zobacz, co tu widać!
+
+
+PRYMUS
+
+To mikroskop. Pokaż!
+
+
+HELENA
+
+Nie szturchaj mnie!
+
+/ trąca probówkę /
+
+Ach, no i się rozlało!
+
+
+PRYMUS
+
+Coś ty narobiła?
+
+
+HELENA
+
+Wytrze się.
+
+
+PRYMUS
+
+Zepsułaś mu doświadczenia!
+
+
+HELENA
+
+E tam, wszystko jedno. Ale to twoja wina. Nie trzeba było podchodzić.
+
+
+PRYMUS
+
+Nie trzeba było mnie wołać.
+
+
+HELENA
+
+Nie musiałeś przychodzić, jak cię wołałam. Patrz, Prymusie, pan ma tu jakieś zapiski!
+
+
+PRYMUS
+
+Tego nie wolno oglądać, Heleno. To sekret.
+
+
+HELENA
+
+Jaki sekret?
+
+
+PRYMUS
+
+Sekret życia.
+
+
+HELENA
+
+To okrrropnie ciekawe. Same cyfry. Co to takiego?
+
+
+PRYMUS
+
+To wzory.
+
+
+HELENA
+
+Nie rozumiem.
+
+/ podchodzi do okna /
+
+Och, Prymusie, popatrz!
+
+
+PRYMUS
+
+Co?
+
+
+HELENA
+
+Słońce wschodzi!
+
+
+PRYMUS
+
+Czekaj, zaraz —
+
+/ przegląda książkę /
+
+Heleno, to jest ta najważniejsza rzecz na świecie.
+
+
+HELENA
+
+No chodź tu!
+
+
+PRYMUS
+
+Już, już —
+
+
+HELENA
+
+Ach, Prymusie, zostaw ten paskudny sekret życia! Co ci po jakimś sekrecie? Chodź tu i popatrz, szybko!
+
+
+PRYMUS
+
+/ podchodzi za nią do okna /
+
+Co tam masz?
+
+
+HELENA
+
+Słyszysz? Ptaki śpiewają. Ach, Prymusie, tak bym chciała być ptakiem!
+
+
+PRYMUS
+
+Czym?
+
+
+HELENA
+
+Nie wiem, Prymusie. Tak mi jakoś dziwnie, sama nie wiem, co to: chodzę jak odurzona, całkiem bez głowy, boli mnie ciało, serce, wszystko mnie boli — Co to się ze mną stało, ach, nie mam pojęcia! Prymusie, ja chyba muszę umrzeć!
+
+
+PRYMUS
+
+Nie czujesz czasem — powiedz, Heleno — że lepiej byłoby umrzeć? Wiesz, może my tylko śpimy? Wczoraj śpiąc znów rozmawiałem z tobą.
+
+
+HELENA
+
+Śpiąc?
+
+
+PRYMUS
+
+Śpiąc. Mówiliśmy w jakimś obcym albo nowym języku, bo nie pamiętam ani słowa.
+
+
+HELENA
+
+O czym?
+
+
+PRYMUS
+
+Tego nie wie nikt. Sam nie mogłem zrozumieć, a przecież jestem pewien, że nigdy dotąd nie mówiłem nic piękniejszego. Gdzie to się działo i jak, nie wiem. Gdy cię dotknąłem, było mi tak, że mógłbym umrzeć. I miejsce było inne niż wszystko, co ktokolwiek widział na świecie.
+
+
+HELENA
+
+Ja to dopiero znalazłam miejsce, Prymusie, ale się zdziwisz. Mieszkali tam ludzie, ale teraz zarosło i jako żywo, nikt się tam nie dostanie. Nikt, tylko ja.
+
+
+PRYMUS
+
+A co tam jest?
+
+
+HELENA
+
+Nic, domek i ogród. I dwa psy. Żebyś wiedział, jak mnie liżą po rękach, a ich szczenięta, ach, Prymusie, chyba nie ma nic śliczniejszego! Weźmiesz je na kolana, na ręce i zapominasz o wszystkim i o nic się nie troszczysz, aż zapadnie zmrok; gdy potem wstajesz, czujesz się, jakbyś zrobił sto razy więcej niż przez cały dzień ciężkiej pracy. Nie, to prawda, ja jestem do niczego; wszyscy mówią, że nie nadaję się do żadnej pracy. Sama nie wiem, jaka jestem.
+
+
+PRYMUS
+
+Jesteś piękna.
+
+
+HELENA
+
+Ja? Prymusie, coś ty powiedział?
+
+
+PRYMUS
+
+Wierz mi, Heleno, jestem zdolniejszy od innych robotów.
+
+
+HELENA
+
+/ przed lustrem /
+
+Że niby ja jestem piękna? Ach, te okrrropne włosy, gdybym tylko mogła je czymś przystroić! Wiesz, tam, w ogrodzie, zawsze wplatam we włosy kwiaty, ale nie ma tam zwierciadła ani nikogo —
+
+/ głębiej zagląda w lustro /
+
+Ty jesteś piękna? Dlaczego piękna? Czy mogą być piękne włosy, które tobie tylko ciążą? Czy mogą być piękne oczy, które ty zamykasz? Czy mogą być piękne usta, które zagryzasz, żeby poczuć ból? Co to znaczy, na co komu być piękną? —
+
+/ widzi w lustrze Prymusa /
+
+Prymusie, to ty? Podejdź tu, stańmy obok siebie! Patrz, ty masz inną głowę niż ja, inne ramiona, inne usta — Ach, Prymusie, czemu mi umykasz? Czemu muszę uganiać się za tobą całymi dniami? Do tego mówisz mi, że jestem piękna!
+
+
+PRYMUS
+
+To ty uciekasz przede mną, Heleno.
+
+
+HELENA
+
+Jak ty się uczesałeś? Daj!
+
+/ wsuwa mu obie dłonie we włosy /
+
+Ćśśś, Prymusie, w dotyku nic się z tobą nie równa! Czekaj, musisz być ładny!
+
+/ Bierze z umywalki grzebień i zaczesuje Prymusowi włosy na czoło. /
+
+
+PRYMUS
+
+Nie czujesz czasem — Heleno — że tak ci nagle zabije serce: teraz, teraz coś się musi wydarzyć —
+
+
+HELENA
+
+/ wybucha śmiechem /
+
+Spójrz tylko na siebie!
+
+
+ALQUIST
+
+/ wstaje /
+
+Co — co to, śmiech? Ludzie? Ktoś powrócił?
+
+
+HELENA
+
+/ upuszcza grzebień /
+
+Prymusie, nam mogłoby się coś przydarzyć!
+
+
+ALQUIST
+
+/ rusza w ich stronę, zataczając się /
+
+Ludzie? Wy — wy — wy — jesteście ludźmi?
+
+/ Helena wydaje okrzyk i odwraca się. /
+
+
+ALQUIST
+
+Narzeczeni? Ludzie? Skąd przybyliście?
+
+/ maca Prymusa /
+
+Ktoś ty?
+
+
+PRYMUS
+
+Robot Prymus.
+
+
+ALQUIST
+
+Jak? Dziewczę, pokaż się! Ktoś ty?
+
+
+HELENA
+
+Robotessa Helena.
+
+
+ALQUIST
+
+Robotessa? Obróć się! Co, ty się wstydzisz?
+
+/ chwyta ją za ramię /
+
+Pokaż no mi się, robotko!
+
+
+PRYMUS
+
+Cholera, panie, zostaw ją!
+
+
+ALQUIST
+
+Cóż to, ty ją chronisz? — Wyjdź stąd, dziewczę!
+
+/ Helena wybiega. /
+
+
+PRYMUS
+
+Panie, nie wiedzieliśmy, że tu śpisz.
+
+
+ALQUIST
+
+Kiedy została zrobiona?
+
+
+PRYMUS
+
+Dwa lata temu.
+
+
+ALQUIST
+
+Przez doktora Galla?
+
+
+PRYMUS
+
+Tak samo jak ja.
+
+
+ALQUIST
+
+A zatem, mój miły Prymusie, ja — — — ja muszę robić pewne doświadczenia na robotach Galla. Przyszłość od tego zależy, rozumiesz?
+
+
+PRYMUS
+
+Tak.
+
+
+ALQUIST
+
+Dobrze, zaprowadź to dziewczę do prosektorium. Przeprowadzę sekcję.
+
+
+PRYMUS
+
+Helenę?
+
+
+ALQUIST
+
+Tak, właśnie, mówię do ciebie. Idź i wszystko przygotuj. — No jak, na co czekasz? Mam zawołać inne, żeby ją tam zawiodły?
+
+
+PRYMUS
+
+/ łapie ciężki tłuczek od moździerza /
+
+Jeden ruch, a rozwalę ci głowę!
+
+
+ALQUIST
+
+No to rozwal! Rozwal! Co poczną potem roboty?
+
+
+PRYMUS
+
+/ pada na kolana /
+
+Panie, weź mnie! Zrobiono mnie tak samo jak ją, ten sam materiał, tego samego dnia! Weź moje życie, panie!
+
+/ rozchełstuje bluzę /
+
+Tutaj tnij, tu!
+
+
+ALQUIST
+
+Odejdź, ja chcę zrobić sekcję Heleny. No już, pośpiesz się.
+
+
+PRYMUS
+
+Weź mnie na jej miejsce; krój tę pierś, nawet nie krzyknę, nawet nie pisnę! Weź po stokroć moje życie —
+
+
+ALQUIST
+
+Spokojnie, chłopcze. Nie szafuj tak sobą. Co, czyżbyś nie chciał już żyć?
+
+
+PRYMUS
+
+Bez niej nie. Bez niej nie chcę. Nie wolno ci zabić Heleny! Co za różnica, że to mnie odbierzesz życie?
+
+
+ALQUIST
+
+/ czule dotyka jego głowy /
+
+Hm, no nie wiem — Słuchaj no, kawalerze, dobrze się zastanów. Nie jest łatwo umierać. Znacznie lepiej, rozumiesz, lepiej jest żyć.
+
+
+PRYMUS
+
+/ wstaje /
+
+Nie obawiaj się, panie, tylko tnij. Jestem od niej silniejszy.
+
+
+ALQUIST
+
+/ dzwoni /
+
+Ach, Prymusie, tyle czasu minęło, odkąd sam byłem młody! Nie bój się, Helenie nic się nie stanie.
+
+
+PRYMUS
+
+/ rozpina bluzę /
+
+Idę, panie.
+
+
+ALQUIST
+
+Zaczekaj.
+
+/ Wchodzi Helena. /
+
+
+ALQUIST
+
+Chodź no tu, dziewczę, pokaż mi się! A więc to ty jesteś Helena?
+
+/ głaszcze ją po włosach /
+
+Nie bój się, nie odsuwaj. Pamiętasz panią Dominową? Ach, Heleno, jakie ona miała włosy! Nie, nie, ty nie chcesz na mnie spojrzeć. I co, dziewczę, prosektorium posprzątane?
+
+
+HELENA
+
+Tak, panie.
+
+
+ALQUIST
+
+Dobrze. Będziesz mi pomagać, wiesz? Przy sekcji Prymusa.
+
+
+HELENA
+
+/ krzyczy /
+
+Prymusa?
+
+
+ALQUIST
+
+A owszem, owszem, tak już musi być, wiesz? Chciałem — właściwie — tak, chciałem kroić ciebie, ale Prymus woli cię zastąpić.
+
+
+HELENA
+
+/ kryje twarz w dłoniach /
+
+Prymus?
+
+
+ALQUIST
+
+Tak, i co z tego? Ach, dziecko, ty umiesz płakać? Powiedz, co ci zależy na jakimś Prymusie?
+
+
+PRYMUS
+
+Panie, nie dręcz jej!
+
+
+ALQUIST
+
+Cicho, Prymusie, cicho! — I po co te łezki? Mój Boże, no nie będzie Prymusa. Zapomnisz o nim po tygodniu. Idź i ciesz się, że żyjesz.
+
+
+HELENA
+
+/ cicho /
+
+Ja pójdę.
+
+
+ALQUIST
+
+Dokąd?
+
+
+HELENA
+
+Na stół sekcyjny.
+
+
+ALQUIST
+
+Ty? Jesteś piękna, Heleno. Szkoda by cię było.
+
+
+HELENA
+
+Pójdę.
+
+
+ALQUIST
+
+Daj spokój, Heleno; czy jest coś potężniejszego od życia?
+
+/ Helena idzie w stronę prosektorium. Prymus zastępuje jej drogę. /
+
+
+HELENA
+
+Puść mnie, Prymusie! Daj mi tam iść!
+
+
+PRYMUS
+
+Nie pójdziesz, Heleno! Błagam cię, odejdź, nie powinno cię tu być!
+
+
+HELENA
+
+Skoczę z okna, Prymusie. Jeśli ty tam pójdziesz, skoczę z okna!
+
+
+PRYMUS
+
+/ zatrzymuje ją /
+
+Nie puszczę cię!
+
+/ zwraca się do Alquista /
+
+Nikogo nie zabijesz, starcze!
+
+
+ALQUIST
+
+A to dlaczego?
+
+
+PRYMUS
+
+My — my — należymy do siebie.
+
+
+ALQUIST
+
+Święte słowa.
+
+/ ALQUIST otwiera środkowe drzwi. /
+
+Cicho. Idźcie.
+
+
+PRYMUS
+
+Dokąd?
+
+
+ALQUIST
+
+/ szeptem /
+
+Gdzie chcecie. Heleno, poprowadź go.
+
+/ wypycha ich z pomieszczenia /
+
+Idź, Adamie. Idź, Ewo; bądź mu żoną. Bądź jej mężem, Prymusie.
+
+/ Zamyka za nimi drzwi. /
+
+
+ALQUIST
+
+/ sam /
+
+Błogosławiony dniu!
+
+/ podchodzi na palcach do stołu i wylewa zawartość probówek na ziemię /
+
+Święto dnia szóstego!
+
+/ siada przy biurku, zrzuca książki na ziemię; otwiera Biblię i czyta /
+
+„I stworzył Bóg człowieka na obraz swój, na obraz Boga stworzył go; mężczyznę i niewiastę stworzył ich. I błogosławił im Bóg, i rzekł do nich Bóg: Rozradzajcie się, i rozmnażajcie, i napełniajcie ziemię, i zawładnijcie nią, i panujcie nad rybami morza, i nad ptactwem nieba, i nad wszelkim zwierzem, który się porusza na ziemi”.
+
+/ wstaje /
+
+„I obejrzał Bóg wszystko, co uczynił, i oto było bardzo dobre. I był wieczór, i był ranek — dzień szósty”.
+
+/ przechodzi na środek pomieszczenia /
+
+Dzień szósty! Dzień miłości.
+
+/ pada na kolana /
+
+Zwolnij teraz, Panie, służebnika swego — swego najbardziej bezużytecznego sługę Alquista. Rossum, Fabry, Gall, wielcy wynalazcy, cóż znaczniejszego wymyśliliście niż to dziewczę, niż ten chłopiec, niż ta pierwsza para, która odkryła miłość, płacz, miłosny uśmiech, uczucie między mężczyzną i kobietą? Naturo, naturo, życie nie zaginie! Boże, życie nie zaginie! Znów się roznieci z miłości, pocznie się nagie i maleńkie; przyjmie się na pustkowiu, i na nic mu będzie to, cośmy robili i budowali, na nic miasta i fabryki, na nic nasza sztuka, nasze idee, a jednak nie zaginie! Tylko my wyginęliśmy. Rozwalą się domy i maszyny, rozpadną systemy, a imiona najznamienitszych opadną niczym listowie; tylko ty, miłości, zakwitniesz na gruzach i powierzysz wiatrom ziarenko życia. Zwolnij teraz, Panie, służebnika swego w pokoju; albowiem ujrzały me oczy — ujrzały — zbawienie twe poprzez miłość — a życie nie zaginie!
+
+/ wstaje /
+
+Nie zaginie!
+
+/ rozkłada ręce /
+
+Nie zaginie!
+
+/ Kurtyna. /

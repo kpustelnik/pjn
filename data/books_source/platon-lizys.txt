@@ -1,0 +1,925 @@
+Platon
+
+Lizys
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-6699-7
+
+
+
+
+
+Wstęp tłumacza
+
+Dialog Lizys jest bardzo podobny do Charmidesa. Jeden i drugi ma formę opowiadania, które nam daje Sokrates. Jeden i drugi odbywa się w palestrze, między Sokratesem a młodymi chłopcami niezwykłej piękności i dużej inteligencji. I tu, i tam mamy bardzo plastyczny obraz środowiska i psychologicznego tła rozmowy, mamy pogodny, figlarny bieg dyskusji i nie dostajemy przy końcu sformułowanej definicji, ale na podstawie tego, co słyszymy, możemy się domyślić, co chciał Platon powiedzieć.
+
+Sokrates rozmawia tutaj nie z młodzieńcami pod wąsem, tylko z chłopakami po dwanaście, trzynaście lat, których się odprowadza do szkoły, a w domu trzymają ich krótko. Ci chłopcy uczą się oddzielnie od młodzieży starszej — dziś wyjątkowo, z okazji święta Hermesa, młodzieńcy i dzieci bawią się razem.
+
+W scenie pierwszej poznajemy dwóch chłopców starszych, po piętnaście do osiemnastu lat co najwyżej. Jeden to Ktesippos, pajańczyk, o którym poza tym nic nie wiadomo, drugi to Hippotales, syn Hieronima, trochę poeta, dobry znajomy Sokratesa, a później uczeń Platona; kocha się w małym Lizysie, synu Demokratesa, i pisuje pod jego adresem wiersze, chociaż go wyśmiewają koledzy. Rozmowę rozpoczyna Sokrates z Lizysem, który już umie czytać i pisać, już się uczy grać na kitarze, jest nadzwyczaj piękny i dobrze wychowany, i nad wiek rozwinięty, dlatego dobrze się orientuje w rozważaniach, ma do nich stosunek krytyczny i wzorowo odpowiada na wszystkie pytania Sokratesa. Jego przyjacielem jest Meneksenos, syn Demofonta, może nieco starszy; jego imię spotykamy w Fedonie, ale poza tym nic o nim nie wiadomo — podobnie jak o poprzednich chłopcach.
+
+O czym właściwie Sokrates rozmawia, niełatwo jest powiedzieć po polsku, choć zazwyczaj się pisze, że jest tu mowa o przyjaźni. Jest o niej mowa, zapewne. Ale chodzi rozmawiającym nie tylko o to, żeby określić to, co my dziś nazywamy przyjaźnią, a więc stosunek osobisty wiążący z sobą dwóch ludzi. Chodzi im o wszelkie w ogóle lubienie czegokolwiek, o pociąg przyjazny i urok przyjazny, gdziekolwiek by się zjawiał. Przedmiotem rozmowy jest „to filon”. Ten przymiotnik i rzeczownik grecki w rodzaju nijakim — Platon kocha się w rozważaniu neutrów — oznacza dwie rzeczy różne: to, co jest miłe i pociąga, oraz to, co się do drugiego samo skłania, lgnie, ciągnie do niego i lubi. Więc znaczenie bierne i znaczenie czynne zarazem. Tego my po polsku nie oddamy żadną miarą, bo mamy zawsze inne słowo na oznaczenie biernego filon, a innym oznaczamy filon czynne. Jedno jest u nas miłe, a drugie przyjazne, jedno sympatyczne, a drugie sympatyzuje, jedno jest lubiane, swoje, ponętne, drugie lubi, potrzebuje, odnosi się przyjaźnie, a nie mamy przymiotnika, który by się mógł mienić zabarwieniem i biernym, i czynnym od razu. Stąd niezmiernie trudno jest oddać to, co właściwie tych ludzi niepokoi i o czym oni tak mówią.
+
+Mieni się tak biernie i czynnie czasem tylko polski „przyjaciel”, a częściej „przyjaciółka”. Czasem, choć i to bardzo rzadko, nie wiadomo, czy to ten, który drugiego lubi, czy też ten, którego lubią. Ale przyjaciel nie ma rodzaju nijakiego i przeważnie jest człowiekiem. Stąd też trudność przekładu.
+
+Z tym wszystkim miło patrzeć, jak się tutaj rozważanie rodzi z konkretnych przeżyć, jak zagadnienie wykwita samo z życia i jak się z życiem wiąże. Tematu rozważań nie przyniósł Sokrates w kopercie. W środowisku, w którym go widzimy, panują nie tylko nastroje erotyczne; oprócz nich krzewią się tam związki przyjaźni bardzo liczne i żywe. Przyjaźni potrzebuje i sam Sokrates, i jego młodzi znajomi. A równie mocno potrzeba mu patrzeć na to, co się dzieje w jego własnej duszy i w duszach bliskich, i rozumieć to jakoś. Stąd zagadnienie: jakich właściwie warunków potrzeba na to, żeby się mógł zjawić pociąg przyjazny do kogoś lub czegoś? Co o tym piszą poeci i jak się ta sprawa przedstawia w świetle zwrotów języka i potocznych doświadczeń?
+
+Rozważanie nie ma charakteru pracy systematycznej i uważnej. Jest to raczej zabawa w inteligentnym środowisku. Neutra stają się w niej jakby osobami, jakby kto lalki lepił z gliny, a na każdej kładł podpis: To jest „to, co miłe”, a to jest „to, co podobne”, a tamto znowu: „to, co przeciwne”, tu stoi „swoje”, a tam leży „dobre”, gdzie indziej „złe”. Pokazuje się te figurki towarzystwu z daleka i na krótki czas i teraz zgadujcie, chłopcy, czy to ta, czy tamta, czy można im podpisy pozamieniać, czy się jakoś nie zmieści jedna w drugiej, czy są podobne do siebie, czy różne, i czy jedna nie zastąpi drugiej. Platoński Sokrates bawi się lalkami z dziećmi. Jedna z nich przypomina postać Erosa, którą Diotyma odsłoni w Uczcie.
+
+
+
+
+Lizys
+
+
+Osoby dialogu:
+ * Sokrates
+ * Hippotales
+ * Ktesippos
+ * Meneksenos
+ * Lizys
+
+
+Szedłem sobie z Akademii prosto do Lykejonu drogą za murami, tuż pod samym murem. Kiedym się znalazł koło bramki, gdzie jest źródło Opatrzności, spotkałem się tam z Hippotalesem, synem Hieronima, z Ktesippem z Pajanii i z innymi chłopakami, bo ich tam wielu razem z nimi stało.
+
+Kiedy Hippotales zobaczył, że nadchodzę: — Sokratesie — powiada — a dokądże to tak idziesz i skąd?
+
+— Z Akademii — mówię — idę prosto do Lykejonu.
+
+— A to chodźże tu — powiada — prosto do nas. Może byś nawrócił! Warto, doprawdy.
+
+— Dokąd? — powiedziałem. — Dokąd, mówisz, i do jakich was?
+
+— Tutaj — powiada i pokazał mi naprzeciw muru jakieś zabudowanie i drzwi otwarte. — My się — powiada — zabawiamy tutaj; my sami i innych bardzo wielu, a przystojnych.
+
+— A to jest właściwie co takiego i co się tu robi?
+
+— To zakład gimnastyczny — powiada. — Świeżo zbudowany. A co się tu robi? Rozmawia się nieraz; bardzo byśmy się cieszyli, gdybyś się do naszych rozmów przyłączył.
+
+— To pięknie — powiadam — z waszej strony. A uczy tam kto?
+
+— Twój znajomy przecież — powiada — i wielbiciel: Mikkos.
+
+— Na Zeusa — mówię — to nie byle kto; to jest tęgi uczony.
+
+— Więc może wejdziesz z nami — powiada — abyś zobaczył, kto tam jest.
+
+— Naprzód chętnie bym usłyszał, na jakich warunkach i po co ja tam wchodzę, i kto tu jest ten piękny.
+
+— U nas — powiada — Sokratesie, każdemu się ktoś inny podoba.
+
+— A tobie kto, Hippotalesie? To mi powiedz.
+
+Zapytany zaczerwienił się, a ja powiedziałem: — Hippotalesie, synu Hieronima, tego mi w ogóle nie mów, czy się kochasz w kimś czy nie. Bo ja wiem, że nie tylko się kochasz, ale i to też wiem, żeś już daleko zaszedł na miłosnych ścieżkach. Ja tam poza tym jestem ladaco i nie ma ze mnie nic, a tylko ten dar jakoś mam od Boga, że prędko potrafię poznać, jeżeli się ktoś kocha albo jest kochany.
+
+On to usłyszał i jeszcze się bardziej zaczerwienił.
+
+A Ktesippos powiada: — Jak to pięknie z twojej strony doprawdy, Hippotalesie, że się czerwienisz i wahasz się wymienić Sokratesowi imię. Ale on, jeżeli będzie nawet krótki czas z tobą obcował, to już on się nasłucha tego imienia, tak mu je będziesz powtarzał — aż upadnie. Przecież myśmy tu już pogłuchli — mamy pełne uszy Lizysa. A jak jeszcze trochę popije, to dopiero mamy przyjemność: człowiek się ze snu budzi i ma wrażenie, że słyszy imię Lizys. Jak długo jeszcze mówi zwykłą prozą to jest straszne, ale to jeszcze pół biedy — dopieroż jak nas zacznie zasypywać wierszami i mową wiązaną! A co jeszcze gorsze od tego, to to, że on także śpiewa pod adresem ukochanego przedziwnym głosem i my tego musimy wysłuchiwać. A teraz, kiedy ty go pytasz, to on się czerwieni.
+
+— A ten Lizys — powiedziałem — to będzie chyba ktoś młody. Wnoszę stąd, że kiedym usłyszał to imię, nie poznałem go.
+
+— Bo jakoś — powiada — nie bardzo go po własnym imieniu nazywają. Jeszcze tylko po ojcu; bo jego ojciec jest bardzo znany. Ale ja dobrze wiem, że ty doskonale znasz tego chłopca z widzenia. Doskonale można go znać także z samego tylko wejrzenia.
+
+— Niechże kto powie — mówię — czyj on jest.
+
+— To Demokratesa z Ajksony — powiada — najstarszy syn.
+
+— No, no — mówię — Hippotalesie, to z dobrego rodu i w ogóle pierwszej klasy miłość, coś ją sobie wyszukał. Ale proszę cię, przedstaw i mnie to, czym się przed nimi popisujesz, abym się przekonał, czy wiesz, co powinien ktoś, kto kocha, mówić o ukochanym do niego samego albo do drugich.
+
+— Ale czyż ty to — powiada — serio bierzesz, Sokratesie, co on tam mówi?
+
+— Jak to? — powiadam. — Czy i tego się zapierasz, jakobyś się kochał w tym, w kim on mówi?
+
+— No, tego to nie — powiada — ale nie żebym wiersze pisał do ukochanego albo jakieś utwory prozą.
+
+— On nie jest zdrów — powiada Ktesippos — on bredzi, on ma źle w głowie.
+
+II. Ja powiedziałem: — Hippotalesie, ja nie proszę o jakiś wiersz ani nie chcę słuchać pieśni, jeżeliś jakąś ułożył do ukochanego, tylko myśli mnie interesują, abym wiedział, jak się odnosisz do kochanka.
+
+— To on ci przecież powie — tak mi odpowiedział — on to świetnie zna i pamięta, skoro mówi, że ja mu to wciąż w uszy kładę.
+
+— Ach, na bogów — powiedział Ktesippos — i owszem. To są śmieszne rzeczy, Sokratesie. Bo żeby być zakochanym i głowę sobie zaprzątać tym chłopakiem więcej niż ktokolwiek, a nie umieć powiedzieć o nim czegoś własnego, osobistego, czego by i byle chłopak powiedzieć nie potrafił — czyż to nie jest śmiech? Nic, tylko takie rzeczy, jakie całe miasto śpiewa o Demokratesie i o Lizysie, o dziadku chłopaka i o wszystkich tam jego przodkach, o tych bogactwach i stajniach wyścigowych, i o zwycięstwach odniesionych w Delfach i na Istmie, i w Nemei, czwórką i wierzchem — on takie rzeczy pisze i deklamuje, a oprócz tego jeszcze bardziej zamierzchłe starożytności. O Heraklesie w gościnie wczoraj nam w jakimś poemacie wywodził, że jakiś ich przodek był krewny Heraklesa i dlatego przyjmował go u siebie, a sam był synem Zeusa i córki protoplasty rodu — co to stare babki śpiewają — i wiele innych takich rzeczy, Sokratesie. To jest to, co ten człowiek mówi i śpiewa, a my musimy tego słuchać.
+
+Usłyszawszy to, powiedziałem: — Hippotalesie, śmiechu warty, jeszcześ nie zwyciężył, a już piszesz i śpiewasz pochwały na własną cześć?
+
+— Ależ ja nie na swoją cześć, Sokratesie, ani nie piszę, ani nie śpiewam.
+
+— Myślisz, że nie — powiadam.
+
+— Ależ jak to? — mówi.
+
+— Przede wszystkim — powiedziałem — do ciebie celują te ody. Bo jeśli zdobędziesz kochanka tej klasy, to będzie dla ciebie ozdobą treść tych utworów mówionych i śpiewanych — to doprawdy będą jakby pochwały dla zwycięzcy, że ci takiego kochanka los darował. A jeżeli on ci umknie, to im większe pisałeś pochwały pod adresem lubego, tym większych wartości wydasz się pozbawiony i przez to tym śmieszniejszy. Kto się, przyjacielu, zna na miłości, ten nie chwali ukochanego, nim go weźmie; jest mądry i boi się — nie wie jeszcze, jak to będzie. A równocześnie ci piękni, kiedy ich ktoś chwali i podnosi, zaczynają wiele myśleć o sobie i zadzierają nosa do góry. Czy nie myślisz?
+
+— Owszem — powiada.
+
+— Nieprawdaż, im wyżej nosy noszą, tym trudniej ich dostać?
+
+— To naturalne przecież.
+
+— A jakby ci się wydawał taki myśliwy, co by płoszył zwierzynę, polując, i tak by robił, żeby ją trudniej było chwytać?
+
+— Jasna rzecz, że licha wart.
+
+— A słowami i czarem pieśni nie oswajać, tylko rozwydrzać — to nie jest żadna muzyka. No nie?
+
+— Wydaje mi się.
+
+— Więc patrzaj, Hippotalesie, abyś się nie naraził na te wszystkie zarzuty przez swoje poezje. Przecież myślę, że takiego, co sam sobie szkodzi swoją poezją, nie chciałbyś chwalić, że to dobry poeta, choć jest szkodliwy dla samego siebie.
+
+— Ach nie, na Zeusa — powiada. — To by była wielka niedorzeczność. Dlatego też ja się ciebie, Sokratesie, radzę i jeżeli masz jakiś inny sposób, to poradź, jak prowadzić rozmowę albo co robić, żeby się stać miłym ukochanemu.
+
+III. — To niełatwo powiedzieć — mówię. — Ale gdybyś się zechciał tym zająć, żeby on się wdał ze mną w rozmowę, to może bym ci potrafił pokazać, jak z nim potrzeba rozmawiać, zamiast tego, co ty mówisz i śpiewasz, jak to od nich słyszę.
+
+— Ależ to nic trudnego — powiada. — Jeżeli wejdziesz do środka z nim, z Ktesippem, usiądziesz i zaczniesz rozmawiać, to myślę, że on i sam do ciebie przyjdzie. On lubi słuchać, Sokratesie, szalenie lubi, a zresztą obchodzą tam święto Hermesa, więc pomieszani są jedni z drugimi: doroślejsza młodzież i chłopcy. Więc on do ciebie przyjdzie. A jak nie, to on się dobrze zna z Ktesippem przez jego stryjecznego brata Meneksenosa, a z Meneksenosem on właśnie najbliżej żyje ze wszystkich. Więc niech on go zawoła, gdyby sam nie podszedł.
+
+— Tak trzeba zrobić — powiedziałem. I równocześnie wziąłem Ktesippa pod rękę i poszedłem do tego zakładu. A inni szli za nami. Kiedyśmy weszli, zastaliśmy tam chłopców właśnie po złożeniu ofiary, a że ceremonie prawie już były ukończone, więc wszyscy już grali w kości, a byli ładnie poubierani. Wielu ich grało w dziedzińcu za drzwiami, a niektórzy w kącie garderoby zabawiali się w „para nie para” z pomocą bardzo licznych kostek, które wybierali z jakichś koszyków. Naokoło nich stali inni i przypatrywali się. Między tymi był i Lizys; stał sobie między chłopcami i młodymi ludźmi z wieńcem na głowie i odbijał swoim wyglądem; widać było nie tylko, że piękny — słusznie to o nim mówiono — ale coś lepszego w ogóle. Otóż myśmy sobie poszli naprzeciw i tameśmy usiedli — tam był spokój — i zaczęliśmy o czymś ze sobą rozmawiać. Lizys odwrócił się i zaczął się nam wciąż przyglądać. Widać było, że chce podejść bliżej. Na razie nie wiedział, jak to zrobić, i wahał się, czy ma podejść sam. Po chwili Meneksenos, który się tymczasem bawił w podwórzu, wchodzi i kiedy zobaczył mnie i Ktesippa, przyszedł, żeby sobie usiąść koło nas. Lizys zobaczył go, poszedł za nim i usiadł koło Meneksenosa. Przyszli inni też, a także Hippotales, który widząc większe towarzystwo stojące naokoło, schował się za nimi i tam sobie stanął, gdzie myślał, że go Lizys nie zobaczy. Bał mu się narazić. Tylko tak, stojąc obok nas, przysłuchiwał się.
+
+Ja spojrzałem na Meneksenosa i powiadam: — Synu Demofonta, który z was jest starszy?
+
+— Sprzeczamy się o to — powiada.
+
+— Prawda, i który z was dwóch lepiej urodzony, o to się pewnie też spieracie — powiedziałem.
+
+— Tak jest — powiada.
+
+— I z pewnością o to, który piękniejszy, tak samo.
+
+Zaśmiali się obaj.
+
+— Ale z pewnością nie o to — powiedziałem — który z was bogatszy; o to się nie będę pytał. Jesteście przecież parą przyjaciół. Czy nie?
+
+— Tak jest — powiedzieli obaj razem.
+
+— Nieprawdaż, wspólna jest dola przyjaciół, powiadają; tak, że oto nie będziecie się wcale różnili, jeżeli prawdę mówicie o przyjaźni.
+
+Zgodzili się.
+
+IV. Miałem zamiar zapytać potem, który by z nich dwóch był sprawiedliwszy i mądrzejszy. Ale tymczasem wszedł ktoś i zawołał Meneksenosa, aby wstawał, bo mówił, że go woła nauczyciel gimnastyki. Zdaje mi się, że na niego wypadała kolej składania ofiary. Więc on pobiegł, a ja zacząłem pytać Lizysa: — Prawda, Lizysie — powiedziałem — mocno ciebie kocha ojciec i matka?
+
+— Tak jest — powiada.
+
+— Nieprawdaż, chcieliby, żebyś był jak najszczęśliwszy?
+
+— Zapewne; jakżeby nie?
+
+— A wydaje ci się, że to szczęśliwy człowiek, taki, co służy i któremu by nie było wolno robić nic z tego, czego by pragnął?
+
+— Na Zeusa, mnie się tak nie wydaje — powiada.
+
+— Nieprawdaż, jeżeli cię kocha ojciec i matka i pragną twojego szczęścia, to jasna rzecz, że starają się o to wszelkimi sposobami, żebyś był szczęśliwy.
+
+— No, jakżeby nie — powiada.
+
+— Zatem pozwalają ci robić, co chcesz, za nic na ciebie nie krzyczą ani nie bronią ci robić, co by ci się tylko podobało?
+
+— Ach na Zeusa, Sokratesie, oni mi przecież zabraniają bardzo wielu rzeczy.
+
+— Jak mówisz? — powiedziałem. — Chcą, żebyś był szczęśliwy i zabraniają ci robić to, czego byś chciał?! No, tak mi powiedz: gdybyś zapragnął jechać na którymś z wozów ojca, wziąwszy lejce do ręki, podczas wyścigów — to nie pozwoliliby ci, tylko by ci bronili?
+
+— Na Zeusa — powiada — za nic by nie pozwolili.
+
+— A komu by jednak?
+
+— Jest tam jeden taki woźnica u ojca, zgodzony za pieniądze.
+
+— Jak mówisz? Najemnikowi raczej niż tobie pozwalają robić z końmi, co by tylko chciał, i jeszcze mu właśnie za to płacą?
+
+— No cóż — powiada — trudno.
+
+— Ale zaprzęgiem mułów to chyba pozwalają ci kierować i jakbyś wziął batóg i chciał je kropić, toby ci pozwolili zapewne?
+
+— Ale skąd by pozwolili — powiada.
+
+— A cóż to znowu — powiadam — to nikomu nie wolno ich poganiać?
+
+— I owszem, parobkowi od mułów wolno, jeszcze jak!
+
+— A to sługa czy wolny?
+
+— Sługa — powiada.
+
+— To widać, że sługę wyżej cenią niż ciebie, rodzonego syna. I zlecają mu swoje rzeczy raczej niźli tobie, i pozwalają mu robić, co chce, a tobie zabraniają! A jeszcze to mi powiedz: sobą samym kierować pozwalają ci czy nawet i tego ci nie powierzają?
+
+— Ależ jak tam powierzają! — powiada.
+
+— Więc ktoś tobą kieruje?
+
+— Ten tutaj, guwerner — powiada.
+
+— Co, sługa? Chyba nie?
+
+— No, co z tego? Przecież to nasz — powiada.
+
+— To coś strasznego — mówię. — Żeby wolnym człowiekiem miał kierować sługa. A cóż ten guwerner robi, kiedy tobą kieruje?
+
+— Przecież mnie prowadzi — powiada — do szkoły.
+
+— A ci też tobą kierują — nauczyciele?
+
+— Naturalnie, przecież.
+
+— To bardzo wielu panów i kierowników ojciec umyślnie nad tobą ustanawia. Ale z pewnością, jak do domu wrócisz, do matki, to ona ci pozwala robić, co chcesz, aby cię widziała szczęśliwym — robić, co chcesz, z wełną i z warsztatem tkackim, kiedy przy nim pracuje. Chyba ci nie broni ruszać przybijaka, ani iglicy, ani innych narzędzi tkackich.
+
+A on się roześmiał i mówi: — Na Zeusa, Sokratesie, nie tylko mi broni, ale jeszcze bym w skórę dostał, gdybym ruszał.
+
+— Heraklesie ty mój! — powiadam. — A możeś ty jaką krzywdę zrobił ojcu albo matce?
+
+— Na Zeusa — mówi — ja przecież nie.
+
+V. — Więc za co, doprawdy, tak ci strasznie bronią szczęścia i nie pozwalają ci robić, co byś chciał, i żywią cię cały dzień, abyś wciąż kogoś słuchał i jednym słowem nie robił prawie nic z tych rzeczy, których pragniesz? Tak, że ci chyba i z tych pieniędzy, tak wielkich, żaden pożytek nie przychodzi, bo wszyscy inni raczej nimi rządzą niż ty, ani z własnego ciała — takiej urody przecież — i to ktoś inny pasie, i chodzi koło niego. A ty nie rządzisz sam niczym, mój Lizysie, i nie robisz nic z tych rzeczy, których pragniesz.
+
+— Bo ja — powiada — jeszcze nie mam lat, Sokratesie.
+
+— Synu Demokratesa, chyba to nie będzie ta przeszkoda, bo przecież coś jednak, mam wrażenie, i ojciec ci powierza, i matka zaleca, a nie czekają, aż dorośniesz. Kiedy chcą, żeby im coś przeczytać albo napisać, to myślę sobie, że tobie to powierzają pierwszemu przed wszystkimi w domu. Czy nie?
+
+— Tak jest — powiada.
+
+— Nieprawdaż, tam ci wolno napisać najpierw tę literę, którą chcesz, a którą chcesz napisać na drugim miejscu. I czytać tak samo wolno ci. I myślę, że kiedy weźmiesz lirę do ręki, to nie broni ci ojciec ani matka napinać ani zwalniać żadnej struny, którą byś tylko chciał, ani naciskać, ani uderzać pałeczką. Czy też przeszkadzają?
+
+— Ach, przecież nie.
+
+— Więc cóż by to mogła być, Lizysie, za przyczyna, że tutaj nie przeszkadzają, a w tamtych sprawach, o których przed chwilą była mowa, stawiają ci przeszkody?
+
+— Przypuszczam — powiada — że to dlatego, że na tym się znam, a na tamtym nie.
+
+— No więc — mówię — kochanie. Więc nie na twoje lata czeka ojciec, zanim ci wszystko zda i powierzy, ale w tym samym dniu, kiedy będzie uważał, że jesteś mądrzejszy od niego, to zaraz ci powierzy i siebie samego, i to, co ma.
+
+— Ja przynajmniej tak przypuszczam — powiada.
+
+— Więc to tak — powiedziałem. — No cóż, a z sąsiadem czy nie ta sama sprawa, co z ojcem? Jak myślisz? Czy on tobie powierzy gospodarstwo u siebie, kiedy będzie uważał, że ty się na gospodarstwie lepiej rozumiesz od niego, czy też sam będzie rządził?
+
+— Myślę, że je mnie powierzy.
+
+— No cóż, a Ateny nie powierzą ci swoich spraw, kiedy spostrzegą, że jesteś dość mądry do tego?
+
+— No tak.
+
+— Na Zeusa — powiedziałem. — A cóż Wielki Król? Czy raczej by swemu najstarszemu synowi, następcy tronu w Azji, poruczył gotowanie rosołu i pozwoliłby mu wrzucać do garnka, co zechce, czy też nam, gdybyśmy do niego przyszli i dowiedli, że my się lepiej niż jego syn rozumiemy na gotowaniu potraw?
+
+— Nam — powiada. — Jasna rzecz, że nam.
+
+— I jemu by nie pozwolił wrzucać ani szczypty, a nam by pozwolił, gdybyśmy chcieli nawet garściami dosypywać soli.
+
+— No, jakżeby nie.
+
+— A cóż, gdyby tak jego syn chorował na oczy? Czy pozwoliłby mu dotykać własnych oczu? Uważając, że on nie jest lekarzem. Czy też by mu przeszkadzał?
+
+— Broniłby mu.
+
+— A nam, gdyby sądził, że jesteśmy lekarzami, a chcielibyśmy te oczy otworzyć i nawet popiołu w nie sypać, myślę, że by nie przeszkadzał, bo by myślał, że się rozumiemy na rzeczy.
+
+— Prawdę mówisz.
+
+— A wszystkie inne rzeczy też raczej by nam powierzał niż samemu sobie i własnemu synowi, w których tylko brałby nas za mądrzejszych niż oni obaj.
+
+— Oczywiście — powiada — Sokratesie.
+
+VI. — Więc tak to jest — powiedziałem — kochany Lizysie. W takich rzeczach, które potrafimy opanować rozumem, wszyscy nam będą ufali i dawali zlecenia — Hellenowie i ludzie z obcych krajów, i mężczyźni, i kobiety. W tym zakresie będziemy robili, co tylko zechcemy, i nikt nam umyślnie nie będzie przeszkadzał; będziemy w tych dziedzinach wolni sami i będziemy w nich rządzili innymi, i to będą rzeczy nasze. Bo będziemy z nich mieli pożytek. A jeśli się na czymś nie będziemy rozumieli, to ani nam nikt nie poleci robić coś w tym zakresie według swojego zdania, tylko nam będą przeszkadzali wszyscy, jak tylko potrafią, i to nie tylko obcy, ale nawet ojciec i matka, i jeśli istnieje ktokolwiek bliższy od nich; w takich rzeczach będziemy podlegali innym; to będą dziedziny dla nas obce. Bo nie będziemy mieli z nich żadnego pożytku. Zgadzasz się, że tak jest?
+
+— Zgadzam się.
+
+— A czy będziemy komukolwiek mili i będzie nas ktoś kochał za takie rzeczy, w których byśmy byli niepożyteczni?
+
+— Przecież nie — powiada.
+
+— I teraz przecież ani ciebie ojciec, ani matka, ani nikt inny kogokolwiek innego nie kocha za to, w czym ktoś jest do niczego.
+
+— Zdaje się, że nie — powiada.
+
+— Więc jak będziesz mądry, chłopcze, to wszyscy ci będą przyjaciółmi i ludźmi bliskimi. Bo będziesz pożyteczny i dobry. A jeżeli nie, to ci ani nikt inny, ani ojciec nie będzie przyjacielem, ani matka, ani ludzie bliscy. Więc czy można, Lizysie, wiele myśleć o sobie w tych dziedzinach, w których ktoś jeszcze w ogóle nie myśli?
+
+— No, jakżeby to — powiada.
+
+— A jeżeli ci jeszcze nauczyciela potrzeba, to jeszcze nie myślisz jak trzeba?
+
+— To prawda.
+
+— Więc i nie myślisz o sobie zbyt wiele, skoro jeszcze w ogóle niewiele myślisz.
+
+VII. — Na Zeusa — powiedział — Sokratesie, nie wydaje mi się przynajmniej.
+
+Usłyszawszy go, spojrzałem na Hippotalesa i omal a byłbym głupstwo zrobił. Bo mi na myśl przyszło powiedzieć: „Widzisz, Hippotalesie, tak potrzeba z ukochanymi rozmawiać: pokory ich uczyć i po nosie dawać, a nie tak, jak ty: wbijać ich w pychę i rozpieszczać, aby się im w głowie przewracało”. Ale kiedym zobaczył, że on się męczy i skręca pod wpływem tej rozmowy, przypomniałem sobie, że już, stając koło nas, chciał ujść oczu Lizysa. Więcem się powstrzymał i przestałem mówić.
+
+W tej chwili Meneksenos wrócił i usiadł koło Lizysa, na swym dawnym miejscu.
+
+Wtedy Lizys z figlarnym uśmiechem grzecznego chłopca szepce mi do ucha tak, żeby Meneksenos nie usłyszał:
+
+— Sokratesie, to, co mnie mówisz, powiedz i Meneksenosowi!
+
+A ja powiedziałem: — To już mu ty sam powiesz, Lizysie. Przecieżeś pilnie uważał.
+
+— O tak — powiada.
+
+— Więc próbuj — dodałem — powtarzać to sobie z pamięci, jak tylko potrafisz, abyś mu wszystko dokładnie powtórzył. A gdybyś coś z tego zapomniał, to mnie zapytaj — zaraz, jak mnie spotkasz drugi raz.
+
+— Już ja tak zrobię, Sokratesie. Na pewno. Bądź przekonany. W takim razie powiedz mu coś innego, abym i ja posłuchał, pokąd nie będzie pora iść do domu.
+
+— Trzeba tak zrobić — powiedziałem — skoro ty tak każesz. A tylko pamiętaj mi pomagać, gdyby mnie Meneksenos próbował zbijać. Nie wiesz, jak on się lubi spierać?
+
+— O tak, na Zeusa — powiada. — Strasznie lubi. Ja też i dlatego chcę, żebyś ty z nim rozmawiał.
+
+— Na to — powiedziałem — abyście się ze mnie śmiali?
+
+— Nie, na Zeusa — mówi — tylko żebyś mu dał po nosie.
+
+— Skądże? — powiadam. — To niełatwa rzecz. To niebezpieczny typ. Uczeń Ktesippa! Ale tuż i on sam — czy nie widzisz? To Ktesippos!
+
+— Nic sobie z niego nie rób — powiada — Sokratesie, proszę cię, zaczynaj rozmowę.
+
+— Trzeba zacząć — powiedziałem.
+
+VIII. Kiedyśmy sobie tak we dwóch tylko rozmawiali z cicha, Ktesippos powiada: — A cóż to się tak tam sami dwaj raczycie na osobności, a z nami to się żaden nie podzieli ani słówkiem?
+
+— Ależ owszem — powiedziałem — trzeba się podzielić. Bo tu on nie rozumie czegoś w tym, co mówię, i mówi, że Meneksenos z pewnością będzie wiedział, więc każe go zapytać.
+
+— Więc czemuż go — powiada — nie zapytasz?
+
+Ja mówię: — Zapytam. Odpowiadajże mi, Meneksenosie, na pytania. Bo ja już od chłopięcych lat — jakoś tak mi padło — pragnę posiąść pewien skarb; jak to jeden pragnie tego, drugi czegoś innego. Jeden chciałby mieć konie, inny psy, inny złoto, a ktoś inny zaszczyty. Ja się tam do takich rzeczy nie palę, ale żeby przyjaciół zyskiwać — do tego mnie żądza gna. Znaleźć dobrego przyjaciela — ja bym wolał to, niż posiąść najlepszą w świecie przepiórkę albo koguta — ba, na Zeusa — ja bym to wolał niż konia i psa! Zdaje mi się, na psa, że raczej, niż posiąść skarby Dariusza, wolałbym znaleźć przyjaciela. Nawet to o wiele prędzej niż samego Dariusza! Tak mi jakoś potrzeba przyjaźni. Więc kiedy tak na was patrzę, na ciebie i na Lizysa, to szeroko otwieram oczy i usta, i mówię: oto szczęśliwcy! Że tacyście młodzi, a potrafiliście ten skarb znaleźć i prędko, i łatwo; tyś w nim takiego przyjaciela znalazł prędko i tak mocno go posiadasz, a on znowu ciebie. A ja taki jestem daleki od tego skarbu, że nawet tego nie wiem, jak to się jeden staje przyjacielem drugiego. Więc o to właśnie pragnę zapytać ciebie — jako doświadczonego.
+
+IX. Więc powiedz mi: kiedy ktoś kogoś lubi, to który się staje przyjacielem którego? Ten, co lubi, staje się przyjacielem lubianego czy też lubiany — tego, co lubi? Czy też to wszystko jedno?
+
+— Ja mam wrażenie — powiada — że to wszystko jedno.
+
+— Jak mówisz? — powiedziałem. — Więc i jeden i drugi stają się swoimi przyjaciółmi nawzajem, jeżeli tylko jeden z dwóch drugiego lubi?
+
+— Mnie się tak zdaje — powiada.
+
+— Jakże to? To nie zdarza się, żeby lubiący nie cieszył się wzajemną przyjaźnią lubianego?
+
+— Zdarza się.
+
+— No cóż. A bywa, że i nienawiść ściga tego, który kogoś lubi? Jak to nieraz wygląda zakochany w stosunku do kochanka. Taki lubi, jak tylko można najmocniej, i oto jeden ma wrażenie, że nie odbiera w zamian przyjaźni, a drugi nawet i to, że dostaje nienawiść. Czy myślisz, że to nieprawda?
+
+— Wielka przecież prawda — mówi.
+
+— Nieprawdaż, w takich stosunkach — powiedziałem — to jeden lubi, a drugiego lubią.
+
+— Tak.
+
+— Więc który z nich jest przyjacielem którego? Ten, co lubi, jest przyjacielem lubianego, bez względu na to, czy go tamten lubi wzajemnie, czy go nienawidzi? Czy też ulubiony jest przyjacielem lubiącego? Czy też w takich stosunkach żaden z dwóch nie jest przyjacielem drugiego, jeżeli się obaj nie lubią wzajemnie?
+
+— Zdaje się, że to właśnie tak jest.
+
+— W takim razie inaczej się nam teraz rzecz przedstawia, niż się wydawała przedtem. Bo przedtem się wydawało, że jeśliby tylko jeden z dwóch drugiego lubił, to przyjaciółmi będą obaj. A teraz, że jeśli się nie lubią obaj, to przyjacielem nie jest żaden.
+
+— Gotowo tak być — powiada.
+
+— Więc dla kogoś, kto lubi, nie jest przyjacielem nic, co go nie lubi nawzajem.
+
+— Nie wydaje się przynajmniej.
+
+— Więc nie są przyjaciółmi koni nawet ci miłośnicy koni, których konie nie lubią nawzajem, a to samo miłośnicy przepiórek, psów, wina, gimnastyki czy mądrości, jeśli ich mądrość nie lubi nawzajem. Czy też ci ludzie są przyjaciółmi tych rzeczy, choć one się im nie odpłacają przyjaźnią? Zatem nieprawdę mówi poeta, który powiedział, że:
+
+
+Szczęśliw, kto znalazł przyjaciół i w domu, i za granicą,
+Komu syn przyjacielem i koń, i wierny myśliwski pies.
+
+— Mnie się nie zdaje — powiada.
+
+— Więc wydaje ci się, że on prawdę mówi?
+
+— Tak.
+
+— Zatem przedmiot ulubiony jest miły miłującemu — tak się wydaje, Meneksenosie — choćby go i nie lubił nawzajem. Nawet choćby go nienawidził. Jak na przykład nowo narodzone dzieci — jedne jeszcze nie kochają, drugie nawet i nienawiść żywią, kiedy je karze matka albo ojciec — a mimo tej ich nienawiści w tej właśnie chwili milsze są rodzicom nade wszystko.
+
+— Mnie się przynajmniej zdaje, że tak jest — powiada.
+
+— Zatem nie: lubiący jest miły (przyjaciel) według tego toku myśli, tylko ulubiony.
+
+— Wydaje się.
+
+— I znowu: znienawidzony — to jest wróg, a nie ten, co nienawidzi.
+
+— Widać.
+
+— Zatem wielu ludzi otacza miłość wrogów i nienawiść przyjaciół i bywają ludzie mili wrogom, którzy są wrogami przyjaciół, jeżeli przyjacielem jest ten, którego lubią, a nie ten, który sam lubi. A przecież to wielkie głupstwo, miły przyjacielu, a raczej chyba i coś niemożliwego, żeby być wrogiem przyjaciela, a wrogowi być przyjacielem.
+
+— Zdaje się, że prawdę mówisz, Sokratesie.
+
+— Nieprawdaż. Jeśli to jest niemożliwe, to może raczej lubiący będzie przyjacielem lubianego.
+
+— Widocznie.
+
+— A nienawidzący znowu wrogiem znienawidzonego.
+
+— Koniecznie.
+
+— Nieprawdaż. Na to samo się nam wypadnie zgodzić, co i przedtem, że nieraz się jest przyjacielem nieprzyjaciela, a czasem nawet i wroga. To albo wtedy, gdy ktoś lubi nielubiącego, albo gdy lubi nawet i nienawidzącego. A czasem się jest wrogiem niewroga, albo nawet przyjaciela: to wtedy, gdy ktoś nienawidzi kogoś wolnego od nienawiści, albo nawet i takiego nienawidzi, który go lubi.
+
+— Gotowo tak być — powiada.
+
+— Więc na co się nam to przyda — mówię — jeżeli przyjaciółmi nie będą ani lubiący, ani ulubieni, ani lubiący i ulubieni zarazem? Czy powiemy, że oprócz nich istnieją jeszcze jacyś inni ludzie, którzy by się mogli stawać przyjaciółmi?
+
+— Nie, na Zeusa — powiada — Sokratesie; ja już nie bardzo wiem, jak iść.
+
+— A czy myśmy czasem — powiedziałem — Meneksenosie, nie byli w ogóle na niedobrej drodze?
+
+— Nie zdaje mi się, żeby na dobrej, Sokratesie — odezwał się Lizys. I zaczerwienił się przy tych słowach.
+
+Mam wrażenie, że mu się bez zamiaru to powiedzenie samo wyrwało, bo bardzo pilnie uważał na rozmowę. A widać to było po nim cały czas, jak słuchał.
+
+X. Ja chciałem, żeby sobie Meneksenos odpoczął, a cieszyło mnie, że się tamten tak garnie do mądrości, więc zwróciłem się do Lizysa i tak zacząłem mówić:
+
+— Mam wrażenie, Lizysie, że ty słusznie mówisz, że gdybyśmy byli rzecz rozważali poprawnie, nie bylibyśmy się zaczęli tak błąkać. Więc już nie idźmy tą drogą. Rzeczywiście, jakieś mi się przykre wydaje to rozważanie — całkiem jak zła droga. Ale jeden zakręt był dobry — tamtędy trzeba iść, moim zdaniem, i rozważać sprawę za przewodem poetów. To przecież nasi jakby ojcowie mądrości i przewodnicy. Mówią przecież niegłupio i jasno pokazują, skąd się biorą przyjaciele. Mówią, że sam bóg robi ich przyjaciółmi, bo ich sprowadza ku sobie. A mówią jakoś tak, zdaje mi się:
+
+
+Zawsze dwóch ludzi podobnych jakoś bóg wiedzie ku sobie
+I zaznajamia ich.
+
+Czyś nie spotkał tego wiersza?
+
+— Owszem — powiada.
+
+— Nieprawdaż. I spotkałeś pisma największych mędrców, którzy to samo mówią, że to, co podobne, z konieczności lgnie zawsze do podobnego. To tamci, co to o przyrodzie i o wszechświecie rozprawiają i piszą.
+
+— Prawdę mówisz — powiada.
+
+— Czy więc dobrze mówią? — powiedziałem.
+
+— Może być — mówi.
+
+— Może być — powiedziałem — że to do połowy prawda, a może i w całości, tylko my sobie z tego nie zdajemy sprawy. Bo nam się wydaje, że przecież zły człowiek, jak się ze złym zejdzie, to im bliżej z nim będzie obcował, tym większym stanie się wrogiem. Bo przecież krzywdy wyrządza. A krzywdziciel i pokrzywdzony chyba nie mogą być przyjaciółmi. Czy nie tak?
+
+— Tak jest — powiada.
+
+— Zatem w tym sposobie połowa tego zdania byłaby nieprawdziwa, jeżeli źli ludzie są też do siebie podobni.
+
+— Prawdę mówisz.
+
+— Więc myślę sobie, że oni mówią tak: dobrzy ludzie są do siebie podobni i są sobie przyjaciółmi, a źli, jak to się nawet o nich mówi, nigdy nie są podobni nawet do siebie samych, tylko jacyś nieprości, powikłani i nieobliczalni. Jeżeli coś jest niepodobne do samego siebie i mieni się — raz takie, raz inne — trudno, żeby się to zrobiło podobne do drugiego i weszło z nim w przyjaźń. Czy i tobie się tak nie wydaje?
+
+— Wydaje mi się tak — powiada.
+
+— Zatem to przeczuwają i odgadują, takie mam wrażenie, przyjacielu, ci, którzy mówią, że podobne jest przyjacielem podobnego. To, że jedynie tylko dobry jest przyjacielem dobrego i żadnego innego, a zły ani z dobrym, ani ze złym w prawdziwą przyjaźń nie wejdzie. Wydaje ci się też tak samo?
+
+Skinął głową.
+
+— Zatem już mamy to, jacy ludzie są przyjaciółmi. Tok myśli nam wskazuje, że to tylko ci, którzy są dobrymi ludźmi.
+
+— Owszem — powiada — zdaje się, że tak.
+
+XI. — Mnie się też tak wydaje — mówię. — Jednakże coś mi się przecież w tym nie podoba. Bo proszę cię, na Zeusa, zobaczmyż, co ja tu podejrzewam. Otóż ten podobny podobnemu przez to podobieństwo ma być przyjacielem i taki ktoś jest takiemu pożyteczny? A raczej tak: Cokolwiek jest do czegokolwiek podobne, to jakiż pożytek mieć albo jaką szkodę wyrządzić by mogło, których by i samo nie odnosiło? Albo czego doznać, czego by i od siebie samego doznać nie mogło? A takie dwie istoty jakże się mogą cenić nawzajem skoro się jedna drugiej na nic nie przydaje? Jest że to możliwe?
+
+— Nie jest.
+
+— A co nie ma wartości — to jak może być miłe?
+
+— Na żaden sposób.
+
+— A więc podobny podobnemu nie będzie przyjacielem. Dobry dobremu — jako dobry, a nie jako podobny — gotów być przyjacielem?
+
+— Może być.
+
+— Cóż więc? A czyż dobry, jako dobry, nie będzie przez to samo i wystarczający samemu sobie?
+
+— Tak.
+
+— A ten wystarczający to niczego nie potrzebuje, jeżeli sobie sam wystarcza?
+
+— Jakżeby nie.
+
+— A kto niczego nie potrzebuje, ten i niczego cenić nie może.
+
+— Pewnie, że nie.
+
+— A kto nie ceni, ten i lgnąć nie będzie.
+
+— Nie będzie.
+
+— A kto nie lgnie, ten nie jest przyjacielem.
+
+— Nie wydaje się.
+
+— Więc jakim sposobem mają być dobrzy przyjaciółmi dobrych — w ogóle? Ani za sobą nie tęsknią, gdy są z daleka — każdy sobie sam wystarcza, choć drugiego nie ma przy sobie — a jak są razem, wtedy też na nic jeden drugiemu. Jakże się tacy mogą wielce szanować nawzajem?
+
+— Nie ma sposobu — powiada.
+
+— A przyjaźń być nie może nigdy tam, gdzie nie ma wysokiego wzajemnego szacunku.
+
+— To prawda.
+
+XII. — Ale zobacz no, Lizysie, gdzie my tu coś fałszujemy. Czyżby nas pewne uogólnienie w błąd wprowadzało?
+
+— Jakże to? — powiada.
+
+— Ja już raz słyszałem, jak ktoś mówił, i teraz sobie to przypomniałem, że między podobnymi i między dobrymi właśnie najgorsza toczy się wojna. I jeszcze Hezjoda przytaczał jako świadka, mówiąc, że:
+
+
+Garncarz jest zły na garncarza i śpiewak nie znosi śpiewaka,
+Dziad się krzywi na dziada…
+
+i w innych wszystkich wypadkach, mówił, musi tak być, że co najpodobniejsze, to najwięcej jedno drugiemu zazdrości i współzawodniczy, i nienawiścią się wzajemną napełnia, a co najmniej podobne — to się przyjaźnią wiąże. Przecież ubogi musi być przyjacielem bogatego i słaby mocnego, ze względu na pomoc, którą mieć może, podobnie jak chory od lekarza. I każdy przecież niewiedzący ceni wiedzącego i lubi. I tak jeszcze dalej rozwijał te myśli — jeszcze wspanialej, mówiąc, że mowy o tym nie ma, żeby podobne ciągnęło do podobnego. Że jest nawet wprost przeciwnie, że największa przyjaźń zachodzi między największymi przeciwieństwami. Wszystko przecież przeciwieństwa jakiegoś pragnie, a nie czegoś podobnego. Tak więc suche pragnie wilgotnego, a zimne ciepłego, gorzkie słodkiego, ostre tępego, a to, co puste, pragnie napełnienia; tak samo jak pełne — opróżnienia. A inne rzeczy podobnie — według tej samej zasady. Bo się przeciwieństwo przeciwieństwem karmi, a podobne z podobnego nie ma nic. Doprawdy, przyjacielu. I wydawał się dowcipny, kiedy tak mówił. Dobrze mówił przecież. A nam — dodałem — jak się jego słowa wydają?
+
+— To dobre — powiada Meneksenos. — Dobre, kiedy się tak tego słucha…
+
+— Więc powiemy, że między największymi przeciwieństwami największa przyjaźń zachodzi?
+
+— Tak jest.
+
+— No dobrze — powiadam — Meneksenosie. Ale czy to nie dziwne jakieś? Toż się zaraz ucieszą i napadną nas ci arcymądrzy panowie, którzy się antylogiami bawią, i zapytają, czy największym przeciwieństwem przyjaźni nie jest nienawiść? Którym my co odpowiemy? Czyż nie koniecznie wypadnie się zgodzić, że prawdę mówią?
+
+— Koniecznie.
+
+— A czyż, powiedzą, nienawiść lubi przyjaźń albo przyjaźń nienawiść?
+
+— Żadna drugiej nie kocha — powiedział.
+
+— A sprawiedliwość krzywdę albo rozwaga rozpustę, albo zło i dobro?
+
+— Nie wydaje mi się, żeby to tak było.
+
+— A przecież — powiedziałem — jeżeli tylko cokolwiek jest z czymś w przyjaźni właśnie z powodu przeciwieństwa, to koniecznie i to by musiało być w przyjaźni.
+
+— Koniecznie.
+
+— Więc ani podobne z podobnym, ani przeciwne z przeciwnym nie będzie żyło w przyjaźni.
+
+— Nie wydaje się.
+
+XIII. — A jeszcze i to weźmy pod uwagę. Kto wie, czy aby jeszcze bardziej przed nami się nie kryje to, że przyjaźń prawdziwa nie ma z tymi rzeczami nic wspólnego, a tylko to, co ani dobre, ani złe, dopiero to się przyjaźnie zwracać zaczyna do tego, co dobre.
+
+— Jak mówisz? — powiada.
+
+— Na Zeusa — powiedziałem. — Ja nie wiem; mnie się naprawdę samemu w głowie kręci od tych myśli, z których wyjścia nie widzę, a tu gotowo być według starego przysłowia i po prostu miłe gotowo być to, co piękne. To przecież jest jakby coś subtelnego, gładkiego i połyskami oliwy świeci. Może dlatego tak się nam z rąk wyślizguje i wymyka — bo jest właśnie takie. Więc ja mówię, że dobro to piękno. A ty nie myślisz tak?
+
+— Myślę.
+
+— Zatem mówię, jak Pytia z trójnoga, że za pięknem i za dobrem goni to, co ani dobre nie jest, ani złe. A co na myśli mam, gdy tak wieszczę, posłuchaj: Mam wrażenie, że istnieją jakby jakieś trzy rodzaje rzeczy: dobre, złe i ani dobre, ani złe. A tobie jak się wydaje?
+
+— Mnie też tak samo — powiada.
+
+— I ani dobro dobra nie lubi, ani zło zła, ani też dobro zła, jak na to i poprzedni bieg myśli nie pozwalał. Zostaje więc — jeśli się cokolwiek ma z czymś innym lubić — że to, co ani dobre, ani złe, lubi to, co dobre, albo coś, co jest takie, jak ono samo. Bo do złego chyba nic pociągu mieć nie może.
+
+— To prawda.
+
+— Ani też podobne nie ciągnie do podobnego, jakeśmy to przed chwilą mówili. Nie tak?
+
+— Tak.
+
+— Zatem i to, co ani dobre, ani złe, nie może się przyjaźnie zwracać do czegoś w tym samym rodzaju.
+
+— Zdaje się, że nie.
+
+— Zatem to, co ani dobre, ani złe, i tylko ono jedno może się przyjaźnić tylko z tym, co dobre.
+
+— Zdaje się, że musi tak być.
+
+XIV. — A czy też nam tutaj, moi chłopcy — powiedziałem — to dobrze wychodzi wszystko, co się teraz mówi? Więc gdyby tak wziąć pod uwagę ciało zdrowe, to ono wcale nie potrzebuje medycyny ani pomocy. Ma wszystko, czego mu potrzeba. Tak, że zdrowy człowiek żaden nie lgnie do lekarza — bo ma zdrowie. Czy nie?
+
+— Żaden.
+
+— A dopiero niezdrów, myślę sobie, lgnie z powodu choroby.
+
+— Jakżeby nie.
+
+— Choroba to zło, a medycyna to coś pożytecznego i dobrego.
+
+— Tak.
+
+— A ciało, jako ciało, to chyba ani dobre, ani złe.
+
+— Tak jest.
+
+— Otóż choroba zmusza ciało, żeby pragnęło medycyny i żeby ją lubiło.
+
+— Wydaje mi się.
+
+— A więc coś, co nie jest ani złe, ani dobre, zaczyna lubić coś dobrego; przez to, że samo ma zło w sobie.
+
+— Tak to wygląda.
+
+— I jasna rzecz, że to jeszcze zanim się samo stanie złe; przez to zło, które mu przysługuje. Bo przecież gdyby się zrobiło całkiem złe, to już by nie pragnęło dobra i nie zwracałoby się do niego przyjaźnie. Powiedzieliśmy przecież, że to niemożliwe, żeby się coś złego przyjaźnie odnosiło do dobra. To nie może być.
+
+Rozważcież, co ja mówię. Ja myślę, że niektóre rzeczy są takie, jak to, co im przysługuje, a niektóre nie. Na przykład, gdyby ktoś chciał cokolwiek pomazać jakąś farbą, wtedy przedmiotowi pomalowanemu przysługuje to, czym się go pomalowało? To coś jest na nim?
+
+— Tak jest.
+
+— A czy i jest naprawdę wtedy przedmiot pomalowany takim, ze względu na swoją barwę, jak to, co na nim leży?
+
+— Nie rozumiem — powiada.
+
+— To jest tak — mówię. — Ty masz włosy blond. Gdyby ci je ktoś pomalował bielą ołowianą, to czy one wtedy będą białe, czy tylko wydawałyby się białe?
+
+— Wydawałyby się — powiada.
+
+— A przecież przysługiwałaby im, byłaby na nich białość.
+
+— Tak.
+
+— A mimo to wcale nie byłyby białe. Choćby na nich była i przysługiwała im białość, nie byłyby ani trochę białe ani czarne.
+
+— To prawda.
+
+— Ale kiedy, przyjacielu, starość ten sam kolor na nie sprowadzi, wtedy się staną takie same, jak to, co im będzie przysługiwało. Przysługiwać im będzie białość i będą przez nią białe.
+
+— Jakżeby nie.
+
+— Więc ja o to pytam w tej chwili, teraz, czy jeśli czemuś coś przysługuje, to zawsze takie będzie to, co posiada, jakie jest to, co przysługuje, czy też: jeśliby mu coś przysługiwało w pewien sposób, wtedy ono będzie takie, a jeśli w inny, to nie?
+
+— Raczej to drugie — powiada.
+
+— Więc tak samo i to, co nie jest ani złe, ani dobre — niekiedy nie jest złe, chociaż mu już pewne zło przysługuje, a niekiedy już się takim staje.
+
+— Tak jest.
+
+— Nieprawdaż. Kiedy jeszcze nie jest złe, chociaż już ma zło w sobie i to zło mu jakoś tam przysługuje — to właśnie ta obecność zła sprawia, że ono zaczyna pożądać dobra. A jeśli je ta obecność zła zrobi całkiem złym, to już go wtedy pozbawia żądzy dobra i miłości tego, co dobre. Ono wtedy już nie jest, jak przedtem, ani złe, ani dobre, tylko jest teraz złe. A zło nigdy nie kocha dobra. Nigdy w świecie.
+
+Dlatego też przyznamy może, że ci, co już są mądrzy, nie garną się wcale do mądrości. Czyby tam bogowie czy ludzie byli tacy. Ani też ci nie szukają mądrości, którzy niewiedzę mają wszczepioną tak, że są źli przez nią. Żaden przecież lichy człowiek i nieuk nie garnie się do mądrości. Zostają więc ci, którzy mają w sobie to zło: tę niewiedzę, ale ona ich jeszcze nie pozbawiła zdolności poznania, ani z nich nieuków nie zrobiła. Oni jeszcze czują, że nie wiedzą tego, czego nie wiedzą. I dlatego też garną się do mądrości tacy, co nie są ani dobrzy, ani całkiem źli. A którzy źli, ci się do mądrości nie garną. Dobrzy też nie. Bo się pokazało w poprzednich rozważaniach, że ani przeciwieństw, ani podobnych pierwiastków przyjaźń wiązać nie może. Czy nie pamiętacie?
+
+— Owszem — powiedzieli.
+
+— Zatem teraz dopiero — powiedziałem — mój Lizysie i Meneksenosie, doszliśmy w końcu, co to jest pociąg przyjazny, a co nie. Twierdzimy, że czyby to o duszę szło, czy o ciało, wszędzie przyjaciel to ten, który nie będąc ani złym, ani dobrym, lubi dobro, ponieważ ma w sobie zło.
+
+Przyznali słuszność i zgodzili się obaj, że wszędzie tak jest.
+
+XV. Ja się też i sam bardzo cieszyłem, jakby jaki myśliwy; byłem zaspokojony tym, com sobie z takim trudem upolował, ale potem — nie wiem skąd — jakieś mnie zgoła dziwaczne podejrzenie opadło, że to nieprawda, to, na cośmy się razem byli zgodzili. Więc zaraz straciłem humor i zniechęcony powiedziałem:
+
+— Ajaj, Lizysie i Meneksenosie, ten cały nasz zysk to gotowa być mara senna.
+
+— Bo co takiego? — powiada Meneksenos.
+
+— Ja się boję, czy te nasze myśli o przyjaźni i o tym, co miłe, czy to nie same fałsze — jakby jakaś gromada szarlatanów, w którąśmy wpadli.
+
+— Jakże to? — powiada.
+
+— W tym sposobie — mówię — zobaczmy. Przyjacielem, jeśli ktoś jest, to jest przyjacielem komuś, lgnie do czegoś — czy nie?
+
+— To konieczne — powiada.
+
+— A czy ze względu na nic i przez nic, czy też ze względu na coś i przez coś?
+
+— Tak. Ze względu na coś i przez coś.
+
+— A to, ze względu na co przyjaciel jest miły przyjacielowi, to jest miłe, czy nie jest ani miłe, ani też wrogie, wstrętne?
+
+— Ja nie bardzo jakoś dotrzymuję kroku — powiada.
+
+— Nic dziwnego — mówię. — Ale w tym sposobie może łatwiej ci będzie iść. A mam wrażenie, że i ja sam będę lepiej wiedział, co właściwie mówię. Więc chory, mówiliśmy teraz, przed chwilą, lgnie przyjaźnie do lekarza. Czy nie tak?
+
+— Tak.
+
+— Nieprawdaż. Przez tę chorobę i ze względu na zdrowie jest przyjacielem lekarza.
+
+— Tak.
+
+— A choroba to zło?
+
+— Jakżeby nie?
+
+— A cóż zdrowie? — powiedziałem. — To zło czy dobro? Czy też ani jedno, ani drugie?
+
+— To dobro — powiada.
+
+— A mówiliśmy, zdaje się, że ciało to ani dobre, ani złe — przez chorobę, to znaczy przez pewne zło, przyjaźnie się odnosi do medycyny. A medycyna to dobro. Otóż ze względu na zdrowie medycyna zagarnia dla siebie przyjaźń. Zdrowie to dobro. Czy nie?
+
+— Tak.
+
+— A zdrowie jest miłe czy niemiłe?
+
+— Miłe.
+
+— A choroba — to coś wstrętnego, to wrogie?
+
+— Tak jest.
+
+— Zatem to, co nie jest ani złe, ani dobre, przez to, co jest złe i wrogie, staje się przyjacielem dobra, ze względu na pewne dobro, które jest miłe?
+
+— Okazuje się.
+
+— Zatem ze względu na coś miłego przyjaciel jest przyjacielem przyjaciela dzięki czemuś wrogiemu?
+
+— Wydaje się, że tak.
+
+XVI. — No dobrze — powiedziałem. — Skorośmy aż tutaj zaszli, to uważajmy teraz, chłopcy, dobrze, abyśmy nie zabłądzili i nie wpadli. Że tam się przyjaciel poprzyjaźnił z przyjacielem, to już mniejsza o to. Podobne zaczyna się tu przyjaźnić z podobnym, a mówiliśmy, że to niemożliwe. To nic, ale weźmy coś innego pod uwagę, aby nas nie wprowadzało w błąd to, co się teraz mówi. Powiadamy, że medycyna jest nam miła ze względu na zdrowie.
+
+— Tak.
+
+— Nieprawdaż. A zdrowie to jest też miła rzecz?
+
+— Tak jest.
+
+— Jeśli miła, to ze względu na coś.
+
+— Tak.
+
+— I to przecież ze względu na coś miłego, jeżeli pójdziesz za poprzedzającą uchwałą.
+
+— Tak jest.
+
+— Nieprawdaż, i to miłe będzie znowu ze względu na coś innego miłe.
+
+— Tak.
+
+— Czyż nie musimy utracić tchu po drodze, kiedy się tak będziemy cofali wstecz, albo dojść do jakiegoś początku, który już nas nie odeśle do czegoś innego miłego? To będzie to pierwsze miłe; ze względu na nie wszystkie inne rzeczy są i uchodzą u nas za miłe.
+
+— Musi tak być.
+
+— Ja to mówię dlatego, żeby was te wszystkie inne rzeczy, któreśmy nazwali miłymi ze względu na tamto pierwsze, nie wprowadzały w błąd. To są jak gdyby jakieś jego widziadła. A tamto pierwsze i jedynie ono tylko jest tym, co naprawdę miłe.
+
+Bo zastanówmy się tak. Jeżeli ktoś coś wysoko stawia, jak to nieraz ojciec syna ponad wszystkie inne skarby ceni, taki ojciec, ze względu na swój dodatni stosunek do syna, czyż nie będzie gotów także innych rzeczy cenić bardzo wysoko? Na przykład, gdyby spostrzegł, że syn wypił truciznę, czyżby wtedy nie cenił wysoko wina, wierząc, że ono mu syna uratuje?
+
+— No pewnie — powiedział.
+
+— A także i naczynie, w którym by wino było zawarte?
+
+— Tak jest.
+
+— I czy on w takiej chwili niczego nie ceni wyżej, tylko ceni na równi ten gliniany dzbanek i własnego syna? Albo trzy miarki wina tak samo jak syna? Czy też raczej tak jakoś rzeczy stoją: Cała poważna troska i zabiegi tego rodzaju nie do tego zmierzają, co się przyrządza ze względu na coś innego, ale zmierzają do tego, ze względu na co się wszystkie tego rodzaju rzeczy przyrządza. To nic, że mówimy często, że wysoko cenimy złoto i srebro. Mimo to wcale jeszcze tak nie jest naprawdę. My to cenimy nade wszystko, co — czymkolwiek by ono było — ze względu na co i złoto się gromadzi i przysposabia się, i urządza wszystko to, co się urządza. Czy tak powiemy?
+
+— Tak jest.
+
+— Nieprawdaż, i z tym, co miłe, ta sama sprawa. Bo jeśli o czymś mówimy, że nam miłe ze względu na coś innego miłego, to tak wygląda, jakby nasze słowa dotyczyły tego, co miłe. A miłe istotnie gotowo być to na końcu, do czego te, tak nazywane, przyjazne pociągi czy upodobania zmierzają.
+
+— Gotowo tak być — powiada.
+
+— Nieprawdaż. Więc, co istotnie miłe, jest miłe, ale nie ze względu na coś innego?
+
+— Prawda.
+
+XVII. — Zatem tego już nie ma, żeby to, co miłe miało być takim ze względu na coś innego miłego. A może to dobro jest tym, co miłe?
+
+— Wydaje mi się.
+
+— A może my przez zło miłujemy dobro? Czy to tak nie jest? Mówiliśmy przed chwilą, że istnieją trzy rodzaje rzeczy: dobre, złe i ani dobre, ani złe. Gdyby tak z nich pozostały tylko dwa rodzaje, a zło, gdyby sobie poszło precz i nie dotykałoby niczego: ani ciała, ani duszy, ani żadnych innych rzeczy, o których mówimy, że same przez się ani złe nie są, ani dobre — wtedy może dobro żadnego by nam nie przynosiło pożytku i stałoby się całkiem nieużyteczne. Bo skoro by nam już nic wtedy nie przynosiło szkody, nie potrzebowalibyśmy też żadnej pomocy na nic i tym sposobem pokazałoby się wtedy, że my dziś dobra pragniemy z powodu zła i szukaliśmy go dlatego, że ono jest lekarstwem przeciw wszystkiemu, co złe, a zło to jest choroba. Kiedy nie ma choroby, wtedy i lekarstwa nie trzeba. Może to taka jest natura tego, co dobre: kochamy je z powodu zła, my, którzy stoimy pośrodku pomiędzy złem a dobrem, a ono samo przez się chyba na nic się nie przydaje?
+
+— Zdaje się, że to tak jest — powiada.
+
+— Zatem to, co miłe — to w naszych oczach to, do czego zmierzały ostatecznie wszystkie inne rzeczy, o których mówiliśmy, że miłe są ze względu na coś tam innego miłego. Ono zgoła nie jest do nich podobne. Bo one się nazywają miłe zawsze ze względu na coś innego, a natura tego, co istotnie miłe, okazuje się wprost przeciwna. Pokazało się przecież, że ono jest miłe ze względu na to, co wrogie. A gdyby to, co wrogie, odeszło — ono, zdaje się, przestanie być miłe.
+
+— Nie wydaje mi się tak — powiada — jak się to teraz mówi.
+
+— Na Zeusa — powiedziałem — a czyż po ustaniu zła nie będzie się już ani łaknąć, ani pragnąć, ani innych takich potrzeb nie będzie? Czy też głód zostanie, jeśliby zostali ludzie i inne istoty żywe, ale ten głód nie będzie szkodliwy? I pragnienie też, i inne pożądania zostaną, ale nie będą złe, jeśli zło przestanie istnieć? Czy też to jest zabawne pytanie: co wtedy będzie albo czego nie będzie? Bo któż to wie? Ale to jednak wiemy, że i teraz czasem głód szkodzi, a czasem pomaga. Czy nie tak?
+
+— Tak jest.
+
+— Nieprawdaż, i jeśli ktoś ma pragnienie albo też innych wszystkich tego rodzaju rzeczy pożąda, to niekiedy pożądanie wychodzi mu na pożytek, niekiedy na szkodę, a niekiedy ani na jedno, ani na drugie?
+
+— Stanowczo tak jest.
+
+— Nieprawdaż. Jeśliby zginęło wszystko, co złe, to czemu by wraz z nim wypadało zginąć i tym rzeczom, które nie są złe. Nie ma żadnego powodu. Zostaną zatem pożądania ani dobre, ani złe, choćby nawet przestały istnieć złe.
+
+— Okazuje się.
+
+— Więc to możliwe, żeby komuś, kto czegoś pożąda i pragnie, nie było miłe to, czego on pragnie i pożąda?
+
+— Nie wydaje mi się.
+
+— Czyż więc po ustaniu rzeczy złych zostanie jeszcze coś miłego?
+
+— Tak.
+
+— Nie może być, skoro właśnie zło było tą przyczyną, dla której coś zaczynało być miłe. Więc jak zło ustanie, to nie może dalej nic być miłe jedno drugiemu. Przecież po ustaniu przyczyny nie może dalej istnieć skutek.
+
+— Słusznie mówisz.
+
+— Prawda, zgadzamy się, że to, co przyjaźnie lgnie, to zawsze lgnie do czegoś i przez coś. I zdawało się nam wtedy, że to, co ani dobre, ani złe, lubi dobro przez zło?
+
+— To prawda.
+
+— Tymczasem teraz zjawia się chyba jakaś inna przyczyna pociągu i uroku przyjaznego.
+
+— Zdaje się.
+
+— Więc może naprawdę, jakeśmy tu przed chwilą powiedzieli, pożądanie jest przyczyną przyjaźni i to, co pożąda, to ciągnie przyjaźnie ku przedmiotowi pożądania w tym czasie, gdy pożądanie trwa? A to, cośmy poprzednio mówili o istocie tego, co miłe, to były jakieś bajdy i figle — jakby kto poemat układał nazbyt długi?
+
+— Gotowo tak być — powiada.
+
+— Zatem — powiedziałem — to, co pożąda, pożąda tego, czego mu brak. Czy nie?
+
+— Tak.
+
+— Ale co cierpi brak, to przyjaźnie ciągnie do tego, czego mu brak?
+
+— Wydaje mi się.
+
+— A zaczyna cierpieć brak, jeżeli mu coś zabiorą?
+
+— Jakże nie?
+
+— Zatem do czegoś swojego widocznie skłania się miłość i pragnienie, i przyjazny pociąg, i żądza. Widocznie, Meneksenosie i Lizysie.
+
+Przyznali słuszność obaj.
+
+— Więc wy, jeżeli jesteście przyjaciółmi, to jakoś z natury każdy z was jest dla drugiego niby swój człowiek i jakby krewny.
+
+— Całkowicie — powiedzieli.
+
+— I jeżeli jeden drugiego pożąda — powiedziałem — moi chłopcy, albo kocha, to nigdy by go nie pożądał, nie kochał, ani nie lubił, gdyby jakoś nie był pokrewny przedmiotowi swej miłości; albo co do duszy, ze względu na jakiś rys psychiczny, albo co do obyczajów, albo z urody.
+
+— Tak jest — powiedział Meneksenos. A Lizys milczał.
+
+— No dobrze — powiedziałem. — Więc to, co z natury nam pokrewne, to nam jest miłe i do tego musimy lgnąć. To się pokazuje?
+
+— Widocznie — powiada.
+
+— Zatem, kto naprawdę kocha, a nie udaje, tego musi nawzajem kochać ukochany.
+
+Lizys i Meneksos jakoś bardzo się ociągali z przytakiwaniem, za to Hippotales z radości zaczął się mienić różnymi kolorami.
+
+XVIII. Pragnąc rzucić okiem na nasz tok myśli, czy w nim wszystko w porządku, powiedziałem: — Jeżeli to co pokrewne, różni się czymś od tego, co podobne, to mielibyśmy jakiś wynik do rzeczy, mój Lizysie i Meneksenosie; wynik, dotyczący tego, co miłe i przyjazne. Ale jeżeli to jest w sam raz jedno i to samo: to, co podobne, i to, co pokrewne, to niełatwo odstąpić od myśli poprzedniej, że podobne podobnemu na nic się nie przydaje — właśnie dzięki temu podobieństwu. A zgodzić się, żeby to, co nieużyteczne, mogło być miłe — to byłaby lekkomyślność. Więc jeżeli chcecie — powiedziałem — to ponieważ jesteśmy już jak pijani od tych wywodów, zgódźmy się i powiedzmy, że to, co pokrewne, to jest coś innego niż to, co podobne.
+
+— Dobrze.
+
+— A czy założymy i to, że to, co dobre, jest pokrewne wszystkiemu, a to, co złe — jest obce? Czy też, że złe jest pokrewne złemu, a dobremu dobre, a temu, co ani dobre, ani złe — to, co nie jest ani dobre, ani złe?
+
+— Tak jest — powiedzieli obaj; im się tak wydaje, że każde z każdym jest pokrewne.
+
+— Chłopcy — powiadam — to żeśmy znowu, drugi raz już wpadli w te same myśli o przyjaznym pociągu, któreśmy przedtem byli odrzucili. Bo przecież teraz łotr łotrowi i zły człowiek złemu człowiekowi będzie — mimo to — przyjacielem, nie mniej niż dobry dobremu.
+
+— Tak to wygląda — mówi.
+
+— Cóż więc? Jeżeli za jedno i to samo weźmiemy to, co dobre, i to, co pokrewne, to wyjdzie, że jedynie tylko dobre może być przyjazne dobremu.
+
+— Tak jest.
+
+— No tak, ale i ta teza, uważaliśmy, zwraca się przeciw nas samym. Czy nie pamiętacie?
+
+— Pamiętamy.
+
+— Więc na co ten cały wywód? Jasna rzecz, że na nic. Wobec tego chciałbym, jak to robią mędrcy w sądach, streścić jeszcze raz to wszystko, co się powiedziało. Otóż, jeśli ani ci, których lubimy, ani lubiący, ani podobni, ani niepodobni, ani dobrzy, ani pokrewni, ani te wszystkie rodzaje rzeczy, któreśmy przeszli — ja ich już nie pamiętam wszystkich, bo tyle tego było — więc jeżeli nic z tego nie jest tym, co miłe, to ja już nie mam nic więcej do powiedzenia.
+
+Po tych słowach miałem ochotę poruszyć już kogoś innego, spośród starszych, a tu, jakby jakieś złe duchy, przyszli służący guwernerzy. Jeden po Meneksenosa, drugi po Lizysa. Prowadzili już ich braci i zaczęli na tych wołać, aby już szli do domu. Bo już było późno. Zrazu i my, i ci stojący naokoło, zaczęliśmy ich odpędzać. Ale oni sobie nic z nas nie robili, zaczęli się stawiać i besztać łamanym językiem greckim, i dalej wołali swoje. Mieliśmy wrażenie, że sobie podpili na tej uroczystości Hermesa i trudno się było z nimi dogadać. Więceśmy im ustąpili i rozwiązaliśmy zebranie.
+
+Kiedy oni już odchodzili, powiedziałem jeszcze: — Lizysie i Meneksenosie, zabawne się z nas zrobiło towarzystwo: ja stary i was dwóch. Będą mówili ci, co odchodzą, że uważamy się wszyscy za przyjaciół — siebie też razem z wami liczę — a jednak jeszcze nie udało się nam dojść, co to właściwe jest przyjaciel.
+
+
+
+
+Objaśnienia tłumacza
+
+Koloryt lokalny bardzo żywy od początku. Czytelnicy Platona wiedzieli dokładnie, gdzie się dialog odbywa. Niedawno zbudowany zakład gimnastyczny (palaistra) stał koło źródła Hermesa Panopsa, tzn. Hermesa, który wszystko widzi. Po polsku ono by się nazywało źródłem imienia Opatrzności. Znajomi witają Sokratesa tak samo serdecznie, jak go w innym dialogu wita Fajdros. Tylko bliska zażyłość pozwala na tak wnikliwe zapytanie i pozwala spodziewać się nieogólnikowej odpowiedzi.
+
+Uśmiech Hippotalesa słychać w powtórzeniu Sokratesowych słów: „prosto do” i widać, że nie śpieszy się ani Sokratesowi, ani chłopcom.
+
+Mikkos nie jest znaną osobistością. Jak wynika z tekstu, nie jest również wyłącznie, a może i wcale nie jest nauczycielem gimnastyki, skoro Sokrates — widać, że w tonie poważnym — nazywa go tęgim, zdolnym uczonym, a sam cieszy się jego uznaniem.
+
+Sokrates zrazu robi poważną minę i zaraz zaczyna nabierać Hippotalesa przyjaźnie. Wymienia nazwisko ojca, gdy do niego mówi; to zabarwia jego apostrofę tonem figlarnie uroczystym, niby to urzędowym. Zdemaskowany Hippotales rumieni się — tkliwe uczucia osobiste lubiły się kryć już i wtedy i nie wypadało imienia ukochanego obnosić po rynku. Stąd naprzód pochwała z ust Ktesippa za rumieniec i milczenie wobec Sokratesa, i stąd zaraz koleżeńskie a niedyskretne nagany, że Hippotales zanudza świat artystycznymi wylewami swego serca i kompromituje tym przedmiot swoich uczuć, syna Demokratesa z Ajksony. Mogło mu to kiedyś zaszkodzić w karierze, choć nie byłoby niczym wyjątkowym w tych czasach. Zwłaszcza w kołach sympatyzujących ze Spartą. Hippotales przyznaje się do uczucia, wypiera się tylko swoich prób lirycznych.
+
+II. Niezbyt uparcie to robi i nie protestuje, kiedy Ktesippos charakteryzuje jego banalne wyrazy uwielbień. Sokrates albo odsłania, albo mu raczej imputuje figlarnie egoistyczne tło jego pisanych i śpiewanych pochwał i wskazuje, że one nie są owocem rozwagi, bo psują przedmiot uczuć, wzbijają go w dumę i mogą przez to szkodzić interesom „pogrążonego” poety. Sokrates żartuje, ale trafnie w tych żartach podpatrzył drapieżny, samolubny charakter pospolitych miłostek. To jest rodzaj łowów, powiada. Zamach na swobodę osobistą drugiego. Gdyby przynajmniej był celowy, gdyby nim kierował rozum. Wtedy by artystyczne wyrazy głodu erotycznego przybliżały upragnioną zdobycz zamiast ją oddalać. Te wyrazy powinny obezwładniać i zniewalać, powinny niejako hipnotyzować ofiarę, poddawać ją pod wpływ osobisty głodnego, a więc nie powinny wzmagać samopoczucia ofiary. Tak mówi Sokrates półżartem, przybierając pozę satyra.
+
+Równocześnie ma na myśli to, że kto kocha, ten sam się powinien rządzić rozumem i ukochanego uczyć rozwagi i skromności. Ma to na myśli, ponieważ tak mówi w Fajdrosie i tak postępuje stale u Platona. Poza chłodnego uwodziciela, którą tu przybiera, jest w stosunku do jego rysów stałych tylko maską satyra, przywdzianą na żart. A nie mamy powodu podejrzewać jego rysów stałych i brać raczej te stałe rysy za udane, choć mogły i one być wypracowane wewnętrznie.
+
+III. Sokrates obiecuje dać próbkę i wzór właściwego stosunku do ukochanej osoby. Niewątpliwie do osoby bardzo młodej i tak popsutej, i zarozumiałej, jakim powinien się był, jego zdaniem, zrobić mały Lizys pod wpływem niemądrych uwielbień Hippotalesa.
+
+Widać, jak Lizys jest dobrze wychowany; dlatego, choć pragnie poznać się z Sokratesem, krępuje się, nie narzuca się i czeka, aż go ktoś niejako wprowadzi i przedstawi. Przedstawienia nie potrzeba, bo Sokrates sam zaczyna rozmowę, ale Meneksenos przydał się Lizysowi, żeby było koło kogo siąść. Sokrates figlarnie przygania niby to chłopcom, że się nieraz kłócą, i w tych samych zwrotach daje im do zrozumienia, że widzi ich piękność, zamożność i wyższą klasę towarzyską. Chłopcy śmieją się pod wpływem komplementów obwiniętych w serdeczne przygany i cieszą się, kiedy się Sokrates z góry domyśla ich koleżeńskiej solidarności.
+
+IV. Sokrates zamierza zadawać im pytania dalsze, które by potrafiły wykryć, czy który z nich nie jest może próżny i zarozumiały, a może zbyt skromny. W każdym razie zmuszałyby chłopców do zastanowienia się nad sobą — ponieważ jednak szło o rozmowę z Lizysem samym, więc oto w sam czas odwołują Meneksenosa do składania ofiary, a ofiarą pokazu Sokratesa zostaje Lizys sam. Teraz mu Sokrates da szkołę, z której ma skorzystać Hippotales. Ma to być lekcja skromności, obniżanie wybujałego samopoczucia i doprowadzanie do właściwej samowiedzy. Mówiąc stylem znacznie późniejszym: kładzenie fundamentów pokory pod gmach cnót wszelakich. Trzeba się tej szkole przypatrzeć — czy się i dziś przyda, czy też okaże się przestarzała.
+
+Widzimy, że Sokrates, chcąc chłopaka doprowadzić do pewnego pożądanego poglądu — w tym wypadku ma to być pogląd na siebie samego — zniża się do poziomu chwilowego wychowanka w ten sposób, że sam udaje dziecko. Udaje, że nie wie wielu prostych rzeczy, że się dziwi temu, co go całkiem nie dziwi, i że się buntuje przeciw temu, co uważa za zupełnie słuszne urządzenie. Czemu tak robi? Dlatego, że przypuszcza z góry tę właśnie postawę duchową u chłopca i nawiązuje z nim w ten sposób pewnego rodzaju spółkę. To powinno chłopaka otworzyć, skłonić go do szczerości, obudzić jego zaufanie i tym samym poddać go pod wpływ sugestywny przewodnika.
+
+Sposób niezły w zasadzie, jeżeli się tylko chłopak nie pozna na farbowanych lisach i nie przechytrzy chytrego kierownika albo się wprost nie odwróci i nie powie: nie lubię, kiedy mnie starsi nabierają; starsi biorą mnie za mniejszego, niż jestem.
+
+Sokrates ustala z Lizysem przesłankę, że człowiek, któremu nie wolno robić nic z tego, czego by pragnął, jest nieszczęśliwy. Zupełnie słuszna. A ponieważ w dalszej rozmowie pokazuje się, że Lizysowi nie wolno robić nic z tych rzeczy, których by pragnął, wynika stąd oczywiście, że i Lizys, i każdy chłopak, którego podobnie wychowują, jest nieszczęśliwy. Ale tego wniosku nikt z rozmawiających nie wysnuwa, bo nie o to szło.
+
+Wynika też z tego, że rodzice, którzy by dbali o to, żeby Lizys był już i dzisiaj szczęśliwy, a nie dopiero wtedy, jak dorośnie, powinni by mu naprawdę pozwalać na jak najwięcej rzeczy, których by pragnął, o ile by mu te rzeczy nie przynosiły jawnej szkody na dziś i na przyszłość i nie zagrażały otoczeniu. Powinni by też jak najmniej na niego krzyczeć. Te wnioski wysnuła dopiero nowoczesna pedagogika — Lizys musiał jeszcze znosić dawną. Zapewne, że nie należało go jeszcze puszczać na wyścigi ani pozwalać mu na bicie mułów, ale nie było wzorowym zabiegiem wychowawczym bić go za ruszanie narzędzi tkackich w domu, zamiast go z nimi zapoznać i nauczyć go tkać w zabawie i po dobremu. Sokrates bez litości urąga chłopcu, udając, że go buntuje, i wspólnie z nim narzeka na ustawiczny kryminał, w którym chłopiec musiał żyć. To wszystko ma być dla jego dobra.
+
+V. Gdyby życie dziecka wyrażało się naprawdę ściśle w tych słowach: „ty nie rządzisz sam niczym, mój Lizysie, i nie robisz nic z tych rzeczy, których pragniesz”, byłoby to życie jednym pasmem udręczeń i mogłoby zostawić fatalne ślady na usposobieniu człowieka i na jego późniejszej sprawności. Dlatego dziś chłopcom w tym wieku daje się jednak pewien zakres samodzielności i zaspokaja się z ich nieszkodliwych pragnień więcej, niż się to dawniej robiło. Jeszcze pięćdziesiąt lat temu karano w szkołach średnich karcerem za jazdę na saneczkach, za bicie się śniegiem, bieganie albo rower. Dola dzieci poprawiła się o całe niebo w wieku dziewiętnastym i dwudziestym. Dzieci „dobrze wychowanych”. Te bez wychowania były już i w Grecji szczęśliwsze.
+
+Lizys wie, czemu jęczeć musi do czasu w tej niewoli. Bo jeszcze nie ma lat. Łatwo się domyślić, jak sobie użyje, kiedy swego wieku dojdzie. Alkibiades był niewątpliwie podobnie chowany i kto wie, czy właśnie to się nie skrupiło później na posągach Hermesa.
+
+Rodzice pozwalają Lizysowi czasem robić, co chce. Wtedy, kiedy im tego potrzeba. Chłopak musi im nieraz coś pisać lub odczytywać. Nie znaczy to wcale, żeby chłopak był wtedy wolny. Przeciwnie. Musi przecież czytać to, co mu każą, i pisać to, co mu polecają. Jeżeli, to chyba tylko przy lirze odzyskuje jakąś swobodę ruchów.
+
+Jawnie złudne nadzieje budzi Sokrates w sercu małego „niewolnika”. Gorzka przecież będzie jego godzina, jeżeli ambitny ojciec odniesie kiedyś to wrażenie, że się chłopak robi mądrzejszy od niego. Surowi i ambitni ojcowie nie uważają takiego momentu za najwłaściwszy do ustępowania z majątku i do oddawania się pod opiekę synów. Jeszcze mniej sąsiedzi. To, co tu Sokrates mówi, jest niepodobne do żadnej prawdy. Może to była nieudolna konkretyzacja optymistycznej zasady, że zdolnego człowieka wszędzie pragną i wszędzie go potrzebują, więc świat przed nim otwarty, bo to kiedyś tak bywało, albo, że wolność jest słusznym przywilejem rozumu. W tej konkretyzacji jest dużo groteski jednak. Zdaje się, że mimowolnej.
+
+Gotowanie rosołu u króla perskiego i leczenie perskiego infanta jest już świadomie i umyślnie zabawne, tylko wniosek znowu jawnie mylny. Ani dziś tak nie jest, ani w czasach Lizysa i Sokratesa tak nie było, żeby ludzie ustępowali swej władzy każdemu, kogo uważają za mądrzejszego od siebie. Byłby to szczyt bezinteresowności i poświęcenia albo pociąg samobójczy. I dziś, i dawniej ludzie nienawidzili i nienawidzą tych, którzy wyglądają na lepiej kwalifikowanych do ich stanowiska. Przecież nie tylko mądrzy chcą żyć — ci głupsi też, i ci nieliczni, którzy się uważają za mniej mądrych od swoich współzawodników. Widać, że Platon nie miał jeszcze za sobą swoich nieprzyjemności sycylijskich, a los mądrego Sokratesa jakoś mu też w tej chwili nie przyszedł na myśl.
+
+VI. Obraz życia, który tu Sokrates Lizysowi maluje, jest fałszywy. Wiemy dobrze, że zaufanie ludzkie nie zależy od tego, czy się rozumiemy na czymś, czy nie, tylko od tego, czy potrafimy uchodzić za takich, którzy się na czymś rozumieją, i od wielu innych rzeczy również. I to wiemy, że przeszkody nieraz ludzie stawiają umyślnie najrozmaitszym znawcom. Kolizje interesów nie ustają przecież, gdy ktoś zdoła rozumem opanować jakąś dziedzinę. I to, że nierozumiejący się na rzeczy zajmują zawsze stanowiska podrzędne i zależne, a znawcy kierownicze — to jest marzenie Sokratesa, ale nie obraz stosunków w Attyce w jego czasach. W końcu i to nie wydaje się prawdą, żeby nikt kochać nie mógł kogoś niepożytecznego. Wtedy by rodzice nie mogli kochać swoich niemowląt i nikomu nie byłyby miłe rośliny i zwierzęta ozdobne, i dzieci chore i ograniczone, i starzy rodzice, i ludzie, którzy odeszli. Sympatia, przywiązanie i miłość nie zawsze idą za pożytkiem osobistym. Morały Sokratesa są tu zbudowane na mylnych uogólnieniach i dlatego bardzo niebezpieczne. Kto by go w tym naśladował, potrafi może dziś chwilowo upokorzyć wychowanka, ale jutro może stracić u niego wszelkie zaufanie, bo morał zbudowany na nieprawdzie ma fundamenty kruche, a kierownik, który zaczyna wyglądać na ograniczonego, traci kredyt. Pocieszajmy się, że całe te rekolekcje z Lizysem prowadzi Sokrates półżartem i że grzeczny Lizys widzi uśmiech na twarzy Sokratesa, skoro się wcale nie obraża i nie martwi.
+
+VII. Że Hippotales się przez ten czas męczył i skręcał, to bardzo zrozumiałe — nawet gdyby nie był zakochany. Lizys w najlepszej komitywie z Sokratesem chce u niego zamówić analogiczne kazanie dla Meneksenosa, jak to, które sam odebrał, ale nic z tego nie będzie; na razie Sokrates z figlów udaje, że się boi dyskusji; mały Lizys dodaje mu ducha. Widać, że zaczął się przyjaźnie odnosić do Sokratesa. To niby stąd, że dostrzegł u Sokratesa rozwagę, której brak odnalazł u siebie. Tak to jest pomyślane.
+
+VIII. Dopiero teraz przychodzi zagadnienie główne dialogu. Sokrates je przynosi jako związane ściśle z jego własnym życiem wewnętrznym. Dlatego zaczyna od wyznań. Mówi rytmicznie; otworzył serce, a żeby nie popadać w patos, osłania się figlami. Udaje, że ceni to, co bogata młodzież w Atenach ceniła: wszelki żywy inwentarz do wyścigów i zapasów. Jako szczyt marzeń współczesnych wymienia to, co udało się zdobyć dopiero Aleksandrowi Macedońskiemu. Pół miliarda złotych znalazł w Suzie po bitwie pod Gaugamelą w szesnaście lat po śmierci Platona. W chwili powstawania naszego dialogu Aleksandra jeszcze nie było na świecie z pewnością, ale jego ideały już były dawno zaczęły świecić. Meneksenos traktowany jako rzeczoznawca w sprawach przyjaźni jest objawem wesołego nastroju rozmowy.
+
+IX. Na pytanie Sokratesa Meneksenos odpowiada zgodnie ze zwyczajem mowy potocznej helleńskiej, ale nie naszej. Mówi się u nas nieraz po domach: „Był tam pan ten i ten; pokazuje się, że to wielki twój przyjaciel, a ty go nie znosisz, albo: ty go nawet nie znasz”. I mówi się podobnie, że pan ten lub ów był wielkim przyjacielem młodzieży, ponieważ ufundował dom dla studentów — co nie znaczy, że się przyjaźnił z samymi młodymi ludźmi. W tych zwrotach nazywa się przyjacielem ten, który lubi drugiego, choć ten drugi nie musi go lubić nawzajem. Natomiast nie można po polsku powiedzieć: „to wielki mój przyjaciel, bo ja przepadam za nim, chociaż on mnie nie znosi”. To byłby żart. I nie można powiedzieć po polsku, że komuś przyjacielem jest własny interes, własne życie, własne zdrowie, serce, nauka, Platon (dlatego też po łacinie cytujemy: Amicus Plato, sed magis amica veritas), mądrość lub gimnastyka. My mówimy, że ktoś te rzeczy lubi, że mu są miłe. Tymczasem w Atenach to samo słowo: filos znaczyło i tyle, co „przyjaciel”, i tyle, co „miły”, ten, którego się lubi. Z całego kontekstu mowy, z budowy zdania było dopiero wiadomo, czy słowo filos było użyte czynnie czy biernie. Stąd mógł Meneksenos odpowiedzieć Sokratesowi, że gdy jeden człowiek lubi drugiego, wtedy filos będzie każdy z nich dwóch. Jeden w znaczeniu czynnym, drugi w biernym. W chwilę później Sokrates podsunął Meneksenosowi czynne oznaczenie wyrazu filos, które wychodzi na to, co: uczestnik związku przyjaźni wzajemnej, i to znaczenie mając na myśli, Meneksenos słusznie uważa, że nie można mówić o przyjaciołach tam, gdzie przyjaźń nie jest wzajemna. Że mieć zamiłowanie do psów, koni, przepiórek jest czymś innym, a czymś innym byłoby żyć w przyjaźni z końmi, psami lub przepiórkami, to rzecz prosta i nikogo by to i w Atenach nie dziwiło nawet w żartach, gdyby nie to, że tam się i miłośnik, i przyjaciel nazywał jednakowo.
+
+Wiersz Solona, który Sokrates przytacza, można prozą przeczytać i tak: „Szczęśliwy, kto ma miłe dzieci i konie o jednym kopycie, i psy myśliwskie, i bliskiego znajomego z obcych stron”. Kiedy trzeba z tego zrobić dystych, można w nim napisać „przyjaciel” zamiast „miły”, bo użyte tutaj greckie słowo znaczy i jedno, i drugie. Jeżeli wiersz Solona jest twierdzeniem prawdziwym, to znaczy, że przyjacielem (kimś miłym) można po grecku nazywać przedmiot sympatii, choćby ten przedmiot nie odczuwał sam żadnej sympatii do kogoś. Tak też jest naprawdę, z czego wcale nie wynika, żeby słowo filos miało tracić swoje znaczenie czynne w innych wypadkach, jak to Sokrates mówi w tym momencie.
+
+Analogicznie przedstawia się sprawa z wyrazem echtros, który znaczy tyle, co wrogi, nienawidzący, a równocześnie: znienawidzony, wstrętny. Znowu: znaczenie czynne i bierne w jednym i tym samym wyrazie. Dlatego może Sokrates układać takie figlarne a szybkie zdania, w których się roi od lubiącego i lubianego i od przyjaciela i wroga. Po grecku one są jeszcze bardziej bałamutne niż po polsku, tak w nich tryluje jeden i ten sam źródłosłów fil, raz zabarwiony czynnie, raz biernie. Że to są zabawki i bałamuctwa, zauważył nie tylko sam Sokrates, ale nawet mały Lizys.
+
+X. Sokrates zupełnie słusznie potępia grę wieloznacznych słów, a doradza iść za przewodem poetów. Nie znaczy to: wierzyć ślepo we wszystko, co ktoś rytmem napisze. Sokrates chce zdania poetów brać tylko za punkt wyjścia do rozbioru i do krytyki samodzielnej, chociaż ich nazywa ojcami mądrości i przewodnikami. Zobaczymy, czy to robi poważnie.
+
+W tym zwrocie miesza po trochu wiedzę i sztukę — dwie bardzo różne dziedziny ducha ludzkiego. Dziś miesza się je również. Większość ludzi czytających „uczy się” historii z powieści historycznych i szuka oświetlenia i rozwiązania problemów społecznych, etycznych i psychologicznych w powieściach, w teatrze, a nawet w wierszach. Utwory literackie są znakomitym środkiem do sugerowania i popularyzowania dowolnych twierdzeń — zarówno prawdziwych, jak fałszywych — ale twórczość literacka nie jest odpowiedzialną metodą wykrywania żadnych prawd. Dlatego i literatura piękna nie jest bezpiecznym źródłem do czerpania prawdy, i talent literacki, który otwiera komuś miejsce w literaturze, nie kwalifikuje nikogo na ojca i przewodnika do mądrości, a więc prawdy.
+
+Sokrates przytacza wiersz z XVII księgi Odysei i wspomina o pismach filozofów jońskich, eleatów, a przede wszystkim o Empedoklesie z Agrygentu. U niego Przyjaźnią nazywają się siły przyciągające, które wiążą i organizują żywioły, a walczą wciąż z Nienawiścią, która je rozkłada i burzy. Na pytanie, jaki jest warunek powstawania przyjaźni, znajdują rozmawiający w poezji odpowiedź pierwszą: warunkiem przyjaźni, zapewne koniecznym i wystarczającym, jest podobieństwo jej uczestników. Zupełnie słusznie odrzucić muszą tę zasadę jako mylną. Dlatego, że pewne podobieństwa wykluczają przyjaźń. Ci, którzy się podobnie nienawidzą nawzajem, nie mogą być w przyjaźni. Mylą się charakterystycznie, gdy uchwalają, że między złymi ludźmi przyjaźń jest niemożliwa. Dlatego, że w ich rozumieniu zły to niby taki, który zawsze i każdego krzywdzi, cokolwiek by robił i z kimkolwiek by obcował. Zapominają, że ktoś może być zły dla jednych, a bardzo dobry dla drugich, i zły jednym razem, a innym razem dobry. Między bandytami bywają też pary przyjaciół. Rozmawiający ulegają złudzeniu, bo ich w błąd wprowadza podpis na lalce. Zły — to już niby wiadomo, że zawsze i wszędzie zły, i dla każdego. Już W. James żartował z tych filozofów, dla których kawalerzysta nie może na własnych nogach choćby przyjść do stołu, bo kawalerzysta to jest przecież ten, który jeździ na koniu. Podobnie i tutaj: ten „zły” to nie jest „przyjaciel” — nigdy i żadną miarą. Ma tak być dlatego, że ten „zły” to nie jest ten sam, co „podobny”. Zły jest zmienny i zawiły, a więc nie jest podobny nawet do samego siebie w różnych czasach — a cóż dopiero do drugich! Tego rodzaju wnioski są zabawkami z pomocą słów, które służą do zasłaniania rzeczywistości. Nasi rozmawiający uprawiają tę zabawę z miną dość poważną. I tak im wypada, że tylko dobry może być przyjacielem dobrego (amicitiam nisi inter bonos esse non posse), ponieważ tylko dobry jest niezmienny, a więc podobny do samego siebie w różnych czasach, zatem może być i do drugiego podobny. Mało ich kosztuje poddać tę myśl Homerowi i Empedoklesowi jako intencję przytoczonego poprzednio zdania. Krok zupełnie dowolny.
+
+XI. Ponieważ „dobry” to niewątpliwie będzie to samo, co „wystarczający samemu sobie”, więc nieuniknione stąd konsekwencje — dość zabawne, ale przyjęte bez wahania. Punkt wyjścia jawnie mylny. Ten dobry musiałby być kamieniem, gdyby miał wystarczać sam sobie, musiałby nie mieć potrzeb, nie być istotą żywą albo ssać własny palec i tam dalej.
+
+Ten „podobny” znowu wychodzi tutaj na tyle, co: „pod każdym względem taki sam”, a nie: „pod pewnym ważnym względem taki sam” i stąd dziwactwa o tych dobrych, którzy nie mają z siebie nawzajem żadnego pożytku, nie potrzebują siebie nawzajem do żadnego celu, nie tęskni też jeden za drugim i nie ceni drugiego, zatem i przyjacielem zostać, i miłym być nikomu dobremu nie może. To są zabawne paradoksy wynikłe z bawienia się wyrazami przy oczach zamkniętych na fakty słowami oznaczone. W każdym razie rozmawiający odrzucają zasadę: dobroć warunkiem przyjaźni.
+
+XII. Sokrates jako nowego ojca i przewodnika bierze Hezjoda i jego poemat Prace i dnie (wiersz 25) i Heraklita z jego przeciwieństwami, które się przyciągać mają. Stąd teraz znowu przeciwieństwo wydaje się chwilowo warunkiem przyjaźni. Ale i to nie zadowala rozmawiających, i to zupełnie słusznie; bez względu na ewentualny atak ze strony sofistów współczesnych, lubujących się w antylogiach, to znaczy w pozornie równie silnych dowodach za i przeciw jakiemuś twierdzeniu.
+
+XIII. Platon wpada w ton natchniony. Zaraz się i rytmy zjawią. Ma się wrażenie, że jego „Piękno” właśnie zeszło z boiska i stoi przed nim w słońcu, a musi mieć nie więcej niż osiemnaście lat. Jak we śnie dwie różne postacie zlewają się nieraz w jedną, tak i jemu Dobro i Piękno wydaje się teraz jednym i tym samym. Nie argumentuje. On to po prostu widzi w marzeniu na jawie, a Meneksenos mu w tym towarzyszy bez sprzeciwu. Platon wie, że nie dowodzi w tym momencie niczego, nie jest krytyczny i odpowiedzialny, tylko ma pomysł, który go zachwyca. Narzuca mu się myśl, którą Diotyma rozwinie w Uczcie. Tam jednak przyjaciel i pociąg przyjazny będzie już Erosem. Nie, żeby dorósł, tylko jakby się uświadomił. Pada teza, że przyjazny pociąg może powstawać jedynie tylko w kimś ani dobrym, ani złym, i zwracać się musi tylko do tego, co dobre. Rozmawiający przyjmują tutaj, że „to, co dobre” wszyscy już rozumieją jednakowo. Założenie dalekie od prawdy.
+
+XIV. Próbują teraz stosować natchnione uogólnienie do faktów. Niełatwa rzecz, jak długo uogólnienie jest niejasne, bo zawiera wątpliwy i nieustalony termin: „dobro”. W przykładzie rozpatrywanym chorego i lekarza — chore ciało występuje jako ani złe, ani dobre, a lekarz jako dobry, bo ma w sobie medycynę, a ta jest pewnym dobrem. Chore ciało musi w sobie mieć pewne zło, to znaczy: musi je mieć w nieznacznym stopniu i powierzchownie, żeby się mogło przyjaźnie odnosić do medycyny i do lekarza. Zapewne rozmawiający mają na myśli to, że chory z wysoką gorączką i nieprzytomny nigdy nie wzywa lekarza. Zapewne. Zapominają jednak o tym, że i w lekkich chorobach niejeden unika lekarzy, a w ciężkich przecież niejeden ich wzywa. Rozważanie więc nie jest pedantyczne. Niełatwo byłoby też znaleźć tego mądrego człowieka, który by się nie garnął do mądrości. Bardzo sympatyczna w tym ustępie samowiedza, to jest pewien krytycyzm w odniesieniu do siebie samego. Platon zdaje sobie sprawę z tego, że jego filozofowanie ma braki, że nie wszystko, co mówi jego Sokrates, jest prawdą jasną i uzasadnioną. Czuje swe braki i to poczucie jest mu bodźcem do myślenia, do szukania prawdy. To piękny rys i wzorowy. Platon nie jest doktrynerem ani fanatykiem; gotów dyskutować zawsze, nawet nad tym, co by odczuwał jako objawienie.
+
+XV. Już oto zaczyna kontrolować to, co przed chwilą podawał głosem wieszczym. Przychodzi mu na myśl, że pobudką przyjaznego pociągu może być jakieś przykre odczucie pewnego własnego zła, a jego motywem — pewne miłe dobro. Pobudka to pewne uczucie, a motyw to to, ze względu na co postanawiamy i dążymy do czegoś.
+
+XVI. Rozróżnia dobra pośrednie, czyli stany rzeczy cenne ze względu na coś innego; to środki do jakiegoś innego celu wiodące; dostrzega hierarchię celów i przeczuwa jakiś cel ostateczny, pewne dobro bezpośrednie, a więc stan rzeczy cenny nie ze względu na coś innego, tylko już sam przez się.
+
+Powtórzył ten tok myśli Arystoteles w swej Etyce i wskazał jako ten ostateczny cel działań ludzkich, jako wartość bezpośrednią: szczęście. Tutaj ostateczną, bezpośrednią wartością, motywem wszystkich przyjaznych pociągów wydaje się „to, co miłe”, a więc nie pewien stan człowieka, jakim jest szczęście, tylko pewien osobliwy przedmiot, niedający się poznawać zmysłami, choć rysowany zmysłowo, uosobiony rodzaj nijaki przymiotnika „miły”, postać, której odbicie można oglądać zmysłami w poszczególnych przedmiotach miłych, ale ją samą poznaje się, tylko myśląc, a nie patrząc na rzeczy widziane poprzednio. Takie postacie, pierwowzory, nazwał później Platon ideami. Tu widać, jak mu się one rodzą z bawienia się nazwami ogólnymi. Przymiotniki w rodzaju nijakim stają się rzeczownikami i zaczynają się pisać od wielkiej litery.
+
+XVII. „To, co miłe” wydawało się przedtem tym samym, co Piękno, teraz znowu — tym samym, co Dobro. Zjawia się osobliwa różnica między pociągiem przyjaznym do poszczególnych rzeczy miłych, a pociągiem do tego, co miłe samo przez się. Osobliwa, bo ma polegać na tym, że poszczególne rzeczy lubimy ze względu na Dobro, na to najwyższe jakoby — a Dobro lubimy przez zło, które nam dokucza. Tymczasem rozmawiający jakby zapomnieli, że przyjazne skłonności poszczególne mają też tę samą budowę. Rodzą się z przykrego odczucia pewnego zła, które nam dolega. Zło i przykrość uprzednia wydaje się teraz niezbędnym warunkiem przyjemności i przyjaznego pociągu do dobra. I to się rozmawiającym nie podoba.
+
+Znudził się widać Platon sam tym obracaniem wyrazów tędy i owędy i oto dostrzega nowe tło przyjaznych pociągów: pożądanie. Już nie odczucie zła i szukanie dobra na lekarstwo i na pokarm, tylko pożądanie, żądza. A skąd ona się bierze, o tym nie mówi. Żądza też szuka tego, czego człowiekowi brak. To pewne. To wcale jednak nie znaczy, że to człowiekowi kiedyś zabrano, bo niemowlęciu nikt nigdy mleka nie zabierał, a ono go pożąda jednak. Platonowi musiała ta myśl silnie utkwić, że pożądamy tylko tego, co nam zabrano. Że, co jest pożądane, to jest „moje”. Dlatego w Uczcie Arystofanes opowiada bajkę o rozcinaniu ludzi, dawniej parzystych, aby wytłumaczyć dzisiejszy pociąg erotyczny między dojrzałymi osobnikami. Że zaś zabrany to tyle, co swój własny, ale utracony przez kogoś, więc oczywista, że zarówno miłość, jak i przyjaźń zawsze musi ciągnąć do „swego”, do „tego, co pokrewne”. Stąd figlarny wynik, że pociąg musi być zawsze wzajemny. Tylko naiwny Hippotales cieszy się tym wynikiem z powodów osobistych, ale nawet mały Lizys z Meneksenosem nie mogą się na to zgodzić. Widać, że Platon nie nastawał na uznanie tego ustępu ze strony czytelnika.
+
+XVIII. Platon ma widocznie tych wywodów dość, skoro Sokrates w imieniu wszystkich biorących udział w rozmowie wyznaje, że są już jak pijani w tej chwili. Widzi, że wprowadzając nowy termin: „to, co pokrewne”, nie wyjaśnił sprawy, bo to wychodzi na to samo, co „podobne”, a to się poprzednio nie przydało na nic w proponowanym uogólnieniu. Gdyby „to, co pokrewne” znaczyło coś innego niż „podobne”, można by mieć nadzieję na rozwiązanie głównego zagadnienia dialogu, ale dość rozważań na razie. Chłopcy na kredyt pozwalają Sokratesowi objaśniać termin „pokrewieństwo” tak, żeby to nie było to samo, co podobieństwa. Ale co to ma być w takim razie, żeby nie było błędnego koła — tego się nie dowiadujemy i tego się nikt nie dowie.
+
+Wyjaśnianie przyjaznego pociągu pokrewieństwem wewnętrznym nie przynosi nic nowego i nic lepszego niż stosowanie zasady podobieństwa w ślad za Homerem. Te same czekają trudności. To, co miłe, i pociąg przyjazny nie da się sprowadzić do czynników, które Platon znalazł u „ojców i przewodników prawdy”, u poetów. To jest cały wynik dialogu. On nie jest bez wartości. Tymi ojcami i przewodnikami, widać, zamianował tutaj poetów na żart. Rodzą widziadła, a prowadzą na manowce. Jeżeli się któremu prawda trafi, to przypadkiem, jak ślepej kurze ziarno. Poeci, zdaniem Platona, podobni są do tych służących, którzy dzieci do szkół odprowadzają. Kierują ludźmi i mają nad nimi władzę, ale dogadać się z nimi nie można, chociaż Bóg w nich mieszka. A może nawet dlatego? Platon i o własnych momentach natchnienia lubi mówić z odcieniem humoru — nie lubi w sobie poety, kiedy szuka prawdy.

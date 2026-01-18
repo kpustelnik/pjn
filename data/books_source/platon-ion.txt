@@ -1,0 +1,505 @@
+Platon
+
+Ion
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-6663-8
+
+
+
+
+
+Wstęp tłumacza
+
+Nowy znajomy spotyka Sokratesa. Już nie stary wyga retor, tylko młody człowiek, artysta, recytator. Z kolonii ateńskiej pochodzi, z Efezu na wybrzeżu Azji Mniejszej, a wraca z uroczystego obchodu na cześć boga zdrowia, podczas którego śpiewać musiał ustępy z Iliady lub z innego utworu homeryckiego.
+
+Strojny, zadowolony z odniesionego triumfu, pewny powodzenia na przyszłość. Sokratesa, widać, zna i szanuje, chętnie go słucha, zwierza się przy sposobności, zapala się, unosi, zachwyca, nie ma pretensji do zbyt wielkiej mądrości i ambicję ma tylko na dwóch punktach: że najlepiej recytuje Homera ze wszystkich śpiewaków i najlepiej się na jego twórczości zna ze wszystkich współczesnych.
+
+Homera uważa za źródło wszelkiej możliwej wiedzy, a ponieważ sądzi, że się na Homerze zna, więc uważa po cichu, że ta znajomość postawiła go bardzo wysoko intelektualnie.
+
+Nie odbiegł na tym punkcie od opinii szerokich kół współczesnych. Powszechnie przecież wówczas opierano wykształcenie na studium języka i literatury ojczystej.
+
+Sokrates uważał, że zapoznanie się z literaturą żadnego wykształcenia nie daje.
+
+Zapas słów i zwrotów zasłyszanych, swada i zapał nie stanowią mądrości. Można żyć bardzo blisko z dziełami poetów, a nie rozumieć się na niczym, a nawet na nich samych ani trochę, można samemu tworzyć artystycznie i zgoła nie pojmować, co się robi.
+
+Twórczość artystyczna nie wyrasta z rozumu, tylko z natchnienia. Sokrates mówi o tym w Obronie, mówi w Fajdrosie; tu ma sposobność pomówić na ten temat szerzej. Dowodzi też Ionowi, że to, co recytator brał za swą wiedzę i co uważał za znajomość Homera, niczym podobnym nie jest; dobra deklamacja i przejmowanie drugich własnym zapałem nie mają nic wspólnego z wiedzą.
+
+Ion jest drobiazgiem o wysokich wartościach artystycznych. Zwraca w nim szczególniej uwagę wielka przenośnia w dłuższym monologu Sokratesa. Nosi tak wyraźne piętno stylu Platońskiego, że podejrzewać autentyczności dialogu niepodobna, choć podejrzewało ją wielu. Ci, którzy dialog uważają za autentyczny, biorą go za utwór młodzieńczy Platona, pamiątkę okresu, w którym rzucił poezję, spalił swoje młodociane dramaty, a przylgnął do Sokratesa, aby się poświęcić pracy badawczej i pracy nad własnym udoskonaleniem. Trudno na to przysięgać, ale przyznać trzeba, że w tym oświetleniu Ion nabiera wiele uroku. I jeśli Ion jest w dialogu tak naiwny, a taki kochany przy tym, to mniej dziwi, kiedy się pomyśli, że to satyra, którą młody Platon pisze sam na siebie.
+
+
+
+
+Ion
+
+
+Osoby dialogu:
+ * Sokrates
+ * Ion
+
+
+Sokrates: Jak się Ion ma! Skądżeś do nas przyjechał? Pewnie z domu, z Efezu?
+
+Ion: Nic podobnego, Sokratesie: z Epidauru, ze świąt Asklepiosa.
+
+Sokrates: A, to turniej śpiewaczy urządza na cześć boga Epidauros?
+
+Ion: Naturalnie, i także innych dzieci muz.
+
+Sokrates: No i cóż? Stawaliśmy do zapasów; jakże się powiodło?
+
+Ion: Pierwszą nagrodę wzięliśmy, Sokratesie.
+
+Sokrates: To pięknie; no, teraz jeszcze, żebyśmy i na Panatenajach zwyciężyli?
+
+Ion: Jakoś to będzie, jak Pan Bóg da.
+
+Sokrates: Doprawdy ja nieraz, Ionie, zazdrościłem wam, śpiewakom, sztuki waszej. Bo takiemu artyście zawsze się i ubrać ładne wypada, i wyglądać bardzo pięknie, a przy tym mieć do czynienia z poetami, z wieloma rozmaitymi i dobrymi, a już najwięcej z Homerem, najlepszym i najbardziej boskim spośród poetów i wyuczać się jego myśli, nie tylko słów — o — to jest rzecz zazdrości godna. Przecież nie wyjdzie na śpiewaka taki, który by nie rozumiał słów poety. Przecież śpiewak musi być dla słuchaczów tłumaczem myśli poety. A zrobić to dobrze, nie rozumiejąc, co mówi poeta — niepodobna. Więc to wszystko jest godne zazdrości.
+
+II. Ion: Prawdę mówisz, Sokratesie. Ja też miałem najwięcej pracy z tą częścią sztuki, toteż zdaje mi się, że najlepiej z ludzi mówię o Homerze, tak że ani Metrodoros z Lampsaku, ani Stesimbrotos z Tazos, ani Glaukon, ani nikt inny z jakichkolwiek czasów nie miał o Homerze tylu pięknych myśli do powiedzenia, ile ja mam.
+
+Sokrates: Pięknie mówisz, Ionie! Oczywiście, nie będziesz mi ich żałował i dowiedziesz, że tak jest.
+
+Ion: Doprawdy; warto posłuchać, Sokratesie, jak ja pysznie oddaję Homera; Homerydzi powinni mnie złotym wieńcem nagrodzić. Myślę, żem tego wart.
+
+Sokrates: Tak, tak; ja się jeszcze postaram o jakąś wolną chwilę, żeby cię posłuchać. A teraz tyle mi tylko odpowiedz. Czyś ty tylko w Homerze taki tęgi, czy i w Hezjodzie, i w Archilochu?
+
+Ion: Nic podobnego. Tylko w Homerze. Myślę, że to całkiem wystarczy.
+
+Sokrates: A bywa, że Homer i Hezjod mówią o czymś jedno i to samo?
+
+Ion: Zdaje się; i to chyba nie o jednym.
+
+Sokrates: A z takich rzeczy, to piękniej byś wyjaśnił to, co Homer mówi, czy to, co Hezjod?
+
+Ion: Jednakowo, Sokratesie — takie rzeczy, o których mówią jedno i to samo…
+
+Sokrates: No cóż — a takie, o których nie mówią jednego i tego samego? Jak na przykład o sztuce wieszczbiarskiej mówi coś Homer i Hezjod także.
+
+Ion: Owszem.
+
+Sokrates: Więc cóż; to, co jednakowo i co rozmaicie o sztuce wieszczbiarskiej mówią ci dwaj poeci, otóż, czy ty byś to piękniej potrafił wyjaśnić, czy też z wieszczków ktoś, z tych lepszych?
+
+Ion: Ktoś z wieszczków.
+
+Sokrates: A gdybyś ty był wieszczkiem, to prawda, że gdybyś umiał wyjaśniać powiedzenia podobne, to potrafiłbyś też i odmienne powiedzenia wykładać?
+
+Ion: Oczywiście, że tak.
+
+Sokrates: Więc czemuż jesteś tęgi tylko w Homerze, a w Hezjodzie nie, ani w innych poetach? Czy Homer mówi o czymś innym niż wszyscy inni poeci? Czyż nie o wojnie opowiada dużo i o tym, jak obcują ze sobą ludzie dobrzy i źli, i tacy, którzy nic nie umieją, i którzy coś umieją, i o bogach, jak obcują jedni z drugimi i z ludźmi, jak to między nimi bywa i co się w niebie dzieje, a co w Hadesie, i narodziny bogów i bohaterów. Czyż nie to są rzeczy, które Homer wziął za przedmiot swojej poezji?
+
+Ion: Prawdę mówisz, Sokratesie.
+
+III. Sokrates: Więc cóż? Czy inni poeci nie o tym samym śpiewają?
+
+Ion: Tak, Sokratesie, ale nie tak samo śpiewają jak Homer.
+
+Sokrates: Jak to? Gorzej?
+
+Ion: I znacznie gorzej.
+
+Sokrates: A Homer lepiej?
+
+Ion: O! Lepiej; na Zeusa!
+
+Sokrates: Nieprawdaż, Ionie, ukochana głowo, kiedy o liczbach mówi wielu ludzi, a jeden z nich najlepiej — to przecież ktoś pozna tego, co najlepiej mówi?
+
+Ion: Przyznaję.
+
+Sokrates: A czy ten sam, który i źle mówiących, czy ktoś inny?
+
+Ion: Ten sam, przecież.
+
+Sokrates: Nieprawdaż, to jest ten, który posiada sztukę arytmetyki?
+
+Ion: Tak.
+
+Sokrates: A cóż, kiedy wielu mówi o zdrowotnych pokarmach, jakie też są, i jeden mówi najlepiej, to czy wtedy ktoś inny pozna się na tym, który mówi najlepiej, że on najlepiej mówi, a znowu ktoś inny na tym, co gorzej, że gorzej mówi, czy też zrobi to jeden i ten sam?
+
+Ion: Oczywista przecież, że jeden i ten sam.
+
+Sokrates: Któż taki? Jak on się nazywa?
+
+Ion: Lekarz.
+
+Sokrates: Nieprawdaż; w nagłówku sobie napiszemy, że jeden i ten sam pozna się zawsze, kiedy wielu ludzi mówi o jednym i tym samym, kto mówi dobrze i kto źle. Albo, jeśli się nie pozna na tym, kto źle mówi, to oczywiście i na tym się nie pozna, kto dobrze; ten sam przecież temat.
+
+Ion: Tak jest.
+
+Sokrates: Nieprawdaż; ty powiadasz, że Homer i inni poeci, wśród których jest i Hezjod, i Archiloch, mówią o jednym i tym samym, chociaż nie w ten sam sposób; i jeden mówi dobrze, a drudzy gorzej.
+
+Ion: I prawdę mówię.
+
+Sokrates: Nieprawdaż; jeżeli tego, co dobrze mówi, znasz, to powinien byś poznać się i na tych, którzy gorzej mówią, że mówią gorzej?
+
+Ion: Zdaje się, że tak.
+
+Sokrates: Nieprawda, przyjacielu; jeżeli powiemy, że Ion jest równie tęgi w Homerze, jak w innych poetach, nie pobłądzimy, bo on się i sam zgadza, że jeden i ten sam człowiek będzie w sam raz odpowiednim sędzią wszystkich, którzy mówią o jednym i tym samym, a poeci prawie wszyscy robią właśnie to samo.
+
+IV. Ion: Więc cóż to może być za przyczyna, Sokratesie, że ja, kiedy ktoś o innym poecie rozmawia, to nawet nie uważam; nie mogę ani dwóch słów dorzucić, o których warto by było mówić — więc po prostu zasypiam, a jak tylko ktoś wspomni Homera, natychmiast się budzę i uważam, i mam dużo do powiedzenia?
+
+Sokrates: To nietrudno zgadnąć, przyjacielu. Każdy pojmie, że umiejętnie i na podstawie wiedzy mówić o Homerze nie potrafisz. Bo gdybyś umiał robić to umiejętnie, to potrafiłbyś mówić i o wszystkich innych poetach; wszystko to przecież poetyka. Czy nie?
+
+Ion: Tak.
+
+Sokrates: Nieprawdaż; jeśli ktoś weźmie i inną jakąkolwiek sztukę jako całość, to przecież istnieje ta sama metoda badania każdej. A jak ja to rozumiem, chcesz posłuchać, Ionie?
+
+Ion: Ależ tak, na Zeusa, Sokratesie; chcę; bardzo chętnie słucham was — mędrców.
+
+Sokrates: Cieszyłbym się bardzo, gdyby to była prawda, Ionie. Ale mędrcy — to raczej wy: śpiewacy i aktorowie, i ci, których wy poematy śpiewacie. A ja nic innego nie mówię, tylko prawdę; ot, jak taki sobie człowiek, co nic nie umie. Przecież i to, o com cię teraz pytał, zobacz, jakie to marne i nieumiejętne, i dla każdego człowieka naturalne, com mówił, że jedno jest badanie każdej, jeżeli ktoś weźmie sztukę jako całość. Weźmy tak na rozum: malarska sztuka przecież, to jest pewna całość?
+
+Ion: Tak.
+
+Sokrates: Nieprawdaż; i malarzy wielu jest i było wielu dobrych i lichych?
+
+Ion: Oczywiście.
+
+Sokrates: A czyś ty widział już kogo, który by mówiąc o Polygnocie, synu Aglaofonta, znakomicie umiał wykazywać, co on dobrze maluje, a co nie, a o innych malarzach mówić nie potrafił? I kiedy ktoś rozbiera dzieła innych malarzy — ten śpi i nie ma głosu, i nie potrafi swoich trzech groszy dorzucić, a kiedy trzeba o Polygnocie, czy innym, jakim chcesz, malarzu jednym jedynym, zdanie wypowiedzieć, on się budzi i uważa i dobrze wie, co ma powiedzieć?
+
+Ion: No — nie, na Zeusa; przecież nie.
+
+Sokrates: Cóż tedy? A o rzeźbiarstwie; jużeś kiedyś widział takiego, co tęgi jest w wykładzie prac Dedala, syna Metiona, czy Epejosa, syna Panopeusa, czy Teodora z Samos, czy innego jakiego rzeźbiarza jednego jedynego; powie, co dobrze zrobione, a co nie; a kiedy mowa o dziełach innych rzeźbiarzy, on jest w kłopocie i zasypia, bo nie ma nic do powiedzenia?
+
+Ion: Nie, na Zeusa, i takiegom nie widział.
+
+Sokrates: A pewnie; a mnie się tak zdaje, że i ze sztuką gry na flecie tak samo, i na kitarze, i ze śpiewem przy kitarze i bez kitary — nigdyś nie widział człowieka, który doskonale tłumaczy i omawia Olimposa i Tamyrasa, albo Orfeusza, czy Femiosa, śpiewaka z Itaki, a o Ionie z Efezu mówić by nie potrafił i nie umiałby od siebie dorzucić słówka, powiedzieć, co też on dobrze śpiewa, a co nie.
+
+Ion: Ja ci na to nie potrafię odpowiedzieć, Sokratesie, tylko z tego sobie sam przed sobą zdaję sprawę, że o Homerze to ja najpiękniej ze wszystkich mówię i mam co, i wszyscy inni powiadają, że ja o nim pięknie mówię, a o innych to nie. Więc zobacz to, co to jest takiego?
+
+V. Sokrates: Ja widzę, Ionie, i zaczynam ci wyjaśniać, co to jest, według mego zdania. To jest to, że ty nie posiadasz sztuki, która by ci pozwalała dobrze i pięknie mówić o Homerze, jak przed chwilą powiedziałem; tylko w tobie mieszka jakaś boska siła, która cię porusza tak, jak w tym kamieniu, który Eurypides magnetytem nazwał, a szerokie koła zwą go heraklejskim. Otóż ten kamień nie tylko, że sam przyciąga pierścionki żelazne, ale jeszcze taką siłę w nie wprowadza, że mogą znowu to samo robić, co ten kamień: inne pierścionki przyciągać tak, że nieraz, bywa, długi łańcuch na nim zwisa z żelazek i pierścieni posczepianych, jedne z drugimi. A wszystkich tych kawałków siła zawisła od owego kamienia. Tak i muza sprawia, że bóg w kogoś wstępuje; przez nią naprzód, a za pośrednictwem tych, w których bóg naprzód wstąpił, tworzy się i zwisa od nich długi łańcuch innych entuzjastów. Bo wszyscy poeci, którzy dobre wiersze piszą, nie przez umiejętność to robią, nie przez sztukę: tylko bóg w nich wstępuje i oni w zachwyceniu wszystkie te piękne poematy mówią, a pieśniarze dobrzy tak samo. Jak korybanci nie przy zdrowych zmysłach tańczą, tak i pieśniarze nie przy zdrowych zmysłach piękne pieśni owe składają, tylko kiedy jeden z drugim wpadnie w harmonię i w rytm, w rodzaj szału, w zachwycenie — to już, jak owe bachantki, miód i mleko z rzek czerpią w zachwycie, a przy zdrowych zmysłach nie; tak i pieśniarzy dusza sama to robi, co ich usta mówią. Przecież mówią nam poeci, że z miodopłynnych źródeł i po jakicheś ogrodach muz i dolinach zbierają pieśni i przynoszą je nam, jak pszczoły; i oni też tak latają. I prawdę mówią. Bo to lekka rzecz taki poeta i skrzydlata, i święta. A nie prędzej potrafi coś zrobić, zanim bóg w niego nie wejdzie, zanim zmysłów nie straci i nie pozbędzie się rozumu. Jak długo ma ten majątek, nie potrafi żaden człowiek być poetą ni wieszczem. Zatem to nie jest twórczość na umiejętności oparta, kiedy mówią wiele pięknych rzeczy o tym czy owym, jak na przykład ty o Homerze, tylko z bożej łaski to jedno każdy ładnie robić potrafi, do czego muza go popchnie; jeden dytyramby pisze, drugi pochwały, tamten chóry mimiczne, ten heksametry, a ów jamby. Poza tym nic niewart każdy z nich. Im tego przecież nie dyktuje sztuka, tylko siła bóstwa, bo przecież gdyby o jednej rzeczy umieli mówić umiejętnie, umieliby też o wszystkich innych.
+
+A dlatego im bóg rozum odbiera i używa ich do swej posługi i wieszczów, i wróżbitów boskich, abyśmy, słuchając, wiedzieli, że to nie oni sami mówią te bezcenne rzeczy; nie ci, których rozum odszedł, tylko bóg sam mówi i przez nich się do nas odzywa.
+
+A największym świadectwem tego słowa Tynnichos z Chalkidyki; nigdy żadnego poematu nie napisał, o którym by warto wspomnieć, tylko ten jeden pean, który wszyscy śpiewają, bodaj że najpiękniejszy ze wszystkich pieśni; tak po prostu, jak sam powiada: muzy ten hymn wynalazły. Tutaj nam, uważam, najlepiej bóg wskazuje, żebyśmy nie wątpili, jako iż nie ludzkie są owe piękne poematy i nie od ludzi pochodzą, ale boskie są i od bogów. A poeci nie są niczym więcej, tylko tłumaczami bogów w zachwyceniu; każdego jakiś bóg w zachwyt wprawia. To właśnie chciał pokazać bóg, kiedy przez usta najlichszego poety najpiękniejszą pieśń wyśpiewał. Czyż nie myślisz, że prawdę mówię, Ionie?
+
+Ion: Tak, na Zeusa — ja — tak. Jakoś mnie słowami tak za serce chwytasz, Sokratesie, i mam wyrażenie, że to z bożej łaski tak nam dobrzy poeci słowa bogów tłumaczą.
+
+VI. Sokrates: Nieprawdaż; wy znowu, śpiewacy, poetów nam tłumaczycie?
+
+Ion: I to prawda, co mówisz.
+
+Sokrates: Więc jesteście tłumaczami tłumaczów?
+
+Ion: Ze wszech miar.
+
+Sokrates: Czekaj no, a to mi też powiedz, Ionie, a nie kryj, o cokolwiek bym cię zapytał. Kiedy tak dobrze wiersze mówisz i najwięcej strachem przejmujesz widzów albo o Odyseuszu śpiewasz, jak na próg domu wskakuje, zjawia się nagle przed zalotnikami i strzały wysypuje pod nogi, albo o Achillesie, jak godzi na Hektora, albo coś z tych łzawych rzeczy o losach Andromachy lub Hekaby, czy Priama — czy ty wtedy jesteś przytomny, czy też wychodzisz z siebie i gdzieś tam przy tym, ma wrażenie twoja dusza, że jest, o czym śpiewasz właśnie; bóg w niej siedzi, a rzecz się dzieje na Itace, czy w Troi, czy gdzie tam indziej poemat się rozgrywa?
+
+Ion: Wiesz — jakeś ty mi jasne świadectwo powiedział, Sokratesie; nie skryję; wszystko ci powiem: kiedy mówię coś smutnego, to mi się oczy łzami napełniają; a jak coś strasznego, okropnego, to mi włosy dębem na głowie stają ze strachu, a serce skacze tak mocno!
+
+Sokrates: Więc cóż powiemy, Ionie? Jestże wtedy przytomny ten człowiek, który odziany w szatki pstre, z wieńcem złocistym na skroni, płacze podczas ofiar i obrzędów, chociaż nic nie zgubił, wszystko to ma na sobie, albo się boi, stojąc pośród więcej niż dziesięciu tysięcy ludzi życzliwych, i nikt go nie obdziera ani mu krzywdy nie robi?
+
+Ion: No — nie, na Zeusa; nie bardzo, Sokratesie, żeby tak prawdę powiedzieć.
+
+Sokrates: A wiesz przecież, że i u niejednego z widzów wywołujecie zupełnie to samo?
+
+Ion: I bardzo dobrze wiem. Przecież zawsze patrzę na nich z góry, z estrady, jak płaczą i straszne spojrzenia ciskają, i drżą do słów poematu. Ja też muszę dobrze na nich uważać, bo jeżeli im łzy z oczu wycisnę, sam się będę śmiał: dostanę pieniądze, a jak śmiech, to będę płakał, bo mi pieniądze przepadną.
+
+VII. Sokrates: Wiesz ty, że ten widz to ostatni z pierścionków, o których ci mówiłem, że pod wpływem kamienia heraklejskiego jeden od drugiego siłę bierze. Pośrednie ogniwo to ty, śpiewak i aktor, a pierwsze: sam poeta. A bóg przez nich wszystkich wlecze dusze ludzkie, dokąd zechce; zaczepił siłę jednych o drugich. I jak od owego kamienia, tak od tych ludzi zwisa długi łańcuch chórzystów i nauczycieli, i młodszych nauczycieli; ci przyczepiają się z boku do tych pierścionków, które muza prosto trzyma. I jeden poeta u tej muzy wisi, a drugi u innej. A nazywamy to u niego zachwytem. I to bliskie; bo go coś chwyta i trzyma naprawdę. A poeta znowu także jeden na drugim wisi i boga z niego w siebie bierze; jedni z Orfeusza, drudzy z Muzajosa. A wielu z Homera czerpie natchnienie i jego się też trzymają. Jednym z nich jesteś ty, Ionie, i czerpiesz natchnienie z Homera; toteż jeśli ktoś śpiewa innego poetę, śpisz i nie masz nic do powiedzenia, a niech tylko zabrzmi pieśń jaka tego poety, natychmiast się budzisz i dusza ci tańczyć zaczyna. O, wtedy ty wiele masz do powiedzenia.
+
+Bo ty nie dzięki umiejętnej sztuce, dzięki wiedzy mówisz o Homerze to, co mówisz, tylko z bożej łaski i w zachwycie; jak korybanci tylko jedną słyszą pieśń doskonale, pieśń boga, z którego czerpią natchnienie, i do tej pieśni nie brak im ani gestów, ani wyrazów; o inne pieśni nie dbają. Tak i ty, Ionie; niech tylko wspomni ktoś Homera, jesteś pan i u siebie, a gdy kogo innego — toś biedak. A pochodzi to stąd, jakeś mnie przedtem pytał, czemu cię na tyle stać o Homerze, a o innych nie, że ty nie dzięki sztuce, ale dzięki łasce bożej jesteś tęgim wielbicielem Homera.
+
+VIII. Ion: Dobrze mówisz, Sokratesie. A jednak dziwiłbym się, gdybyś aż tak dobrze mówił, żeby mnie przekonać, że ja w zachwyceniu i w szale niejako wielbię Homera. Myślę nawet, że nie miałbyś tego wrażenia, gdybyś słyszał, jak ja mówię o Homerze.
+
+Sokrates: Ja chcę słyszeć, doprawdy; ale nie prędzej, zanim nie odpowiesz mi na to: z tych rzeczy, o których Homer mówi, o czym ty dobrze umiesz mówić? Bo przecież chyba nie o wszystkich?
+
+Ion: Ależ bądź przekonany, Sokratesie; nie ma takiej rzeczy, o której by nie!
+
+Sokrates: Przecież chyba nie i o tych rzeczach, na których się właśnie nie znasz, a Homer o nich mówi.
+
+Ion: A cóż to znowu będzie, o czym Homer mówi, a ja się na tym nie znam?
+
+Sokrates: Przecież i o sztukach Homer nieraz wiele mówi. Na przykład o powożeniu końmi. Jeżeli sobie przypomnę wiersze, to ci powiem.
+
+Ion: Ależ ja powiem; ja przecież pamiętam.
+
+Sokrates: Powiedzże mi, co mówi Nestor synowi Antilochowi, kiedy mu radzi uważać na zakręcie podczas wyścigów na cześć Patroklosa.
+
+Ion:
+
+
+Przechyl się trochę, powiada, na wozie wspaniale rzeźbionym
+W lewą stronę, a konia pamiętaj zacinać prawego
+Batem i krzycz po imieniu, a lejce mu poddaj rękoma.
+Metę gdy będziesz miał blisko, lewego ściągnij ku sobie.
+Nie myśl, że piasta zadraśnie brzeg koła gładko toczony.
+Byleś tylko na kamień czasem nie trafił po drodze.
+
+Sokrates: Wystarczy. W tych wierszach, Ionie, czy Homer ma słuszność, czy nie, kto potrafi to lepiej poznać: lekarz czy woźnica?
+
+Ion: Woźnica, przecież.
+
+Sokrates: Czy dlatego, że posiada odnośną sztukę, czy dla czegoś innego?
+
+Ion: No nie; tylko dlatego, że sztukę.
+
+Sokrates: Nieprawdaż? Każdej sztuce pozwolił bóg rozumieć się na jakiejś robocie. Bo przecież co poznajemy z pomocą sztuki sternika, tego nie poznamy z pomocą sztuki lekarskiej.
+
+Ion: No, nie — przecież.
+
+Sokrates: Nieprawdaż? I podobnie ze wszystkimi innymi sztukami. Co poznajemy z pomocą jednej, tego nie poznamy z pomocą drugiej. Ale na to mi przedtem odpowiedz: Ty uznajesz, że jedna sztuka jest inna, a druga znowu inna.
+
+Ion: Tak.
+
+Sokrates: Więc tak, jak ja: na tej podstawie, że jedna jest wiedzą o innych rzeczach, a druga znowu o innych — dlatego też jedną sztukę nazywamy tak, a drugą inaczej. Otóż ty tak samo?
+
+Ion: Tak.
+
+Sokrates: Przecież gdyby to była jakaś wiedza o jednych i tych samych rzeczach, to po cóż byśmy mieli jedną tak nazywać, a drugą inaczej, skoroby się od jednej i drugiej można tego samego dowiedzieć. Tak jak ja teraz poznaję, że tych palców jest pięć, i ty tak samo jak ja; to samo poznajesz. A gdybym cię zapytał, czy my tu z pomocą tej samej sztuki poznajemy jedno i to samo: z pomocą arytmetyki, ja i ty, czy też z pomocą innej sztuki, to byś pewnie powiedział, że z pomocą tej samej.
+
+Ion: Tak.
+
+Sokrates: Więc to, o co cię przed chwilą miałem zapytać, teraz mi powiedz: czy o wszystkich sztukach tak myślisz; że z pomocą tej samej sztuki musi się poznawać to samo, a z pomocą drugiej nie to samo, ale skoro to jest inna sztuka — to i poznaje coś innego.
+
+Ion: Tak mi się zdaje, Sokratesie.
+
+IX. Sokrates: Nieprawdaż; ktokolwiek nie posiada danej sztuki, ten nie potrafi jak należy rozeznawać tego, co się o tej sztuce mówi albo co się w niej robi.
+
+Ion: Prawdę mówisz.
+
+Sokrates: A tak, w tych wierszach, któreś przytoczył, to, czy słusznie mówi Homer, czy niesłusznie, ty łatwiej poznasz, czy woźnica?
+
+Ion: Woźnica.
+
+Sokrates: Bo ty jesteś przecież śpiewak, a nie woźnica?
+
+Ion: Tak.
+
+Sokrates: A sztuka śpiewaka to inna niż sztuka woźnicy?
+
+Ion: Tak.
+
+Sokrates: Jeżeli więc inna, to jest też wiedzą o innych rzeczach?
+
+Ion: Tak.
+
+Sokrates: No cóż; a jak Homer powie, że zranionemu Machaonowi Hekameda, służąca Nestora, daje pić miksturę na posiłek; i powiada tak jakoś:
+
+
+Wino pramnijskie — powiada — weź; na to sera koziego
+Utrzyj na tarku brązowym, a napój przypraw cebulą!
+
+Czy słusznie to Homer mówi, czy nie — to lekarska sztuka rozpozna jak należy czy sztuka śpiewacka?
+
+Ion: Lekarska.
+
+Sokrates: A cóż, kiedy Homer powie:
+
+
+Ona, do kuli z ołowiu podobna, zapadła w głębiny,
+Która na róg bawołu nabita, co w polu nocował,
+Spada, żarłocznym rybom śmierć niosąc w morza otchłanie.
+
+To znowu ocenić, powiemy, będzie rzeczą sztuki rybackiej czy też sztuki śpiewackiej, co też Homer mówi i czy dobrze mówi, czy nie?
+
+Ion: Oczywiście, Sokratesie, że rybackiej.
+
+Sokrates: Przypatrzże się; gdybyś ty zadawał pytania i zapytał mnie tak: Sokratesie, jeżeli ty dla każdej sztuki wyszukujesz coś w Homerze, co jej wypada rozstrzygać, to proszę cię, znajdźże i coś dla wieszczka i dla sztuki wieszczbiarskiej — coś, co by wieszczkowi wypadało rozeznać, czy to dobrze napisane, czy źle — to popatrz, jak ja ci łatwo i jak prawdziwie odpowiem. Bo w wielu miejscach i w Odysei mówi Homer, jak na przykład to, co powiada Teoklymenos, wieszczek z rodu Melampodidów, do zalotników:
+
+
+Bójcie się boga; jak straszny wasz los; wszak okropna i czarna
+Noc głowy wasze obwija i twarze, i członki skulone,
+Jęk się straszny rozlega i łza wasze skrapla policzki.
+Mary się cisną w przedsionku, upiorów pełna świetlica,
+Lecą w przepaście Erebu i w ciemność. Słońce na niebie
+Zgasło na zawsze i mroki ziemię zaległy grobowe.
+
+A często i w Iliadzie, na przykład podczas walki o mur. Mówi się przecież i tam:
+
+
+Ptak się nad nimi ukazał, gdy chcieli się wedrzeć na mury:
+Orzeł, mieszkaniec obłoków, od lewej na wojsko napierał;
+Węża sploty czerwone szponami ściskał ostrymi.
+Straszny gad jeszcze drgał; jeszcze żył i zaciekłym ostatkiem
+Sił broniąc życia ostatków, w pierś orła ukąsił pod szyję,
+Wstecz się wygiąwszy w powietrzu. Ptak męką zdjęty straszliwą
+Puścił gada na ziemię. Ten spadł między wojsko zdumione.
+Orła krzyk rozdarł powietrze; ptak wichrem poleciał w przestwory.
+
+Otóż takie i tym podobne rzeczy, powiem, że wieszczek powinien i rozpatrywać, i oceniać.
+
+Ion: Prawda i to, co mówisz, Sokratesie.
+
+X. Sokrates: I to, co ty mówisz, Ionie, to także prawda. Ale teraz ty mnie znowu tak, jak ja tobie wybrałem miejsca z Odysei i z Iliady: jedne odpowiednie dla wieszczka, drugie dla lekarza, inne dla rybaka, tak i ty mnie wybierz; przecież i lepiej się znasz na Homerze ode mnie; co by też tam było dla śpiewaka, Ionie, i dla sztuki śpiewackiej, co by się też śpiewakowi godziło rozpatrywać i rozsądzać raczej niż wszystkim innym ludziom?
+
+Ion: Ja mówię, Sokratesie, że wszystko w ogóle.
+
+Sokrates: Ależ ty przecież nie mówisz, że wszystko w ogóle. Doprawdy. Chyba że masz taką krótką pamięć. Przecieżby nawet nie wypadało, żeby taki mąż, śpiewak — miał krótką pamięć.
+
+Ion: A cóż ja zapominam?
+
+Sokrates: Zapominasz, coś powiedział: że sztuka śpiewaków jest inna od sztuki woźniców.
+
+Ion: Przypominam sobie.
+
+Sokrates: Nieprawdaż, i zgodziłeś się, że będąc inną, będzie też inne rzeczy rozeznawała.
+
+Ion: Tak.
+
+Sokrates: Zatem nie będzie rozeznawała wszystkiego w ogóle, wedle twego słowa, ani śpiewak tego nie zrobi.
+
+Ion: Oprócz może czegoś w tym rodzaju, Sokratesie.
+
+Sokrates: Ależ „coś w tym rodzaju” mówisz, a to będzie mniej więcej to, co pozostanie poza przedmiotami innych sztuk. Więc na czym to się śpiewak rozumiał, skoro nie na wszystkim?
+
+Ion: Ja myślę, że na tym, co wypada powiedzieć mężczyźnie, a co przystoi mówić kobiecie, co niewolnikowi, co wolnemu, co poddanemu, a co panu.
+
+Sokrates: Co przystoi mówić panu, powiadasz, takiemu którego okręt burza pędzi po morzu — więc to będzie lepiej śpiewak wiedział czy sternik?
+
+Ion: No nie. Takie rzeczy to sternik przecież.
+
+Sokrates: A co powinien powiedzieć pan niewolnika chorego, to śpiewak lepiej pozna i dojdzie, czy lekarz?
+
+Ion: Ani to nie jest rzecz śpiewaka.
+
+Sokrates: Ale, co przystoi niewolnikowi, powiadasz?
+
+Ion: Tak.
+
+Sokrates: Na przykład niewolnikowi, któremu się bydło gzić zaczyna, a on je ma uspokoić? Otóż taki co ma powiedzieć, to śpiewak lepiej rozezna czy hodowca wołów?
+
+Ion: No — nie to przecież.
+
+Sokrates: Ale to, co wypada mówić kobiecie, która przędzie: o przeróbce wełny?
+
+Ion: Nie.
+
+Sokrates: Ale może to rozezna, co wypada mówić wodzowi, kiedy przemawia do żołnierzy?
+
+Ion: Tak. Na takich rzeczach zna się śpiewak.
+
+XI. Sokrates: Jak to: sztuka śpiewaków to strategika?
+
+Ion: Już ja bym tam wiedział, co wódz powinien mówić.
+
+Sokrates: Więc może ty i wodzem jesteś, Ionie? A jednak gdybyś był ujeżdżaczem, a równocześnie kitarzystą, rozpoznawałbyś konie dobrze i źle ujeżdżone. Gdybym cię jednak zapytał, z pomocą której sztuki, Ionie, rozpoznajesz konie dobrze ujeżdżone: czy robisz to jako ujeżdżacz, czy jako kitarzysta? Co byś mi odpowiedział?
+
+Ion: Że jako ujeżdżacz.
+
+Sokrates: Prawda; a rozpoznając tych, co dobrze grają na kitarze, zgodziłbyś się z pewnością, że robisz to z pomocą tej sztuki, która cię kitarzystą czyni, a nie z pomocą tej, przez którą jesteś ujeżdżaczem?
+
+Ion: Tak.
+
+Sokrates: A kiedy znowu sprawy wojskowe rozpoznajesz, to rozpoznajesz je z pomocą tej, która cię wodzem czyni, czy tej, przez którą jesteś śpiewakiem?
+
+Ion: Mnie się zdaje, że tu nie ma żadnej różnicy.
+
+Sokrates: Jak to, mówisz, żadnej różnicy? Mówisz, że to jedna sztuka: śpiewactwo i strategika, czy też dwie sztuki?
+
+Ion: Mnie się zdaje, że jedna.
+
+Sokrates: I kto tylko jest dobrym śpiewakiem, ten jest już i dobrym wodzem?
+
+Ion: Bardzo dobrym, Sokratesie.
+
+Sokrates: Aha; i kto jest dobrym wodzem, ten jest już i dobrym śpiewakiem?
+
+Ion: Nie — to mi się znowu nie wydaje.
+
+Sokrates: A to ci się jednak wydaje, że kto jest dobrym śpiewakiem, ten jest też i dobrym wodzem?
+
+Ion: Tak jest.
+
+Sokrates: Nieprawdaż, ty jesteś najlepszym śpiewakiem między Hellenami?
+
+Ion: Bez żadnego porównania, Sokratesie.
+
+Sokrates: Ionie! A czyż i wodzem jesteś najlepszym spośród Hellenów?
+
+Ion: Żebyś wiedział, Sokratesie; i tego też nauczyłem się z Homera!
+
+XII. Sokrates: Nie — cóż znowu! Na bogów, Ionie! W obu kierunkach jesteś najznakomitszym spośród Hellenów: i wodzem, i śpiewakiem, a włóczysz się po Helladzie i śpiewasz pieśni, zamiast dowodzić wojskiem. Cóż, ty myślisz, że Hellada takiego śpiewaka ze złotym wieńcem na głowie bardzo potrzebuje, a wódz się jej na nic nie przyda?
+
+Ion: Sokratesie, nasze państwo zostaje pod rządami waszego i pod dowództwem, toteż zupełnie nie potrzebuje wodza; a wasze znowu państwo i spartańskie nie wybrałoby mnie wodzem. Wy uważacie, że wystarczacie sobie sami.
+
+Sokrates: Ionie — jesteś niezrównany. A nie znasz ty Apollodora z Kyzikos?
+
+Ion: Cóż to za jeden?
+
+Sokrates: Ateńczycy często obierali go wodzem, choć to człowiek obcy. I Fanostenesa z Andros, i Heraklejdesa z Kladzomenów. To wszystko przecież ludzie obcy, a jednak wykazali, że warto o nich mówić; więc ich nasze państwo i na strategie wprowadza, i na inne urzędy. A Iona z Efezu miałoby nie wybrać i nie poczcić go, jeżeli się pokaże, że warto o nim gadać? Cóż, czyż wy z Efezu nie jesteście Ateńczykami z dawnych lat? A Efez nie jest przecież mniejszy od żadnego innego miasta! Tymczasem ty, Ionie, jeżeli prawdę mówisz, że potrafisz Homera wielbić z pomocą sztuki i wiedzy — to popełniasz zbrodnię, boś mi przyrzekł to wykazać, a robisz mi zawód i nie ma mowy o tym, żebyś mi to wykazał. I nie chcesz mi powiedzieć, co to jest takiego, w czym ty jesteś tęgi, choć ja cię od dawna o to błagam. Tylko tak, po prostu, jak Proteusz, wykręcasz się na wszystkie strony, wywijasz mi się tędy i owędy, ażeś mi w końcu uciekł i zjawiasz się w postaci wodza, byle tylko nie pokazać, żeś tęgi w mądrości dotyczącej Homera. Więc jeżeli posiadasz sztukę, jak mówiłem przed chwilą, i przyrzekłszy mi wywód o Homerze, teraz mnie w błąd wprowadzasz i robisz zawód, toś zbrodniarz. A jeżeli nie posiadasz sztuki, tylko z łaski bożej i z Homera czerpiąc natchnienie, mówisz wiele pięknych rzeczy o tym poecie, choć nic nie wiesz — jeśli jest tak, jak ja o tobie powiedziałem — to jesteś zupełnie niewinny. Wybieraj więc, co wolisz, za co cię mamy uważać: człowiek zbrodniarz czy mąż boski?
+
+Ion: To jest wielka różnica, Sokratesie; znacznie piękniej uchodzić za boskiego.
+
+Sokrates: Więc też to piękniejsze należy ci się od nas, Ionie: boski jesteś i wolny od umiejętności wielbiciel Homera.
+
+
+
+
+Objaśnienia tłumacza
+
+Sługa Apollina i jego ślepy syn
+
+Już w pierwszych słowach czuć pewną pobłażliwą serdeczność w tonie starego filozofa, którego spotkał młody, wykwintnie ubrany artysta. Nawet to nabieranie łagodne, które zaczyna, nie kryje śladów goryczy, tonów żalu i pogardy, jak było w stosunku do Hippiasza. Raczej przyjacielska zaczepka i wyciąganie młodego człowieka na plac, na zapasy.
+
+No pokaż, czy rozumiesz Homera — mówi niejako Sokrates. A w jego ustach znaczy to: pokaż, czy się znasz na tych przedmiotach, o których Homer śpiewa.
+
+II. Ion nie odpowiada na to wyzwanie, tylko na inne nieco, które właściwie nie padło. Twierdzi, że umie pięknie mówić o Homerze i pragnie go zadeklamować. Złoty wieniec mu się należy od recytatorów albo od rodu Homera. Filozof rezygnuje z proponowanego popisu, natomiast szerzej wyjaśnia swoje stanowisko.
+
+Znać się na poezji to, jego zdaniem, znać się na przedmiotach, które poeta opiewa. A że na każdym przedmiocie zna się odpowiedni fachowiec, zatem fachowiec od pewnego działu znać się powinien na wszelkiej poezji i na każdym poecie. Poeci mówią przecież wszyscy o jednym i tym samym, więc kto się zna na jednym, znać się powinien na wszystkich.
+
+Czytając to, można się wahać, czy Sokrates serio mówi, czy żartuje; my bowiem zgoła nie tak pojmujemy znawstwo w zakresie wiedzy o sztuce. Ciaśniej. Znajomość przedmiotu dzieła sztuki jest tylko jednym z warunków znawstwa. Zawsze jednak warunkiem niewystarczającym, a niekiedy może nawet trudnym do pomyślenia.
+
+Jeśli przedmiotem dzieła nazwiemy to, co autor w dziele przedstawia, te przedmioty, których wyobrażenia autor z pomocą dzieła w świadomości widza wywołać zamierza, to zgodzimy się z Sokratesem, że nie będzie żadnym znawcą Praksytelesa lub Michała Anioła, ani żadnego innego plastyka ktoś, kto się na budowie ciała ludzkiego nie zna gruntownie.
+
+Ale nie wystarczy być meteorologiem, żeby się poznać i być znawcą ustępu o chmurach z Pana Tadeusza. Z drugiej strony znowu, trudno się znać na niebie i piekle, i czyśćcu, a przecież są ludzie, którzy się znają na Boskiej Komedii. Co prawda, to i ci nie obejdą się bez pewnych wiadomości teologicznych; ale one same literackiego znawstwa ich nie stanowią.
+
+Przez znawcę w dziedzinie sztuki rozumiemy tego, który potrafi opisać dzieło sztuki, porównać je z innymi, dokonać jego rozbioru, wytłumaczyć je psychologicznie, socjologicznie i dziejowo, rozpoznać je świadomie w zestawieniu z falsyfikatem i uzasadnić swe rozpoznanie. Do tego celu potrzebna jest teoria danego działu, system pojęć i zasad, którymi każdy znawca amator i tak operuje, jeśli tylko jest znawcą, choćby i amatorem, acz operuje może mniej lub więcej nieświadomie.
+
+Te pojęcia nie były obce Platonowi. Sam stworzył program retoryki w Fajdrosie, uczeń jego największy zostawił obok retoryki poetykę. Tak też pojmuje Sokrates znawstwo już w rozdziale IV naszego dialogu. Na razie jednak podobało mu się mówić tak, jakby znawstwo sztuki ograniczał do samej znajomości przedmiotu dzieła.
+
+III. Ion, który się podał za znawcę jedynie tylko Homera, musi się teraz tłumaczyć, dlatego znawstwo jego ma tak ciasne granice; z Sokratesowego bowiem pojmowania rzeczy wynikałoby, że powinien być znawcą wszystkich dzieł i autorów, którzy ten sam przedmiot traktują.
+
+Iona odpowiedź pierwsza nie jest tak zła. Homer nie tak samo pisze jak inni i stąd ograniczenie jego usprawiedliwione, jak uważa. Ion zdaje się w tej chwili słusznie zwracać uwagę na to, że znawcę więcej obchodzi w dziele to „jak” niż to „o czym” i „co”. Tylko odpowiedź jego jest niejasna, bo wieloznaczna. To „nie tak samo” może oznaczać i właściwości gatunkowe epiki, i indywidualne cechy techniki epickiej Homera, i wartość estetyczną wyższą lub niższą od innych autorów.
+
+To ostatnie chwyta Sokrates. Ion, zapominając, o co chodzi właściwie, podejmuje to słowo i musi wysłuchać wywodu oczywistego, że znawstwo nie może się ograniczać do utworów pewnego tylko stopnia wartości estetycznej.
+
+Jednak nie na wszystko można się w tym wywodzie zgodzić. Zgodzilibyśmy się, gdybyśmy wartość słownych czy plastycznych wytworów człowieka mierzyli tylko ich stosunkiem do przedmiotu i dobrymi nazywali te, które wiernie odtwarzają przedmioty, a złymi te, które to robią mylnie. My jednak wiemy, a wie to i Platon równie dobrze, że zadaniem wytworów artystycznych nie jest informowanie odbiorców o tym, jakie są przedmioty. Do tego celu służy nauka. Wytwory sztuki mają przecież bawić oko i ucho swą budową, stosunkiem części do całości, odpowiednim doborem środków do założonego celu, pewnymi znamionami formalnymi, którycheśmy dotknęli z lekka w Hippiaszu większym.
+
+Zwrot „dobrze ktoś mówi” dotyczyć może zarówno prawdy czyichś słów, ich zgodności z rzeczywistością, a może też dotyczyć ich układu, ich strony formalnej, estetycznej. Może ktoś mówić bardzo dobrze pod względem rzeczowym, ale bardzo źle pod względem formalnym. Jeśli np. najsłuszniejsze w świecie wywody podaje rozwlekle, jąkając się, stękając, mrucząc, i tak je ułoży zawile, że się słuchacz lub czytelnik spoci i jeszcze w nich głowy i ogona nie znajdzie, zamiast żeby jednym rzutem oka ująć mógł całość i części.
+
+Stąd kiedy wielu ludzi mówi o jednym i tym samym, niekoniecznie jeden i ten sam pozna się na tym, kto mówi dobrze, a kto źle. Niekoniecznie, bo dobrze i źle są wyrazami dwuznacznymi; zatem jeden się poznać może na wysokiej wartości oratorskiej jednej mowy, a drugi na wysokiej wartości rzeczowej drugiej mowy. Niekoniecznie jeden i ten sam człowiek będzie w sam raz odpowiednim sędzią wszystkich, którzy mówią o jednym i tym samym. Wystarczy zresztą, żeby o oczach kobiety jeden napisał sonet, a drugi traktat chirurgiczny. Dobry okulista miałby jedno i drugie oceniać?
+
+Dotyka Platon tej kwestii w Fajdrosie i skłania się od razu do spartańskiego stanowiska, że jedyną sztuką mówcy, jedyną jego zaletą estetyczną jest mówić prawdę — w końcu jednak przechodzi na to, że mówić prawdę jest tylko jednym warunkiem wartości mowy, ale nie jedynym. Są i inne, których Sokrates zdaje się w tej chwili znowu nie dostrzegać.
+
+Sztuka cząstką wiedzy
+
+IV. Właściwą Ionowi niezdolność do wypowiadania sądów trafnych i ciekawych o wszystkich innych poetach poza Homerem tłumaczy Sokrates brakiem potrzebnej wiedzy, który zarazem podkopuje wartość sądów recytatora i o samym Homerze. Wiedza, o którą Sokratesowi idzie w tej chwili, to już nie tylko wiedza o przedmiotach sztuki, ale o samej sztuce; w tym wypadku, ponieważ mowa o epice i o liryce: poetyka. Teoria poezji. Z toku słów Sokratesa widać, że miał na myśli obok poetyki i teorię sztuk plastycznych, która by pozwoliła umiejętnie mówić o Polygnocie, sławnym twórcy patriotycznych obrazów na ścianach malowanego portyku w Atenach, o mitycznym Dedalu, który miał pierwszy rozdzielić nogi swym posągom, aby im pozory ruchu nadać, o Epejosie, który miał drewnianego konia pod Troją zbudować i o Teodorze z Samos, który wynalazł odlewanie z brązu (około 570 r. przed Chr.). Teoria muzyki znowu byłaby podstawą znawstwa w swoim zakresie i pozwoliłaby mówić rozumnie o mitycznych, czcigodnych postaciach jak Orfeusz czy Olimpos i o sympatycznym znajomym Sokratesa. Dobry teoretyk nie może być znawcą jednego tylko autora; będzie miał warunki do uzasadnionej oceny analizy każdego, bo każdego rozpatruje z ogólnych, dobrze określonych stanowisk. Tutaj trzeba się z Sokratesem zgodzić bez zastrzeżeń.
+
+V. Dlaczego Ion pięknie mówi o Homerze, to próbuje Sokrates tłumaczyć nie jakąkolwiek umiejętnością śpiewaka, tej mu odmawia filozof. Tylko transem, który Sokrates przenośnie w tej chwili opisuje.
+
+Zmieniły się od czasów Platona znaczenia niektórych słów. W jego ustach „sztuka” odpowiada raczej naszej umiejętności. Stąd niekiedy dwoma wyrazami tłumaczyć trzeba było grecką techne, aby wydobyć przeciwstawienie między twórcą, który się intelektem kieruje w robocie, a tym, który sam nie wie, co i dlaczego robi, ale się jego rzeczy podobają mimo to i ogół je mianem dzieł sztuki pochwala. Ustęp ten wpada miejscami w rytmy, sypie porównaniami, stopniuje, przeskakuje z patosu w żart, z podniosłego tonu w gawędę starego organisty. Tego nie podrobił byle kto. Ustęp typowo Platoński.
+
+Sokrates nie drwi z poetów. Tylko tak, jak on zawsze, uśmiecha się; nawet wtedy, kiedy czci. Wstydzi się porywów. Jeśli ironizuje, to i samego siebie.
+
+W głosie Sokratesa brzmi miłość dla sztuki i cześć, a równocześnie jakby pobłażliwy uśmiech ironii, jeśli nie politowania, w kierunku poetów. Rozdział ten trudno traktować jako układ twierdzeń o sztuce, bo to jest najwyraźniej ustęp poetycki, a nie wywód. Formułowanie przenośni jako tezy otwiera zbyt szerokie pole dowolnościom. Prócz tego, Platon tu nie wynajduje niczego, tylko powtarza w pięknej formie popularną już w Grecji teorię natchnienia „z góry”. Trafną w niej jednak podał obserwację psychologiczną: utwór poetycki rodzi się zazwyczaj nie od tytułu i nie od treści począwszy, tylko wychodzi z harmonii pewnej i z rytmu, do którego się słowa jakoś same dobierają. Potwierdził to Schiller u siebie i wielu innych za nim.
+
+Odpowiedniki peanu Tynnichosa z Chalkidyki można by i w polskiej literaturze znaleźć.
+
+Ion ulega sugestii, udziela mu się nastrój Sokratesa. Za chwilę wpadnie w jego rytm, odsłoni się, będzie szczery aż do uśmiechu z samego siebie. I ładnie mu z tym.
+
+Z psychologii obcowania ze sztuką
+
+VI. Bardzo trafne uwagi psychologiczne na temat żywej wyobraźni artystów, która zaciera granice między rzeczywistością a fikcją i stanowi tło osobliwego kłamstwa przed drugimi, a nawet jakby przed sobą samym. Pod wpływem artysty i odbiorca ulega dobrowolnemu złudzeniu. Ale i on właściwie okłamuje siebie samego, podobnie jak artysta jego. Gdzieś brzegiem pola świadomości i jeden, i drugi zachowują jednak orientację normalną, nie zatracają samokontroli i samokrytyki, rzekomo uśpionej, jak to jaskrawo wydobywa Ion w ostatnich słowach rozdziału.
+
+To są uwagi niezmiernie cenne dla każdego, kogo interesuje kwestia szczerości i bezpośredniości artysty i odbiorcy dzieła sztuki, niezmiernie doniosłe, jeżeli się zważy rolę pierwiastka artystycznego w życiu społecznym, religijnym, sugerowaniu mas wymową, odezwą, literaturą pisaną, teatrem. Ion nabiera chwilami znaczenia wielkiego symbolu.
+
+VII. Zakończenie dużego obrazu z magnesem i korybantami. To byli czciciele Dionizosa; szalonymi, hałaśliwymi tańcami, aż do zapamiętania się, cześć oddawali bóstwu, które w nich wstępowało. Stąd nazwa entuzjastów, czyli tych, którzy boga mają w sobie.
+
+VIII. I Platon, i Ion musieli zauważyć, że w Sokratesa w tej chwili „bóg jakiś wstąpił” i oto staruszek mówił bardzo pięknie, ale inaczej, niż zwykł rozmawiać po trzeźwemu. Ion nie może się przyznać, żeby aż boga czuł w sobie, kiedy deklamuje — po co takie wielkie słowa i czynniki nadprzyrodzone — młody człowiek rad by coś zadeklamować i zamiast oklasku dostać uśmiech od Sokratesa w nagrodę. Filozof znowu chce młodzieńcowi pokazać, że deklamacja i przejęcie się jakimś poetą a umiejętna znajomość jego sztuki, to rzeczy zgoła różne. Ion ulega tej słabostce, którą Sokrates stwierdza u fachowców w swej Obronie; zdaje mu się, że się na wszystkim dobrze rozumie dlatego, że jest w jednym fachu tęgi.
+
+Sokrates spróbuje mu dowieść, że rzekoma sztuka recytatorska czy śpiewacza, nie jest żadną sztuką (w znaczeniu Platona), bo nie jest żadną wiedzą. Zatem nie rzuca światła na żadną dziedzinę faktów i kwestii i nie robi człowieka znawcą w żadnym zakresie. Na razie ustalają obaj tezę, że istnieją różne sztuki, czyli działy wiedzy o wykonywaniu różnych rzeczy. Każda z nich nosi osobną nazwę i każda ma swój, sobie właściwy, zakres czynności.
+
+IX. Rozpoczyna się bardzo zabawne poszukiwanie przedmiotu właściwego rzekomej sztuce Iona. Zasada mu przyświeca taka: ktokolwiek nie posiada danej sztuki, ten nie potrafi oceniać ani zdań dotyczących czegoś z jej zakresu, ani czynności i dzieł, które do niej należą. Posiadać daną sztukę znaczy zaś w ustach Sokratesa wcale nie: być wykonawcą dzieł z pewnego zakresu, tylko znać teorię wykonywania dzieł i teorię samych dzieł, i skutkiem tego być zdolnym do ich wykonywania.
+
+W Homerze znajdujemy na każdym kroku zdania dotyczące czegoś z zakresu różnych sztuk, na każdym kroku Homer daje opisy czynności i dzieł należących do zakresu różnych umiejętności.
+
+Sokrates objawia znakomitą pamięć, której by mu Ion mógł pozazdrościć, i przytacza szereg miejsc, których wartość mogliby tylko zawodowcy ocenić. Tak mówi Sokrates. My byśmy powiedzieli: nie wartość, tylko obiektywność, a do niej nie da się sprowadzić wartości dzieła sztuki w naszym rozumieniu.
+
+Poszukiwanie przedmiotu
+
+X. Ion, zapytany o ustęp z Homera, który by zawierał rzeczy z zakresu sztuki recytatorskiej, mógł był przytoczyć np. występ Demodoka na dworze u Feaków i to, co o tym śpiewaku mówi Homer. Nie zrobił tego, bo nie bardzo szedł za myślą Sokratesa. Filozof przypomina mu, że wedle zasad, które ustalili, muszą się teraz oglądnąć za przedmiotem właściwym wyłącznie tylko sztuce śpiewaka i tego przedmiotu poszukać w Homerze.
+
+Ion, nie rozróżniając poetyki od teorii deklamacji i nie wiedząc dobrze, co by być mogło przedmiotem jednej i drugiej, myśli, że wszystko w Homerze obejmuje jego specjalność. W końcu zdobywa się na odpowiedź nie tak złą, jakby się wydawało, tylko ją formułuje nie dość jasno. Chodzi mu o to, że znawca poezji powinien umieć ocenić trafność charakterystyki zawartej w sposobie mówienia osób, które się odzywają w innym utworze literackim. Tak przynajmniej można jego odpowiedź zrozumieć. Nie chce jej tak rozumieć Sokrates. Jakby nie wiedział, że Ion ma formę na myśli, wytyka mu w szeregu zabawnych pytań brak przygotowania zawodowego do oceny treści słów ludzkich. Tego przygotowania nie da mu sztuka recytatorska.
+
+XI. Ion nie nadąża za Sokratesem, daje natomiast popis naiwności. Ten rozdział ma zakrój mocno satyryczny. Może aluzje do obieranych strategów ateńskich, może wytykanie naiwności dyletantów, którym się zdaje, że natchnieniem zastąpią wiedzę zawodową, może uśmiech ironii w stronę przesadnych wielbicieli literatury ojczystej, chcących na niej oprzeć wychowanie i zastąpić nią wiedzę rzeczową, może wszystko to razem.
+
+XII. Śmiech Sokratesa na tle naiwnej miny Iona. Filozof traktuje artystę jak małe dziecko: z pieszczotliwą pobłażliwością. Streszcza w końcu to, czego chciał dowieść i zamyka dialog tezą. W tezie tej nie ma pogardy, mimo jej formy figlarnej. Przeciwnie, dla sztuki: cześć; dla artystów: wyrazy pobłażania wyrozumiałego.

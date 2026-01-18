@@ -1,0 +1,5842 @@
+Juliusz Słowacki
+
+Lilla Weneda
+Tragedia w pięciu aktach
+
+ISBN 978-83-288-2861-2
+
+
+
+OSOBY:
+ * LECH
+ * GWINONA, żona Lecha
+ * LECHON, KRAK, ARFON, synowie Lecha
+ * DERWID, król Wenedów
+ * LILLA WENEDA, ROZA WENEDA, córki Derwida
+ * POLELUM, LELUM, synowie Derwida
+ * SYGOŃ, GRYF, Lechici
+ * ŚWIĘTY GWALBERT
+ * ŚLAZ, jego sługa
+ * DWUNASTU HARFIARZY, DWUNASTU WODZÓW — Wenedzi.
+ * Orszak dziewic Gwinony. Rycerze Lechici.
+
+
+
+
+Z czasów bajecznych. Blisko Gopła.
+
+
+
+Do autora Irydiona. List II
+
+Kochany Endymionie poezji, drzemiący w cieniu gajów laurowych, z lekkością i ciszą letniej błyskawicy przedzieram się przez czarne liście drzew nieśmiertelnych i trzema błyskami budzę ciebie ze snów niespokojnych. Wstań! wstań, mój Endymionie, tajemniczej Muzy kochanku, i postąp krokiem ku mnie, a napotkasz nowy gaj fantazji, zielony sosnami teatr; bo oto dla ciebie jedynie, mój drogi, wybudowałem nową scenę, sprowadziłem duchów aktorów i rozłożyłem na leśnej murawie biegającego po świecie kolportera małe bogactwo. Odeszlij mnie z nowym zarobkiem przyjaźni, ze łzą, jeżeli można, z pochwałą, jeżeli można, a będę spokojny na wieczność.
+
+Obudź się! obudź, rzymski, w złotej zbroi, z ognistym pancerzem rycerzu! Nowe mary stoją przed tobą: oto jest wzgórze okryte zieloną murawą, na wzgórzu stoi dwanaście druidycznych kamieni i trzynasty tron z omszonego granitu; oto wzgórze ukoronowane wieńcem dwunastu białowłosych harfiarzy, zewsząd jakby morzem czerwonego połysku oblane… to straszne wzgórza zwierciadło — to krew narodu… Śpiew dwunastu harf rozlega się nad ludem umarłych i wbiega w puste, szumiące lasy sosnowe, wołać nowych na zemstę rycerzy. — Czy ci nie smutno?
+
+Oto jest rycerz z dwojgiem serc, z mieczem jedynym, z Tella, z Kastora i z Polluksa złożony; rycerz, którego jedna połowa jest tarczą, a druga śmierci żelazem — wódz mający dwie dusze i dwa ciała; nieszczęście narodu; przeznaczenie dowodzące potępionemu przez Boga ludowi… Wódz z dwojakim i nieśmiesznym już więcej nazwiskiem: oto stoi na stosie ostatecznym jako posąg przyszłości. — Czy go widzisz?
+
+Oto wróżka, która zabrania harfiarzom rozpaczy, a jednym strasznym i mściwym czynem zajęta, stąpa po sercach ludzkich, kruszy je pod swymi nogami. Eumenida Eschylowska krzycząca: „Zwycięstwo! sto serc ludzkich za zwycięstwo!” — Czy się nie wzdrygasz?
+
+Oto jest stary i święty człowiek, który przyszedł łzawe Chrystusa oliwy zaszczepiać na płonkach sosnowych i zamieszkał w czaszce olbrzyma, a przyjazne jemu ślimaki przylazły i śliną kryształową zalepiły czaszki już pustej źrennice, powoje owinęły ją dokoła. Oto we wnętrzu groty kościanej i ludzkiej krzyż stoi, lampa się pali i błyszczy obraz Rafaelowski Boga Rodzicy. Widzisz, jak dno złote obrazu pięknie jaśnieje w ciemnościach pustego czerepu? słyszysz, jak szemrze modlitwa? Lecz — o! biada, o! losy!… słowo świętego starca miecz Rolandowy wyprzedził i jeszcze lud jeden kona z wiarą okropną rozpaczy w przyszłość i zemstę. — Cóż, mój Galilejczyku?
+
+Oto jest brat Rolanda, a praszczur Sobieskiego, człowiek silnej ręki i Molierowskiej w domostwie słabości; kontusz mu włożyć i buty czerwone, gdy wróci z piorunowej walki siarką cuchnący i krwią oblany po szyję. — Kontusz mu włożyć i żupan, niechaj panuje… bez jutra.
+
+Oto nareszcie jest twarda dziewka skandynawska; oto mniejsze mrówki ludzkości, pełne kłamstwa, wybiegów, tchórzostwa w osobie Ślaza. Oto jest cały sklepik kolportera, wysypujący przed tobą swe fantastyczne figurki, za które autor sam gada; a czasem szczebioce Alfierego językiem. — Na cóż to wszystko?
+
+Zaprawdę ci powiadam, jam tych mar nie wołał — przyszły same; przyprowadziła je z sobą biała Lilla Weneda; a ja ujrzawszy ten tłum ludzi, harf złotych, hełmów, tarcz i mieczów dobytych, usłyszawszy głosy zmięszane dawno już wymordowanego ludu, wziąłem jedną z harf wenedyjskich do ręki i przyrzekłem duchom powieść wierną i nagą, jaka się posągowym nieszczęściom należy.
+
+Ile razy więc, zwyczajem teraźniejszych poetów, chciałem zacząć kwilącą serca dyssekcją, lub melancholizowaniem sztucznym obrazów prostą legendę okrasić, tyle razy mary zjawione krzyczały z krajów przeszłości: „serca nasze były zdrowe i ciała, w mowie naszej nie było niespodziewanych concetti. Choć córki królewskie, nie wzdychałyśmy do księżyca, choć synowie królewscy, pędziliśmy woły na paszę. Osjan usłyszał naszego zgonu historię, lecz nie znalazł w niej dosyć chmur księżycowych, duchów, sarn, błyskawic i wiatru wzdychającego po mogiłach, ani więc ruszył harfy na omszonym dębie wiszącej, ale odpędził nas w mgłę niepamięci rozpaczne. Lecz ty, mówiły dalej mary, któregośmy widziały w ciemnym Agamemnona grobowcu, ty, jadący niegdyś brzegami laurowego potoku, gdzie Elektra królewna płótno bieliła matczyne, mów o nas prosto i z krzykiem.”
+
+Tak namówiony, wziąłem pół posągową formę Eurypidesa tragedii i rzuciłem w nią wypadki wyrwane z najdawniejszych krańców przeszłości; a jeżeli Bóg mi pozwoli, to na tej nieco marmurowej podstawie, oprę szersze, bardziej tęczowe, lecz mniej fantastyczne niż Balladyna tragedie; tylko ty, Irydionie, nie opuszczaj mnie śród zimnego świata słuchaczy, tylko ty mi nie daj uczuć chłodu, który mi na czoło od twarzy ludzkich powiewa; a gdybyś widział na mnie idące węże, weź w rękę harfę Lilli Wenedy i przemień te gady w słuchaczów. — Ile razy z tobą byłem, zdawało mi się, że wszyscy ludzie mają oczy Rafaelowskie, że dosyć jest jednym słowa zarysem pokazać im piękną postać duchową, że dbać nie trzeba o niedowidzenie, a chronić się tylko przesytu; sądziłem, że wszyscy ludzie obdarzeni są platońską i attycką uwagą; że dodawszy do stworzonego już przez poetów świata jedną taką postać jak nimfa uwieńczona jaskółkami, które pierżchają z włosów dotknięte słońca promykiem; jedną taką postać jak nimfa uwiązana rączkami za łańcuch smutno gwarzących po niebie żurawi, można te Ateńczyki obrócić na niebo oczyma. — Teraz widzę, że innych widm, innych kolorów, innych potrzeba obrazów. Nie schodzę jednak z mojej drogi; a że jest pustą i szeroką, to przypomina mi złote pustynie Suez, na których tak mi dobrze było, gdym się tylko za słońcem i gwiazdami kierował. Jest to wreszcie dla mnie droga konieczna; ile razy bowiem zetknę się z rzeczywistymi rzeczami, opadają mi skrzydła i jestem smutny, jak gdybym miał umrzeć; albo gniewny, jak w owym wierszu o Termopilach, który na końcu księgi umieściłem, niby chór ostatni śpiewany przez poetę. — Na Odyna! niech wrzeszczą samochwalce, a ja z drgającymi ustami wracam pod skrzydła twoje ochłonąć.
+
+A teraz, słyszę, że mnie pytasz, skąd się w mojej myśli biała postać Lilli Wenedy zjawiła… posłuchaj. Przed pięciu laty mieszkałem nad jeziorem Szwajcarii, blisko miasteczka Villeneuve, dawnego Avencium. Miasteczko to, położone na zielonej równinie w końcu jeziora, niedaleko zamku Chillon i skał Heloizy, czarowało mię swoją wiejską i spokojną pięknością; na jasnych i wodnistych łąkach zbudowane, uśmiecha się wiosenną zielenią spod czarnych gór, które podobne rzymskiemu legionowi, stoją groźne, nachylone, gotowe spaść i rozproszyć… Co? kilka małych domków biało odbitych w jeziorze, mały kościołek z piramidalną wieżyczką i rzęd ciemnych drzew kasztanowych, które jesienią owieszone mnóstwem chłopiąt tłukących z koron owoce, rumienią się hożą czerwonością wesołych twarzy niby jabłonie sadów naszych mnóstwem owoców spłonione. Takim jest dzisiaj to miasteczko; lecz niegdyś, przed wiekami, na tym samym miejscu odbywała się okropna jakaś ofiara: musiało być poświęcenie się, rozpacz, szczęk broni, miecz katowski ucinający głowę starca i słowo: S. P. Q. R. błyszczące na rzymskich chorągwiach. Czas wszystko uciszył. Z całej owej historii został tylko jeden grobowiec z następującym napisem:
+
+
+Julia Alpinula
+
+Tu leżę.
+
+Nieszczęśliwego ojca nieszczęśliwa córka,
+
+bogów awentyńskich kapłanka.
+
+Wyprosić ojca od śmierci nie mogłam.
+
+Nieszczęśliwie umrzeć w losach jego było.
+
+Żyłam lat XXIII.
+
+Mój Irydionie, ta młoda dziewica, ta czysta kapłanka, co żyła tylko lat 23, skarżąca się tak cicho a tak przeraźliwie z przeszłości, ona to zamieniła się w Lillę Wenedę; chciałem kwiat łączny przenieść do Polski: niosłem go ze świętym uczuciem, aby nie strącić zeń rosy, listka nie ułamać. Ta mara srebrnej białości, która na dziwnej zieleni łąk szwajcarskich, na odłamie skały stawała przede mną, teraz zmartwychwstawszy nad Gopłem, opowiedziała swego poświęcenia się historię; cicha, czysta, biała i spokojna, ale głęboko w serce, nawet przez ojca własnego, raniona.
+
+Dawniej jeszcze, jadąc przez pińskie błota, widziałem mnóstwo lilij wodnych i mnóstwo chłopów wychudłych od głodu; między chłopami a nenufarem litewskim taki był związek, że chłopstwo jadło kwiatów łodygi, nie mając chleba; łodygi te bowiem rdzeń mają słodką, gąbczastą, która za pokarm służyć może. Co z tego pińskiego wspomnienia do tragedii wniknęło, zobaczysz.
+
+A teraz, kiedym ci się wyspowiadał, usiądź na ułamku jakiej dawnej ruiny albo pod cieniem Wirgilowego lauru i niech cię gwarząca moja przeszłość otoczy, usiądź nad kryształową jaką i smętną wodą, abyś z książką moją mógł to zrobić, co zamyślona z białą różą w ręku dziewczyna: to jest, oberwać ją liść po liściu, rzucić w wodę płynącą i pytać się losu listków o los człowieka; a zniszczywszy tak ciało Lilli Wenedy, odtwórz ją na nowo w myśli swojej większym blaskiem odzianą i piękniejszą sto razy, i niech ta postać do nas obojgu należy, niech będzie jako łańcuch łączący dwóch Wenedów ręce, nawet w śmierci godzinie. — A tych dwóch wodzów!… czy ty myślisz, Irydionie, że tworząc ów mit jedności i przyjaźni, nie łudziłem się słodką nadzieją, że kiedyś — i nas tak we wspomnieniach ludzie powiążą i na jednym stosie postawią… ty mnie wtenczas umarłego będziesz trzymał na piersiach i mówił mi do ucha słowa nadziei i zmartwychwstania, albowiem za życia słyszałem je od ciebie jedynie.
+
+Paryż, dnia 2 kwietnia 1840 r.
+
+
+
+PROLOG
+
+/ Obszerna grota wróżki wykopana w ziemi; w ścianach okrągłe dziury, przez które widać rozległe pola i daleki krajobraz — światło zachodzącego słońca Roza Weneda i Lilla Weneda. /
+
+
+LILLA WENEDA
+
+O! siostro moja, jak ty zadumana!
+Idź, spójrz na walkę, zaczaruj zwycięstwo.
+
+
+ROZA WENEDA
+
+Na nic nie przyda się tu czar szatana.
+Przekleństwo! przekleństwo! przekleństwo!
+Ojczyzna nasza kona i na wieki…
+Widzę umarłą…
+I ty umarła… ja ci zamknę powieki,
+Zimnego piasku w usta nasypię, a w gardło
+Przekleństw, które ty z sobą poniesiesz w daleki
+Kraj… na tamten świat… o! nieszczęśliwa!
+
+
+LILLA WENEDA
+
+Mówisz i wicher się zrywa
+I płacze nade mną biedną.
+Więc ja mam umrzeć? — o! Boże!
+
+
+ROZA WENEDA
+
+Cicho! czy Bóg ciebie jedną
+Stworzył? Czemu trudzisz Boga?
+Tam krew nasza i krew wroga
+Zrobiła strumień i łoże
+I Gopło zaczerwieniła.
+Będziesz ty jak płaczka wyła
+Nad sobą, gdy rycerze konają?
+Słychać dźwięk harf
+O! cyt, harfy nasze grają.
+Słyszysz ich głosy ponure,
+Płaczące i rozstrojone?
+Harfiarze wchodzą na górę…
+Wszystko stracone!
+
+
+LILLA WENEDA
+
+Za harfiarzami tu wejdą rycerze
+I nas zabiją, i wytną harfiarzy.
+
+
+ROZA WENEDA
+
+Co? a z chmurami przymierze?
+A piorun posępny, złoty,
+Co stoi jakby na straży
+U wejścia groty?
+Co? a szatański mój głos,
+Podobny zimnym sztyletom?
+A zmartwychwstanie dane przeze mnie szkieletom!
+A mój smutek! a mój los!
+I ty nie ufasz w tę straż?
+I ty się lękasz, o krasna.
+
+
+LILLA WENEDA
+
+Ty mówisz, lecz twoja twarz
+Jak księżyc smutna, choć jasna,
+Jak księżyc, umarłych słońce.
+Gdzie nasi bracia obrońce,
+Czy wiesz, co z nimi się stało?
+
+
+ROZA WENEDA
+
+Wnętrze groty zajęczało,
+Słyszałaś odpowiedź skał. —
+Wyjdź i wprowadź harfiarzy, ja ogień rozpalę.
+Wchodzi dwunastu starców ze złotymi harfami
+Proszę was, przy ciemnej skale
+Postawcie te harfy rzędem,
+I powiedzcie, co stało się z Wenedów ludem.
+
+
+LILLA WENEDA
+
+Czy mój ojciec i bracia moi jakim cudem
+Wyrwali się od śmierci?
+
+
+HARFIARZ
+
+                        Starce, z takim pędem
+Szliśmy na górę, że nam w piersiach głos zamiera.
+
+
+LILLA WENEDA
+
+O! wy nie chcecie mówić.
+
+
+HARFIARZ
+
+                        Niestety! Niestety!
+
+
+LILLA WENEDA
+
+O! bracia moi! O! mój drogi ojcze, gdzie ty?
+Ci ludzie milczą… mój ojciec umiera!
+O! wy nie macie litości.
+
+
+HARFIARZ
+
+                        Jak żądasz,
+Abyśmy z trwogi już przyszli do siebie?
+
+
+LILLA WENEDA
+
+Starcze! Ty na mnie, starcze, tak spoglądasz
+Jak na sierotę.
+
+
+HARFIARZ
+
+                        Na ziemi i w niebie
+Lud nasz przeklęty… O! biada nam, biada!
+Twój ojciec wzięty; rycerzy gromada
+Otoczyła go z harfą jego złotą.
+Widzieliśmy to i, bladzi zgryzotą,
+Rwaliśmy włosy… Bracia twoi wzięci.
+
+
+LILLA WENEDA
+
+Więc nie umarli?… o! mówcie mi jeszcze!…
+Więc nie umarli?…
+
+
+ROZA WENEDA
+
+                        Nie, ale przeklęci!
+
+
+LILLA WENEDA
+
+O! nie mów tego! o! nie mów, przez litość!
+Ja braci moich, ojca mego zbawię.
+O! pobłogosław ty mi, siostro moja,
+Ty smutna, byłaś mi wesołej matką.
+I wy mi, starzy ludzie, błogosławcie,
+Ale nie proście Boga o nic dla mnie,
+Tylko o rozum i przebiegłe serce,
+Abym zbawiła tych, co są w kajdanach.
+O! bądźcie zdrowi! Nie troszczcie się o mnie;
+Za mną jest każdy kwiat i każdy gołąb,
+Co biały jak ja swą mnie siostrą mniema;
+I ten jest za mną, co nad gołębiami
+W nieba błękicie jeszcze wyżej lata;
+A gdy mię nazbyt przyciśnie nieszczęście,
+Gotów odebrać gołębiowi skrzydła
+I mnie dać skrzydła, bym od ludzi poszła.
+Jeśli nie zbawię ojca, umrę młodą…
+A wtenczas płaczcie wy biednej dziewczyny.
+
+/ Wychodzi. /
+
+
+ROZA WENEDA
+
+Nie czas żałować róż, gdy płoną lasy. —
+Cóż wy myślicie, Harfiarze?
+
+
+HARFIARZE
+
+Wszystko stracone!
+
+
+ROZA WENEDA
+
+                        Na jad węża, co w tej czarze
+Karmi płomienie czerwone,
+Zaklinam się wam, o! starzy,
+Że kości z pobojowiska
+Wstaną i będą walczyć w takt pieśniom Harfiarzy.
+
+
+HARFIARZE
+
+Wstaną i zginą raz drugi…
+
+
+ROZA WENEDA
+
+I trzeci raz jeszcze zginą,
+I przejdą po nich zapomnienia pługi,
+I stokrocie się rozwiną
+Na krwawym umarłych stepie;
+I cóż!… czy płakać?
+
+
+HARFIARZE
+
+Słuchaj, tam wrony zaczynają krakać
+I wilcy gryzą śpiące na oszczepie
+Ciała rycerzy.
+
+
+ROZA WENEDA
+
+Za trzy dni sto piorunów uderzy,
+Tysiące się podniesie prawic;
+Będzie okropna walka przy świetle błyskawic.
+Żywi się pomięszają z umarłemi,
+I nikt ich nie rozbroni.
+Wy umarłych poznacie po zapachu ziemi,
+Po ognistym śladzie koni;
+Lecz ci, co oko w oko spojrzą, nie poznają.
+
+
+HARFIARZE
+
+O! cud!… Harfy nasze grają
+Rycerski śpiew.
+
+
+ROZA WENEDA
+
+Te harfy uczuły krew
+I drżą…
+
+
+HARFIARZE
+
+O! chodźmy tą pieśnią jak skrą
+Ożywić ludy po siołach.
+
+
+ROZA WENEDA
+
+Dębowe wieńce na czołach,
+A w ręku harfy złociste;
+W piersiach serca bursztynowe,
+Jak słońca złote i czyste;
+A w ustach pieśni grobowe,
+Co budzą narodów lwy;
+To są Harfiarze! to wy!
+
+
+HARFIARZE
+
+Wlałaś nam ogień do łez…
+
+
+ROZA WENEDA
+
+Ogień, nim we łzach ostygnie,
+Dwanaście ludów podźwignie;
+Za trzy dni wszystkiemu kres,
+Walka i zgon!
+
+
+HARFIARZE
+
+Nasze harfy tobie w ton
+Odgrały smutnie.
+
+
+ROZA WENEDA
+
+Uciszcie wy rękami rozpłakane lutnie,
+Brońcie, by między ludzi ta pieśń nie wybiegła.
+Brońcie, by grobu dusza ludu nie spostrzegła.
+Brońcie, by lud nad sobą nie usłyszał płaczu;
+Jeśli nie obronicie tego — potępieni!
+
+
+HARFIARZE
+
+Więc za trzy dni noc płomieni?…
+
+
+ROZA WENEDA
+
+I noc okropności mściwa
+I wiek haraczu…
+Pół rycerzy od piorunów zginie, pół od miecza.
+Wódz dwie głowy mieć będzie, jedna człowiecza,
+Drugą głowę trupią wódz mieć będzie.
+Ja ostatnia zostanę żywa,
+Ostatnia z czerwoną pochodnią:
+I zakocham się w rycerzy popiołach,
+I popioły mnie zapłodnią,
+A swatami będą dęby z płomieniem na czołach,
+A łożem ślubnym będzie stos rycerzy.
+Kto konając we mnie uwierzy,
+Skona spokojny;
+Ja go zemszczę lepiej od ognia i wojny,
+Lepiej niż sto tysięcy wroga,
+Lepiej od Boga…
+
+
+HARFIARZE
+
+Idźmy! Wróżkę szał porywa.
+
+/ Wychodzą. /
+
+
+ROZA WENEDA
+
+O wróżka! Wróżka ludu nieszczęśliwa!
+Ona ma serce… Lecz noc już… już ciemno!
+Chodźmy umarłych palić… Duchy, ze mną!
+
+/ Odchodzi. /
+
+
+
+
+AKT I
+
+
+
+SCENA I
+
+/ Pole nad Gopłem. Lech, Gwinona, Sygoń, Gryf wchodzą zbrojni. /
+
+
+LECH
+
+Zapalić ognie na pobojowisku
+I tu mi wzięte przyprowadzić jeńce.
+
+/ Wchodzą Derwid z harfą złotą w ręku, Lelum i Polelum w łańcuchach. /
+
+
+SYGOŃ
+
+Z ręki mu złotej harfy nie wydarto,
+Jest to Wenedów król z dwoma synami.
+
+
+LECH
+
+/ do Derwida /
+
+Cóż myślisz, starcze, o ludach zachodnich?
+Wczora ty byłeś panem tej krainy,
+Dzisiaj do ciebie nie należy głowa,
+Która rządziła wczoraj tymi ludy.
+Szaty na sobie teraz porozdzieraj,
+Okup się, starcze, łzy brylantowymi,
+Bo ci czekanem łeb roztrzaskam siwy.
+do Lelum i Polelum
+Cóż to szczekacie jak psy łańcuchami?
+Cóż to, niedźwiedzie, uczcie się pokory!
+Gdzie mój kat? — Ten mi człowiek plunął w oczy.
+Że ja maleńki, to on mną pogardza,
+A wiem, że mego miecza nie udźwignie.
+Gwinono, patrzaj, jaki to lud rosły.
+Ja komar, i krew z niego wycedziłem,
+I wycisnąłem w ręku jak cytrynę.
+Jak się Czech dowie, to nie będzie wierzył.
+Poszlę mu tego starca w podarunku,
+I tych dwu młodych poszlę królewiców,
+Niechaj porobi z nich obudwu psiarzy.
+
+
+GWINONA
+
+Ja chcę usłyszeć ich głos. Każ, niech mówią.
+
+
+LECH
+
+Psy, łatwiej zmusić ich, aby jęczeli.
+
+
+GWINONA
+
+Ta harfa musi być zaczarowana.
+
+
+LECH
+
+Na Boga! prawdę mówisz, moja lwico,
+Ta harfa musi być zaczarowana.
+Stary! czy w harfie twojej siedzi diabeł,
+Że tak o nią dbasz? Na Boga! to mruki!
+My tu przed nimi jak na nitce wróble,
+A oni patrzą z góry jak na frygi.
+Gryfie, odprowadź ich do Rzymskiej Wieży,
+Jak się wygłodzą, to głos odzyskają.
+Derwid, Lelum, Polelum wychodzą pod strażą.
+To głuchoniemy jakiś lud, Gwinono,
+I głuchoniemy król. Na koń! hej, na koń!
+Ufundujemy na trupach królestwo.
+
+/ Wychodzą wszyscy. /
+
+
+
+SCENA II
+
+/ Cela pustelnika podobna kształtem do wnętrza czaszki olbrzymiej. W głębi obraz N. Panny na dnie złotym. Święty Gwalbert i Ślaz. /
+
+
+ŚWIĘTY GWALBERT
+
+Splamiłeś moje oczy, mości Ślazie,
+Wlazłem za twoją poradą na sosnę,
+Splamiłeś moje oczy krwi widokiem.
+To sprawa diabła, przybyłem nawracać,
+A jacyś ludzie przybyli wycinać;
+Wycięli prędzej, niż ja nawróciłem;
+Za to się trzeba aż do krwi biczować
+Mnie, jako panu, tobie, jako słudze,
+A obu jako sługom Pana Boga.
+
+
+ŚLAZ
+
+Et fit voluntas tua.
+
+
+ŚWIĘTY GWALBERT
+
+                        Tak, tak, Ślazie.
+Et fit voluntas tego, co na niebie.
+A jednak szkoda, że ten lud wycięto,
+Bo lud był dobry, choć niechrześcijański.
+
+
+ŚLAZ
+
+Domine, wszyscy więc poszli do piekła?
+
+
+ŚWIĘTY GWALBERT
+
+Ziemia przed krzyżem krwią czerwoną ściekła,
+Z tej krwi wybuchnie płomień w kształcie krzyża.
+Śmierć kruszy ciała, lecz wieczność przybliża.
+Narody będą wkrótce okupione;
+Widziałeś, Ślazie, komety czerwone
+Z długimi chwosty, co tu wróżą zmianę,
+Komety, co jak wiedźmy rozczochrane,
+Goniły za mną aż od Jeruzalem,
+Grożąc mi chłostą, krzyżem albo palem?
+Cóż mi zrobiły? Kiedy będzie trzeba,
+Te straszne gwiazdy palcem zetrę z nieba.
+Bóg swemu słudze za wiek długi trudów
+Przerażających da godzinę cudów.
+Cóż mi ten mocarz, co tu krwawi lasy?
+Nowy faraon, wejdę z nim w zapasy,
+Złamię i różdżkę ognistą otrupię;
+A potem jedną łzą gorącą kupię
+Żywot dla niego wieczny i zbawienie.
+
+
+ŚLAZ
+
+Domine, z czego, proszę, są promienie,
+Które ty nosisz na głowie?
+
+
+ŚWIĘTY GWALBERT
+
+                        Są ze mnie,
+Z mojej wewnętrznej wiedzy i z anioła,
+Co w ciele moim pali się tajemnie.
+
+
+ŚLAZ
+
+Myślałem, że te płomieniste koła
+Są z włosów?
+
+
+ŚWIĘTY GWALBERT
+
+                        Ergo nie byłyby z duszy?
+
+
+ŚLAZ
+
+Domine, a kot kiedy się napuszy,
+To mu tak iskry z włosów wylatują.
+
+
+ŚWIĘTY GWALBERT
+
+Są ludzie głupi jak ty, co się trują
+Porównywaniem dwóch natur w stworzeniu.
+
+
+ŚLAZ
+
+Domine, wiara jest w moim wątpieniu.
+
+
+ŚWIĘTY GWALBERT
+
+Wątpienie z diabła jest.
+
+
+ŚLAZ
+
+                        Więc mię on szuka?
+
+
+ŚWIĘTY GWALBERT
+
+Obacz no, Ślazie, ktoś do chaty stuka.
+
+/ Ślaz otwiera, wchodzi Lilla Weneda. /
+
+
+LILLA WENEDA
+
+W imię Maryi.
+
+
+ŚWIĘTY GWALBERT
+
+                        Patrzcie, to królewna,
+To neofitka moja. Cóż tak rzewna?
+Cóż tak spłakana? Córko, czemuś drżąca?
+
+
+LILLA WENEDA
+
+Przyszłam do ciebie, mój ojcze, płacząca,
+Mój ojciec, bracia moi są w niewoli;
+Chcę ich ratować, lecz mi serce boli,
+A nie podaje żadnej mądrej rady.
+Świat cały teraz dla mnie smutny, blady,
+Za łez strumieniem nie widać mi słońca.
+Ty mój poradnik jedyny, obrońca.
+Nieszczęśliwego ojca mam w niewoli,
+Braci w kajdanach.
+
+
+ŚWIĘTY GWALBERT
+
+                        Cóż ja ci poradzę?
+
+
+LILLA WENEDA
+
+Już w ostatecznej się widzę niedoli.
+Powiedz, o! powiedz, czy ten Lech ma władzę
+Ojca mojego zabić?
+
+
+ŚWIĘTY GWALBERT
+
+                        To człek srogi.
+
+
+LILLA WENEDA
+
+Powiedzże, czym są twoje wielkie bogi,
+Jeśli nie mogą mi dopomóc biednej?
+
+
+ŚWIĘTY GWALBERT
+
+Bluźnisz, dzieweczko, Bóg w osobie jednej.
+
+
+LILLA WENEDA
+
+O! ja wiem! ja wiem! ty mnie uczył długo,
+Nie zapomniałam wcale twej nauki;
+Lecz teraz naucz, jak ocalić ojca.
+
+
+ŚWIĘTY GWALBERT
+
+Gotowaś jest ślub czystości uczynić?
+
+
+LILLA WENEDA
+
+Mój ojcze, jeśli tym ojca wybawię,
+Ja będę czystą jak marcowe śniegi,
+Jak po moczarach białe konwalije,
+Albo te kwiatki, co ze śniegu wstają
+I brudnej ziemi nie widzą, i giną.
+Dosyć mi będzie, że mi starzec siwy
+Pobłogosławi i obleje łzami.
+
+
+ŚWIĘTY GWALBERT
+
+Zrób więc intencję przed obrazem Matki
+Boga na krzyżu — ukrzyżowanego.
+Zrób jej ofiarę z dziewiczego serca.
+
+
+LILLA WENEDA
+
+Jakże mam mówić?… O! niebios Królowo!
+Oddaj mi ojca, a ja Ci dam siebie
+Jako białego gołębia bez plamki,
+I nic nie będę więcej pożądała,
+I nic mnie nigdy na świecie nie splami.
+
+
+ŚWIĘTY GWALBERT
+
+Teraz, dzieweczko, ona będzie z nami. —
+Ślaz, daj mi kostur. Gdzież obozem leży
+Ten Lech?
+
+
+LILLA WENEDA
+
+On, ojcze, mieszka w Rzymskiej Wieży.
+
+
+ŚWIĘTY GWALBERT
+
+Na stare nogi droga niedaleka.
+
+/ Święty Gwalbert i Lilla Weneda wychodzą. /
+
+
+ŚLAZ
+
+/ sam. /
+
+Diabeł mi każe służyć u człowieka,
+Co mnie suchymi korzonkami głodzi.
+Wychudłem jak szczep… człowiek się raz rodzi,
+Pamiętaj o tym dobrze, mości Ślazie,
+Żeś się urodził… I raz się umiera,
+Pamiętaj dobrze na to, mości Ślazie,
+Że raz umiera i że się raz rodzi.
+Ergo, ponieważ się już urodziłeś,
+Więcże korzystaj z tego, mości Ślazie.
+Ergo więc, nogi za pas i w świat jasny!…
+A zrób intencję z czystości… A na co?
+Czy masz w niewoli ojca, panie Ślazie?
+A jak się w tobie zakocha królewna,
+A ty w czystości jak w błocie po uszy!
+Chciałbym coś znaleźć niepotrzebniejszego
+I z tego zrobić votum panu Bogu,
+Aby mi trochę sprzyjał na początek.
+Na przykład, zróbmy votum z przywiązania
+Do mego pana… ot i lżej na sercu…
+A teraz niech tę celę biorą diabli
+Już niepotrzebna mi — niechaj się pali!
+
+/ Podkłada ogień pod ściany i z zapalającej się celi wychodzi. /
+
+
+
+SCENA III
+
+/ Sala w Rzymskiej Wieży. Lech i Gwinona wchodzą. /
+
+
+LECH
+
+Cóż robić z tymi ludźmi żelaznymi?
+Ulec mi nie chcą. — Cóż robić, Gwinono?
+
+
+GWINONA
+
+Rada jest moja, zbyć się ich na zawsze.
+
+
+LECH
+
+Co?… pozabijać?
+
+
+GWINONA
+
+                        Znów się wzdrygasz, mężu,
+I w czynach boisz się ostateczności.
+Dwa razy przez tę naturę kobiecą
+Straciłeś kraje już podbite prawie;
+Rycerzy ledwo ci zostaje garstka.
+Ty zawsze ufasz w szczęście i fortunę
+I w tę gorącość krwi, co ciebie rzuca
+W niebezpieczeństwa: a nie myślisz o tym,
+Że mamy dzieci, które pójdą z torbą
+I miecz ojcowski sprzedadzą za szeląg,
+Jeśli ich w życiu nie postanowimy
+Na dobrze, stale zbudowanym tronie.
+
+
+LECH
+
+To wszystko prawda.
+
+
+GWINONA
+
+                        Patrz na brata Czecha:
+Jemu się także ty oszukać dałeś,
+Toteż postąpił z tobą jak z dzieciną:
+Sam zabrał kraje we dwóch pokonane,
+A ciebie wysłał aż w północne lody.
+Cóż, moja frygo z rozpalonej stali,
+Kto cię pokręci, choć dłoń sobie sparzy,
+Kontent, bo ty się kręcisz za to długo.
+
+
+LECH
+
+Widzę to czasem, że mnie oszukują.
+
+
+GWINONA
+
+Kto z boku patrzy, ten to widzi zawsze.
+
+
+LECH
+
+Cóż ty ze starym zamyślasz Derwidem?
+
+
+GWINONA
+
+Co? Zdaj to na mnie, sam idź do sokołów,
+Ty dobry w boju i na polowaniu:
+Ale gdy trzeba robić to, co nudzi,
+To się ty wzdrygasz. Ty masz lwią naturę.
+Albo spać… albo krew pić lubisz ciepłą.
+
+
+LECH
+
+                        Ja to do siebie znam.
+
+
+GWINONA
+
+                        Cóż, mój tygrysie!
+Dajże na moją już odpowiedzialność
+Tych jeńców… jeśli zrobię źle, wyłajesz.
+Lech daje znak, że zezwala, i wychodzi.
+Gryf, przyprowadź mi tutaj Derwida.
+
+Jeszcze mu z ręki harfy nie wydarto!
+Wy się boicie wszyscy tego starca.
+
+/ Przystępuje do Derwida i chce mu harfę wyrwać. Derwid podnosi harfę, jakby nią chciał uderzyć. /
+
+
+DERWID
+
+Precz!
+
+
+GWINONA
+
+                        O! widzicie! on mię chciał uderzyć.
+Nie zabijajcie go — ja z nim pomówię.
+Człowieku! chcesz ty mnie nauczyć czarów?
+Słyszałam, że ty masz w tej harfie ducha,
+Który zgaduje przyszłość, czy to prawda?
+
+
+DERWID
+
+Mam w harfie ducha, co zgaduje przyszłość.
+
+
+GWINONA
+
+Każ mu wystąpić, niechaj go zobaczę.
+
+
+DERWID
+
+Póki ja żyję, ten duch w harfie będzie.
+
+
+GWINONA
+
+A jak ty umrzesz?
+
+
+DERWID
+
+                        Do nieba uleci.
+
+
+GWINONA
+
+Ja mogę ciebie dziś pozbawić życia.
+Ja tego ducha widzieć chcę. Rycerze
+Przynieście jemu pić, niech się ożywi.
+do Derwida
+Ty mi wywołasz z harfy tego ducha,
+Inaczej, klnę się na Hekatę i trzy
+Starki, co w piekle krwawymi nożami
+Nić przecinają ludzkiego żywota,
+Że zginiesz.
+
+
+DERWID
+
+                        Nigdy! o! nigdy, piekielna!
+Ty nie usłyszysz pieśni niewolnika,
+Nigdy ta ręka od łańcuchów sina
+Strun się nie dotknie! Nigdy moje oczy
+Łez nie wyleją, póki te łzy moje
+Mogą posłużyć wam na wywołanie
+Z ust okrwawionych serdecznego śmiechu.
+O! nie — nigdy wy z króla niewolnika
+Nie uczynicie służalca harfiarza.
+Ta pieśń, co do krwi pędziła rycerze
+I w miecze kładła dusze nieśmiertelne,
+I wścieklizną swą ducha ojczystego
+Dawała mieczom ząb, co gryzł wam kości
+I truł wam rany, nie zabrzmi w niewoli.
+Możecie wy tę harfę wziąć i rzucić
+W ogień i ogrzać przy niej ręce wasze,
+I wasze trupie twarze rozczerwienić;
+Możecie spalić ją, ale nie zgwałcić.
+O! spróbuj! połóż twe palce na strunach,
+Czy wywołają z nich co więcej, niż dźwięk
+Śmieszący ludzi? — I ty myślisz, że ja,
+Gdy na mym sercu położysz twe szpony,
+Poddam się palcom targającym żyły
+I z mego jęku zrobię pieśń? — O! jędzo!
+Ty myślisz, że ja, gdy dziś jeszcze z góry
+Widziałem lud mój, co jak jeden człowiek,
+O! nie, jak jeden trup leżał na polu,
+Myślisz, że takim okropnym widokiem
+Rozhartowany będę i pokorny?
+Sprobuj, czy ze mnie co więcej wyciśniesz
+Nad krew, co będzie przeciw tobie świadczyć
+Przed mymi ludy. — Nie, ja nie mam ludu!…
+Lecz po narodach już wymordowanych
+Jeszcze zostaje jakaś moc, przed którą
+Ty musisz bladnąć, i ciągle twe lica
+Strupiałe nową krwią farbować musisz:
+Weźże krew moją do twej gotowalni,
+Czarna kobieto, i co dnia jagody
+Czerwień krwią moją, aby cię mąż kochał
+I nie zobaczył, że masz krew zieloną.
+
+
+GWINONA
+
+Skończyłeś, starcze?
+
+
+DERWID
+
+                        Nie jeszcze! nie jeszcze!
+Ja czuję w sercu jakąś moc zabójczą,
+Która mym słowom da moc zabijania
+I ciebie mi tu da za niewolnicę,
+I z twego trupa mnie pokonanemu
+Tron nowy zrobi. Stój tu! Ja ci łono
+Osuszę, piersi napełnię popiołem,
+W żywot nasypię gadzin. — O! gdybyś ty
+Była kobietą — gorzej niż to wszystko,
+Bo bym ci oczy twe napełnił łzami,
+Opowiadając ci moje nieszczęście —
+Ale ty jesteś nie z tych, które płaczą.
+Ciebie zabijać trzeba przekleństwami;
+I piekło całe zakląć przeciw tobie,
+Ażeby piekło całe było w tobie.
+
+
+GWINONA
+
+Ten starzec śmierci chce. Wydrzeć mu oczy.
+
+
+DERWID
+
+Czekaj, niech jeszcze raz spojrzę na ciebie
+Tymi oczyma, co będą wydarte.
+
+
+GWINONA
+
+Precz z nim.
+
+
+DERWID
+
+Przez oczy moje wyłupione
+Niechaj na ciebie patrzy Bóg.
+
+/ Żołnierze wyprowadzają Derwida. /
+
+
+GWINONA
+
+                        To dziwnie.
+Te oczy siwe ze srebrnymi rzęsy
+Serce mi do krwi ugryzły… Mój Gryfie,
+Zawołaj mi tu Kraka i Arfona,
+Niech się z tą złotą harfą przyjdą bawić.
+A najmłodszemu Gwinonkowi zanieść
+Oczy wydarte, niech z nimi poigra.
+
+/ Wchodzi Święty Gwalbert. — Lilla Weneda. /
+
+
+ŚWIĘTY GWALBERT
+
+Czy tu znajome jest Chrystusa imię?
+
+
+GWINONA
+
+Cóż to za człowiek? czemu tu wpuszczony?
+
+
+ŚWIĘTY GWALBEET
+
+Straż twoja cudem pokonana drzemie.
+
+
+GWINONA
+
+Ty jak Hekate masz księżyc czerwony
+Na siwych włosach. — Co to jest za człowiek?
+
+
+ŚWIĘTY GWALBERT
+
+Ja ciemne chmury zdzieram z ludzkich powiek
+I światło niosę dla duszy słoneczne,
+Ja ludziom biednym daję życie wieczne.
+Ktokolwiek jesteś, schyl przede mną głowę.
+
+
+GWINONA
+
+Jakiś czarownik.
+
+
+LILLA WENEDA
+
+/ do świętego Gwalberta /
+
+                        O! panie, mów za mną.
+
+
+ŚWIĘTY GWALBERT
+
+Przyszedłem tutaj w imię Boga mego
+O pognębionych ludzi się upomnieć.
+Oto jest córka króla tej krainy,
+Która ma braci i ojca w niewoli,
+I przyszła prosić za nimi.
+
+
+LILLA WENEDA
+
+                        O! pani,
+Ja przyszłam prosić za ojcem i braćmi.
+Nie patrz ty na mnie srogo — ja pokorna
+Ja przyszłam twoje nogi rosić łzami,
+Ja będę za to twoją sługą; będę
+Płótno twe bielić, twoje krowy doić,
+Twe szpaki takich nauczę wyrazów,
+Że w dzień i w nocy będą dziękowały
+Za moich braci, za mojego ojca.
+Ja z moich oczu zrobię ci źwierciadła,
+W których się będziesz ty widziała piękną,
+Wesołą, dobrą i pełną litości;
+I sama siebie widząc, będziesz kochać;
+A ja cię więcej jeszcze będę kochać,
+Niż się ty możesz kochać sama siebie.
+
+
+GWINONA
+
+Za późno przyszłaś.
+
+
+LILLA WENEDA
+
+                        O! nie mów! o! nie mów!
+Ja tu leciałam jak gołąb do dzieci.
+I gdyby nie ten stary człowiek, pani,
+Już bym tu była dawno zawieszona
+Na szyi mego ojca. — Gdzie mój ojciec?
+
+/ Derwid wchodzi z wyłupionymi oczyma i podnosi ręce nad Lillą Wenedą. /
+
+
+DERWID
+
+Puśćcie mnie! krwią chcę ją widzieć i mózgiem.
+Ona tu musi być. Tu, tu ją widzę —
+O! bądź przeklęta!
+
+
+LILLA WENEDA
+
+                        Ojcze! to ja, ojcze.
+
+
+DERWID
+
+Co? To głos mojej córki, o! niebiosa!
+Ja córki mojej nie widzę!
+
+
+LILLA WENEDA
+
+                        Mój ojcze,
+Tobie wydarto oczy! — Czy zupełnie?
+Czy ty zupełnie mnie nie widzisz, ojcze?
+Poczekaj, krew ci obetrę włosami,
+I nigdy moich włosów nie obmyję;
+Lecz je rozpuszczę do ziemi czerwone,
+I w tej koszuli okropnej uklęknę
+Skarżyć się Bogu. Ojcze nieszczęśliwy!
+O! srodzy ludzie! o! ludzie okrutni!
+Pani! ty jesteś niewinna? co — prawda?
+Tego nie mogła uczynić kobieta?
+Ty sama teraz cierpisz! — o! na Boga,
+Dajże mi teraz, pani, tego starca!
+Wszakże ty widzisz, że on nie ma oczu,
+Tylko te biedne moje dwie źrenice,
+Które łez pełne. O! dajże mi teraz
+Mego ślepego ojca!
+
+
+DERWID
+
+                        Mój słowiku,
+Cicho bądź! jędzy tej nie ruszaj.
+do Gwinony
+                        A ty,
+Wściekła kobieto! jeśli cię ten widok
+Ślepego starca i córki, co widzi
+Czerwone ojca swego oślepienie,
+Dręczy, jeśli cię dręczy ta męczarnia? —
+A musi dręczyć, bo cóż ty zdobyłaś
+Tym okrucieństwem prócz kilku perełek,
+Co z oczu mojej córki upadają,
+I kilku tych łez okropnych, co ciekną
+Z mej próżnej czaszki? — Więc jeśli cię dręczy
+Ta niemoc twoja, ta bezsilność twoja —
+Sprobuj, czy moja cię śmierć nie uleczy
+I tygrysiego serca nie nakarmi.
+
+
+GWINONA
+
+Pamiętaj, że ja mam cię zabić władzę.
+
+
+LILLA WENEDA
+
+Okrutna pani! nie, ty nie masz władzy!
+O! nie, ty nie masz w sobie takiej władzy!
+Ja ci powiadam z głębi rozdartego
+Serca, że nie masz nad nim władzy żadnej.
+Wymyśl trzy razy śmierć najokropniejszą —
+Trzy razy wszystko wymyślisz na próżno.
+do świętego Gwalberta
+Nieprawdaż, starcze, że matka Chrystusa
+Będzie mnie bronić razem z aniołami
+I da zwycięstwo nad tą dumną, krwawą?
+Trzy razy będę ojca zbawicielką,
+A ty się spłonisz, żeś taka bezsilna
+Przeciw rozpaczy mojej ostatecznej.
+
+
+GWINONA
+
+Dziwne wyzwanie! słyszeliście wszyscy,
+Ta mnie dziewczyna wyzywa. — Już miałam
+Oddać ci ojca, bo ten łachman stary
+Stał mi się wcale niepotrzebny; teraz
+O niego będą toczyć się turnieje.
+Gryfie, weź starca, za włos jego siwy
+Uwieś na drzewie, niech słońce go pali
+I dziobią kruki; dla większej męczarni,
+Niech końcem stopy ziemi się dotyka.
+
+
+LILLA WENEDA
+
+Gdzie król? ja pójdę do króla ze skargą.
+
+
+GWINONA
+
+                        Idź.
+
+
+ŚWIĘTY GWALBERT
+
+Klątwa Boga na tym krwawym domie.
+
+/ Wychodzą. /
+
+
+CHÓR DWUNASTU HARFIARZY
+
+Oczy wydarto staremu królowi,
+Pęka się córki bursztynowe serce,
+A w naszą starą kość strach idzie mrowi,
+Lecz nie lejemy łez, bo ci morderce
+Gotowi ludom rzec: zwycięstwo nasze!
+Zwątpił o sobie lud! Harfiarze płaczą!
+Niech spojrzy w piersi wróg, niech patrzy w czasze,
+Czasze nalane krwią, serca rozpaczą,
+Z ust się wydziera krzyk o zemstę Boga,
+Czekamy wszyscy, drżąc, na piorun z chmur —
+A kiedy milczy niebo — śpiewa chór.
+A kiedy śpiewa chór — drzy serce wroga!
+
+
+
+
+AKT II
+
+
+
+SCENA I
+
+/ Pobojowisko, noc. Roza Weneda w głębi pali koście rycerzy i śpiewa. Ślaz wchodzi. /
+
+
+ŚLAZ
+
+Dalibóg! Trupów tu jak maku: głupcy!
+Gdyby się spytał kto tych wszystkich durniów,
+Dlaczego teraz się nie mogą ruszyć?
+Jeden odpowie: „Brak mi kawałeczek
+Serca” — a drugi: „Mam strzałkę maleńką
+W mym pacierzowym ogonie”; — i każdy
+Miałby wymówkę — ze mną tak nie będzie.
+Nie, ja do śmierci chcę żyć, a po śmierci
+Będzie, jak Bóg chce i jak chce pan Gwalbert. —
+Cóż to za wiedźma przed stosem z płomieni
+Trupich piszczeli ogniem oświecona?
+
+
+ROZA WENEDA
+
+Czar się nie robi, tu jest człowiek żywy.
+
+
+ŚLAZ
+
+Jezu Maryja! Gotowa mnie zabić.
+
+
+ROZA WENEDA
+
+Wężu, kto jesteś?
+
+
+ŚLAZ
+
+                        Umarły ze strachu.
+
+
+ROZA WENEDA
+
+Gdzie idziesz?
+
+
+ŚLAZ
+
+                        Wszędzie, gdzie każesz waćpani.
+
+
+ROZA WENEDA
+
+Ja wiem, czym jesteś… ty będziesz zabójcą.
+Mam tutaj sztylet.
+
+
+ŚLAZ
+
+                        Jakaś waryjatka!
+
+
+ROZA WENEDA
+
+Przed tobą płynie krwi bolesnej rzeka,
+Z tych trupów cieknie i płynie.
+Za tą wodą dom człowieka,
+Ten człowiek zginie;
+Życie jest jego dla mnie jak psa życie.
+Ty go zabić powinien.
+
+
+ŚLAZ
+
+                        Ja?
+
+
+ROZA WENEDA
+
+                        O świcie
+Go zabijesz, idziesz po to.
+Słuchaj! — jesteś złodziejem…
+
+
+ŚLAZ
+
+                        Ja?
+
+
+ROZA WENEDA
+
+                        I złotą
+Harfę ukradniesz mego ojca.
+
+
+ŚLAZ
+
+                        Pięknie!
+
+
+ROZA WENEDA
+
+I słuchaj, jeśli z bolu harfa jęknie,
+Jeżeli jęknie, ojcu mojemu kradziona:
+Ty ją utulisz w płaczu jak dziecko — i skona
+Ojciec mój — ale harfa zwycięży narody!
+Pamiętaj!
+
+
+ŚLAZ
+
+                        Dobrze.
+
+
+ROZA WENEDA
+
+                        Lub z głazem do wody
+Rzuć się i toń, bo serce ci wydrę i oczy.
+
+/ Oddala się w głąb do płomieni. /
+
+
+ŚLAZ
+
+Rozumiem, ukraść harfę i zabić człowieka.
+A to mi wcale piękna awantura!
+Wylazła z trupów i z płomienia mara
+I mówi do mnie: „Ślazie, jesteś zbójcą”.
+Dziękuję pani, że tak dobrze trzymasz
+O mojej cnocie. — A do mnie ta znowu:
+„Mój mości Ślazie, waść jesteś złodziejem”. —
+Chciałem ją za to w pysk, a ona w ogień
+Jak Salamandra; szukajże z nią ładu!
+Gdyby przynajmniej była powiedziała,
+Czy mnie powieszą, jak będę złodziejem?
+Co teraz robić?… Widzę tam na górze
+W złocistej zbroi nieboszczyka — pójdę,
+Obedrę zbroję i na siebie włożę,
+Może cokolwiek znajdę w niej odwagi.
+
+/ Wychodzi. /
+
+
+ROZA WENEDA
+
+/ śpiewa /
+
+
+Trzaska w płomieniach kość,
+W czaszkach się warzy mózg,
+Tu kwiatów będzie dość
+I lilijowych rózg
+Z kwiatami o! z białymi kwiatami…
+O! o! — o! o!
+Trupy moje! Trupy moje! Bóg z wami!
+
+Ja palę trupy wciąż.
+Tu mój kochanek był,
+Do czaszki przylazł wąż,
+I krew mu z oczu pił,
+I do czaszki wlazł krwawymi ustami.
+O! o! — o! o!
+Trupy moje! Trupy moje! Bóg z wami!
+
+/ Oddala się — płomienie gasną. /
+
+
+ŚLAZ
+
+/ wchodzi w zbroi — sam /
+
+Otóż ubrany jestem jak na święto.
+Ta wiedźma wrzeszczy tu na całe gardło,
+A tu są ludzie, co chcą spać: na przykład
+Ten obywatel, co mi dał tę zbroję
+Chciał spać, musiałem dobić nieboraka
+Ergo ta wiedźma powiedziała prawdę;
+Bo jeśli dobić żyć niemogącego,
+Znaczy to samo, co odebrać życie,
+Więc ja zabiłem… nie — tylko dobiłem.
+Gdzież w przykazaniach boskich: „Nie dobijaj”?
+A gdyby nawet było w przykazaniach,
+To ja nie wierzę w boskie przykazania
+I tak… a jeszcze na moją obronę
+Mógłbym przytoczyć, że mnie ten nieboszczyk
+Prosił, abym go zrobił nieboszczykiem…
+Tymi wyrazy: „Widzisz tu Salmona
+Z połamanymi kościami — więc dobij!”
+Więc ja dobiłem go i rzecz skończona. —
+A teraz pójdę w tej zbroi do Lecha;
+I będę, jakbym przywędrował z Lechem,
+Służyć u Lecha i zwać się ślachcicem.
+
+/ Wychodzi. /
+
+
+
+SCENA II
+
+/ Sala w zamku Lecha. Lech i Sygoń. /
+
+
+LECH
+
+Więc ty widziałeś, jak mój Salmon zginął?
+Opowiedz jego śmierć.
+
+
+SYGOŃ
+
+                        Kiedy się, Lechu,
+Za ostatnimi Wenedy puściłeś
+Na czarnym koniu, Salmon twój kochany,
+Ujrzawszy wzgórze, na którym dwunastu
+Stało Derwidów, z harfami złotymi,
+Tak, że z tych starców i z harf pagórkowi
+Była korona, rzucił się z dobytym
+Mieczem na owo wzgórze Salmon młody
+I nie znajdując żadnego oporu,
+Króla Derwida wziął za siwą brodę
+I ciągnął z tronu kamiennego gwałtem.
+Gdy oto nagle — harf złotych dwanaście,
+Jako dwanaście siekier podniesionych,
+Na hełm Salmona spadło… a jam słyszał
+Jęk tego hełmu i jęk harf dwunastu…
+Przybiegłem… wzgórze całe było puste,
+A na nim leżał cicho trup Salmona.
+
+
+LECH
+
+Na Boga! Każda z tych harf mi odpowie
+Życiem za życie mojego rycerza.
+
+
+SYGOŃ
+
+Już się królowa zemściła na królu.
+
+
+LECH
+
+I cóż?
+
+
+SYGOŃ
+
+                        Kazała mu wyłupić oczy.
+
+
+LECH
+
+Na Boga! Mała kara, mała kara!
+Psy! psy! psy! — zabić harfami rycerza.
+Chciałbym ten kielich cały krwią napełnić…
+Rycerz rozbity jak garnek, nie bronią,
+Ale harfami! — pfu! — zgroza. Sygonie,
+Gdyby mi kiedy taka śmierć groziła,
+Utnij mi głowę, zrąb mi głowę z karku.
+Wchodzi LILLA WENEDA.
+Cóż to za biała jakaś Wenedzianka?
+
+
+SYGOŃ
+
+Córka starego króla.
+
+
+LECH
+
+                        Tego starca,
+Który mi zabił Salmona?
+
+
+SYGOŃ
+
+                        Tak, panie.
+
+
+LECH
+
+Czegoż ode mnie ona chce?
+
+
+LILLA WENEDA
+
+                        Litości.
+
+
+LECH
+
+Właśnie mi teraz z litości wystygło
+Serce; twój ojciec jest mi jak wąż sprośny.
+Młodocianego mi zabił rycerza.
+
+
+LILLA WENEDA
+
+Więc nie litośny bądź, lecz sprawiedliwy.
+Ty ojcu memu zabiłeś tysiące
+Młodych rycerzy i przyjacioł starych;
+A żona twoja mu nie zostawiła
+Oczu, by płakał nad swoją niedolą.
+Wyście mu wszystko wydarli! Ach, wszystko!
+Nawet pociechę, którą ma płaczący,
+Przez ołzawione oczy widzieć niebo
+Lub twarz człowieka, który nad nim płacze,
+Lub lice córki, co chce być wesołą
+I twarz umila nadziei promieniem.
+O! panie, wszystkoście mu już wydarli!
+Wszystko, prócz serca córki nieszczęśliwej.
+Idź, Lechu — obacz go — a będziesz płakał!
+Idź, Lechu! — on tam na twoim dziedzińcu
+Za siwe, święte włosy przywiązany —
+Głodny mój ojciec! cierpiący mój ojciec!
+Idź, Lechu! obacz, co oni zrobili
+Z moim nieszczęsnym ojcem — ty masz oczy:
+Więc idź i obacz… a jeśli ty, Lechu,
+Na taki widok nie będziesz litośnym,
+To chyba jesteś, Lechu, nie człowiekiem.
+
+
+LECH
+
+Sygonie, moja Gwinona się biesi,
+Ona tu miarę przebrała.
+
+
+LILLA WENEDA
+
+                        O! panie,
+Ona tam teraz przed wiszącym starcem
+Do okrucieństwa zaprawia twe dzieci,
+Ojca mojego im nazywa królem,
+A to maleństwo za matką świegoce:
+«Król, król» i w mego ojca oczy puste
+Niegodziwymi rzuca kamyczkami.
+O! idź ty, Lechu, i obacz tę zgrozę!
+O! idź ty, Lechu, i skarż tę kobietę!
+Ona ci psuje, Lechu, twoje dziatki,
+Z tych dziatek będą potem królobójce,
+Ty będziesz się bał, gdy cię nazwą królem.
+Tak jak zwą dzisiaj ojca mego królem;
+«Król, król», jak kawki świegocą. O! Lechu,
+Idź sam i obacz…
+
+
+LECH
+
+                        Wszak nie ma w tym grzechu,
+Sygonie, mojej miłej podciąć skrzydeł…
+
+/ Wychodzą. /
+
+
+LILLA WENEDA
+
+On mi uwolni ojca z rąk straszydeł…
+
+/ Wychodzi. /
+
+
+
+SCENA III
+
+/ Dziedziniec zamkowy. Na jednej z bocznych ścian widać cień przywiązanego Derwida do gałęzi dębu. — Na przedzie sceny Gwinona, Krak i Arfon. /
+
+
+KRAK
+
+Mamo, ja nie chcę więcej tego starca
+Bić kamykami. On się już nie rusza.
+
+
+GWINONA
+
+Krak, jak wyrośniesz, będzie z ciebie baba.
+
+
+KRAK
+
+Nie, mój braciszek Arfon będzie babą,
+A ja rycerzem sławnym jak mój papa.
+
+
+GWINONA
+
+Chcesz być rycerzem? A kiedym kazała
+Wziąść łuk i trafić w serce tego starca,
+To skowytałeś jak psiątko: — «Nie mamo,
+Nie, ja żałuję dobrego staruszka».
+Wstydź się, czyżykiem jesteś, nie chłopakiem.
+
+
+KRAK
+
+Cóż ten staruszek zrobił tobie, Gwina?
+
+
+GWINONA
+
+Co? nie pamiętasz już, Kraku, Salmona?
+Salmona, co cię nieraz na rumaku
+Sadzał i uczył harcować… ten stary
+Zabił Salmona, Salmon już nie wróci.
+
+
+KRAK
+
+Ten stary zabił Salmona?
+
+
+GWINONA
+
+                        A widzisz?
+Już rączki ściskasz w kułak, jużeś gniewny…
+Arfonie, daj łuk braciszkowi — daj mu.
+On lepiej strzela niż ty.
+
+
+ARFON
+
+                        Ja sam trafię.
+
+
+GWINONA
+
+Idź, baw się z harfą, daj łuk braciszkowi.
+dając Krakowi łuk
+Na, i mierz w serce, w serce — wiesz, gdzie serce?
+
+
+KRAK
+
+Wiem, mamo, bo mi teraz głośno puka.
+
+/ Mierzy z łuku w stronę, gdzie się znajduje męczony Derwid… Wchodzi Lech, Sygoń i Lilla Weneda. /
+
+
+LILLA WENEDA
+
+O! widzisz, panie, chcą mi zabić ojca.
+
+
+LECH
+
+Gwinona, każ mu spuścić łuk, na Boga!
+Bo go tu zetnę szablą jak makówkę.
+Cóż to?… czy ojciec jest tu u was niczym?
+Spuść łuk! bo łebek ci ukręcę — spuść łuk!
+
+
+GWINONA
+
+Spuść łuk, mój Kraku, papa tobie każe. —
+Cóż to tak gniewny, mój człowieku? cóż to?
+
+
+LECH
+
+Mam się nie gniewać? ja mam się nie gniewać,
+Kiedy tu widzę moje własne dzieci
+Urągające z niedoli królewskiej,
+Jedzące mięso jak orlątka młode?
+Cóż to? Czy moje dzieci są chowane
+Jak psy rzeźnika? — precz mi stąd, szczeniaki!
+Dzieci odchodzą.
+Gwinona, dosyć już tych okropności.
+Każ tego starca odwiązać.
+
+
+GWINONA
+
+                        Ty panem,
+Każ go odwiązać.
+
+
+LECH
+
+                        Cóż to? jużeś gniewna?
+
+
+GWINONA
+
+O! dzień przeklęty, kiedym ja się dała
+Uwieść przez ciebie z islandzkiego brzegu,
+Abym tu była teraz niewolnicą
+Twojego gniewu i niestałej żądzy.
+Lepiej mi było morze rozhukane
+Poślubić albo wulkan płomienisty,
+Lub zostać Niksów albo Farfadetów
+Małżonką: lepiej, o! lepiej sto razy,
+Niż teraz za mym ubogim rycerzem
+Przez świat wędrować i znosić obelgi,
+I nie być pewną dnia, że mąż mię kocha.
+Bo jakże kocha mnie ten lew ryczący?
+Serce mi ciągle gryząc albo głaszcząc
+Dłonią żelazną — jakże mi pochlebia?
+Z rana pochlebia, a wieczorem karci.
+Jakże mi wierną miłość wynagradza?
+Co mi da z rana, odbierze wieczorem;
+Tak, że ja nie wiem, żoną ja czy sługą
+Jestem u niego? miłą mu czy gorżką?
+Szlachetną w jego myśli? albo podłą?
+O! jeśli tak ma być zawsze, o! Lechu!
+To mię odegnaj i ja pójdę bosa
+W te ciemne lasy wilkom i niedźwiedziom
+Pochlebiać, łasić się, prosić o litość. —
+Wstydzisz się; nic mi już nie odpowiadasz?
+Bo ty szlachetny i wiesz, że ja mam słuszność.
+Dzisiaj mi dałeś w moc tego Derwida,
+Pierwszy raz rzekłam: «On mi przecież ufa!»
+A teraz muszę znów wyjść z omamienia.
+Chodźcie tu wszyscy! patrzcie, jak Lech rycerz
+Żonie danego dotrzymuje słowa.
+Ja w słowie jego zaufana święcie
+Na jego słowo dałam moje słowo:
+Teraz on swoje święte słowo łamie;
+A ja się muszę oszkalować sama
+I zaprzysiężeń moich nie dotrzymać…
+Chodź tu, dziewczyno! wyzwałaś mnie dzisiaj
+Na zakład, że trzy razy ojca twego
+Wyrwiesz od śmierci — a ja ci przyrzekłam,
+Że twego ojca oddam ci, jeżeli
+Trzy razy śmierci go wyrwiesz okropnej.
+O! łatwo zakład ci wygrać z królową,
+O której honor nie dba mąż i rycerz.
+Ciesz się więc. — A ty, Lechu, tej dzieweczki
+Zdrowie pić będziesz moją krwią — ty znasz mnie!
+Islandzką jestem królewną, pamiętaj!
+Do obelg takich nieprzyzwyczajona.
+
+/ Chce odchodzić. /
+
+
+LECH
+
+Stój!
+
+
+GWINONA
+
+                        Idę z wieży się rzucić.
+
+
+LECH
+
+                        Kobieto!
+
+
+GWINONA
+
+Jak mnie nie będzie, każesz z moich włosów
+Porobić struny do twej harfy złotej
+I starzec ci ten będzie o mej śmierci
+Grał — albo wicher islandzki przyleci
+Z ojczystej mojej ziemi i na strunach
+Położy usta przekleństwem wyjące.
+
+
+LECH
+
+Zanadto jesteś teraz rozżalona,
+Mówić nie można z tobą.
+
+/ Chce odchodzić. /
+
+
+LILLA WENEDA
+
+/ zatrzymując go /
+
+                        O! mój panie.
+
+
+LECH
+
+Czego ode mnie chce ta wiedźma? wszyscy
+Przeciwko mnie są.
+
+
+LILLA WENEDA
+
+                        Więc mój ojciec skona?
+
+
+LECH
+
+Twój ojciec na śmierć zasłużył sto razy.
+Niechaj rycerze go dokończą — i niech
+Więcej nie słyszę o nim.
+
+
+LILLA WENEDA
+
+                        Ach! okrutny!
+Słuchajże teraz mnie, straszny człowieku!
+Słuchajże teraz mnie, ty pani krwawa!
+Ja tu wynajdę, aby wam nakarmić
+Zemsty łaknące serca, taki sposób,
+Taką wam straszną rzecz wynajdę myślą,
+Taką rzecz powiem, że wy struchlejecie
+Na samą pierwszą myśl tej okropności.
+Słuchajcie tylko! słuchajcie! Ten starzec
+Ma dzieci — dzieci te u was w niewoli,
+Dwóch macie synów tego starca w rękach:
+Otóż wybierzcie z nich którego losem,
+Dajcie mu w ręce topór wyostrzony,
+Niech o sto kroków stanie i toporem
+Rzuci na ojca — co? czy pozwalacie?
+
+
+GWINONA
+
+Przywieść tu jeńców.
+
+
+LILLA WENEDA
+
+                        Lecz, królu! lecz, królu!
+Jeżeli brat mój, rzuciwszy toporem
+Starcowi tylko włos ustrzyże siwy:
+O! patrzaj… ten włos, co tak przezroczysty
+Jak blady gwiazdy błękitnej ogonek,
+Pomiędzy drzewem a starego głową:
+Jeżeli ten włos tylko mu ustrzyże,
+To więźnie będą wolni — czy przyrzekasz?
+
+
+LECH
+
+Ów, co rzecz taką zrobi, będzie wolnym.
+
+
+LILLA WENEDA
+
+Oba?
+
+
+LECH
+
+                        Tak, oba…
+
+
+LILLA WENEDA
+
+                        I mój ojciec?
+
+
+GWINONA
+
+                        Ojciec
+Do mnie należy — zbaw go tak trzy razy,
+A będzie wolnym.
+
+
+LILLA WENEDA
+
+                        Ach! czyliż nie dosyć
+Raz tylko ojca tak zbawić, królowo?
+
+/ Wchodzi Lelum i Polelum. Oba łańcuchem złączeni, tak że prawa pierwszego ręka do lewej ręki Polelum przykuta. /
+
+
+GWINONA
+
+Otoż są więźnie; mów, czy się podejmą?
+Ty, siostra, srogi targ zrobiłaś za nich.
+
+
+LILLA WENEDA
+
+O! mówcie do nich wy… ja cała drżąca.
+
+
+LECH
+
+Jest wieść, że celnie rzucacie toporem.
+Jeśli z was który o sto kroków rzuci
+Topór na ojca i tak weń wymierzy,
+Że wiszącemu na drzewie za włosy
+Starcowi tylko włos ustrzyże siwy:
+To będzie wolny razem ze swym bratem.
+
+
+LILLA WENEDA
+
+Nie zechcą! oni nie zechcą! — Polelum
+Jedyny to jest dla ojca ratunek,
+Ojciec, na drzewie powieszony, skona,
+Jeść mu nie dano ani pić — on skona!
+On was nie widzi — wydarto mu oczy.
+Jeżeli topór mu roztrzaska głowę,
+Nie będzie widział, że to syn tak rzucił.
+On śmierci swojej przed śmiercią nie ujrzy,
+Jeżeli umrze… o śmierć nielitośną
+Swego własnego syna nie posądzi..
+Polelum… topór weź. Ojciec nie widzi.
+Weź, tylko śmiało.
+
+
+POLELUM
+
+                        Daj.
+
+
+LILLA WENEDA
+
+                        Ale go nie rań.
+
+
+POLELUM
+
+I cóż mam robić?
+
+
+LECH
+
+                        Psie! ty godzisz we mnie.
+
+
+POLELUM
+
+Mówisz, że trzeba godzić w mego ojca?
+
+
+LECH
+
+Zgnijesz w kajdanach, jeśli nie posłuchasz.
+
+/ Polelum rzuca topór na ziemię. /
+
+
+LELUM
+
+Bracie, na próżno targasz się w łańcuchu,
+Niewolnikami jesteśmy, Polelum.
+Pomyśl — ty dobrze władasz tym żelazem.
+Gdyby nie serce w tobie, to byś trafił;
+Więc zatruj serce na chwilę i pomyśl,
+Że to nie w ojca włos uderzyć trzeba,
+Lecz w łona ludzi tych, co będą czuli
+Hańbę ze swego zwycięstwa nad nami…
+Polelum! Podnieś ten topór okropny;
+Przykuty do mnie za twą lewą rękę
+Tyś niewolnikiem mojej ręki prawej.
+Ty cały jesteś moją ręką prawą:
+Ty będziesz rzucał, a ja będę cierpiał. —
+Mamyż na wieki i my, i nasz ojciec
+Już pokonani być dolą i nigdy,
+Nigdy tym krwawym ludziom nie pokazać,
+Co wreszcie może rozpacz niewolnika?
+Polelum! zemsty! — Ja skonam w więzieniu…
+Mnie trzeba słońca… tobie zemsty trzeba.
+Ach! bądź odważny.
+
+
+POLELUM
+
+                        O! bogi piekielne!
+Z jednej mi strony brat cierpiący kona —
+Tam ojciec nędzny — tu mi dają topór —
+Co robić?
+
+
+LILLA WENEDA
+
+O! mój Polelum! o bracie!
+Zbawisz nas wszystkich.
+
+
+POLELUM
+
+                        Daj topór. O! Boże!
+Odwróćcie oczy, abym ja nie widział
+Na waszych bladych twarzach przerażenia. —
+Więc trzeba włosy te odciąć — te włosy —
+Te siwe włosy? — Nie patrzcie wy na mnie,
+Bo mi się oczy łzami ćmią. Okropnie!
+Czy wy jesteście pewni, że mnie ojciec
+Nie widzi? — tylko czy jesteście pewni?
+
+
+LILLA WENEDA
+
+On ma wydarte oczy.
+
+
+POLELUM
+
+                        Przez błyśnięcie
+Mego topora utraciłby oczy,
+Gdyby mu ludzie oczu nie wydarli.
+Ach, dosyć było taką rzecz wymyśleć,
+A starzec by sam sobie wydarł oczy,
+Aby nie patrzał na zabójcę syna.
+O! do czegóż ty przyprowadzasz, Boże,
+Człeka, co stracił ojczyznę! — O! patrzcie,
+Ażeby teraz wyratować brata
+Muszę być ojca mego męczennikiem.
+Siostra mnie własna o zabójstwo prosi,
+Ludzie z boleści mojej urągają.
+O! przyjdź, godzino zemsty albo śmierci!
+
+
+GWINONA
+
+Cóż to, więc nie masz odwagi?
+
+
+POLELUM
+
+                        Bezczelna!
+Ja się odwagi mojej własnej boję. —
+Prowadźcie mnie tam, skąd mam rzucać topór.
+O tym ciśnięciu straszliwym Weneda
+Będzie wam śnić się…
+
+/ Prowadzą okutych razem braci na metę rzutu — zasłona spada. /
+
+
+CHÓR DWUNASTU HARFIARZY
+
+                        Niestety! niestety!
+Gdzie sprawiedliwość boska? Gdzie pioruny?
+Syn na własnego ojca topór rzuca,
+Niebo się całe ćmi krwawymi łuny,
+Błyskawicowych chmur rzygnęły płuca
+Piorunów deszcz okropny… świat się wzdryga!
+Cóż będzie, jeśli topór w czaszce jęknie?
+Topór, co w drżącej ręce syna miga:
+O! synu! serce twe z boleści pęknie,
+O! córko, ojca twego krew cię splami!
+O! biada wam! o! biada, niewolnicy!
+Mięsza się wasza krew z waszymi łzami,
+Serca dajecie krew pod dziób orlicy,
+Ona wyścieła gniazdo waszymi włosami.
+    O! niewolnicy!
+Zemsta! zemsta! dopóki serce bije, zemsta!
+
+
+
+
+AKT III
+
+
+
+SCENA I
+
+/ Sala w zamku Lecha. Lech i Sygoń. /
+
+
+LECH
+
+Poznałeś teraz Wenedów, Sygonie?
+Wiesz, jak ciskają od oka toporem?
+W uszach mi dzwoni okropne żelazo;
+Ażem był jęknął trwogą zadławiony,
+Gdy nad Derwida głową zobaczyłem
+Drzazgi z żelaza rozsypane skrami.
+Jużem się lękał, że w topora jęku
+Zarąbanego starca jęk usłyszę:
+Lecz nie, wyciągnął ręce i od drzewa
+Jak widmo, z włosem równo odrąbanym,
+Odstał; krwawymi łzami zapłakany,
+Z obliczem pełnym boskiego uśmiechu…
+Ach! czyn Weneda taki musi przeżyć
+Nasze mogiły. — Czy wiesz co, Sygonie?
+Stań mi pod drzewem, stań mi tak na celu;
+Niechaj na twoich włosach zaprobuję
+Oka i miecza!
+
+
+SYGOŃ
+
+                        Lechu, jestem łysy.
+
+
+LECH
+
+Ty łysy, prawda, to sęk! lecz ja muszę
+Niedźwiedziom wydrzeć sławę pozyskaną;
+Dziś spać nie mogłem; a kiedy nad rankiem
+Zamknąłem oczy, to widmo Salmona
+Jawiło mi się i mówiło do mnie
+Samymi tylko urągowiskami.
+Słychać trąbkę rycerską.
+Cóż to? czy słyszysz? słyszysz róg Salmona?
+To Salmon trąbi przed zamkową bramą.
+Jakże — mówiłeś mi, że Salmon zginął?
+
+
+SYGOŃ
+
+Klnę się na Boga, żem go widział trupem.
+
+
+LECH
+
+Ale to Salmon, patrz, stoi przed bramą.
+
+
+SYGOŃ
+
+Ten mi się rycerz zdaje trochę chudszy.
+
+
+LECH
+
+Stare masz oczy — nie poznajesz zbroi?
+To Salmon — o! mój Salmon! — Chodź, to Salmon!
+
+/ Wychodzą. /
+
+
+
+SCENA II
+
+/ Sala taż sama. /
+
+
+GWINONA
+
+/ wchodzi. /
+
+Co słyszę? Salmon zatrąbił. — O! Boże!
+Gdy ja tortury straszne wymyśliłam,
+Aby się pomścić za niego — on żyje.
+Także to pewna, że serce przywyka
+Do konieczności, choć najokropniejszej,
+I z jakiejkolwiek bądź rozpaczy — nie chce
+Powracać w przeszłą radość i z trupami
+Powróconymi znów się zapoznawać;
+Także to pewna, że osierocone
+Przez zmarłych miejsca, gdy raz już są puste,
+Muszą pozostać tak, dla niezmienienia
+Naszych nadziei, które jak pająki
+Wnet zarabiają sieć, gdzie los przeleciał,
+By w niej nie widzieć pustki i rozdarcia.
+Zaczęłam się mścić za niego — on wraca.
+Zemsta bez celu jest i bez przyczyny —
+A już jest rzeczą zaczętą. Więc znowu
+Do mego serca miłości nieczystej
+Wraca gorący wąż na dawne miejsce,
+I na wystygłe miejsce znów powraca.
+Trzeba więc wszystko rozpocząć na nowo
+I nigdy nie być pewną końca, nigdy!
+
+/ Lech, Ślaz w zbroi, wniesiony na rękach rycerzy, Sygoń. /
+
+
+SYGOŃ
+
+Salmon! niech żyje Salmon!
+
+
+LECH
+
+                        O! Gwinona!
+Witajże ty go — przynieście puchary.
+Kto dziś nie pije, z tym ja dojdę ładu. —
+Jakżeś, Salmonie mój, uniknął śmierci?
+
+
+ŚLAZ
+
+Zaraz opowiem, tylko mnie postawcie
+Na moje nogi, na me własne nogi.
+Tak, jestem Salmon, Salmon bez wątpienia,
+Zaczarowany Salmon, lepszy Salmon
+Niż tamten Salmon niezaczarowany;
+Jestem Salmona dusza w innym ciele.
+
+
+LECH
+
+Odsłońże hełmu, niechaj cię zobaczę.
+
+
+ŚLAZ
+
+O ba! — mój także hełm zaczarowany,
+Jakem się zamknął w nim, tak dotąd siedzę…
+Przeklęta klatka!
+
+
+LECH
+
+                        Co mówisz?
+
+
+ŚLAZ
+
+                        Niech zginę,
+Jeżeli kłamię. Nie ja w hełmie chodzę,
+Ale hełm ze mną włóczy się po świecie
+I będzie trzymał, aż mu się spodoba
+Uwolnić moją głowę, aby jadła.
+Ten hełm jeść nie chce i ust nie otwiera;
+Przeklęta, diabła machina, panowie,
+Na ogłodzenie człowieka.
+
+
+GWINONA
+
+                        Rycerze!
+Zrąbcie mu głowę z karku, to nie Salmon.
+
+
+ŚLAZ
+
+Przysięgam! mości panowie, ja Salmon.
+
+
+GWINONA
+
+Salmon zabity był wczora.
+
+
+ŚLAZ
+
+                        Ja wczora
+Byłem zabity, do śmierci zabity. —
+Nie dobywajcie mieczów, mospanowie,
+Bo jak mnie teraz zabijecie, to już
+Gotówem nigdy nie żyć. Zabijanie
+To na raz sztuka; raz mi się udało,
+Drugi raz może mi się już nie uda
+Chodzić po śmierci.
+
+
+LECH
+
+                        Cóż więc? jesteś duchem.
+
+
+ŚLAZ
+
+Schowajcie miecze, a powiem, czym jestem.
+
+
+LECH
+
+Jeśliś nie Salmon, to śmierć!
+
+
+ŚLAZ
+
+                        Jestem Salmon.
+
+
+LECH
+
+Więc mów jak Salmon.
+
+
+ŚLAZ
+
+                        Otóż to jest sztuka
+Mówić jak Salmon zaczarowanemu.
+
+
+LECH
+
+Któż to na ciebie rzucił takie czary?
+
+
+ŚLAZ
+
+Kto? Wczoraj martwy leżałem na polu;
+Wtem jakaś wiedźma, co paliła trupy,
+Przyszła i wzięła mnie za nogi — to nic,
+Ja byłem martwy, nie mówiłem słowa —
+Aż mnie ta straszna olbrzymka, dlatego
+Że byłem martwy, chciała rzucić w ogień;
+Więc ja zacząłem krzyczeć… więc ta wiedźma
+Puściła moje nogi — więc ja wstałem —
+Więc ona gniewna, że ja nie umarłem,
+Zaczarowała mnie: wyjęła oczy
+I dała inne oczy na pamiątkę,
+Oczy wydarte z kota, szare, kocie,
+Przez które zaraz zobaczyłem w nocy,
+Że mi już także nosa odmieniła,
+I bocianowi wziąwszy dziób, przypięła
+Do mojej twarzy, pomiędzy oczyma;
+Więc zaraz, wstydząc się takiego nosa,
+Spuściłem na nos przyłbicę — więc potem
+Chciałem odemknąć, aż moja przyłbica
+Nie chciała; i tak — szlachetni rycerze,
+Jeżeli teraz chcecie się przekonać,
+Jak ja okropnie jestem odmieniony
+Czarami wiedźmy tej, to z łaski waszej
+Przyłbicę mi tę otwórzcie.
+
+
+GWINONA
+
+/ otwierając hełm Ślaza /
+
+O nieba!
+
+
+ŚLAZ
+
+No, cóż? i jakże wy mnie znajdujecie?
+
+
+GWINONA
+
+Straszydło chude!
+
+
+ŚLAZ
+
+                        Co chude, to chude!
+Mój pan już na mnie został anatomem.
+
+
+GWINONA
+
+O jakim panu ty mówisz?
+
+
+ŚLAZ
+
+                        O jakim?
+O Panu Bogu.
+
+
+LECH
+
+                        Ale ci ta wiedźma
+Mężnego serca nie zaczarowała?
+
+
+ŚLAZ
+
+Serca? To byłoby już bez potrzeby
+Czarować serce; i cóż? — czy nie dosyć
+Takiego nosa?
+
+
+LECH
+
+                        Tyś był najpiękniejszy
+Z moich rycerzy, dziś brzydki straszliwie.
+
+
+ŚLAZ
+
+Tylko mi dajcie jeść, a obaczycie,
+Że jak utyję, to nie będę szpetnym.
+
+
+LECH
+
+Oby ci pierwszą Bóg przywrócił postać.
+
+/ Wychodzą wszyscy prócz Gwinony. /
+
+
+GWINONA
+
+To jakiś oszust w Salmona zbroicy.
+O! jak rycerze są ci łatwowierni!
+Najmniejsze kłamstwo, a już ich oszuka;
+A choć szychową nić zobaczą, nie chcą
+Wyciągnąć kłębka; jedni przez lenistwo,
+Drudzy widzący w tym może pożytek,
+Albo zabawę; i tak oszukani
+Potem przez dobroć rosnąć pozwalają
+Fałszu krzewinie, wstydząc się za ludzi,
+Którzy się wstydzić powinni. O! głupi
+Lud z rąk rycerskich i z głów niemyślących;
+Któremu chciałabym wlać moją twardość,
+Inaczej… pierwsza burza — a już po nich.
+Pokażę im myśl skierowaną wiecznie
+Jako sztyletu ostrze w serce wroga;
+Pokażę, co to jest kobieca wola,
+Jaka głuchota na postronne jęki,
+Jakie wlepienie oczu w samo łono
+Raz przedsięwziętej rzeczy być powinno.
+Jeśli niczego nie nauczę — biada!
+
+/ Wychodzi. /
+
+
+
+SCENA III
+
+/ Pole przy lesie. Lilla Weneda. Lelum i Polelum w łańcuchach. /
+
+
+LILLA WENEDA
+
+Wolni jesteście. Niech Roza Weneda
+Rozerwie wam te na rękach łańcuchy,
+A ja do ojca idę niewolnika.
+Za trzy dni ojca wam żywego wrócę.
+Lelum, ja byłam twoją narzeczoną,
+Dziś jestem smutnej śmierci narzeczoną,
+I może więcej nigdy nie powrócę,
+I może nigdy się nie zobaczymy.
+Pamiętaj o mnie, o! pamiętaj o mnie!
+Ja cię kochałam jako siostra twoja,
+Ja cię kochałam jak wierna kochanka,
+Dzisiaj cię kocham jak ta, co ma umrzeć.
+Pamiętasz, jak my dziećmi maleńkimi
+Z obu stron ojca harfy uklęknieni,
+Przez złote struny dawaliśmy sobie
+Pocałowania; dziwiąc się, że każdy
+Nasz pocałunek strun się kończył jękiem;
+Była to dziwna losu przepowiednia!
+Cóż teraz myślisz o tym harfy jęku?
+
+
+LELUM
+
+Jeżeli śmierci masz wczesnej przeczucie,
+Chodź, przedśmiertelne weź pocałowanie.
+
+
+LILLA WENEDA
+
+Harfa naszego ojca jest w niewoli,
+A ja nie jestem jeszcze zaślubioną,
+Ust moich ci dać nie mogę płonących.
+
+
+LELUM
+
+Więc rozpuść, Lillo, twoje złote włosy,
+Schowaj się za nie, jako za strunami
+Harfy ojcowskiej… niechaj przez warkocze
+Twych koralowych ust dotknę ustami…
+
+
+LILLA WENEDA
+
+O! nie, jak prosty gołąb ja się rzucę
+Na wasze łono… kochajcie mnie, bracia,
+Bo mi na świecie źle, ciemno i smutno…
+Lecz to zwyczajna powieść — bądźcie zdrowi.
+Jeśli zapyta o mnie jakie echo,
+Mówcie: umarła.
+
+/ Odchodzi. /
+
+
+LELUM
+
+Bracie mój! słyszałeś?
+Ona ma umrzeć…
+
+
+POLELUM
+
+                        Całe piekło we mnie.
+Nie więcej czułem, gdy topór okropny
+Kręciłem w ręku przeciw ojca głowie,
+Jak teraz, słysząc wasze szczebiotanie,
+Dzieci niedoli. Nie martw się, za trzy dni
+Wszyscy będziemy niczym.
+
+
+LELUM
+
+                        O! Polelum,
+Ty po mnie zostaniesz.
+
+
+POLELUM
+
+                        Po tobie?
+
+
+LELUM
+
+Dlatego ciebie tak nazwała wróżka:
+Gdy Lelum skona, żyć będziesz po Lelum.
+
+
+POLELUM
+
+Ja zadam kłamstwo wróżbie… ja nie będę
+Z waszymi groby żył w kraju niewoli.
+Świadczę się tobą, słońce, jeśli kiedy
+Ujrzysz mnie żywym na brata kurhanie,
+To natęż tak twe oczy, światła Boże,
+Aż mi zapalisz włos na tej bezwstydnej
+Głowie, co mogła wszystko, wszystkich przeżyć.
+Próżno los wróży, że będę ostatnim,
+Ostatnią tu będzie jaka kobieta,
+Albo rzecz jaka żywa jeszcze słabsza,
+Monstrum, któremu Bóg nie dał w rozpaczy
+Władzy skonania — to będzie ostatnim.
+Słońce zapłoni się, jakby zhańbione,
+Że nie ma komu świecić, tylko gadom
+I tym, co umrzeć jak ludzie nie śmieli.
+Chodź! wróżka powie nam, jak mamy skonać.
+
+/ Wychodzą. /
+
+
+
+SCENA IV
+
+/ Sala w zamku Lecha. Gwinona, RYCERZE, Lech. /
+
+
+GWINONA
+
+Tak być nie może, nie, tak być nie może.
+Z tym starcem trzeba skończyć… przyprowadźcie
+Króla Derwida i z mego pokoju
+Przynieście harfę. Klnę się wam na duszę,
+Że ta dziewczyna cierpi pomięszanie;
+Lub pomięszanie cierpi, lub fałszywa;
+A w jej białości tyle jest kolorów
+Jak na szyi gołębia… harfiarka!
+Dumna, że czoło mi stawi… żebraczka!
+Otoż mój człowiek.
+Derwid wprowadzony przez rycerzy staje przed królową, przy nim stawiają harfę.
+                        Postawcie go tutaj,
+Bliżej, przy harfie postawcie. Człowieku!
+Widzisz, że wolę mam żelazną — słuchaj!
+Błysnął ci topór synowski nad głową,
+Ale miał litość nad tobą i synem
+I tylko trochę urąbał warkocza,
+A głowę dla mnie zostawił nietkniętą…
+Widzę w tym jednak czarodziejską sprawę;
+Topory wasze muszą mieć na ostrzu
+Synowskie oczy; harfy — córek serca;
+Ta harfa twoja dzisiaj postawiona
+Przy łożu moim o każdej godzinie
+Nocnej budziła mnie jękiem boleśnym,
+Choć nawet wicher nocy ją nie trącił,
+Ani się ciche dotknęły motyle.
+Naucz mnie twego czarodziejstwa, powiedz,
+Jak wy nieżywe rzeczy czarujecie?
+A z córki twojej uczynię królewnę,
+Synowi memu starszemu zaślubię,
+Ty będziesz teściem królewica. I cóż?
+
+
+DERWID
+
+Harfa jęczała!… co mówisz, jęczała?…
+Przy tobie stojąc, jęczała?
+
+
+GWINONA
+
+                        Cóż, starcze?
+
+
+DERWID
+
+Kto słyszał harfy jęk, we trzy dni skona.
+
+
+GWINONA
+
+Szalony starzec! śmiercią mi zagraża.
+
+
+DERWID
+
+Ty, ty za trzy dni umrzesz.
+
+
+GWINONA
+
+                        Ha?
+
+
+DERWID
+
+                        Słyszałaś.
+
+
+GWINONA
+
+Nędzarzu!
+
+
+DERWID
+
+                        Trumno!
+
+
+GWINONA
+
+                        Nieszczęsny!
+
+
+DERWID
+
+                        Śmiertelna!
+
+
+GWINONA
+
+Mój niewolniku!
+
+
+DERWID
+
+                        Królowo trzydniowa!
+
+
+GWINONA
+
+Umarły!
+
+
+DERWID
+
+                        Jak pies zachrzypłaś od krzyku.
+
+
+GWINONA
+
+Śliny mam dosyć…
+
+/ Plwa na starca. /
+
+
+DERWID
+
+                        O! bogi! o! bogi!
+Dajcie mi oczy moje, będę płakał…
+
+
+GWINONA
+
+Ha! Sczerwieniła ci się twarz, harfiarzu!
+
+
+DERWID
+
+Tyś mię oplwała krwią.
+
+
+GWINONA
+
+                        Patrzcie, rycerze,
+Ten człowiek królem był!
+
+
+DERWID
+
+                        Patrzcie, rycerze,
+Oto gadzina ta była kobietą!
+
+
+GWINONA
+
+Człowiek ten kiedyś miał szacunek ludzki.
+
+
+DERWID
+
+I ta kobieta miała niegdyś ojca…
+
+
+GWINONA
+
+Proś w mego ojca imię, toć przebaczę.
+
+
+DERWID
+
+W imię cię ojca potępiam, przeklinam
+I bogom daję piekielnym za trzy dni…
+
+
+GWINONA
+
+Za to, żem ciebie zabiła?
+
+
+DERWID
+
+                        Że dręczysz.
+
+
+GWINONA
+
+                        Ha! więc ty czujesz?
+
+
+DERWID
+
+Ha! więc ty się cieszysz?
+
+
+GWINONA
+
+Już nacieszyłam się, teraz zabiję.
+
+
+DERWID
+
+Ukąsisz tylko i umrę z wścieklizny.
+
+
+GWINONA
+
+Lękasz się mego zęba?
+
+
+DERWID
+
+                        Nie, choroby.
+
+
+GWINONA
+
+Rycerze, proszę, zlitujcie się nad nim.
+To człowiek biedny… to człowiek szalony.
+Harfiarzu, klęknij!
+
+
+DERWID
+
+                        Rzuć tu na podłogę
+Twe czarne serce, pod moje kolana.
+
+
+GWINONA
+
+Nudzi mnie kłótniarz ten. — Daj mu policzek.
+
+
+DERWID
+
+Stój! splamisz ręce, ja mam twarz oplwaną.
+
+
+GWINONA
+
+Cóż to, ja sama mam bić tego króla?
+Masz!
+
+/ Uderza go. /
+
+
+DERWID
+
+Nikczemnico! niech cię Bóg obali.
+O! serce moje! o!
+
+/ Mdleje. /
+
+
+GWINONA
+
+                        Wynieście trupa
+I rzućcie wężom!
+Rycerze wynoszą Derwida.
+                        Gryfie! ty dopilnuj,
+Niech do wężowej wieży rzucą starca.
+Gryf wychodzi.
+Głupie, bez serca rycerstwo patrzało,
+Gdy we mnie wzbierał gniew; kiedym ja wrzała,
+To stali cicho, jak uliczne chłopcy,
+Sykaniem szczwając psa mojego gniewu.
+Milczeli wszyscy. — Gdyby tylko jeden
+Na starca słowem uderzył gryzącym
+I mej bezsilnej kobiecej wściekłości
+Przyszedł z pomocą, byłabym ostygła.
+Lecz nie, milczeli; a jam się rzucała
+W przepaść wściekłości, rozkoronowana,
+Znienawidzona i nienawidząca;
+Z całego serca ich nienawidząca.
+
+/ Lilla Weneda wchodzi. /
+
+
+LILLA WENEDA
+
+Pani! gdzie ojca mego niosą?
+
+
+GWINONA
+
+                        Na śmierć.
+
+
+LILLA WENEDA
+
+Powiedz, na jaką śmierć ty go skazałaś?
+
+
+GWINONA
+
+Kazałam rzucić na pożarcie wężom.
+
+
+LILLA WENEDA
+
+Wężom!
+
+
+GWINONA
+
+                        Spójrzałam wczoraj w jedną wieżę,
+Która przy zamku stoi zrujnowana; —
+Spójrzałam: z gadzin okropne powoje —
+Błyszczące, pełne ślin, pną się na ściany;
+A w głębokości gniazda wężów leżą,
+Błyskają oczy, wiją się ogony,
+I ciągły słychać świst, sykanie, gwary,
+Jak w garnku wrącym. — Tam, w ciemność okropną.
+W tę sykającą ciemność, w to wężowe
+Błoto, w ten straszny ul kazałam rzucić
+Twojego ojca.
+
+
+LILLA WENEDA
+
+                        O! Boże! o! Boże!
+Mój ojciec wężom jest rzucony głodnym?
+Węże nie będą mieć nad nim litości!
+O! więc mi skonać!
+
+
+GWINONA
+
+                        I cóż, gołębico?
+Żadnego teraz ratunku, wybiegu,
+Tu nie pomoże topór twego brata,
+Tu nie pomogą twoje łzy: — pożarty
+I rozszarpany między gadzinami
+Twój stary ojciec.
+
+
+LILLA WENEDA
+
+                        Ta harfa go zbawi.
+
+/ Chwyta za harfę i wybiega. /
+
+
+GWINONA
+
+Harfa? Idź z Bogiem, waryjatko smętna,
+Czegoż dokażesz, harfą uzbrojona,
+Przeciwko zemście wężów i kobiety?
+
+/ Wychodzi. /
+
+
+
+SCENA V
+
+/ Sala taż sama. Lech i Sygoń wchodzą. /
+
+
+LECH
+
+Sygonie, człowiek ten nie jest Salmonem.
+Przy uczcie jeden mu dał w łeb talerzem:
+Ten człowiek — widząc krew cieknącą z czoła,
+Zawołał: „Octu!” — Gdyby to był Salmon,
+Byłby zawołał: „Szabli!” Wiesz, co myślę?
+Już postawiłem go na straży w bramie,
+Zmieniwszy zbroję, razem nań wpadniemy;
+Jeżeli, zamiast bronić się jak Salmon,
+Będzie o życie błagał na kolanach,
+Każę go jak psa powiesić i śćwiczyć.
+
+/ GONIEC wchodzi. /
+
+
+GONIEC
+
+Lechu! Nowiny są okropne z pola.
+Wenedy znów się rzucają do broni.
+Lechon, najstarszy twój syn, zostawiony
+Na drugiej stronie Gopła ze stu ludźmi,
+Wzięty w niewolę.
+
+
+LECH
+
+Nie mówić Gwinonie!
+Ona miłuje bardzo tego syna.
+Każ ostrzyć miecze i naprawiać tarcze,
+W ostatniej walce dzidami pokłute —
+To dobrze, mój Sygonie. Bój zaczęty. —
+O! syn mój biedny! — Ale te psy wściekłe
+Nie będą śmieli jeńca zamordować? —
+Nie mówić tylko nic o tym Gwinonie;
+Syna odbiję, nim się ona dowie.
+
+
+GONIEC
+
+Różne biegają straszne przepowiednie
+O przyszłej walce między Wenedami;
+Wszystkie te wróżby sieje czarownica
+Młoda i piękna, co na łysej górze
+Ma wykopany loch, podobny gniazdom
+Rzecznych jaskółek.
+
+
+LECH
+
+                        Cóż za wróżby, powiedz?
+
+
+GONIEC
+
+Mówią, że wódz ich będzie miał dwie głowy,
+Dwa serca, oczu czworo płomienistych,
+Lecz jeden tylko oszczep, jedną tarczę.
+
+
+LECH
+
+Na Boga! ja mu odetnę dwie głowy,
+Ja mu rozrąbię tą szablą dwa serca;
+Lepiej by wyszli, gdyby miał dwie tarcze
+I dwa oszczepy, a mózg tylko jeden.
+
+
+GONIEC
+
+Mówią, że walka będzie oświecona
+Błyskawicami.
+
+
+LECH
+
+                        Dobrze, będzie widno.
+
+
+GONIEC
+
+Ta czarownica z góry zapowiada,
+Że po tej walce, martwych popiołami
+Nakryta, za rok porodzi mściciela.
+
+
+LECH
+
+To przepowiednia nie dla mnie, nie dla mnie —
+Nim ten popielnik wyrośnie ohydny,
+Ja będę w grobie, a mój syn na tronie.
+Ale to wszystko są na dzieci strachy,
+I wódz ten z dwoma głowami, i mściciel.
+Dosyć! Już ciemno, dosyć już tych bredni!
+Bić się będziemy i to jest najlepsza. —
+Chodźmy Salmona wypróbować męstwo.
+
+/ Wychodzą. /
+
+
+
+SCENA VI
+
+/ Dziedziniec w zamku LECHA. Ślaz przy bramie. — Noc. /
+
+
+ŚLAZ
+
+Trzeba Salmoństwo to skończyć… dalibóg!
+Salmoństwo moje bardzo niebezpieczne
+I różnych rzeczy wymaga — na przykład:
+Odwagi. Gdybym wiedział, że ze zbroją
+Spadają na mnie takie obligacje,
+Byłbym nie tykał jej… ani tych rzeczy,
+Które rycerza są… Co widzę? Chryste!
+Pan mój dawniejszy prosto w bramę dąży.
+Wyda się kłamstwo… po radę do głowy…
+Słychać stukanie do drzwi. — Ślaz otwiera drzwi i ujrzawszy ŚWIĘTEGO GWALBERTA zatrzymuje go halabardą u wejścia.
+Ktoś ty?
+
+
+ŚWIĘTY GWALBERT
+
+                        Domowi temu niosę pokój.
+
+
+ŚLAZ
+
+A więc nie wejdziesz, my żyjemy z wojny.
+
+
+ŚWIĘTY GWALBERT
+
+Puść mnie do Lecha, puść, mężny rycerzu,
+Niech cię Spiritus Sanctus… O! pohańcze!
+Mówię ci, puść mnie, bo ci spadnie głowa.
+Ty się wielkiemu sprzeciwiasz cudowi;
+Dziś nad jeziorem, równa gołębiowi
+Białością, cała powietrzem tęczowa,
+Z gwiazdy sinymi, matka Chrystusowa
+Pokazała się — ukląkłem, a ona:
+„Idź, bo stary Derwid kona,
+Córka jego, mój gołąbek,
+Z bolu umiera”.
+Tak mówiąc, w tęczy się rąbek
+Owinęła postać święta,
+I uniosła ją anielska sfera
+Z tęczą, z gwiazdami, z tysiącem promieni.
+
+
+ŚLAZ
+
+Czemuś nie nabrał tych gwiazd do kieszeni?
+Mógłbyś zapłacić teraz odźwiernemu.
+
+
+ŚWIĘTY GWALBERT
+
+Zapłacić? święci nie płacą.
+
+
+ŚLAZ
+
+                        Czemu?
+
+
+ŚWIĘTY GWALBERT
+
+Bóg daje wszystko temu, kto jest z Bogiem.
+Ale nie trzymaj mnie przed zamku progiem,
+Twój upór sługę mego przypomina.
+
+
+ŚLAZ
+
+Co to za człowiek był?
+
+
+ŚWIĘTY GWALBERT
+
+                        At, łajdaczyna!
+
+
+ŚLAZ
+
+Gdzież jest?
+
+
+ŚWIĘTY GWALBERT
+
+                        Już teraz diabeł wziął do piekła.
+
+
+ŚLAZ
+
+Już w piekle?
+
+
+ŚWIĘTY GWALBERT
+
+                        W piekle.
+
+
+ŚLAZ
+
+                        Hum… dobra nowina.
+
+
+ŚWIĘTY GWALBERT
+
+Miałem łajdaka sługę, skradł mi wszystko
+I spalił czaszkę wielkiego olbrzyma,
+Z której ja sobie uczyniłem celę:
+Tak że w tej czaszce, gdzie niegdyś mieszkały
+Bogi Walhalli, teraz się świeciła
+Czystość dziewicza w gwiaździstej koronie
+I odzywała się czysta modlitwa.
+
+
+ŚLAZ
+
+To jakiś sługa niewierny!
+
+
+ŚWIĘTY GWALBEBT
+
+                        Bies sługa!
+Teraz ja myślę, że to sam Lucyfer
+Podjął się u mnie służby i oszukał.
+Lecz nie przełamie diabeł mocy Boga,
+Ani piekielne pokusy przemogą. —
+Jeżeli jeszcze ten diabeł bezwstydny
+Jest w ludzkiej skórze, to pod dyscypliną…
+Lecz zdaje mi się, że to nie był diabeł,
+Rycerzu, on był na diabła za głupi.
+
+
+ŚLAZ
+
+/ na stronie /
+
+Wolałbym, żeby trzymał się był o mnie
+Pierwszej opinii. — Ach! Ach! myśl szczęśliwa!
+Przemienię tego siwosza w Salmona.
+głośno
+Chodź tu, staruszku święty!
+
+
+ŚWIĘTY GWALBERT
+
+                        Dzięki Bogu,
+Poganin zaczął już przezierać w światło.
+Nazwał mnie świętym, do chrztu niedaleko.
+
+
+ŚLAZ
+
+/ na stronie /
+
+Ja ciebie ochrzczę, dalibóg, że ochrzczę!
+Usalmonuję ciebie.
+głośno
+                        Przewielebny,
+Już noc, Lech teraz śpi.
+
+
+ŚWIĘTY GWALBERT
+
+                        Pokaż mi drogę,
+Ja go obudzę.
+
+
+ŚLAZ
+
+                        Pomyśl! — To lew srogi,
+Gotów się rzucić na ciebie i pozrzeć.
+
+
+ŚWIĘTY GWALBERT
+
+Więc mi to będzie wieniec męczennika.
+
+
+ŚLAZ
+
+Staruszku, ty masz oczy bazyliszka
+W świętym czerepie, mnie oczarowałeś.
+Już gotów jestem zaraz zejść ze straży,
+Choć za to można jak nic zgubić głowę,
+Lecz na usługi twoje jestem gotów.
+
+
+ŚWIĘTY GWALBERT
+
+Uczyń to, uczyń, a nagroda w niebie.
+
+
+ŚLAZ
+
+Więc mi oddadzą w niebie moją głowę?
+Ja wcale innej nie żądam nagrody,
+Ja moją głowę bardzo kocham, cenię;
+Jeśli przyrzekasz, że jak głowę stracę,
+To ją odzyskam, pójdę budzić Lecha.
+
+
+ŚWIĘTY GWALBERT
+
+Przeczuwasz prawie święte pismo boże.
+Kto tutaj, mówi Chrystus, straci duszę,
+A straci dla mnie, to duszę swą zyska.
+
+
+ŚLAZ
+
+Ale nic Chrystus nie mówi o głowie?
+
+
+ŚWIĘTY GWALBERT
+
+Głowa jest niczym, gdzie chodzi o duszę.
+
+
+ŚLAZ
+
+Kiedy nic Chrystus nie mówi o głowie,
+To dla mnie wcale nie ma bezpieczeństwa,
+Ja wolę głowę niż duszę.
+
+
+ŚWIĘTY GWALBERT
+
+                        Nędzniku!
+Ja ci dowiodę, że światowe szczęście…
+
+
+ŚLAZ
+
+Ty mi dowodzisz, a twój Derwid ginie.
+Lepiejże moją zbroję weź na siebie
+I postój za mnie na straży przy bramie,
+To pójdę, Lecha obudzę i wrócę.
+
+
+ŚWIĘTY GWALBERT
+
+Rycerzu, daj mi zbroję i zbudź Lecha.
+
+
+ŚLAZ
+
+Stójże tu stary, dzida w ręce prawej
+Przeciwko wrogom, tak… hełm na łysinę.
+na stronie
+A terazże mu zamknąłem przyłbicę.
+Jeśli otworzy, będzie mądry.
+głośno
+                        Stój tu…
+Jeśli spytająć: „Kto?” — odpowiedz: „Salmon”.
+Ja jestem Salmon… Za chwilę powrócę.
+
+/ Wykrada się za bramę zamku i ucieka. /
+
+
+ŚWIĘTY GWALBERT
+
+/ w zbroi, chodząc wielkim krokiem /
+
+Więcże to, Boże, i w rycerskim stanie
+Dobrzy są ludzie, dobrzy, choć poganie.
+Otóż włożyłem rycerską kolczugę,
+Najświętsza Panno, patrz na twego sługę.
+Oto jak rycerz spod twojego znaku,
+Jak nowy olbrzym Gedeon w szyszaku,
+Trąbą mi teraz tylko walić mury
+I piorunować grzeszniki i króle.
+Cóż to za zbrojni ludzie z latarniami?
+
+/ Lech i Sygoń z latarniami, zbrojno. /
+
+
+LECH
+
+Tu był na straży Salmon.
+
+
+ŚWIĘTY GWALBERT
+
+                        Jestem Salmon.
+
+
+LECH
+
+Sygonie, patrzaj na tego człowieka.
+Jeśli to Salmon, to się znów odmienił.
+To jakiś możny jest czarownik. Mówisz,
+Że jesteś Salmon; Salmon straci głowę,
+Jeśli się wyda, że nie jesteś Salmon.
+
+
+ŚWIĘTY GWALBERT
+
+O! nieba… jestem Salmon.
+
+
+LECH
+
+                        Patrz no, Sygoń,
+Włos mu wygląda siwy spod szyszaka,
+Króciutkie nogi w łapciach spod puklerza,
+To jakiś możny diabeł, możny diabeł. —
+O! czarowniku, jeżeliś ty Salmon,
+Po śmierci w ciało ubrany diabelskie,
+To na kawałki potnę twoje ciało,
+Aż dusza twoja w ogniu gorejąca
+Nie będzie miała w co się ubrać — broń się!
+
+/ Napada z mieczem. /
+
+
+ŚWIĘTY GWALBERT
+
+O! panie! ja nie Salmon!
+
+
+LECH
+
+                        Któż ty taki?
+
+
+ŚWIĘTY GWALBERT
+
+Nazywają mnie powszechnie Gwalbertem,
+Świętym Gwalbertem. Otwórzcie przyłbicę,
+Bo ja nie umiem tej klatki otworzyć…
+
+
+LECH
+
+To tak jak tamten. Wymówka ta sama.
+Nędzniku, wziąłeś na się inną postać;
+Przebiegły jesteś… włos ci czarny zbielał;
+Jam ciebie chudym widział przed godziną,
+Teraz żołądek masz pełny i może
+Płonących węgli masz pełny żołądek.
+Na Boga! czarów nie będę igraszką…
+Do mnie, rycerze!
+Klaszcze, wchodzi kilku z rycerstwa.
+                        Weźcie tego diabła. —
+Sygoń, niech rzucą go wężom, do wieży.
+
+
+ŚWIĘTY GWALBERT
+
+Święta Maryjo! Broń twojego sługi.
+
+/ Żołnierstwo wynosi ŚWIĘTEGO GWALBERTA, który krzyczy i wyrywa się. Sygoń wychodzi za nimi. Na krzyk starca wbiega Gwinona. /
+
+
+GWINONA
+
+Co to jest za zgiełk? co to są za krzyki?
+
+
+LECH
+
+Kazałem wężom rzucić czarownika.
+Ten Salmon, żono, to był zły duch mocny.
+
+
+GWINONA
+
+Węże niegłodne, dziś jadły człowieka.
+
+/ Sygoń wraca. /
+
+
+LECH
+
+Sygonie! Cóż to, powróciłeś blady?
+
+
+SYGOŃ.
+
+Panie! powracam znad wężowej wieży.
+
+
+GWINONA
+
+I tam widziałeś poszarpane członki
+Człowieka w paszczy wężowej trzeszczące?
+I tam słyszałeś gadzin smętne świsty?
+I tam widziałeś jęczącą dziewczynę,
+Która nad straszną wieżą nachylona,
+Jak słowik, gdy się na węża zapatrzy,
+Skrzydełek tylko lekkiem trzepotaniem
+Okazywała strach?
+
+
+SYGOŃ
+
+                        Ja tam widziałem
+Rzecz, która ludzkie przechodzi umysły.
+Przy wieży biała księżycem dziewica
+Siedzi, na harfie grająca; a przy niej
+W krąg stoją węże tak wyprostowane,
+Jak morska fala wzdęta nad dziewczyną;
+Ona te węże czarodziejską pieśnią
+Zaczarowane trzyma i spokojne;
+Ale już widać, że jej białe ręce
+Mdleją na strunach, że się pieśń zakończy
+Z życiem harfiarki w głodnych wężów paszczy.
+
+
+GWINONA
+
+Więc wieża, gdzie ten stary człowiek?…
+
+
+SYGOŃ
+
+                        Pusta.
+Spoczywa w głębi i śpi Derwid stary.
+Bo wszystkie węże, pieśnią wywabione,
+Są słuchaczami córki.
+
+
+GWINONA
+
+                        Zwyciężyła!
+Dobądźcie z wieży starego Derwida.
+O! głupie węże! o! przeklęte gady!
+Córce odebrać harfę i wypędzić.
+Derwida zamknąć w podziemne ciemnice;
+Czego nie zrobił wąż, dokażę głodem.
+Czy go nakarmi córka, zobaczycie.
+
+
+SYGOŃ
+
+A z tym Salmonem co zrobić?
+
+
+LECH
+
+                        Zamknąć go
+W jednym więzieniu z Derwidem… zamorzyć;
+Oba są warci zgonu, czarownicy.
+
+/ Wychodzą. /
+
+
+CHÓR DWUNASTU HARFIARZY
+
+O! święta ziemio polska! arko ludu!
+Jak zajrzeć tylko myślą, krew się lała.
+W przeszłości słychać dźwięk tej harfy cudu,
+Co wężom dała łzy i serca dała.
+Słuchajcież wy! gdy ognie zaczną buchać,
+Jeżeli harfy jęk przyleci z dala,
+Będziecież wy jak węże stać i słuchać?
+Będziecież wy jak morska czekać fala,
+Aż ścichnie pieśń i krew oziębnie znowu
+I znów się staną z was pełznące węże?
+Aż rzucą was do mogilnego rowu,
+Gdzie z zimnych jak wy serc się hańba lęże?
+    Już czas wam wstać!
+Już czas wam wstać i bić, i truć oręże.
+
+
+
+
+AKT IV
+
+
+
+SCENA I
+
+/ Sala w zamku LECHA. Lech, Gwinona, Gryf. Wchodzi Lilla Weneda. /
+
+
+LILLA WENEDA
+
+W niezawiązanej przychodzę koszuli,
+Nie niosę chleba, nie mam nic przy sobie,
+Lecz wy mnie puśćcie do ojca mojego,
+Który od dwóch dni jest morzony głodem.
+Ja go zobaczyć chcę tylko przed śmiercią,
+Jam go nie mogła zbawić, więc pożegnam.
+Dlatego głowę ubrałam w lilije,
+W te wodne kwiaty, które u nas kładną
+Dziewicom zmarłym na ostygłe czoła.
+O! Pani! spuść ty ze swojej srogości!
+Ja biedna, zimne węże rozczuliłam,
+I tak się do mnie gady przywiązały,
+Że za mną cały kłębek biegł i syczał,
+Jak pies wyjący smutnie z przywiązania.
+I cóż ja winna, że węże wolały
+Słuchać mej pieśni niż mojego płaczu?
+A żem ja węże zimne rozczuliła,
+Dlaczegóż w tobie powiększyłam srogość?
+Czy ty zazdrościsz mi, pani, zwycięstwa,
+Które mi ojca mego wybawiło?
+O! jeśli tak jest, to weź go za ojca,
+A ja go będę na śmierć skazywała,
+A ty go będziesz bronić — i zwyciężysz,
+Bo ten zwycięża tu, kto broni. —
+Lecz nie, ja teraz jestem zwyciężoną,
+Mój ojciec pewnie już od głodu skonał;
+A ja chcę tylko widzieć jego ciało,
+W czoło chcę tylko pocałować zimne,
+Powiedzieć jego głuchemu trupowi,
+Że go nie mogłam zbawić, lecz kochałam.
+O! patrz! koszula moja niezwiązana,
+Nie niosę chleba, ani żadnej strawy —
+Może się boisz, że jak drzwi otworzę,
+To wleci za mną jaka muszka złota
+I ten ją starzec zje? — O! pani moja,
+Bóg muchy strzeże od śmierci — ta muszka
+Będzie mieć jaką córkę, co ją zbawi.
+Ja tylko jedna, ja nie mam nikogo,
+I nikt się o mnie biedną nie upomni.
+O! proszę ja was, każcie wy mnie wpuścić
+Do mego ojca głodnego.
+
+
+LECH
+
+                        Gwinona,
+Na Boga, te łzy miecz mi rozhartują.
+
+
+GWINONA
+
+I ty jej wierzysz? To są łzy zmyślone,
+Ona dwa razy tak płakała głośno,
+Za te trzy płacze, ona się trzy razy
+Odśmieje ze mnie, jeśli ojca zbawi.
+
+
+LECH
+
+I cóż ci ludzki śmiech, Gwinono, szkodzi?
+
+
+GWINONA
+
+Lechu! śmiech ludzki jest zabójczą bronią;
+Więcej on strącił koron z głów posępnych,
+Niż ci się zdaje; o! śmiech to gadzina,
+Która się w sercu wyśmianego kryje
+I tam go kąsa, kąsa, do krwi kąsa,
+Aż wreszcie siły w człowieku omdleją
+I powie sobie: jestem zwyciężony.
+Śmiech nas pozbawia zaufania w sobie
+I rodzi niemoc; ja znam takich ludzi,
+Z których się żaden żywy śmiać nie waży;
+Ci ludzie mają królestwo nad tymi,
+Którzy są śmiechu ludzkiego poddani.
+
+
+LILLA WENEDA
+
+Królowo! Czegoż ty się teraz boisz?
+Czy tu są tacy, co wyśmieją litość?
+Widziałam w twoim sypialnym pokoju
+Okno, którego nigdy nie zamykasz,
+Bo w nim jaskółka uwinęła gniazdo:
+Więc ty masz litość: a czy kto się śmieje,
+Że ty masz litość nad jaskółką? Pani!
+Więc ja znalazłam w twoim sercu litość!
+Trzebaż być jeszcze, jeszcze nieszczęśliwszą,
+Ażebyś ty się, pani, zlitowała?
+Więc każ mi wydrzeć te spłakane oczy,
+A potem zlituj się nade mną ślepą
+I każ mnie wpuścić do ojca ślepego.
+O! proszę! proszę! każ mi wydrzeć oczy.
+
+
+GWINONA
+
+Smutny to żebrak, co grosz wydrze nudą.
+
+
+LILLA WENEDA
+
+O! będę nudzić, nudzić, aż zezwolisz.
+
+
+GWINONA
+
+Gryfie, każ wpuścić ją do tej ciemnicy,
+Gdzie siedzi ojciec jej morzony głodem.
+Lilla Weneda i Gryf wychodzą.
+Lechu! na twoją to zrobiłam prośbę.
+Cóż mi tak smutny stoisz i ponury?
+
+
+LECH
+
+Gwinono, syn nasz w niewoli.
+
+
+GWINONA
+
+                        W niewoli?
+Mój syn w niewoli? Mój Lechon w niewoli?
+Nie — ty mnie straszysz. — Nie wiesz sam, co mówisz.
+On mi się dzisiaj śnił. — O! Boże! Boże!
+Na syna mego zgubę pracowałam.
+Syn u Wenedów! Lechon u Wenedów!
+Lechon — on nie ma takiej córki!
+
+
+LECH
+
+                        Żono!
+Ja go odbiję.
+
+
+GWINONA
+
+                        Trupa ty odbijesz!
+O! Lechu, na koń! na koń! na koń, Lechu!
+Wszyscy rycerze! zbierz wszystkich rycerzy!
+Jeśli wrócicie żywi bez Lechona,
+Ja się zabiję — będę plwała w oczy!
+Ja się zabiję… Cóż, wy tchórze? na koń!
+
+/ Wybiega. /
+
+
+LECH
+
+Niech się wykrzyczy, krzyk nic nie pomoże,
+Dziś za mego Lechona stu trupem położę.
+
+/ Wychodzi. /
+
+
+
+SCENA II
+
+/ Błonie. Ślaz wchodzi. /
+
+
+ŚLAZ
+
+Moja nieboszczka matula mówiła,
+Że kłamstwem wyjdę na pana — to kłamstwo,
+Co mi matula mówiła o kłamstwie —
+Ergo: jeżeli więc mówiła kłamstwo,
+Powinna była zrobić tym fortunę:
+Umarła goła jak Lazarus, a ja
+Ledwom się kłamstwem nie usalmonował
+Na wieki wieków, to szczęście, że jakoś
+Mojego pana zrobiwszy Salmonem,
+(Niechaj mu światło wiekuiste świeci),
+Uciekłem z zamku i dobrze się stało;
+Gwalbertus, mój pan, został męczennikiem
+I pod imieniem świętego Salmona
+Króluje w niebie, więc dobrze się stało —
+Lecz to jest kwestia… quomodo uniknąć
+Głodu na puszczy i zrobić fortunę?
+Już próbowałem chrześcijańskiej paszy,
+Już próbowałem rycerskiego chleba,
+I zawsze chudy jak słomka… więc ergo,
+Pan Ślaz niech rusza prosto do Wenedów —
+W jakim kolorze? W kolorze Wenedów.
+Jako szpieg? — a fuj — nie szpieg, lecz nowiniarz.
+Zemsty nowiniarz, blekotnik nowiniarz;
+Człowiek ognistej mowy, krwawych zębów
+I czerwonego języka.. więc ergo,
+Gdy zapytają: „Czy widziałeś Lecha?”
+Widziałem; „A co robi?” — Gdym go widział,
+To jadł Weneda z solą. „A Gwinona?”
+Gwinona we krwi się dziatek kąpała. —
+„A cóż się stało z naszym starym królem?” —
+A ja pokażę tak: język wywalę
+I zamknę oczy: wasz król est finitus.
+„A jego córka?” — A ja łzy jak z wiadra
+Popuszczę na to i nic nie odpowiem,
+Albo odpowiem jakie nowe kłamstwo,
+Takie żałosne kłamstwo, że uwierzą
+I jeść mi dadzą — za to, żem się spłakał.
+
+/ Wychodzi. /
+
+
+
+SCENA II
+
+/ Sala w zamku Lecha. Lech, Gwinona, RYCERZE. /
+
+
+LECH
+
+Na Boga! bądźże cierpliwą! na Boga!
+Mój oddział jeszcze z podjazdu nie wrócił.
+
+
+GWINONA
+
+Ty gadasz! a tam mój syn roztargany?
+O! straszna! głupia jest cierpliwość twoja!
+Jak nienawidzę w ludziach cierpliwości!
+Często im wcale czekać nie potrzeba,
+Ale dlatego, że ktoś prosi: *„śpiesz się*”,
+To oni różne wynajdują zwłoki,
+Aby pokazać wyższość i rozwagę,
+I nad palącym się sercem panować.
+Lechu! czy wiesz ty, ile chwil potrzeba,
+Aby zabito bezbronnego jeńca?
+Dziwna cierpliwość! okropna cierpliwość!
+O! Lechu, jeśli mój syn biedny zginie,
+To w dzień i w nocy będę ci krzyczała:
+Tyś syna twego zabił cierpliwością!
+Ja wtenczas będę w wyrzutach cierpliwą,
+Cierpliwie będę ci kąsała serce;
+We mnie ty zbrzydzisz cierpliwość; — O! kacie,
+O! kacie twego nieszczęsnego syna!…
+Ach! Boże, daj co gryźć mojemu sercu,
+Bo ja bym teraz serce męża gryzła.
+Ja wiem, co powiem: Lechu! — jesteś tchórzem!
+
+
+LECH
+
+Tchórzem nie jestem.
+
+
+GWINONA
+
+                        Więc ojcem nie jesteś!
+Czymże ty jesteś? — kawałkiem żelaza?
+
+
+LECH
+
+O! tego nadto! — nadto! — Ty dotychczas
+Byłaś w domostwie samowładną panią.
+Jam ci ulegał, bojący się wrzasku,
+Ty napełniałaś mój dom okrucieństwem.
+Na Boga, już mi to się wreszcie nudzi.
+Rycerzy moich garsteczka maleńka,
+Podjazdem i te siły rozerwane;
+A ci Wenedzi z dwunastu się krain
+Zeszli i całe okrywają pole.
+Tam są olbrzymie Scyty, co krew piją
+W człowieczych czaszkach, wyznawce Odyna;
+Tam są Letoni, co na hełmach noszą
+Rogi żywemu wyrwane turowi;
+Tam jest Mazonów lekkie pokolenie,
+Co głowy jako szczygły ubierają
+W czerwoną krasę i pomiędzy hełmy
+Migocące się niosą pióra pawie;
+Nad tymi tłumy dwunastu Harfiarzy;
+Nad harfiarzami straszna prorokini,
+Na samym szczycie ludzkiej piramidy
+Błyskawicami gadająca — a ja
+Z rycerzy garstką mam wstąpić w mrowisko?
+Ja, co te ludy chcę wyciąć do szczętu?
+Nie czekać, aż mi w noc błyskawicową
+Z nieba lejące pomogą pioruny?
+Szalona jesteś — szalona, kobieto!
+
+
+GWINONA
+
+O! widzę, że już ciebie nie przełamię!
+Widzę już! widzę mego syna trupem!
+
+
+LECH
+
+Syn twój powróci, syn powróci, nie płacz.
+
+
+GWINONA
+
+O! jużem ja go teraz opłakała.
+O! rozpacz! rozpacz!… o! rozpacz! on skonał.
+
+/ Lilla Weneda wchodzi bez wianka liliowego na głowie. /
+
+
+LILLA WENEDA
+
+Królowo! ojca mego nakarmiłam.
+Mój ojciec do mnie należy, królowo!
+Widzisz, powracam bez kwiatów, bez wieńca,
+W lilijach było mego ojca życie;
+Ja życie ojca przyniosłam na głowie,
+Jego zbawieniem ukoronowana.
+Nie wierzysz? Spytaj każdego Weneda;
+Lilije wodne nas od głodu bronią,
+Ilekroć zboże roku nie dotrzyma.
+Ty nie wiedziałaś, że ten wieniec biały
+Zdziecinniałemu będzie piersią matki,
+Że on go będzie ssał, śmiał się i płakał,
+Podnosząc puste powieki do nieba,
+Bogu dziękował za córkę i kwiaty.
+O! teraz ojciec mój! — jam go zbawiła.
+Lechu, słyszałeś, jaki był warunek?
+Nie pozwól, królu, żonie łamać wiary.
+
+
+GWINONA
+
+Patrz! patrz! patrz! ona ojca wybawiła
+I tu mnie przyszła zagłuszyć radością;
+A kiedy ona mówiła o ojcu,
+To ja nieszczęsna myślałam o synie;
+A kiedy ona lała łzy rozpaczy,
+To ja nieszczęsna krwią płakałam w sercu. —
+Weź ojca swego! weź! — ja potrzebuję
+Nauczyć teraz was wszystkich litości.
+Ja bym głaskała ręką wasze tury,
+Prosząc o łaskę ich nad moim synem;
+Ja bym szczepiła wasze kwaśne grusze
+Miodem litości — a sosen szumowi
+Dałabym matki głos, jęki i prośbę.
+O, każcie tutaj starca przyprowadzić,
+Ja go odeślę ojcem memu dziecku.
+
+/ Rycerzy kilku wychodzi. /
+
+
+LILLA WENEDA
+
+Pani! ty dobra jesteś, o! ty dobra.
+Już ja nie powiem, żem ojca zbawiła;
+Ale, że ty mi dałaś mego ojca.
+Obaczysz! jak to serce drży z radości
+Temu, kto biednym ludziom dopomoże.
+Derwid wchodzi i RYCERZE.
+Ojcze, wracamy do nas — ta królowa
+Dała mi ciebie. Ojcze, chodź na słońce,
+Bądźcie mi zdrowi, królu i królowo,
+Chodź, ojcze! — Bądźcie zdrowi! bądźcie zdrowi!
+
+
+DERWID
+
+Córko! a moja harfa?
+
+
+LILLA WENEDA
+
+                        O! królowo!
+Widzisz, mój ojciec cały drży z radości.
+Aleś ty pewnie, pani, zapomniała,
+Że ci nie może dziękować oczyma,
+Więc ja za niego leję łzy — i jeszcze
+Za ojca mego muszę być natrętną:
+Ja ciebie proszę, wróć mu harfę złotą,
+Którą mój ojciec miał od swego ojca;
+O! wróć mu, pani, tę harfę! o! wróć mu!
+
+
+GWINONA
+
+Przynieście harfę, którą ja kazałam
+W cedrowej skrzyni uśpić rozpłakaną.
+
+
+LILLA WENEDA
+
+Ojcze, ty harfę mieć będziesz.
+
+
+DERWID
+
+                        Oddała?…
+
+
+GWINONA
+
+/ na stronie do LECHA /
+
+Widziałeś, Lechu, gdy wspomniał o harfie,
+To z jego powiek wybiegły czerwone
+Dwie łzy, ogromne łzy — czy uważałeś?
+To były straszne łzy…
+
+
+LECH
+
+                        I cóż, kobieto?
+
+
+GWINONA
+
+Co?… nie rozumiesz… Córka albo harfa
+Zostanie tutaj zakładnicą… widzisz,
+Ten człowiek musi wybrać między dwiema,
+A ja w zakładzie wezmę rzecz wybraną:
+Rozumiesz? Gdyby nie te łzy czerwone,
+Anibym kiedy była pomyślała,
+Że tu jest wybór.
+
+
+LECH
+
+                        Już widzę, już widzę.
+
+
+GWINONA
+
+Milcz.
+do Derwida
+                        O! Derwidzie, czy Wenedzi macie
+Nienasycone serca? Przed godziną,
+Wiercony srogim głodem aż do kości
+Byłbyś poprzestał na kawałku chleba…
+Lecz teraz, w miarę łask żądania rosną,
+Dałam ci wolność, tyś harfy zażądał —
+A otrzymawszy wszystko, będziesz mścił się…
+
+
+DERWID
+
+Każ odprowadzić mnie więc do więzienia;
+Trupi się nie mszczą.
+
+
+GWINONA
+
+                        O! twardy człowieku,
+Nigdyż twe serce przede mną nie zadrży?
+
+
+DERWID
+
+Wyjm je i zobacz.
+
+
+GWINONA
+
+                        Ja ci daję wolność…
+
+
+DERWID
+
+I chcesz tu z króla uczynić żebraka?
+Już mnie z postaci masz prawie żebrakiem,
+Jeszcze chcesz serca mego żebraniny?
+Na moje ciało ty liczysz zgrzybiałe,
+Na me kolana ty rachujesz drżące,
+Że mnie przed tobą powalą?… Nie, jędzo!
+Nie! nie! nie!… Córko, daj mi rękę… Jędzo!
+Przed tobą skonam stojąc i zastygnę,
+Wtenczas twe dziecko mnie paluszkiem trąci
+I padnę… padnę… ale pókim żywy,
+To jestem równy tobie… król i człowiek.
+
+
+GWINONA
+
+/ do wnoszących harfę /
+
+Postawcie przy nim bliżej harfę złotą,
+Niechaj się na niej oprze ręką drugą.
+Stawiają harfę przy Derwidzie. Starzec jedną rękę na harfie, drugą kładzie na głowie córki.
+Widzisz, ta harfa równa córce wzrostem;
+A gdyś w niewoli był, obie zarówno
+Płakały… obie jak córki… O! teraz
+Wybierz pomiędzy płaczkami, Derwidzie,
+I niech wybrana idzie z tobą w lasy,
+A druga córka twoja odrzucona
+Ze mną zostanie… i będzie zakładem.
+
+
+DERWID
+
+Córko! co ona mówi?
+
+
+LILLA WENEDA
+
+                        Ojcze drogi,
+Ta pani harfę ci oddaje złotą.
+
+
+DERWID
+
+Tę harfę?
+
+
+LILLA WENEDA
+
+                        Ojcze, harfę.
+
+
+DERWID
+
+                        Już oddała?
+To chodźmy, córko.
+
+
+LILLA WENEDA
+
+/ do GWINONY /
+
+                        Pani, ja powrócę,
+I będę twoją niewolnicą… Ojcze!
+Chodźmy już.
+
+
+GWINONA
+
+                        Harfę porzucasz, Derwidzie?…
+
+
+LILLA WENEDA
+
+Nie mów tak głośno — jam cię zrozumiała.
+Okropną jesteś — zlituj się nade mną.
+Jeśli mnie żywą chcesz mieć, to nie żądaj
+Mieć porzuconą przez własnego ojca.
+Serce mi pęknie i będziesz tu miała
+Trupa, nie córkę, o! bo w moim sercu
+Jest tyle złotych strun, jak na tej harfie,
+Lecz wszystkie pękną od razu z boleści
+Jednym wyrazem ojcowskim stargane —
+I nad nim także litość miej, i nad nim!
+Proszę cię, sroga, miej i nad nim litość!
+
+
+GWINONA
+
+Będzieszli zawsze jak mała ptaszyna
+Skrzydełkiem w oczy bić błyszczące węża?
+Jeślim wyrzekła — to chcę. Kto mi wzbroni
+Spróbować serca ojcowskiego? I tu
+Usprawiedliwić siebie, żem je gryzła?
+Wytłumacz ojcu sama, czego pragnę.
+
+
+LILLA WENEDA
+
+O, nielitośna! — Ojcze, ta królowa
+Oddaje tobie tylko jedno dziecię.
+Ty wybierz sobie dziecko, które śpiewa,
+A zostaw dziecko, które tylko płacze…
+Ja wiem, że ty mnie kochasz, ojcze drogi,
+Lecz nie wybieraj mnie, bo nieszczęśliwy,
+Jeżeli zechcesz o nieszczęściu śpiewać,
+To znajdziesz we mnie tylko echo płaczu,
+A w harfie echo nieśmiertelne. Ojcze,
+Wybierz, co kochasz, a to, co odrzucisz,
+Kochaj…
+
+
+DERWID
+
+                        Niebiosa! — córko, gdzie ty jesteś?…
+Ja kocham moją córkę. — O! gołąbku,
+Chodź i ślepego prowadź. Córko — prowadź
+I wyjdźmy prędzej stąd. — Córko, a harfa?
+
+
+LILLA WENEDA
+
+O! harfa skarży się, żeś ją opuścił.
+
+/ Trąca o struny. /
+
+
+DERWID
+
+Harfa się skarży na mnie?
+
+
+LILLA WENEDA
+
+                        Ojcze, jęczy.
+
+
+DERWID
+
+Jęczy!… Gdzie moja harfa?… czy to mara,
+Czy to duch mojej harfy rozpłakanej
+Stoi przede mną w promieniach; i skrzydła
+Roztworzył, jakby z płaczącymi jęki
+Już odlatywał do nieba… Ha!…
+Lilla znów porusza struny.
+                        I znów.
+Słyszycie! harfa jęknęła… słyszycie?
+O! dajcie, niech ją obejmę w ramiona!
+Dajcie! to córka królów rozpłakana.
+Chwyta harfę, obejmuje i ucieka z nią.
+Gdzie drzwi? — rycerze, gońcie mnie z mieczami!
+O! ja tej harfy nie dam… Harfy nie dam!
+
+/ Pada piersią na harfie. /
+
+
+LILLA WENEDA
+
+Widzicie! ręce pokrwawił na strunach.
+Wstań, dobry ojcze. — O! patrzcie! o patrzcie!
+Usta położył na strunach, całuje,
+A te niedobre struny i niewdzięczne
+Usta mu krwawią. — O! struny! o! struny!
+Wy nie jesteście córkami. — Królowo,
+Widzisz, mój ojciec wybrał; lecz jeżeli
+Myślisz ty, pani, że ja teraz płaczę
+Dlatego, że mnie ojciec mój porzucił:
+O! bądź przeklęta za tę myśl! — To radość
+Wyrywa z oczu moich łzy, to radość.
+Niechaj nikt ojca mojego nie sądzi.
+Dzisiaj karmiony starzec lilijami
+Mnie tak całował w usta i we włosy,
+I do mnie tak się przytulał rozpacznie,
+Jak się do harfy odzyskanej tuli.
+A że ja płaczę, to tylko dlatego,
+Że przypominam ojca pocałunki
+W ciemnym więzieniu… i łzy moje głupie
+Pytają same serca, czemu płacze.
+
+
+GWINONA
+
+Odedrzeć starca od harfy.
+
+
+LILLA WENEDA
+
+/ podnosząc ojca /
+
+                        Widzicie,
+On już łagodny jak baranek.
+
+
+GWINONA
+
+                        Starcze!
+Syn mój najstarszy, Lechon, syn mój drogi,
+Jest niewolnikiem twoim, a ta harfa
+W zakładzie, moją będzie niewolnicą,
+Aż mi żywego wrócisz syna.
+
+
+DERWID
+
+                        Harfa?
+Ja stąd bez harfy nie wyjdę.
+
+
+LILLA WENEDA
+
+                        O! pani!
+Więc jeszcze raz się rzucę na kolana
+I będę ciebie prosiła ze łzami:
+Oddaj mu harfę… a mnie weź. Czy myślisz,
+Że twego syna, jeśli jeszcze żywy,
+Ten starzec nie da za córkę? O! pozwól!
+Niech tylko mego ojca odprowadzę,
+On ślepy — tylko odprowadzę ojca,
+A sama wrócę; a że ja powrócę,
+To niech ci harfa ta będzie zakładem.
+Ale przysięgnij, że za niewolnicę
+Królewnę — harfę wypuścisz z niewoli;
+A gdy przysięgniesz, to ja pewnie wrócę.
+Bo cóż mi teraz życie! Cóż mi życie!
+O! ty wiesz sama, że ja pewnie wrócę.
+
+
+GWINONA
+
+Jakiż mi zakład z córki niekochanej?
+
+
+LECH
+
+Na Boga! dosyć, Gwinona! już dosyć!
+Ta córka warta dziesięciu Lechonów.
+Przysięgam, jeśli z Lechonem powróci,
+To weźmie harfę, Lechona i moje
+Błogosławieństwo; jeśli wróci sama,
+To i tak za nią, przysięgam na Bogi!
+Oddasz kawałek płaczącego drewna.
+
+
+GWINONA
+
+Słyszysz? jak mówi mój mąż, tak się stanie.
+
+
+LILLA WENEDA
+
+Dzięki wam! dzięki! — Ojcze, dziś wieczorem
+Harfę ci twoją postawię do grania.
+Ty wiesz, ja dotąd nigdy nie skłamałam.
+A teraz — o, królowie: do widzenia.
+Przyjdzie po harfę Lilla niewolnica. —
+Chodź, dobry ojcze.
+
+
+DERWID
+
+                        A harfa?
+
+
+LILLA WENEDA
+
+                        Ta idzie
+Za nami, ojcze.
+do Lecha
+                        Szlachetny rycerzu!
+W twoim więzieniu został smętny starzec,
+Także niewinny.
+
+/ Odchodzi z ojcem. /
+
+
+LECH
+
+                        Ha… to ten czarownik.
+Sygonie, każ go wypuścić na wolność.
+W ludziach anielstwa tyle, że nie można
+Traktować jak psów… wypuścić go z wieży.
+A teraz chodźmy stroić się do walki.
+
+/ Wychodzi. /
+
+
+GWINONA
+
+Połóżcie harfę w skrzyni cedrowej — ta harfa
+Dla mnie jest teraz Lechonem… Nie kładźcie
+W tej trumnie z drzewa harfy… bo pomyślę,
+Że syn mój drogi, Lechon, w trumnie leży;
+A jeśli stanie się jakie nieszczęście
+Z moim kochanym dzieckiem, to przypomnę
+Tę harfę w trumnie i będę myślała,
+Że sama syna położyłam w trumnie.
+Natura może stąd wziąć pochop i to
+Wtrumnienie harfy strasznie naśladować
+Rzeczywistością. — Wynieście ją za mną. —
+Okropny zachód słońca — i te mury
+Zdają się krwawe od promieni. — Gryfie,
+Dziś w nocy będzie burza — chmury warczą.
+Wy się będziecie dziś bić ostatecznie.
+
+/ Wychodzą. /
+
+
+
+SCENA IV
+
+/ Grota wróżki, oświecona czerwonym blaskiem. Roza Weneda stoi przy otworze groty i do zachodzącego słońca śpiewa runiczną inwokację. — Dwunastu Harfiarzy. /
+
+
+ROZA WENEDA
+
+Do krwi, złote słońce! do krwi, słońce!
+Ty, ostatnie słońce, we krwi gaśnij!
+Tu na walkę, wrony! kruki! orły!
+Tu na walkę, psy wyjące smutnie!
+Tu na walkę, chmury z piorunami!
+Tu, szumiące wichry!… słońce, gaśnij!
+Kruki! orły! wichry i pioruny,
+Dajcie hasło! chmury, dajcie hasło!
+
+/ Słychać daleki grom. /
+
+
+HARFIARZ
+
+Grom usłyszał i odzywa się głucho.
+
+
+ROZA WENEDA
+
+Do mnie! do mnie! do mnie! tu, pioruny!
+Tu, nad głową moją jako wieniec.
+Niech ja mściwa z was mam włos — pioruny!
+Kiedy wyjdę z groty w krew rozlaną,
+Gdy za ojca mego stanę tronem,
+Słuchająca jęków i czerwona
+W krwi wyziewach, w koronie z błyskawic.
+
+
+HARFIARZ
+
+Cóż ci mówią wróżby? cóż wyrzekły?
+
+
+ROZA WENEDA
+
+Człek na człeka jak pies pójdzie wściekły.
+Grom czerwony się gryźć będzie z błękitnym.
+Krew poniesie z sobą tron Derwida
+I król będzie płynął z harfą, z tronem,
+Jako kawał kry.
+
+
+HARFIARZ
+
+                        O! biada! biada!
+
+
+ROZA WENEDA
+
+Okropniejszą rzecz widziałam, blada.
+Krew podmyła tron i wzięła z sobą.
+Król na tronie włosy rwał i rzucał,
+A pioruny je paliły w powietrzu. —
+Lecz nie mówcie nic jutrzejszym trupom.
+
+
+HARFIARZ
+
+Cóż wyrzekły wróżby? powiedz, straszna!
+
+
+ROZA WENEDA
+
+Wczoraj kości warzyłam na polu,
+Mózg gotował się w czaszkach człowieczych
+I wilgotna kość jęczała na ogniu.
+Słuchająca wrzasku tych umarłych,
+Pomazałam krwią zamknięte oczy…
+I nagle! —
+Widmo straszne wyszło z ognia do mnie
+I zawiodło mnie na walkę duchów.
+Słuchajcie! —
+Wódz dwie głowy miał: wtem jedna głowa
+Oczy nagle jako trup zawarła,
+Spadła na nią iskra piorunowa;
+I ta głowa smętna, już umarła,
+Jęła smutnie mówić z drugą, żywą,
+Aż skry zjadły jak smolne łuczywo
+Rozpłakaną tułowu koronę.
+I spojrzałam w drugą walki stronę,
+Odwróciwszy się jak od gasnącej główni
+Od półmartwej osoby.
+I tam stali ludzie w szyku, równi,
+Równi, zimni, biali jako groby,
+Miecz je walił, gdy piorun był niemy,
+Czasem walił piorun i miecz razem.
+Wtem ktoś cicho wykrzyknął: „Giniemy!”
+I tysięcy sześć — nietkniętych żelazem —
+Sześć tysięcy bez ducha upadło,
+Jakby je kto struł. — Nadeszłam z nożem —
+Otworzyłam jeden tułów trupowy,
+I znalazłam, że w nim serce zbladło
+I tak trzęsło się jak liść olchowy:
+Więc plunęłam temu sercu w usta
+I rozcięłam drugą pierś dla ptaków;
+Lecz znalazłam w niej kłębek robaków
+Zamiast serca.. I pierś trzecią rozdarłam
+I spojrzałam w nią… lecz była pusta!
+I nie było w niej serca! Jak chusta
+Zbladłam we śnie i we śnie umarłam,
+Widząc, że w niej serca nie było!
+
+
+HARFIARZ
+
+Cóż to znaczy?
+
+
+ROZA WENEDA
+
+                        Nad naszą mogiłą
+Wejdzie słońce, lecz nie mówcie ludowi.
+
+/ Dwunastu Wodzów wchodzi do groty. Wszyscy różnie ubrani. Jedni na hełmach turze, drudzy jelenie mają rogi, u innych tylko pióro pawie lub czaple. Pancerze z siatki lub z łuski. Miecze olbrzymie w rękach. /
+
+
+ROZA WENEDA
+
+Oto wodze są. — Cóż, piorunowi?
+Wiele ludu?
+
+
+WÓDZ
+
+                        Dwanaście tysięcy.
+
+
+ROZA WENEDA
+
+Pijcie z czaszek tych i bladej śmierci
+Urągajcie się, pijąc; niech wyje.
+
+
+WÓDZ
+
+Cóż ci mówiły wróżby?
+
+
+ROZA WENEDA
+
+                        Jeśli podczas walki
+Ojciec mój z harfą złotą na kamiennym tronie
+Zagra pieśń, ową straszną pieśń, od trzech pokoleń
+Niesłyszaną; to przy nas zwycięstwo.
+
+
+WÓDZ
+
+                        Twój ojciec
+I harfa jego złota w niewoli.
+
+
+ROZA WENEDA
+
+                        Bez wiary! —
+Ojciec mój na tronie czarnym stoi
+Za swą harfą, jak za słońcem czerwonym.
+Każdy harfy ton jak rycerz w zbroi
+Na rumaku wybiega szalonym;
+Jako rycerz-duch głos każdy leci
+I obala z rumakami rycerzy.
+Ile strun, tyle wężów wybieży
+Z harfy ojca i oczyma zaświeci,
+I skrzydłami ognistymi okręci
+Wojsko Lecha.
+
+
+WÓDZ
+
+                        Gdzież wódz jest dwugłowy?
+
+
+ROZA WENEDA
+
+Nie wierzycie mi, ludzie przeklęci?
+Rzućcie czary te w krąg Derwidowy.
+W kręgu trupich głów wodza postawię.
+
+
+WÓDZ
+
+Nie uwierzym, aż ujrzym oczyma.
+
+
+ROZA WENEDA
+
+Ty, co nosisz złote piórko pawie,
+Migocące od pierwszych błyskawic,
+Odwal kamień, ten kamień olbrzyma. —
+Cóż? Nie możesz? — Więc dwanaście prawic
+Niech ten kamień odwali — choć ruszy.
+
+
+WODZE
+
+Nie możemy.
+
+
+ROZA WENEDA
+
+                        Więc rękami go duszy
+Ja podniosę — i niech idzie do piekła.
+
+
+WODZE
+
+Cudy! słowo zaklęte wyrzekła
+I ten kamień wstał.
+
+/ Roza Weneda wchodzi, odwaliwszy kamień, do podziemnego lochu i wyprowadza Lelum i Polelum, przykutych za ręce łańcuchem do siebie. /
+
+
+ROZA WENEDA
+
+                        I wódz się zjawił.
+Patrzcie! łańcuch, co ręce pokrwawił,
+Z dwóch uczynił jednego człowieka…
+Chodź tu między czaszki, wodzu blady,
+Bo już piorun niespokojny szczeka…
+Włożę wam zbroję.
+Kładzie na czoła braciom dwa hełmy i złączonych razem uzbraja jak jednego rycerza… Tarcza olbrzymia na ręku Lelum zawieszona obu braci zakrywa. Polelum w prawą rękę, wolną od łańcucha miecz bierze. — Roza Weneda, zawieszając tarczę, mówi do Lelum:
+Ty będziesz bronił swego brata tarczą.
+do Polelum
+Ty go zakryjesz miecza błyskawicą…
+Biada, kto swego nie dopełni! biada!
+Jesteście jednym rycerzem, mścicielem;
+A gdy nie będzie was, to jęk żałosny
+Przeleci wieki i zwiąże imiona.
+Jęk jeden będzie po dwu zgonach waszych;
+Po waszych sercach roztrzaskanych w piersi
+Jedna zostanie żałość w tej ojczyźnie,
+Nierozróżniona, jako w sercu matki. —
+Krwi! krwi ofiarnej!
+
+
+POLELUM
+
+                        Weź z mojego łona.
+
+
+ROZA WENEDA
+
+Tu krwi potrzeba obcej, z niewolnika.
+Wchodzi do lochu i wyprowadza na scenę LECHONA.
+To syn królewski. Patrzcie, jaki blady.
+
+
+LECHON
+
+Zlitujcie wy się, ludzie, mej młodości!
+Ta grota pełna przerażeń i wasze
+Twarze są blade i przygotowane
+Do zemsty. Wiem ja, że wy macie prawo
+Mścić się nade mną i odebrać życie:
+Lecz gdyby tutaj była moja matka,
+Królowa dumna i sroga kobieta,
+Ona by was tu przekonała łzami,
+Że ja potrzebny jestem na tym świecie
+Jak słońce, księżyc — jej i wam potrzebny,
+Że wam śmierć moja na nic się nie przyda,
+A życie moje jeszcze może zdać się. —
+Nie zabijajcie mnie, nie zabijajcie!
+Król wasz u mego ojca niewolnikiem,
+Za syna swego ojciec odda króla;
+Za mój włos każdy da wam ziemi włokę —
+A patrzcie, jakie ja mam gęste włosy,
+Matka je moja nieraz całowała.
+Czy tu nikt nie ma matki?… A więc jeszcze
+W sierotach większa być powinna litość.
+
+
+ROZA WENEDA
+
+Krwi tej nie wezmę — za podła. Idź jęczeć!
+Wpycha Lechona do lochu.
+Czerwieńszą znajdę krew w sercu gołębia.
+Ślaz wchodzi prowadzony przez dwóch wenedyjskich rycerzy.
+Cóż to za człowiek?
+
+
+ŚLAZ
+
+                        Ja tu dobrowolnie
+Przychodzę, proszę wierzyć — dobrowolnie.
+
+
+ROZA WENEDA
+
+Lechitą jesteś?
+
+
+ŚLAZ
+
+                        O! gdyby nie respekt
+Dla was, rycerze, i dla tej mocarki,
+Wziąłbym pytanie za obelgę. Mówcie
+Że ja pies — dobrze; mówcie, że ja sowa —
+Dobrze; mówcie, że bocian — doskonale! —
+Lecz mówić, że ja Lechita! — mnie? — w oczy! —
+Gdybym nie mienił to być uchybieniem,
+Plunąłbym w oczy temu, kto zapytał,
+Czy ja Lechita. — Cóż to? czy mi z oczu
+Patrzy gburostwo, pijaństwo, obżarstwo,
+Siedem śmiertelnych grzechów, gust do wrzasku,
+Do ukwaszonych ogórków, do herbów?
+Zwyczaj przysięgać in verba magistri?
+Owczarstwo? — czy to wszystko mam na twarzy?
+Jeśli tak, wodą mnie zlejcie gorącą,
+Niechaj oblezie ze mnie pierwsza skóra.
+
+
+ROZA WENEDA
+
+Milcz.
+do Wenedów
+                        Gdzie pojmaliście tego człowieka?
+
+
+RYCERZ WENED
+
+Dążył od strony Lechitów i wiele
+Okropnych rzeczy w drodze opowiadał.
+On widział króla naszego Derwida
+Zamęczonego, siostrę twą zabitą.
+
+
+ROZA WENEDA
+
+/ do ŚLAZA /
+
+Piekielny! Kłamiesz.
+
+
+ŚLAZ
+
+                        Klnę się na te czaszki,
+Ja sam wrę zemstą, ja sam zemstą płonę;
+Dajcie mi w ręce cokolwiek, miecz, rożen,
+Pierwszą broń dajcie, a ja mścić się będę.
+szlochając
+Ten król szanowny! ten starzec sędziwy!
+Ta niebotyczna królewna!… miecz dajcie,
+Jeśli potrzeba wodza — będę wodzem;
+Jeśli człowieka tylko trzeba — jestem;
+Jeśli tygrysa, adsum; jeśli księdza —
+Do usług; jeśli Ganimeda — zgoda.
+
+
+ROZA WENEDA
+
+Mówisz o zemście?… tu zemsta pod ziemią.
+
+/ Bierze nóż i wchodzi do lochu, gdzie Lechon zamknięty. /
+
+
+POLELUM
+
+Lelum, noc bliska.
+
+
+LELUM
+
+                        Umarła — słyszałeś.
+Cicho, mój bracie, zda mi się, że duch jej
+Tu, na łańcuchu stoi między nami
+I lekką śmierci dłoń na głowy kładnie.
+Czy ty nie czujesz umarłej dotknięcia?
+Ona tak pójdzie z nami w bój okropny
+I serca nasze przejrzawszy do głębi,
+Pogardzi, jeśli serca zadrżą strachem.
+O! Lillo! tobie ślubuję dziś duszę!
+Ducha ty weźmiesz ulatującego.
+O! śmierci! śmierci! krwawej śmierci Boże!
+Jakże to łatwo być odważnym w boju!
+Nieszczęśliwego Bóg nie zrobi tchórzem.
+Gdzie są harfiarze? niech idą za nami
+Z harfy złotymi… nie trzeba harfiarzy!
+Umarli lepiej widzą i śpiewają
+Tę pieśń o sercach strzaskanych boleścią,
+O ściętych mieczach i zgasłych nadziejach.
+Oni jedynie wiedzą, ile warte
+Życie człowieka, ile ulatuje
+Ludzkiego szczęścia w czerwonych płomieniach,
+Które trzaskają ciało bohatera.
+Już o umarłych tylko dbam i Boga,
+O nic na ziemi.
+
+/ Roza Weneda wychodzi z lochu z dymiącym się nożem. /
+
+
+ROZA WENEDA
+
+Patrzcie! nóż czerwony
+W sercu Lechona był… patrzcie, czerwony,
+Pomażę sobie brwi tą krwią — zobaczę
+Dusze umarłych… i wy zobaczycie…
+Tam w szczerwienionej ciemności powinni
+Zjawić się krwawi: król harfiarz z dziewczyną —
+Lecz kto przemówi do umarłych, skona…
+Wchodzi Derwid i Lilla Weneda.
+Widzicie! o! widzicie, idą trupy!
+Ja wywołałam je spod ziemi — przyszli.
+
+
+LILLA WENEDA
+
+Przyprowadziłam wam ojca z niewoli.
+Oto wasz ojciec.
+
+
+DERWID
+
+                        Cóż to? nie poznali?
+Posadź mnie, córko moja, na kamieniu,
+Cóż? — nie poznali!
+
+
+ROZA WENEDA
+
+                        Bez harfy przyszedłeś…
+
+
+DERWID
+
+Niebiosa!
+zrywając się
+                        O! ja przyszedłem bez oczów!
+Wydarte moje oczy płakać będą,
+Jak się dowiedzą o tym. — O! gadzino,
+Czy ty się z harfy mojej urodziłaś,
+Że ty mnie witasz tak? — Lilla, daj rękę,
+Prowadź mnie dalej.
+
+
+LILLA WENEDA
+
+                        Gdzie, ojcze?
+
+
+DERWID
+
+                        Do wężów,
+Które ty pieśnią tak ułaskawiłaś,
+Że mi nie będą gryzły serca.
+
+
+LILLA WENEDA
+
+                        Ojcze!
+
+
+DERWID
+
+Gadzina córka; gdy mi darto oczy,
+Myślałem, że ta córka wydrze oczy
+I włoży w moją czaszkę swoje oczy:
+A teraz widzę, że mi wydrze serce
+I włoży w swoje piersi puste. — Harfo!
+Ty jesteś harfą bez strun! czarownico!
+Tak witać ojca? Kiedym tu przychodził,
+Skakały na mnie psy, wyjąc z radości;
+A ty, jako kruk, widząc te czerwone
+Oczy, zaglądasz w nie i głodnym dziobem
+Wyjadasz mi łzy czerwone, ostatnie.
+O! Bogdaj pierwszy z tych piorunów złotych
+Pomścił się za mnie…
+
+
+ROZA WENEDA
+
+                        O! Bogdaj mnie piorun!…
+Bo ty bez harfy przyszedłeś, o, królu!
+I dziś upadniesz na stos — bez królestwa.
+
+
+LILLA WENEDA
+
+Nie, on zwycięży dziś, bez młodszej córki.
+Ale przez córkę młodszą dziś zwycięży…
+Widzisz, płaczący usiadł na kamieniu
+I duma jako stary bocian ślepy.
+Bądź ty mu córką. Niech kto pójdzie za mną
+I złotą harfę przyniesie…
+
+
+ROZA WENEDA
+
+                        Co mówisz?
+Harfę odzyskasz… jak?
+
+
+LILLA WENEDA
+
+                        Za harfę złotą
+Sama się oddam Lechom… i zostanę…
+
+
+ROZA WENEDA
+
+Więc idź… bo harfa zwycięży.
+
+
+LILLA WENEDA
+
+                        O! siostro,
+Jeśli chcesz harfy — i mnie pragniesz widzieć
+Żywą… Lechona mi daj, niewolnika!
+Za mnie królowa wydać obiecała
+Harfę — a moje życie da za syna.
+
+
+ROZA WENEDA
+
+Więc zginęliśmy, bo Lechon zabity.
+do Ślaza
+Kłamco ohydny! Rzucić go ze skały.
+
+
+LILLA WENEDA
+
+Nie plamcie wy krwią tej godziny smętnej
+I mej śmiertelnej koszuli… Ten człowiek
+Niech idzie ze mną po harfę.
+
+
+ROZA WENEDA
+
+                        Co mówisz?
+Ty nie odważysz się wrócić do Lecha.
+
+
+LILLA WENEDA
+
+O! siostro moja, jam się obeznała
+Ze śmiercią; wierzaj, ja wam harfę przyszlę,
+Mówisz, że harfa ta wam da zwycięstwo? —
+O! zwyciężajcie i bądźcie szczęśliwi! —
+Klęka przed ojcem.
+Ojcze! błogosław mi — może nie wrócę —
+Ale ci lutnię twoją przyszlę złotą;
+A jeśli jaka struna z najmaleńszych
+Zajęczy, kiedy zagrasz pieśń tryjumfu,
+Pomyśl, że struna ci ta przypomina
+Najmłodsze dziecko i uderz ją ręką,
+Niechaj nie płacze.
+Wstaje i do Ślaza mówi.
+                        Chodź ze mną, człowieku,
+Chodź! chodź! pójdziemy po harfę.
+
+/ Wychodzi ze Ślazem. /
+
+
+ROZA WENEDA
+
+                        Zwycięstwo!!!
+Ten starzec usnął, córki swojej płaczem
+Ukołysany — patrzcie! Cóż jest ojciec!!!
+Nieście spiącego na tron Derwidowy.
+Zwycięstwo! Sto serc ludzkich — za zwycięstwo!
+
+/ Wychodzą. /
+
+
+CHÓR DWUNASTU HARFIARZY
+
+O! ileż trzeba ofiar! ile jęku!
+Nim zemsty straszna noc jak piorun błyśnie!
+Oto zwycięstwa moc w gołąbki ręku;
+Tu wodza rąk dwie bratnich łańcuch ciśnie;
+Tu król, co jękiem harf zwyciężyć mniema
+I głośniej grać — niż mrący ludzie jęczą;
+Tu wróżka z krwią na rzęsach stoi niema
+I słucha, jak na mieczach miecze brzęczą;
+I widzi strasznych czynów ludzkich końce,
+Przeczuwa boży sąd. — A gdy noc głucha,
+To z wiary mrącym ludziom robi słońce,
+Woła piorunów, patrzy, jak biją — i słucha.
+
+
+
+
+AKT V
+
+
+
+SCENA I
+
+/ Sala w zamku Lecha oświecona od gęstych piorunów. Lech, Sygoń, Święty Gwalbert. /
+
+
+LECH
+
+Na koń! straż przednia pierzchła.
+
+
+ŚWIĘTY GWALBERT
+
+                        W imię krzyża
+Dajęć zwycięstwo.
+
+
+LECH
+
+                        W czyjekolwiek imię,
+Biorę, gdy dajesz; jeśli nie dasz, wydrę.
+
+
+ŚWIĘTY GWALBERT
+
+Każ mi dać konia, bo dzisiejszej nocy
+Najświętsza Panna, w celi mej spalona,
+Objawi mi się nad najświętszym trupem,
+Nad krwią najbardziej Bogu ukochaną.
+Każ mi dać konia.
+
+
+LECH
+
+                        Ha, pioruny biją.
+Jakby się walił świat — Straż przednia pierżchła,
+Hej! miecz Rolanda…
+Wchodzi Gwinona w żałobie.
+                        Moja czarna żono —
+Siedź w zamku… i każ wieżycom na czole
+Położyć gwiazdę z ognia — ile razy
+Pioruny zgasną, a we krwi utonę,
+Wypłynę z koniem ku twemu ogniowi.
+Pocałuj dzieci. — Uśpić je musiało
+Parne powietrze.
+
+
+GWINONA
+
+                        Arfon się piorunów
+Lęka i płacze.
+
+
+LECH
+
+                        Czy chory?
+
+
+GWINONA
+
+                        Zalękły.
+
+
+LECH
+
+Na koń, rycerze! a ty zamknij okna,
+Żeby nie wleciał tu na miejsce męża
+Piorun czerwony. Lechici, do broni!
+
+/ Wychodzą wszyscy prócz GWINONY. /
+
+
+GWINONA
+
+Chodźcie tu, dziewki, bo mi samej straszno!
+Wchodzą Dziewice.
+Czy która bajek nie umie? niech gada,
+Bo mi tak straszno, jak w śmierci godzinę.
+Wiecie, że mój syn już pewnie nie żyje,
+Ona po harfę ojca nie wróciła; —
+Pewnie nie żyje mój syn! Ale jeszcze
+Ja mam nadzieję. — Ach! jak mi okropnie!
+Wy także wszystkie jesteście strwożone,
+Jak białych stado łabędzi. Tej nocy
+Coś okropnego stanie się. — Dziewczęta,
+Idźcie spać — sama zostanę wam strażą.
+Dziewice wychodzą.
+W powietrzu jakiś straszny piorunowy
+Zapach i dziwne skargi, i płakanie,
+Jakby się skarżył mój syn opuszczony
+I wołał: „Matko! matko! matko!” — ha! ha!
+Wchodzi Lilla Weneda.
+Czy syn mój przyszedł z tobą?…
+Lilla Weneda odpowiada gestem rozpaczy.
+                        Nie dręcz ty mnie,
+Ale odpowiedz prosto, że zabity,
+A jeśli żyje, odpowiedz, że żyje;
+A ja wygryzę twe błękitne oczka
+Pocałunkami… O! powiedz, że żyje.
+Lecz jeśli? jeśli mój syn?…
+
+
+LILLA WENEDA
+
+                        Ty okropna…
+
+
+GWINONA
+
+/ zbliżając się wściekle, lecz z wolna. /
+
+Jeśli już?… mój syn… już…
+
+
+LILLA WENEDA
+
+                        Przy bramie czeka…
+
+
+GWINONA
+
+Mój syn!
+
+
+LILLA WENEDA
+
+                        Na harfę moją czeka człowiek.
+
+
+GWINONA
+
+Harfiarko.
+
+/ Chwyta ją za szyję. /
+
+
+LILLA WENEDA
+
+                        Pani sroga, ty mię dławisz!
+
+
+GWINONA
+
+Harfiarko!
+
+
+LILLA WENEDA
+
+                        O! o!
+
+
+GWINONA
+
+                        Krzycz! krzycz, krzycz! harfiarko.
+Zrywa pas i dusi Lillę Wenedę.
+Krzycz, uduszona. — A co? — już bez ducha! —
+Do mnie, dziewice! do mnie — trup jest ze mną.
+
+/ Wbiegają Dziewice. /
+
+
+DZIEWICA
+
+Jakie to wrzaski?
+
+
+GWINONA
+
+                        Co?
+
+
+DZIEWICA
+
+                        Tu coś upadło?
+
+
+GWINONA
+
+Ten trup.
+
+
+DZIEWICA
+
+                        Okropność! okropność! okropność!
+
+
+GWINONA
+
+Okropność — to ja udusiłam wstążką —
+Czy się boicie tknąć rękami trupa?
+Ha?…
+
+
+DZIEWICA
+
+                        Uduszona?
+
+
+GWINONA
+
+                        Oni mi zabili
+Syna. —
+
+
+DZIEWICA
+
+                        O! biedne! bielutkie stworzenie!
+Cóż ci zawinił biedny gołąbeczek?
+Pozwól przynajmniej, że ją ubierzemy
+W srebrną bieliznę, w bławatki, w narcyzy;
+I zaśpiewamy nad umarłą lament.
+O! jak te piersi krąglutkie ostygły!
+Jak te nóżeczki zimne zbłękitniały!
+Pomóżcie, siostry, wynieśmy ją razem
+Z tego pokoju, gdzie przez okna czarne
+Ciekawe patrzą błyskawice z krzykiem. —
+Ostrożnie! nóżki owińcie koszulą; —
+Ona się do nas uśmiecha… Ostróżnie!
+
+/ Wynoszą ciało Lilli Wenedy. /
+
+
+GWINONA
+
+Gdym ją dusiła, dziesięć matek było
+We mnie zamkniętych — teraz przerażona,
+Że wszystkie we mnie syczące gadziny
+Ucichły — jestem jak trup. — Co uczynię?
+Aha — odeszlę Derwidowi harfę.
+A sama włożę zbroję… w krew się rzucę…
+
+/ Wychodzi. /
+
+
+
+SCENA II
+
+/ Pole przed zamkiem Lecha. /
+
+
+ŚLAZ
+
+/ stukając do bramy /
+
+Hej! hej! czy jest tam kto? czy tu pioruny
+Wybiły ludzi? czy się pan odźwierny
+Powiesił? hej! hej! — pies wyje żałośnie.
+Mości psie, proszę, przypomnij królowej,
+Że ja tu czekam na harfę… hej! hej! hej! —
+Nikogo — tylko psy żałośnie wyją,
+Jakby tam w kogoś miał uderzyć piorun.
+Hau! hau! — bogdajbyś zdechł! bogdaj cię piorun!
+Hau — hau — czy w panu swoim wąchasz trupa?
+Czy śmierć kościana ci przeszła pod nosem? —
+Brrr… aż mi zimno. — Cóż to są za mary?
+
+/ Otwiera się brama, wychodzą Dziewice w bieli z pochodniami, niosąc skrzynię od harfy zamkniętą. /
+
+
+DZIEWICA
+
+Człowieku!
+
+
+ŚLAZ
+
+                        Jestem.
+
+
+DZIEWICA
+
+                        Oto jest w zamknięciu
+Harfa Derwida; odnieś ją i powiedz,
+Że dotrzymuje przysięgi Gwinona.
+
+
+ŚLAZ
+
+Włóżcie mi, proszę, pudło na ramiona,
+Piękne dziewoje.
+
+
+DZIEWICA
+
+                        A śpiesz się, człowieku…
+
+/ Wychodzą. /
+
+
+ŚLAZ
+
+Pełno teraz po drogach ludzkiego rozcieku,
+A śmierć pod swoją kosę głupich ludzi garnie,
+A pioruny jej świecą z nieba jak latarnie.
+To zaś mój święty Gwalbert zowie światłem wieku…
+
+/ Wychodzi ze skrzynią na ramionach. /
+
+
+
+SCENA III
+
+/ Pole walki, noc błyskawicowa. Lech i Sygoń wchodzą. /
+
+
+LECH
+
+O! mój Sygonie! to walka olbrzymów!
+Pioruny przeciw nam; bo tylko słuchaj:
+Już przez szeregi na pół wyrąbane
+Przelatywałem na wskroś… już oczyma
+Sięgałem w samo krwawe serce wrogów,
+Już byłem wpadał — tam, gdzie pod dębami
+Starce, pochodnie, harfy zgromadzone
+Pod skrzydłem siedzą błyskawic, jak owce
+W burzę pod gruszą tulące się wiankiem:
+Jużem miał w rękach króla — kiedy nagle
+Piorun nad głową moją roztrzaskany
+Zabił mi konia.
+
+
+SYGOŃ
+
+                        Panie, rzecz straszniejsza!
+Spotkałem czarne straszydło dwugłowe —
+Spotkałem wodza Wenedów.
+
+
+LECH
+
+                        Czy straszny?
+
+
+SYGOŃ
+
+Wódz ten dwie głowy ma na jednym ciele,
+Czasem się obie głowy razem schodzą,
+I plączą rogi na hełmach ogromne:
+Czasem się jedna zaiskrzona ciska
+Z wściekłością węża na ludzi… a druga
+Patrzy spokojnie i szuka oczyma
+Serc w naszych piersiach.
+
+
+LECH
+
+                        Za mną! ja go znajdę…
+
+/ Wybiega. /
+
+
+SYGOŃ
+
+Włos mi osiwiał — ale tak okropnej
+Nocy za życia mego nie widziałem.
+Chorągwie toną we krwi — jedną piorun
+Zapalił złotym płomieniem i bladość
+Lekkiego ognia rzucił ludziom w twarze…
+
+/ Lelum i Polelum wchodzą. /
+
+
+LELUM
+
+Lech! Lech! Lech!
+
+/ Napadają na Sygonia. /
+
+
+SYGOŃ
+
+                        Wodzu ohydny Wenedów,
+Jeśli człowiekiem jesteś, będziesz trupem.
+
+/ Biją się. /
+
+
+POLELUM
+
+Zakręć łańcuchem koło niego… i zwiąż.
+
+/ Gdy Polelum walczy, Lelum obiega w koło Sygonia i okręca mu łańcuch na gardle, tak że Sygoń zostaje powieszony na łańcuchu, który łączy ręce bratnie. /
+
+
+LELUM
+
+Teraz rozbieżmy się, łańcuch udusi.
+
+
+POLELUM
+
+Zacharkał… puść go.
+
+
+LELUM
+
+                        Leży uduszony.
+Odwijają łańcuch, Sygoń się wali trupem.
+Na łuku moim kładź zatrute strzały.
+O! gdyby ojca harfy jęk — o! gdyby
+Jeden jęk tylko harfy Derwidowej,
+A z wszystkich byłyby — o takie trupy…
+
+/ Wychodzą. /
+
+
+
+SCENA IV
+
+/ Pole toż samo. Lech, Sygoń zabity. /
+
+
+LECH
+
+Sygoń! tu do mnie! Sygoń! znów zabiłem
+Ludzi dwunastu, miecz mi się wyszczerbił.
+Co widzę! Stary Sygoń leży trupem?
+O! zemsta! zemsta!
+
+/ Wchodzi Święty Gwalbert z krzyżem. /
+
+
+ŚWIĘTY GWALBERT
+
+                        Jęki króla słyszę.
+
+
+LECH
+
+Zdejm z niego zbroję i zobacz, gdzie ranny?
+
+
+ŚWIĘTY GWALBERT
+
+Na ciele żadnej nie odebrał rany,
+Lecz ma zsiniałą twarz jak powieszony,
+Albo zabity piorunem.
+
+
+LECH
+
+                        O, zemsta
+Nad piorunami!…
+
+/ Wychodzi. /
+
+
+ŚWIĘTY GWALBERT
+
+                        Biedny poganinie,
+Chodź, ja dam tobie pogrzeb chrześcijański.
+
+/ Wychodzi, ciągnąc trupa. /
+
+
+
+SCENA V
+
+/ Monument z druidycznych kamieni w lesie. Derwid na tronie kamiennym, wokoło Dwunastu Harfiarzy na dwunastu siedzi kamieniach, przy każdym harfa złota i pochodnia w ziemię zatknięta, Roza Weneda stoi za ojcem na tronie. — Dąb Derwidowy na prawo. /
+
+
+DERWID
+
+Cóż? jeszcze nie ma harfy, a ja słyszę
+Jęki narodu i szelest płynącej
+Krwi. — Jeszcze nie ma harfy — o! bogowie!
+
+/ Wchodzi Wened ranny. /
+
+
+WENED
+
+Przybiegłem ranny. — Lechici nas łamią,
+Lud czeka pieśni.
+
+
+DERWID
+
+                        O! Boże! o! Boże!
+
+
+WENED
+
+Ja konam, królu, graj pieśń… ja umieram.
+
+/ Pada i kona. /
+
+
+DERWID
+
+/ wstając na tronie i rwąc włosy /
+
+Pioruny, bijcie we mnie! o! pioruny!
+Bądźcie wy królem! a ja będę harfą!
+Królestwo moje to puch jak te włosy,
+Które wiatr bierze z krwią moją wyrwane…
+O! wichry, rwijcie mi włosy! o! wichry!
+
+/ Lelum i Polelum wchodzą. /
+
+
+LELUM
+
+Ojcze, giniemy, graj pieśń…
+
+
+DERWID
+
+                        Idźcie skonać,
+Ja nie mam harfy.
+
+
+ROZA WENEDA
+
+                        Ustąpcie się wszyscy,
+Już słyszę harfę idącą, już słyszę…
+Uderzcie w tarcze, niech się zejdą wodze!
+Ta pieśń uczyni z nich nieśmiertelniki.
+A wszyscy, co ją usłyszą, żyć będą,
+A wszyscy, którzy nie usłyszą, pomrą.
+
+/ Wchodzi Ślaz z harfą w skrzyni /
+
+
+ŚLAZ
+
+Otom się dobrze wam zasłużył, ludzie…
+Przynoszę harfę — gdzie postawić?
+
+
+ROZA WENEDA
+
+                        Daj tu…
+O dąb oparta królewski, niech czeka…
+
+
+ŚLAZ
+
+A wam królowa kazała powiedzieć,
+Że dotrzymuje przysięgi.
+
+
+ROZA WENEDA
+
+                        Precz, wężu!
+
+
+ŚLAZ
+
+A to i dobrze, schowam się w bagniska.
+
+/ Odchodzi. /
+
+
+ROZA WENEDA
+
+Królu! zwycięstwo daj twemu ludowi.
+Wchodzi Wodzów Dwunastu z obnażonymi mieczami, wszyscy krwawi.
+Oto są wodze i pieśni godzina.
+Ojcze, przy dębie Derwidowym harfa.
+
+
+DERWID
+
+/ wstaje z tronu i zbliża się do harfy /
+
+O! jak mi serce drży! czy ja potrafię
+W złociste struny uderzyć?… Już słyszę
+Serca bijące w ludziach — gdzie ta harfa? —
+Czekajcie! — Jak mi drży serce. — Gdzie harfa? —
+Już czuję w sobie, że wy zwyciężycie,
+Jeżeli duszę w pieśń przeleję całą,
+A duszę już mam w rękach, tu — jak piorun,
+Jak piorun całą ją cisnę na struny
+I spiorunuję pieśnią.
+Dotyka się omackiem skrzyni harfowej.
+Harfa w skrzyni,
+Wenedo, otwórz.
+Roza Weneda zdejmuje wieko ze skrzyni harfowej i cofa się, odciągając ojca za rękę. W skrzyni bowiem zamiast harfy widać umarłą Lillę Wenedę w śmiertelnej koszuli, z wieńcem bławatkowym na głowie.
+                        Puszczajcie do harfy!
+Dlaczego wy mnie trzymacie za szaty?
+Dlaczego wstręty czynicie starcowi?
+Ja jestem pełny ducha! — ja się wyrwę
+I ta pieśń moja będzie nieśmiertelną.
+Wyrywa się z rąk córki i kładzie ręce na twarzy zmarłej Lilli Wenedy.
+Cóż to?… rzecz jakaś zimna… to nie struny…
+Ja pod palcami mymi czuję trupa…
+Co to jest?… o! to nie harfa… to ciało
+Mojej umarłej córki…
+Chwila milczenia. Roza Weneda chce ojca odprowadzić od ciała zmarłej, starzec nie daje się córce.
+                        Precz, gadzino!
+Tu moja tamta córka… tu, tu w trumnie.
+O! o! umarła! — Czekajcie! czekajcie!
+Bo tu jest także pieśń, te złote włosy,
+Na których będę grał. — Ja ciebie widzę!
+Dzieweczko moja, widzę! — o! ja znajdę
+Twoje usteczka. — O! nie odrywajcie,
+Nie odrywajcie wy mnie od niej, proszę!
+Nie odrywajcie.
+
+
+ROZA WENEDA
+
+                        Cóż to — nie słyszycie
+Tej pieśni z łez królewskich? idźcie skonać!
+
+
+DERWID
+
+O! o! gołąbek mój martwy! o! martwy!
+O! już na wieki martwy.
+
+
+HARFIARZ
+
+Ojciec płacze.
+
+
+DERWID
+
+Ja ciebie widzę, córko! twoja postać
+Stoi mi w jamie, tu, powydzieranych
+Oczu. — Ja ciebie widzę w grobie głowy.
+O! gwiazdeczkami ukoronowana
+W pachnącym cedrze, lampo pełna blasku.
+Wychodzisz z rączki otwartymi… O! o!
+Tu! — czy widzicie? tu — śmieje się płacząc…
+Umarła moja, najmilsza umarła!
+Moja jedyna!
+
+
+ROZA WENEDA
+
+                        Wiedziałam ja dawno,
+Na jaką zwołam was pieśń, potępiony
+Ludu przez Boga… już dawno widziałam
+Na waszych czołach napisane krwawo
+Życie trzydniowe. — Cóż! — czemu tak bladzi?
+Któż tu jest kłamcą? los? czy ja? czy rozpacz,
+Która niechcących umrzeć oszukała? —
+Gołębie serca! o! jak wam leniwo
+Do kończącego wszystko grobu! — Trzeba
+Was było wszystkich oszukać i śmierci
+Pędzić, jak białą trzodę owiec, w gardło.
+Nie dosyć jeszcze?… o! wy, moje włosy
+Wyrwane, w garść się wężów przemieniajcie
+I dla strupiałych ludzi bądźcie biczem!
+
+
+PIERWSZY Z WODZÓW
+
+Wróżko! przyrzekłaś nam zwycięstwa harfę.
+
+
+ROZA WENEDA
+
+Ja ci przyrzekłam? — co? — Chodź tu i patrzaj!
+I ty myślałeś, że więcej jest głosu
+W strunach niż w trupa niewinnego ciszy?
+Gdzież taka harfa jak ten trup? Gdzie takie
+Tony żałosne, jak płacz tego ojca,
+Co w rękach córki rozwija warkocze
+I szuka w nich, jak w strunach drżących, głosu?
+O! przysięgnijcie wy na nią, rycerze,
+Że się pomścicie… resztę zdajcie gromom
+I późnej zemście czasu… przysięgnijcie!
+
+
+WODZE
+
+Zaprzysięgamy zemstę… aż do śmierci.
+
+/ Wychodzą. /
+
+
+LELUM
+
+/ całując zmarłą siostrę. /
+
+Na ustach twoich, siostro, zaprzysięgam,
+Że zobaczymy się dziś. O! Lechici!…
+
+
+DERWID
+
+/ dobywa z zanadrza nóż ofiarny i mówi, przebijając się dwa razy. /
+
+Synowie! o tak — o tak — w Lecha serce…
+
+/ Pada martwy. /
+
+
+ROZA WENEDA
+
+Tam stos na prawo… Weźcie te dwa ciała
+I spalcie razem, a wokoło stosu
+Trzymajcie urny z królów popiołami;
+Jeśliby który Lechita szedł gwałtem
+I chciał ze stosu porwać ciała święte,
+To wy go tymi urny przywalicie.
+Harfiarze biorą urny i pochodnie. — Czterech zaś kładzie na barki ciało Derwida i Lillę Wenedę w skrzyni cedrowej i wychodzą. — Roza Weneda obraca się do Lelum i Polelum i mówi.
+Tu na tronowym kamieniu ułożę
+Stos z pachnącego drzewa… Czekam na was…
+
+/ Lelum [i] Polelum wychodzą walczyć, Roza Weneda odchodzi w głąb lasu. /
+
+
+
+SCENA VI
+
+/ Pole walki. — Noc. — Burza. /
+
+
+LECH
+
+/ wchodzi /
+
+Złamani! — Tych psów wycinać do reszty!
+Cóż to za rycerz? —
+
+/ Wchodzi Gwinona w zbroi. /
+
+
+GWINONA
+
+                        Jam się uzbroiła
+Mścić się za mego syna! mścić się jeszcze.
+
+
+LECH
+
+Można ich teraz rąbać jak barany —
+Zupełnie ducha stracili ci ludzie.
+Stracili ducha o samej północy
+I odtąd rąbią ich nasi jak trzodę.
+
+
+GWINONA
+
+Harfiarza! ja chcę harfiarza!
+
+
+LECH
+
+                        Ostrożnie,
+Bo przy nim musi być ludzi ostatek.
+Gwinona wychodzi. — Święty Gwalbert wchodzi.
+A ty co robisz?
+
+
+ŚWIĘTY GWALBERT
+
+                        Ja chrzczę niedobitych.
+Aż mi się Matka Chrystusowa zjawi…
+
+
+LECH
+
+Chciałbym napotkać dwugłowego wodza
+I ofiarować życie potworowi,
+Byleby chodził za pługiem.
+
+/ Wychodzi. /
+
+
+ŚWIĘTY GWALBERT
+
+                        A ja tu
+Siądę na kępie. — Kto noc taką widział,
+Ten wie, co waży świat… co warci ludzie —
+Litośniejszymi są pioruny złote,
+Bo tylko sosnom serca rozdzierają.
+Na toż to matkom dzieci swe hodować,
+Aby z nich były kiedyś takie jatki?
+Każdy trup tyle wart, ile kosztował;
+Spytaj się matki, niech oceni trupa —
+Zlękniesz się… gdybyś zapłacił, co mówi,
+Mogłaby kupić za zmarłego syna
+Żywe królestwo, gdzie są milijony
+Synów i matek…
+
+
+ŚLAZ
+
+/ pokazuje głowę spoza kępy /
+
+                        Prześwięty Gwalbercie!
+
+
+ŚWIĘTY GWALBERT
+
+A co tu robisz, Ślazie?
+
+
+ŚLAZ
+
+                        Grzęznę w błocie.
+
+
+ŚWIĘTY GWALBERT
+
+A jakże ty się tu znalazłeś?
+
+
+ŚLAZ
+
+                        Święty!
+Wprzód mnie wyratuj za uszy — bo tonę,
+A potem twoje zaspokoję uszy…
+
+
+ŚWIĘTY GWALBERT
+
+Łajdaku, ty mi spalił celę.
+
+
+ŚLAZ
+
+                        Nie ja,
+Diabeł ją spalił — jam cię, ojcze, szukał,
+Aby się tobie na diabła poskarżyć…
+
+
+ŚWIĘTY GWALBERT
+
+Dziś odkupienia noc… Gapiu, chodź ze mną.
+
+
+ŚLAZ
+
+Teraz do śmierci będę księżym sługą.
+
+/ Wychodzi. /
+
+
+
+SCENA VII
+
+/ Inna część pola. Lech wchodzi. /
+
+
+LECH
+
+Zabiłem wodza pół…
+
+/ Gryf wchodzi. /
+
+
+GRYF
+
+                        Gdzie Lech?
+
+
+LECH
+
+                        Co słychać?
+
+
+GRYF
+
+Małżonka twoja, panie, leży trupem.
+
+
+LECH
+
+Zabita?
+
+
+GRYF
+
+                        Panie! okropnie zabita,
+A tym okropniej, że już lud Wenedów
+Bezbronny, miecze rzucając, uciekał…
+Kiedy królowa, obaczywszy wzgórze
+I płomień wielki, czerwony i wieniec
+Czarnych postaci przy płomieniu krwawym.
+Krzyknęła: «Derwid tam musi być stary!»
+I z obnażonym mieczem szła na górę.
+Wtenczas ci czarni, stojący przy stosie,
+Na którym dwoje paliło się trupa,
+Chwycili urny, pełne dawnych prochów,
+I na królową, co się skał imała,
+Rzucili z góry straszne popielnice.
+Przybiegłem — ona leżała okryta
+Prochem i ludzi umarłych kościami,
+Z piersią okropnie roztrzaskaną — martwą.
+
+
+LECH
+
+Biedne me dziatki… będą pytać o nią.
+Patrzaj, nie mogę teraz płakać… krwawy.
+Nieście do zamku zwłoki nieszczęśliwej
+I każcie obmyć z ludzkiego popiołu.
+
+/ Wychodzą. /
+
+
+
+SCENA VIII
+
+/ Monument druidyczny. — Stos ułożony w miejscu, gdzie stał tron Derwida. /
+
+
+ROZA WENEDA
+
+/ sama /
+
+Już lud wyrżnięty i ustaje burza.
+Przed chwilą tu był król, ludzie, pochodnie;
+Teraz dwanaście tych pustych kamieni,
+I tak na wieki już! i tak na wieki!
+Wchodzi Polelum, niosąc na rękach ciało zabitego brata, jeszcze przykute doń łańcuchem.
+I cóż, nie mówisz nic do mnie, Polelum?
+
+
+POLELUM
+
+O! patrz, zabity brat na piersiach mi śpi.
+
+
+ROZA WENEDA
+
+Czy rozciąć łańcuch między wami dwoma?
+
+
+POLELUM
+
+Nie rusz łańcucha. — Gdzie stos dla umarłych?
+
+
+ROZA WENEDA
+
+Masz zgliszcze, burza zgasiła pochodnie.
+
+
+POLELUM
+
+Poszukaj ognia.
+
+
+ROZA WENEDA
+
+                        Ogień dadzą chmury.
+
+/ Polelum wchodzi na stos z trupem brata. /
+
+
+POLELUM
+
+Jam gotów — pieśnią zawołaj piorunów.
+O! śpij na piersiach moich, bracie blady.
+Wszystko skłonione do snu na tym świecie. —
+Wróżko, zawołaj piorunów! jam gotów…
+
+
+ROZA WENEDA
+
+Podnieś do nieba rękę z ręką trupa.
+Wołajcie oba gromów — łańcuchami.
+
+/ Wchodzi Lech. /
+
+
+LECH
+
+Stójcie, poganie! przynoszę wam życie.
+
+/ Wchodzi Święty Gwalbert. /
+
+
+ŚWIĘTY GWALBERT
+
+Stójcie, poganie! przynoszę wam wiarę.
+
+
+POLELUM
+
+Życie i wiarę?! — Boże! patrzaj z nieba
+Na tych dwóch ludzi przed stosem Weneda
+Konającego — patrzaj na tych ludzi,
+I pomyśl, jakim ty dajesz stworzeniom
+Chwilę tryumfu i urągowiska?
+I przyszli, kiedy mój lud cały skonał!
+I przyszli, kiedy mój brat już nie żyje!
+I przyszli, kiedy niebo oświecone
+Łunami stosów, gdzie się palą trupy!
+I tu mi dają życie. O! stworzenia!
+Czuję nad wami w sercu wielką litość
+I wielką wzgardę! O! nie pozwól, Boże,
+Aby grobowiec mój był na tej ziemi,
+Gdzie oni żyją. — Chmury! czarne chmury,
+Co uciekacie z nad trupiego pola,
+Ostatnie miecąc pioruny… o! chmury!
+Podnoszę do was tę rękę w łańcuchu,
+Z tą drugą ręką mego brata trupa;
+Obie te ręce i ten łańcuch proszą
+O piorun jasny, litosny, ostatni…
+Cóż! nie słuchacie?… Więc tą ręką trupią
+I tym łańcuchem wyzywam do walki
+Was, napełnione piorunami burze,
+Aż prośbą piorun wasz niewywołany
+Wydrę przekleństwem!
+
+/ Piorun bije w stos i drzewo zajmuje się złotym płomieniem. — Lelum i Polelum nikną w blasku. — Powoli nad gasnącym stosem ukazuje się postać Bogarodzicy. /
+
+
+ŚWIĘTY GWALBERT
+
+/ pokazując na zjawienie. /
+
+Ave, Nieśmiertelna!
+
+
+LECH
+
+Cudowne widmo w obręczu z płomyków.
+
+
+ROZA WENEDA
+
+/ wchodząc na stos zagasły, grzebie w popiołach, znajduje łańcuch próżny, którym przykuci byli do siebie Lelum i Polelum, i rzucając go pod stopy LECHA, mówi. /
+
+Patrz! co zostało z twoich niewolników!
+
+Około 1839.

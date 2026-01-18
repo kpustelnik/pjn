@@ -1,0 +1,959 @@
+Platon
+
+Charmides
+tłum. Władysław Witwicki
+
+
+
+
+
+
+Wstęp tłumacza
+
+Platon cofnął się w tym dialogu w wyobraźni w czasy, kiedy go jeszcze nie było na świecie, a Sokrates miał dopiero 37 lat i służył w wojsku jako ciężkozbrojny. W pierwszych słowach rozmowy, którą tu komuś opowiada, podaje Sokrates, że wczoraj wrócił z obozu pod Potidają, po bitwie. Potidaja to była kolonia koryncka na Półwyspie Chalkidyjskim, która płaciła daninę Atenom, jak wszystkie państwa związkowe, ale co roku dostawała prezydenta miasta z macierzystego Koryntu. Ateny, powaśnione z Koryntem o wyspę Kerkyrę, rozkazały usunąć urzędnika korynckiego, a dla zapewnienia uległości miasta wobec Aten zburzyć część fortyfikacji miejskich. Obywatele Potidai odmówili spełnienia tego rozkazu, dostali z Koryntu na pomoc tysiąc hoplitów i sprzymierzyli się z sąsiednimi miastami, jak Olint. Wobec tego Ateny wyprawiły trzy tysiące hoplitów przeciw powstańcom, odniosły drogo okupione zwycięstwo w bitwie pod murami miasta i zaczęły zbuntowany gród oblegać w roku 423. Było to u samego prawie początku nieszczęsnej wojny peloponeskiej, jeszcze za życia Peryklesa. W tej bitwie miał Sokrates uratować życie Alkibiadesowi, a naczelny wódz ateński padł na placu boju.
+
+Rozmowa, którą nam tu opowiada Sokrates, odbywa się w jednej z prywatnych szkół gimnastycznych, na południe od Akropolis, naprzeciw świątyni Ateny Królowej, gdzie czczono dawną władzę królewską Aten oraz postacie dawnych królów: Kodrosa i Neleosa. Kierownik szkoły, Taureas, uchodzi za spowinowaconego z Platonem przez matkę, ponieważ miał syna tego samego imienia co jej ojciec. Stąd przypuszczenie, że do tej samej szkoły Taureasa uczęszczał później i sam Platon i że tam właśnie poznał Sokratesa.
+
+Spośród arystokratycznego towarzystwa, które bierze udział w rozmowie, poznajemy bliżej dwie osoby: bardzo młodziutkiego wówczas wuja Platona, Charmidesa, syna Glaukona, i stryjecznego brata Charmidesa, a mianowicie Kritiasa, syna Kalajschra. Słyszymy o wuju matki, a zarazem ojczymie Platona, Pyrilampesie, który był jej drugim mężem po śmierci Aristona. Żeby się w tych pokrewieństwach zorientować, trzeba się cofnąć daleko wstecz. A mianowicie: Dropides, bliski krewny Solona, miał syna Kritiasa (starszego). Ten znowu miał dwóch synów: Glaukona i Kalajschra. Glaukon miał szwagra Pyrilampesa i dwoje dzieci: córkę Periktionę i syna Charmidesa. Kalajschros zaś był ojcem Kritiasa, który rozmawia w naszym dialogu z Sokratesem. Zatem Charmides i Kritias to są stryjeczni bracia, tylko Kritias jest znacznie starszy i odgrywa rolę opiekuna w stosunku do Charmidesa. Rodzoną siostrą Charmidesa, a więc córką Glaukona, była Periktione, matka Platona, która go miała ze swym pierwszym mężem, Aristonem, synem Arystoklesa, a drugi raz poszła za mąż za swego wuja, Pyrilampesa, syna Antifonesa. Pyrilampes był bratem jej matki, a więc szwagrem Glaukona, dziadka Platońskiego. Z rodzeństwa miał Platon starszego brata Adejmanta, a z młodszych Glaukona i siostrę Potonę. Ta została matką Speusippa, następcy Platona w Akademii. Przyrodnim bratem Platona, a synem Pyrilampesa był Antyfon.
+
+Graficznie ten rodowód tak by wyglądał:
+
+Platon zatem wyobraża sobie w tym familijnym dialogu, jak Sokrates mógł zabawiać i nauczać niegdyś jego wuja, kiedy ten był jeszcze młodzieniaszkiem i zostawał pod kierunkiem swego znacznie starszego stryjecznego brata.
+
+Charmides podczas pisania dialogu na pewno już nie żył. Zginął razem z Kritiasem w bitwie pod Munichią w roku 403, walcząc w obronie osławionej oligarchii trzydziestu przeciwko demokratom, którymi dowodził Trazybulos. Daremnie szukać w naszej rozmowie jakichś rysów postaci Charmidesa, które by można powiązać z jego późniejszą rolą polityczną. Jest podany w uroczym świetle samych tylko najwyższych zalet ciała i ducha. Jest pełen wdzięku, taktu, rozwagi i nic więcej. To może tylko rzucać światło na uczucia rodzinne i sympatie polityczne Platona.
+
+Kritias nieco wyraźniej narysowany. To postać znana z historii Aten. Przywódca partii arystokratycznej, więc stronnik Sparty, poeta, mówca, pisarz elegii i rozpraw politycznych. Platon zaznacza jego ambicję. Zobaczymy, jak Kritiasowi zależy na powadze w oczach stryjecznego brata i całego towarzystwa, zobaczymy, że ten jego pupilek stryjeczny zna mores przed nim, usłyszymy, jak Kritias gardzi pracą fizyczną, jeżeli w niej nie dojrzy piękna, ale nie spotkamy rysów, które by pozwoliły się spodziewać na pewno, że ten człowiek potrafi po cichu zgładzić kiedyś swego przeciwnika politycznego, Teramenesa, że się postara o śmierć Alkibiadesa, swego dawnego przyjaciela i sprzymierzeńca, kiedy się ten schroni na dalekim dworze Farnabazosa we Frygii. Co prawda, miało się to stać dopiero w jakichś trzydzieści lat po okresie naszej rozmowy. Zresztą nie jest to dialog polityczny. Młody Kritias objawia tu żywe zainteresowania intelektualne i pewne poszanowanie prawdy, choć po trochu kłamie — ma przy tym pewien polor literacki, umie płynnie mówić i pisać by potrafił, granic i ścisłości w myśleniu nie uznaje, ale czuje dodatnią wartość myślenia i nauki.
+
+Przedmiotem rozmowy jest określenie zalety duchowej, którą Hellenowie nazywali sofrozyne, a której polski język nie umie nazwać jednym wyrazem. Nie tylko polski, zresztą. Kłopot z tym wyrazem mają i Francuzi, i Niemcy, i Anglicy, toteż oddają go wieloma różnymi wyrazami w różnych miejscach. Etymologicznie wywodzi się ten wyraz z homeryckiego saofrozyne, a to oznacza taką odporność intelektu, że on zostaje cały, nieuszkodzony w swej funkcji kierowania człowiekiem, chociażby w nas szalały nawet burze afektów. Zatem jest to, mówiąc po polsku, zdolność do kierowania się zawsze rozumem, a więc roztropne zrównoważenie, jest to i panowanie nad sobą, i umiarkowanie, opanowanie wewnętrzne, wstrzemięźliwość, i takt, i równowaga wewnętrzna, roztropność, rozsądek, *rozwaga*. Przy tym ostatnim wyrazie wypadało przeważnie pozostać w przekładzie polskim, bo on się wydawał najbliższy terminowi greckiemu. Croiset oddaje go przez sagesse, bon sens équilibre d'âme, possesion de soi même, être comme il faut; Wilamowitz-Moellendorff — przez Sittsamkeit i Selbstbeherrschung; Anglik Lamb tłumaczy go jako temperance, sobriety, moderation, discretion, prudence; Ficinus pisze: temperantia.
+
+W powszechnym użyciu był ten termin używany jako wyraz pochwały za pewien pion wewnętrzny w przeciwstawieniu do lekkomyślnego rzucania się tu i tam, w przeciwstawieniu do kaprysów, do ulegania żądzom i namiętnościom, do nieopanowanej żywiołowości temperamentu, która słusznie uchodziła za znamię barbarzyństwa i gorszego urodzenia. Słusznie, bo nieopanowany temperament świadczy o niedorozwoju lub niedomodze kory mózgowej, o przeroście funkcji ośrodków podkorowych, które posiadają i niższe ssaki, podczas gdy silnie rozwiniętą i dostatecznie władną korę mózgową posiada jedynie tylko człowiek. Trzeba podziwiać intuicję psychologiczną starożytnych Hellenów, kiedy tworząc w zamierzchłych czasach wyraz sofrozyne, dowiedli jego budową i użyciem, że dostrzegają wspólne tło umiarkowania, panowania nad sobą, roztropności, spokoju, równowagi wewnętrznej. To mianowicie, że intelekt, władza myślenia (fronesis) zostaje w człowieku cała, nietknięta, nieuszkodzona (sodzetaj) mimo burz uczuciowych, które jej całości zagrażają.
+
+W naszym wyrazie „rozwaga” słychać, że się w nim mówi o jakimś użyciu wagi przed lub podczas czynu, o intelektualnym, i to metodycznym procesie oceny przed działaniem lub w chwili działania, w przeciwstawieniu do nierozważnego, ślepego działania pod bezpośrednim wpływem instynktów. To więc bliskie — i może najbliższe — terminowi greckiemu.
+
+Do sformułowania definicji rozwagi nie dochodzi w Charmidesie w ogóle. Mimo to można dojść, jak ją Platon rozumiał, kiedy się ogląda ten pogodny obrazek przedstawiający Sokratesa na tle młodzieży i rodzaj jego rozmów z chłopcami. Sokrates sam myśli przy nich głośno i zachęca ich tym do myślenia. Rzuca pytania. Więc uczy myśleć, uczy widzieć trudności, do których prowadzą lekkomyślne syntezy. Widać, że Sokrates nie psuł młodzieży, jak to na procesie mówili jego oskarżyciele, tylko ją uczył, chociaż robił to zupełnie inaczej niż współcześni sofiści — mistrze kultury literackiej i sztuki żywego słowa. Postacie Charmidesa i Kritiasa, splamione okrucieństwem i krwią współobywateli, wlokły się w oczach wielu Ateńczyków za postacią ich dawnego mistrza, Sokratesa, i rzucały na nią cień. Tym Platon mówi niejako: „Zastanówcie się: przecież w czasach, kiedy ci tyrani obcowali z Sokratesem, to nie były jeszcze krwawe typy późniejszych reakcjonistów, tylko to byli młodzi chłopcy pierwszej klasy, o najlepszych zadatkach, i Sokrates nie uczył ich mordować, tylko myśleć. Na jego pamięci więc nie może ciążyć odpowiedzialność za ich późniejsze postępki. Czyżbyście w ogóle nie znali naszej rodziny? — Sławna przecież!”.
+
+To wydaje się tendencją dialogu. Na pierwszy plan wybijają się w nim intencje artystyczne. Atmosfera figlów, romansów i dyskusji między ćwiczeniami gimnastycznymi, budzenie się myśli u młodego, zdolnego chłopaka, nawiązywanie się przyjaźni pomiędzy nim a Sokratesem, mocowanie się intelektualne ambitnego, a nieco mętnego Kritiasa z Sokratesem — to są momenty, którym Platon jak gdyby więcej uwagi poświęcił niż przejrzystości wywodów psychologicznych. Bo ostatecznie chodzi nie o zagadnienie psychologiczne.
+
+Platon nadał naszemu dialogowi formę opowiadania, które dostajemy w całości z ust Sokratesa. Stąd monotonne nieco powtarzanie słów: powiedział, powiada, mówi itp. Platon sam narzeka na tę formę pisania w Teajtecie — skąd widać, że nasz dialog musiał powstać wcześniej.
+
+Rozmowa nie ma zbyt ścisłego toku, ale obraz jej jest wypukły, barwny i charakterystyczny. Tym bardziej więc wygląda na dzieło młodych lat Platona, kiedy się jeszcze w konkretach kochał i pasjami odtwarzał jednostkowe momenty życia widzianego i odmalowanego w wyobraźni, a mniej ślęczał nad liczbami i suchymi wyrazami oderwanymi. Treść rozdziału XVI zdaje się świadczyć, że Charmides powstał też przed Fajdrosem. Ale posłuchajmy, co mówi sam Sokrates.
+
+
+
+
+Charmides
+
+
+Osoby dialogu:
+ * Sokrates
+ * Chajrefon
+ * Kritias
+ * Charmides
+
+
+Wróciłem wczoraj wieczór z Potidai, z obozu, a że mnie tu dawno nie było, więc chętnie tam poszedłem, gdzie zwykle można było z kimś pogadać. No i tak zaszedłem też i do zakładu gimnastycznego Tauresa, tam naprzeciw świątyni Królewskiej, i tam zastałem bardzo wielu — niektórych nie znałem wcale — ale po większej części samych znajomych. Jak zobaczyli, że wchodzę, nieoczekiwany, zaraz mnie z daleka zaczęli witać — ten stąd, ten stamtąd. A Chajrefon, jak to on jest trochę narwany, skoczył, wyrwał się ze środka, przybiegł do mnie, chwycił mnie za rękę i: — Sokratesie — powiada — jakżeś ty cało wyszedł z bitwy? — Bo niedługo przed moim odejściem rozegrała się była bitwa koło Potidai i oni tutaj dopiero co się byli o niej dowiedzieli. Więc ja mu odpowiadam: — No, tak, jak widzisz.
+
+— Tak; bo tu donoszą, że bitwa była bardzo ciężka i że w niej poginęło dużo znajomych.
+
+— To słusznie — powiadam — donoszą, to prawda.
+
+— A tyś był — powiada — w bitwie?
+
+— Byłem.
+
+— A to siadajże tu blisko — mówi — i opowiadaj nam. Bo my tak dokładnie wszystkiego nie wiemy.
+
+I równocześnie mnie sadowi, a zaprowadził mnie do Kritiasa, syna Kalajschra. Siadam sobie tedy obok i witam się z Kritiasem i z innymi i opowiadam im, co tam było w wojsku — o co mnie tylko który zapytał. A pytał jeden o to, drugi o tamto.
+
+II. Kiedyśmy już tego mieli dość, to znowu ja ich zacząłem pytać, co tutaj słychać, o ruch umysłowy, jak tam teraz, o młodych ludzi, czy nie przybyło między nimi takich, co by się odznaczali albo mądrością, albo pięknością, albo jednym i drugim. Kritias spojrzał w kierunku drzwi, zobaczył, że jacyś młodzi chłopcy wchodzą i kłóci się jeden z drugim, a inni ciżbą za nimi idą, więc powiada: — Jeżeli chodzi o pięknych chłopców, Sokratesie, to mam wrażenie, że zaraz będziesz coś o nich wiedział, bo ci właśnie, co wchodzą, to przednia straż zakochanych w jednym, który się wydaje najpiękniejszy — dziś przynajmniej. Mam wrażenie, że i on sam chyba już blisko, że już nadchodzi.
+
+— A to jest — powiadam — kto taki i czyj on?
+
+— Znasz go chyba — no, ty z pewnością — powiada — ale jeszcze nie był dorosły, zanimeś odszedł; to Charmides, syn Glaukona, mego stryja, a mój stryjeczny brat.
+
+— Znam go przecież, na Zeusa — powiedziałem. — Niezły chłopak był i wtedy, choć jeszcze mały. A teraz to, myślę, powinien chyba już być całkiem duży młodzieniec.
+
+— Zaraz — powiada — zobaczysz, i jaki duży, i jaki w ogóle urósł.
+
+Równocześnie, kiedy on to mówił, wchodzi Charmides.
+
+III. — Ja tam, przyjacielu, nie mam co oceniać. Po prostu jestem niezafarbowany sznur, kiedy idzie o pięknych chłopców. Mnie się jakoś prawie każdy młody wydaje piękny. Więc też tak samo i wtedy on mi się przedziwny wydał i jeśli chodzi o wzrost, i jeśli o piękność, a wszyscy inni, wydało mi się, że się w nim kochają. Taki się między nimi zrobił popłoch i zamieszanie, kiedy wchodził. A wielu zakochanych było i w tej grupie poza nim. Że tam my, dorośli mężczyźni, to było mniej dziwne, ale ja i na małych chłopców zwracałem uwagę, że żaden z nich w inną stronę nie patrzył — nawet z tych najmniejszych — tylko wszyscy w niego oczy wlepiali, jak w posąg.
+
+A Chajrefon woła na mnie i powiada: — Sokratesie, jak ci się wydaje ten młody człowiek? Czy nie ładna twarz?
+
+— Nadzwyczajna — mówię.
+
+— Ach, on naprawdę — powiada — gdyby się zechciał rozebrać, to będziesz miał wrażenie, że twarzy w ogóle nie ma. Takie ma przepiękne kształty!
+
+Inni też mówili zupełnie to samo, co Chajrefon. Więc ja powiadam: — Na Heraklesa, a cóż to za niezwyciężony mąż, powiadacie; jeżeli tylko ma w dodatku jeszcze jeden drobiazg. Nieduży.
+
+— Co? — powiada Kritias.
+
+— Jeżeli — mówię — duszę ma dobrej rasy. On z pewnością, Kritiaszu, taki będzie; pochodzi przecież z waszej rodziny.
+
+— Ależ — powiada — bardzo jest piękny i taki, jak się należy — także i pod tym względem.
+
+— Więc czemu by tak — mówię — nie obnażyć u niego właśnie tej strony i nie obejrzeć jej, zanim zobaczymy kształty? Przecież już jest taki duży, więc chyba lubi rozmawiać.
+
+— Nawet i bardzo — mówi Kritias — on się przecież garnie do mądrości i jak uważają inni, a on sam też, ma wielki talent poetycki.
+
+— Ten piękny rys, kochany Kritiaszu, z dawnych czasów wam przysługuje, przez pokrewieństwo z Solonem. Ale może byś mi pokazał z bliska tego młodzieńca; zawołaj go może tu. Przecież gdyby nawet był młodszy, nie przynosiłaby mu ujmy rozmowa ze mną — w twojej obecności przecież: wychowawcy i stryjecznego brata zarazem.
+
+— Dobrze mówisz — powiada — zawołajmy go! — I równocześnie do służącego mówi: — Chłopcze, poproś Charmidesa; powiedz, że go chcę zapoznać z lekarzem w sprawie tej choroby, o której mi kiedyś tu mówił, że na nią cierpi. — A do mnie powiada Kritias: — Niedawno mówił mi, że mu trochę głowa ciąży, jak rano wstaje. Więc co ci to szkodzi: udaj wobec niego, że znasz jakieś lekarstwo na ból głowy.
+
+— Nic nie szkodzi — powiedziałem. — Aby tylko przyszedł.
+
+— Już on przyjdzie — mówi.
+
+IV. I tak się też stało. Przyszedł bowiem i zrobił wielki śmiech. Bo każdy z nas, którzyśmy siedzieli, zaczął się cisnąć i odpychać gwałtownie sąsiada, aby Charmides mógł koło niego usiąść, aż jeden z tych, co na brzegu siedzieli, musiał wstać, a drugiegośmy przewrócili na bok. On zaś przyszedł i usiadł pomiędzy mną a Kritiasem. Wtedy naprawdę, przyjacielu, ja się już zacząłem mieszać i gdzieś mi się podziała moja poprzednia śmiałość; zdawało mi się przecież, że bardzo łatwo będę z nim rozmawiał. Kiedy mu Kritias mnie wskazał, że to ja jestem ten, który zna lekarstwo, i ten na mnie oczy obrócił — takie jakieś nieopisane — i właśnie miał mi zadać pytanie, a ci wszyscy z gimnastyki otoczyli nas ze wszech stron jak bałwany morskie, wtedy — uważasz — zobaczyłem, co tam było pod płaszczem, i gorąco mi się zrobiło. Zatraciłem się zupełnie i uważałem, że w sprawach miłosnych najmądrzejszy jest Kydias, który powiedział, mając na myśli pięknego chłopca, a drugiemu radząc:
+
+
+Niech się jelonek przed obliczem lwa
+Strzeże; zwierz weźmie go jak swoją część.
+
+Miałem wrażenie, żem sam padł ofiarą takiego stworu. Z tym wszystkim, kiedy on mnie zapytał, czy znam lekarstwo na głowę, to z wielkim trudem, ale jakoś jednak odpowiedziałem, że znam.
+
+— Więc jakie ono jest? — powiada.
+
+Ja mówię, że to jest taki listek, ale że jest do tego lekarstwa przywiązana jedna modlitewka, którą jeśli ktoś odmawia przy zażywaniu, to lekarstwo całkowicie pomaga. A bez modlitewki listek się na nic nie przyda. A ten powiada: — To ja sobie odpiszę od ciebie tę modlitewkę. — Ja mówię: — Czy tylko w tym wypadku, jeśli mnie do tego jakoś nakłonisz, czy też choćby i nie?
+
+— Jeżeli cię nakłonię, Sokratesie — powiedział, uśmiechnąwszy się.
+
+— No, dobrze — mówię. — A imię moje ty znasz dobrze?
+
+— Jeżeli tylko się nie mylę — powiada. — Przecież niemało się o tobie mówi między moimi rówieśnikami, a przypominam sobie też i ze swoich chłopięcych lat, żeś obcował z Kritiasem, z tym tutaj.
+
+— To bardzo pięknie z twojej strony — powiadam. — Tym mniej się będę przed tobą krył z tą modlitewką, jaka też ona jest. Przed chwilą sam nie wiedziałem, jakby ci to pokazać jej potęgę. To jest, Charmidesie, coś takiego, co nie tylko głowę potrafi wyleczyć, ale tak, jak możeś już i ty słyszał o dobrych lekarzach: kiedy ktoś do nich przyjdzie z chorobą oczu, to podobno, mówią, że nie mogą się brać do leczenia samych tylko oczu, że trzeba się równocześnie zająć całą głową, jeżeli oczy mają być też w porządku. A znowu, jeżeli ktoś myśli, że głowę można jakoś wyleczyć samą dla siebie, bez względu na całe ciało, to też wielka głupota, powiadają. Więc też zaczynają od całości, podają przepisy na sposób życia dla całego ciała i naprzód zaczynają leczyć całość, a potem dopiero część. Czyś nie zauważył, że tak mówią i że to tak jest?
+
+— Owszem — powiada.
+
+— Nieprawdaż, masz wrażenie, że to dobrze mówią, i przyjmujesz tę zasadę?
+
+— Ze wszech miar — powiada.
+
+V. Kiedym usłyszał, że on to chwali, nabrałem na nowo otuchy, powoli zaczęła znowu wzbierać moja śmiałość i wstąpił we mnie z powrotem jakiś ogień życia. Powiedziałem tedy: — Otóż tak samo rzecz się ma, Charmidesie, i z tą modlitewką. Ja się jej nauczyłem tam, na wojnie, od jednego z Traków; to był taki lekarz, spod znaku Zalmoksisa. Mówią, że oni mają sposoby nawet na nieśmiertelność. Więc ten Trak utrzymywał, że lekarze helleńscy dobrze mówią to, co ja w tej chwili przytaczałem. Ale nasz król Zalmoksis, powiada, to jest bóg i mówi, że tak, jak się nie trzeba brać do leczenia głowy bez względu na całe ciało, tak i ciała nie ma co próbować leczyć, zapominając o duszy. Właśnie dlatego lekarzom u Hellenów wymyka się tak wiele chorób, że nie znają tej całości, o którą troskliwie dbać potrzeba i która jeśli nie jest w porządku, to i część nie może się mieć dobrze. Bo wszystko, powiada, z duszy bierze początek — i złe, i dobre, dla ciała i dla całego człowieka stamtąd spływa tak, jak z głowy na oczy. Więc o to przede wszystkim i najbardziej dbać potrzeba, jeżeli i głowa ma być w porządku, i całe ciało. A duszy dobrze robią, powiada, mój kochany, modlitewki pewne. Te modlitewki to są piękne myśli, wyrażone w słowach. Z takich myśli rośnie w duszy rozwaga, a gdy się zakorzeni i stale człowiekowi przysługuje, już wtedy łatwo o zdrowie dla głowy i dla reszty ciała. Więc kiedy mnie uczył tego lekarstwa i tych modlitewek, wówczas: To sobie tylko pamiętaj, powiada, aby cię nikt nie nakłonił, żebyś mu tym lekarstwem głowię kurował, jeżeli ci naprzód duszy nie odda, abyś mu ją modlitewkami leczył. Teraz właśnie, mówi, to jest ten błąd rozpowszechniony między ludźmi, że bez jednego i bez drugiego niejeden próbuje być lekarzem. I bardzo mocno mi przykazywał, żeby mi się nie trafił nikt ani tak bogaty, ani z tak zacnego rodu, ani taki piękny, żeby mnie nakłonić potrafił do innego postępowania. Więc ja — przysiągłem mu przecież — muszę słuchać. Posłucham i ciebie, jeżeli zechcesz, według przykazań tego kogoś z obcych stron, naprzód duszę oddać na to, żeby na nią działał czar tych modlitw trackich — wtedy ci przyniosę lekarstwa na głowę. A jeśli nie — to nic bym ci pomóc nie potrafił, kochany Charmidesie.
+
+VI. Kiedy Kritias usłyszał, com powiedział, mówi: — Sokratesie, toż to by było jak znalazł dla tego młodzieńca — ten ból głowy — gdyby się przez niego musiał i na duszy poprawić. Otóż ja ci powiadam, że Charmides wyróżnia się widocznie pośród rówieśników nie tylko postacią, ale właśnie tym, na co ty powiadasz, że masz czarodziejską modlitewkę. A mówisz, że na rozwagę. Czy prawda?
+
+— Tak jest — powiedziałem.
+
+— Więc żebyś wiedział, że bez żadnego porównania on się wydaje najbardziej rozważny między dzisiejszą młodzieżą, a pod innymi wszystkimi względami — stosownie do swojego wieku — też nikomu nie ustępuje.
+
+— Ano tak — powiadam — przecież to nawet wypada, Charmidesie, żebyś się wyróżniał wszystkimi takimi rzeczami pośród innych. Bo myślę, że pośród tutejszych chłopców nie byle kto inny potrafiłby się poszczycić takimi dwoma domami ateńskimi, które by się razem zeszły i mogłyby wedle wszelkiego prawdopodobieństwa wydawać potomków piękniejszych i lepszych niż twoja rodzina. Przecież dom twojego ojca, dom Kritiasa, syna Dropidesa, znamy z dawnych pieśni pochwalnych Anakreonta i Solona, i z wielu innych poetów jako sławny z piękności i dzielności, i z innego, jak to mówią, błogosławieństwa bożego. A znowu rodzina matki to samo. Przecież od twojego wuja Pyrilampa nikt na całym kontynencie nie uchodzi za piękniejszego ani za większego człowieka; on tyle razy posłował do króla perskiego i do niejednego z dworów azjatyckich w poselstwie jeździł. W ogóle cały ten dom w niczym nie ustępuje drugiemu. Skoro z takich pochodzisz, to wypada, żebyś był pierwszy do wszystkiego. Otóż, jeżeli chodzi o powierzchowność, kochany synu Glaukona, to mam wrażenie, że nikomu z przodków w niczym wstydu nie przynosisz. A jeżeli także rozwagą i innymi zaletami, jak on tu mówił, natura dostatecznie cię wyposażyła, to w szczęśliwej godzinie, mówię — kochany Charmidesie — powiła ciebie matka. To już tak jest. Jeżeli już posiadasz, jak tutaj Kritias mówi, rozsądną równowagę wewnętrzną, jeżeli jesteś dość rozważny, to ci już nie potrzeba ani modlitewek Zalmoksisa, ani Abarisa Hiperborejczyka — już można by ci wręczyć samo lekarstwo na głowę. Ale jeżeli masz wrażenie, że ci jeszcze tego brak, to trzeba jeszcze coś nad tobą odmawiać, zanim ci się lekarstwo poda. Więc ty sam powiedz, czy się na to zgadzasz i czy sądzisz, że masz już dość rozwagi, czy też powiesz, że ci jej jeszcze brak.
+
+Zaczerwienił się Charmides i naprzód wydał się jeszcze piękniejszy. Ta jego wstydliwość dobrze przystawała do jego wieku. A potem bardzo przyzwoicie odpowiedział, że w danej chwili nie jest łatwo ani się zgodzić, ani odpowiedzieć przecząco na to pytanie. Bo przecież, powiada, jeśli zaprzeczę i powiem, że nie jestem rozważny, to z jednej strony nie ma sensu mówić takich rzeczy samemu na siebie, a z drugiej — fałsz zadam Kritiasowi tutaj i wielu innym, którym się wydaje, że właśnie jestem pełen rozwagi — tak on przynajmniej mówi. A jeżeli się zgodzę i sam siebie pochwalę, to może się wydać niesmaczne. Tak, że nie mam ci co odpowiedzieć.
+
+Ja powiedziałem, że słusznie, Charmidesie, odpowiadasz, moim zdaniem, a wydaje mi się też, że dobrze by było wspólnie to rozpatrzyć, czy posiadasz to, o co się dopytuję, czy nie, abyś i ty nie był zmuszony mówić tego, czego nie chcesz, ani też znowu ja żebym się bez rozpoznania nie brał do zabiegów leczniczych. Więc jeżeli ci to odpowiada, to chętnie będę razem z tobą sprawę rozpatrywał. A jeżeli nie, to ci dam pokój.
+
+— Ależ nadzwyczajnie mi to odpowiada — mówi — tak, że z tego właśnie względu tak rzecz rozpatruj, jak sam uważasz, że będzie najlepiej.
+
+VII. — Mnie się więc — powiedziałem — takie rozpatrywanie tej rzeczy wydaje najlepsze. To jasne przecież, że jeśli posiadasz rozwagę, to potrafisz o niej jakiś sąd wydać. Przecież niewątpliwie, jeżeli ona w kimś jest, to przysługując mu, musi wywoływać pewne spostrzeżenie, na podstawie którego mógłbyś sobie urobić sąd o niej, co to jest ta rozwaga i jakie to jest. Czy nie myślisz tak?
+
+— No, myślę — powiada.
+
+— Więc właśnie to, co myślisz — umiesz przecież po helleńsku — właśnie to może byś powiedział, czym ci się to wydaje?
+
+— No może bym i powiedział — mówi.
+
+— Więc, żebyśmy odgadli, czy ty to masz w sobie, czy nie — powiedziałem — powiedz to, czym jest rozwaga, wedle twego zdania?
+
+On się zrazu wahał i nie bardzo chciał odpowiadać. A potem jednak powiedział, że jego zdaniem, rozwaga to jest to, żeby porządnie i ładnie wszystko robić a spokojnie — czy to ulicami chodzić, czy rozmawiać, czy cokolwiek innego robić w ten sam sposób. W ogóle, powiada, mam wrażenie, że to jest pewien spokój, to, o co pytasz.
+
+— Ej — powiadam — czy ty dobrze mówisz? Bo mówią tak nieraz, Charmidesie, o ludziach spokojnych, że to ludzie rozważni. Zobaczmy też, czy mówią do rzeczy. Powiedz mi, czy rozwaga nie należy do rzeczy pięknych?
+
+— Owszem — powiada.
+
+— A czy na lekcji nauczyciela nie najpiękniej jest jednakowe litery wypisywać prędko, czy też spokojnie?
+
+— Prędko.
+
+— A jakże czytać? Szybko, czy powoli?
+
+— Szybko.
+
+— Przecież tak. I grać na kitarze szybko, i mocować się ostro o wiele piękniej niż spokojnie i powoli?
+
+— No, tak.
+
+— No cóż — a bić się na kułaki i brać udział w zawodach złożonych — czyż nie tak samo?
+
+— Owszem, tak.
+
+— A biegać i skakać, i wszystko, co ciało robi, czyż to nie piękniej wypada, jeśli się dokonywa ostro i szybko, a jeśli ociężale, z trudem i spokojnie, to brzydko?
+
+— Wydaje się, że tak.
+
+— Więc nam się wydaje — powiedziałem — że przynajmniej co do ciała to nie spokój, tylko jak największa szybkość i ostrość jest czymś najpiękniejszym. Czy tak?
+
+— Tak jest.
+
+— A rozwaga to coś pięknego?
+
+— Tak.
+
+— Zatem, przynajmniej co do ciała, to nie spokój, ale szybkość będzie raczej wyższym stopniem rozwagi, skoro czymś pięknym jest rozwaga.
+
+— Zdaje się, że tak — powiada.
+
+— No cóż — powiedziałem. — A łatwo się uczyć to coś piękniejszego, czy trudno?
+
+— Łatwo się uczyć.
+
+— A łatwo się uczyć — powiedziałem — to przecież znaczy: uczyć się szybko, a uczyć się trudno znaczy: uczyć się spokojnie i ociężale?
+
+— Tak.
+
+— A uczyć kogoś — czyż nie piękniej, jeśli szybko i energicznie, niż jeśli spokojnie i powoli?
+
+— Tak jest.
+
+— No cóż — a przypominać sobie i zapamiętywać spokojnie i powoli jest piękniej czy też mocno i szybko?
+
+— Mocno — powiada — i szybko.
+
+— A bystrość umysłu czy to nie jest pewna ostrość duszy, a nie: spokojność?
+
+— To prawda.
+
+— Nieprawdaż, a rozumieć to, co się mówi w szkole i u nauczyciela muzyki, i gdziekolwiek indziej — to wszędzie nie jak najspokojniej, ale jak najszybciej jest najpiękniej?
+
+— Tak.
+
+— A dopieroż, kiedy dusza czegoś szuka i namyśla się, wtedy nie najspokojniejszy, mam wrażenie, i nie ten, który się z trudem decyduje i znajduje wyjście, będzie pochwały godzien, tylko ten, który to robi najłatwiej i najprędzej.
+
+— Jest tak — powiada.
+
+— Nieprawdaż, Charmidesie — powiedziałem — wszystko, i jeśli o duszę chodzi, i jeśli o ciało, wszystko, co związane z prędkością i ostrością, wydaje się nam piękniejsze, niż z powolnością i ze spokojem.
+
+— Gotowo tak być — powiada.
+
+— Zatem nie spokojem jakimś będzie rozwaga, ani życie nacechowane spokojem to nie będzie życie pełne rozwagi, wedle tego przynajmniej wywodu. Bo ono musi być piękne, jeśli będzie rozważne. Zatem jedno z dwojga: albo nigdzie w ogóle, albo bardzo mało gdzie chyba te spokojne i powolne działania w życiu nie okazały się piękniejsze niż szybkie i mocne. Jeżeli więc, przyjacielu, czynności spokojnych — powiedzmy już najwięcej — jest równie dużo, jak gwałtownych i szybkich pomiędzy czynnościami piękniejszymi, to i z tego względu rozwaga nie będzie polegała raczej na spokojnym zachowaniu się niż na gwałtownym i szybkim; ani w chodzeniu, ani w mówieniu, ani nigdzie indziej, ani też życie spokojne nie będzie bardziej rozważne od niespokojnego, skorośmy w naszym wywodzie założyli, że rozwaga jest czymś pięknym, a oto pokazuje się, że to, co szybkie, bywa nie mniej piękne jak to, co spokojne.
+
+— Mam wrażenie — mówi — Sokratesie, żeś dobrze powiedział.
+
+VIII. — Więc na nowo — powiadam — Charmidesie, spróbuj się lepiej skupić, zastanów się nad sobą samym i pomyśl, jakim ciebie robi ta rozwaga i jaka też ona musi być, żeby cię takim robić mogła. Wszystko to razem sobie zrachuj i powiedz, tak ładnie i po męsku, czym ona ci się wydaje.
+
+Więc on zatrzymał się chwilę i bardzo po męsku się nad sobą zastanowiwszy, powiada: — Wydaje mi się, że rozwaga powoduje to, że się człowiek wstydzi. Ona robi człowieka wstydliwym i to będzie tyle, co wstyd, ta rozwaga.
+
+— No — powiedziałem — a czyś nie przyznał przed chwilą, że rozwaga to coś pięknego?
+
+— Owszem — powiada.
+
+— Nieprawdaż; i że to ludzie dzielni, dobrzy — ci rozważni?
+
+— Tak jest.
+
+— A czyżby to mogło być coś dobrego, co ludzi nie robi dobrymi?
+
+— No, nie — przecież.
+
+— A to jest nie tylko piękne, ale i dobre?
+
+— Mnie się przynajmniej tak wydaje.
+
+— Jakże to — powiedziałem — a ty Homerowi nie wierzysz, że dobrze mówi, kiedy powiada:
+
+
+Wstyd to nie jest rzecz dobra, gdy kogoś nagli potrzeba.
+
+— No, owszem — powiada.
+
+— A zatem wstyd to bywa chyba coś niedobrego i coś dobrego.
+
+— Widocznie.
+
+— A rozwaga to coś dobrego, skoro dobrymi robi tych, którym przysługuje, a złymi ich nie robi.
+
+— No, doprawdy, wydaje mi się, że jest tak, jak mówisz.
+
+— Zatem rozwaga to nie będzie wstyd, skoro ona jest właśnie dobra, a wstyd bywa nie mniej dobry, jak bywa i zły.
+
+IX. — No, mnie się przynajmniej wydaje — powiada — Sokratesie, że to dobrze powiedziane; ale weź pod uwagę taką myśl o rozwadze, jak ci się ona przedstawi. Bom sobie właśnie przypomniał, com już raz od kogoś słyszał. Ktoś mówił, że rozwaga to byłoby może tyle co: robić swoje. Weźże to pod uwagę, czy ci się wydaje, że słusznie mówił ten, co to powiedział.
+
+A ja na to: A ty urwisie — powiadam — toś ty to od Kritiasa słyszał albo od kogoś innego z mądrych.
+
+— Zdaje się — powiada Kritias — że to od kogoś innego. Bo przecież nie ode mnie. Skądże?!
+
+— Ale co to za różnica, Sokratesie — mówi tamten, Charmides — od kogo ja to słyszałem?
+
+— No, żadna różnica — powiadam. — W ogóle nie to należy brać pod uwagę, kto coś powiedział, tylko to, czy dane powiedzenie jest prawdziwe, czy nie.
+
+— Teraz mówisz słusznie — powiada.
+
+— Na Zeusa — mówię — ten, co to powiedział, nie myślał tak, jak te słowa brzmią, że rozwaga to tyle co: robić swoje. Czy ty myślisz, że nauczyciel w szkole nic nie robi, kiedy pisze albo czyta?
+
+— Ja tam myślę — powiada — że on i wtedy coś robi.
+
+— A czy myślisz, że nauczyciel tylko swoje własne imię pisze i czyta, czy też was, chłopców, uczy i wyście nie mniej pisywali imiona nieprzyjaciół, jak i wasze własne, i przyjaciół?
+
+— Nie mniej.
+
+— A czy to była jakaś drobiazgowa rozwlekłość i brak rozwagi, kiedyście tak robili?
+
+— Nigdy w świecie.
+
+— A przecież nie robiliście każdy swego, jeżeli pisać to znaczy robić coś, a czytać — też.
+
+— Ależ znaczy tak.
+
+— No i leczyć kogoś, przyjacielu, i dom budować, i tkać, i z pomocą jakiejkolwiek sztuki jakiekolwiek dzieło sztuki wykonywać — to przecież zawsze znaczy: coś robić.
+
+— Owszem, tak.
+
+— Więc cóż — powiadam — czy myślisz, że państwo byłoby dobrze urządzone z pomocą takiego prawa, które by nakazywało, żeby każdy swój płaszcz sam robił i prał, i buciki sobie szył, i kubek sobie robił sam i skrobaczkę, i wszystkie inne rzeczy w ten sam sposób — cudzego żeby nie tykał, a tylko swoje żeby każdy wykonywał i robił?
+
+— Nie wydaje mi się — powiada.
+
+— A prawda — mówię — że gdyby w państwie panowała rozwaga, to ono byłoby dobrze urządzone?
+
+— Jakżeby nie — powiada.
+
+— Więc nie o to chodzi — mówię — żeby takie rzeczy i żeby w ten sposób swoje robić — nie może na tym polegać rozwaga.
+
+— Nie wydaje się.
+
+— Więc ten ktoś widocznie zagadki układał, jakem ci przed chwilą mówił; ten, co to powiedział, że rozwaga to tyle co: robić swoje. Przecież nie był taki naiwny. Alboś też jakiegoś durnia słyszał, Charmidesie, który coś takiego mówił.
+
+— Bynajmniej — powiada. — Przeciwnie; wydawał się nawet bardzo mądry.
+
+— A to najpewniej, mam to wrażenie, zadawał taką zagadkę, bo to bardzo trudno dojść, co to ma znaczyć takiego: robić swoje.
+
+— Może być — powiada.
+
+— No, bo cóż by to mogło być, to: robić swoje? Potrafisz powiedzieć?
+
+— Ja nie wiem — powiada — na Zeusa! Cóż tam ja? Ale może nic nie przeszkadza, żeby i ten, co to mówił, sam też nie wiedział, co miał na myśli.
+
+To mówiąc, uśmiechnął się nieznacznie i spojrzał na Kritiasa.
+
+X. Widać było już od chwili, że się Kritias z czymś zmaga i że mu zależy na dobrej opinii u Charmidesa i u całego towarzystwa. Aż dotąd z trudem panował nad sobą; teraz już nie mógł dłużej. Ja mam takie wrażenie, że to z pewnością prawda, com przypuszczał, a mianowicie, że to właśnie od Kritiasa Charmides usłyszał tę odpowiedź o rozwadze. Teraz Charmides nie chciał brać odpowiedzialności za tę myśl, podaną w odpowiedzi, na siebie; wolał, żeby tamten sam jej bronił, więc go prowokował i jawnie się tym popisywał, że jest pokonany.
+
+Więc tamten nie wytrzymał i miałem wrażenie, że się na chłopca gniewa, jak poeta na aktora, który mu jego wiersze źle mówi. Otóż popatrzył na niego i powiedział: — Tak sądzisz, Charmidesie, że skoro ty nie wiesz, co miał na myśli ten, który powiedział, że rozwaga polega na tym, żeby robić swoje, to i on sam też nie wiedział?
+
+— Ależ, mój drogi — powiadam na to — Kritiaszu — to przecież nic dziwnego, że on nie wie — ten mały. Ale ty chyba musisz wiedzieć — i taki duży, i taki wykształcony. Więc jeżeli uważasz, że rozwaga polega na tym, co on mówi, i podejmujesz to zdanie, to ja bym o wiele chętniej z tobą rozważał, czy to prawda, czy nie.
+
+— Owszem — powiada — zgadzam się i podejmuję to stanowisko.
+
+— To bardzo ładnie z twojej strony. Więc powiedz mi. Czy i to też przyjmujesz, o com przed chwilą pytał, że każdy robotnik coś robi?
+
+— O tak.
+
+— A masz wrażenie, że oni zawsze tylko swoje robią, czy też i cudze też?
+
+— I cudze też.
+
+— I bywają rozważni ci, którzy nie tylko swoje robią?
+
+— A dlaczegóżby nie? — powiada. — Cóż przeszkadza?
+
+— Mnie tam nic — mówię — ale popatrz, czy coś nie przeszkadza temu, który naprzód założył, że rozwaga to znaczy robić swoje, a potem mówi, że nic nie przeszkadza, żeby ci też byli rozważni, którzy robią cudze.
+
+— A gdzież ja — powiada on — gdzież ja się na to zgodziłem, żeby rozważni byli ci, którzy robią to, co do drugich należy, jeżelim się zgadzał, że tacy bywają ci, co wyrabiają nie swoje rzeczy?
+
+— Powiedzże mi — mówię na to — to u ciebie nie jest to samo: wyrabiać coś i robić?
+
+— O, wcale nie — powiada. — Ani też pracować i robić. Ja się tego nauczyłem u Hezjoda, który powiedział, że praca nie hańbi. Czy ty myślisz, że gdyby on takie rzeczy nazywał pracą i pracowaniem, i robieniem, jak te, które ty przed chwilą przytaczałeś, to byłby powiedział, że nikogo nie hańbi szycie butów, sprzedawanie rybek solonych albo zajęcie w domu publicznym? Trzeba sądzić, że nie, Sokratesie, ale on też, uważam, odróżniał robienie od działania i pracy i uważał, że robota czasem hańbi — kiedy w niej nie ma piękna — a praca to nie jest nigdy żadna hańba. Piękne i pożyteczne roboty nazywał pracami — tego rodzaju wytwory to były u niego prace i czyny. I trzeba powiedzieć, że miał na myśli tylko dla każdego własne, swoje tego rodzaju rzeczy, a wszystko, co szkodliwe, uważał za obce, za nieswoje. Tak, że wypada mniemać, że i Hezjod, i każdy rozsądny człowiek właśnie tego, co robi swoje, tego nazywa rozważnym.
+
+XI. — Kritiaszu — powiedziałem na to — toż zaraz, jakeś tylko zaczął, zrozumiałem, że tym, co swoje i co własne, ty nazywasz to, co dobre, a robienie rzeczy dobrych nazywasz czynem. Toż ja u Prodikosa słyszałem setki takich rozróżnień słownych. Ja ci pozwalam używać każdego słowa, jak ci się podoba; powiedz tylko jasno za każdym razem, z czym wiążesz nazwę, której używasz. Więc teraz na nowo, od początku, daj jaśniejsze określenie. Więc czynienie dobrych rzeczy, czy robienie, czy jak tam chcesz to nazwać, ty to nazywasz rozwagą?
+
+— Tak jest — powiada.
+
+— Więc nie jest rozważny ktoś, kto robi rzeczy złe, tylko ten, co dobre?
+
+— A tobie, najdroższy, tobie się tak nie wydaje? — powiada.
+
+— Mniejsza o to — mówię — nie to przecież, co się mnie wydaje, rozpatrujemy, tylko to, co ty mówisz teraz.
+
+— No więc ja — powiada — naprawdę, ja tego, co nie robi rzeczy dobrych, tylko złe, nie nazywam rozważnym; a kto robi rzeczy dobre, a nie robi rzeczy złych, ten jest rozważny. Ja ci daję jasne określenie: rozwaga to jest czynienie rzeczy dobrych.
+
+— Może być, że nic ci nie przeszkadza, żebyś prawdę powiedział. A tylko to mi dziwne — mówię — że twoim zdaniem, ludzie rozważni nie wiedzą o swojej rozwadze.
+
+— To nie jest moje zdanie — powiada.
+
+— A czyżeś przed chwilą nie mówił, że u robotników to nic nie przeszkadza i chociaż robią cudze, to mogą być jednak rozważni?
+
+— No mówiłem — powiada. — Albo co?
+
+— No nic. Tylko powiedz mi, czy uważasz, że lekarz jakiś, przyprowadzając kogoś do zdrowia, może robić coś pożytecznego i dla siebie, i dla tego, kogo leczy?
+
+— Owszem, uważam.
+
+— Nieprawdaż — właśnie to, co trzeba, robi ten, kto tak robi?
+
+— Tak jest.
+
+— A kto robi, co trzeba, czyż nie jest rozważny?
+
+— Ależ jest rozważny.
+
+— A czy lekarz musi także koniecznie wiedzieć, kiedy leczy z pożytkiem i kiedy nie? I każdy robotnik — kiedy ma zarobić na pracy, nad którą siedzi, i kiedy nie?
+
+— Może i nie musi.
+
+— Przecież niekiedy — powiedziałem — lekarz pożytecznie działa albo szkodliwie, a sam siebie nie zna z tej strony, jak działa właściwie. A jednak, jeśli działał pożytecznie, to według twego zdania, działał rozważnie. Czyżeś tak nie mówił?
+
+— Mówiłem.
+
+— Nieprawdaż — to zdaje się, że nieraz pożytecznie działa i działa rozważnie, i posiada rozwagę, a jednak sam siebie nie zna z tej strony, że jest rozważny.
+
+XII. — O, to — powiada — Sokratesie, to nigdy nie może zajść. Ale jeśli ty uważasz, że z tego, na com się poprzednio zgodził, to z konieczności wynika, to ja bym może coś z poprzednich twierdzeń zmienił — nie wstydziłbym się przyznać się, żem coś niesłusznego powiedział raczej, niżbym się kiedy zgodził, że człowiek, który siebie samego nie zna, jest rozważny. Ja po prostu uważam, że to właśnie jest rozwaga: znać siebie samego. Ja się zgadzam z tym, który w Delfach taki napis położył u stóp Boga. Mam wrażenie, że ten napis pobożny to jest jakby słowo powitania ze strony Boga, skierowane do tych, którzy wchodzą, zamiast zwyczajnego „ciesz się”. Bo to nie jest właściwe słowo to „ciesz się” i nie należy sobie nawzajem tego zalecać, tylko: rozwagi! Więc to Bóg tak się odzywa do tych, którzy wchodzą do świątyni — inaczej nieco, niż się witają ludzie. To właśnie miał na myśli autor tego napisu, moim zdaniem. I oto mówi Bóg do każdego, który wchodzi, nie co innego, tylko: „Rozważny bądź!” powiada. Trochę zagadkowo się wyraża, jak wieszczbiarz. Bo to: „Poznaj siebie samego!” i to: „Rozważny bądź!” to jest jedno i to samo, jak mówią napisy i ja. Łatwo mógłby ktoś pomyśleć, że to o coś innego idzie. Mam wrażenie, że to się przytrafiło autorom późniejszych napisów, jak ten: „Niczego nad miarę!” i ten: „Poręka, a tuż nieszczęście”. Im się zdawało, że „Poznaj siebie samego!” to jest pewna rada, a nie powitanie ze strony Boga, skierowane do wchodzących. Więc oni sami chcieli też nie mniej dobre rady złożyć u stóp bóstwa i stąd się wzięły te napisy. A dlaczego mówię to wszystko, Sokratesie, to jest taka rzecz: ja ci zostawiam i odstępuję to wszystko, co się poprzednio mówiło. Bo może być, żeś ty mówił o tych rzeczach coś słuszniejszego, może być, że ja, ale tak bardzo jasnego nie było nic w tym, cośmy mówili. A teraz ja mam stanowisko i mam ochotę bronić go wobec ciebie, jeżeli się nie zgadzasz, że rozwaga to jest poznanie siebie samego.
+
+XIII. — Wiesz, Kritiaszu, ty się tak do mnie odnosisz, jakbym ja mówił, że sam dobrze wiem to, o co pytam, i jeżeli tylko zechcę, zgodzę się z tobą. A to nie tak jest — ja przecież za każdym razem szukam razem z tobą tego, co przed nami; szukam, bo sam nie wiem, jak to jest. Muszę się zastanowić i wtedy dopiero powiem, czy się zgadzam, czy nie. Więc poczekaj, niech się zastanowię.
+
+— Owszem, rozważ to sobie — powiada.
+
+— Więc też ja — mówię — rozważam. Jeżeli rozwaga to jest poznanie czegoś, to jasna rzecz, że to musi być pewna wiedza i musi dotyczyć pewnego przedmiotu. Czy nie?
+
+— Owszem — powiada — dotyczy; siebie samego przecież.
+
+— Nieprawdaż, istnieje też wiedza lekarska i dotyczy zdrowia?
+
+— Tak jest.
+
+— Więc gdybyś mnie tak — powiadam — zapytał: ta wiedza lekarska dotyczy zdrowia i na co się nam przydaje i co nam wytwarza, tobym powiedział, że nam przynosi niemały pożytek. Wytwarza nam przecież zdrowie, a to piękny wytwór. Czy przyjmujesz to?
+
+— Przyjmuję.
+
+— A gdybyś mnie zapytał o wiedzę architektów, która dotyczy budowania domów, jaki ona wytwór wyrabia moim zdaniem, tobym powiedział, że mieszkania. I tak samo o innych umiejętnościach. Więc tak samo musisz i ty o rozwadze powiedzieć. Skoro twierdzisz, że to jest wiedza dotycząca samego siebie, to musisz umieć odpowiedzieć na takie pytanie: Kritiaszu, rozwaga, będąc wiedzą o sobie samym, jaki też piękny wytwór nam przynosi — godny swojej nazwy? No, proszę cię, powiedz!
+
+— Ach, Sokratesie — powiada — ty niedobrze szukasz. Przecież ta wiedza ze swej natury nie jest podobna do innych, ani te inne nie są podobne jedna do drugiej. A ty tak się do rozważania bierzesz, jakby one były jednakie. Bo powiedz mi — mówi — na przykład nauka rachunków albo geometria jaki przynosi wytwór w tym rodzaju, jak dom, który daje wiedza architektów, albo płaszcz, dar umiejętności tkackiej, albo inne takie wytwory, których wiele można by wskazać i odnieść do wielu umiejętności? Czy ty potrafisz wskazać jakiś taki wytwór i tych nauk? Nie potrafisz.
+
+A ja powiadam: — Prawdę mówisz, ale to ci potrafię wskazać, czym się zajmuje każda z tych nauk, a co jest różne od samej nauki. Tak, na przykład, nauka rachunków zajmuje się ilościami parzystymi i nieparzystymi; tym, jakie one są same dla siebie i w stosunku do siebie nawzajem. Czy nie?
+
+— Tak jest — powiada.
+
+— A prawda, że to, co parzyste i nieparzyste, to coś innego niż sama nauka rachunków?
+
+— No, jakżeby nie.
+
+— A znowu statyka zajmuje się ciężarami większymi i mniejszymi. A to, co ciężkie i co lekkie, jest czymś innym niż sama statyka. Zgadzasz się?
+
+— Owszem.
+
+— Więc powiedz i to: rozwaga jest wiedzą o czym właściwie — co by było różne od niej samej?
+
+XIV. — To jest właśnie to — powiada — Sokratesie. Właśnie do tego dochodzisz, głębiej patrząc, czym się różni od wszystkich dziedzin wiedzy rozwaga. A ty szukasz jakiegoś podobieństwa między nią i innymi naukami. A to tak nie jest, tylko wszystkie inne nauki są naukami o czymś innym, a o sobie samych nie. A ona jedna jedyna jest nauką o innych naukach i o sobie samej. Ty to przecież doskonale wiesz, tylko, mam wrażenie, że ty robisz właśnie to, czegoś się przed chwilą wypierał: ty mnie usiłujesz zbijać, a zostawiasz na boku to, o czym mowa.
+
+— A jakże ty myślisz — powiadam — toż jeśli przede wszystkim ciebie zbijam, to czy robię to z jakiegoś innego powodu, a nie dlatego, przez co i siebie samego bym przeszukiwał i tropił, i uważał, co mówię: przecież ja się boję, żeby mi się nie zdawało, że coś wiem, choćbym nic nie wiedział, a nie byłbym świadom tego swego stanu. Więc teraz ja ze swojej strony oświadczam, że właśnie to robię — rozpatruję rzecz przede wszystkim ze względu na siebie samego, a może też i na innych znajomych. Czy nie myślisz, że to jest wspólne dobro prawie wszystkich ludzi, kiedy się wyjaśnia każda rzecz, jak się ma właściwie?
+
+— Owszem — powiada — Sokratesie. Co do mnie, to i owszem.
+
+— Więc bądź dobrej myśli — mówię — szczęście z tobą, i odpowiadaj na pytania, jak ci się wydaje, a nie dbaj o to, czy tam Kritiasa zbijają czy Sokratesa. Na to jedno tylko zważaj, na samą myśl patrz, co też z niej wyjdzie w ogniu dyskusji.
+
+— Zrobię tak — powiada. — Mam wrażenie, że mówisz, jak się należy.
+
+— Więc powiedz — mówię — o rozwadze jak ty właściwie mówisz?
+
+XV. — Mówię tedy — powiada — że ta jedna jedyna pośród innych rodzajów wiedzy jest wiedzą o samej sobie i o wszystkich innych wiedzach.
+
+— Nieprawdaż — powiadam — to ona będzie chyba też wiedzą i o niewiedzy, skoro zajmuje się wiedzą?
+
+— O, tak — powiada.
+
+— Zatem jedynie tylko człowiek rozważny znać będzie siebie samego i potrafi zdać sprawę z tego, co właśnie wie i czego nie wie, i innych tak samo potrafi rozpatrywać z góry i dojrzeć, co ktoś wie, a co znów wydaje mu się tylko, że wie, a nie wie wcale — i tego nie dokaże nikt inny. To właśnie znaczy być rozważnym i to jest rozwaga: znać siebie samego i wiedzieć, co się wie i czego się nie wie. Czy ty to masz na myśli?
+
+— Tak jest — powiada.
+
+— W takim razie — mówię — na nowo — trzeci kielich dla Zeusa Zbawiciela — jakby od początku, rozpatrzmy najpierw, czy to możliwe, czy niemożliwe, żeby wiedzieć, co się wie i czego się nie wie, że się to wie i że się tego nie wie. Następnie, jeżeli to jest całkowicie możliwe, to jaki mielibyśmy pożytek z tej wiedzy.
+
+— Więc trzeba to rozpatrzyć — powiada.
+
+— A więc — powiadam — Kritiaszu, zobacz no, czy może ty będziesz miał z tym mniejszy kłopot ode mnie. Bo ja drogi nie widzę. A z czym kłopot mam, ja ci pokażę. Dobrze?
+
+— Proszę bardzo — powiada.
+
+— Więc jakże to — mówię — zatem wszystko razem by tak było: jeżeli jest tak, jakeś przed chwilą tutaj mówił, to istniałaby jedna jakaś wiedza, która nie dotyczy czegoś innego, tylko siebie samej i innych gałęzi wiedzy, a niewiedzy również ta sama?
+
+— Tak jest.
+
+— No zobaczże, przyjacielu, jakie my dziwactwo chcemy twierdzić. Bo jeżeli spróbujesz poszukać tego samego gdzieś indziej, między innymi rzeczami, to zacznie ci się to wydawać niemożliwe. Tak myślę.
+
+— Jakże to i gdzie?
+
+— W takich oto rzeczach: Zastanów się, czy masz wrażenie, że istnieje jakiś wzrok, jakieś widzenie, które nie odnosi się do rzeczy, danych także innym wzrokom, ale jest widzeniem samego siebie oraz innych widzeń, a niewidzeń tak samo. I ono barwy nie widzi żadnej, chociaż jest widzeniem, widzi tylko siebie samo i inne widzenia. Czy wydaje ci się, że istnieje jakieś takie widzenie?
+
+— Na Zeusa, wcale mi się tak nie wydaje.
+
+— No cóż, a słuch, który głosu żadnego nie słyszy, a słyszy tylko sam siebie i słyszy inne słuchy, a niesłuchy tak samo?
+
+— I to nie.
+
+— W ogóle weź pod uwagę wszystkie rodzaje spostrzeżeń, czy ci się któreś wyda spostrzeżeniem spostrzeżeń i siebie samego; takim, co to nie spostrzega nic z tych rzeczy, jakie spostrzegają inne spostrzeżenia?
+
+— Nie wydaje mi się.
+
+— A pożądanie, myślisz, że istnieje jakieś takie, które nie jest pożądaniem jakiejś rozkoszy, tylko siebie samego i innych pożądań?
+
+— No nie, przecież.
+
+— Ani woli takiej nie ma, która by się nie zwracała do żadnego dobra, tylko siebie samej chciała oraz innych chceń?
+
+— No nie.
+
+— A miłość, powiedziałbyś, że istnieje taka jakaś, która nie kocha żadnego piękna, tylko siebie samą i inne kochania?
+
+— No nie — powiada — co do mnie…
+
+— A strach jakiś taki zauważyłeś już kiedy, który się boi siebie samego oraz innych strachów, a nie boi się ani jednej rzeczy strasznej?
+
+— Nie zauważyłem — powiada.
+
+— A sąd taki, który o sądach sądzi i o sobie samym, a nie sądzi nic o tym, o czym inne sądy sądzą?
+
+— Nigdy.
+
+— Tylko zdaje się, że wiedzę jakąś przyjmujemy taką, która nie jest wiedzą o żadnym przedmiocie innym, tylko o sobie samej i o innych wiedzach?
+
+— Przyjmujemy.
+
+— Prawda, że to dziwnego coś, jeżeli nawet i jest taka? No, nie spierajmy się, że jej nie ma, tylko patrzmy jeszcze, czy jest.
+
+— Słusznie mówisz.
+
+XVI. — Więc proszę cię. Ta wiedza jest wiedzą o czymś i ma jakąś taką siłę, żeby mieć swój przedmiot? Czy tak?
+
+— Tak jest.
+
+— Przecież o tym, co większe, mówimy też, że ma taką jakąś siłę, żeby mogło być od czegoś większe.
+
+— Ono też ma!
+
+— Prawda, że od czegoś mniejszego, jeśli będzie większe?
+
+— Koniecznie.
+
+— Więc, gdybyśmy znaleźli coś większego w tym rodzaju, że ono byłoby większe od rzeczy większych i od siebie samego, a nie byłoby większe od niczego innego, tak, jak to są inne rzeczy większe, to musiałoby mu przysługiwać to, że będąc większe od samego siebie, musiałoby równocześnie być od samego siebie mniejsze. Czy nie?
+
+— Musi tak być koniecznie — powiada — Sokratesie.
+
+— Nieprawdaż, i jeśli coś jest dwa razy większe od innych rzeczy dwa razy większych i od siebie samego też, to będąc połową samego siebie, byłoby dwa razy większe od siebie i od innych. Nic nie jest przecież dwa razy większe od czegoś innego, jak tylko od połowy.
+
+— To prawda.
+
+— Więc będąc większe od siebie samego, czyż nie będzie zarazem mniejsze, i cięższe zarazem i lżejsze, i starsze, a równocześnie młodsze, i pod każdym innym względem tak samo? Cokolwiek by swoją siłę do siebie samego zwracało, czyż nie będzie zarazem miało i tej istoty, do której siłę posiada? Ja coś takiego mam na myśli: na przykład słuch — powiemy — to nie czegoś innego jest słuchem, tylko głosu. Czy tak?
+
+— Tak.
+
+— Nieprawdaż, jeżeli słuch ma słyszeć siebie samego, to sam musi mieć i głos. Inaczej by siebie nie usłyszał.
+
+— Koniecznie tak być musi.
+
+— No a widzenie, mój drogi, jeśli ma widzieć siebie samo, to musi mieć koniecznie jakiś kolor, bo widzenie nigdy nie potrafi dojrzeć czegoś bez koloru.
+
+— Nie potrafi.
+
+— Więc widzisz, Kritiaszu, że cośmy tylko przeszli, to jedno się nam w ogóle niemożliwe wydaje, a drugie mocno niewiarygodne, żeby swoją siłę mogło do samego siebie kierować. Bo żeby wielkości i ilości, i tego rodzaju rzeczy to umiały, to w ogóle niemożliwe. Czy tak?
+
+— Tak jest.
+
+— A znowu słyszenie i widzenie, i jeszcze ruch zdolny samego siebie poruszać, i ciepło, które siebie samo ogrzewa, i wszystkie tego rodzaju rzeczy — w to jedni mogą nie uwierzyć, drudzy może i tak. Ale na to potrzeba jakiegoś wielkiego człowieka, który to należycie szczegółowo rozpatrzy i powie, czy żaden byt swojej siły do siebie samego nie zwraca (oprócz wiedzy), tylko zawsze do czegoś innego, czy też jedne rzeczy to robią, a drugie nie. I jeśli są jakieś byty, które się same do siebie odnoszą, to czy do nich należy wiedza, którą my nazywamy rozwagą. Ja sobie nie dowierzam, żebym umiał to rozpatrzyć. Dlatego ani nie potrafię się o to spierać, czy może istnieć taka wiedza o wiedzy, ani, jeśliby nawet istniała, nie sądzę, żeby nią była rozwaga, zanimbym się nie przyjrzał, czy ona, będąc czymś takim, przynosiłaby nam jakiś pożytek, czy nie. Przeczuwam jakoś i zgaduję, jak wieszczek, że rozwaga to jest coś pożytecznego i dobrego. A ty, synu Kalajschra — ty mówisz, że ona jest czymś takim: wiedzą o wiedzy i o niewiedzy — to musisz naprzód dowieść, że to jest możliwe, jakem to przed chwilą mówił, a oprócz tego, że możliwe, jeszcze i tego dowieść, że to pożyteczne. A ja ci zaraz pełną rację przyznam, żeś słusznie powiedział, czym jest rozwaga.
+
+XVII. Kiedy Kritias to usłyszał i zobaczył, w jakim jestem kłopocie — wtedy, jak ci, co na ziewających patrzą, zaraz i sami zaczynają to samo robić, tak i on, miałem wrażenie, ode mnie się moim kłopotem zaraził i nie wiedział, którędy iść. A że ambitny był zawsze, więc wstydził się obecnych przy rozmowie i ani się ze mną zgodzić nie chciał, bo nie był w stanie przeprowadzić tych rozróżnień, do których go zachęcałem, tylko mówił coś tam niejasno, pokrywając kłopot. Więc żeby naszą rozmowę pchnąć naprzód, powiedziałem: — Jeżeli chcesz, Kritiaszu, to teraz zgódźmy się na to, że to jest możliwe, taka wiedza o wiedzy. Innym razem będziemy się zastanawiali, czy tak jest, czy nie. Więc proszę cię, przypuśćmy, niechby to i było możliwe, to o ileż by to ułatwiało wiedzę o tym, co się wie i czego się nie wie? Bośmy przecież powiedzieli, że na tym polega poznanie siebie samego i rozwaga. Czy tak?
+
+— Owszem, tak — powiada — Sokratesie, i to się chyba dobrze trzyma razem. Bo jeżeli ktoś ma wiedzę, która samą siebie poznaje, to on będzie chyba i sam taki, jakie jest to, co on posiada. Tak, jak ktoś, kto ma szybkość, jest szybki, a kiedy ma piękność, jest piękny, a gdy ma poznanie, wtedy poznaje. Więc jeśliby kto miał wiedzę o sobie samej, to miałby poznanie siebie samego.
+
+— O to się nie będę spierał, że jeśliby kto posiadał coś, co samo siebie poznaje, to i sam siebie by znał — powiedziałem — ale gdyby to ktoś i miał, to czyż musiałby zarazem wiedzieć, co wie i czego nie wie?
+
+— Dlatego, Sokratesie, że to i tamto to jest jedno i to samo.
+
+— Może być — powiadam — ale ja bodaj że zawsze jestem taki sam. Bo znowu nie rozumiem, jakim sposobem to by było jedno i to samo: wiedzieć, co się wie, i wiedzieć, czego się nie wie.
+
+— Jak mówisz? — powiada.
+
+— W ten sposób, mówię: Taka wiedza o wiedzy czy potrafi rozróżnić coś więcej, jak tyle tylko, że z tych dwóch rzeczy to jest wiedza, a tamto nie jest wiedza?
+
+— No nie, tylko tyle właśnie.
+
+— A czy to jest jedno i to samo: wiedza i niewiedza o zdrowiu oraz wiedza i niewiedza o tym, co sprawiedliwe?
+
+— Żadną miarą.
+
+— Tylko to — myślę — będzie medycyna, tamto polityka, a to tutaj nic innego, tylko wiedza.
+
+— No, jakżeby nie?
+
+— Nieprawdaż, gdyby ktoś, oprócz tego, w dodatku nie znał się na zdrowiu i na tym, co sprawiedliwe, a znałby tylko samą wiedzę, to mając tylko wiedzę o tym jednym, o wiedzy, umiałby, myślisz, poznawać u siebie i u drugich, że ktoś coś wie i że pewną wiedzę posiada? Czy tak?
+
+— Tak.
+
+— A to, co się właściwie poznaje przez tę wiedzę, to jak i skąd on będzie wiedział? Przecież się poznaje zdrowie przez medycynę, a nie przez rozwagę, harmonię z pomocą teorii muzyki, a nie z pomocą rozwagi, a budowę domów z pomocą nauki architektury, a nie z pomocą rozwagi, i wszystko w ten sposób dalej. Czyż nie?
+
+— No, pokazuje się.
+
+— A z pomocą rozwagi, jeżeli to jest jedynie tylko wiedza o wiedzach, jakim sposobem ktoś będzie wiedział, że poznaje zdrowie albo że budowę domów?
+
+— No, nie sposób.
+
+— Zatem nie będzie wiedział tego, co wie — ktoś, kto samej rzeczy znać nie będzie, a to tylko będzie wiedział, że wie.
+
+— Wydaje się.
+
+XVIII. — Zatem być rozważnym i rozwaga to nie będzie to: wiedzieć, co się wie i czego się nie wie, tylko chyba to jedynie: wiedzieć, że się wie i że się nie wie.
+
+— Gotowo tak być.
+
+— Zatem ani kogoś innego taki człowiek skontrolować nie potrafi, kogoś, kto powiada, że coś wie; przekonać się, czy on naprawdę wie to, co mówi, że jakoby wie, czy też wcale tego nie wie. Tyle tylko, zdaje się, pozna, że ktoś ma jakąś wiedzę, a o czym ta wiedza jest, tego mu rozwaga rozpoznać nie da.
+
+— Nie wygląda na to przynajmniej.
+
+— Zatem ani tego, który udaje lekarza, a nie jest nim, ani tego, który naprawdę jest lekarzem, rozpoznać nie potrafi, ani nikogo innego z tych, co się znają na czymś, odróżnić od tych, co nie. Bo zastanówmy się nad tym: jeżeli taki rozważny albo kto bądź inny zechce rozpoznać prawdziwego lekarza i odróżnić go od tego, co nie jest lekarzem, czyż nie tak postąpi: nie będzie z nim przecież rozprawiał o wiedzy medycznej, bo na tym się nic nie rozumie lekarz, jakeśmy mówili, tylko będzie z nim mówił o zdrowiu i o chorobie. Czy nie?
+
+— No tak.
+
+— Przecież lekarz nic nie wie o wiedzy — myśmy oddali tę sprawę samej tylko rozwadze.
+
+— No tak.
+
+— No, i o wiedzy medycznej też nic nie wie lekarz, bo i to przecież wiedza.
+
+— No, prawda.
+
+— Więc tylko tyle, że ten ma jakąś tam wiedzę, tyle tylko rozpozna u lekarza ktoś rozważny. A jak będzie trzeba przekonać się i dojść, co to za wiedza, to cóż? Będzie musiał jednak zobaczyć to, o czym ona jest. Czyż nie tym się określa każda wiedza — nie tym tylko, że jest wiedzą, ale i jaką wiedzą, wiedzą o czym?
+
+— No, tym przecież.
+
+— A wiedza medyczna jest określona jako inna od innych gałęzi wiedzy tym, że jest wiedzą o zdrowiu i o chorobie?
+
+— No tak.
+
+— Więc na to musi patrzeć ten, który chce medycynę widzieć, na to, czym ona się zajmuje — przecież nie na to, co poza jej zakresem, czym ona się *nie* interesuje zgoła?
+
+— No, nie na to przecież.
+
+— Zatem na terenie zdrowia i chorób będzie tropił lekarza, o ile też to lekarz, ktoś taki, kto dobrze szuka.
+
+— Zdaje się.
+
+— Nieprawdaż, na jego słowa i na jego postępki w tym zakresie będzie patrzył i uważał, czy słowa będą prawdziwe, a postępki słuszne?
+
+— Koniecznie.
+
+— A czyż bez znajomości medycyny potrafiłby ktokolwiek śledzić jedno lub drugie?
+
+— Przecież nie.
+
+— Ani też nie potrafi tego zrobić, zdaje się, nikt inny, tylko lekarz — wcale nie ten rozważny. Musiałby być jeszcze lekarzem przy tej rozwadze.
+
+— Jest tak.
+
+— Więc najprawdopodobniej, jeśli rozwaga jest tylko wiedzą o wiedzy i o niewiedzy, to ani lekarza rozpoznać nie potrafi i dojść, czy on się zna na swojej sztuce, czy się nie zna, tylko udaje albo mu się zdaje, że coś umie, ani nie rozpozna nikogo innego z tych, którzy choć coś trochę wiedzą, tylko rozezna uczestnika tej samej sztuki, tak samo, jak i inni rzemieślnicy.
+
+— Okazuje się — powiada.
+
+XIX. — Więc jakiż pożytek — mówię — Kritiaszu, mielibyśmy jeszcze z rozwagi, gdyby ona była taka? Gdyby człowiek rozważny, jakeśmy to zakładali, wiedział, co wie i czego nie wie, o jednych rzeczach wiedział, że je zna, o drugich, że ich nie zna, i umiałby te same stany rozpoznawać u drugich, to wielki by nam pożytek przynosiła rozwaga. Bobyśmy mogli przejść przez życie bez błędu — my sami, mający rozwagę, i wszyscy inni, którzy by byli pod naszymi rządami. Bo ani sami nie bralibyśmy się do działania w zakresie, na którym się nie rozumiemy, tylko byśmy wyszukiwali takich, co się znają, i tym byśmy prace powierzali, anibyśmy swoim podwładnym nie polecali robić nic innego, jak tylko to, co by oni najsłuszniej robić mogli. A to by było to, o czym by posiadali wiedzę. W ten sposób mógłby pięknie kwitnąć dom, w którym by rozwaga panowała. Mogłoby kwitnąć państwo i wszystko, gdzie by tylko rządziła rozwaga. Bo po usunięciu błędu, a za wskazówkami słuszności w każdym działaniu musi nas spotykać powodzenie, a za powodzeniem idzie szczęście. Czyż nie tak, powiadam, Kritiaszu, mówiliśmy o rozwadze, mówiąc, jak wielkim dobrem byłoby: wiedzieć, co ktoś wie i czego nie wie?
+
+— Tak jest — powiada — tak jest.
+
+— A tymczasem — mówię — widzisz, że nigdzie się żadna tego rodzaju wiedza nie zjawia.
+
+— Widzę — powiada.
+
+— A może przynajmniej takie oto dobro przynieść potrafi to, cośmy teraz jako rozwagę znaleźli, ta wiedza o wiedzy i o niewiedzy, że kto by ją posiadał, ten i łatwiej by się uczył, do jakiejkolwiek by się wziął nauki, i wszystko by mu się jaśniej przedstawiało, bo w każdej chwili miałby na oku nie tylko przedmiot studium, ale i naukę samą. Taki i drugim piękniej każdą rzecz wyłożyć potrafi, której się sam nauczy, a ci, którzy będą wykładali bez tego, będą dawali wykłady słabsze, lichsze. Może to, przyjacielu, tylko coś w tym rodzaju potrafimy zyskać na rozwadze, a my za czymś większym patrzymy i szukamy, czy się tam nie znajdzie jakiś pożytek większy, niż jest naprawdę?
+
+— No, bardzo możliwe, że tak jest — powiada.
+
+XX. — Może być — mówię. — A może być i to, że myśmy szukali czegoś nie do rzeczy. Dlatego, że jakoś mi się dziwacznie zaczyna przedstawiać ta rozwaga, jeżeli ona ma być taka. Zobaczmyż, jeśliś łaskaw; zgódźmy się i na to, że może istnieć wiedza o wiedzy i, cośmy od początku zakładali, że rozwaga polega na tym, żeby wiedzieć, co się wie i czego się nie wie; nie opuszczajmy tego stanowiska, tylko, dajmy na to, niechby tak było. Więc wszystko to przyjąwszy, zastanówmy się jeszcze lepiej, czy też się nam coś w tym rodzaju na cokolwiek przyda. Bo to, cośmy przed chwilą mówili, że wielkim dobrem byłaby rozwaga, gdyby była czymś takim i gdyby tak rządziła krajami i domami, i państwami, to — wiesz, Kritiaszu — nie podoba mi się jako ustalona teza.
+
+— Jakże to? — powiada.
+
+— Bo zbyt łatwo — mówię — zgodziliśmy się, że to by było jakieś wielkie dobro dla ludzi, gdyby każdy z nas to robił, na czym się zna, a na czym by się nie znał, oddawał to do roboty innym — znawcom.
+
+— Jakże to — powiada — więc to niedobrze, żeśmy się na to zgodzili?
+
+— Nie mam wrażenia, żeby dobrze — mówię.
+
+— To są dziwactwa jakieś, naprawdę, Sokratesie.
+
+— Na psa — powiadam — i mnie się też tak samo zdaje. I w tej chwili, i przedtem, kiedym tak patrzył, to mówiłem, że jakieś dziwactwa mi świtają przed oczami i że się boję, abyśmy czasem nie zmylili drogi w rozważaniu. Bo doprawdy, jeżeli — już niechby tam nawet — jeżeli rozwaga jest czymś takim, to ja zgoła nie widzę, jaki właściwie przynosi nam pożytek. Tak mi się wydaje.
+
+— Jakże to? — mówi. — Powiedzże, abyśmy i my wiedzieli, co masz na myśli.
+
+— Mnie się zdaje, że plotę ni w pięć, ni w dziewięć — powiedziałem — a jednak trzeba rozpatrzyć to, co człowiekowi świta przed oczami, a nie przepuszczać lekkomyślnie przez palce, jeżeli ktoś o siebie dba choć trochę.
+
+XXI. Więc posłuchaj — powiadam — mojego snu, wszystko jedno, czy przyszedł przez rogową bramę, czy przez bramę z kości słoniowej. Otóż, gdyby nami całkowicie kierowała rozwaga i była zgodna z naszym obecnym określeniem, to wszystko by się robiło zgodnie z naukami i ani żaden taki, co się za sternika podaje, a wcale nim nie jest, w pole by nas nie wywodził, ani lekarz, ani wódz, ani żaden inny, który udaje, że wie coś, czego nie wie, nie ukryłby się przed naszymi oczami. A gdyby tak było, to nic innego, tylko bylibyśmy przez to zdrowsi na ciele, niż dziś jesteśmy, i z niebezpieczeństw na morzu i na wojnie łatwiej wychodzilibyśmy cało, i sprzęty, i przyodziewek, i buty wszelkiego rodzaju, i w ogóle rzeczy wszystkie mielibyśmy prawidłowo zrobione, boby je nam robili prawdziwi fachowcy. A jeżeli byś i wieszczbiarstwo chciał uważać za wiedzę o tym, co ma być, a na to się możemy zgodzić, to gdyby nad nią też stała rozwaga, to musieliby sobie pójść precz szarlatani, a mielibyśmy prawdziwych proroków do przepowiadania tego, co ma być. Gdyby się tak urządził ród ludzki, to pojmuję, że zacząłby postępować i żyć zgodnie z nauką. Stałaby na straży rozwaga i nie pozwalałaby się niewiedzy wtrącać tu i tam i mieszać się do naszych robót. Ale czy postępując zgodnie z wiedzą, postępowalibyśmy dobrze, i czy bylibyśmy szczęśliwi, tego jeszcze nie możemy wiedzieć, kochany Kritiaszu.
+
+XXII. — Ależ proszę cię — powiada — niełatwo znajdziesz jakąś inną drogę do szczęścia, jeżeli będziesz wiedzę lekceważył.
+
+— W takim razie poucz mnie w dodatku — mówię — jeszcze o pewnym drobiazgu. Jaką wiedzę, powiadasz? Czy o szyciu butów?
+
+— Na Zeusa, nie tę przecież.
+
+— Czy o obróbce brązu?
+
+— Nic podobnego.
+
+— A to wełny, czy drzewa, czy innych tam takich rzeczy?
+
+— Przecież nie to.
+
+— Więc jeszcze nie ustalamy — powiadam — tej zasady, że szczęśliwy jest ten, co żyje zgodnie z wiedzą. Bo ci, o których teraz mowa, mogą żyć wedle wskazań wiedzy, a ty się nie zgadzasz, żeby byli szczęśliwi; więc człowiek musi żyć zgodnie z wiedzą o czym właściwie, żebyś ty go określił jako szczęśliwego? Może ty masz na myśli to, o czym mówiłem przed chwilą — myślisz może o takim, który wie wszystko, co będzie, o wieszczbiarzu? Tego, czy kogoś innego masz na myśli?
+
+— Ja i o nim myślę — powiada — i o innym też.
+
+— O kim? — mówię. — Chyba nie o takim, który by oprócz przyszłości znał także całą przeszłość i teraźniejszość i nie miałby luk w swojej wiedzy; załóżmy, że jest ktoś taki. Myślę, że jeszcze większej wiedzy nie mógłbyś przyznać nikomu z żywych.
+
+— Nie mógłbym.
+
+— Więc ja bym to jeszcze pragnął wiedzieć, która to wiedza robi go szczęśliwym. Czy wszystkie w jednakim stopniu?
+
+— Żadną miarą w jednakim — powiada.
+
+— Więc któraż najbardziej? Która mu co poznawać daje i z teraźniejszości, i z przeszłości, i z przyszłości? Może ta, co warcaby?
+
+— Jakie tam warcaby — powiada.
+
+— A może ta, co rachunki?
+
+— Nic podobnego.
+
+— A może ta, co zdrowie?
+
+— Ta już raczej — powiada.
+
+— A którą najwięcej mam na myśli — mówię — to ta, która dotyczy czego?
+
+— Która dotyczy dobra — powiada — i zła.
+
+— A ty niecnoto — mówię mu — tyle czasu mną w kółko kręcisz, a w sekrecie trzymasz, że to nie życie zgodne z wiedzą pozwala dobrze żyć i znaleźć szczęście, ani też to nie jest rzecz wszystkich innych nauk, tylko jedna jedyna wyłącznie jest taka; to ta o dobrym i złym. Bo jeśli, Kritiaszu, zechcesz ją usunąć z grona innych nauk, to i medycyna gotowa gorzej uzdrawiać, i nauka szewstwa gorsze nam buty uszyje, i tkactwo da lichsze ubranie, i wiedza sternika nas nie uchroni od śmierci na morzu, ani strategika na wojnie.
+
+— Wcale nie gorzej to będą robiły — powiada.
+
+— Ależ, kochany Kritiaszu, opuści nas dobro i pożytek, który one mają na celu, jeżeli nam tej wiedzy zabraknie.
+
+— To prawda.
+
+— Ta wiedza to chyba nie będzie rozwaga; tylko taka, która ma nasz pożytek na celu. To nie jest wiedza o wiedzach i niewiedzach, tylko o dobrym i złym. Tak, że jeśli ta właśnie i ta dopiero jest pożyteczna, to rozwaga gotowa wcale nie być użyteczna.
+
+— Jakże to? — powiada. — Więc ona się nie potrafi przydać? Przecież jeśli jest wiedzą o wiedzach i stoi na czele innych nauk, to musi panować i nad tą nauką o dobrym i złym, i w ten sposób się nam przydawać musi.
+
+— A czyż i zdrowie sprowadzać potrafi — ona właśnie, a nie medycyna? I inne wytwory sztuk czyż ona produkować potrafi, a nie musi każda sztuka swoich własnych dzieł wytwarzać? Czyżeśmy już dawno nie stwierdzili, że to jest tylko wiedza o wiedzy i o niewiedzy, i o niczym więcej? Czy nie tak?
+
+— Pokazuje się.
+
+— Więc ona nie będzie wyrabiała zdrowia.
+
+— No nie.
+
+— Bo zdrowie to wytwór innej sztuki. Czy nie?
+
+— No, innej.
+
+— Ani pożytku, przyjacielu. Bośmy ten wytwór oddali znowu innej sztuce. Teraz właśnie, przed chwilą. Czy tak?
+
+— No tak.
+
+— Więc jakże ma rozwaga być pożyteczna, skoro nic pożytecznego nie wyrabia?
+
+— Nie może być, Sokratesie. Tak się wydaje przynajmniej.
+
+XXIII. — Więc widzisz, Kritiaszu, jak ja się od dawna słusznie bałem i sprawiedliwe sobie robiłem wyrzuty, że do żadnego wyniku do rzeczy nie umiem dojść, kiedy chodzi o rozwagę. Gdybym ja się na coś mógł przydać w pięknym badaniu, nie byłoby się nam wydało czymś nieużytecznym to, co wszyscy zgodnie uważają za rzecz najpiękniejszą. A teraz cóż — klęska z każdej strony i nie możemy dojść, na jaki właściwie byt dawca nazw tę nazwę położył: rozwaga. Myśmy się na niejedno zgodzili, co jakoś nam nie wynikało w rozumowaniu. Toż zgodziliśmy się, że istnieje wiedza o wiedzy, choć na to nie pozwalał tok rozumowania, ani tego pomysłu nie potwierdzał. I zgodziliśmy się, że z pomocą tej wiedzy poznajemy też dzieła innych nauk, choć i na to nie pozwalał tok rozumowania; aż się nam wydawać zaczęło, że człowiek rozważny wie, że wie to, co wie, i wie, że nie wie tego, czego nie wie. Na to przecież była zgoda zupełnie uroczysta — nawet nam przez myśl nie przeszło, że to jest rzecz niemożliwa, żeby coś, czego się w ogóle nie wie, wiedzieć w jakimkolwiek sposobie. Przecież nasza wspólna teza powiada, że taki ktoś wie to, czego nie wie. A mam wrażenie, że trudno o głupstwo większe od tego. Jakoś się nam to dochodzenie nie udało. Byliśmy dzisiaj bardzo grzeczni i ustępliwi, a mimo to prawdy nie znajdujemy; to przecież są kpiny z prawdy: my tutaj od długiego czasu wspólnie i zgodnie lepimy coś i przyjmujemy to jako rozwagę, a to jak na złość i na kpiny okazuje się czymś nieużytecznym.
+
+Jeżeli o mnie chodzi, to i mniej się tym martwię, ale przez ciebie, Charmidesie, powiedziałem, wielkie mam zmartwienie. Że ty, przy takiej powierzchowności, a do tego jeszcze taki bardzo rozważny, żadnego nie będziesz miał pożytku z tej rozwagi — ona ci się na nic w życiu nie przyda. A jeszcze większą mam zgryzotę z tą modlitewką, której mnie Trak nauczył, skoro ona nic nie warta, a ja się jej tak pilnie uczyłem. Ale ja sobie myślę, że to tak nie jest, tylko że ja sam jestem lichy poszukiwacz. Bo przecież rozwaga to wielkie dobro i jeżeli tylko je masz, toś szczęśliwy. Tylko zobacz, czy masz, a nie trzeba będzie modlitewki. Jeżeli je posiadasz, to tym bardziej — ja bym ci tak radził przynajmniej — myśl sobie, że ja jestem gaduła, który plecie trzy po trzy i nie potrafi na żaden temat rozumować porządnie, a ty, im bardziej jesteś rozważny, tym większe twoje szczęście.
+
+XXIV. Otóż Charmides: — Na Zeusa — powiada — Sokratesie, ja nie wiem ani tego, czy mam, ani tego, czy nie mam tej zalety. Bo jakżebym mógł coś wiedzieć o tym, czego wy też nie możecie dojść, co by to było właściwie. Tak przynajmniej mówisz. Zatem ja ci nie bardzo wierzę, Sokratesie, i mam wrażenie, że mi bardzo potrzeba modlitewki. Co do mnie, to nie ma żadnej przeszkody, żebyś je nade mną odmawiał dzień w dzień, aż pokąd sam nie powiesz, że dosyć.
+
+A Kritias powiada: — Doskonale, Charmidesie, jeżeli tak zrobisz, to będzie dla mnie świadectwem, że jesteś rozważny; właśnie to, jeżeli się poddasz czarodziejskim praktykom Sokratesa i nie będziesz go odchodził na krok.
+
+— Już bądź pewny, że będę za nim chodził — powiada — i nie opuszczę go z pewnością. Byłoby bardzo brzydko z mojej strony, gdybym nie słuchał twoich wskazówek i nie robił tego, co mi każe opiekun.
+
+— Tak jest — powiada — ja nakazuję.
+
+— Więc tak będę robił — powiada — od dzisiejszego dnia począwszy.
+
+— Ci dwaj — mówię — co właściwie zamierzają robić?
+
+— Nic — powiada Charmides — nic nie zamierzamy, tylkośmy już postanowili.
+
+— Więc mi gwałt chcesz zadać — mówię — i nawet mi czasu nie dasz do namysłu?
+
+— Ano, gwałt, skoro on nakazuje, a ty się namyśl, co zrobisz wobec tego.
+
+— To nie ma rady — mówię — i nie ma się co namyślać. Jak ty się do czegoś weźmiesz i zaczniesz gwałty robić, nie potrafi ci się oprzeć nikt z ludzi.
+
+— Więc i ty — powiada — ty się też nie opieraj.
+
+— Więc już się nie będę opierał.
+
+
+
+
+Objaśnienia tłumacza
+
+Sokrates mówi uroczo. Dlatego, że nie można prościej. Mówi językiem potocznym, a bardzo plastycznie. Pamięta żywo charakterystyczne szczegóły sceny, którą opisuje. Plac ćwiczeń, niewątpliwie, otacza portyk; przedpokoju do zostawiania ubrań nie ma, wchodzi się od razu do środka. Jest wieczór. Młodzi ludzie kończą ćwiczenia, może się już ubierają, ale mała grupka ma jeszcze nadejść; zapewne już tylko na rozmowę. Pod kolumnadą portyku długie ławy; na nich siedzą dobrzy znajomi Sokratesa.
+
+Chajrefonta znamy już z innych dialogów. Z Obrony wiemy, że Apollina w Delfach niepokoił pytaniem, czy Sokrates jest najmądrzejszym człowiekiem. W jego zachowaniu się widać, że Sokratesa kocha i troszczy się o niego, ale widać też jego nieopanowanie wewnętrzne, kiedy skacze na równe nogi, wyrywa się ze środka grupy, biegnie do Sokratesa i chwyta go za rękę, co nie było u Hellenów w codziennym zwyczaju. Usprawiedliwia go to, że Sokratesa musiał nie widzieć kilka lat. Zabawnie kontrastuje z jego gorączką flegmatyczne zachowanie się Sokratesa i jego krótkie, niecierpliwiące odpowiedzi.
+
+II. Sokrates widocznie interesuje się młodzieżą. Przede wszystkim jej ruchem umysłowym, ale pięknością budowy młodych ludzi również. Nie jest to indywidualna cecha Sokratesa, tylko powszechna cecha środowiska i epoki, która miała przed oczami świeży fryz partenoński i wydała Praksytelesa. W zakładzie gimnastycznym panuje atmosfera młodzieńczych miłostek i adoracji. Kritiasowi najpiękniejszy się wydaje jego stryjeczny brat, przedmiot uwielbień większej grupy młodych.
+
+III. Kiedy Sokrates nazywa siebie niezafarbowanym sznurem w sprawie oceny piękności chłopców, ma na myśli znane narzędzie malarzy pokojowych i murarzy. Murarze helleńscy, kiedy mieli na białym murze kłaść poziomo białe, graniaste płyty marmuru, oznaczali poziomy z pomocą długiego sznura natartego rubryką, tj. czerwonym tlenkiem żelaza. Sznur przyciskano do muru po obu końcach i szarpano go w środku. Sznur, uderzając sprężyście o mur, zostawiał na nim wyraźny czerwony ślad. Ten ślad pozwalał oceniać, która płyta wypadła w obróbce zbyt wysoko, która zbyt nisko i jak wysoko mają sięgać wszystkie razem. Biały sznur na białym murze nie zostawiał żadnego śladu, dlatego nie nadawał się do oceny wysokości kamieni, tak samo jak Sokrates uważa się za niezdolnego do oceny piękności chłopców. Dlatego, że mu się prawie każdy podoba. To żart. Ten fakt, że on odczuwa urok młodości, nie dyskwalifikuje go wcale — przeciwnie: gdyby mu piękno młodych ludzi było na ogół obojętne, dopiero wtedy nie byłoby warto pytać go, kto piękniejszy.
+
+Jeżeli trudno wczuć się w homoseksualny nastrój środowiska, które tu widzimy, trzeba sobie wyobrazić, że Charmides jest dziewczyną, pełną uroku w budowie i zachowaniu się, a opisywane tu przeżycia i stosunki staną się zrozumiałe.
+
+Uwaga Chajrefonta o tym, że twarz schodzi na obwód uwagi, kiedy się ocenia piękno całej postaci człowieka nieubranego, nadzwyczajnie trafna, jeżeli mowa o ludziach znających się na budowie człowieka. Wtedy chodzi o to, czy głowa nie za duża i nie za mała, i jak osadzona na szyi, a już rozstawienie oczu, sylweta nosa, kształt warg, wielkość uszu, wysokość czoła i tym podobne szczegóły, ważne dla piękna samej twarzy, schodzą na drugi plan, stają się szczegółami nikłego znaczenia wobec proporcji wymiarów pionowych i poziomych całego ciała, wobec prawidłowości dużych składników całego aktu. Dlatego np. Afrodyta z Kyreny, stojąca w Termach Dioklecjana w Rzymie, nie zyskałaby wiele, gdyby jej dorobić lub odnaleźć głowę. Nie można by jej tylko zastąpić gałką lub kostką.
+
+Ze słów Sokratesa widać, że nie wystarcza mu w młodym człowieku piękność ciała i podoba mu się przystojny chłopiec dopiero wtedy, jeżeli ma duszę urodziwą. Widać też, że Sokrates pragnie przede wszystkim kontaktu duchowego z tymi, którzy mu się podobają, i że dba o ich opinię. Nie chce młodego człowieka narażać na plotki, więc cieszy się z obecności odpowiedzialnego opiekuna przy rozmowie, o którą prosi. Przyjmuje figiel z rolą lekarza tym łatwiej i chętniej, że on naprawdę czuje się lekarzem głów ludzkich. Dlatego ten figiel ma dwie twarze niejako: wesołą i zupełnie poważną.
+
+IV. Dwie twarze zdaje się mieć i ta scena, w której Sokrates opisuje swoje poznanie się z Charmidesem. Zdawałoby się, że nie mówi serio, że udaje. Wykpiwa naprzód nieopanowane pragnienia tych, którzy sąsiadów z ławki strącają, aby tylko dostać obok siebie Charmidesa, a potem maluje własne przeżycia przy pierwszym zbliżeniu się do uroczego chłopca. Zapewne, że cytat z nieznanego poety Kydiasa jest żartem, jest jawną, figlarną przesadą. Jest to najprawdopodobniej urywek z jakiejś bajki, w której lew z jeleniem wybrali się na łowy, aby się później podzielić upolowaną zwierzyną. Przy podziale wziął lew towarzysza łowów jako swoją część zdobyczy. To żart, ale moment onieśmielenia wobec uroku pięknej postaci jest podpatrzony niewątpliwie na własnym przeżyciu Platona.
+
+Przeżywanie piękna osobistego dysponuje do czci dla przedmiotu upodobania, jeżeli się ten przedmiot wydaje dawcą dobra, które jest mocniejsze niż my sami. Człowiek czuje wtedy własną zależność, boi się spłoszyć i zrazić sobie tego, który dziwną moc nad nim objawia. Moc, która się wydaje dobroczynną. Pragnie go sobie pozyskać, gotów instynktownie do ofiar i pochwał. Równocześnie wstydzi się tego rozbrojenia wewnętrznego przed osobami trzecimi, które mówią, że on jest „pogrążony”. Tak się tworzy znana cześć dla popularnych aktorów, śpiewaków, dawniej dla malarzy, tak się ludzie stają łatwo „wielbicielami” piękności nie zawsze zasługujących na uwielbienie innych. Ten składnik czci nie występuje w duszach skłonnych do podwyższania siebie i do poniżania drugich — miłość ma wtedy raczej charakter egoistyczny, zaborczy, drapieżny, brutalny, wymuszający i łatwo krzywdzący. Ale to jest gorsza odmiana miłości, znamienna dla gorszego typu człowieka. Sokrates opisuje w tej chwili stan wewnętrzny, który go mógł naprawdę owładnąć, i opisuje walkę wewnętrzną jaką w sobie z tym nastrojem prowadzi. On walczy z nim nie dlatego, żeby się drugich wstydził, choć żenuje go tłum, stojący naokoło i mogący kontrolować jego wzruszenie i po swojemu je komentować. Sokrates ma ambicję, więc nie chce być tym, który tylko bierze urok chłopca, a pragnie wziąć i jego serce, i nie chce być tym, który traci głowę i nie potrafi myśleć przytomnie i rzeczowo, kiedy go opadnie urok pięknej postaci. Chce zachować niezależność intelektu od wzruszenia i od potrzeby serca, czyli chce zachować i zachowuje rozwagę (sofrozyne). Dlatego chce być dawcą doniosłego dobra w stosunku do chłopca, chce mu rozmowami pomóc w jasnym myśleniu — to są te modlitewki magiczne, które mają pomagać nie tylko na głowę, ale mają podnosić wartość całego człowieka. To chce przynieść Sokrates Charmidesowi, aby nie być duchowym pasożytem, który pije tylko cudzy wdzięk, a nic drugiemu za to nie daje. Możliwość wymiany dóbr stawia go na nogi wewnętrznie, dodaje mu otuchy w tym stosunku. Uśmiecha mu się rola kierownika intelektualnego i przewodnika. Ona wymaga nietkniętej funkcji intelektu, rozwagi. Sokrates zdobędzie się w tej roli na niezależność myślenia od uczuć tkliwych w stosunku do młodego, uroczego przyjaciela. Widać, jak tu owa rozwaga, owo roztropne zrównoważenie wewnętrzne, o którym będzie mowa w dialogu, wciąż występuje na żywych przykładach dodatnich i ujemnych, zanim się o nim mówić zacznie. Chajrefon i towarzysze objawiają brak tej zalety, a objawia ją Sokrates. Oni działają impulsywnie pod wpływem pragnień; Sokrates, mimo żywych pragnień, potrafi naprzód myśleć o tym, czy nie naraża opinii młodego chłopca — tej myśli hamującej nie poddało mu przecież instynktowne pragnienie, żeby się do niego zbliżyć; ono mogło ją było otamować — i potrafi myśleć o uczciwej wymianie dóbr duchowych, o lekcjach i ćwiczeniach, do których pragnąłby chłopaka namówić.
+
+Zapewne, że i ta propozycja otwiera mu widoki zbliżeń, przede wszystkim duchowych, z pięknym i sympatycznym młodzieńcem — więc i ona leży na linii jego potrzeby instynktownej, ale to nie jest droga bezpośrednich, grubych umizgów, którą by innemu, gorszemu człowiekowi mógł instynkt poddawać w tych warunkach, gdyby instynkt potrafił w danym wypadku otamować intelekt, zamiast się liczyć i uzależniać od drogowskazów rozumu. Sokrates daje tu więc przykład „rozwagi” w znaczeniu helleńskim. Na razie rozmowa toczy się w formie figlarnego flirtu, takiej zabawy, w której ludzie nie mówią sobie wyraźnie, że im chodzi o kontakt osobisty, tylko o jakieś rzeczowe zabiegi. Więc na razie idzie niby to o listek leczniczy i związane z nim magiczne słówka, które trzeba odmawiać przy leczeniu.
+
+Zasada leczenia całości człowieka, kiedy chodzi o schorzenia jakiejś jego części, zupełnie słuszna i bardzo nowoczesna, oparta jest tu na przeczuciu związku organicznego między układami i częściami ciała, który dziś nazywamy konstytucją fizjologiczną i anatomiczną. Pokazuje się, że w Atenach znali tę zasadę już i młodzieńcy w wieku szkolnym.
+
+V. Sokrates ofiarowuje swoje usługi umysłowe Charmidesowi, zapytując go, czy ma ochotę odsłonić się duchowo i poddać się jego wpływowi. Zalmoksis, albo Zamolksis, o którym tutaj mowa, to bóg trackiego plemienia Getów. W Grecji bajano o nim, że był człowiekiem i służył u Pitagorasa, a później cywilizował Traków. W końcu zniknąć miał gdzieś pod ziemią. Prawdopodobnie Hellenowie spotykali u ludów trackich jakieś wierzenia, które im przypominały pitagorejczyków, i stąd te bajki. Znowu w żartach Sokratesa o Trakach i o Zamolksisie brzmi połowa prawdy. Bo z jednej strony kultura intelektu wyniesiona z dyskusji, prawidłowo prowadzonych pod kierunkiem bystrego przewodnika, przynosi przecież naprawdę taki pożytek duszy, tak usprawnia jej działanie i przejawiać się później może w postępowaniu wykształconego człowieka, jak gdyby te rozmowy były zabiegiem magicznym, który ma pomagać zdrowiu ciała. A wysoki poziom intelektualny oddala człowieka od zwierząt i zdaje się przybliżać go do istot potężniejszych niż ludzie. Sokrates widzi w intelekcie pierwiastek boski, czynnik wieczny, nieprzemijający. Dlatego to ci jego lekarze traccy umieją pono nawet nieśmiertelność ludziom zapewniać. W pewnym znaczeniu zapewnił ją Platon i Sokratesowi, a nie zrobił tego niczym innym, jak tylko też swymi dialogami, które pisał. Z drugiej strony Platonowi samemu sprawa rozwagi nie przedstawiała się w chwili pisania dialogu w sposób kryształowo jasny i zdecydowany; więc daje do zrozumienia, że to, co tu Sokratesowi w usta włoży, to nie będzie jeszcze zrozumiała proza helleńska, tylko raczej jakby zaklęcia i zamawiania trackie — jakieś dziwaczne i mętne, i niezrozumiałe, ale cudotwórcze mimo wszystko.
+
+To, bez czego niejeden teraz próbuje być lekarzem, to jest 1. lekarstwo jakieś wypróbowane dla całego człowieka i 2. modlitewka sekretna, czyli wpływ psychiczny na duszę pacjenta.
+
+VI. Kritias bez zastrzeżeń chwali Charmidesa, a Sokrates chwali jego dalszą rodzinę i stawia go figlarnie w trudnym położeniu, kiedy mu zadaje pytanie, czy posiada rozwagę. Odpowiedź Charmidesa świadczy, że chłopak jest rozsądny i taktowny i nie wygląda na zarozumiałego i próżnego, a przynajmniej nie chce za takiego uchodzić. Inaczej byłby się bez wahania przyznał do zalety, o którą go pytają.
+
+Abaris Hiperborejczyk to jakiś mityczny mag, cudotwórca, który miał wędrować po świecie ze strzałą Apollina w ręku, zajęty oczyszczaniem z grzechów i prorokowaniem. Później opowiadano o nim, że na tej strzale latał w powietrzu. Hiperborejczycy zaś to pierwotnie mieli być, według wierzeń helleńskich, szczęśliwi bogowie sponad gór, którym cześć oddawano szczególnie na Delos i w Delfach. Później to miał być lud jakiś, osobliwie czysty i szczęśliwy. Wyobrażano go sobie na dalekiej północy. Sokrates zdaje się objawiać krytyczny stosunek do tych podań, a tych wyrazów używa przenośnie. Nie ma cudów Zamolksisa i Abarisa, ale możliwy jest cud wychowania intelektualnego i zapłodnienia duchowego. I cud, i sprawa, doprawdy, boska. Tak, zdaje się, myśli.
+
+Sokrates proponuje Charmidesowi analizę psychologiczną, aby się przekonać, czy młodzieniec posiada rozwagę. Chłopak się godzi najchętniej, ale jakoś nie dochodzi do tego. To, co następuje, nie jest badaniem psychologicznym Charmidesa, tylko próbą ustalenia granic w użyciu wyrazu znanego z mowy potocznej.
+
+VII. Zaczyna się rzecz od psychologicznego błędu, który się przytrafia Sokratesowi. Kończy się na logicznym. Na pewno nie jest prawdą, żeby każdy człowiek był zdolny do wydawania sądów o wszystkich cechach, jakie posiada, ani nawet o wszystkich cechach swojej duszy, ani o wszystkich swoich dyspozycjach psychicznych, chociaż to się tutaj Sokratesowi wydaje całkiem oczywiste. Każdy przecież posiada na pewno jakieś cechy dziedziczne, a na pewno nie każdy potrafi wydać jakiś sąd o cechach dziedzicznych, bo niektórzy nie wiedzą nawet, co to jest takiego i że jest coś takiego. I na pewno nie każdy człowiek skromny potrafi wydać jakiś sąd o skromności, albo niemy o niemocie, głupi o głupocie, skryty o skrytości, a roztargniony o roztargnieniu.
+
+Nie jest prawdą, że każda nasza dyspozycja musi w nas wywoływać pewne spostrzeżenie, na podstawie którego moglibyśmy sobie urabiać sąd o niej, a tym mniej określać ją jednoznacznie i zgodnie z potocznym użyciem jej nazwy, którą się wielu ludzi posługuje w różnych wypadkach. Posiadamy przecież liczne dyspozycje nieświadome, o których posiadaniu nieraz muszą nas dopiero drudzy przekonywać, bo sami ich nie dostrzegamy u siebie. Albo nam ich wstyd dojrzeć w sobie, albo je nazywamy inaczej, albo się nie interesujemy charakterystyką własnej osoby od tej strony. Na pewno nie każda kokietka wie, co to jest kokieteria — ta cecha objawia się zbyt wcześnie — i nie każdy chciwiec dostrzega swoją chciwość. Sądzi, że jest zapobiegliwy i oszczędny, wierzy, że jest sprawiedliwy, ale chciwy — nie! Mściwy uważa, że ma wygórowane poczucie sprawiedliwości i nic więcej; dlatego lubi uczyć kogo należy, ale mściwości u siebie nie dostrzega zazwyczaj. Obżarty i opój wie, że miewa dobry apetyt i pragnienie, ale skąd mu obżarstwo i opilstwo? Nienawiść — do tej się żaden obłudnik nie przyznaje, kiedy pokazując białka, mówi o swojej szczytnej miłości bliźniego i o bolesnej konieczności obrony przed zamaskowanym wrogiem.
+
+Zatem i Charmides, gdyby nawet posiadał rozwagę, o którą go pytają, i chciał o niej mówić otwarcie, nie musiałby jej dostrzegać u siebie samego i nie musiałoby mu być łatwo podać jej określenie. Charmides zapomina o tym i wierzy, że powinien umieć określić rozwagę.
+
+Sokrates apeluje, tym razem już trafniej, do Charmidesowej znajomości języka helleńskiego. O to szło. Na podstawie dobrej znajomości języka można było próbować uchwycić i wskazać, jakie właściwie rodzaje zachowania się Grecy odnoszą do dyspozycji zwanej sofrozyne, rozwaga. Nie na podstawie introspekcji, tylko na podstawie znajomości języka. Potem dopiero, po ustaleniu znaczenia tego wyrazu można by patrzeć, czy się samemu zasługuje, czy nie zasługuje na pochwałę z pomocą tego wyrazu. Taki też program rozważań podaje teraz Sokrates. Ten program nie zostanie wyczerpany — nie dojdzie do końca nawet jego pierwsza część: jakaś zadowalająca definicja rozwagi.
+
+Charmides przypomniał sobie widocznie wypadki słyszanych pochwał, w których ten wyraz stosowano, i podaje słusznie zauważoną cechę wspólną przypomnianych wypadków: pewien spokój w zachowaniu się, porządek i przyzwoitość. Niewątpliwie Platon mu tutaj kazał podawać trafnie pewne zewnętrzne objawy rozwagi. Byłby i sam nie odpowiedział inaczej na pytanie: po czym można zwykle poznać człowieka rozważnego, gdy się widzi jego zachowanie się między ludźmi? Ale nie tak brzmiało pytanie. Nie szło w nim o częste, łatwo dostrzegalne objawy rozwagi, tylko o to, co bywa wewnętrzną przyczyną tych objawów u człowieka rozważnego. Może przecież czyjś zewnętrzny spokój płynąć z choroby, ze zmęczenia, z nudów, a przyzwoitość — z nawyku, z braku pokus, z lenistwa, a nie z rozwagi. I na odwrót: rozwaga może komuś dyktować gwałtowny pośpiech, ruchliwość i największy wysiłek tam, gdzie nierozważny gotów folgować lenistwu, ociężałości, nie spieszyć się, tylko spać i czekać, aż przyjdzie jakieś zapowiadające się nieszczęście. Zatem spokój i rozwaga nie wyjdą na to samo.
+
+Sokrates jednak podważa to, pierwsze z kolei, określenie rozwagi od innej strony, ale robi to nieszczęśliwie, o czym Charmides nie wie nic; może dlatego, że i Platon o tym nie wiedział, jeżeli tylko dobrze czytamy jego tekst, a może raczej dlatego, że i tu Sokrates żartuje. A mianowicie tezę Charmidesa można sformułować tak: Każde zachowanie się rozważne jest spokojne. Sokrates go usiłuje zwalczyć, powołując się na to, że: 1. każde zachowanie się rozważne jest piękne. Cóż stąd? To jest pierwsza przesłanka Sokratesa. Po szeregu pytań drobiazgowych o czytanie, granie, mocowanie się itp. on dołącza do niej drugą: 2. żadne zachowanie się spokojne nie jest piękne, i uzyskuje wedle trybu Camestres wniosek: żadne zachowanie się spokojne nie jest rozważne, czyli po odwróceniu: żadne zachowanie się rozważne nie jest spokojne. Ten wniosek jest przeciwny tezie Charmidesa i jeśli jest prawdziwy, to teza Charmidesa upada, okazuje się fałszem. Schematycznie można by napisać tak rozumowanie Sokratesa:
+
+
+Syllog. 1. Camestres:
+1. Każde zachowanie się rozważne jest piękne.
+2. Żadne zachowanie się spokojne nie jest piękne.
+Concl.: Żadne zachowanie się spokojne nie jest rozważne.
+Conv. simpl.: Żadne zachowanie się rozważne nie jest spokojne. Q.E.D.
+
+Tak, ale po drodze podstawił Sokrates w miejscu terminu „spokojny” w drugiej przesłance termin „powolny”, „ociężały”. Tak nie wolno. Sokrates jakby nie zapamiętał tezy Charmidesa, albo ją przekręca. Charmides nie mówił o powolności i o ociężałości, kiedy określał rozwagę. To mu dopiero podstawił w szeregu pytań Sokrates w miejsce spokoju. A to nie na jedno wychodzi. To raz.
+
+Ale z tym, czy bez tego, zawsze źle. Druga przesłanka jest fałszywa, czy w niej lojalnie zostawić „spokój”, czy też w niej podsunąć „powolność”. Ani tak, ani siak nie podobna w nią uwierzyć, zastanowiwszy się. Trzeba ją uznać za przedwczesne uogólnienie, które prowadzi do jawnie fałszywej konkluzji.
+
+Wolno było Sokratesowi na podstawie przeprowadzonej dyskusji rozumować jedynie tylko według trybu Baroko:
+
+
+Syllog. 2. Baroko:
+1. Każde zachowanie się rozważne jest piękne.
+2. Niektóre zachowania się spokojne nie są piękne.
+Concl.: Niektóre zachowania się spokojne nie są rozważne.
+
+To byłoby w porządku, ale to nie obalałoby wcale tezy Charmidesa. On twierdził tylko, że kto rozważny, ten spokojny. Wyraźnie mówił, że rozwaga to jest pewien spokój, a nie mówił, że to jest wszelki spokój. Byłby bez wahania przyznał, że spokój kamienia przy drodze i fiołka pod wielkim liściem nie jest żadnym spokojem rozwagi. Może więc teraz spokojnie i bez szkody przyjąć zgodny z jego stanowiskiem, a nie zbijający go zgoła, wniosek, który wolno było Sokratesowi wysnuć z jego odpowiedzi, że niektóre zachowania się spokojne nie są objawami rozwagi. Zapewne. Mówiąc graficznie, Charmides położył był tylko małe koło Rozwagi na bardzo wielkie koło Spokoju, wiedząc, że na dużym kole jest jeszcze wiele miejsca wolnego, zatem nic by mu to nie szkodziło, gdyby mu Sokrates teraz pokazał te właśnie punkty z koła Spokoju, których Charmides nie objął kołem Rozwagi. Nie byłoby to żadnym obaleniem jego stanowiska.
+
+Sokrates pod koniec rozdziału jakby się zorientował, że jakoś się zapędził poprzednio i wszystkie zachowania się spokojne, czy choćby powolne, niesprawiedliwie wykluczył z zakresu zachowań się pięknych (druga przesłanka pierwszego sylogizmu). Teraz zmienia swoją tezę. Twierdzi teraz, że w zakresie zachowań się pięknych jest równie dużo zachowań się spokojnych, jak gwałtownych i szybkich. To może być prawdą i stąd wynika rozszerzenie tezy Charmidesa, a więc to, że nie każde zachowanie się rozważne jest koniecznie spokojne, tylko Sokrates twierdzi teraz, że:
+
+
+Syllog. 3. Barbara:
+1. Każde zachowanie się piękne jest albo szybkie, albo spokojne (powolne).
+2. Każde zachowanie się rozważne jest piękne.
+Concl.: Każde zachowanie się rozważne jest albo szybkie, albo spokojne (powolne).
+
+Słusznie. Ten wniosek rozszerza i poprawia stanowisko Charmidesa. Chłopiec nie zwrócił uwagi na to, że rozwaga może dysponować niekiedy również do zachowań się szybkich, gwałtownych, ostrych, a nie zawsze tylko do spokojnych czy powolnych. Mistrz mógł mu był na to od razu zwrócić uwagę, a nie wodzić go okólną drogą ku twierdzeniu, że szybkość jest bliższa rozwagi niż powolność. Sam od tego odstąpił przy końcu.
+
+Można by też rozumowanie Sokratesa ująć nieco inaczej. A mianowicie. On zdaje się mówić tak: „Im jakieś działanie jest szybsze, tym jest piękniejsze, a więc tym samym jest bardziej rozważne, ponieważ każde działanie rozważne jest piękne i każde piękne jest rozważne”. Przy tym sformułowaniu również niewiele się zyskuje. Racja tego rozumowania, wiążąca szybkość i piękno w działaniu każdym i zawsze, nie wydaje się prawdą. To przecież nieprawda, że im prędzej ktoś pisze, tym piękniej pisze, ani to, że im prędzej ktoś tańczy, tym piękniej tańczy, ani to, że im prędzej je, tym piękniej to robi, ani to, że im prędzej ktoś mówi, tym piękniej mówi, itd. Jest często wprost przeciwnie, zatem uogólnienie wiążące stopień szybkości i stopień piękna w każdym działaniu jest jawnym fałszem. To raz. Następnie: ponieważ rozwaga nie jest na pewno tym samym, co szybkość, choćby nawet i szybkość była zawsze piękna i rozwaga też, przeto i stopień szybkości nie może uchodzić za stopień rozwagi żadną miarą, choćby one oba podnosiły piękno jakiegoś działania. Podobnie jak zmniejszenie objętości jakiegoś gazu podwyższa jego ciśnienie, a podwyższenie temperatury też to robi. Mimo to zmniejszenie objętości nie jest podwyższeniem temperatury, chociaż jedno i drugie podwyższa ciśnienie gazu. Piękno działania ludzkiego mogłoby zależeć od dwóch różnych czynników: szybkości i rozwagi. One nie musiałyby wychodzić na jedno i to samo z tego powodu, że oba byłyby czynnikami piękna działań ludzkich.
+
+Bałamuctwa tego rodzaju poszły po części stąd, że rozmawiający nie zawsze zwracali uwagę u siebie nawzajem na pożyteczne zaimki: każdy, żaden, wszyscy, niektórzy, niektóre, i tak niekwantyfikowane zdania przybierały niekiedy pozory jakichś odwracalnych utożsamień, a nie subsumpcji. Tak więc Sokrates nie dojrzał u Charmidesa zaimka „pewien” przy rzeczowniku „spokój” i wziął jego tezę tak, jakby ona brzmiała: wszelka rozwaga to jest wszelki spokój i na odwrót. Teza jawnie niedorzeczna i jakby niepotrzebnie zwalczana tak obszernie, bo jawnie nie może odpowiadać intencjom ani rzekomego Charmidesa, ani czytelnika. Koniec końców przewodnik błąka się w tym rozdziale i albo sam nie wie o tym, że wodzi chłopca po manowcach, albo może i umyślnie błądzi, próbując, czy się chłopak da w pole wywieść, czy też się okaże krytyczny.
+
+VIII. Charmides próbuje teraz wskazać jakiś psychiczny objaw rozwagi i zastanowiwszy się nad sobą, wymienia wstyd. Zastanawiał się po męsku, ale Sokratesa nie zadowolił odpowiedzią. Dlaczego po męsku? Dlatego że przyznawać się pośrednio do wstydu, a więc i do tego, że się popełniało jakieś sprawki wstydliwe, to wymagało od Charmidesa pewnego męstwa, szlachetnej odwagi.
+
+A dlaczego nie zadowolił Sokratesa? Sokrates zwrócił mu uwagę z pomocą cytatu z Homera, że nie każdy wstyd będzie objawem rozwagi, ponieważ wszystkie objawy rozwagi wydają się dobre i na miejscu, a wstyd bywa czasem niedobry i nie na miejscu.
+
+Sokrates jakby znowu usłyszał albo udawał, że słyszy z ust Charmidesa taką myśl: każda rozwaga jest każdym wstydem. Albo: wstyd i rozwaga to zawsze i wszędzie jest jedno i to samo. Tylko takie twierdzenie mogłoby jego słowa obalać. Schemat jego rozumowania w tej chwili jest taki:
+
+
+Baroko:
+1. Każda rozwaga jest dobra.
+2. Niekiedy wstyd nie jest dobry.
+Concl.: Niekiedy wstyd nie jest rozwagą.
+
+Wniosek jest sprzeczny z uogólnieniem, jakoby każdy wstyd był rozwagą, a to wynikałoby z odwrócenia tezy, że każda rozwaga jest wstydem. Ta teza musiałaby więc upaść razem ze swoim odwróceniem. Jednakże gdy się czyta odpowiedzi Charmidesa na początku tego rozdziału, współczesny czytelnik nie musi go posądzać o intencję utożsamienia wszystkich wypadków rozwagi z wszystkimi wypadkami wstydu, tak jak to robi w tej chwili Sokrates. Chłopak, pytany o psychiczne objawy rozwagi, podał słusznie jako jeden z jej objawów wstyd i wymknęło mu się wtedy zdanie: „to będzie tyle, co wstyd, ta rozwaga”.
+
+Charmides trafnie podpatrzył i podał wstyd jako jeden z objawów rozwagi. To jest poczucie poniżenia występujące u ludzi lepszych, gdy się im trafi ulec i nie posłuchać rozumu, a pójść za chwilową ponętą wbrew rozumowi. To poniża człowieka ambitnego we własnym poczuciu i budzi potrzebę ukrycia tego faktu. To jest właśnie ten wstyd, który świadczy o tym, że ktoś ma swój punkt honoru w tym, żeby się rozumem rządzić, a nastrojom nie ulegać nierozważnie. Oprócz tego, zdarza się u ludzi panujących nad sobą i chcących przy tym panowaniu pozostać, wstyd nie po upadku wewnętrznym, tylko przed nim, na samą myśl o tym, żeby ponęta, którą się rozumnie potępia, mogła w nas zwyciężyć. Ten wstyd nieraz wstrzymuje od zachowań się, które mają swój urok, aleby się ich człowiek musiał przed sobą samym wstydzić.
+
+Jeżeli więc Sokrates nie pochwalił teraz Charmidesa za to, że chłopak poprzednio trafnie podał zewnętrzny objaw rozwagi, to jest: spokój w zachowaniu się, a teraz równie trafnie jej objaw wewnętrzny, a mianowicie pewien rodzaj wstydu, jeżeli Sokrates uważał za lepsze atakować niesłuszne, ale i niewypowiedziane utożsamienia rozwagi ze spokojem i ze wstydem — to może mieć dwojakie tło. Po pierwsze Platon, myśląc z pomocą orzeczników w rodzaju nijakim, mógł sam łatwo ulegać złudzeniom i własne subsumpcje brać za odwracalne utożsamienia. Kiedy Polak mówi, że rozwaga jest czymś pięknym, sama forma językowa mu to poddaje, że oprócz rozwagi mogą być inne rzeczy również piękne, a ona jest tylko jedną z nich. Inaczej, gdyby się mówiło z grecka: „rozwaga to piękne” lub: „to dobre”, przy czym te neutra brzmiałyby zupełnie tak samo, jakby oznaczały piękno wszelkie albo wszelkie dobro. Wtedy sam zwrot językowy łatwo poddawałby utożsamienie dwóch rzeczy: tej, którą nazywa podmiot, i tej, którą zdaje się wymieniać orzecznik. Tak właśnie pisze Platon i tu mogłoby tkwić źródło mimowolnych błądzeń. Zobaczymy to samo w Lizysie.
+
+Nie można całkowicie wykluczać i tego, że Sokrates tutaj żartuje i doświadcza chłopca, czekając, czy się w nim nie zbudzi protest. Daremnie czeka. Charmides okazuje temperament miękki i potulny.
+
+IX. I cierpliwy również. To wychowanie robi zresztą. Zamiast Sokratesowi zadać pytanie, niechby sam powiedział, co to rozwaga, skoro mu się nie podoba to, co dotąd usłyszał, Charmides jeszcze raz trudzi się nad podaniem dobrego określenia tej zalety. Nie chce go jednak brać na swoją odpowiedzialność, bo je słyszał z ust Kritiasa i nie podejmuje się go bronić.
+
+Kritias wypiera się autorstwa tezy, która opiewa: rozwaga (a więc ten cały pion wewnętrzny, o którym mowa) to tyle, co robić swoje. Charmides wie, że jego wzorowy opiekun tym razem kłamie, kiedy się wypiera, ale, jako dobrze wychowany, osłania go swą wymijającą odpowiedzią w duchu bardzo Sokratesowym: wszystko jedno, kto to mówił — o to tylko chodzi, czy to prawda. Widać i stąd, że w tym bystrym chłopcu spotyka Sokrates duszę bardzo pokrewną.
+
+Wolno się domyślać, jak rozumiał te słowa Kritias, gdy je mówił, jeżeliby już wtedy był taki, jakim się okazał po latach. Być rozważnym, a więc kierować się rozumem, to u niego nie znaczy wcale: panować nad sobą, odmawiać sobie, nie ulegać ponętom chwilowym a niebezpiecznym, tylko po prostu: robić swoje i na nic się nie oglądać i na nikogo. Zmierzać do celu najprostszą drogą bez skrupułów i względów, i bez wyrzutów, i bez wstydu. A niech się nikt do tego nie miesza — nikogo to nic nie powinno obchodzić. Szewc niech robi buty, bo to jego rzecz — zamiast chodzić na zgromadzenia i głosować, a od rządzenia jestem ja, bo to jest moja rzecz. To była „rozwaga” Kritiasa, kiedy dorósł.
+
+Ale formułka: „ty patrz swego i nie oglądaj się na cały świat” została przy familii. I w Platońskim Gorgiaszu będziemy kiedyś czytali pochwałę duszy filozofa, którą na tamtym świecie Radamantys nagradza za to, że się za życia swoimi sprawami zajmowała, a nie rozpraszała się w tysiącznych interesach życia. A gdzie indziej przeczytamy u Platona, jak to dobrze mówią stare przysłowia, które głoszą, że jedynie tylko człowiek pełen rozwagi robi to, co do niego należy, i zna się na tym, i zna siebie samego, z czym mu bardzo do twarzy. Sokrates sam też się tą formułą kierował w życiu, kiedy sobie swymi rozmowami grób kopał w Atenach i widział, do czego to idzie. Jeszcze podczas Obrony głośno oświadczał, że gdyby go wypuścili, nie poprawi się, tylko będzie dalej robił swoje. To jest formuła usposobień schizotymicznych i dewiza silnych charakterów. Zarówno dobrych, jak złych.
+
+Platoński Sokrates wiedział i rozumiał tę formułę lepiej niż ktokolwiek inny. Jeżeli teraz utrzymuje, że to jakiś nonsens, że to zagadka i zgoła nie wie, o co by tu mogło iść, i pyta o te buciki własnej roboty u każdego obywatela — to żartuje. Może po to, żeby Kritiasa pociągnąć za język, żeby się sam bronił. Charmides okazuje się jeszcze raz skromny i grzeczny, a w Kritiaszu odezwała się ambicja, gdy próbowano jakiemuś głupcowi nieznanemu przypisać autorstwo jego słów i obaj towarzysze rozmowy zaczęli go posądzać, jakoby nie wiedział, co mówi, a udawali tylko, że nie o nim mówią. W końcu przestają nawet udawać.
+
+X. Nic dziwnego, że się ambitny Kritias źle czuł w tej lichej czapce niewidce, którą był przywdział, zapierając się swego hasła przed chwilą. Dlatego teraz podnosi przyłbicę i gotów jest bronić swojej tezy. Jest widocznie podrażniony, co widać z syczącego pytania, którym strofuje kuzyna, aż go Sokrates próbuje komplementami ugłaskać, to widać z krótkich odpowiedzi, jakie daje Sokratesowi, z butnych wzmianek o swojej kulturze językowej zaczerpniętej z dzieła Hezjoda pt. Prace i dnie i z pogardliwego zestawienia pracowitych szewców ze służącymi w domach publicznych.
+
+Sokrates dalej udaje, że nie zrozumiał hasła Kritiasowego: „Rób co do ciebie należy, rób swoje i to niech będzie cała twoja rozwaga” i z tych figlów wydobywa dwuznaczność słowa „swoje” i słowa „robić”. Te figle pobudzają Kritiasa do pewnych wyjaśnień, które wypadają znowu w duchu Sokratesa. Tylko Kritias jest zanadto wzburzony na to, żeby swoją tezę mógł na nowo sformułować tak, jak ją teraz objaśnia. Gdyby to za niego zrobić, zgodnie z intencjami, które objawia, wypadłoby coś w tym rodzaju: „Człowiek pełen rozwagi to ten, który wytrwale działa pożytecznie, a więc dobrze i pięknie, w swoim obranym kierunku”. Na to mógłby się i Sokrates zgodzić, i czytelnik przy pewnych założeniach.
+
+Spierać by się można tylko o pożytek i piękno i wypadałoby znaleźć jakieś miejsce między ludźmi rozważnymi przynajmniej dla szewców i dla handlarzy rybek solonych, ponieważ ich zajęcie wydaje się wszystkim też bardzo pożyteczne, choć nimi Kritias gardzi.
+
+XI. Sokrates nieznacznie przywiódł wzburzonego Kritiasa na swoje podwórko i poddaje mu teraz własne, już czwarte z rzędu, ujęcie rozwagi. Ma to być czynienie rzeczy dobrych. Kritias to przyjmuje i podpisuje niejako.
+
+Wypada zauważyć, że to określenie chwyta też nie samą dyspozycję psychiczną, o której mowa, tylko ujmuje znowu pewne jej skutki, pewne objawy zewnętrzne. Ale trafnie i w duchu Platona. Podobnie jak trzy rysy poprzednio zebrane: ten spokój w zachowaniu się i wstyd przy sposobności, i trzymanie się swego powołania bez względu na głosy i pokusy ludzkie, co rozpatrywano do tego czasu.
+
+Interesujące jest to, że te składniki potrzebne do opisu rozwagi podaje nie Sokrates sam, tylko one padają w walce z nim. Naprzód on je jakby odrzuca, gdy je przynosił bystry, cichy Charmides, a teraz się o drugi już z rzędu cenny i potrzebny składnik zaczętego opisu Sokrates przedziera z rozzłoszczonym Kritiasem, chociaż sam go poddał. Ten przekorny sposób podawania swoich myśli jest częsty u Platona. W Lachesie też Laches w podrażnieniu mówi rzeczy, których można i trzeba było czekać z ust Sokratesa. W tym rozdziale od Sokratesa słyszymy tylko, tajemnicze nieco, potwierdzenie definicji Kritiasowej: „Może być, że nic ci nie przeszkadza, żebyś prawdę powiedział”. Ale na swoją odpowiedzialność nie chce brać Platoński Sokrates tego, co przynosi tu Platoński Kritias i co jest wyraźnie w duchu jego oponenta. Znaczy to, że Platon rozdawał role tutaj podobnie jak w Gorgiaszu, gdzie też własnymi myślami obdzielił i Sokratesa, i jego zażartego przeciwnika Kaliklesa. Stanowisko autora nie wygląda tutaj na zdecydowane.
+
+Do czterech rysów rozwagi, zebranych dotąd, przybywa teraz piąty: znajomość siebie samego. Sokrates zdaje się tu stać na stanowisku, że samo robienie tego, co trzeba, co pożyteczne, jeszcze nie stanowi rozwagi — tak mówi tylko Kritias; Sokrates zdaje się tu wymagać od człowieka, żeby znał siebie samego, jeżeliby on miał uchodzić za rozważnego. Sokrates chyba nie pochwali za rozwagę lekarza, który nie wie, co robi i jak działa, choćby nawet działał pożytecznie, sam o tym nie wiedząc. Zdaje się, że do tego się skłania Sokrates, ale ta sprawa nie jest postawiona mocno. Można by czasem chwiejne, czasem tajemnicze, czasem przekorne stanowisko Sokratesa zrozumieć także wtedy, gdyby do Platona odnieść i wziąć za wyznanie autora o samym sobie to, co Sokrates mówi później o sobie samym na początku rozdziału XIII: „ja za każdym razem szukam tego, co przed nami; szukam, bo sam nie wiem, jak to jest. Muszę się zastanowić i wtedy dopiero powiem, czy się zgadzam, czy nie”. Platon, pisząc dialog, nie wykłada systematycznie gotowych tez, których by był pewny, tylko widocznie szuka i próbuje, zastanawia się, rozkłada swoje myśli na partie kilku osób i pozwala im się ważyć w głowie u czytelnika, aby ten ich walkę oglądał podobnie, jak autor miał z niej widowisko u siebie. Stąd pozorny spór dwóch osób dialogu bywa często współpracą, a czasem błądzeniem po omacku. Nie zdziwimy się, kiedy przy końcu rozdziału dwunastego Kritias powie do Sokratesa: „Ja ci zostawiam i odstępuję to wszystko, co się poprzednio mówiło. Bo może być, żeś ty mówił o tych rzeczach coś słuszniejszego, może być, że ja, ale tak bardzo jasnego nie było nic w tym, cośmy mówili”. I nie o to chodzi w tej rozmowie, kto coś mówi, tylko o to, co ktoś mówi. Stąd nie trzeba z góry myśleć, że cokolwiek powiedział Charmides, to chciał Platon przedstawić jako naiwne, a cokolwiek Kritias — to jako mętne i literackie, a niby tylko to, co Sokrates, to jedno autor brał za mądre i za swoje. Tak na pewno nie było. Sokrates ma u niego pierwsze skrzypce niezawodnie — ale ani Charmides, ani Kritias nie odzywają się tutaj na śmiech i nie mają służyć za jakieś odstraszające przykłady samych fałszów, mętów i niedorzeczności. To są chodzące, bo uosobione i ucieleśnione, inne myśli tego samego Platona. Nie tak, jak Eutyfron, Ion albo Meletos w Obronie.
+
+XII. W tej chwili Kritias gwałtownie obstaje przy piątym z kolei ujęciu rozwagi: jako znajomości siebie samego. To, co mówi o znanych napisach delfickich, o intencjach Apollina i autorów późniejszych napisów, to są literackie fantazje, ale nie podane tutaj na śmiech. Powitanie i rada nie wykluczają się wcale. Jeżeli zwrot „trzymaj się ciepło” może być zarazem i radą, i pewną formą pożegnania, to równie dobrze zwrot „rozważny bądź” da się pomyśleć i jako rada, i jako powitanie w ustach Apollina.
+
+Że znajomość siebie samego, to znaczy swojego poziomu i zapasu umysłowego, i swoich dyspozycji uczuciowych, jest potrzebna dla człowieka, który chce zawsze słuchać rozumu, a więc objawiać rozwagę, to wydaje się oczywiste. Ta znajomość siebie samego wydaje się niezbędna do tego, żeby nie przedsiębrać planów niedających się zrealizować, nie mierzyć własnych i cudzych sił na zamiary, nie narażać się na upokarzające i demoralizujące upadki, nie oburzać się i nie gorszyć niepotrzebnie, wiedzieć, czego można, a czego nie można wymagać od siebie i od drugich, odnaleźć w życiu swoje powołanie i drogę, uniknąć złudzeń pychy i złudzeń nadmiernej pokory. I Sokrates, i Platon wiedzieli to doskonale. Natura ludzka była przecież ośrodkiem ich zainteresowania w przeciwstawieniu do filozofów epoki poprzedniej. Wyraźnie to mówi o sobie Sokrates w pierwszych rozdziałach Fajdrosa. Zatem Kritias tutaj jest niejako tubą Sokratesa, a on sam kontroluje własną myśl, kiedy teraz gra rolę oponenta.
+
+XIII. Rozwaga na pewno nie jest żadną wiedzą, tylko pewna wiedza wydaje się warunkiem rozwagi. Ta właśnie dotycząca człowieka samego. W tym rozdziale Platon zaczyna ją traktować tak, jakby szło nie o pewną znajomość własnej natury, tylko o gotową, sformułowaną, może spisaną wiedzę na podobieństwo lekarskiej lub matematycznej. Stąd dość dziwacznie wypada już tutaj, a nie dopiero w rozdziale XX, ta rozwaga, którą rozmawiający gotowi by zamknąć w podręczniku. Tak teraz o niej mówią. Jakoś nie umieją czy nie chcą nazwać cennego wytworu tej wiedzy, choć mogliby może wymienić człowieka zrównoważonego i jego postępowanie. Szukają jej przedmiotu.
+
+XIV. Bez względu na to, czy byłaby to właśnie rozwaga, czy nie, Platonowi przychodzi pomysł nauki zajmującej się innymi naukami i sobą samą też. Istnieje taka: teoria wiedzy, obejmująca logikę, metodologię i teorię poznania w pewnym ujęciu. Nie było jej w chwili pisania dialogu.
+
+Sokrates nie tyle Kritiasa, ile czytelnika informuje, że Platon pisze dialog przede wszystkim dla siebie samego i że tych myśli, które mu się wydają bliskie prawdy, nie włożył wyłącznie w usta jednej tylko osoby.
+
+XV. Teraz się rozmawiającym znowu zaczynają mieszać dwie różne rzeczy: znajomość własnej osoby, a więc podmiotowa zdolność do oceny własnego poziomu i zapasu umysłowego — nazwijmy ją samowiedzą — oraz coś całkiem innego: nieosobowa teoria wiedzy ludzkiej w rodzaju logiki. Jedno i drugie zaczyna się nazywać rozwagą. Widać, jak to u Platona nieraz, jak wyraz — w tym wypadku wyraz „wiedza” — zaczyna żyć niezależnie od tego, co znaczył na początku, jak łatwo mieszają się rzeczy różne, jeżeli noszą tę samą nazwę.
+
+Zarysowuje się w rozmowie pomysł teorii wiedzy, która by pozwalała każdemu, kto by ją posiadł, zdawać sobie sprawę z tego, czy coś wie, czy tego nie wie, i co właściwie wie. Czyby o siebie samego szło, czy o kogoś innego. Ten pomysł zaczął realizować Platon sam w Teajtecie, a po nim Arystoteles i nam dziś logika z metodologią pozwala naprawdę odróżniać prace naukowe od pseudonaukowych prac grafomanów, wiedzę od niewiedzy. Żaden podręcznik logiki jednak nie zdoła przekonać grafomana, że on nie posiada wiedzy.
+
+Znamy też dziś zdania naukowe, które dotyczą samych siebie oraz innych zdań, a nie czegoś innego poza zdaniami. To są zasady logiki i gramatyki. Sokrates z obawą ogląda się, czy ten pomysł nie zawiera jakiejś niedorzeczności, niepokoi się, czy znajdzie gdziekolwiek jakąś analogię, jakiś przedmiot, który by się odnosił w pewien sposób do siebie samego i do innych równorzędnych przedmiotów, a nie odnosił się tak do niczego innego.
+
+Na pewno nie istnieje widzenie widzeń, a nie barw, ani słyszenie słyszeń i niesłyszeń, a nie głosów, ale z tego nic nie wynika dla możliwości wiedzy o wiedzy. Znowu tu wyrazy przeszkadzają. Platon po prostu szuka rzeczowników czasownikowych, które by wolno było łączyć z przedmiotami gramatycznymi o tym samym brzmieniu. To byłoby zagadnienie stylistyczne. W rzeczywistości raz je wolno tak łączyć, a raz nie wolno — bo w jednych wypadkach tak jest, w innych nie.
+
+Spostrzeżenia własne, zdaje się, można spostrzegać i czymś innym jest: spostrzec jakiś przedmiot, np. latarnię zapaloną, a czymś innym: zauważyć, czyli spostrzec, że się w tej chwili dokonało jakiegoś spostrzeżenia. To wydaje się możliwe. Pożądania pożądań też istnieją. Tak niejeden chory pragnie, żeby mu przyszedł apetyt na cokolwiek, a na razie nie pragnie żadnego pokarmu, nie ma wcale apetytu i to go bardzo martwi. Dla takiego człowieka pojawienie się apetytu będzie jedną rozkoszą, a przyjęcie pokarmu drugą. Objaw woli każdy zwraca się do pewnego dobra, ale tym dobrem może być właśnie inny akt woli. Na przykład wtedy, gdy ktoś postanawia w przyszłości wyrzec się czegoś, czego się na razie wcale nie wyrzeka. Może być tym dobrem nawet ten sam akt woli, który w danej chwili zachodzi. To wtedy, gdy ktoś chce chcieć i chce naprawdę. Miłość, która nikogo żywego jeszcze nie kocha, tylko siebie samą i inne kochania, znalazł u siebie już św. Augustyn, kiedy w swoich Wyznaniach pisał: „Nondum amabam, sed amare amabam”. Człowiek chory na serce również nieraz boi się tych momentów strachu, które na niego przyjdą dzisiaj we śnie albo go opadną jutro na jawie, niepokoi go nawet sam ten strach obecny, a nie boi się w danej chwili żadnego innego przedmiotu strasznego. Twierdzenie, że każdy sąd jest albo prawdziwy, albo fałszywy, odnosi się do innych sądów i do siebie samego, a nie odnosi się do tego, o czym inne sądy sądzą. Zatem i wiedza o wiedzach nie jest dla nas niczym tak osobliwym i podejrzanym, jak się to w tej chwili wydaje naszym przyjaciołom z dialogu.
+
+XVI. Sokrates boi się, czy wiedza o wiedzy nie będzie przedmiotem niemożliwym, bo wewnętrznie sprzecznym, ponieważ znajduje jawną sprzeczność wewnętrzną w analogicznych pomysłach przedmiotu większego od siebie samego i od innych większych. Obawa płonna. Ta sama konstrukcja gramatyczna może służyć do opisu zgoła różnych stosunków. Z tych jedne zachodzą — inne nie zachodzą, bo mieściłyby sprzeczność wewnętrzną.
+
+W Fajdrosie mówi Sokrates o duszy, która sama siebie porusza i innym rzeczom ruch nadaje. Tutaj nie jest pewny, czy to jest w ogóle możliwe i nie ma odwagi próbować tego tematu. Prawdopodobnie więc Fajdrosa musiał pisać później.
+
+XVII. Kritias stanowczo, a Sokrates z pewnym wahaniem mieszają tu wciąż i utożsamiają dwie rzeczy różne: samowiedzę i logikę. Zapewne, że dobra znajomość logiki może człowiekowi ułatwiać samowiedzę, ale ona sama do tego nie wystarczy i jedno zostanie czymś innym, i drugie czym innym. Zupełnie słusznie zgadzają się obaj, że logika nie zastąpi nikomu wiedzy rzeczowej, jak medycyna lub statyka budowli.
+
+XVIII. Martwią się teraz obaj, że znajomość logiki nie wystarcza do odróżnienia u kogoś wiedzy rzeczowej od jej pozorów. Do tego potrzeba jednak posiadać samemu tę wiedzę rzeczową, której posiadanie lub brak chcemy stwierdzać. To na pewno tak jest. Dlatego przy egzaminach na technice lub na medycynie nie pytają profesorowie logiki. Jednakże i tutaj logika nie jest bez użytku. Dlatego że posiadać wiedzę rzeczową to nie znaczy mieć tylko zapas wiadomości prawdziwych. Ten zapas musi jeszcze być ruchomy niejako i żywy. To znaczy, że ktoś musi umieć posługiwać się tymi wiadomościami poprawnie; dopiero wtedy posiada daną wiedzę. Musi więc należycie z pomocą posiadanych wiadomości wnioskować i dowodzić, musi je umieć stosować do konkretnych nowych wypadków. Dopiero wtedy ma wiedzę. Inaczej jest tylko tępym erudytą lub nieukiem.
+
+Żeby tę formalną stronę czyjejś wiedzy stwierdzić i ocenić, musi badający posiadać znajomość logiki. Bez niej potrafi tylko odczuć ogólnikowo sprawność umysłową osoby badanej, ale jej nie określi. Zatem przy odróżnianiu nieuków i szarlatanów, i psychopatów piszących i wykładających od ludzi uczonych naprawdę logika oddaje nieocenione usługi. Do badania zapasu wiadomości niezbędna jest wiedza rzeczowa.
+
+XIX. Pełne rezygnacji westchnienia na temat nieużyteczności logiki znowu pomieszanej z samowiedzą pod dwuznaczną nazwą rozwagi. Niepotrzebna rezygnacja. Co więcej, ona robi wrażenie niezupełnie szczerej i nie bardzo głębokiej. Zbyt trafnie i zbyt obszernie opisuje Sokrates błogosławione skutki — czego? Trzeba by powiedzieć: kultury filozoficznej rządzących, podmurowanej logiką. To właśnie kryje się tutaj pod nazwą „rozwagi”. W okresach oświecenia ludzkość przybliżała się do tego idealnego stanu, który tu Platon szkicuje, w okresach wracającej ciemnoty musi się od niego oddalać. I Platon musiał w to w głębi duszy wierzyć, skoro, jak umiał, tak życie poświęcił pracy nad oświecaniem siebie samego i drugich i w trudzie całego życia pozapalał światła, niezgasłe do dziś. Na pewno nie byłby tego robił, nie byłby zbudził Arystotelesa i nie zostawił Speusippa i nie byłby tylu zwojów papirusu zapisał, gdyby był do głębi duszy przeświadczony, że praca nad normalizowaniem funkcji intelektu ludzkiego nigdy się nikomu na nic nie przyda. Smutek tego rozdziału to jest smutek przed wschodem słońca. Jesteśmy u początków kultury filozoficznej w Europie, a te słowa pisze młody jeszcze Platon i pisze je po śmierci Sokratesa, i Sokratesowi je w usta kładzie. W tych ustach i w tych czasach można je zrozumieć.
+
+XX. Nadzwyczaj trafnie opisuje tu Sokrates pożytek ze studium logiki i metodologii w uczeniu się i w nauczaniu i stwierdza sam z uśmiechem, że to nie to samo, co rozwaga. To widać już od rozdziału XIII. Budzą się w nim nowe wątpliwości na temat pożytku z kultury filozoficznej. Wątpliwości nie bardzo jeszcze jasne ani mocne.
+
+XXI. W dziewiętnastej księdze Odysei Penelopa tłumaczy Odyseuszowi, z którym mówi, nie wiedząc jeszcze, że to jej mąż, skąd się biorą sny. Powiada, że jedne zsyłają bogowie przez rogową bramę i te się nam sprawdzają. Inne przychodzą przez bramę z kości słoniowej i te nas zwodzą — nie spełniają się wcale. Penelopa nie wie, przez którą bramę przyszedł jej sen, budzący nadzieję na powrót Odysa. Ona mu nie śmie wierzyć. Tak i Sokrates w tej chwili marzy o racjonalizacji życia, o naukowym badaniu kwalifikacji do zajęć, o naukowym przygotowaniu zawodowców, widzi nawet egzaminowanych proroków — jakby mu przed oczyma świtał przełom wieku XIX na XX. Budzi się w nim tylko ta wątpliwość, czy postęp nauki przyniesie z sobą szczęście dla ludzi.
+
+XXII. Kritias go zapewnia, że innej drogi do uszczęśliwiania ludzi niż wiedza dojrzeć nie jest łatwo. Tu, może wyraźniej niż gdzie indziej, słychać, jak Platon sam ze sobą rozmawia; raz głosem Kritiasa, a raz Sokratesa. Widzi, że nauki techniczne mogą zapewnić postęp techniczny, ale w samym postępie technicznym nie widzi szczęścia. Nie ogranicza się do nauk technicznych. Nauki przyrodnicze i historyczne, naukowe poznanie świata w jego rozwoju też nie wydaje mu się gwarancją szczęścia ludzkiego. Marzy mu się dopiero jakaś ścisła teoria wartości wraz z etyką, bo tak nazwalibyśmy dziś tę naukę, która ma dotyczyć dobra i zła. Ta musiałaby się też opierać na logice. Czy ta ma już zapewnić szczęście ludzkości? Tego Sokrates nie mówi. Czytamy tylko, że bez niej ludzie nie będą szczęśliwi, choćby nawet świat przyrody przestał kryć dla nich zagadki, choćby poznali przeszłość i przyszłość.
+
+Trudno wiedzieć na pewno, jakby to było, bo dziś dla nas przyroda, przeszłość i przyszłość świata kryje wiele jeszcze zagadek, a postęp techniczny też nie osiągnął kresu. W każdym razie jesteśmy o dwa tysiące lat nauki i dziejów bogatsi od Platona, więc mamy na czym oprzeć choćby przypuszczenie, choćby mniemanie niecałkowicie mocne, czy Platon przewidywał słusznie, czy się mylił. Szczęście w bardzo skromnym znaczeniu — pojęte jako pogoda, zadowolenie, beztroska, spokój o jutro, uśmiech życia — nie wydaje się dziś wcale spełnionym i upowszechnionym ideałem. Są podobno kraje na kuli ziemskiej, gdzie go ma być więcej niż u nas w Europie Środkowej. W krajach skandynawskich, u Hiperborejczyków zatem, na ulicach Kopenhagi spotyka się go więcej niż gdzie indziej. Ale mierzyć je trudno i liczyć, i trudno takie impresje sprawdzać. Czyta się o wyspach mórz południowych, ale to może są raczej materiały dla kina. W każdym razie nie widać związku szczęścia z samym postępem technicznym, który stworzył broń automatyczną i lotnictwo, z postępem chemii, który umożliwił produkcję gazów trujących. Z postępem nauki przedłużył się przeciętny okres życia ludzkiego poza wojną. To wiemy. Spadła ilość chorób zakaźnych w czasie pokoju. I to pewne. Ale nie możemy się dziś oprzeć Platońskiemu pytaniu, czy żyć długo i mało chorować to znaczy zawsze to samo, co żyć dobrze? I drugiemu: czy wydrukować i choćby rozdać milionom ludzi za darmo podręczniki teorii wartości i etyki naukowej to wystarczy, żeby ludzi i życie poprawić? Gdyby nawet dopuszczono do rozpowszechnienia takich prac i przepuszczono je przez granice i gdyby te prace były naprawdę wiele warte, czy nie użyto by ich na barykady i na podpałki czy na nitrocelulozę w razie czego?
+
+Kultura serc ludzkich nie jest tym samym, co wysoki poziom wiedzy. Od niej wydaje się szczęście ludzkie co najmniej równie zależne, jak od kultury materialnej. Sam tylko postęp intelektualny szczęścia ludziom nie zapewnia. To właśnie zdają się też mówić ostatnie słowa tego rozdziału.
+
+XXIII. Sokrates wraca do żartów. Przekreśla całe poprzednie rozważanie, robi zwięzły rachunek sumienia intelektualnego. Jakież grzechy wyznaje? Po pierwsze ten, że nie doszło się do żadnej porządnej definicji rozwagi. To prawda, że do sformułowania na końcu nie doszło. Ale zgromadziło się materiał do jej opisu. Gdyby go teraz zebrać, wycedziwszy z szaty figlów i przekomarzań się to, co wydaje się intencją Platona w tej sprawie, otrzymalibyśmy coś w tym rodzaju: „Rozwaga to jest ta zaleta człowieka, która się objawia w zachowaniu się nacechowanym spokojem, choć nie powolnością ani ociężałością, objawia się szlachetnym wstydem w pewnych razach, wyraża się w wytrwałym trzymaniu się wytkniętej drogi swego powołania, prowadzi do czynów dobrych i opiera się na znajomości siebie samego, podmurowanej kulturą logiczną. Jest nieocenionym czynnikiem w życiu państwa i mogłaby być podstawą szczęścia ludzkiego, gdyby nie to, że do niego nie wystarcza sama tylko kultura intelektu bez jakiejś racjonalizacji pragnień i potrzeb serca ludzkiego”. To przecież było poddawane — nie było narzucone i nie zostało wyłożone systematycznie, ale to przeświecało jawnie poprzez żarty i kłótnie. I prosiło się, żeby to uchwycić. Dlatego wypada powiedzieć, że Sokrates doszedł do wyników zupełnie do rzeczy, jeśli chodzi o rozwagę. Wbrew temu, co sam o sobie teraz mówi na żart. On nie doszedł do tego, że ta piękna zaleta człowieka na nic się nigdy nie przyda. Grzechem jego było tylko to, że pomieszał ją z czymś zupełnie różnym: z wiedzą o wiedzy, którą tym samym imieniem niepotrzebnie nazwał i która się sama jedna nie przydaje do uszczęśliwienia ludzkości.
+
+Drugi grzech wyznaje ten, że przyjął istnienie wiedzy o wiedzy. To jest chyba grzech trafnego przeczucia. W chwili pisania dialogu nie było jej jeszcze, ale Arystoteles miał już niedługo przyjść do szkoły Platona. Ten grzech wypada Sokratesowi darować.
+
+Że teoretyk wiedzy musiałby wiedzieć i to, czego nie wie, to jest szkolny figiel, którym tu Sokrates zabawia czytelnika. Darujmy mu i to.
+
+Że rozwaga, tak pojęta, jakeśmy to widzieli, ta osobista zaleta, nie przydaje się też nieraz w życiu — to można także przyjąć, zważywszy, ze Sokratesowi samemu ona przyniosła kielich cykuty na końcu, a Platona naraziła na nieprzyjemności więzienia na Sycylii. W Gorgiaszu będzie Platon musiał malować fantastycznymi kolorami życie dopiero zagrobowe, żeby się ostać przy twierdzeniu, że szlachetna rozwaga przydaje się jednak. Na tym świecie, patrząc oczyma Kaliklesa, on i w tamtym dialogu nie widzi z niej pożytku.
+
+Już tak jest — jak na złość i na kpiny, że Sokrates i my z nim na pewno cenimy wiele takich zalet, które nie zawsze popłacają w życiu. To stąd, z pewnością, że mamy nie tylko instynkty osobnicze i nie tylko do własnego, doczesnego interesu zmierza każdy z nas już z natury. Stąd i człowiek kierujący się rozumem podoba się nam przede wszystkim jako sąsiad, towarzysz, wspólnik, zwierzchnik i podwładny, jako kandydat do wymiany dóbr i do współżycia. Społeczne może być tło tej oceny.
+
+Sokrates mówi o sobie źle, oczernia się przed chłopcem, którego pragnie pozyskać i którego tak długo pobudzał do myślenia, bawiąc się z nim i pokazując, jak sam czasem widziadła goni, a czasem rzeczy głębokie natrafia i odsłania. Cóż może znaczyć teraz ta perwersja: mówić o sobie źle, zamiast się chwalić i reklamować przed oczyma młodzieńca? To może być podstęp bardzo celowy. Jeżeli Charmides tym naganom uwierzy, a wiele pozorów za nimi przemawia, pozorów, o które się sam Sokrates w toku rozmowy starał, to będzie jasne, że młodzieniec nic dla siebie w tej rozmowie nie znalazł, nie czuje, żeby na niej skorzystał, nie pobudziła go, widać, do myślenia i nie przybliżyła mu żadnej prawdy. Wtedy niech sobie idzie zdrów i robi karierę taki, jaki jest i zostanie. Z takim w ogóle nie warto zaczynać. A jeżeli mu te ujemne sugestie nie zaszkodzą, to widać poczuł, że korzysta, i po rozmowie widzi coś więcej, niźli widział przed nią. Wtedy się nie da zbyt łatwo zrazić i wtedy warto z nim rozmawiać dalej. Taka się wydaje polityka Sokratesa w stosunku do uroczego chłopaka i taka sama Platona w stosunku do czytelnika. Jeszcze i dzisiejszego.
+
+XXIV. Charmides podejmuje figlarnie ton Sokratesa. Nie wierzy w jego czarny portret własny. Widać, że na niego działa czar tych modlitw trackich, które nad nim Sokrates odprawiał. I myśmy słyszeli jego dziwaczne nieraz słowa i widzieliśmy obroty myślowe — nieraz niesamowite i obce, i trudno zrozumiałe w pierwszej chwili, i przekorne — taki już jest tutaj ten język i obyczaj „tracki”. Ale w końcu można zrozumieć i uwierzyć, że to wszystko razem pochodzi jednak od lekarzy dusz z dalekich stron, którzy znali sekret na nieśmiertelność.

@@ -1,0 +1,4557 @@
+Molière
+
+Szelmostwa Skapena
+komedia w trzech aktach
+1671
+tłum. Tadeusz Boy-Żeleński
+
+ISBN 978-83-288-2508-6
+
+
+
+
+
+Wstęp
+
+Mówiąc o Psyche, wspomniałem, iż, w okresie przygotowań do wystawienia tej feerii w swoim teatrze, Molier wypełnia lukę repertuaru nową sztuką swego pióra. Sztuką tą są Szelmostwa Skapena, bezpretensjonalna i wesoła farsa, w której Molier przykrawa główną rolę na miarę dla siebie, dla swojej werwy komicznej, tak jak i dziś pisuje się sztuki na miarę świetnych aktorów.
+
+Jak w Amfitrionie, jak w Skąpcu, tak i tu Molier daje transkrypcję komedii łacińskiej. Mimo iż dobrze znając komediową literaturę łacińską z kolegium, Molier w pierwszym okresie swej twórczości nie czerpie z jej wzorów; stara farsa francuska, Hiszpania, Włochy, to, jak widzieliśmy, elementy, z których wyrasta w początkach komedia molierowska. Dopiero w tym późnym stosunkowo okresie twórczości reminiscencje łacińskie nasuwają mu się pod pióro. Tutaj kanwą Moliera jest Formion Terencjusza; poza tym, swoim zwyczajem, Molier wspomaga się w rozmaitym sposobie; częścią czerpie z dawnej farsy Gorgibus w worku grywanej w czasie wędrówek po prowincji; to znów weźmie scenę całą z Oszukanego pedanta Cyrana de Bergerac, aby, też swoim zwyczajem, pogłębić i udoskonalić cudzy pomysł. Koloryt całej komedii trąci Włochami, co wyraża się w umiejscowieniu akcji w Neapolu, w imionach jej aktorów, w samej figurze zresztą Skapena.
+
+Skapen jest krewniakiem Maskaryla z Wartogłowa, jak w ogóle cały ten utwór, produkt późnej twórczości Moliera, dość bliski jest typem inspiracji owemu pierwszemu jego większemu utworowi. Ten sam lokaj niewyczerpany w pomysłach i braku skrupułów, ci sami młodzi panicze, ci sami tradycyjni ojcowie i młode branki wykradzione przez Cyganów; ta sama beztroska o rozwiązanie sztuki, nie mniej fantastyczne i cudowne. Tylko kipiący werwą wiersz Wartogłowa zmienia się na szybciej jeszcze toczącą się prozę, która iskrzy się co chwila scenkami kryjącymi tyleż wesołości i pustoty, co filozoficznego spojrzenia na naturę ludzką. Spowiedź Skapena (II, 5), dalej owo przesławne „po kiegóż diabła łaził na ten statek!”, genialnie „złupione” z Cyrana de Bergerac i mnóstwo innych głębokich rysów wznoszą Szelmostwa Skapena o wiele ponad poziom farsy, z której czerpią tyle elementów. A cóż dopiero brawurowa jego tyrada na temat ówczesnego wymiaru sprawiedliwości! Kto wie, czy to nie było przygrywką do „komedii prawniczej”, którą Molier może już nosił w sobie, a której przedwczesna śmierć nie dała się urodzić. Z przygrywki tej mielibyśmy prawo wnosić, że ówczesny stan prawniczy niewiele by lepiej wyszedł niż biedny stan lekarski!
+
+Molier, autor Mizantropa, Molier, ów znękany, schorowany człowiek, ten Molier, któremu niejeden z komentatorów chce wcisnąć na twarz maskę o tragicznym piętnie, grał Skapena; przez trzy akty szalał po scenie, roztaczając niespożytą werwę, która dochodzi swego najwyższego nasilenia w owej cyrkowej już scenie z Gerontem w worku. Czy i to mamy uważać za „śmiech przez łzy”, za śmiech bolesny? Chyba nie; trudno by dojrzeć przyczynę, która by kazała Molierowi — Molierowi z owej epoki — zmuszać się, zniżać do tej roli, gdyby mu ona nie odpowiadała, gdyby nie była jedną z naturalnych form jego „wyżycia się” na scenie. Raczej godzi się przyjąć, iż Molier był naturą bardziej złożoną, niżby to chciała dopuścić symplifikacja komentarzy; że zarówno w patosie Alcesta, jak w bufonadzie Skapena pozostawał on sobą, mocą tej samej tajemnicy, która pozwalała Balzakowi „wyżywać się” w d'Arthezie, w Lucjanie de Rubempré i w Vautrinie. Tej cechy temperamentu Moliera nie umiał zrozumieć roztropny Boileau, któremu Szelmostwa Skapena psuły koncepcję Moliera, jaką sobie wytworzył po Mizantropie. Toteż w wierszach, które — dzięki Molierowi — stały się sławne, żali się, że w worku Skapena nie umie poznać autora Mizantropa:
+
+
+Dans ce sac ridicule ou Scapin s'enveloppe
+Je ne reconnais plus l'auteur du Mizanthrope…
+
+A jednak, trudno się oprzeć wrażeniu: mimo fajerwerku wesołości, jaki tryska z tej krotochwili, śmiech Moliera brzmi tutaj ostrzej niż kiedyś za młodu, kiedy poeta bawił się, w dobie wędrówek po prowincji, figlami Maskaryla. Czujemy to po osadzie smutku, jaki w nas zostawia ta wesołość.
+
+
+
+
+Szelmostwa Skapena
+
+
+OSOBY:
+ * ARGANT, ojciec Oktawa i Zerbinety
+ * GERONT, ojciec Leandra i Hiacynty
+ * OKTAW, syn Arganta, zalotnik Hiacynty
+ * LEANDER, syn Geronta, zalotnik Zerbinety
+ * ZERBINETA, mniemana Cyganka, która okazuje się córką Arganta
+ * HIACYNTA, córka Geronta
+ * SKAPEN, służący Leandra, hultaj
+ * SYLWESTER, służący Oktawa
+ * NERYNA, piastunka Hiacynty
+ * KARLO, awanturnik
+ * DWÓCH TRAGARZY
+
+
+
+
+Rzecz dzieje się w Neapolu.
+
+
+
+
+AKT PIERWSZY
+
+
+
+SCENA PIERWSZA
+
+/ OKTAW, SYLWESTER. /
+
+
+OKTAW
+
+Och, cóż za przykre nowiny dla kochającego serca! W jakimż opłakanym położeniu znalazłem się nagle! Zatem, Sylwestrze, dowiedziałeś się w porcie, że ojciec wraca?
+
+
+SYLWESTER
+
+Tak.
+
+
+OKTAW
+
+Przybywa tu dziś rano?
+
+
+SYLWESTER
+
+Dziś rano.
+
+
+OKTAW
+
+Z córką Geronta?
+
+
+SYLWESTER
+
+Geronta.
+
+
+OKTAW
+
+Że ta córka wędruje tu po to aż z Tarentu?
+
+
+SYLWESTER
+
+Tak.
+
+
+OKTAW
+
+I wszystkie te nowiny masz od mego wuja?
+
+
+SYLWESTER
+
+Od wuja.
+
+
+OKTAW
+
+Któremu ojciec przesłał je listownie?
+
+
+SYLWESTER
+
+Listownie.
+
+
+OKTAW
+
+A wuj, powiadasz, zna wszystkie nasze sprawki?
+
+
+SYLWESTER
+
+Wszystkie sprawki.
+
+
+OKTAW
+
+Ach, mówże sam przecież, nie każ sobie słów wydzierać z gardła.
+
+
+SYLWESTER
+
+Cóż mam jeszcze dodać? Nie przepomniał pan niczego, powiada pan dokładnie wszystko tak właśnie, jak się rzeczy mają.
+
+
+OKTAW
+
+Poradźże mi co bodaj, powiedz, co czynić w tej okrutnej niedoli.
+
+
+SYLWESTER
+
+Daję słowo, jestem co najmniej w takim samym kłopocie jak i pan; sam byłbym bardzo wdzięczny, gdyby mi ktoś co poradził.
+
+
+OKTAW
+
+Ten niespodziany powrót zabija mnie po prostu.
+
+
+SYLWESTER
+
+A mnie!
+
+
+OKTAW
+
+Skoro ojciec dowie się o wszystkim, czuję, że spadnie na mnie burza najgwałtowniejszych wymówek.
+
+
+SYLWESTER
+
+Wymówki to fraszka; dałby Bóg, abym i ja się mógł wykpić ze sprawy za tę cenę! Ale, co do mnie, bardzo łatwo mogę drożej przypłacić pańskie szaleństwa; już widzę z daleka, jak się zbiera cała chmura kijów, która wyładuje się na moich plecach.
+
+
+OKTAW
+
+O nieba! Jak wybrnąć z kłopotu?
+
+
+SYLWESTER
+
+O tym trza było myśleć, nim się pan w niego wpakował.
+
+
+OKTAW
+
+Och, dorzynasz mnie jeszcze przez swe spóźnione morały.
+
+
+SYLWESTER
+
+Pan mnie bardziej dorzynasz przez swoje wybryki.
+
+
+OKTAW
+
+Co czynić? Co postanowić? Gdzie szukać ratunku?
+
+
+
+SCENA DRUGA
+
+/ OKTAW, SYLWESTER, SKAPEN. /
+
+
+SKAPEN
+
+Cóż to, panie Oktawie? Co panu? Co się stało? Co za nieszczęście? Widzę pana w takim pomieszaniu…
+
+
+OKTAW
+
+Och, poczciwy Skapenie, jestem zgubiony, zrozpaczony, jestem najnieszczęśliwszym człowiekiem pod słońcem.
+
+
+SKAPEN
+
+Jak to?
+
+
+OKTAW
+
+Nic nie słyszałeś, co na mnie spadło?
+
+
+SKAPEN
+
+Nie.
+
+
+OKTAW
+
+Ojciec wraca z Gerontem i chcą mnie ożenić.
+
+
+SKAPEN
+
+No i cóż za nieszczęście?
+
+
+OKTAW
+
+Niestety! nie znasz przyczyn mej udręki!
+
+
+SKAPEN
+
+Nie; ale od pana zależy, bym ją poznał niebawem; jestem człowiek chętny w niesieniu pociechy, zdolny wejść w położenie młodego panicza.
+
+
+OKTAW
+
+Ach, Skapenie, gdybyś mógł wpaść na jaki pomysł, ukuć sztuczkę, aby mnie wydobyć z nieszczęścia, winien bym ci był więcej niż życie.
+
+
+SKAPEN
+
+Po prawdzie, niewiele jest dla mnie rzeczy niemożliwych, skoro się szczerze zabiorę do dzieła. Niebo obdarzyło mnie dość ładnym talencikiem do owych zmyślnych konceptów, owych finezji dowcipu, którym ciemne pospólstwo daje miano szelmostwa; mogę powiedzieć, bez próżnej chwalby, że nie widziano na świecie człowieka, który by był zręczniejszym majstrem owych sprężynek i kruczków, i więcej nabył chwały w tej szlachetnej profesji. Ale, na honor, prawdziwa zasługa spotyka się dziś ze smutną nagrodą; toteż zawiesiłem na kołku rzemiosło od czasu kłopotów, w jakie niedawno popadłem.
+
+
+OKTAW
+
+Cóż to było? Co takiego, Skapenie?
+
+
+SKAPEN
+
+Pewna przygoda, która mnie poróżniła trochę z prześwietnym sądem.
+
+
+OKTAW
+
+Z sądem?
+
+
+SKAPEN
+
+Tak; małe nieporozumienie.
+
+
+SYLWESTER
+
+Ty z sądem?
+
+
+SKAPEN
+
+Tak. Bardzo się brzydko obszedł ze mną; ta niewdzięczność społeczeństwa rozżaliła mnie do tego stopnia, że postanowiłem już palcem nie ruszyć. Basta! Bądź co bądź, niech mi pan opowie swoje utrapienia.
+
+
+OKTAW
+
+Wszak wiesz, Skapenie, że przed dwoma miesiącami stary Geront wraz z moim ojcem wybrali się w podróż w sprawach handlowych.
+
+
+SKAPEN
+
+Tak, słyszałem.
+
+
+OKTAW
+
+I że, zostawiając tu w domu mnie i Leandra, mnie powierzyli opiece Sylwestra, a Leandra twojej.
+
+
+SKAPEN
+
+Tak. Wywiązałem się bez zarzutu.
+
+
+OKTAW
+
+Wkrótce potem Leander poznał się z młodą Cyganką, w której się zadurzył.
+
+
+SKAPEN
+
+I o tym wiem także.
+
+
+OKTAW
+
+Ponieważ jestem jego najlepszym przyjacielem, zwierzył mi się i zaznajomił ze swą ukochaną; istotnie piękną, lecz nie tak znowu jak on mniema. Od tego czasu prawił codziennie o niej, wynosił pod niebiosy jej wdzięk i urodę, sławił dowcip, powtarzając najdrobniejsze słowa i siląc się je przedstawić jako istny cud świata. Nieraz wymawiał mi, że nie dość, jego zdaniem, przejmuję się tym, co mi opowiada i bez ustanku czynił mi wyrzuty za moją obojętność na sprawy miłości.
+
+
+SKAPEN
+
+Jeszcze nie widzę, dokąd to wszystko zmierza.
+
+
+OKTAW
+
+Pewnego dnia wyprawiliśmy się razem w miejsce, gdzie znajduje się jego bogdanka; przechodząc koło domku na ustronnej ulicy, usłyszeliśmy głośne szlochania i jęki. Zapytujemy o przyczynę; jakaś kobieta odpowiada z westchnieniem, że możemy być świadkami bardzo żałosnego zdarzenia i że jeśli nie jesteśmy zupełnie wyzuci z litości, nie zdołamy się oprzeć wzruszeniu.
+
+
+SKAPEN
+
+Gdzież to wszystko prowadzi?
+
+
+OKTAW
+
+Z prostej ciekawości namówiłem Leandra, aby zajrzeć. Wchodzimy do izby: widzimy na łóżku konającą staruszkę; koło niej klęczy służąca, odmawiając modlitwy, i młoda dziewczyna cała we łzach; najpiękniejsza i najbardziej chwytająca za serce istota, jaką sobie można wyobrazić.
+
+
+SKAPEN
+
+Aha!
+
+
+OKTAW
+
+Każda inna wydałaby się wstrętną w tej postaci: miała na sobie jedynie lichą spódniczynę i nocny kaftanik z prostego barchanu; włosy, wymykające się spod żółtego czepeczka, spadały w nieładzie na ramiona; a jednak mimo to twarzyczka jej jaśniała tysiącem powabów; jakiś dziwny urok był w całej osobie.
+
+
+SKAPEN
+
+Czuję już, na co się zanosi.
+
+
+OKTAW
+
+Gdybyś ją widział, Skapenie, w owej chwili, osłupiałbyś z zachwytu.
+
+
+SKAPEN
+
+Och, ani wątpię; nawet nie widząc, widzę, że była czarująca.
+
+
+OKTAW
+
+Łzy nie szpeciły bynajmniej jej twarzy; przeciwnie, płacz jej miał coś dziwnie wzruszającego, a boleść była najpowabniejsza w świecie.
+
+
+SKAPEN
+
+Jakbym był przy tym!
+
+
+OKTAW
+
+Każdy musiał się rozpłakać, widząc, jak czule obejmuje ciało umierającej, którą mieniła swą ukochaną matką; niepodobna było nie rozczulić się, patrząc na te skarby wrodzonej dobroci.
+
+
+SKAPEN
+
+W istocie, to rozczulające; ani wątpię, że ta jej wrodzona dobroć kazała się panu w niej zakochać.
+
+
+OKTAW
+
+Ach, Skapenie, barbarzyńca by ją pokochał.
+
+
+SKAPEN
+
+Rozumie się. Jakżeby inaczej?
+
+
+OKTAW
+
+Po kilku słowach, którymi starałem się ukoić rozpacz ślicznego biedactwa, opuściliśmy domek. Spytałem Leandra, co sądzi o młodej istocie; odpowiedział, że jest niebrzydka. Chłód tego określenia zmroził mnie; wolałem ukryć przed nim wrażenie, jakie czary jej wywarły na mym sercu.
+
+
+SYLWESTER
+
+/ do Oktawa /
+
+Jeśli pan nie skróci, to gotowe potrwać do jutra. Niech mi pan pozwoli dokończyć w dwóch słowach.
+
+/ do Skapena /
+
+Od tej chwili serce mego pana rozpaliło się straszliwym ogniem: nie widzi w życiu innego celu, jak tylko pocieszać piękną żałobnicę. Próbuje ją odwiedzać: spotyka się z oporem służącej, która po śmierci matki stała się jedyną opiekunką sieroty. Nasz młodzian w rozpaczy: nalega, błaga, zaklina; na nic. Oświadcza mu, że dziewczę, choć ubogie i opuszczone, pochodzi z dobrej rodziny i że, kto nie ma zamiaru jej zaślubić, niech sobie co rychlej wybije zaloty z głowy. Przeszkody te potęgują oczywiście miłość mego pana: zaczyna robić głową, zastanawia się, waha, rozważa, godzi się wreszcie: i oto od trzech dni młoda para jest po ślubie.
+
+
+SKAPEN
+
+Rozumiem.
+
+
+SYLWESTER
+
+A teraz dorzuć tyle: ojciec, oczekiwany dopiero za dwa miesiące, wraca niespodzianie; wuj odkrył tajemnicę małżeństwa mego pana; zarazem zaś starzy planują związki z córką imć Geronta, którą poczciwina miał z drugiej żony, zaślubionej podobno w Tarencie.
+
+
+OKTAW
+
+Na domiar wszystkiego dodaj jeszcze nędzę, w jakiej znajduje się moja ukochana, i mą zupełną bezsilność przyjścia jej w czymkolwiek z pomocą.
+
+
+SKAPEN
+
+Już wszystko? Otoście mi obaj w straszliwym kłopocie dla takiej bagatelki! Jest o co doprawdy głowę tracić! I ty się nie wstydzisz, ty? Nie umieć sobie dać rady z takim głupstwem? Cóż u diabła! Wyrosłeś wielki i gruby jak ojciec i matka razem i nie potrafisz znaleźć w swej mózgownicy, wysmażyć w kuchni swego dowcipu jakiejś przemyślnej sztuczki, jakiegoś tęgiego hultajstwa, aby wybrnąć z kłopotu! Pfuj! To trzeba być doprawdy skończonym wałkoniem! Chciałbym bardzo mieć zawsze tylko z naszymi starymi do czynienia; zagrałbym na nich jak na kręconej fujarze; jeszczem od ziemi nie odrósł, a już sławny byłem z tego, że nie było rzeczy ni człowieka, z którymi bym sobie nie umiał dać rady.
+
+
+SYLWESTER
+
+Wyznaję, iż niebo nie dało mi twoich talentów; brak mi konceptu po temu, aby rozgrywać partyjkę z panami sędziami.
+
+
+OKTAW
+
+Oto i moja słodka Hiacynta.
+
+
+
+SCENA TRZECIA
+
+/ HIACYNTA, OKTAW, SKAPEN, SYLWESTER. /
+
+
+HIACYNTA
+
+Ach, Oktawie, czy to prawda, co Sylwester powiedział przed chwilą Nerynie, że ojciec wraca i chce cię ożenić?
+
+
+OKTAW
+
+Tak, piękna Hiacynto; wiadomość ta jest dla mnie okrutnym ciosem. Ale co widzę? Płaczesz? O cóż te łzy? Powiedz, czy mnie podejrzewasz, że mógłbym zawieść twą wiarę? Czy nie jesteś dość pewna mej miłości?
+
+
+HIACYNTA
+
+Tak, Oktawie, pewna, że mnie kochasz, ale nie jestem pewna, czy zawsze będziesz kochał.
+
+
+OKTAW
+
+Och, czyliż pokochawszy ciebie, można nie kochać na wieki?
+
+
+HIACYNTA
+
+Słyszałam, Oktawie, iż wasza płeć podobno kocha mniej trwale niż my, kobiety, i że zapały męskie to ognie, które równie łatwo rozpalają się, jak gasną.
+
+
+OKTAW
+
+Ach, droga Hiacynto, w takim razie moje serce nie jest podobne sercu innych; co do mnie, wierzaj, będę cię kochał do grobu.
+
+
+HIACYNTA
+
+Chętnie wierzę, iż czujesz, co mówisz i nie wątpię, że słowa twoje są szczere; ale lękam się, iż nadmiar przeszkód może zwalczyć w twym sercu te tkliwe uczucia. Jesteś zależny od ojca, który cię pragnie ożenić z inną; otóż gdyby to miało nastąpić, przypłaciłabym niechybną śmiercią ten zawód.
+
+
+OKTAW
+
+Nie, piękna Hiacynto, nawet ojciec nie zdolny jest mnie zmusić, abym ci miał złamać wiarę; gotów jestem raczej rzucić kraj rodzinny, choćby dziś jeszcze, jeśli tak wypadnie, niż opuścić ciebie, najdroższa. Nie widziałem nigdy w życiu tej, którą mi przeznaczają za żonę, a już przejęty jestem dla niej najżywszym wstrętem i, nie będąc okrutny z natury, pragnąłbym, aby morze usunęło ją z mej drogi na zawsze. Nie płacz przeto, błagam, luba Hiacynto; łzy twoje zabijają mnie; kiedy na nie patrzę, mam uczucie, jakby mi kto żelazo wbijał w serce.
+
+
+HIACYNTA
+
+Skoro każesz, chętnie osuszę łzy i ze spokojem będę oczekiwała, co niebu spodoba się postanowić o mym losie.
+
+
+OKTAW
+
+Niebo z pewnością będzie nam przychylne.
+
+
+HIACYNTA
+
+Wszystko, o co się doń modlę, to abyś ty mi został wierny.
+
+
+OKTAW
+
+Tego możesz być pewna.
+
+
+HIACYNTA
+
+Zatem i szczęście moje pewne.
+
+
+SKAPEN
+
+/ na stronie /
+
+Nie taka głupia ta mała i wcale niebrzydka.
+
+
+OKTAW
+
+/ wskazując Skapena /
+
+Oto człowiek, który, gdyby zechciał, mógłby nam być niezmiernie pomocnym.
+
+
+SKAPEN
+
+Przysiągłem sobie wprawdzie nie mieszać się do spraw tego świata, jednak, jeśli mnie bardzo poprosicie oboje, może…
+
+
+OKTAW
+
+Ach, jeśli tylko chodzi o prośby, to zaklinam cię z całego serca, byś zechciał ująć ster naszej łodzi.
+
+
+SKAPEN
+
+/ do Hiacynty /
+
+A piękna pani nic mi nie powie?
+
+
+HIACYNTA
+
+I ja również błagam pana, na wszystko co mu najdroższe, byś raczył użyczyć naszej miłości swego poparcia.
+
+
+SKAPEN
+
+Trzeba się dać wzruszyć i mieć ludzkie serce. Dobrze więc, pomyślę.
+
+
+OKTAW
+
+Wierz mi, że…
+
+
+SKAPEN
+
+/ do Oktawa /
+
+Sza!
+
+/ do Hiacynty /
+
+Proszę teraz udać się do siebie i być najlepszej myśli.
+
+
+
+SCENA CZWARTA
+
+/ OKTAW, SKAPEN, SYLWESTER. /
+
+
+SKAPEN
+
+/ do Oktawa /
+
+A pan niech się pan przygotuje, aby w spotkaniu z ojcem okazać całą stanowczość.
+
+
+OKTAW
+
+Wyznam ci, że to spotkanie przyprawia mnie już zawczasu o drżenie; jestem z natury nieśmiały i nie wiem, czy będę się umiał przezwyciężyć.
+
+
+SKAPEN
+
+Trzeba wszelako stawić się ostro przy pierwszym natarciu, aby przypadkiem, widząc pańską lękliwość, nie zechciał cię prowadzić na pasku jak dziecko. Najlepiej niech się pan stara ćwiczeniem wyrobić w sobie nieco śmiałości; dobrze byłoby z góry ułożyć cięte repliki na wszystko.
+
+
+OKTAW
+
+Postaram się zrobić, co będzie w mej mocy.
+
+
+SKAPEN
+
+No, przepróbujmy trochę, żeby się pan oswoił. Przepowiemy sobie rolę; pokaże się, czy dobrze idzie. Dalej, mina gęsta, głowa do góry, wzrok śmiały.
+
+
+OKTAW
+
+Czy dobrze?
+
+
+SKAPEN
+
+Jeszcze trochę.
+
+
+OKTAW
+
+Tak.
+
+
+SKAPEN
+
+Dobrze. Wyobraź pan sobie teraz, że ja jestem pańskim ojcem, świeżo z podróży i odpowiadaj mi ostro, jakby jemu samemu. „Jak to! obwiesiu, łotrze, gałganie, synu niegodny takiego jak ja ojca! Śmiesz pokazywać mi się na oczy po wszystkich hultajstwach, po zuchwałej sztuczce, którąś spłatał w mej nieobecności? To jest nagroda za moje starania, błaźnie? To nagroda za moje starania? To posłuszeństwo? To szacunek, któryś mi powinien? (No, śmiało!) Ty śmiesz, hultaju jeden, wiązać się bez pozwolenia ojca, zawierać tajemne małżeństwa! Odpowiadaj, nicponiu, odpowiadaj! Posłuchajmyż, jak ty się będziesz tłumaczył!…” Ech! cóż u diabła, czegóż pan sterczysz jak tuman jaki?
+
+
+OKTAW
+
+Bo mam uczucie, że słyszę ojca.
+
+
+SKAPEN
+
+No, więc cóż; właśnie dlatego nie trzeba stać jak trusia.
+
+
+OKTAW
+
+Spróbuję wzbudzić w sobie więcej odwagi i będę odpowiadał w najostrzejszym tonie.
+
+
+SKAPEN
+
+Z pewnością?
+
+
+OKTAW
+
+Z pewnością.
+
+
+SYLWESTER
+
+Oto właśnie ojciec.
+
+
+OKTAW
+
+Nieba, jestem zgubiony!
+
+
+
+SCENA PIĄTA
+
+/ SKAPEN, SYLWESTER. /
+
+
+SKAPEN
+
+Hola, panie Oktawie! Panie Oktawie! Drapnął. Cóż za niezdara, doprawdy! Nie dajmyż czekać staruszkowi.
+
+
+SYLWESTER
+
+Co ja mu powiem?
+
+
+SKAPEN
+
+Pozwól mnie mówić, tylko przyświadczaj.
+
+
+
+SCENA SZÓSTA
+
+/ ARGANT, SKAPEN i SYLWESTER w głębi. /
+
+
+ARGANT
+
+/ myśląc, że jest sam /
+
+Słyszał kto kiedy o podobnym wybryku?
+
+
+SKAPEN
+
+/ do Sylwestra /
+
+Już się dowiedział o całej sprawce; widać mocno mu zajechała w głowę, kiedy głośno mówi o niej sam do siebie.
+
+
+ARGANT
+
+/ j. w. /
+
+To doprawdy nadto zuchwalstwa!
+
+
+SKAPEN
+
+/ do Sylwestra /
+
+Posłuchajmyż, co on tam mamrocze.
+
+
+ARGANT
+
+/ j. w. /
+
+Bardzom ciekaw, co oni mi powiedzą o tym pięknym małżeństwie.
+
+
+SKAPEN
+
+/ na stronie /
+
+Pomyśleliśmy o tym.
+
+
+ARGANT
+
+/ j. w. /
+
+Czy spróbują przeczyć w żywe oczy?
+
+
+SKAPEN
+
+/ na stronie /
+
+Nie: ani nam w głowie.
+
+
+ARGANT
+
+/ j. w. /
+
+Czy też zaczną się usprawiedliwiać?
+
+
+SKAPEN
+
+/ na stronie /
+
+To prędzej.
+
+
+ARGANT
+
+/ j. w. /
+
+Czy będą mnie tumanić jakimiś baśniami?
+
+
+SKAPEN
+
+/ na stronie /
+
+Być może.
+
+
+ARGANT
+
+/ j. w. /
+
+Wszystkie cygaństwa na nic się nie zdadzą.
+
+
+SKAPEN
+
+/ na stronie /
+
+Zobaczymy.
+
+
+ARGANT
+
+/ j. w. /
+
+Mnie oczu nie zamydlą.
+
+
+SKAPEN
+
+/ na stronie /
+
+Nie zarzekajmy się zbytnio.
+
+
+ARGANT
+
+/ j. w. /
+
+Znajdę dla mego obwiesia bezpieczne schronienie.
+
+
+SKAPEN
+
+/ na stronie /
+
+Już my się o to postaramy.
+
+
+ARGANT
+
+/ j. w. /
+
+A hultaja Sylwestra kijami zatłukę.
+
+
+SYLWESTER
+
+/ do Skapena /
+
+Byłbym bardzo zdziwiony, gdyby o mnie zapomniał.
+
+
+ARGANT
+
+/ spostrzegając Sylwestra /
+
+Oho! Jesteś, troskliwy opiekunie rodziny, stateczny kierowniku młodzieży!
+
+
+SKAPEN
+
+Panie, cieszę się, że pana widzę z powrotem.
+
+
+ARGANT
+
+Jak się masz, Skapenie.
+
+/ do Sylwestra /
+
+Doprawdy, ładnieś się wywiązał z moich rozkazów! Widzę, że syn bardzo przyzwoicie prowadził się w mej nieobecności!
+
+
+SKAPEN
+
+Wraca pan w dobrym zdrowiu, jak widzę.
+
+
+ARGANT
+
+Dosyć dobrym.
+
+/ do Sylwestra /
+
+Ty nic nie mówisz, łotrze! Nic nie mówisz?
+
+
+SKAPEN
+
+Podróż pan miał szczęśliwą?
+
+
+ARGANT
+
+Owszem, bardzo. Pozwólże mi się wyzłościć!
+
+
+SKAPEN
+
+Pan chce się złościć?
+
+
+ARGANT
+
+Tak, chcę.
+
+
+SKAPEN
+
+Aj! Na kogóż to, panie?
+
+
+ARGANT
+
+/ wskazując na Sylwestra /
+
+Na tego łajdaka.
+
+
+SKAPEN
+
+Dlaczego?
+
+
+ARGANT
+
+Nie słyszałeś, co tu się stało w czasie mej nieobecności?
+
+
+SKAPEN
+
+Tak, słyszałem o jakiejś drobnostce.
+
+
+ARGANT
+
+Jak to! O jakiejś drobnostce! Postępek tego rodzaju!
+
+
+SKAPEN
+
+Poniekąd ma pan słuszność.
+
+
+ARGANT
+
+Zuchwalstwo tak niesłychane!
+
+
+SKAPEN
+
+To prawda.
+
+
+ARGANT
+
+Żeby syn ośmielił się żenić bez pozwolenia ojca!
+
+
+SKAPEN
+
+Tak, można by temu wiele zarzucić. Ale ja byłbym zdania, aby pan nie robił z tą historią hałasu.
+
+
+ARGANT
+
+A ja jestem innego zdania i chcę robić tyle hałasu, ile się zmieści. Jak to! Nie uważasz, że mam wszelkie prawo wściekać się o takie hultajstwo?
+
+
+SKAPEN
+
+Owszem. I ja zirytowałem się zrazu, skorom się o tym dowiedział i przejąłem się pańską sprawą tak dalece, że poszedłem wyburczeć pańskiego syna. Niech się go pan spyta, jaki mu paternoster wsypałem i jak mu zmyłem głowę za ten brak uszanowania dla ojca, którego ślady stóp powinien by całować. Sam pan by mu lepiej nie wypalił tego wszystkiego. Ale cóż! Musiałem wreszcie wejść w jego położenie i po namyśle doszedłem do przekonania, że, w gruncie, nie zawinił tyle, ile by można przypuszczać.
+
+
+ARGANT
+
+Co ty mi pleciesz? Nie zawinił tyle, żeniąc się tak, prosto z mostu, z jakąś przybłędą?
+
+
+SKAPEN
+
+Cóż pan chce? Los go do tego zmusił.
+
+
+ARGANT
+
+Aha! Dobra racja. Można zatem dopuszczać się największych zbrodni; oszukiwać, kraść, mordować i powiedzieć na swą wymówkę, że los do tego zmusił.
+
+
+SKAPEN
+
+Mój Boże! Pan bierze moje słowa zbyt filozoficznie. Ja chciałem powiedzieć, że się nieszczęśliwie zaplątał w całą sprawę.
+
+
+ARGANT
+
+A po cóż się zaplątał?
+
+
+SKAPEN
+
+Skądże chcieć, aby był tak roztropny jak pan? Młodzi są młodzi, nie mają tyle statku, aby zawsze robić same rozumne rzeczy: przykładem nasz Leander, który, mimo wszystkich moich nauk, przestróg, nabroił gorszych jeszcze historii. Chciałbym bardzo wiedzieć, czy pan sam nie byłeś młody i czy za dobrych latek nie robiłeś szaleństw jak inni. Słyszałem nawet coś nie coś, że pan się niegdyś tęgo kręciłeś koło spódniczek; żeś się ponoś kumał z najładniejszymi kobietkami swego czasu i że gdyś na którą zagiął parol, toś nie popuścił, pókiś swego nie dopiął.
+
+
+ARGANT
+
+To wszystko prawda, nie przeczę; ale zawszem się trzymał w granicach miłostek i nigdy bym się nie posunął do tego co on.
+
+
+SKAPEN
+
+Cóż zatem miał zrobić według pana? Widzi młodą osobę, która nań mile spogląda (bo to już ma po panu, że żadna kobieta koło niego spokojnie nie przejdzie); podoba mu się, odwiedza ją, prawi czułości, wzdycha, durzy się. Ona ulega jego namowom, chłopak korzysta jak może. I oto raz przyłapują go rodzice na takim czułym gruchaniu i przemocą wprost zniewalają do małżeństwa.
+
+
+SYLWESTER
+
+/ na stronie /
+
+A to szczwany cygan!
+
+
+SKAPEN
+
+Miał się pozwolić zabić wedle pana? Z dwojga złego lepiej być jeszcze żonatym niż trupem.
+
+
+ARGANT
+
+Nic mi nie mówiono, że sprawa miała się w ten sposób.
+
+
+SKAPEN
+
+/ wskazując Sylwestra /
+
+Niechże pan jego spyta: nie powie ani na włos inaczej.
+
+
+ARGANT
+
+/ do Sylwestra /
+
+Więc przemocą go ożeniono?
+
+
+SYLWESTER
+
+Tak, panie.
+
+
+SKAPEN
+
+Przecież bym nie kłamał.
+
+
+ARGANT
+
+Powinien był zatem natychmiast iść zaprotestować przeciw gwałtowi u najbliższego rejenta.
+
+
+SKAPEN
+
+Otóż tego nie chciał uczynić.
+
+
+ARGANT
+
+To by mi ułatwiło w znacznej mierze zerwanie małżeństwa.
+
+
+SKAPEN
+
+Zerwanie małżeństwa?
+
+
+ARGANT
+
+Tak.
+
+
+SKAPEN
+
+Ależ pan go nie zerwie.
+
+
+ARGANT
+
+Ja nie zerwę?
+
+
+SKAPEN
+
+Nie.
+
+
+ARGANT
+
+Jak to! Czy nie starczą do tego prawa ojcowskie i przemoc, której dopuszczono się na synu?
+
+
+SKAPEN
+
+On się na to nigdy nie zgodzi.
+
+
+ARGANT
+
+On się nie zgodzi?
+
+
+SKAPEN
+
+Nie.
+
+
+ARGANT
+
+Mój syn?
+
+
+SKAPEN
+
+Pański syn. Chcesz pan, aby tym samym przyznał, że był zdolny dać się przestraszyć i że go zniewolono siłą? Nigdy na to nie przystanie; to by znaczyło przedstawić się w najgorszym świetle i okazać się niegodnym takiego ojca jak pan.
+
+
+ARGANT
+
+Drwię sobie z tego.
+
+
+SKAPEN
+
+Musi, po prostu dla swego i pańskiego honoru, powiadać wszystkim, że zaślubił ją dobrowolnie.
+
+
+ARGANT
+
+A ja chcę, dla mego i jego honoru, aby powiadał wprost przeciwnie.
+
+
+SKAPEN
+
+Nie; jestem pewny, że tego nie uczyni.
+
+
+ARGANT
+
+Potrafię go zmusić.
+
+
+SKAPEN
+
+Nie zrobi tego, powiadam panu.
+
+
+ARGANT
+
+Zrobi albo go wydziedziczę.
+
+
+SKAPEN
+
+Pan?
+
+
+ARGANT
+
+Ja.
+
+
+SKAPEN
+
+Bagatela!
+
+
+ARGANT
+
+Jak to: bagatela?
+
+
+SKAPEN
+
+Nie wydziedziczy pan.
+
+
+ARGANT
+
+Nie wydziedziczę?
+
+
+SKAPEN
+
+Nie.
+
+
+ARGANT
+
+Nie?
+
+
+SKAPEN
+
+Nie.
+
+
+ARGANT
+
+Ejże! A to doskonałe! Ja nie wydziedziczę syna?
+
+
+SKAPEN
+
+Nie, powiadam.
+
+
+ARGANT
+
+Któż mi zabroni?
+
+
+SKAPEN
+
+Pan sam.
+
+
+ARGANT
+
+Ja?
+
+
+SKAPEN
+
+Tak. Nie będzie pan miał serca.
+
+
+ARGANT
+
+Będę.
+
+
+SKAPEN
+
+Żartuje pan.
+
+
+ARGANT
+
+Nie żartuję.
+
+
+SKAPEN
+
+Czułość ojcowska zrobi swoje.
+
+
+ARGANT
+
+Nic nie zrobi.
+
+
+SKAPEN
+
+Zrobi, zrobi.
+
+
+ARGANT
+
+Mówię ci, że tak się stanie.
+
+
+SKAPEN
+
+Fraszki!
+
+
+ARGANT
+
+Nie trzeba mówić: fraszki.
+
+
+SKAPEN
+
+Mój Boże; ja pana znam; pan jest dobry z natury.
+
+
+ARGANT
+
+Wcale nie jestem dobry, umiem być zły, jak zechcę. Skończmy tę gawędę, która żółć mi tylko wzburza.
+
+/ do Sylwestra /
+
+Ruszaj stąd, obwiesiu; biegaj szukać tego hultaja. Ja tymczasem pójdę do Geronta, aby mu opowiedzieć swoje zgryzoty.
+
+
+SKAPEN
+
+Panie, jeśli mogę być panu w czymkolwiek użyteczny, niech pan tylko raczy rozkazać.
+
+
+ARGANT
+
+Dziękuję.
+
+/ na stronie /
+
+Ach, czemuż on jest mym jedynym synem! Czemuż nie ma tu w tej chwili córki, którą niebo mi wydarło! Zaraz bym go wydziedziczył na jej korzyść.
+
+
+
+SCENA SIÓDMA
+
+/ SKAPEN, SYLWESTER. /
+
+
+SYLWESTER
+
+Przyznaję, że z ciebie wielki człowiek i że sprawa przybrała nieco szczęśliwszy obrót. Ale teraz zdałoby się pomyśleć o drugiej stronie medalu: trzeba na gwałt pieniędzy; i tak wierzyciele depcą nam po piętach.
+
+
+SKAPEN
+
+Nie troszcz się o to: wszystko już obmyślone. Szukam jedynie w głowie człowieka, któremu byśmy mogli zaufać i który by się podjął zagrać wyznaczoną rolę. Czekaj. Obróć no się trochę. Nasuń no czapkę na czoło. Rozkracz trochę nogi. Wesprzyj się pod bok. Zrób wściekłą minę. Przejdź się trochę, a szeroko, tak jak to królowie w teatrze. Doskonale; już mamy. Chodź za mną. Sam się zajmę przeobrażeniem twojego głosu i gęby.
+
+
+SYLWESTER
+
+Zaklinam cię tylko, Skapenie, nie wpędź mnie w jakie zatargi ze świetnym trybunałem.
+
+
+SKAPEN
+
+Ech, co tam, podzielimy się niebezpieczeństwem jak bracia: trzy lata galer mniej czy więcej, cóż to jest dla człowieka z sercem i honorem?
+
+
+
+
+AKT DRUGI
+
+
+
+SCENA PIERWSZA
+
+/ GERONT, ARGANT. /
+
+
+GERONT
+
+Tak, to rzecz pewna: wobec takiej pogody, ludzie nasi powinni być dziś tutaj. Pewien majtek, który przybywa z Tarentu, zapewnił mnie, że widział, jak moja służba gotowała się wsiadać na statek. Ale widzę, że przyjazd mej córki trafia na bardzo niepomyślne okoliczności, i to, co mi powiadasz o synu, wielce utrudnia spełnienie naszej umowy.
+
+
+ARGANT
+
+Nie troszcz się o to, szanowny sąsiedzie i przyjacielu; ręczę, że obalę zaporę i nawet spieszę natychmiast czynić kroki w tej sprawie.
+
+
+GERONT
+
+Na honor, mości Argancie, chcesz, abym ci powiedział, co myślę? Otóż wychowanie dzieci jest to rzecz, którą się trzeba zajmować bardzo serio.
+
+
+ARGANT
+
+Bez wątpienia. Do czego się to odnosi?
+
+
+GERONT
+
+Do tego, że wybryki młodych ludzi płyną najczęściej z tego, że ojcowie nie umieli ich chować jak należy.
+
+
+ARGANT
+
+I to się trafia. Ale co chcesz przez to powiedzieć?
+
+
+GERONT
+
+Co chcę powiedzieć?
+
+
+ARGANT
+
+Tak.
+
+
+GERONT
+
+Że gdybyś był, jak troskliwy ojciec, lepiej trzymał synalka, nie byłby ci pewnie wypłatał takiego figla.
+
+
+ARGANT
+
+Pięknie. To niby znaczy, że ty zawsze swojego dobrze trzymałeś?
+
+
+GERONT
+
+Z pewnością; i wcale byłbym nierad, gdyby mi urządził coś podobnego nawet w przybliżeniu.
+
+
+ARGANT
+
+A gdyby ten syn, którego ty, jako troskliwy ojciec, trzymałeś tak dobrze, nabroił jeszcze o wiele gorzej niż mój? No?
+
+
+GERONT
+
+Hę?
+
+
+ARGANT
+
+Hę?
+
+
+GERONT
+
+Cóż to ma znaczyć?
+
+
+ARGANT
+
+To ma znaczyć, mości Geroncie, że nie trzeba być tak rychliwym w sądzeniu drugich i że kto chce prawić kazania, winien dobrze patrzyć, czy u niego wszystko idzie jak należy.
+
+
+GERONT
+
+Nie rozumiem zgoła tej zagadki.
+
+
+ARGANT
+
+Łatwo ci ją będzie wytłumaczyć.
+
+
+GERONT
+
+Czyżbyś słyszał cośkolwiek o mym synu?
+
+
+ARGANT
+
+Możebne.
+
+
+GERONT
+
+Cóż zatem?
+
+
+ARGANT
+
+Twój Skapen, rozmawiając o moim strapieniu, napomknął mi tylko coś ogólnikowo; ale możesz od niego albo od kogo innego dowiedzieć się bliższych szczegółów. Co do mnie, idę czym prędzej naradzić się z adwokatem i wymiarkować, jakich sposobów trzeba będzie użyć. Do zobaczenia.
+
+
+
+SCENA DRUGA
+
+
+GERONT
+
+/ sam /
+
+Co by to mogła być za sprawka? Jeszcze gorsza niż jego syna! Na honor, nie łatwo mi, doprawdy, wyobrazić sobie coś gorszego; uważam, że ożenić się bez pozwolenia ojca jest postępkiem, który przechodzi wszelką imainację.
+
+
+
+SCENA TRZECIA
+
+/ GERONT, LEANDER. /
+
+
+GERONT
+
+A, jesteś tutaj!
+
+
+LEANDER
+
+/ biegnąc ku Gerontowi, aby go uściskać /
+
+Ach, ojcze, jakże się cieszę, widząc cię z powrotem!
+
+
+GERONT
+
+/ odpychając Leandra /
+
+Powoli. Pomówmy nieco o rzeczach serio.
+
+
+LEANDER
+
+Pozwól, niech cię uściskam i…
+
+
+GERONT
+
+/ odpychając go znowu /
+
+Powoli, mówię.
+
+
+LEANDER
+
+Jak to, ojcze! Nie pozwalasz mi wyrazić uściskiem mej najszczerszej radości?
+
+
+GERONT
+
+Nie. Mamy wprzódy pewną rzecz do wyjaśnienia.
+
+
+LEANDER
+
+Cóż takiego?
+
+
+GERONT
+
+Stań no tu, abym cię dobrze widział.
+
+
+LEANDER
+
+Jak to, ojcze!
+
+
+GERONT
+
+Popatrz mi prosto w oczy.
+
+
+LEANDER
+
+I cóż?
+
+
+GERONT
+
+Powiedz no mi, co się tu działo?
+
+
+LEANDER
+
+Co się działo?
+
+
+GERONT
+
+Tak. Coś tu robił w czasie mej nieobecności?
+
+
+LEANDER
+
+Cóż miałem robić, ojcze?
+
+
+GERONT
+
+Nie pytam o to, co miałeś robić, ale coś robił.
+
+
+LEANDER
+
+Ja? Nic takiego, z czego miałbyś prawo być niezadowolony.
+
+
+GERONT
+
+Nic? Doprawdy?
+
+
+LEANDER
+
+Nic.
+
+
+GERONT
+
+Bardzoś sobie rezolutny!
+
+
+LEANDER
+
+Bo pewny swojej niewinności.
+
+
+GERONT
+
+Jednak Skapen powiadał mi ładne rzeczy o tobie.
+
+
+LEANDER
+
+Skapen?
+
+
+GERONT
+
+Ohoho! Widzę, że mi się czerwienisz.
+
+
+LEANDER
+
+Skapen mówił coś o mnie, ojcze?
+
+
+GERONT
+
+Tu nie miejsce po temu, aby załatwiać takie sprawy; pogadamy o tym gdzie indziej. Proszę mi iść do domu; przybędę tam za chwilę. A nicponiu! Jeśli ty hańbą chcesz okryć moją siwą głowę, wyrzekam się ciebie najkrótszą drogą: możesz na zawsze zniknąć z moich oczu.
+
+
+
+SCENA CZWARTA
+
+
+LEANDER
+
+/ sam /
+
+Zdradzić mnie w taki sposób! Łotr, który dla stu powodów powinien pierwszy strzec pilnie mojej tajemnicy, sam spieszy wydać ją przed ojcem! Ha! Przysięgam na niebo, ta zdrada nie ujdzie mu bezkarnie.
+
+
+
+SCENA PIĄTA
+
+/ OKTAW, LEANDER, SKAPEN. /
+
+
+OKTAW
+
+Ach, drogi Skapenie, ileż zawdzięczam twoim staraniom! Cóż z ciebie za cudowny człowiek! Co to za szczęście dla mnie, iż niebo cię zesłało ku mojej pomocy!
+
+
+LEANDER
+
+A, a! Jesteś tu! Bardzo się cieszę, że cię spotykam, łotrze spod ciemnej gwiazdy!
+
+
+SKAPEN
+
+Najniższy sługa. Zbyt wiele honoru mi pan czyni.
+
+
+LEANDER
+
+/ dobywając szpady /
+
+Co, drwinki stroisz!… Ja cię nauczę…
+
+
+SKAPEN
+
+/ padając na kolana /
+
+Panie!
+
+
+OKTAW
+
+/ rzucając się między nich i wstrzymując Leandra za ramię /
+
+Leandrze! Co czynisz!
+
+
+LEANDER
+
+Nie, Oktawie, nie wstrzymuj mnie, proszę.
+
+
+SKAPEN
+
+/ do Leandra /
+
+Och, panie!
+
+
+OKTAW
+
+/ wstrzymując Leandra /
+
+Przez litość!
+
+
+LEANDER
+
+/ chcąc ugodzić Skapena /
+
+Pozwól mi nasycić mą wściekłość.
+
+
+OKTAW
+
+W imię naszej przyjaźni, Leandrze, oszczędź mu życie.
+
+
+SKAPEN
+
+Panie, cóżem ja uczynił?
+
+
+LEANDER
+
+/ chcąc ugodzić Skapena /
+
+Coś uczynił, zdrajco!
+
+
+OKTAW
+
+/ wstrzymując znowu Leandra /
+
+Ech! Z wolna!
+
+
+LEANDER
+
+Dobrze, Oktawie, zatem niech sam mi tu wyzna w tej chwili szelmostwo, które mi wypłatał. Tak, łotrze, znam twoją sprawkę: dowiedziałem się o niej przed chwilą! Nie wyobrażałeś sobie pewno, aby ten sekret miał dojść mej świadomości; ale żądam, byś mi tu wyznał wszystko własnymi usty albo ta szpada przeszyje na wylot twoje nędzne ciało.
+
+
+SKAPEN
+
+Och, panie, pan miałby sumienie?…
+
+
+LEANDER
+
+Więc gadaj.
+
+
+SKAPEN
+
+Ja panu coś zrobiłem?
+
+
+LEANDER
+
+Tak, łotrze; wiesz doskonale, o czym myślę.
+
+
+SKAPEN
+
+Przysięgam, że nie wiem.
+
+
+LEANDER
+
+/ zamierzając się, aby ugodzić Skapena /
+
+Ty nie wiesz!
+
+
+OKTAW
+
+/ wstrzymując go /
+
+Leandrze!
+
+
+SKAPEN
+
+Więc dobrze, panie, skoro pan chce koniecznie, wyznaję panu, że to ja, wraz z przyjaciółmi, wypiłem tę baryłkę hiszpańskiego wina, które pan dostał w podarku przed kilkoma dniami. Ja również zrobiłem szparę w beczułce i rozlałem wodę naokoło, aby można było mniemać, że samo wyciekło.
+
+
+LEANDER
+
+Więc to ty, obwiesiu, wypiłeś wino! Więc ja za ciebie tak zwymyślałem służącą, pewny, że to ona spłatała mi tę sztuczkę?
+
+
+SKAPEN
+
+Tak, panie, to ja; pokornie przepraszam.
+
+
+LEANDER
+
+Bardzo się cieszę, że się i o tym dowiedziałem. Ale w tej chwili nie o to szelmostwo mi chodzi.
+
+
+SKAPEN
+
+To nie to, panie?
+
+
+LEANDER
+
+Nie: to inna sprawa, która dotyczy mnie o wiele bliżej; żądam, byś mi ją wyznał.
+
+
+SKAPEN
+
+Panie, nie przypominam sobie, abym jeszcze coś uczynił.
+
+
+LEANDER
+
+/ zamierzając się znowu /
+
+Nie chcesz gadać?
+
+
+SKAPEN
+
+Aj!
+
+
+OKTAW
+
+/ powstrzymując Leandra /
+
+Czekaj!
+
+
+SKAPEN
+
+Więc dobrze, panie; prawda, posłał mnie pan kiedyś, przed trzema tygodniami, wieczorem, abym zaniósł zegareczek młodej Cygance, pańskiej ukochanej. Wróciłem do mieszkania z sukniami okrytymi błotem i twarzą pełną krwi i powiedziałem panu, że natknąłem się na złodziei, którzy mnie zbili i odebrali zegarek. To ja, panie, przywłaszczyłem go sobie.
+
+
+LEANDER
+
+Ty przywłaszczyłeś sobie zegarek?
+
+
+SKAPEN
+
+Ja, panie, żeby wiedzieć, która godzina.
+
+
+LEANDER
+
+Ho, ho! ładnych się tu rzeczy dowiaduję! Uczciwego mam sługę, doprawdy! Ale to jeszcze nie to, o co pytam.
+
+
+SKAPEN
+
+Nie to?
+
+
+LEANDER
+
+Nie, łotrze bezwstydny, jeszcze coś innego; i masz mi gadać w tej chwili.
+
+
+SKAPEN
+
+/ na stronie /
+
+A, do licha!
+
+
+LEANDER
+
+Mów prędko, bo mi spieszno.
+
+
+SKAPEN
+
+Panie, to już wszystko.
+
+
+LEANDER
+
+/ zamierzając się /
+
+Wszystko?
+
+
+OKTAW
+
+/ stając przed Leandrem /
+
+Ależ…
+
+
+SKAPEN
+
+Więc dobrze, jeszcze coś, panie. Przypomina pan sobie tego wilkołaka przed pół rokiem, który panu w nocy wsypał tyle kijów, że pan o mało karku nie skręcił, wpadłszy w ucieczce do piwnicy.
+
+
+LEANDER
+
+No więc?
+
+
+SKAPEN
+
+To ja, panie, udawałem tego wilkołaka.
+
+
+LEANDER
+
+To ty, zdrajco, udawałeś wilkołaka?
+
+
+SKAPEN
+
+Tak, panie; jedynie aby panu napędzić strachu i odebrać ochotę wyciągania mnie na wędrówki nocne, jak to było pańskim zwyczajem.
+
+
+LEANDER
+
+Potrafię ja sobie przypomnieć, w swoim czasie i miejscu, to, czego się tu dowiedziałem. Ale teraz wróćmy do rzeczy: żądam, abyś mi wyznał, coś powiedział ojcu.
+
+
+SKAPEN
+
+Ojcu?
+
+
+LEANDER
+
+Tak, szelmo, ojcu.
+
+
+SKAPEN
+
+Ależ ja go nie widziałem nawet po powrocie.
+
+
+LEANDER
+
+Nie widziałeś?
+
+
+SKAPEN
+
+Nie, panie.
+
+
+LEANDER
+
+Z pewnością?
+
+
+SKAPEN
+
+Z pewnością. Sam ojciec może poświadczyć.
+
+
+LEANDER
+
+Jednakże ja wiem o tym właśnie od niego.
+
+
+SKAPEN
+
+W takim razie, z przeproszeniem pańskim, nie powiedział prawdy.
+
+
+
+SCENA SZÓSTA
+
+/ LEANDER, OKTAW, KARLO, SKAPEN. /
+
+
+KARLO
+
+Panie, przynoszę wiadomość nader bolesną dla pańskiej miłości.
+
+
+LEANDER
+
+Jak to?
+
+
+KARLO
+
+Cyganie mają zamiar uprowadzić stąd Zerbinetę; sama, ze łzami w oczach, prosiła mnie, abym pospieszył cię uwiadomić, że jeśli do dwóch godzin nie złożysz żądanego okupu, stracisz ją z oczu na zawsze.
+
+
+LEANDER
+
+Dwóch godzin!
+
+
+KARLO
+
+Dwóch godzin.
+
+
+
+SCENA SIÓDMA
+
+/ LEANDER, OKTAW, SKAPEN. /
+
+
+LEANDER
+
+Och, poczciwy Skapenie, błagam, chciej mi dopomóc.
+
+
+SKAPEN
+
+/ podnosząc się i przechodząc hardo mimo Leandra /
+
+A, poczciwy Skapenie! Teraz jestem poczciwym Skapenem, kiedy jestem potrzebny.
+
+
+LEANDER
+
+No, no, już ci przebaczam wszystko, coś mi tu wyznał, i więcej jeszcze, jeśliś jeszcze coś przeskrobał.
+
+
+SKAPEN
+
+Nie, nie; niech mi pan nic nie przebacza; niech mi pan wpakuje w sam brzuch tę szpadę. Będę uszczęśliwiony, jeśli mnie pan zabije.
+
+
+LEANDER
+
+Nie; błagam cię raczej, ty chciej mi wrócić życie, podając rękę mej miłości.
+
+
+SKAPEN
+
+Nie, nie: lepiej będzie, jak mnie pan zabije.
+
+
+LEANDER
+
+Życie twoje jest dla mnie zbyt cenne: zaklinam cię, chciej rozwinąć dla mej sprawy ów cudowny geniusz, dla którego nie ma nic niepodobnego na świecie.
+
+
+SKAPEN
+
+Nie. Niech mnie pan zabije, proszę bardzo.
+
+
+LEANDER
+
+Ach, przez litość, nie pamiętaj już dłużej; pomyśl, jak by mi pomóc w tym, o co cię proszę.
+
+
+OKTAW
+
+Skapenie, trzeba coś dla niego uczynić.
+
+
+SKAPEN
+
+Jakże to możliwe po upokorzeniu, którego doznałem?
+
+
+LEANDER
+
+Błagam cię, wybacz mą porywczość i chciej użyczyć mi swoich talentów.
+
+
+OKTAW
+
+I ja dołączam za nim moje prośby.
+
+
+SKAPEN
+
+Zbyt mnie ubodła w serce ta zniewaga.
+
+
+OKTAW
+
+Zapomnij.
+
+
+LEANDER
+
+Skapenie, chciałbyś mnie opuścić w tak okrutnym położeniu?
+
+
+SKAPEN
+
+Taki mi afront wyrządzić, ot, ni stąd ni zowąd!
+
+
+LEANDER
+
+Zbłądziłem, wyznaję.
+
+
+SKAPEN
+
+Wymyślać od łotrów, szelmów, wisielców, infamisów!
+
+
+LEANDER
+
+Żałuję najserdeczniej.
+
+
+SKAPEN
+
+Chcieć mnie na wylot przewiercić szpadą!
+
+
+LEANDER
+
+Proszę cię o przebaczenie z całego serca. Jeżeli chodzi tylko o to, bym ukląkł przed tobą, oto masz mnie na kolanach, Skapenie; błagam cię jeszcze raz, abyś mnie nie opuścił.
+
+
+OKTAW
+
+Nie, na honor, Skapenie, musisz wreszcie ustąpić.
+
+
+SKAPEN
+
+Może pan wstać. Na drugi raz niech pan nie będzie taki porywczy.
+
+
+LEANDER
+
+Przyrzekasz zająć się mą sprawą?
+
+
+SKAPEN
+
+Pomyśli się o tym.
+
+
+LEANDER
+
+Ale wiesz, że czas nagli.
+
+
+SKAPEN
+
+Niech pana o to głowa nie boli. Ile panu trzeba?
+
+
+LEANDER
+
+Pięćset talarów.
+
+
+SKAPEN
+
+A panu?
+
+
+OKTAW
+
+Dwieście pistolów.
+
+
+SKAPEN
+
+Wydobędę te pieniądze od ojcaszków.
+
+/ do Oktawa /
+
+Co się tyczy pańskiego, już mam na niego sposób;
+
+/ do Leandra /
+
+co zaś do pańskiego papy, to, chociaż z niego skończony kutwa, jeszcze mniej będziemy mieli z nim kłopotu; jak panu bowiem wiadomo, Bóg nie obdarzył go zbytnią bystrością dowcipu; można w poczciwca wmówić co się żywnie podoba. Niech to pana nie obraża: nie ma pomiędzy nim a panem ani cienia podobieństwa; wiadomo panu zresztą, iż nie brak ludzi, którzy twierdzą, że on jest ojcem twoim jedynie w sensie formalnym.
+
+
+LEANDER
+
+Hola, mości Skapenie!
+
+
+SKAPEN
+
+Dobrze, dobrze, któż by przywiązywał znaczenie do takiego głupstwa! Kpisz pan, czy co? Ale otóż i ojciec pana Oktawa. Zacznijmy od niego, skoro się nawinął. Oddalcie się.
+
+/ do Oktawa /
+
+A pan spiesz ostrzec Sylwestra, aby szybko przybył odegrać swą rolę.
+
+
+
+SCENA ÓSMA
+
+/ ARGANT, SKAPEN. /
+
+
+SKAPEN
+
+/ na stronie /
+
+Ciągle jeszcze przeżuwa swoje.
+
+
+ARGANT
+
+/ myśląc, że jest sam /
+
+Tak mało mieć rozwagi, tak mało statku! Wplątać się w takie zobowiązanie! Och, och, lekkomyślna młodzież!
+
+
+SKAPEN
+
+Sługa najniższy.
+
+
+ARGANT
+
+Jak się masz, Skapenie.
+
+
+SKAPEN
+
+Duma pan nad przygodą syna?
+
+
+ARGANT
+
+Wyznaję, że mnie to gryzie niepomiernie.
+
+
+SKAPEN
+
+Panie, życie ludzkie najeżone jest przeciwnościami: toteż dobrze jest każdej chwili być na nie przygotowanym. Swego czasu słyszałem na ten temat zdanie starożytnego mędrca, które na zawsze zachowałem w pamięci.
+
+
+ARGANT
+
+Cóż za zdanie?
+
+
+SKAPEN
+
+Że jeśli ojciec rodziny choćby przez krótki czas był poza domem, winien przejść w myśli wszystkie przykre wydarzenia, jakie może zastać za powrotem; wyobrazić sobie, że dom spłonął, pieniądze skradli złodzieje, żona umarła, syn okaleczał, córkę zgwałcono; to zaś, co go ominęło, przypisać szczególnemu szczęściu. Co do mnie, trzymałem się zawsze tej nauki w mojej skromnej filozofii; ile razy zdarzyło mi się wracać do domu, za każdym razem byłem przygotowany na gniew państwa, na wymyślania, na zniewagi, kopnięcie w zadek, kije i batogi; za wszystko zaś, czego mi oszczędzono, składałem dzięki dobremu losowi.
+
+
+ARGANT
+
+Bardzo ładnie; ale z tego nie wynika, bym miał cierpieć bezecne małżeństwo, stające w poprzek związkom, które układałem dla syna. Właśnie zasięgałem rady adwokatów, w jaki sposób można by rzecz całą unieważnić.
+
+
+SKAPEN
+
+Na honor, panie, gdyby pan mnie chciał słuchać, starałby się pan załagodzić sprawę na innej drodze. Wie pan, co to są procesy w tym kraju; dobrowolnie się pan pakuje w gniazdo os.
+
+
+ARGANT
+
+Masz słuszność, czuję to aż nadto dobrze. Ale jakaż to inna droga?
+
+
+SKAPEN
+
+Zdaje mi się, że ją znalazłem. Tak mi żal pana, doprawdy, kiedy patrzę na pańskie zmartwienie, że mimo woli zacząłem szukać w głowie jakiegoś sposobu, aby pana wydobyć z kłopotu. Taką już mam naturę, że nie mogę patrzeć bez wzruszenia na zacnych rodziców cierpiących zgryzoty z powodu niesfornych dzieci; prócz tego, zawsze czułem dla pańskiej osoby całkiem szczególny szacunek.
+
+
+ARGANT
+
+Szczerze ci jestem obowiązany.
+
+
+SKAPEN
+
+Poszedłem więc rozmówić się z bratem dziewczyny. To jeden z owych zawodowych rębajłów, ludzi, których życie streszcza się w machaniu szpadą: wciąż mówią tylko o zadźganiu kogoś i tyle im znaczy zamordować człowieka, co drugiemu golnąć szklankę wina. Naprowadziłem rozmowę na małżeństwo, wykazałem, jak łatwo byłoby je unieważnić na podstawie oczywistego gwałtu; podkreśliłem ojcowskie przywileje; oparcie, jakie panu dają wobec trybunałów i słuszne prawo, i majątek, i stosunki. Tak mu zakręciłem głowę, że wreszcie dał się nakłonić, aby umorzyć sprawę za jakąś okrągłą sumkę; słowem, gotów przystać na unieważnienie, byle mu pan dał odszkodowanie pieniężne.
+
+
+ARGANT
+
+I ileż?
+
+
+SKAPEN
+
+Och, z początku roiły mu się złote góry.
+
+
+ARGANT
+
+Hm, ile?
+
+
+SKAPEN
+
+Bajońskie sumy.
+
+
+ARGANT
+
+Ale przecież?
+
+
+SKAPEN
+
+Nie chciał słyszeć o mniej niż pięciuset lub sześciuset pistolach.
+
+
+ARGANT
+
+Niechże go febra ściśnie pięćset i sześćset razy! Czy on sobie kpi?
+
+
+SKAPEN
+
+To samo mu powiedziałem. Wzruszyłem ramionami na takie pretensje i wytłumaczyłem jasno, że pan nie jest tak głupi, aby dać z siebie wycisnąć sześćset pistolów. Wreszcie, po długich rokowaniach, oto do czego sprowadza się wynik. Zbliża się czas, powiedział, w którym mam się zaciągnąć do wojska; muszę się wyekwipować i trzeba mi gotowizny: rad nierad zatem, muszę się zgodzić na propozycje. Trzeba mi wierzchowca; trudno zaś dostać niezłego konika za mniej niż sześćdziesiąt pistolów.
+
+
+ARGANT
+
+Dobrze więc, na sześćdziesiąt może rachować.
+
+
+SKAPEN
+
+Do konia potrzebny jest rząd i pistolety; to jeszcze jakieś dwadzieścia pistolów.
+
+
+ARGANT
+
+Dwadzieścia a sześćdziesiąt, byłoby osiemdziesiąt.
+
+
+SKAPEN
+
+Właśnie.
+
+
+ARGANT
+
+To dużo; ale niech będzie: zgadzam się i na tyle.
+
+
+SKAPEN
+
+Trzeba mu również konia pod siodło dla pachołka: co najmniej trzydzieści pistolów.
+
+
+ARGANT
+
+Cóż u diaska! Niechże mu kat świeci; nic nie dam.
+
+
+SKAPEN
+
+Panie, panie!
+
+
+ARGANT
+
+Nie: to trzeba być bezczelnym błaznem!
+
+
+SKAPEN
+
+Chce pan, aby pachołek gonił za nim piechotą?
+
+
+ARGANT
+
+Niech goni jak mu się podoba i jego pan także.
+
+
+SKAPEN
+
+Mój Boże, panie, niechże się pan nie zacina przy takiej drobnostce. Niech się pan nie wdaje w procesy, błagam; raczej niech pan wszystko odda, byle się uchronić rąk sprawiedliwości.
+
+
+ARGANT
+
+Niechże więc stracę; gotów jestem wreszcie zapłacić i te trzydzieści.
+
+
+SKAPEN
+
+Trzeba mi również, powiedział, jucznego muła, który by…
+
+
+ARGANT
+
+Co! Niechże mi się zabiera do czarnego diaska ze swoim mułem! To już za wiele; pójdziemy do sądu.
+
+
+SKAPEN
+
+Panie, niech pan ustąpi.
+
+
+ARGANT
+
+Nie, mowy nie ma.
+
+
+SKAPEN
+
+Maleńki mułek.
+
+
+ARGANT
+
+Ani nawet osła.
+
+
+SKAPEN
+
+Niech pan rozważy.
+
+
+ARGANT
+
+Nie; wolę się procesować.
+
+
+SKAPEN
+
+Ech, drogi panie, co pan doprawdy wyplata? Czy pan wie, na co się pan naraża? Niech pan ogarnie myślą wszystkie stopnie i szczeble sprawiedliwości. Niech pan spojrzy, ile tu instancji i apelacji; ile zawikłanych procedur; ile zwierząt drapieżnych, przez których pazury przejść ci będzie trzeba: woźnych, pełnomocników, prokuratorów, adwokatów, pisarzy, substytutów, referendarzy, sędziów i ich pomocników. Nie ma pomiędzy nimi ani jednego, który by, dla najbłahszego powodu, nie był zdolny karku skręcić najsłuszniejszej sprawie. Woźny doręczy panu fałszywe powołanie, wskutek czego skażą pana, ani nie będziesz wiedział o tym. Pański prokurator porozumie się z przeciwnikiem i sprzeda cię za miłą gotowiznę. Adwokat, tak samo przekupiony, nie stawi się na rozprawę lub będzie bronił w sposób, który rzecz tylko pogrzebie. Pisarz wystosuje zaoczne wyroki. Sekretarz trybunału uprzątnie rozmyślnie akta z dowodami albo też sam referendarz pominie to, co widział; a skoro, po największych wysiłkach, zdołałbyś się pan uporać z tym wszystkim, przekonasz się z przerażeniem, że bądź to pobożne duszyczki, bądź też damulki, które trzymają sędziów w garści, nastroiły ich przeciw panu. Och, panie, jeśli tylko możesz, ratuj się z tego piekła. Mieć proces w tym kraju, to znaczy być potępionym za życia: sama myśl o procesie wygnałaby mnie stąd aż na krańce Indii.
+
+
+ARGANT
+
+Na ileż on szacuje tego muła?
+
+
+SKAPEN
+
+Panie, na tego muła, na oba konie, rynsztunek, pistolety i jakiś drobny dług w gospodzie, żąda, jedno w drugie, okrągłych dwieście pistolów.
+
+
+ARGANT
+
+Dwieście pistolów!
+
+
+SKAPEN
+
+Tak.
+
+
+ARGANT
+
+/ chodząc w gniewie tam i z powrotem /
+
+Dobrze, dobrze, będziemy się procesować.
+
+
+SKAPEN
+
+Niech się pan zastanowi…
+
+
+ARGANT
+
+Będę się procesował.
+
+
+SKAPEN
+
+Niech się pan nie naraża…
+
+
+ARGANT
+
+Chcę się procesować.
+
+
+SKAPEN
+
+Ależ, aby się procesować, też panu będzie trzeba pieniędzy. Będzie ich trzeba na koszta śledztwa: będzie trzeba na odszkodowanie świadków; będzie trzeba na prokurację, prezentację, należytość za posiedzenia, taksę pełnomocnictwa i diety prokuratora. Będzie ich panu trzeba na konsultacje i obronę adwokatów, na prawo wycofania aktów i sporządzenie odpisów. Będzie ich panu trzeba na raporty substytutów, na poczestne, na wciągnięcie aktów przez pisarza, na sporządzenie orzeczenia, wyroki, kontrole, podpisy i ekspedycje dependentów, nie mówiąc już o podarkach, bez których się nie obejdzie. Niech pan da te same pieniądze owemu człowiekowi, a pozbędzie się pan całej sprawy.
+
+
+ARGANT
+
+Jak to! dwieście pistolów!
+
+
+SKAPEN
+
+No tak. Zyska pan jeszcze na tym. Ot tak, na próbę, zrobiłem w myśli obrachunek wszystkich kosztów; i przekonałem się, że dając drabowi dwieście pistolów, zarabia pan na czysto co najmniej sto pięćdziesiąt, nie licząc kłopotów, łażenia i utrapień. Choćby tylko chodziło o oszczędzenie sobie epitetów, jakich panu nie pożałują przed całą publicznością te szelmy adwokaci, wolałbym zapłacić trzysta pistolów, niż mieć proces.
+
+
+ARGANT
+
+Drwię sobie z tego: chciałbym widzieć adwokata, który by sobie pozwolił coś na mnie powiedzieć!
+
+
+SKAPEN
+
+Zrobi pan, co się panu spodoba, ale gdybym był na pana miejscu, wolałbym uniknąć.
+
+
+ARGANT
+
+Nie zapłacę dwustu pistolów.
+
+
+SKAPEN
+
+Otóż i człowiek, o którym mowa.
+
+
+
+SCENA DZIEWIĄTA
+
+/ ARGANT, SKAPEN, SYLWESTER przebrany za rębajłę. /
+
+
+SYLWESTER
+
+Słuchaj no, Skapenie, pokaż mi przy sposobności tego Arganta, ojca naszego Oktawa.
+
+
+SKAPEN
+
+Na cóż to panu?
+
+
+SYLWESTER
+
+Dowiedziałem się, że chce wytoczyć proces i na tej drodze unieważnić małżeństwo.
+
+
+SKAPEN
+
+Nie wiem, czy ma ten zamiar; to tylko wiem, że nie chce się zgodzić na dwieście pistolów, których pan żąda; powiada, że to za wiele.
+
+
+SYLWESTER
+
+Kroćset bomb i kartaczy! Niech go tylko dopadnę, naszpikuję go jak zająca, choćby mnie mieli żywego kołem łamać.
+
+/ Argant kryje się, drżąc cały, za plecami Skapena. /
+
+
+SKAPEN
+
+Ho, ho, panie; ojciec Oktawa to odważny człowiek: nie nastraszy się z pewnością.
+
+
+SYLWESTER
+
+Co, on! Do stu kartaczy! Gdybym go tu spotkał, wpakowałbym mu w brzuch tę szpadę po rękojeść.
+
+/ spostrzegając Arganta /
+
+Co to za człowiek?
+
+
+SKAPEN
+
+To nie on, panie, to nie on!
+
+
+SYLWESTER
+
+Może ktoś z jego przyjaciół?
+
+
+SKAPEN
+
+Nie, panie, przeciwnie, to jego zawzięty wróg.
+
+
+SYLWESTER
+
+Zawzięty wróg?
+
+/ do Arganta /
+
+Pan jesteś wrogiem tego hultaja Arganta? Hę?
+
+
+SKAPEN
+
+Tak, tak, ręczę.
+
+
+SYLWESTER
+
+/ potrząsając gwałtownie ręką Arganta /
+
+Uściśnij mi pan rękę. Daję panu słowo i przysięgam na honor, na szpadę, którą noszę przy boku, na wszystkie zaklęcia, jakie istnieją pod słońcem, że nim dzień upłynie, uwolnię pana od tego draba, tego starego łotra, Arganta. Niech się pan na mnie spuści.
+
+
+SKAPEN
+
+Mój panie, gwałty w tym kraju do niczego dobrego nie prowadzą.
+
+
+SYLWESTER
+
+Drwię sobie ze wszystkiego: nie mam nic do stracenia.
+
+
+SKAPEN
+
+Będzie się miał na baczności, to pewna; ma przyjaciół, krewnych i służbę, którzy osłonią go w razie napaści.
+
+
+SYLWESTER
+
+Chciałbym to widzieć, do czarta! A, do wszystkich diabłów! Czemuż go tu nie mam przed sobą w tej chwili, razem z jego całą hałastrą! Czemuż mi nie stanie do oczu w otoczeniu bodaj i trzydziestu ludzi! Czemuż nie skoczą tu na mnie z bronią w ręku!
+
+/ stając w pozycji /
+
+Co, hultaje! Wy byście śmieli na mnie się porywać! Tam do kata, bij, morduj!
+
+/ zadaje pchnięcia na wszystkie strony, jak gdyby walczył z kilkoma osobami /
+
+Bez pardonu. Masz! Ostro. Trzymaj! Roztropnie a śmiało. A, łotry! A, draby! Swędzi was skóra, swędzi? Już ja wam ją wygarbuję. Macie gałgany, macie! Dalej! Masz i ty, i ty! Trzymaj!
+
+/ zwracając się w stronę Arganta i Skapena /
+
+I to jeszcze, i to! Co, dajecie drapaka? Stać mi tu ostro, stać ostro!
+
+
+SKAPEN
+
+No, no, no, panie! My nie trzymamy z nimi.
+
+
+SYLWESTER
+
+To was nauczy robić sobie ze mnie zabawkę.
+
+
+
+SCENA DZIESIĄTA
+
+/ ARGANT, SKAPEN. /
+
+
+SKAPEN
+
+Masz pan, widzisz, ile tu trupów za marnych dwieście pistolów. Bądź pan zdrów, życzę panu dobrego powodzenia.
+
+
+ARGANT
+
+/ cały drżący /
+
+Skapenie!
+
+
+SKAPEN
+
+O co chodzi?
+
+
+ARGANT
+
+Namyśliłem się dać tych dwieście pistolów.
+
+
+SKAPEN
+
+Bardzo mnie to cieszy dla pana.
+
+
+ARGANT
+
+Chodźmy go dogonić: mam właśnie przy sobie.
+
+
+SKAPEN
+
+Wystarczy, jeśli mnie pan wręczy. Jakoś nie wypada panu się pokazywać wobec tego, że tu uchodziłeś za kogo innego; a przy tym lękam się, czy, poznając pana, drab nie zażądałby więcej.
+
+
+ARGANT
+
+Pewnie, pewnie, ale widzisz, skoro już płacę, miałbym ochotę to widzieć.
+
+
+SKAPEN
+
+Może mi pan nie ufa?
+
+
+ARGANT
+
+Ach, nie; ale…
+
+
+SKAPEN
+
+Tam do licha! Panie, albo jestem filutem, albo uczciwym człowiekiem: jedno z dwojga. Czyż chciałbym pana oszukiwać i czy w tej całej sprawie mam jakikolwiek inny interes niż dobro pańskie i mego pana, którego również dotyczy sprawa owego małżeństwa? Jeśli mnie pan w czymkolwiek podejrzewa, nie mieszam się do niczego: może pan sobie szukać kogo się panu podoba, aby załatwiał pańskie sprawy.
+
+
+ARGANT
+
+Masz zatem.
+
+
+SKAPEN
+
+Nie, panie, niech mi pan nie powierza tej sumy. Bardzo mi to będzie na rękę, jeśli pan użyje kogo innego.
+
+
+ARGANT
+
+Ale bierzże, dla Boga.
+
+
+SKAPEN
+
+Nie, mówię; lepiej niech mi pan nie ufa. Kto wie, czy ja nie chcę po prostu wyłudzić tych pieniędzy.
+
+
+ARGANT
+
+Masz, powiadam, nie spierajmyż się już o to dłużej. Ale pamiętaj zabezpieczyć się z nim należycie.
+
+
+SKAPEN
+
+Niech się pan na mnie spuści; nie na głupiego trafił.
+
+
+ARGANT
+
+Będę czekał na ciebie w domu.
+
+
+SKAPEN
+
+Stawię się niezawodnie.
+
+/ sam /
+
+Jeden byłby gotów. Pozostaje teraz rozejrzeć się za drugim. Słowo daję, właśnie idzie. Zdaje się, że samo niebo sprowadza ich na zawołanie w sieci.
+
+
+
+SCENA JEDENASTA
+
+/ GERONT, SKAPEN. /
+
+
+SKAPEN
+
+/ udając, że nie widzi Geronta /
+
+O nieba! O, cóż za nieszczęście! Biedny ten ojciec! Biedny Geroncie, i cóż ty poczniesz teraz?
+
+
+GERONT
+
+/ na stronie /
+
+Co on tam o mnie mówi? Jakiś wydaje się strapiony.
+
+
+SKAPEN
+
+Czyż nikt mi nie powie, gdzie jest w tej chwili biedny pan Geront?
+
+
+GERONT
+
+O cóż chodzi, Skapenie?
+
+
+SKAPEN
+
+/ biegając po scenie, nie chcąc widzieć ani słyszeć Geronta /
+
+Gdzież mógłbym go spotkać, aby mu zwiastować to straszne nieszczęście?
+
+
+GERONT
+
+/ zatrzymując Skapena /
+
+Ale cóż się stało?
+
+
+SKAPEN
+
+Próżno biegam na wsze strony: nie mogę go znaleźć…
+
+
+GERONT
+
+Oto jestem.
+
+
+SKAPEN
+
+Musiał się chyba gdzieś schować: ale gdzie?
+
+
+GERONT
+
+/ zatrzymując Skapena /
+
+Człowieku, czyś ty ślepy, że mnie nie chcesz widzieć?
+
+
+SKAPEN
+
+Ach, panie, nie ma sposobu pana dopaść.
+
+
+GERONT
+
+Od godziny stoję tu przed tobą. Cóż się stało?
+
+
+SKAPEN
+
+Panie…
+
+
+GERONT
+
+Co?
+
+
+SKAPEN
+
+Syn pański…
+
+
+GERONT
+
+Cóż syn?
+
+
+SKAPEN
+
+Popadł w najbardziej niespodziane nieszczęście.
+
+
+GERONT
+
+Jakież?
+
+
+SKAPEN
+
+Spotkałem go przed chwilą w głębokim strapieniu z powodu czegoś, co mu pan powiedział i do czego pan wmieszał dość niepotrzebnie i moją osobę. Pragnąc rozproszyć choć trochę owo przygnębienie, udaliśmy się na przechadzkę do portu. Rozglądając się dokoła, zauważyliśmy statek turecki, wcale sobie pokaźny. Młody Turek, wyglądający bardzo przyzwoicie, zachęcił nas, abyśmy wstąpili na pokład, i sam nas nawet przeprowadził. Poszliśmy. Obsypał nas mnóstwem grzeczności, ofiarował podwieczorek składający się z wybornych owoców i doskonałego wina.
+
+
+GERONT
+
+Cóż w tym za nieszczęście?
+
+
+SKAPEN
+
+Zaraz, panie, już nadchodzi. Gdyśmy zajadali, on spuścił statek na morze: następnie zaś, kiedy port był już daleko, kazał mnie wsadzić w czółno i wyprawił do pana, abym powiedział, że jeśli nie przyślesz mu natychmiast przeze mnie pięciuset talarów, uprowadzi syna do Algieru.
+
+
+GERONT
+
+Jak to, u diaska! Pięciuset talarów!
+
+
+SKAPEN
+
+Tak, panie; i, co więcej, zostawił mi na to tylko dwie godziny.
+
+
+GERONT
+
+A, pies turecki! Zarzynać mnie w taki sposób!
+
+
+SKAPEN
+
+Niechże pan zatem, nie tracąc czasu, pomyśli nad sposobem wybawienia syna, którego kochasz tak tkliwie.
+
+
+GERONT
+
+Po kiegóż diabła łaził na ten statek?
+
+
+SKAPEN
+
+Nie przypuszczał tego, co mu się trafiło.
+
+
+GERONT
+
+Leć prędko, Skapenie, i powiedz temu Turkowi, że ja mu zaraz policję na kark naślę.
+
+
+SKAPEN
+
+Policja na pełnym morzu! Pan żartuje?
+
+
+GERONT
+
+Po kiegóż diabła łaził na ten statek?
+
+
+SKAPEN
+
+Zły los tak igra niekiedy z człowiekiem.
+
+
+GERONT
+
+Skapenie, dziś musisz okazać, że jesteś wiernym sługą.
+
+
+SKAPEN
+
+W jaki sposób?
+
+
+GERONT
+
+Spiesz powiedzieć Turkowi, aby mi odesłał syna i oddaj się jako zakładnik w jego miejsce, póki nie zgromadzę sumy, której ten rozbójnik żąda.
+
+
+SKAPEN
+
+Ech, panie, co też pan opowiada? Pan myśli, że ten Turek obrany jest z rozumu, aby przyjąć takiego mizeraka jak ja w miejsce pańskiego syna?
+
+
+GERONT
+
+Po kiegóż diabła łaził na ten statek?
+
+
+SKAPEN
+
+Nie przeczuwał nieszczęścia. Niech pan pamięta, że dano mi tylko dwie godziny.
+
+
+GERONT
+
+I mówisz, że żąda…
+
+
+SKAPEN
+
+Pięćset talarów.
+
+
+GERONT
+
+Pięćset talarów! Czy on nie ma sumienia?
+
+
+SKAPEN
+
+Także coś! Turek i sumienie!
+
+
+GERONT
+
+Czy on wie dobrze, ile to jest pięćset talarów?
+
+
+SKAPEN
+
+Tak, panie, wie, że to tysiąc pięćset funtów.
+
+
+GERONT
+
+Czy ten łotr myśli, że tysiąc pięćset funtów znajduje się na ulicy?
+
+
+SKAPEN
+
+Alboż tego rodzaju ludziom można coś wytłumaczyć?
+
+
+GERONT
+
+Ale po kiegóż diabła łaził na ten statek?
+
+
+SKAPEN
+
+To prawda. Ale cóż! Nikt nie przewidywał, co się stanie. Panie, przez litość, niech pan nie traci czasu!
+
+
+GERONT
+
+Masz, oto klucz od szafy.
+
+
+SKAPEN
+
+Dobrze.
+
+
+GERONT
+
+Otworzysz ją.
+
+
+SKAPEN
+
+Wybornie.
+
+
+GERONT
+
+Znajdziesz w lewej przegrodzie wielki klucz, który otwiera drzwi od strychu.
+
+
+SKAPEN
+
+Wiem.
+
+
+GERONT
+
+Zbierzesz tam wszystkie ubrania, schowane w wielkim koszu, i pójdziesz je sprzedać handlarzom starzyzny, aby uzyskać ten okup.
+
+
+SKAPEN
+
+/ oddając mu klucz /
+
+Ech, panie, czy panu się coś marzy? Ani stu franków nie dostałbym za to wszystko; a potem wiesz pan, jak mało czasu zostawiono na załatwienie sprawy.
+
+
+GERONT
+
+Ale po kiegóż diabła on łaził na ten statek?
+
+
+SKAPEN
+
+Och! Ileż słów na próżno! Zostaw pan już ten statek i pomyśl, że czas nagli; narażasz się na to, że możesz nie ujrzeć syna. Och! Biedny paniczu! Kto wie, czy cię jeszcze zobaczę kiedy! Kto wie, w tej chwili może uwożą cię już skutego w kajdany do Algieru. Ale niebo mi będzie świadkiem, że uczyniłem dla ciebie wszystko, co było w mej mocy, i że, jeśli mi się nie uda cię wykupić, winne temu będzie jedynie nieczułe serce ojca.
+
+
+GERONT
+
+Czekaj, Skapenie, pójdę poszukać tej sumy.
+
+
+SKAPEN
+
+Niechże się pan spieszy, panie: boję się, że będzie za późno.
+
+
+GERONT
+
+Prawda, mówiłeś, że żąda czterysta talarów?
+
+
+SKAPEN
+
+Nie. Pięćset talarów.
+
+
+GERONT
+
+Pięćset talarów!
+
+
+SKAPEN
+
+Tak.
+
+
+GERONT
+
+Po kiegóż diabła on łaził na ten statek?
+
+
+SKAPEN
+
+Ma pan słuszność, ale niech się pan spieszy.
+
+
+GERONT
+
+Czyż nie miał innego miejsca do przechadzki?
+
+
+SKAPEN
+
+To prawda; ale niech pan nie marudzi.
+
+
+GERONT
+
+Ha! przeklęty statek!
+
+
+SKAPEN
+
+/ na stronie /
+
+Zajechał mu w głowę ten statek.
+
+
+GERONT
+
+Czekaj, Skapenie, zapomniałem zupełnie, że przed chwilą wręczono mi właśnie takąż sumę w złocie. Nie myślałem, że tak prędko przyjdzie mi się z nią rozstać.
+
+/ wyjmując sakiewkę i podając Skapenowi /
+
+Masz, idź, wykup syna.
+
+
+SKAPEN
+
+/ wyciągając rękę /
+
+Dobrze, panie.
+
+
+GERONT
+
+/ nie wypuszczając sakiewki, którą niby dawał Skapenowi /
+
+Ale powiedz temu Turkowi, że jest skończonym zbrodniarzem.
+
+
+SKAPEN
+
+/ wyciągając znowu rękę /
+
+Dobrze, panie.
+
+
+GERONT
+
+/ j.w. /
+
+Bezecnikiem!
+
+
+SKAPEN
+
+Dobrze, panie.
+
+
+GERONT
+
+/ j.w. /
+
+Człowiekiem bez czci i wiary, złodziejem!
+
+
+SKAPEN
+
+Już niech się pan na mnie spuści.
+
+
+GERONT
+
+/ j.w. /
+
+Że mi wydziera te pięćset talarów wbrew boskim i ludzkim prawom!
+
+
+SKAPEN
+
+Dobrze, panie.
+
+
+GERONT
+
+/ j.w. /
+
+Że jeszcze nie skończona sprawa między nami.
+
+
+SKAPEN
+
+Już dobrze.
+
+
+GERONT
+
+/ j.w. /
+
+I że, jeśli go kiedy dopadnę, potrafię się na nim zemścić!
+
+
+SKAPEN
+
+Tak.
+
+
+GERONT
+
+/ chowając sakiewkę z powrotem do kieszeni i odchodząc /
+
+Idź, idź co żywo wykupić syna.
+
+
+SKAPEN
+
+/ biegnąc za Gerontem /
+
+Hej, panie!
+
+
+GERONT
+
+Co takiego?
+
+
+SKAPEN
+
+A gdzież pieniądze?
+
+
+GERONT
+
+Czyż ci ich nie dałem?
+
+
+SKAPEN
+
+Niech Bóg broni: schował je pan z powrotem.
+
+
+GERONT
+
+Ach, tak! To z boleści tak straciłem głowę.
+
+
+SKAPEN
+
+Widzę.
+
+
+GERONT
+
+Po kiegóż diabła łaził na ten statek! Ha! Przeklęty statek! Ha! Zdrajca Turek! A, wszyscy diabli!
+
+
+SKAPEN
+
+/ sam /
+
+Nie może strawić tych pięciuset talarów, które zeń wydrwiłem: ale jeszcześmy się nie skwitowali; musi mi w innej walucie zapłacić, że mnie oczernił w oczach syna.
+
+
+
+SCENA DWUNASTA
+
+/ OKTAW, LEANDER, SKAPEN. /
+
+
+OKTAW
+
+I cóż, Skapenie, udało ci się coś dla mnie uzyskać?
+
+
+LEANDER
+
+Czyś co uczynił, aby wybawić mą miłość z kłopotu?
+
+
+SKAPEN
+
+/ do Oktawa /
+
+Oto dwieście pistolów, którem wycisnął z ojca.
+
+
+OKTAW
+
+Och, jakaż radość!
+
+
+SKAPEN
+
+/ do Leandra /
+
+Dla pana nic się nie dało zrobić.
+
+
+LEANDER
+
+/ chcąc odejść /
+
+W takim razie trzeba mi zginąć; nic mi po życiu, jeśli mam postradać Zerbinetę.
+
+
+SKAPEN
+
+Hola, hola, powoli. Jaki pan, u diaska, gorący.
+
+
+LEANDER
+
+/ odwracając się /
+
+I cóż mi zostało?
+
+
+SKAPEN
+
+Czekaj pan, mam coś dla pana.
+
+
+LEANDER
+
+Ach, życie mi wracasz.
+
+
+SKAPEN
+
+Ale, pod warunkiem, że mi pan pozwoli na małą zemstę nad ojcaszkiem za sztuczkę, którą mi wypłatał.
+
+
+LEANDER
+
+Co zechcesz.
+
+
+SKAPEN
+
+Przyrzeka pan przy świadkach?
+
+
+LEANDER
+
+Tak.
+
+
+SKAPEN
+
+Bierz pan, oto pięćset talarów.
+
+
+LEANDER
+
+Spieszmyż tedy wykupić ubóstwianą.
+
+
+
+
+AKT TRZECI
+
+
+
+SCENA PIERWSZA
+
+/ ZERBINETA, HIACYNTA, SKAPEN, SYLWESTER. /
+
+
+SYLWESTER
+
+Tak, kochankowie wasi postanowili pomieścić was tu razem; spełniamy rozkaz, jaki nam wydano.
+
+
+HIACYNTA
+
+/ do Zerbinety /
+
+Co do mnie, zachwycona jestem tym pomysłem. Z radością witam tak miłą towarzyszkę losu; wiele dałabym za to, aby przyjaźń, która łączy drogie nam osoby, mogła i nas zespolić słodkim węzłem.
+
+
+ZERBINETA
+
+Przyjmuję z duszy uprzejmą propozycję: nie mam zwyczaju się drożyć, gdy mnie ktoś częstuje przyjaźnią.
+
+
+SKAPEN
+
+A miłością?
+
+
+ZERBINETA
+
+Co do miłości, rzecz trochę inna; z tej strony grozi nieco więcej niebezpieczeństw, tu nie jestem równie śmiała.
+
+
+SKAPEN
+
+Myślę jednak, że nie odnosi się to do mego pana; po tym, co uczynił dla panienki, zasłużył chyba na wszelkie dowody wzajemności.
+
+
+ZERBINETA
+
+Tak zupełnie nie jestem przekonana; to wszystko nie wystarcza jeszcze; aby w całej pełni zdobyć moje zaufanie. Jestem z natury wesoła i śmieję się bez ustanku, ale mimo tych płochych pozorów patrzę bardzo poważnie na pewne rzeczy. Twój pan łudzi się bardzo, jeśli myśli, iż wystarczy, że mnie kupił, aby mnie posiąść na własność. Aby to osiągnąć, musiałby poświęcić coś więcej niż pieniądze; nim bym mogła odpowiedzieć na jego miłość tak, jak tego pragnie, trzeba by, aby zapewnienie jego wiary znalazło poparcie w pewnym obrządku uznanym przez świat za niezbędny.
+
+
+SKAPEN
+
+Tak też i on to rozumie. Przejęty jest dla panienki najuczciwszymi chęciami; i ja też nie mieszałbym się z pewnością w tę sprawę, gdybym go o co innego podejrzewał.
+
+
+ZERBINETA
+
+Chętnie wierzę, skoro pan tak powiada; ale przewiduję niejakie trudności ze strony ojca.
+
+
+SKAPEN
+
+Znajdziemy jakiś sposób.
+
+
+HIACYNTA
+
+/ do Zerbinety /
+
+Losy nasze są tak podobne, iż to powinno wzmocnić jeszcze wzajemną sympatię: obie przechodzimy te same niepokoje, obu nam grozi toż samo niebezpieczeństwo.
+
+
+ZERBINETA
+
+Ty, Hiacynto, masz bodaj tę przewagę, że wiesz, czyją jesteś córką. Poparcie rodziny, na którą łatwo ci się powołać, może pomyślnie zwrócić całą sprawę, zapewnić twoje szczęście i wyjednać zezwolenie na zawarte już małżeństwo. Ja natomiast nie mogę się znikąd spodziewać pomocy; a ubóstwo moje nie przyczyni się do zmiękczenia woli ojca, oglądającego się jedynie na majątek.
+
+
+HIACYNTA
+
+Ale ty znowu masz tę przewagę, że nikt nie próbuje odwrócić od ciebie kochanka pokusą innego związku.
+
+
+ZERBINETA
+
+Zmienność drogiego serca nie jest jeszcze tym, co najwięcej grozi kobiecie. Może polegać tyle na własnej wartości, aby wierzyć, iż zdoła utrzymać raz pozyskaną zdobycz: najstraszliwszą w takim położeniu wydaje mi się przemoc władzy ojcowskiej, w oczach której żaden nasz powab nie ma wartości.
+
+
+HIACYNTA
+
+Och, i czemuż tak już jest na świecie, że najszczersze skłonności trafiają na tyle przeszkód? Jakże słodką rzeczą jest miłość, skoro lubym wiązom dwojga serc nie grozi żadne niebezpieczeństwo!
+
+
+SKAPEN
+
+Panienka żartuje! Spokój w miłości, podobnie jak cisza morska, nigdy nic dobrego nie wróży. Jednostajne szczęście zbyt rychło się przykrzy; w życiu trzeba przypływu i odpływu; trudność podnieca zapały i zaostrza przyjemność.
+
+
+ZERBINETA
+
+Ale prawda, Skapenie, opowiedzże nam, jakiego to paradnego podstępu użyłeś, aby wycisnąć pieniądze ze starego kutwy? Ma to być coś przezabawnego; a wiesz, że nie darmo się trudzi, kto mi coś wesołego opowiada i że odpłacam mu to sowicie radością i śmiechem.
+
+
+SKAPEN
+
+Sylwester wam to opowie nie gorzej ode mnie. Ja bo mam głowę nabitą planem małej zemsty, na którą już zawczasu się cieszę.
+
+
+SYLWESTER
+
+I po cóż ty z dobrej woli chcesz zdrową głowę kłaść pod ewangelię?
+
+
+SKAPEN
+
+Lubię nad życie takie śmiałe przedsięwzięcia.
+
+
+SYLWESTER
+
+Szczerze ci radzę, posłuchaj mnie i daj temu pokój.
+
+
+SKAPEN
+
+Mądrze radzisz, ale ja wolę słuchać siebie samego.
+
+
+SYLWESTER
+
+Po kiego diaska bawić się w takie żarty?
+
+
+SKAPEN
+
+Po kiego diaska ciebie o to głowa boli?
+
+
+SYLWESTER
+
+Bo widzę, jak bez żadnej potrzeby narażasz grzbiet na porządną porcję kijów.
+
+
+SKAPEN
+
+Więc dobrze, narażam; ale nie twój, tylko swój własny.
+
+
+SYLWESTER
+
+Masz słuszność: jesteś panem swoich pleców, możesz nimi rozrządzać, jak ci się spodoba.
+
+
+SKAPEN
+
+Tego rodzaju niebezpieczeństwa nigdy mnie nie odstraszały. Gardzę owymi tchórzami, co to, chcąc niby wszystko przewidzieć, ze zbytku ostrożności nie ważą się na żaden hazard.
+
+
+ZERBINETA
+
+/ do Skapena /
+
+Będziemy jeszcze potrzebowały twojej pomocy, Skapenie.
+
+
+SKAPEN
+
+Idźcie teraz. Dogonię was niebawem. Nie będzie powiedziane, iż mógł ktoś bezkarnie narazić mnie na to, żem się sam zdradził tak haniebnie i bez potrzeby wydał tajemnice rzemiosła.
+
+
+
+SCENA DRUGA
+
+/ GERONT, SKAPEN. /
+
+
+GERONT
+
+I cóż, Skapenie, jak stoi sprawa syna?
+
+
+SKAPEN
+
+Syn w bezpiecznym schronieniu; z panem natomiast diablo niedobrze jest w tej chwili: wolałbym dla pana, abyś się znajdował we własnym mieszkaniu.
+
+
+GERONT
+
+Jak to?
+
+
+SKAPEN
+
+Po prostu szukają pana wszędzie, aby pana zamordować.
+
+
+GERONT
+
+Mnie?
+
+
+SKAPEN
+
+Tak.
+
+
+GERONT
+
+Któż taki?
+
+
+SKAPEN
+
+Brat osoby, którą Oktaw zaślubił. Mniema, słusznie czy niesłusznie, że główną pobudką zamierzonego zerwania małżeństwa jest chęć utorowania pańskiej córce drogi do ołtarza; nabiwszy sobie głowę tą myślą, przysiągł głośno wyładować na panu wściekłość i pomścić swój honor. Przyjaciele jego, jeden w drugiego rębacze jak on, przetrząsają całe miasto i dopytują się gdzie mogą o pana. Sam, idąc tu, spotkałem paru żołnierzy z jego kompanii, jak brali na spytki przechodniów i osaczali przystęp do pańskiego domostwa; nie możesz ani schronić się do siebie, ani też uczynić kroku, aby nie wpaść w ich ręce.
+
+
+GERONT
+
+I cóż ja zrobię, mój złoty Skapenie?
+
+
+SKAPEN
+
+Nie wiem, panie; głupia sprawa. Sam drżę za pana od stóp aż do głowy i… Niech pan czeka.
+
+/ Skapen udaje, że idzie w głąb sceny zajrzeć, czy nie ma nikogo. /
+
+
+GERONT
+
+/ drżąc /
+
+No?
+
+
+SKAPEN
+
+/ wracając /
+
+Nie, nie, nie, to nic.
+
+
+GERONT
+
+Nie umiałbyś znaleźć sposobu, aby mnie wydobyć z matni?
+
+
+SKAPEN
+
+Mam pewien pomysł; ale sam bym przy tym musiał nadstawić karku i to grubo.
+
+
+GERONT
+
+Skapenie, Skapenku, pokaż się wiernym sługą. Nie opuszczaj mnie, proszę na wszystko.
+
+
+SKAPEN
+
+Dobrze więc. Jestem tak do pana przywiązany, że nie potrafiłbym pana zostawić bez pomocy.
+
+
+GERONT
+
+Nie obejdzie się to bez nagrody, możesz być pewny. Przyrzekam ci to ubranie, które mam na sobie, skoro je trochę podniszczę.
+
+
+SKAPEN
+
+Niech pan czeka. Oto coś, co znalazłem pod ręką bardzo w porę dla pańskiego ratunku. Musi pan wleźć do tego worka i…
+
+
+GERONT
+
+/ mniemając, iż kogoś spostrzega /
+
+Och!
+
+
+SKAPEN
+
+Nie, nie, nie, nie, to nikt. Musi pan, powiadam, wleźć do tego worka i siedzieć w nim najciszej jak zdołasz. Ja pana wezmę na plecy niby jakiś ładunek i zaniosę w pośrodku nieprzyjaciół do domu; skoro się zaś raz tam znajdziemy, będziemy mogli się zabarykadować i wezwać pomocy dla odparcia napaści.
+
+
+GERONT
+
+Pomysł dobry.
+
+
+SKAPEN
+
+Świetny. Przekona się pan.
+
+/ na stronie /
+
+Zapłacisz mi swoje oszczerstwo.
+
+
+GERONT
+
+Hę?
+
+
+SKAPEN
+
+Mówię, że wystrychniemy ich na dudków. Niechże pan wlezie na samo dno; a zwłaszcza niech się pan nie waży wychylać i ani drgnie, co bądź by się mogło zdarzyć.
+
+
+GERONT
+
+Spuść się na mnie; będę się umiał zachować…
+
+
+SKAPEN
+
+Niech się pan ukryje: oto jakiś rębajło nas szuka.
+
+/ mówi zmienionym głosem, udając akcent gaskoński /
+
+„Ha! Czy nie będę miał tej pociechy, aby przewiercić brzuch staremu Gerontowi? Czyż nikt, dla Boga, nie wskaże mi, gdzie on się ukrywa!”
+
+/ do Geronta swoim głosem /
+
+Niech się pan nie rusza.
+
+„Tam do licha, już ja go znajdę, choćby się schował do środka ziemi”.
+
+/ do Geronta swoim głosem /
+
+Niech się pan nie wychyla.
+
+/ Mówi cały czas na przemian swoim i zmienionym głosem. /
+
+„Hej tam, człowieku, ty, z workiem!”
+
+Co, panie?
+
+„Dostaniesz ludwika, jeśli mi powiesz, gdzie może być Geront”.
+
+Pan szuka pana Geronta?
+
+„Tak, do kata, szukam”.
+
+I wolno wiedzieć w jakiej sprawie?
+
+„W jakiej sprawie?”
+
+Tak.
+
+„Chcę go, do stu kaduków, po prostu zatłuc tym kijem”.
+
+Ech, panie, nie tłucze się kijem ludzi tak szanownych; zaręczam panu, że Geront nie zasłużył na to.
+
+„Kto? Geront? Ten błazen, hultaj, szelma?”
+
+Pan Geront, panie, nie jest błaznem, hultajem, ani szelmą; powinien byś się, doprawdy, wyrażać o nim w inny sposób.
+
+„Co, ty śmiesz mi się stawiać?”
+
+Staję, jak przystało, w obronie honoru człowieka, którego ktoś obraża.
+
+„Jesteś może przyjacielem Geronta?”
+
+Tak, jestem.
+
+„A, do stu czartów, jesteś przyjacielem: doskonale”.
+
+/ waląc kijem po worku /
+
+„Masz, masz, schowaj to w nagrodę przyjaźni”.
+
+/ krzycząc, jak gdyby bity kijem /
+
+Och, och, och, och, panie! Och, och, za pozwoleniem! och, och, powoli! Och, och, och!
+
+„Masz, zanieś mu to ode mnie. Bądź zdrów”.
+
+A, niech diabli tego Gaskończyka! Och!
+
+
+GERONT
+
+/ wychylając głowę z worka /
+
+Och, Skapenie, już kości nie czuję…
+
+
+SKAPEN
+
+Och, panie, zbił mnie na kwaśne jabłko, plecy mam jak jedną ranę.
+
+
+GERONT
+
+Jak to! Wszak on mnie grzmocił.
+
+
+SKAPEN
+
+Nie, panie, mnie walił po moim własnym grzbiecie.
+
+
+GERONT
+
+Cóż ty pleciesz? Przecież dobrze czułem i czuję do tej pory.
+
+
+SKAPEN
+
+Ależ nie, mówię; ledwie końcem kija musnął pana kilka razy.
+
+
+GERONT
+
+Powinieneś się był odsunąć nieco, aby mnie oszczędzić…
+
+
+SKAPEN
+
+/ wkładając mu głowę do worka /
+
+Baczność! Oto znów jakaś podejrzana figura.
+
+/ Mówi jak poprzednio, na przemian swoim i udanym głosem, przybierając wymowę Szwajcara. /
+
+„Na honor, ja konił cały dzień jag chart, a nie mókł nikdzie topaść teko djapelskiego Geronta”.
+
+Niech się pan dobrze schowa.
+
+„Bowiećże mi, broszę, mój topry szlowiegu, dży nie wiecie, kdzie jest ów Keront, gtóra tag żukam?”
+
+Nie, panie, zgoła nie wiem.
+
+„Bowiec mi żdżerze, dży nie fiecie; ja mu nie chcę fielki grżywdy sropić. Chciałbym mu tylko fzypadź małą borcyjkę gijóf na plecy i parę bchniędzia z ta żpada w biersi”.
+
+Upewniam pana, że nie wiem, gdzie go pan znajdzie.
+
+„Zdało mi zię, że dzoś się ruszyło w forku”.
+
+Za pozwoleniem, panie.
+
+„Tam bewnie coś musi pyć we żrotku”.
+
+Zapewniam pana, że nie.
+
+„Ja miałby ochotę tak, na brópkę, nagłuć drochę ze szpadą ten foreg”.
+
+Niechże pana Bóg broni, abyś miał to uczynić.
+
+„Bokażcież mi więc, co tam macie fe źrotku”.
+
+Za pozwoleniem, panie.
+
+„Jak to, za boswoleniem?”
+
+Tak to, że panu nic do tego, co ja niosę w worku.
+
+„A giedy ja chciał fidzieć”.
+
+Nie zobaczy pan.
+
+„No, tosyć już z te figle”.
+
+To moje stare rupiecie.
+
+„To mi je ukaż”.
+
+Nie pokażę.
+
+„Nie ukażesz?”
+
+Nie.
+
+„To ja z tym patydżkiem potańdzuje na dfoje bledzy”.
+
+Kpię sobie z tego…
+
+„A, kpi zopie z tego. Zadżekaj”.
+
+/ okładając worek kijami i krzycząc, jak gdyby sam je dostawał /
+
+Au! au! au! Au! panie! au! au! au! au!
+
+„Z panem pogiem, druhu, to dla małego sapamiętania, że nie tobże pyć suchwala”.
+
+A, niechże czarci porwą tego kiepskiego szwaba! Au!
+
+
+GERONT
+
+/ wychylając głowę z worka /
+
+Och, już tchu nie mam!
+
+
+SKAPEN
+
+Och, ja już nie żyję!
+
+
+GERONT
+
+Po kiegóż licha oni mnie walą?
+
+
+SKAPEN
+
+/ wciskając mu głowę do worka /
+
+Panie, ostrożnie; z jakie pół tuzina żołnierzy tu idzie.
+
+/ Udając głosy wielu osób naraz: /
+
+„Dalej, dalej, musimy znaleźć tego Geronta, szukajmy wszędzie. Nie żałujmy fatygi. Zbiegnijmy całe miasto. Nie omińmy żadnej kryjówki. Przetrząśnijmy wszystko. Węszmy na wszystkie strony. Gdzież teraz pójdziemy? Skręćmy w tę stronę. Nie, w tamtą. Na lewo. Na prawo. Nie, nie. Owszem, właśnie”.
+
+/ do Geronta swoim głosem /
+
+Niech się pan dobrze schowa.
+
+„Hej, towarzysze, przecież to jego służący. Dalej, łotrze, musisz nam powiedzieć, gdzie pan”.
+
+Aj, aj, panowie, nie szarpcie mnie tak.
+
+„Nuże, gadaj, gdzie on jest. Mów zaraz. Spiesz się. Szybko. Bez marudztwa. Już!”
+
+Powoli, panowie, powoli.
+
+/ Geront wychyla ostrożnie głowę z worka i spostrzega szalbierstwo Skapena /
+
+„Jeśli nam w tej chwili nie pomożesz go odnaleźć, chmara kijów spadnie na twój grzbiet”.
+
+Wolę raczej wszystko wycierpieć, niż zdradzić swego pana.
+
+„Zatłuczemy cię, łotrze”.
+
+Róbcie, co wam się podoba.
+
+„Skóra cię świerzbi, hultaju”.
+
+Nie zdradzę swego pana.
+
+„A więc chcesz koniecznie? A, masz!”…
+
+Och!
+
+/ W chwili gdy Skapen się zamierza, Geront wychodzi z worka; Skapen ucieka. /
+
+
+GERONT
+
+/ sam /
+
+A, zdrajco, a, bezecniku, łotrze! Toś ty mnie tak urządził!
+
+
+
+SCENA TRZECIA
+
+/ ZERBINETA, GERONT. /
+
+
+ZERBINETA
+
+/ śmiejąc się i nie widząc Geronta /
+
+Ha, ha, ha! Muszę nieco tchu zaczerpnąć!
+
+
+GERONT
+
+/ na stronie, nie widząc Zerbinety /
+
+Zapłacisz mi to, przysięgam.
+
+
+ZERBINETA
+
+/ nie widząc Geronta /
+
+Ha, ha, ha, ha! A to paradna historia! Cóż za stary głupiec!
+
+
+GERONT
+
+Nic zabawnego; głupi, kto się z tego śmieje.
+
+
+ZERBINETA
+
+Co? Do czego pan to powiada?
+
+
+GERONT
+
+Do tego, że nie powinnaś się ze mnie natrząsać.
+
+
+ZERBINETA
+
+Z pana?
+
+
+GERONT
+
+Tak.
+
+
+ZERBINETA
+
+Co! A któż myśli natrząsać się z pana?
+
+
+GERONT
+
+Po cóż więc przychodzisz mi tutaj w nos parskać?
+
+
+ZERBINETA
+
+To pana w niczym nie dotyczy; śmieję się, ot, tak sobie, z historii, którą właśnie słyszałam, najzabawniejszej historii pod słońcem. Nie wiem, czy to dlatego że i o mnie w tym chodzi, ale jeszcze nic mnie tak w życiu nie ubawiło, jak ta sztuczka, którą pewien syn wypłatał ojcu, aby wydobyć zeń nieco pieniędzy.
+
+
+GERONT
+
+Syn ojcu, aby wydobyć zeń pieniędzy?
+
+
+ZERBINETA
+
+Tak. Jeśli pan ładnie poprosi, może bym się zgodziła opowiedzieć; skoro usłyszę zabawną historyjkę, mnie samą zawsze język świerzbi, aby się nią z kimś podzielić.
+
+
+GERONT
+
+Owszem, dziecko, opowiedz.
+
+
+ZERBINETA
+
+Bardzo chętnie. Nie ma co zresztą robić wielkiej tajemnicy, bo i tak rzecz nie może długo zostać w ukryciu. Los chciał, żem się znalazła wśród bandy Cyganów, z tych, co to wałęsając się od miasta do miasta, zarabiają na życie wróżeniem, a nieraz i innymi sposobami. Skoro przybyliśmy tutaj, ujrzał mnie pewien młody człowiek i zapałał miłością. Od tej chwili ścigał mnie na każdym kroku, mniemając widocznie, jak każdy taki młokos, że wystarczy pokazać się i przemówić, by za pierwszym słowem wygrać sprawę; natrafił jednakże na dumę, która wyleczyła go z płochych nadziei. Zwierzył się ze swą miłością ludziom, w których byłam ręku; zgodzili się odstąpić zdobycz w zamian za pewną sumę. Trudność była w tym, że mój wielbiciel znajdował się w położeniu, w którym często widzi się synów zamożnego domu, to znaczy był bardzo kuso z pieniędzmi. Ma ojca, który, choć bogaty, jest zakutym sknerą: brr, paskudna figura. Czekaj pan. Może sobie przypomnę nazwisko. Zaraz. Niechże mi pan pomoże. Nie umiałby mi pan wymienić kogoś z miasta, kto znany jest jako najobrzydliwszy skąpiec?
+
+
+GERONT
+
+Nie.
+
+
+ZERBINETA
+
+Jakoś się tak nazywa… coś na ron… ront… Or… Oront… Nie. Ge… Geront. Tak, Geront, właśnie, to imię tego brudasa, przypomniałam sobie; o tego kutwę chodzi. Wracam tedy do rzeczy. Otóż Cyganie chcieli opuścić dziś to miasto; już ukochany mój miał mnie postradać jedynie dla braku pieniędzy, gdyby nie pomoc służącego, który przyrzekł wydrzeć je od jego własnego ojca. Co się tyczy służącego, to pamiętam imię doskonale. Nazywa się Skapen; człowiek wprost niezrównany, wart wszelkich pochwał.
+
+
+GERONT
+
+/ na stronie /
+
+A ty arcyłotrze!
+
+
+ZERBINETA
+
+Oto więc jakim posłużył się podstępem, aby zmamić starego czopa. Ha! ha! ha! ha! Nie mogę się nie śmiać, skoro sobie przypomnę. Ha! ha! ha! Poszedł zatem do tej skąpej bestii… ha! ha! ha! i powiedział, że przechadzał się w porcie z jego synem, hi! hi! hi! spostrzegli turecki statek, na który ich zaproszono; młody Turek ugościł ich, ha! ha! podczas gdy jedli, spuszczono statek na morze, Turek jego samego wyprawił w czółnie z rozkazem oznajmienia ojcu, iż uwiezie jego syna do Algieru, jeśli natychmiast nie otrzyma pięciuset talarów. Ha, ha, ha! Otóż i kutwa, dusigrosz, w straszliwym utrapieniu; czułość dla syna zaczyna się zmagać z piekielnym skąpstwem. Pięćset talarów, których odeń żądają, to jakby pięćset ciosów sztyletu w serce. Ha! ha! ha! ha! ha! Nie może się zdobyć, aby tę sumę wypruć sobie z wnętrzności; męka, którą przechodzi, podsuwa mu sto pociesznych sposobów ratowania syna. Ha! ha! ha! Chce wyprawić policję na morze, aby ścigała statek. Ha! ha! ha! Błaga służącego, aby się ofiarował w miejsce syna, póki on sam nie zgromadzi sumy, z którą nie ma żadnej ochoty się rozstać. Ha! ha! ha! Aby zebrać tych pięćset talarów, poświęca wreszcie kilka starych ubrań, które razem nie są warte trzydziestu. Ha! ha! ha! Służący przedstawia mu raz po raz niedorzeczność jego sposobów; a za każdym słowem następuje wzdychanie: „Po kiegóż diabła łaził na ten statek! Ach! przeklęty statek! A, zdrajca Turek!”. Wreszcie po wielu wybiegach, nastękawszy się, najęczawszy do syta… Ale pan się coś nie śmieje: cóż pan o tym powiada?
+
+
+GERONT
+
+Powiadam, że twój młody człowiek jest obwieś i hultaj, który otrzyma od ojca słuszną karę za swe zuchwalstwo; twoja Cyganicha, natrząsająca się z godnego człowieka, jest błaźnica, którą potrafimy nauczyć rozumu za uwodzenie chłopców z dobrego domu; a twój służący jest skończony łotr, który z łaski Geronta najdalej do jutra znajdzie się na szubienicy.
+
+
+
+SCENA CZWARTA
+
+/ ZERBINETA, SYLWESTER. /
+
+
+SYLWESTER
+
+Gdzież się znów panna wyrwała? Czy wiesz, żeś mówiła przed chwilą z ojcem swego gagatka?
+
+
+ZERBINETA
+
+Właśniem tak pomyślała; a co gorsze, to, żem mu, bez cienia złej myśli, opowiedziała co do słowa jego własną historię.
+
+
+SYLWESTER
+
+Jak to, jego historię?
+
+
+ZERBINETA
+
+Tak. Cała byłam nabita tym opowiadaniem; świerzbiało mnie, żeby je komuś powtórzyć. Ale mniejsza! Tym gorzej dla niego. Nie zdaje mi się, aby to mogło pogorszyć albo polepszyć naszą sprawę.
+
+
+SYLWESTER
+
+Potrzebnie się panna wybrała z paplaniem; strasznie trzeba mieć długi język, żeby nie umieć trzymać za zębami własnych sekretów.
+
+
+ZERBINETA
+
+Czyżby się nie dowiedział tego samego od kogokolwiek?
+
+
+
+SCENA PIĄTA
+
+/ ARGANT, ZERBINETA, SYLWESTER. /
+
+
+ARGANT
+
+Hej tam! Sylwestrze!
+
+
+SYLWESTER
+
+/ do Zerbinety /
+
+Niech panienka wraca do domu. Pan mnie właśnie szuka.
+
+
+
+SCENA SZÓSTA
+
+/ ARGANT, SYLWESTER. /
+
+
+ARGANT
+
+Więc wyście się zmówili, hultaje, zmówiliście się, Skapen, ty i mój syn, aby mnie otumanić, i myślicie, że wam się to udało?
+
+
+SYLWESTER
+
+Na honor, panie, jeśli Skapen pana tumani, ja umywam od tego ręce i ręczę, że nie mam w tym najmniejszego udziału.
+
+
+ARGANT
+
+Przekonamy się o tym, gałganie, przekonamy się. Nie myśl, że ci się uda wystrychnąć mnie na dudka.
+
+
+
+SCENA SIÓDMA
+
+/ GERONT, ARGANT, SYLWESTER. /
+
+
+GERONT
+
+Och, mości Argancie, widzisz mnie w ciężkim strapieniu.
+
+
+ARGANT
+
+I mnie również dotknęło srogie nieszczęście.
+
+
+GERONT
+
+Ten obwieś Skapen przez swoje cygaństwa wyłudził ze mnie pięćset talarów.
+
+
+ARGANT
+
+Ten sam obwieś Skapen, też przez swoje cygaństwa, wydusił ze mnie dwieście pistolów.
+
+
+GERONT
+
+Ba! Nie poprzestał na tym, że wyłudził talary; obszedł się ze mną w sposób, do którego wstyd się przyznać. Ale zapłaci za to.
+
+
+ARGANT
+
+Już ja się z nim porachuję za sztuczkę, którą mi wypłatał.
+
+
+GERONT
+
+Pomszczę się na nim należycie.
+
+
+SYLWESTER
+
+/ na stronie /
+
+Dałby Bóg, abym i ja przy tym nie oberwał swojej porcji!
+
+
+GERONT
+
+Ale to nie wszystko jeszcze, mości Argancie; nieszczęście nigdy nie przychodzi samo jedno. Cieszyłem się dziś nadzieją oglądania córki, w której spodziewałem się znaleźć jedyną pociechę; tymczasem dowiaduję się od sługi, że już od dawna wyjechała z Tarentu i że, jak się zdaje, musiała zginąć wraz z całym okrętem.
+
+
+ARGANT
+
+Po cóż było zostawiać ją w Tarencie i pozbawiać się radości chowania jej przy sobie?
+
+
+GERONT
+
+Miałem przyczyny; pewne względy rodzinne kazały mi dotąd trzymać w tajemnicy to drugie małżeństwo. Ale kogóż ja widzę?
+
+
+
+SCENA ÓSMA
+
+/ ARGANT, GERONT, NERYNA, SYLWESTER. /
+
+
+GERONT
+
+Co, ty tutaj, nianiu?
+
+
+NERYNA
+
+/ rzucając się do kolan Geronta /
+
+Ach, panie Pandolfie, jakże…
+
+
+GERONT
+
+Nazywaj mnie Gerontem i nie używaj więcej tamtego imienia. Znikły już przyczyny, które kazały mi się posługiwać nim u was, w Tarencie.
+
+
+NERYNA
+
+Och, panie, ileż trosk i niepokoju zgotowała nam ta zmiana nazwiska! Jakże nam utrudniła poszukiwania!
+
+
+GERONT
+
+Gdzie córka i żona?
+
+
+NERYNA
+
+Córka mieszka o kilka kroków stąd; jednak, nim ją przyprowadzę, muszę pana prosić o przebaczenie, że w opuszczeniu, w jakim, nie mogąc pana odszukać, znalazłyśmy się obie, zgodziłam się ją wydać za mąż.
+
+
+GERONT
+
+Córka zamężna?
+
+
+NERYNA
+
+Tak, panie.
+
+
+GERONT
+
+Z kimże?
+
+
+NERYNA
+
+Z młodym człowiekiem imieniem Oktaw, synem niejakiego pana Arganta.
+
+
+GERONT
+
+O nieba!
+
+
+ARGANT
+
+Cóż za wydarzenie!
+
+
+GERONT
+
+Prowadź nas, prowadź jak najspieszniej do niej.
+
+
+NERYNA
+
+Wejdźcież panowie do tego domu.
+
+
+GERONT
+
+Idź przodem. Chodź za mną, chodź za mną, mości Argancie.
+
+
+SYLWESTER
+
+/ sam /
+
+Oto doprawdy szczególny zbieg okoliczności.
+
+
+
+SCENA DZIEWIĄTA
+
+/ SKAPEN, SYLWESTER. /
+
+
+SKAPEN
+
+I cóż, Sylwestrze, co porabia cała kompania?
+
+
+SYLWESTER
+
+Mam dla ciebie dwie rzeczy. Jedna, że sprawa Oktawa załatwiona. Pokazało się, że Hiacynta jest córką Geronta i że przypadek dopełnił tego, co zamierzały chęci ojcowskie. Druga, to że oba staruchy odgrażają się straszliwie na ciebie, a zwłaszcza imć Geront.
+
+
+SKAPEN
+
+To niewiele. Groźby jeszcze nigdy nie zrobiły mi nic złego; to chmury, które przepływają wysoko nad głową.
+
+
+SYLWESTER
+
+Miej się na baczności. Synowie pojednają się z ojcami, a ty możesz zostać w saku.
+
+
+SKAPEN
+
+Nie troszcz się o to; znajdę sposób ułagodzenia ich.
+
+
+SYLWESTER
+
+Zmykaj, idą.
+
+
+
+SCENA DZIESIĄTA
+
+/ GERONT, ARGANT, HIACYNTA, ZERBINETA, NERYNA, SYLWESTER. /
+
+
+GERONT
+
+Chodź, córko, chodź do mego domu. Radość byłaby zupełną, gdybym wraz z tobą mógł oglądać twoją matkę.
+
+
+ARGANT
+
+Otóż i Oktaw zjawia się w samą porę.
+
+
+
+SCENA JEDENASTA
+
+/ ARGANT, GERONT, OKTAW, HIACYNTA, ZERBINETA, NERYNA, SYLWESTER. /
+
+
+ARGANT
+
+Pójdź, synu, pójdź cieszyć się wraz z nami szczęśliwym obrotem twego małżeństwa. Niebo…
+
+
+OKTAW
+
+Nie, ojcze; wszystkie namowy na nic. Nie chcę grać z tobą dłużej komedii; wszak znane ci są dobrze me zobowiązania.
+
+
+ARGANT
+
+Tak. Ale nie wiesz…
+
+
+OKTAW
+
+Wiem wszystko, com powinien.
+
+
+ARGANT
+
+Chcę ci powiedzieć, że córka pana Geronta…
+
+
+OKTAW
+
+Córka pana Geronta nie będzie nigdy niczym dla mnie.
+
+
+GERONT
+
+To ona…
+
+
+OKTAW
+
+/ do Geronta /
+
+Nie, panie; daruje pan, ale postanowienie moje niewzruszone.
+
+
+SYLWESTER
+
+Niech pan słucha…
+
+
+OKTAW
+
+Nie. Zamilcz. Nic nie chcę słyszeć.
+
+
+ARGANT
+
+/ do Oktawa /
+
+Twoja żona…
+
+
+OKTAW
+
+Nie, ojcze, powtarzam; raczej zginę, niźli opuszczę ukochaną Hiacyntę.
+
+/ przechodząc przez scenę i stając obok Hiacynty /
+
+Tak. Próżne namowy; oto ta, której ślubowałem wiarę. Przysiągłem kochać ją całe życie i nie chcę innej.
+
+
+ARGANT
+
+Toż, do stu diabłów, właśnie ci ją dajemy. A cóż za wartogłów, nie chce niczego wysłuchać!
+
+
+HIACYNTA
+
+/ wskazuje Geronta /
+
+Tak, Oktawie, otom odnalazła ojca; wszystkie utrapienia skończone.
+
+
+GERONT
+
+Chodźcież wszyscy do mnie; lepiej nam będzie rozmawiać.
+
+
+HIACYNTA
+
+/ wskazując na Zerbinetę /
+
+Ach, ojcze, błagam, przez litość, nie chciej mnie rozdzielać z tą miłą i drogą istotą. Skoro ją poznasz bliżej, sam będziesz musiał uznać jej rzadkie przymioty.
+
+
+GERONT
+
+Chcesz, abym przyjął do domu osobę, w której twój brat się durzy i która przed chwilą nagadała mi w nos głupstw?
+
+
+ZERBINETA
+
+Chciej mi pan przebaczyć; nie byłabym mówiła w ten sposób, gdybym wiedziała, że to pan, ale znałam pana jedynie z reputacji.
+
+
+GERONT
+
+Jak to z reputacji?
+
+
+HIACYNTA
+
+Ojcze, uczucie, jakie brat mój żywi dla niej, nie ma w sobie nic występnego; ręczę za jej uczciwość.
+
+
+GERONT
+
+A to paradne! Może byście jeszcze chcieli, abym ożenił z nią syna? Przybłęda jakaś, w dodatku prosta włóczęga!
+
+
+
+SCENA DWUNASTA
+
+/ ARGANT, GERONT, LEANDER, OKTAW, HIACYNTA, ZERBINETA, NERYNA, SYLWESTER. /
+
+
+LEANDER
+
+Ojcze, nie rzucaj mi w oczy, że kocham przybłędę bez rodziny i mienia. Ci, od których ją odkupiłem, odkryli mi, iż pochodzi z tego właśnie miasta i z zacnej rodziny: oni sami wykradli ją jako czteroletnie dziecko, a oto naszyjnik, który mi dali, aby ułatwić odszukanie jej rodziców.
+
+
+ARGANT
+
+Boże, ten naszyjnik świadczyłby, że to moja córka, którą straciłem w tym właśnie wieku.
+
+
+GERONT
+
+Wasza córka?
+
+
+ARGANT
+
+Tak, to ona, już same rysy upewniają mnie, że nie jestem w błędzie. O, droga córko!
+
+
+HIACYNTA
+
+Nieba! cóż za cudowne wydarzenia!
+
+
+
+SCENA TRZYNASTA
+
+/ ARGANT, GERONT, LEANDER, OKTAW, HIACYNTA, ZERBINETA, NERYNA, SYLWESTER, KARLO. /
+
+
+KARLO
+
+Ach, panowie, stało się nieszczęście.
+
+
+GERONT
+
+Co takiego?
+
+
+KARLO
+
+Biedny Skapen…
+
+
+GERONT
+
+To łotr, którego poślę na szubienicę.
+
+
+KARLO
+
+Niestety, panie, nie potrzebuje pan sobie zadawać tego trudu. Właśnie przechodził koło jakiegoś budynku, gdy mu spadł na głowę młot od ciosania kamieni, tak, iż pękła mu czaszka i cały mózg jest na wierzchu. Już kona; prosił tylko, aby go przyniesiono tutaj: chce mówić z panami, nim wyzionie ducha.
+
+
+ARGANT
+
+Gdzież jest?
+
+
+KARLO
+
+Oto go niosą.
+
+
+
+SCENA CZTERNASTA
+
+/ ARGANT, GERONT, LEANDER, OKTAW, HIACYNTA, ZERBINETA, NERYNA, SKAPEN, SYLWESTER, KARLO. /
+
+
+SKAPEN
+
+/ niesiony przez dwóch ludzi, z głową owiniętą w płótna, tak jakby był zraniony /
+
+Ojoj, ojoj! Moi państwo, widzicie mnie… Oj, oj! Widzicie mnie w bardzo smutnym stanie. Au! au! Nie chciałem umrzeć, nim mi nie będzie danym uzyskać przebaczenia wszystkich osób, które mogłem przypadkiem obrazić. Au! au! Tak, panowie, nim wydam ostatnie tchnienie, błagam z całego serca, byście mi odpuścili wszystko, co mogłem uczynić, a przede wszystkim proszę o to panów Arganta i Geronta. Au! au!
+
+
+ARGANT
+
+Jeśli o mnie chodzi, odpuszczam ci; możesz umierać w spokoju.
+
+
+SKAPEN
+
+/ do Geronta /
+
+To pana, panie drogi, najciężej obraziłem tymi kijami, które…
+
+
+GERONT
+
+Nie mów już o tym; przebaczam ci także.
+
+
+SKAPEN
+
+To było straszne zuchwalstwo z mej strony te kije, co…
+
+
+GERONT
+
+Zostawmy to.
+
+
+SKAPEN
+
+W godzinie śmierci trapię się okrutnie tymi kijami, które…
+
+
+GERONT
+
+Mój Boże! Siedźże już cicho.
+
+
+SKAPEN
+
+Te nieszczęśliwe kije, którymi…
+
+
+GERONT
+
+Cicho siedź, mówię, zapominam o wszystkim.
+
+
+SKAPEN
+
+O Boże! Ileż dobroci! Ale czy, w istocie, ze szczerego serca przebacza mi pan te kije, które…
+
+
+GERONT
+
+Ech, do licha, tak, tak. Nie mówmy już o niczym; przebaczam wszystko; rzecz załatwiona.
+
+
+SKAPEN
+
+Och, panie! Czuję, że mi lepiej, odkąd usłyszałem te słowa.
+
+
+GERONT
+
+Tak; ale ja ci przebaczam pod tym warunkiem, że umrzesz.
+
+
+SKAPEN
+
+Jak to, panie?
+
+
+GERONT
+
+Cofam słowo, gdybyś się miał wylizać.
+
+
+SKAPEN
+
+Au! au! Znów czuję straszliwe boleści.
+
+
+ARGANT
+
+Mości Geroncie, dla uczczenia naszego wesela daruj mu bez zastrzeżeń.
+
+
+GERONT
+
+Niechże i tak będzie.
+
+
+ARGANT
+
+Chodźmyż teraz razem wieczerzać, aby tym lepiej nacieszyć się swoim szczęściem.
+
+
+SKAPEN
+
+A mnie niechaj zaniosą też na koniec stołu, nim śmierć zamknie moje biedne oczy.

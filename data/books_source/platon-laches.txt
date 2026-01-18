@@ -1,0 +1,786 @@
+Platon
+
+Laches
+tłum. Władysław Witwicki
+
+ISBN 978-83-288-6640-9
+
+
+
+
+
+Wstęp tłumacza
+
+Rozpoczyna się widowisko Platońskie po skończonym popisie Stezileosa, mistrza fechtunku w ciężkiej zbroi. Stezileos przyjechał — nie wiemy skąd — do Aten i tutaj zaczął ogłaszać swój kurs fechtunku jako znakomite uzupełnienie wykształcenia młodzieży. Czasy są wojenne. Jesteśmy między rokiem 424 a 418 przed Chr. Okres wojny tzw. peloponeskiej między Atenami i Spartą. Więc kursy mają powodzenie. Mówi się o nich na rynku i w jadłodajniach ateńskich.
+
+Platon sam nie mógł tych czasów dobrze pamiętać. Nie miał wtedy nawet dziewięciu lat, ale żywo je sobie później wyobrażał — jak to musiało być wtedy, kiedy Sokrates miał dopiero koło pięćdziesiątki i kiedy był jeszcze taki człowiek w Atenach, który nie wiedział, kto to jest ten Sokrates właściwie, choć znał osobiście jego ojca.
+
+Już i wtedy kochała Sokratesa inteligentniejsza młodzież i szanowali go ludzie co najwybitniejsi w państwie ateńskim — sławni wodzowie i politycy, jak Laches i Nikiasz. Wiedzieli, za co go szanują, choć właśnie w tym czasie (w r. 423) zaczął go Arystofanes brzydko i krzywdząco wyśmiewać ze sceny (w Chmurach).
+
+Na popisie fechtmistrza było dużo ludzi; patrzyli, podziwiali i słuchali, jak mistrz zachwalał i zalecał swoją sztukę dla młodzieży. Pośród widzów pokazuje nam Platon cztery osoby, a raczej dwie, szczególnie dobrane, dwójki osób. Dwaj już zgrzybiali starcy i dwaj podeszli wiekiem, ale jeszcze pełni sił, generałowie — starsi od Sokratesa, ale znacznie młodsi od tamtych dwóch obywateli.
+
+Ci staruszkowie to Lizymach i Melezjasz. Synowie wielkich ludzi: Lizymach jest synem sławnego Arystydesa, a Melezjasz to syn Tukidydesa, który swojego czasu współzawodniczył z Peryklesem, aż go przy pomocy sądu skorupkowego z Aten wygnano. Melezjasz w młodych latach dobrze grywał w piłkę i tyle tylko dobrego i ciekawego umiał o nim Platon powiedzieć w Menonie, Melezjasz nie będzie zbyt często głosu zabierał w rozmowie; zostanie jej prawie że niemym uczestnikiem.
+
+O Lizymachu czytamy również w Platońskim Menonie, że go ojciec, Arystydes, kształcił, w czym tylko mógł i do czego tylko znalazł w Atenach nauczycieli, a mimo tych starań nie udało się z Lizymacha zrobić nic ponad przeciętność. Dziś Lizymach przeważnie siedzi w domu, nie wie, co się dzieje na świecie, i nie interesuje się zbytnio nawet tym, o czym u niego w domu jego synowie głośno rozmawiają. Sam mówi rozwlekle i zapomina się już czasami. Narzeka na dolegliwości wieku. I oto, w tych dniach właśnie, ruszyła się w nim ambicja. Postanowił nagle, podobnie jak Melezjasz, zacząć się interesować swoim synem i chce go wyprowadzić na ludzi. Nawet propaguje zainteresowania pedagogiczne pośród innych rodziców. Obaj z Melezjaszem, naradziwszy się przy obiedzie, zaczęli od swoich synów wymagać posłuszeństwa, tylko nie bardzo wiedzą, co właściwie mają młodym ludziom nakazywać. Motywem tego nagłego przypływu energii u obu starszych panów jest wstyd. Żenują się po prostu wielkości swoich ojców. Wstyd się im nagle zrobiło, że sami nie dorastają nieboszczykom do pięt, dlatego pragną przynajmniej ze swoich synów zrobić, jak najprędzej się da, godnych dziedziców wielkich nazwisk, jakie noszą. W tym celu radzą się między znajomymi, dokąd by chłopców zapisać. Każdy radzi co innego, niektórzy w ogóle nie chcą ich słuchać, inni czytają im z miny i z tonu, co by też wypadało doradzić — w końcu ktoś im poradził, żeby chłopców oddali do Stezileosa na fechtunek w ciężkiej zbroi. A że nie wiadomo, czy ten ktoś radził serio, czy żartował, więc starsi panowie są ostrożni. Uprosili więc dwóch znajomych generałów, a zatem specjalistów od rzeczy wojskowych, Lachesa i Nikiasza, żeby z nimi poszli na popis Stezileosa i potem im doradzili, szczerze i otwarcie, jako fachowcy i jako ojcowie mający też synów dorastających, czy zapisywać tutaj chłopców, czy nie.
+
+Trzeba być obranym z poczucia komizmu, żeby nie dojrzeć humoru Platona, kiedy takie dwa typy i taką sytuację komponował. Nasz dialog ma na początku wyraźne zacięcie komediowe. Ci dwaj mizerni synowie bohaterów na naradzie pedagogicznej z generałami w budzie szarlatana — to jest motyw z Offenbacha, z czasów, kiedy Piękną Helenę grano jeszcze w kostiumach greckich dla inteligencji, a nie w cylindrach i czerkieskich żupanach dla gawiedzi.
+
+Tylko niech nikt nie sądzi, że Platon nie mówi serio, gdy się uśmiecha. Tylko ludzie głupi przestają myśleć, gdy się śmieją. Ci niech nie czytają Platona. My tymczasem zapoznajmy się z dwoma wojskowymi.
+
+Laches, syn Melanoposa, dowodził w roku 427 wraz z Charojadesem flotą z dwudziestu okrętów, którą Ateny wyprawiły przeciwko Syrakuzom, a na pomoc Leontyńczykom. Podczas tej wyprawy Charojades zginął niedługo, więc Laches został sam na stanowisku admirała. Zaatakował z powodzeniem miasto Mylaj, pobił posiłki messańskie, które szły na odsiecz, i zmusił Mylaj oraz sąsiednią Messanę do uznania władzy Aten i dania zakładników. Lądował później kilka razy niedaleko na Półwyspie Apenińskim i zwyciężał Lokryjczyków. W końcu jednak siły ateńskie okazały się za słabe. Nie udała mu się bitwa pod Inessą koło Etny, było źle pod Himerą i Wyspami Liparyjskimi — dość, że cała wprawa nie przyniosła Atenom spodziewanych owoców.
+
+Laches później przez dłuższy czas nie pełnił obowiązków wodza. Być może odsunął go swym wpływem Kleon. Czytamy jednak w Uczcie, że brał czynny udział w nieszczęsnej dla Aten bitwie pod Delion, gdzie pośród ostatnich schodził razem z Sokratesem z pola walki. Walczył tam jako hoplita, tzn. żołnierz ciężkiej piechoty.
+
+Głosował później w roku 423 za zawieszeniem broni, a w 421 wraz z Nikiaszem za pokojem ze Spartą. Zginął niedługo potem na polu bitwy ze Spartanami — pod Mantineją — w roku 418, gdzie wraz z Nikostratosem dowodził oddziałem ateńskim. Platon miał wtedy dziewięć lat.
+
+Te dane historyczne zgadzają się dobrze z rysami, które Platon nadaje Lachesowi w naszym dialogu. Spotkamy go tu jako człowieka z temperamentem gorącym, ale trzeźwego, rozsądnego, wesołego. W jego usta włoży Platon uroczystą pochwałę Sokratesa, aby kto nie myślał, że o Sokratesie mówili dobrze za życia tylko bladzi, wymokli intelektualiści z „pomysłowni” Arystofanesa.
+
+Lachesowi towarzyszy jego bliski znajomy, Nikiasz, syn Nikerata. Postać dobrze znana z historii wojny peloponeskiej. Smutna postać. Człowiek spokojny, cichy, skromny, wykształcony, dobrego serca, nielubiący wojen, odgrywał rolę naczelnego wodza, pokąd się to bardzo źle nie skończyło. Atenom zmarnował armię i flotę — sam stracił życie i sławę.
+
+Rozpoczął swą karierę polityczną jeszcze za czasów Peryklesa, jako przedstawiciel partii arystokratycznej. Bardzo bogaty z rodu, powiększył jeszcze swój majątek rozlicznymi interesami, ale nie żałował pieniędzy ani na wsparcia dla ubogich obywateli, ani na prezenty dla swoich przeciwników, których sobie tym umiał zjednywać. Wiele też wydawał na świadczenia publiczne.
+
+Ponieważ znano go jako człowieka, który się ani przekupić nie da, ani się bezprawia nie dopuści, więc wybierano go na stanowiska publiczne, chociaż o to nie bardzo zabiegał, i tak jakoś zostawał i wodzem naczelnym.
+
+Już w roku 427, kiedy Laches z dwudziestoma okrętami płynął pod Syrakuzy, Nikiasz usilnie przemawiał za pokojem ze Spartą jako rzecznik posiadaczy gruntów attyckich, którzy musieli wtedy bezczynnie siedzieć w murach ateńskich i słuchać, jak tam na wsi Spartanie wycinają ich drzewa oliwne, z korzeniami wyrywają winne szczepy i palą wszystko, co tylko można spalić. Zwalczał go wtedy garbarz Kleon, rzecznik rzemieślników ateńskich, którzy na wojnie robili na razie bardzo dobre interesy. Sprawa pokoju uległa odwłoce.
+
+Zamiast tego wyprawili Ateńczycy pod Syrakuzy w roku 425 nowych czterdzieści okrętów z wojskiem i na czele tej floty postawili obu przeciwników naraz: Nikiasza z Kleonem. Po drodze na Zachód, żeby zrobić na złość Sparcie, obsadziła ta flota punkt na messeńskim wybrzeżu Peloponezu, zwany Pylos, licząc na to, że będą tam pod opiekę załogi ateńskiej Spartanom uciekali heloci i że się stamtąd uda kiedyś rozniecić powstanie messeńskie przeciwko Sparcie.
+
+Tymczasem Spartanie odcięli Pylos wojskiem od strony lądu, a od strony morza wysadzili 400 ciężkozbrojnych na wysepce Sfakterii, która broniła wejścia do zatoki Pylos. Gdy wieść o tym doszła do floty ateńskiej, która już była ruszyła w dalszą drogę, zawróciły okręty i odcięły Sfakterię od strony lądu. Admirał Kleon chciał atakować od razu tych czterystu hoplitów spartańskich, ale admirał Nikiasz uważał, że Spartanie są, jak było wiadomo, niezwyciężeni w walce lądowej, dlatego nie chciał swych żołnierzy narażać na niepewne losy bitwy. Zostawiał w każdym razie wolną rękę Kleonowi, aby była zgoda między admirałami.
+
+Kleon podjechał do wyspy, wysadził na ląd wojsko w przeważającej sile i bez wielkiego trudu wziął hoplitów spartańskich do niewoli, z których już tylko trzystu było pozostało. Tych trzystu posłał jako jeńców do Aten ku swojej wielkiej chwale. Chciano ich tam ściąć — ale Nikiasz wstawił się za nimi i darowano im życie.
+
+Z Sycylii wróciła flota ateńska niedługo, nic tam nie uzyskawszy. Nikiasz nie stracił mimo to popularności w Atenach; został znowu wodzem i staczał nawet zwycięskie potyczki na Peloponezie. W jednej z nich — z Koryntem to było — poległ wódz nieprzyjacielski i zwycięstwo zostało przy Ateńczykach, którzy też zaraz wznieśli wspaniały pomnik zwycięstwa. Ponieważ jednak pokonanym wrogom zaczęły nadchodzić spóźnione, ale coraz to większe posiłki, uważali Ateńczycy za najlepsze chronić się co prędzej wraz z chwałą na stojące w pobliżu okręty. Wtem doniesiono, że zostały na polu dwa niepogrzebane trupy ateńskie. W tej chwili wyprawił Nikiasz, który był tę bitwę wygrał, herolda do nieprzyjaciół z prośbą, żeby pozwolili tych dwóch biedaków pochować. Wedle pojęć helleńskich równała się taka prośba przyznaniu się do przegranej. Nikiasz dobrze wiedział o tym — wolał jednak uchodzić za pokonanego, niż uchybić swemu poczuciu obowiązku wobec umarłych. Ambicja wodza nie była jego najsilniejszą dyspozycją duchową.
+
+Ateny wojowały dalej bez powodzenia. W jesieni w roku 424 tysiąc hoplitów ateńskich padło na polu bitwy z Beotami pod Tanagrą. Kolonie sycylijskie Aten uległy Syrakuzom, miasta trackie zrzuciły jarzmo ateńskie, ufając w pomoc Spartan. Dlatego w lecie w 422 roku wyprawił się na północ Kleon na czele floty ateńskiej; ale zginął w potyczce pod Amfipolis. W tej samej, w której ze strony przeciwnej padło tylko siedmiu Spartan, ale między nimi padł także król spartański Brazydas. Teraz droga do pokoju zdawała się otwarta. Gorąco też zaczął nad zawarciem pokoju pracować w Atenach Nikiasz i rzeczywiście udało mu się na wiosnę w roku 421 zawrzeć ze Spartą pokój, którego tak gorąco pragnął. W Atenach wypuszczono na wolność jeńców spartańskich, wziętych przed kilku laty na Sfakterii. Wdzięcznym sercem pamiętali to Nikiaszowi Spartanie.
+
+Pokój jednak nie trwał długo. Już w następnym roku, a to może właśnie był rok, w którym Platon wyobrażał sobie odbycie się naszego dialogu, wybrano w Atenach wodzem naczelnym, zamiast Nikiasza, ambitnego, młodego Alkibiadesa. Ten od razu zawarł przymierze z Argos, z Mantineją i z Elidą przeciwko Sparcie. Doszło do bitwy sprzymierzonych ze Spartanami pod Mantineją w roku 418, w której, jakeśmy mówili, padł Laches. Nikiasza czekała jeszcze jedna — już ostatnia — wyprawa wojenna. Nie chciał jej, odradzał, bronił się przeciw niej, ale było mu pisane inaczej. Alkibiades parł do nowej wyprawy morskiej przeciw Syrakuzom. Pilno mu było do laurów. Nikiasz odradzał i przeciwstawiał się awanturniczym, daleko sięgającym planom, jak umiał. Skutek był taki, że w roku 415 Ateny wystawiły flotę ze stu trzydziestu czterech okrętów z pięcioma tysiącami hoplitów na pokładzie — siły na owe czasy olbrzymie i na czele tej — zdawało się niezwyciężonej armady — postawiły Alkibiadesa z Nikiaszem i z Lamachosem w dodatku.
+
+Alkibiadesa zaraz odwołano z drogi; był podejrzany o to, że nocą poutrącał posągi Hermesa z pomocą kompanów równie wolnomyślnych jak sam, że sobie w domu urządzał dla gości takie sceny, jakie z nabożeństwem pokazywano podczas misteriów w Eleusis, a nie były to sceny przeznaczone dla młodych panien ani dla dzieci. Alkibiades wrócił; ale do Sparty.
+
+Naczelne dowództwo zostało w ręku Nikiasza. Ten podjechał pod Syrakuzy w lecie w roku 415. Syrakuzy były zgoła nieprzygotowane do obrony. Sparta była daleko i nie miała żadnej floty do użycia. To budziło w Nikiaszu otuchę. Nike uśmiechała się do swego imiennika. On jednak zarządził przede wszystkim odpoczynek dla floty po tak długiej podróży morskiej, a że i zima była niedaleko, więc na razie okręty ateńskie mokły cicho w portach Katany i w Naksos, a hoplici kosztowali win sycylijskich, aby dopiero na wiosnę w roku 414, przy dobrej pogodzie, rozpocząć oblężenie Syrakuz. Bez wielkiego trudu udało się Ateńczykom wjechać z flotą do portu, a nawet zająć Wysoki Zamek syrakuzański, który panował nad miastem. Przy tej sposobności zginął Lamachos i Nikiasz został sam przy naczelnym dowództwie. Że w Sparcie o tym wiedzą, co się pod Syrakuzami dzieje, i że tam już od zimy budują na gwałt okręty na odsiecz, tego się Nikiasz nie domyślił, Spartanie zresztą nie zbudowali tych okrętów zbyt wiele. Do wiosny roku 414 mieli ich tylko cztery wszystkiego, ale i z tymi czterema puścił się wódz spartański Gylip na odsiecz Syrakuzom. Sprytny, wylądował pod Himerą, na północnym brzegu Sycylii. Zebrał około trzy tysiące ludzi spośród osad sprzymierzonych z Syrakuzami i pociągnął lądem na odsiecz. Tego się już zupełnie Nikiasz nie spodziewał. Był zdumiony, że Gylip zajął miasto i zdobył Wysoki Zamek, że Syrakuzom zaczęły z wielu stron nadchodzić posiłki, że armii ateńskiej wypadało się teraz bronić zamiast atakować. Stwierdzał też, że jego flota, po roku służby i wypoczynku w portach, była już mało zdatna do użytku. Na szczęście dostał posiłki z Aten. Przyszło stamtąd jeszcze sześćdziesiąt pięć nowych okrętów z pięcioma tysiącami hoplitów pod wodzą Demostenesa. Ten wjechał z tym wszystkim w lecie w 413 roku do portu Syrakuz i rozpoczął walkę o Wysoki Zamek. Odparto go jednak i poniósł ciężkie straty.
+
+Nie zostawało teraz nic innego, jak czym prędzej wodą uciekać do domu. Postanowiono odwrót. I byłaby się flota ateńska jakoś uratowała, gdyby nie to, że właśnie w nocy 27 sierpnia 413 roku zaszło zaćmienie księżyca, a wieszczkowie wyłożyli Nikiaszowi, że to bardzo zły znak od bogów. Wobec tego Nikiasz, człowiek pobożny, wstrzymał odjazd. Skorzystała z tego, wzmocniona tymczasem, flota syrakuzańska, zamknęła go w porcie i zniszczyła mu połowę okrętów. Reszta już i tak nie była wiele warta.
+
+W tym nieszczęściu próbował lądem ujść na północ i ratować się może przez port Katany — ale droga już była zamknięta. Więc z dwudziestoma tysiącami niedobitków, już mało zdatnych do boju, pociągnął na południe. Demostenes z sześcioma tysiącami ludzi szedł w tylnej straży. Odcięto ich i rozgromiono. Demostenes zginął. We wrześniu w roku 413 zginął i Nikiasz po klęsce nad rzeczką Asinaros. W przepaścistych kamieniołomach syrakuzańskich dokonali nieszczęsnego żywota ci żołnierze ateńscy, którzy po tym pogromie jeszcze pozostali przy życiu. Podobno darowywano wolność tylko tym, którzy umieli na pamięć ody Pindara. Nie wiadomo, ilu takich było. W tym czasie Platon miał już czternaście lat.
+
+Imię Nikiasza skreślili Ateńczycy z listy wodzów i żołnierzy, wyrytej na kolumnie pamiątkowej. Ich potęga morska stała się odtąd tylko wspomnieniem. Nawet Platon, choć włożył mu w dialogu własne myśli w usta i potraktował go z widoczną sympatią, jednak imię jego pominął w tytule. Tak smutno — w Atenach mówiono nawet, że tak haniebnie — skończył wódz cieszący się powszechnym zaufaniem. Człowiek wykształcony i poczciwy, prawy, bezinteresowny, pobożny, sympatyczny w stosunkach osobistych, może nawet osobiście mężny i tak trafnie przewidujący klęski wojenne — z wyjątkiem tych, do których się sam przyczynił.
+
+Kiedy śledzić postać Nikiasza w naszym dialogu, kiedy zwracać uwagę na to, co on mówi i jak mówi, i jak się zachowuje, nie można się oprzeć wrażeniu, że Platon dał tutaj jego portret charakterystyczny, a nie jakiś, do nikogo niepodobny, schemat. To jest właśnie ten człowiek.
+
+Zadanie dialogu to: rozwinąć określenie męstwa wraz z trudnościami, które się z tym wiążą. Inaczej: próbować dojrzeć, co to właściwie jest męstwo. Tak, jak je rozumieją ludzie, którzy się nim odznaczają sami, i jak je przede wszystkim Platon sam rozumiał. A ponieważ w pojęciu męstwa znajdą się trudności, zachęcić do przemyślenia zagadnień, które wynikną.
+
+Sokrates sam definicji nie poda, będzie tylko kierował dyskusją. Myśli, zdaniem Platona, słuszne usłyszymy z ust obu czynnych uczestników właściwej rozmowy: od Lachesa, a przede wszystkim od Nikiasza.
+
+Żeby jednak czytelnikowi odpowiedzieć na możliwie pytanie, skąd i jakie właściwie ma Sokrates kwalifikacje do mówienia o męstwie i o wychowaniu i czemu tej dyskusji tutaj nie prowadzi jakiś żołnierz, jakiś fachowy nauczyciel rzeczy wojskowych, buduje Platon pierwszą połowę dialogu. Tu zobaczymy i tych obywateli cywilnych, którzy na oślep, po omacku, szukają mistrzów dla swoich synów, i tego fachowego nauczyciela rzeczy wojskowych, Stezileosa, i dwóch poważnych, tęgich żołnierzy o wyższym poziomie umysłowym. Pokaże się, że przygotowania do porad pedagogicznych nie ma właściwie nikt; a najlepsi spośród obecnych oglądają się na Sokratesa i dają mu uzasadnione wotum zaufania: niech mówi i niech prowadzi rozważania. Dlaczego? Dlatego, że on wierzy naprawdę w to, co mówi, i potrafi tak postępować, jak mówi; stąd jego słowa zgadzają się stale z czynami. Zatem jego osoba budzi zaufanie, a jego zamiłowania zwracają się do zajmowania się młodzieżą. Pierwsza część dialogu, od rozdziału pierwszego do piętnastego włącznie, to wprowadzenie Sokratesa na katedrę jako przewodniczącego. Dopiero druga część to rozważanie właściwe.
+
+Jeżeli Platon pisał ten dialog już jako kierownik własnego wyższego zakładu i przewodniczący ateńskiego towarzystwa filozoficznego — Akademii — to wolno przypuszczać, że miał na myśli nie tylko legitymowanie Sokratesowych dawnych rozpraw o męstwie, ale równocześnie legitymowanie i własnych roztrząsań na ten temat. On sam też był żołnierzem za młodu, a duch Sokratesa panował w Akademii.
+
+Ale posłuchajmy już i samych postaci Platońskich. Mamy przed sobą grupę z siedmiu osób. Dwaj wojskowi: Laches i Nikiasz, dwaj staruszkowie: Lizymach i Melezjasz, dwaj chłopcy, a mianowicie: Arystydes, syn Lizymacha, i Tukidydes, syn Melezjasza — ci odzywają się tylko jeden raz, unisono — i z boku, na szarym końcu, Sokrates. Rozpoczyna Lizymach, nie zwracając zupełnie uwagi na Sokratesa, jak by go w ogóle nie było w towarzystwie.
+
+
+
+
+Laches
+
+
+Osoby dialogu:
+ * Lizymach
+ * Melezjasz
+ * Nikiasz
+ * Laches
+ * Synowie Lizymacha i Melezjasza
+ * Sokrates
+
+
+Lizymach: Więc widzieliście, Nikiaszu i Lachesie, ten popis fechtmistrza, walczącego w ciężkiej zbroi. Ale z jakiego powodu myśmy, to jest: ja i ten tutaj Melezjasz, zaprosili was do towarzystwa na to przedstawienie, tegośmy wtedy nie powiedzieli, ale teraz powiemy. Uważamy, że wobec was trzeba mówić otwarcie. Bo są ludzie, którzy się z takich rzeczy śmieją i jeżeli się ich ktoś będzie radził, to za nic by nie powiedzieli, co myślą, tylko zgadują z miny tego, który o radę pyta, i mówią wbrew własnemu przekonaniu. A co do was, to uważamy i to, że macie kwalifikacje do tego, żeby rzecz rozpoznać należycie, i rozpoznawszy, z pewnością powiecie po prostu swoje zdanie. Dlatego poprosiliśmy was na naradę w pewnych sprawach, które chcielibyśmy wspólnie z wami omówić.
+
+A o co chodzi i dlaczego ja tutaj robię taki długi wstęp, to jest taka rzecz: my mamy synów — tych tutaj. Ten jest jego; nosi imię dziadka: Tukidydes. A mój znowu ten. Po dziadku się i ten nazywa, po moim ojcu. Arystydesem go nazywamy. Otóż my uważamy, że trzeba się nimi zainteresować, jak tylko można, a nie robić tak, jak to się zwykle dzieje, kiedy chłopcy podrosną: pozwala się im robić, co chcą. My właśnie teraz zaczynamy o nich dbać ze wszystkich naszych sił. A wiemy, że i wy macie synów, i myślimy, że jeśli kto, to wyście się musieli zastanawiać nad tym, jak by też ich prowadzić, aby się stali jak najlepsi. A jeżeliście może — jak to nieraz bywa — nie zwracali uwagi na coś w tym rodzaju, to żeby wam przypomnieć, że nie trzeba tej rzeczy zaniedbywać, i namówić, abyście się jakoś zajęli synami — razem z nami.
+
+II. A skąd nam to na myśl przyszło, Nikiaszu i Lachesie, tego trzeba posłuchać, choć to może przydługa historia. Bo my się wiktujemy wspólnie — ja i ten tutaj Melezjasz, a z nami razem jadają nasi chłopcy. Więc, jak już na początku powiedziałem, będziemy z wami mówili otwarcie. Otóż jeden i drugi z nas potrafi chłopcom opowiadać o wielu i pięknych dziełach swojego ojca: czego to ci ludzie nie dokazywali na wojnie i podczas pokoju, jak to oni gospodarowali sprzymierzeńcom i rządzili w tym państwie tutaj. A o swoich własnych dziełach żaden z nas nie ma nic do opowiadania. Więc tego nam troszkę wstyd wobec nich i mówimy, że to jest wina naszych ojców, że nam pozwolili bąki zbijać, kiedyśmy z chłopięcych lat wyrastali, a sami się zajmowali cudzymi sprawami. My też właśnie to tym młodym ludziom przed oczy kładziemy i mówimy, że jeśli się będą zaniedbywali i nas słuchać nie będą, sławy żaden nie osiągnie, a jak będą dbali, to może gotów jeden z drugim niedługo zasłużyć na to imię, które nosi. Otóż oni obiecują słuchać.
+
+Więc my — prawda — nad tym się zastanawiamy, czego by się oni powinni uczyć albo w czym praktykować, aby wyszli na ludzi jak najlepszej klasy. Otóż ktoś nam opowiadał i o tym studium; że to ładnie, aby się młody człowiek uczył fechtunku w ciężkiej zbroi. Zachwalał tego, którego popis oglądaliście teraz, i radził, żeby pójść zobaczyć. Postanowiliśmy, że trzeba będzie nam samym pójść i popatrzeć na tego człowieka, a wziąć ze sobą was i do towarzystwa na widowisku, i do rady, jeżeli byście byli tacy łaskawi, aby się podzielić myślami na temat wychowania synów. Oto jest to, cośmy wam chcieli zakomunikować. Więc już teraz wasza rzecz doradzić nam coś w sprawie tego studium, czybyście uważali, że trzeba się tego uczyć, czy nie trzeba. A co do innych też, jeżeli byście mogli zachwalić nam jakieś studium dla młodego człowieka albo jakąś praktykę, a także pomówić o tym, jak się będziecie odnosili do tej naszej spółki.
+
+III. Nikiasz: Jeżeli o mnie chodzi, Lizymachu i Melezjaszu, to pochwalam waszą myśl i gotówem w spółce uczestniczyć, a myślę, że Laches też.
+
+Laches: To słusznie myślisz, Nikiaszu. A to, co tu mówił Lizymach przed chwilą o swoim ojcu i o ojcu Melezjasza, to, zdaje mi się, trafna uwaga. Dotyczy nie tylko ich, ale równie dobrze nas, i wszystkich, którzy się zajmują sprawami państwowymi. U nich bodaj że jakoś prawie tak samo wypada, jak on mówi; czy to o dzieci chodzi, czy o inne sprawy prywatne — małą wagę do tego przywiązują i żaden o to nie dba. Więc to pięknie mówisz, Lizymachu. Ale że ty właśnie nas zapraszasz do narady nad wychowaniem chłopców, a Sokratesa, oto on, nie prosisz, temu się dziwię. Przede wszystkim on jest z tej samej gminy, co ty, a następnie, on się wciąż kręci gdzieś tam, gdzie jest coś w tym rodzaju, jak ty szukasz: jakaś ładna nauka albo jakaś praktyka dla chłopców.
+
+Lizymach: Jak mówisz, Lachesie? To ten Sokrates się interesuje czymś takim?
+
+Laches: Ależ tak, Lizymachu.
+
+Nikiasz: To samo mógłbym ci i ja też powiedzieć; równie dobrze jak Laches. Mnie samemu przecież on niedawno nastręczył kogoś na nauczyciela muzyki dla syna. Damona, ucznia Agatoklesa; to najmilszy człowiek w świecie. Nie tylko dla muzyki, ale ze wszystkich względów — z jakich tylko chcesz — warto, żeby był przy chłopcach w tym wieku.
+
+IV. Lizymach: Widzisz, Sokratesie, Nikiaszu i Lachesie — bo to w moim wieku człowiek już nie zna młodszego pokolenia. Siedzi się przeważnie w domu — to wiek robi. Ale jeżeli i ty, synu Sofroniska, możesz swojemu sąsiadowi z gminy dać jakąś dobrą radę, to trzeba, żebyś dał. Wypada i godzi się. Ty przecież jesteś — o, właśnie — naszym przyjacielem po ojcu. Bo ja i twój ojciec zawsześmy blisko żyli i byliśmy parą przyjaciół, zanim nie umarł, a nigdy się ze mną o nic nie poróżnił.
+
+I jeszcze coś mi się przypomina, kiedy się tu zaczęło przed chwilą o tym mówić. Bo ci moi chłopcy, jak w domu z sobą rozmawiają, to wciąż wspominają Sokratesa i ogromnie go chwalą. A tylko ja, doprawdy, nigdy ich nie zapytałem, czy mówią o synu Sofroniska. No, chłopcy, powiedzcież mi, czy to jest ten Sokrates, którego wy tak coraz to wspominacie?
+
+Chłopcy: Tak jest, proszę ojca, to ten.
+
+Lizymach: A to doskonale, na Herę, że podtrzymujesz honor ojca, bo to był człowieczysko najlepszy w świecie. I że twoje domowe kłopoty zaczną nas bliżej obchodzić, a ciebie nasze.
+
+Laches: Ależ tak, Lizymachu; tylko się trzymaj tego człowieka! Już ja go i gdzieś indziej widziałem, jak nie tylko ojca honor podtrzymywał, ale i ojczyzny. Podczas odwrotu spod Delion on razem ze mną schodził z pola i ja ci to powiadam, że gdyby inni byli chcieli go naśladować, byłby się ostał cało honor naszego państwa i nie byłoby wtedy takiego upadku.
+
+Lizymach: O Sokratesie! Ta pochwała jest piękna. Naprawdę. Chwalą cię teraz ludzie godni wiary i to jeszcze za co cię chwalą! Bądź głęboko przekonany, że kiedy to słyszę, cieszy mnie bardzo twoja dobra sława i proszę, żebyś mnie zaliczał do tych, którzy ci najlepiej życzą.
+
+On powinien był już i wcześniej bywać u nas i uważać nas za swoich, jak wypadało. Ale już teraz, od dzisiejszego dnia, skorośmy odnowili naszą znajomość, to już nie może być inaczej, tylko musisz się zbliżyć i poznajomić z nami i z tymi młodszymi tutaj, abyście i wy utrzymali ciągłość naszej przyjaźni. Więc to już i ty zrobisz, i my ci to jeszcze innym razem przypomnimy.
+
+Ale o tym, o czymeśmy zaczęli, to co mówicie? Jakież zdanie? To studium nadaje się dla chłopców czy nie? Ten fechtunek w ciężkiej zbroi?
+
+V. Sokrates: I w tej sprawie, Lizymachu, będę próbował radzić, jeżeli coś poradzić potrafię, i spróbuję zrobić wszystko, do czego zapraszasz. Jednakże wydaje mi się rzeczą najwłaściwszą, żebym ja, jako młodszy i mniej doświadczony od nich, naprzód posłuchał, co oni powiedzą, i uczył się. A jeżeli będę miał oprócz tego, co oni, jeszcze coś do powiedzenia, dopiero wtedy bym zaczął pouczać i nakłaniać i ciebie, i poprzedników. Więc, Nikiaszu — czemu nic nie mówi któryś z was?
+
+Nikiasz: Nie ma żadnej przeszkody, Sokratesie. Ja mam wrażenie, że dla młodych ludzi to pożyteczne: nauczyć się tej umiejętności. Z wielu względów. Już i to samo, że nie chodzą gdzieś indziej, tam, gdzie to — prawda — młodzi ludzie lubią bywać, jak nie mają żadnego zajęcia. A tutaj — to dobrze. Z tego przecież i ciało musi się wyrabiać — koniecznie. To nie jest gorsze od jakiejkolwiek innej gimnastyki i nie mniejszego wysiłku wymaga. A równocześnie dla wolnego człowieka to jest najstosowniejsze ćwiczenie. To — i jazda konna. W tych zawodach, w których my występujemy na arenie i w których czeka nas walka o pierwszeństwo, tylko ci się sprawiają należycie, którzy się w tych rynsztunkach wojennych ćwiczą.
+
+Następnie, może się ta rzecz jakoś przydać i w samej walce, kiedy w szyku wypadnie walczyć pośród wielu innych. A największy z niej pożytek, kiedy się rozsypią szyki i już musi każdy z osobna z oddzielnymi jednostkami walczyć: albo napierać na kogoś, kto się broni, albo też wypada samemu uciekać i bronić się przed tym, który na ciebie napiera. A nie tylko w walce z jednym przeciwnikiem nic się nie powinno stać takiemu, co zna tę sztukę, albo bodaj że i z wieloma, więc w każdym razie można na tym zyskać.
+
+A oprócz tego, taka rzecz budzi pragnienie, żeby się zapoznać z innym pięknym przedmiotem. Przecież każdy, kto się nauczy fechtunku w ciężkiej zbroi, może się z kolei zainteresować także innym przedmiotem nauczania: taktyką. A jak tę posiądzie i już mu się ambicja w tym kierunku rozwinie, to może się wziąć do studiowania wszelkich nauk wojskowych. A to już jasna rzecz, że związane z tym przedmioty nauczania wszystkie i zajęcia praktyczne i piękne są, i bardzo godne tego, żeby się ich człowiek wyuczał i czynnie się nimi zajmował. To studium może do nich prowadzić. A dołóżmy mu jako niemałą dokładkę i to, że ta wiedza może każdego człowieka zrobić śmielszym, mężniejszym, pewniejszym siebie w niemałym stopniu. Nie lekceważmy i tego jeszcze i powiedzmy, chociaż to mogłoby się komuś wydawać rzeczą mniejszej wagi, że to i postawę, i wygląd zewnętrzny człowiekowi poprawia tam, gdzie człowiek powinien wyglądać przyzwoicie, przez co się i straszniejszy będzie wydawał wrogom; dzięki pięknemu wyglądowi. Więc ja, Lizymachu, jak powiadam, uważam, że chłopcy powinni się tego uczyć, a dlaczego tak uważam, powiedziałem. A Laches, jeżeli coś oprócz tego powie, to ja bym go i sam z przyjemnością posłuchał.
+
+VI. Laches: Mój Nikiaszu, trudno o jakimkolwiek przedmiocie nauczania powiedzieć, że się go uczyć nie trzeba. Bo wszystko w ogóle wiedzieć wydaje się rzeczą dobrą. Więc tak i ten fechtunek w ciężkiej zbroi, jeżeli to jest przedmiot nauki, jak mówią ci, co tego uczą, i jak to Nikiasz mówi, to trzeba się tego uczyć. Ale jeżeli to nie jest żadna nauka i te obietnice to jest tylko oszustwo, albo też to i jest w sam raz pewien przedmiot nauki, ale nie bardzo poważny, to i po co by się tego uczyć?
+
+Ja to mówię o tej rzeczy, bo mam oczy otwarte i myślę sobie, że gdyby to było coś warte, to nie byliby o tym zapomnieli Lacedemończycy, którym na niczym w życiu tak nie zależy, jak na tym, żeby wyszukiwać i wyuczać się takich przedmiotów, których opanowanie teoretyczne i praktyczne dałoby im przewagę wojskową nad innymi. Jeżeliby zaś nawet Lacedemończycy to byli przeoczyli, to na pewno ci nauczyciele tego przedmiotu doskonale wiedzą, że spośród całej Hellady tam właśnie najpoważniej uprawiają takie rzeczy i że kto by tam u nich za to dostał nagrodę, ten by i u innych najgrubsze zbierał zyski. Tak samo kto tylko myśli, że mu się udało dobrze tragedię napisać, ten nie jeździ ze swoim przedstawieniem naokoło Attyki i nie urządza pokazów po innych miastach, tylko z miejsca i w te pędy tutaj jedzie i przed tymi się tu popisuje. Oczywiście! Tymczasem ja widzę, że ci fechtmistrze w ciężkiej zbroi uważają Spartę za święty okręg, do którego się wstępować nie godzi. Toteż o Spartę nawet końcem trzewika żaden nie zaczepi, tylko ją naokoło objeżdżają i raczej wszędzie indziej urządzają przedstawienia, a najwięcej u tych, którzy nawet i sami gotowi się zgodzić, że wielu ich wyprzedza w zakresie kultury wojennej.
+
+VII. A potem, Lizymachu, ja już niejednego z takich spotkałem przy robocie samej, na placu, i ja widzę, co oni warci. Możemy to i stąd dojrzeć, że jakby naumyślnie nigdy żaden sławny wojownik nie wyszedł spośród tych, którzy się bawili fechtunkiem w ciężkiej zbroi. A przecież we wszystkich innych dziedzinach sławni ludzie wychodzą spośród tych, którzy się daną dziedziną praktycznie zajmowali. Tylko ci jedni, zdaje się, wprost przeciwnie niż inni, tak zupełnie pod tym względem nie mają szczęścia.
+
+Przecież i tego Stezileosa, któregoście razem ze mną w takim tłumie oglądali, jak się popisywał i te wielkie słowa o sobie samym mówił — ja go gdzieś indziej lepiej oglądałem — w prawdziwej potrzebie. Tam on dopiero dawał przedstawienie — mimo woli. Bo kiedy okręt wojenny, na którym on służył pod bronią, uderzył o jakiś transportowiec, wtedy on miał do walki kosopikę. Osobliwy, naprawdę, instrument wojenny, jako że i on sam jest człowiek niepospolity. Więc zresztą tam nie ma wiele do opowiadania o tym wojowniku, tylko o tym wynalazku warto, o tej kosie dodanej do piki, jak się to skończyło. Więc podczas walki zaplątało mu się to gdzieś między sprzętem okrętowym i tam się uczepiło. Wlókł się za tym Stezileos, chcąc broń odczepić, i nie mógł. A tu się okręt przesuwa jeden koło drugiego. Więc tak długo i on biegł brzegiem swego okrętu, trzymając się piki. Ale jak już — prawda — okręty się zaczęły mijać, wtedy on się zaczął napinać — wciąż się piki trzymając — potem wypuszczał ją przez garść, aż się w końcu trzymał już za sam tylko koniec drzewca. Rozległ się śmiech i oklaski od tych z transportowca — tak wyglądał przy tym. Aż jak mu ktoś kamieniem rzucił pod nogi na pokład, wtedy puścił tę pikę. Wtedy już i ci z trójwiosłowca nie byli w stanie powstrzymać śmiechu, kiedy widzieli, jak dynda z lin transportowca ta jego kosopika. Więc może być, że to jest takie, jak Nikiasz powiada, ale to, co ja sam spotkałem, to jest coś w tym rodzaju.
+
+VIII. Więc, jak i na początku powiedziałem, albo takie małe z tego pożytki, chociaż to i jest pewien przedmiot nauki, albo też nie jest, a tylko tak mówią i udają tylko, jakoby to był przedmiot nauki — w każdym razie nie warto się do tego brać. Wydaje mi się tylko, że gdyby kto był tchórzem, a zdawałoby mu się, że to umie, mógłby przez to nabrać większej pewności siebie, ale pokazałoby się tym wyraźniej, jakim był naprawdę. A jeśliby nawet odważny, to pod bacznym okiem publiczności, gdyby się choć odrobinę pomylił, zaraz by o nim zaczęto bardzo źle mówić. Podawanie się za mistrza w tej umiejętności budzi przecież zawiść. Tak, że jeśli w jakiś niebywały sposób nie góruje dzielnością nad innymi, to nie ma rady, nie uniknie śmieszności ktoś, kto by się podawał za mistrza w tej umiejętności. Jakoś tak mi się, Lizymachu, przedstawia czynne zajmowanie się tym przedmiotem nauki. Ale trzeba, jakem ci to mówił zaraz na początku, i Sokratesa — jest tu przecież — nie puszczać, tylko go prosić, niech radzi, tak lub inaczej — zależnie od tego, jak mu się przedmiot narady przedstawia.
+
+Lizymach: Więc ja cię proszę, Sokratesie. Toż, moim zdaniem, nasza narada wymaga jeszcze kogoś, kto by rzecz rozstrzygnął. Gdyby się ci dwaj zgadzali, mniej by było kogoś takiego potrzeba. Tymczasem teraz Laches oddał, jak widzisz, głos wprost przeciwny Nikiaszowi. Więc dobrze — prawda — posłuchać i ciebie, za którym z nich dwóch głosujesz.
+
+IX. Sokrates: Cóż to, Lizymachu? To, za czym się większość spośród nas oświadczy — ty myślisz się do tego zastosować?
+
+Lizymach: A cóż można innego zrobić, Sokratesie?
+
+Sokrates: A ty też tak samo byś zrobił, Melezjaszu? I gdybyś był na jakiejś naradzie nad ćwiczeniami gimnastycznymi dla swojego syna i szłoby o to, jakie ćwiczenia uprawiać, to czy posłuchałbyś większości spośród nas, czy też tego, który by miał za sobą wychowanie i ćwiczenie pod kierunkiem dobrego trenera?
+
+Melezjasz: Kogoś takiego, oczywiście, Sokratesie.
+
+Sokrates: I jego byś raczej posłuchał niż nas, choć nas jest czterech?
+
+Melezjasz: Może być.
+
+Sokrates: Bo wiedza powinna rozstrzygać, a nie ilość, jeżeli rozstrzygnięcie ma być dobre.
+
+Melezjasz: Jakżeby nie?
+
+Sokrates: Nieprawdaż — więc i teraz trzeba przede wszystkim to właśnie rozważyć, czy między nami jest jakiś fachowiec od tego, nad czym radzimy, czy nie. I jeżeli jest, to go posłuchać, choćby był tylko jeden, a o innych mniejsza. A jeśli nie, to szukać kogoś innego. Cóż myślicie — czy małe niebezpieczeństwo zagraża teraz tobie i Lizymachowi, czy też chodzi o ten skarb, nad który nie mamy nic droższego? Bo przecież, zależnie od tego, czy się synowie udadzą, czy nie, cały dom ojcowski tak będzie zagospodarowany, jacy będą synowie.
+
+Melezjasz: Ty prawdę mówisz.
+
+Sokrates: Więc poważnie trzeba o tym naprzód myśleć.
+
+Melezjasz: Tak jest.
+
+X. Sokrates: A jakże to — jakem przed chwilą mówił — jakże to bylibyśmy rzecz roztrząsali, gdybyśmy byli chcieli dojść, który z nas jest najlepszym fachowcem w zakresie ćwiczeń cielesnych? Czy nie byłby to ten, który by się ich nauczył i wypraktykował; który też miał dobrych nauczycieli tego przedmiotu?
+
+Melezjasz: Mnie przynajmniej tak się wydaje.
+
+Sokrates: Nieprawdaż. A jeszcze przedtem pomyślelibyśmy nad tym, co to jest to, czego od nauczycieli poszukujemy?
+
+Melezjasz: Jak mówisz?
+
+Sokrates: W tym sposobie może się to lepiej wyjaśni. Ja mam wrażenie, że my od samego początku nie mamy wspólnego poglądu na to, czym jest to, nad czym się naradzamy, i szukamy między sobą fachowca i tego, który z nas miał nauczycieli tego przedmiotu, a który nie.
+
+Nikiasz: Jak to, Sokratesie? Czyż nie zastanawiamy się nad walką w ciężkiej zbroi — czy powinni się chłopcy tego uczyć, czy nie?
+
+Sokrates: Tak jest, Nikiaszu. Ale jeśli się ktoś zastanawia nad lekarstwem na oczy, czy trzeba się nim smarować, czy nie, to jak uważasz? W namyśle chodzi wtedy o lekarstwa, czy też chodzi o oczy?
+
+Nikiasz: O oczy.
+
+Sokrates: Nieprawdaż. I jeśli kto rozważa, czy uzdę koniowi zakładać, czy nie, i kiedy to robić, wtedy chyba koń jest przedmiotem jego namysłu, a nie uzda?
+
+Nikiasz: To prawda.
+
+Sokrates: Nieprawdaż — jednym słowem, kiedy ktoś rozważa coś ze względu na coś innego, wtedy namysł dotyczy tego, ze względu na co się rozważa, a nie tego, co się rozważa ze względu na coś innego?
+
+Nikiasz: Koniecznie.
+
+Sokrates: Zatem i doradca powinien patrzeć, czy jest fachowcem w służbie około tego, ze względu na co prowadzimy nasze rozważania.
+
+Nikiasz: Tak jest.
+
+Sokrates: Nieprawdaż; teraz, powiemy, zastanawiamy się nad przedmiotem nauki ze względu na duszę chłopców?
+
+Nikiasz: Tak jest.
+
+Sokrates: Więc czy ktoś z nas jest fachowcem od służby około duszy i czy potrafi pięknie nad nią pracować i kto z nas miał dobrych nauczycieli — nad tym się należy zastanowić.
+
+Laches: Cóż to, Sokratesie? Jeszcześ nigdy nie widział, żeby nieraz ktoś na lepszego fachowca wyszedł bez nauczyciela niż z pomocą nauczycieli?
+
+Sokrates: Ja — owszem, Lachesie. Ale ty byś im nie zechciał wierzyć, gdyby twierdzili, że są dobrymi robotnikami, gdyby ci nie umieli pokazać jakiegoś dzieła swojej sztuki — dobrze zrobionego. Jednego albo więcej.
+
+Laches: Co to, to prawdę mówisz.
+
+XI. Sokrates: Więc i myśmy tak powinni, Lachesie i Nikiaszu, skoro nas Lizymach i Melezjasz na naradę zaprosili w sprawie synów, pragnąc, aby się im dusze porobiły jak najlepsze. Jeżeli twierdzimy, że mamy, tośmy powinni im pokazać tych naszych nauczycieli, którzy — pokaże się — przede wszystkim sami byli dzielni i pracowali z pożytkiem nad wieloma duszami młodych ludzi, a potem i nas uczyli. Albo, jeżeli kto z nas powie, że nauczyciela nie miał, to może potrafi coś opowiedzieć o swoich pracach z tego zakresu albo pokazać, którzy też z Ateńczyków albo z obcych, czy to słudzy, czy wolni, stali się przez niego dobrymi, co by każdy musiał przyznać. A jeżeli nie mamy żadnej z tych rzeczy do pokazania, tośmy mu powinni poradzić, niech sobie innych doradców szuka. A nie narażać się na to, że popsujemy synów naszym dobrym znajomym i będziemy narażeni na najgorsze zarzuty ze strony ich najbliższych. Więc ja, Lizymachu i Melezjaszu, pierwszy mówię o sobie samym, że nauczyciela tych rzeczy nie miałem. Chociaż mam zamiłowanie do tego od młodych lat. Ale nie mam czym płacić uczonych, którzy sami jedni tylko przyrzekali, że potrafią ze mnie zrobić coś lepszego pod każdym względem. A sam tej sztuki wynaleźć nie umiem — jeszcze dziś. Jeżeli ją Nikiasz albo Laches wynalazł albo się jej nauczył, ja bym się wcale nie dziwił. Przecież i pieniędzy mają więcej niż ja na to, żeby się uczyć od innych, i równocześnie są starsi; tak, że mogli byli już tę sztukę wynaleźć. Ja mam wrażenie, że oni potrafią wychować człowieka. Bo nie byliby tak bez obawy wypowiadali swego zdania o zajęciach dla młodego odpowiednich i złych, gdyby nie byli sobie ufali, że się należycie na tym znają.
+
+Otóż ja im na ogół wierzę. Więc temu, że oni się różnią, dziwiłem się. Więc ja cię, Lizymachu, nawzajem o to proszę tak, jak ciebie przed chwilą Laches namawiał, abyś się tylko mnie trzymał i mnie pytał, tak ja teraz ciebie namawiam, abyś nie puszczał Lachesa i Nikiasza, tylko ich pytał. Powiedz im, że Sokrates twierdzi, że się nie rozumie na tej rzeczy i nie potrafi rozstrzygnąć, który z was dwóch prawdę mówi. Bo ani nie jest wynalazcą, ani uczniem czyimkolwiek w tym zakresie. Więc ty, Lachesie i Nikiaszu, powiedzcie nam, jeden i drugi, z jakim to znakomitym mistrzem porozumiewaliście się na temat wychowania młodzieży i czy to dzięki nauce u kogoś rozumiecie się na tym, czy dzięki własnej wynalazczości. Jeżeli dzięki nauce, to kto był nauczycielem jednego i drugiego i jacy inni ludzie tę samą sztukę uprawiają. Po to, żeby, w razie gdybyście wy czasu nie mieli — zajęci sprawami państwa — żebyśmy my mogli do nich pójść i nakłonić ich albo prezentami, albo przysługami, albo jednym i drugim, niech się zajmą naszymi i waszymi synami, aby ci nie przynosili wstydu swoim przodkom, jeśli będą do niczego.
+
+A jeżeli sami jesteście wynalazcami na tym polu, to pokażcie jakąś próbkę: kim też innym zajmowaliście się już i zrobiliście z lichych typów ludzi lepszych pod każdym względem. Bo jeżeli wy dopiero teraz zaczniecie pierwsze kroki stawiać jako wychowawcy, to trzeba dobrze uważać, aby to nie były niebezpieczne próby, jak na tanim niewolniku z Karii. Tu chodzi przecież o synów, o dzieci przyjaciół. Po prostu, jak to przysłowie mówi, aby się wam nie trafiło zaczynać garncarstwa od kosztownej wazy. Więc powiedzcie, co z tych rzeczy posiadacie, waszym zdaniem, i wypada, żebyście posiadali, albo może powiecie, że nie. O to się ich, Lizymachu, pytaj i nie puszczaj tych ludzi z rąk!
+
+XII. Lizymach: Ja — jeżeli o mnie chodzi — mam wrażenie, proszę panów, że Sokrates dobrze mówi. A czy radzi byście słuchali pytań i dawali odpowiedzi na te tematy, to już musicie sami wiedzieć, Nikiaszu i Lachesie. Bo że mnie i Melezjaszowi tutaj byłoby to bardzo miłe — to rzecz jasna, gdybyście na wszystko, o co Sokrates pyta, zechcieli może dać obszerniejszą odpowiedź. Ja przecież od tego zacząłem; mówiłem zaraz na początku, że na naradę dlategośmy was zaprosili, bo jesteśmy przekonani, żeście się — rzecz naturalna — interesowali takimi rzeczami. I w ogóle, i zwłaszcza że synów macie na wychowaniu, bez mała w tym samym wieku, co nasi. Więc jeżeli wam to nie zrobi jakiejś różnicy, to powiedzcie i zacznijcie to wspólnie z Sokratesem rozpatrywać z pomocą wzajemnych pytań i odpowiedzi. On przecież dobrze mówi także i to, że naradzamy się teraz nad naszym największym skarbem. Więc zobaczcie, czy trzeba tak zrobić — jak uważacie?
+
+Nikiasz: Lizymachu, mnie się zdaje, że ty naprawdę znasz Sokratesa tylko po ojcu. A z nim samym toś się nie spotykał — chyba że za jego chłopięcych lat. Może tam gdzieś między sąsiadami z gminy w towarzystwie ojca podchodził do ciebie — albo w świątyni, albo na innym jakimś zebraniu gminy. Ale żeś ty tego człowieka nie spotykał w jego dojrzalszych latach, to po tobie widać.
+
+Lizymach: Bo co właściwie, Nikiaszu?
+
+XIII. Nikiasz: Mam wrażenie, że nie wiesz, że kto się do Sokratesa najbardziej zbliży myślami — jakby krwią — kto do niego blisko podejdzie w rozmowie, ten już musi, choćby i o czym innym był rozmawiać zaczął, chodzić za nim bez ustanku myślami tam i sam, aż wpadnie i musi zdawać rachunek z siebie samego, jakim trybem teraz żyje i jak minione życie przeżył. A jak już raz ktoś wpadł, nie prędzej go puści Sokrates, aż to wszystko z niego pięknie, ładnie wyżyłuje. Ja już do tego przywykłem, że człowiek musi to od niego znosić, i to też wiem doskonale, że sam to znosić będę. Bo ja, Lizymachu, lubię zbliżać się do tego człowieka i uważam, że to nic złego: przypominać sobie, cośmy nieładnego zrobili albo dziś robimy. Człowiek, który tego nie unika, musi na przyszłość bystrzej myśleć o tym, co będzie, nabiera ochoty i uważa, że trzeba, według słów Solona, uczyć się, pokąd się żyje, a nie myśleć, że starość sama rozum w ręku przyniesie. Więc dla mnie to ani rzecz niezwykła, ani też niemiła, te egzaminy u Sokratesa. Ja też od dawna prawie żem był pewny, że nie o chłopcach będziemy mówili, jeśli Sokrates będzie przy tym, tylko o nas samych. Więc, jak mówię, z mojej strony nie ma żadnej przeszkody, żeby się z Sokratesem bawić tak, jak on zechce. A Laches tutaj — zobacz, jak się odnosi do czegoś takiego.
+
+XIV. Laches: Mój stosunek, Nikiaszu, do myślących rozmów jest prosty. A jeśli chcesz, to nie prosty, tylko podwójny. Bo mógłbym się komuś wydać miłośnikiem takich rozmów, a zarazem wrogiem. Bo kiedy słyszę, jak ktoś o dzielności albo o jakiejś mądrości mówi i to jest naprawdę ktoś, ktoś wart tych słów, które mówi, cieszę się nadzwyczajnie. Mam przed sobą zarazem tego, który mówi, i mam jego słowa, i widzę, że jedno drugiemu odpowiada i zgodnie brzmi. Całkowicie mi się muzykalny wydaje ktoś taki. Najpiękniejsza w nim harmonia panuje — nie chodzi o jego lirę i narzędzia zabawy — tylko prawdziwa harmonia wewnętrzna: zgodność słów i czynów w życiu. Taka po prostu dorycka, nie jońska, uważam, ani frygijska, ani lidyjska, tylko ta jedyna harmonia helleńska. Takiego chętnie słucham, kiedy się odzywa, i każdy myśli wtedy, że przepadam za myślącymi rozmowami. Tak chciwie chwytam to, co taki człowiek mówi. A kto inaczej robi, ten mnie nie cieszy. Nudzi mnie tym bardziej, im bardziej mu się zdaje, że dobrze mówi. Wtedy wyglądam na wroga myślących rozmów. Sokratesowych rozmów nie znam z doświadczenia, ale uważam, że swojego czasu niejakie próbki jego czynów miałem. I tam go znalazłem godnym pięknych słów — można z nim mówić całkiem otwarcie. Jeśli on też to potrafi, idę z nim i najchętniej gotów jestem poddać się egzaminom ze strony takiego człowieka; nie gniewałbym się wcale, gdybym się czegoś nauczył. Ja się zgadzam ze zdaniem Solona. Z jednym tylko dodatkiem: starzejąc się, chcę się uczyć wciąż, ale tylko od dzielnych ludzi. Chodzi mi tylko o to ustępstwo, żeby ten, który mnie uczyć ma, był i sam wiele wart; wtedy się nie będę wydawał nieukiem, choćbym objawiał niechęć do pouczeń. A czy tam nauczyciel będzie młodszy ode mnie, czy też jeszcze nie bardzo sławny, czy coś tam innego w tym rodzaju, nic mi na tym nie zależy. Więc ja ci, Sokratesie, pozwalam i uczyć mnie, i zbijać moje twierdzenia, które zechcesz, a uczyć się ode mnie możesz też. Tego, co znowu ja umiem. Tak ja się do ciebie odnoszę od tego dnia, kiedyś się razem ze mną narażał na niebezpieczeństwa i dawałeś próby swojej dzielności takie, jakie dawać musi każdy, kto chce dawać uczciwie. Więc mów, co ci się tylko podoba, a naszego wieku zgoła nie bierz w rachubę.
+
+XV. Sokrates: Zdaje się, że do waszej partii nie będziemy mieli pretensji o niechęć do wspólnych obrad i do wspólnego rozważania.
+
+Lizymach: To już nasza rzecz, Sokratesie. Bo ciebie, ja przynajmniej, liczę jako jednego z nas. Więc myśl ty, zamiast mnie, o naszych chłopcach i o tym, o co się mamy teraz wypytywać; jakoś radź i zaczynaj z nimi rozmowę. Bo ja już i zapominam niejedno — człowiek stary — nie pamiętam, com chciał powiedzieć, ani tego, co usłyszę. Jak się tymczasem mówi o czymś innym, to już nie bardzo pamiętam. Więc wy mówcie i przechodźcie punkt po punkcie sami z sobą to, cośmy sobie wzięli pod obrady. Ja będę słuchał, a jak wysłucham, to już razem z moim Melezjaszem zrobię to, co wy tam uchwalicie.
+
+Sokrates: Trzeba posłuchać, Nikiaszu i Lachesie, Lizymacha i Melezjasza. Bo to, o cośmy zaczęli pytać, jakich też każdy z nas miał nauczycieli takiego wychowania albo kogo innego zdołaliśmy poprawić, to może i niezła byłaby rzecz, gdybyśmy to u siebie prześledzili sami. Ale mam wrażenie, że pewien inny tok rozważań też do tego samego prowadzi, a chwyta rzecz może jakoś raczej u samego początku. Bo jeżeli się przypadkiem znamy na czymkolwiek, co przysługuje czemuś, robi lepszym to, czemu przysługuje, a do tego jeszcze potrafimy to nadać jako cechę czemuś innemu, to jasna rzecz, że znamy wtedy i samo to, ze względu na co moglibyśmy zacząć komuś radzić, w jaki sposób można by to najłatwiej i najlepiej zdobyć. Może być, że nie rozumiecie, co mówię, ale w ten sposób łatwiej zrozumiecie. Jeżeli my, dajmy na to, wiemy, że wzrok, przysługując oczom, robi lepszymi oczy, którym przysługuje, a oprócz tego potrafimy oczom wzrok nadawać, to jasna rzecz, że wiemy wtedy, czym jest sam wzrok, i moglibyśmy próbować radzić komuś, w jaki by sposób mógł go najłatwiej i najlepiej zdobywać. Bo gdybyśmy tego właśnie nie wiedzieli, czym jest wzrok albo czym jest słuch, to trudno by nam było leczyć oczy albo uszy i radzić, w jaki by sposób mógł ktoś wzrok lub słuch uzyskać najpiękniej.
+
+Laches: Prawdę mówisz, Sokratesie.
+
+XVI. Sokrates: Nieprawdaż, Lachesie, teraz też nas ci oto dwaj proszą do rady, w jaki by to sposób dzielność mogła w dusze ich synów wstąpić i zrobić je lepszymi?
+
+Laches: Tak jest.
+
+Sokrates: Więc czy nie powinniśmy posiadać wiedzy o tym, co to jest dzielność? Bo gdybyśmy nie wiedzieli nawet i tego, czym jest dzielność, to w jakiż sposób moglibyśmy komukolwiek doradzać, jak by ją najpiękniej uzyskał?
+
+Laches: W żaden sposób. Tak mi się wydaje, Sokratesie.
+
+Sokrates: Zatem twierdzimy, Lachesie, że wiemy, co to jest dzielność?
+
+Laches: Twierdzimy przecież.
+
+Sokrates: Nieprawdaż, a jeśli to wiemy, to potrafilibyśmy też powiedzieć, co to jest.
+
+Laches: Jakżeby nie?
+
+Sokrates: Więc, mój kochany, nie mówmy zaraz o dzielności całej — to może za wielka robota — zajmijmy się naprzód pewną jej cząstką i zobaczmy, czy tutaj mamy dostateczną wiedzę. A jest nadzieja, że łatwiej nam pójdzie rozważanie.
+
+Laches: Zróbmy tak, Sokratesie, jak ty chcesz.
+
+Sokrates: Więc którą by cząstkę dzielności naprzód wziąć pod uwagę? Jasna rzecz chyba, że tę, z którą w związku zdaje się zostawać to nauczanie w ciężkiej zbroi? Jakoś wielu ludzi myśli, że to ma związek z męstwem. Czy tak?
+
+Laches: I bardzo, przecież. Tak się wydaje.
+
+Sokrates: A zatem to przede wszystkim próbujmy, Lachesie, powiedzieć: męstwo co to jest? Później weźmy pod uwagę i to, jakim sposobem można je wpajać młodzieży; o ile to jest możliwe, żeby się ono brało z praktyk i z nauk pewnych. Więc próbuj powiedzieć to, co mówię: Co to jest męstwo?
+
+XVII. Laches: Ach nie, na Zeusa, Sokratesie! To nie jest trudno powiedzieć. Po prostu, gdyby ktoś chciał trwać w szeregu i odpierać nieprzyjaciół, a nie uciekać, bądź pewny, że ten by był mężny.
+
+Sokrates: Dobrze mówisz, Lachesie. Może być, że to moja wina — niejasno się wyraziłem — że ty w odpowiedzi dajesz nie to, o czym ja myślałem, gdym zadawał pytanie, tylko coś innego.
+
+Laches: Jakże to myślisz, Sokratesie?
+
+Sokrates: Ja powiem, jeżeli tylko potrafię. Mężny jest i ten, o którym ty mówisz, co to w szeregu trwa i walczy z nieprzyjaciółmi.
+
+Laches: Ja to przecież mówię.
+
+Sokrates: I ja też. Ale jakże znowu ten, który walczy z nieprzyjaciółmi, uciekając, a nie trwając na placu?
+
+Laches: Jak to: uciekając?
+
+Sokrates: Tak, jak to i o Scytach jakoś mówią, że walczą nie mniej wtedy, gdy uciekają, jak i wtedy, gdy gonią drugich. I Homer gdzieś tam chwali konie Eneasza, co to szybko to tędy, to tędy, powiada, i gonić umieją, i zmykać. I samego Eneasza w tym sposobie pochwalił; za jego wiedzę dotyczącą strachu i powiedział, że on był mistrzem popłochu.
+
+Laches: I to ładnie, Sokratesie. Bo on przecież mówił o wozach. A ty też mówisz o kawalerii scytyjskiej. Tak jest, konnica tam u nich tak walczy, a piechota helleńska tak, jak ja mówię.
+
+Sokrates: Oprócz może, wiesz Lachesie, spartańskiej. Bo powiadają, że pod Platejami Lacedemończycy, jak się spotkali z tarczownikami, to nie chcieli z nimi walczyć, trwając na placu, tylko zaczęli uciekać. A jak się rozpadły szyki Persów, ci się obrócili, jak konnica, rozpoczęli walkę i w ten sposób wygrali tę bitwę.
+
+Laches: Prawdę mówisz.
+
+XVIII. Sokrates: Ja też mówiłem, że to moja wina: Ty nie odpowiadasz należycie, bo ja nie zadałem pytania jak trzeba. Bo ja się chciałem od ciebie dowiedzieć nie tylko o tych mężnych z piechoty, ale i o tych z konnicy, i ze wszystkich postaci i rodzajów wojowania. I to nie tylko w wojnie lądowej, ale także wobec niebezpieczeństw grożących na morzu. Tam też bywają ludzie mężni. I o tych, co to wobec chorób i w stosunku do niedostatków, albo i w życiu obywatelskim bywają mężni. I to nie tylko w stosunku do przykrości bywają ludzie mężni albo w stosunku do strachów, ale w stosunku do pożądań i do rozkoszy bywają też mężni — umieją z nimi walczyć, trwając na placu albo robiąc w tył zwrot — bywają przecież, Lachesie, czasem ludzie mężni także i w sprawach tego rodzaju.
+
+Laches: I bardzo nawet, Sokratesie.
+
+Sokrates: Nieprawdaż, mężni są oni wszyscy, ale jedni w stosunku do rozkoszy, inni w stosunku do przykrości, inni wobec pożądań, inni wobec strachów męstwo posiadają. A inni znowu, myślę, tchórzostwo w tych wszystkich okolicznościach.
+
+Laches: Tak jest.
+
+Sokrates: Otóż, co to jest w obu rodzajach wypadków — o to się pytałem. Więc na nowo spróbuj powiedzieć naprzód o męstwie: co to jest to, we wszystkich tych wypadkach jedno i to samo. Czy też jeszcze nie całkiem rozumiesz, co mam na myśli?
+
+Laches: Jakoś nie bardzo jeszcze.
+
+XIX. Sokrates: Ja w ten sposób mówię. Tak samo, jak gdybym o prędkość pytał, co też to jest to, co mamy i w bieganiu, i w graniu na kitarze, i w mówieniu, i w uczeniu się, i w wielu innych czynnościach — posiadamy ją prawie wszędzie, o czym tylko warto mówić, czy to w robotach naszych rąk, czy nóg, czy ust i głosu, albo myśli; czy nie tak mówisz i ty?
+
+Laches: Tak jest.
+
+Sokrates: Więc gdyby ktoś mnie zapytał: Sokratesie, za co uważasz to, co w każdym wypadku nazywasz prędkością, to powiedziałbym mu, że siłę, która w małym czasie wiele dokonywa, ja nazywam prędkością, i jeżeli o głos idzie, i jeżeli o bieg, i jeżeli o wszystko inne.
+
+Laches: Zupełnie słusznie byś powiedział.
+
+Sokrates: Więc spróbuj i ty, Lachesie, o męstwie też tak powiedzieć, co to za siła, jedna i ta sama w rozkoszy i w przykrości, i we wszystkich warunkach, o których mówiliśmy przed chwilą; ona tam wszędzie jest i potem się nazywa męstwem.
+
+Laches: Więc ja uważam, że to jest pewna moc, pewna zaciętość duszy, jeżeli trzeba mówić o czymś, co tkwi we wszystkich wypadkach męstwa.
+
+Sokrates: Trzeba przecież, jeżeli mamy odpowiedzieć na pytanie samym sobie. Otóż mnie się tak wydaje, że na pewno nie wszelka moc — tak myślę — wydaje ci się męstwem. A wynoszę to stąd. Przecież tak, jak bym wiedział, Lachesie, że męstwo zaliczasz do rzeczy bardzo pięknych.
+
+Laches: Bądź przekonany, że do najpiękniejszych.
+
+Sokrates: Nieprawdaż, moc i wytrwałość na tle rozsądku jest piękna i dobra?
+
+Laches: Tak jest.
+
+Sokrates: A cóż, jeśli na tle głupoty? Czy to nie wprost przeciwnie? Wada szkodliwa i zła?
+
+Laches: Tak.
+
+Sokrates: Więc czy ty powiesz, że to coś pięknego: taka wada szkodliwa i zła?
+
+Laches: Nie godzi się przecież, Sokratesie.
+
+Sokrates: Zatem i takiej zaciętości nie zgodzisz się uważać za męstwo, skoro to nie jest rzecz piękna, a męstwo to coś pięknego.
+
+Laches: Prawdę mówisz.
+
+Sokrates: Zatem rozsądna wytrwałość to byłoby męstwo, według twego zdania.
+
+Laches: Zdaje się.
+
+XX. Sokrates: Zobaczmy tedy, w czym ona ma być rozsądna. Czy we wszystkim, w wielkich rzeczach i w małych? Na przykład, jeśli ktoś wytrwale wydaje pieniądze rozsądnie, wiedząc, że jak naprzód wyda, to potem jeszcze więcej zyska — czy mógłbyś go nazwać mężnym?
+
+Laches: Na Zeusa — ja nie.
+
+Sokrates: Albo gdyby ktoś był lekarzem, a syn by mu chorował na zapalenie płuc albo na coś tam innego, i prosiłby, żeby mu dać pić albo jeść, a ten by się nie ugiął, tylko by się zaciął?
+
+Laches: Ani trochę. To też nie.
+
+Sokrates: A na wojnie, gdyby ktoś był wytrwały i chciał walczyć, rozumując rozsądnie, wiedząc, że mu inni pomogą i że będzie walczył z mniej licznym i słabszym nieprzyjacielem niż jego własne szyki, a oprócz tego i teren ma bardziej korzystny; tego, z takimi wyrachowaniami rozsądnymi i z tym zaopatrzeniem, wytrwałego — ty byś nazwał mężniejszym, czy też tego, który by w przeciwnym obozie chciał wytrzymać i wytrwał?
+
+Laches: Tego, co w przeciwnym, zdaje mi się, Sokratesie.
+
+Sokrates: A przecież mniej rozsądna byłaby jego wytrwałość w porównaniu do tamtego.
+
+Laches: Prawdę mówisz.
+
+Sokrates: I takiego, co polegając na swej umiejętności jazdy konnej, wytrwa w potyczce konnicy, z pewnością nazwiesz mniej mężnym niż tego, co to zrobi, choć jeździć nie umie.
+
+Laches: Mnie się przynajmniej tak zdaje.
+
+Sokrates: I tego, co sztuce strzelania z procy czy z łuku, czy jakiejś innej umiejętności swoją wytrwałość zawdzięcza.
+
+Laches: Tak jest.
+
+Sokrates: A ci, którzy dobrowolnie na dno studni schodzą i nurkują, i trwają w tej robocie, choć nie są tęgimi nurkami, albo w innej jakiejś takiej robocie, tych nazwiesz mężniejszymi niż tych, co te rzeczy umieją.
+
+Laches: A cóż by ktoś mógł innego powiedzieć, Sokratesie?
+
+Sokrates: Nic, jeżeliby właśnie tak myślał.
+
+Laches: Więc ja też tak i myślę.
+
+Sokrates: A jednak jakoś mniej rozsądnie, Lachesie, tacy ludzie narażają się i trwają przy swoim niż ci, którzy to robią umiejętnie.
+
+Laches: Widać.
+
+Sokrates: Nieprawdaż; a przecież brzydką nam się wydała nierozsądna zuchwałość i wytrwałość przed chwilą. I brzydką, i szkodliwą?
+
+Laches: Tak jest.
+
+Sokrates: A stanęła między nami zgoda, że męstwo jest czymś pięknym.
+
+Laches: Stanęła zgoda przecież.
+
+Sokrates: A teraz znowu mówimy, że tamto brzydkie, ta nierozsądna wytrwałość bywa męstwem.
+
+Laches: Jakoś niby tak mówimy.
+
+Sokrates: A wydaje ci się, że dobrze mówimy?
+
+Laches: Na Zeusa, Sokratesie, mnie zgoła nie.
+
+XXI. Sokrates: Więc jakoś nie ma w nas tej doryckiej harmonii, wedle twoich słów; we mnie i w tobie, Lachesie. Bo się nam czyny nie zgadzają ze słowami. Czynem chyba, mógłby każdy powiedzieć, udało się nam męstwo posiąść, a słowem, to… mam wrażenie, że ani, ani — gdyby ktoś teraz słyszał, jak my rozmawiamy.
+
+Laches: Najzupełniejszą prawdę mówisz.
+
+Sokrates: No cóż? Ładnie wygląda takie nasze położenie?
+
+Laches: Ani za grosz.
+
+Sokrates: A pozwolisz, żebyśmy posłuchali troszeczkę tego, o czym mówimy?
+
+Laches: A to co takiego i czego mamy posłuchać?
+
+Sokrates: Tej myśli, która zaleca wytrwałość. Jeśli chcesz, to i my zostańmy przy poszukiwaniu i wytrwajmy, aby się z nas nie zaczęło śmiać samo męstwo, że nie dość mężnie go szukamy — jeżeli nieraz samo wytrwanie już jest męstwem.
+
+Laches: Ja jestem gotów, Sokratesie, nie ustępować przed czasem. Chociaż ja nie nawykłem do takich rozmów. A równocześnie bierze mnie jakaś ochota spierać się o to, co się powiedziało, i naprawdę gniewa mnie to, kiedy tak nie potrafię powiedzieć tego, co myślę. Bo — ja przynajmniej — mam wrażenie, że w myśli widzę męstwo i rozumiem, co to jest, a tu przed chwilą ono mi gdzieś, nie wiem dokąd, uciekło; tak, że nie umiem go słowami schwycić i powiedzieć, co to jest.
+
+Sokrates: Nieprawdaż, przyjacielu, dobry myśliwy winien biec za śladem i nie ustawać?
+
+Laches: No, niewątpliwie.
+
+Sokrates: A może chcesz, to i naszego Nikiasza zaprośmy na polowanie. Jeżeli tylko on jest w mniejszym kłopocie niż my.
+
+Laches: No chcę; jakżeby nie?
+
+XXII. Sokrates: Więc proszę cię, Nikiaszu; oto przyjaciele twoi ugrzęźli w słowach i ani w przód, ani w tył! Pomagaj, jeżeli masz trochę siły. Bo u nas widzisz, że drogi nie ma. Więc ty powiedz, za co uważasz męstwo, nas z kłopotu wybaw i to, co myślisz, słowami utwierdź sam!
+
+Nikiasz: Ja mam wrażenie, Sokratesie, że wy od dawna niedobrze określacie męstwo. Bo zupełnie nie korzystacie z tego, co ja już kiedyś z twoich ust słyszałem, a to było bardzo dobre.
+
+Sokrates: Co to było takiego? Nikiaszu!
+
+Nikiasz: Ja nieraz słyszałem, jakeś mówił, że w tym jest dobry każdy z nas, w czym jest mądry, a w czym jest głupi, w tym zły.
+
+Sokrates: Prawdę mówisz, Nikiaszu, na Zeusa!
+
+Nikiasz: Nieprawdaż; jeżeli mężny jest dobry, to jasna rzecz, że jest mądry.
+
+Sokrates: Słyszałeś, Lachesie?
+
+Laches: Słyszałem, ale nie bardzo rozumiem, co on mówi.
+
+Sokrates: A mnie się zdaje, że ja rozumiem, i mam wrażenie, że ten człowiek męstwo uważa za pewną mądrość.
+
+Laches: Ależ jaką tam mądrość? Sokratesie!
+
+Sokrates: Nieprawdaż, ty jego o to pytasz?
+
+Laches: Ja pytam.
+
+Sokrates: Więc proszę cię, powiedz mu, Nikiaszu, jaka to mądrość byłaby męstwem, według twoich słów. Przecie chyba nie mądrość flecisty.
+
+Nikiasz: Nic podobnego.
+
+Sokrates: Ani kitarzysty.
+
+Nikiasz: No nie, przecież.
+
+Sokrates: Więc co za jedna, czyli: wiedza dotycząca czego?
+
+Laches: Bardzo słuszne mu zadajesz pytanie, Sokratesie. Niech powie, która to ma być, jego zdaniem.
+
+Nikiasz: Ja uważam, że to ta wiedza, Lachesie, która dotyczy rzeczy strasznych i budzących otuchę. I w wojnie, i we wszystkich innych okolicznościach.
+
+Laches: Jak on ni w pięć, ni w dziewięć mówi, Sokratesie!
+
+Sokrates: Co masz na oku, Lachesie, kiedy to mówisz?
+
+Laches: Co mam na oku? Przecież mądrość nie ma nic wspólnego z męstwem.
+
+Sokrates: Ale Nikiasz mówi, że ma.
+
+Laches: Ależ nie, na Zeusa; on tam coś plecie.
+
+Sokrates: To może pouczmy go, a nie besztajmy?
+
+Nikiasz: No nie, Sokratesie; ja mam wrażenie, że Laches chce, abym i ja wyglądał na takiego, który mówi od rzeczy; dlatego że i on sam przed chwilą tak się sprezentował.
+
+XXIII. Laches: Tak jest, Nikiaszu. I ja to spróbuję wykazać. Przecież ty mówisz od rzeczy. Bo zaraz, na przykład, w chorobach — czyż nie lekarze wiedzą, co jest straszne? Czy też uważasz, że to wiedzą ludzie mężni? A może ty lekarzy nazywasz mężnymi?
+
+Nikiasz: Ani odrobiny.
+
+Laches: A rolników też chyba nie. Chociaż to, co jest straszne przy uprawianiu roli, oni przecież wiedzą. I inni wszyscy robotnicy wiedzą, co jest straszne i co pozwala mieć otuchę w sztuce każdego z nich. A mimo to wcale jeszcze nie są mężni.
+
+Sokrates: Zdaje się, że Laches jednak coś mówi, Nikiaszu. Tak to przynajmniej wygląda.
+
+Nikiasz: Mówić mówi; tylko nie mówi prawdy.
+
+Sokrates: Jakże to?
+
+Nikiasz: Bo mu się zdaje, że lekarze wiedzą o chorych coś więcej, a nie tyle tylko potrafią powiedzieć, co jest zdrowie, a co choroba. Przecież oni tyle tylko wiedzą. A czy dla kogoś to jest rzecz straszna: być zdrowym raczej czy chorować — ty myślisz, Lachesie, że lekarze to wiedzą? Czy nie uważasz, że dla niejednego lepiej by było nie wstać z choroby, niż wstać? To mi powiedz. Ty mówisz, że dla wszystkich lepszą rzeczą jest żyć, a czy nie lepiej dla niejednego, żeby umarł?
+
+Laches: Owszem, uważam, że tak bywa.
+
+Nikiasz: A czy myślisz, że jedno i to samo jest straszne i dla tych, którym lepiej umrzeć, i dla tych, którym lepiej żyć?
+
+Laches: Ja tak nie myślę.
+
+Nikiasz: A tylko ty lekarzom zostawiasz rozpoznawanie tego albo innemu jakiemuś robotnikowi, a nie temu, który się zna na tym, co straszne i niestraszne, a którego ja nazywam mężnym?
+
+Sokrates: Ty rozumiesz, Lachesie, co on mówi?
+
+Laches: Ja rozumiem. On wróżbitom przypisuje męstwo. Bo niby kto inny może wiedzieć, komu lepiej żyć czy tam umrzeć? Zatem ty, Nikiaszu, czy zgodzisz się, że jesteś wieszczkiem, czy też na to, że nie jesteś ani wieszczkiem, ani mężnym?
+
+Nikiasz: Jak to? Ty myślisz, że to jest rzecz wieszczka znać się na tym, co straszne i co budzi otuchę?
+
+Laches: Tak uważam. A czyjaż?
+
+XXIV. Nikiasz: Raczej rzecz tego, o którym ja mówię, mój drogi. Przecież wieszczek musi znać tylko oznaki tego, co będzie; czy to śmierć na kogo przyjdzie, czy choroba, czy utrata pieniędzy, czy zwycięstwo, czy klęska, czy wojna, czy inna jakaś trwoga. A co z tych rzeczy lepiej komuś przejść, czy lepiej, żeby tego nie przechodził, to o ileż to bardziej wieszczek ma oceniać niż ktokolwiek inny?
+
+Laches: Nie — ja go nie rozumiem, Sokratesie, co on właściwie chce powiedzieć. Bo powiada, że mężny to ani wieszczek, ani lekarz, ani nikt inny, tylko nie wiadomo kto — najpewniej to będzie jakiś bóg, jego zdaniem. Ja mam wrażenie, że Nikiasz nie ma odwagi przyznać się, że mówi od rzeczy. Dlatego kręci tędy i owędy i pokrywa to, że jest w kłopocie. A przecież my też mogliśmy byli przed chwilą — ja i ty — kręcić tak samo, gdybyśmy byli chcieli pokryć to, żeśmy się sprzeczali sami z sobą. Gdybyśmy mieli przemawiać w sądzie, miałoby to jakiś swój sens tak robić. Ale teraz tu, na takim zebraniu, nie wiem, po co by się człowiek miał zdobić słowami bez treści?
+
+Sokrates: Nie ma powodu — i ja tak myślę, Lachesie. Ale zobaczmy, może Nikiasz uważa, że mówi do rzeczy, a nie mówi tylko tak, aby mówić. Więc pytajmy go, niech powie jaśniej, co też ma na myśli. I jeżeli się pokaże, że mówi coś do rzeczy, to się zgodzimy, a jak nie, to go będziemy uczyli.
+
+Laches: Więc ty, Sokratesie, jeżeli chcesz się dopytywać, to się pytaj. Ja się już chyba dopytałem i mam dość.
+
+Sokrates: Mnie nic nie przeszkadza. To będzie takie wspólne pytanie: za mnie i za ciebie.
+
+Laches: Bardzo dobrze.
+
+XXV. Sokrates: Więc powiedz mi, Nikiaszu, a raczej powiedz nam — bo ja i Laches trzymamy teraz razem w dyskusji — ty mówisz, że męstwo to jest wiedza o tym, co straszne i co budzi otuchę?
+
+Nikiasz: Ja tak mówię.
+
+Sokrates: A to — prawda — nie każdemu człowiekowi dane, żeby się na tym znał, skoro ani lekarz, ani wieszczek tego nie będzie wiedział i nie będzie tym mężnym, jeżeli nie uzyska w dodatku tej właśnie wiedzy. Czy nie tak mówiłeś?
+
+Nikiasz: Tak mówiłem przecież.
+
+Sokrates: Więc to według przysłowia, doprawdy: nie każda świnia może mieć tę wiedzę i nie każda może się stać mężną.
+
+Nikiasz: Nie wydaje mi się.
+
+Sokrates: Zatem jasna rzecz, Nikiaszu, że ty nie wierzysz w męstwo nawet kromiońskiej świni. Ja to mówię nie dla żartu, tylko myślę, że z konieczności ktoś, kto tak mówi jak ty, nie przyzna męstwa żadnemu zwierzęciu albo będzie musiał uznać pewne zwierzę za tak mądre, że to, co tylko niewielu ludzi wie, bo to bardzo trudno poznać, to lew albo pantera, albo jakiś tam dzik będzie, jego zdaniem, wiedział. Koniecznie musi uznać jednaki do męstwa stosunek u lwa i u jelenia, u byka i u małpy ktoś, kto zakłada, że męstwo jest tym, za co ty je przyjmujesz.
+
+Laches: Na bogów! Doskonale mówisz, Sokratesie; a ty nam, naprawdę, na to odpowiedz, Nikiaszu, czy powiesz, że te zwierzęta są mądrzejsze od nas, którym wszyscy zgodnie przypisujemy męstwo, czy też, wbrew zdaniu wszystkich, ośmielasz się odmawiać im męstwa?
+
+Nikiasz: Co do mnie, Lachesie, to ja nie przyznaję męstwa ani zwierzętom, ani niczemu innemu, co z głupoty nie doznaje strachu wobec rzeczy strasznych, żadnej obawy nie zna i jest głupie. Czy myślisz, że ja męstwo przyznam także wszystkim dzieciom, które z głupoty nie boją się niczego? Ja uważam, że nie bać się i być mężnym, to nie jest jedno i to samo. Ja uważam, że męstwo i myślenie o tym, co będzie, przysługuje bardzo mało komu, a śmiałość i zuchwałość, i brak obawy na tle niemyślenia o przyszłości — bardzo wielu i mężczyznom, i kobietom, i dzieciom, i zwierzętom. Więc te istoty, które ty nazywasz mężnymi, a wielu innych też tak mówi — ja je nazywam śmiałymi, odważnymi, a mężnymi tylko istoty rozumne, o których ja mówię.
+
+XXVI. Laches: No popatrz, Sokratesie, jak on siebie samego — prawda — przystraja tym, co mówi — tak mu się zdaje. Wszyscy się zgadzają, że to są istoty mężne, a on im ten zaszczyt próbuje odebrać.
+
+Nikiasz: Nieprawdaż, Lachesie, ja tak robię. Ale bądź dobrej myśli. Ja mówię, że ty jesteś mądry i Lamachos też, jeżeli jesteście mężni; podobnie jak wielu innych Ateńczyków.
+
+Laches: Ja już nic na to nie powiem, abyś nie powiedział, że ze mnie prawdziwy ajksończyk.
+
+Sokrates: I nie mów, naprawdę, Lachesie. Mam wrażenie, żeś nie zauważył, że on tę mądrość wziął od naszego znajomego Damona, a Damon blisko żyje z Prodikosem, a ten bodaj że najpiękniej spośród uczonych rozróżnia takie wyrazy.
+
+Laches: Z tym też i więcej do twarzy uczonemu, z tymi figlami i subtelnościami niż człowiekowi, któremu państwo powierza u siebie godność naczelnika.
+
+Sokrates: Wypada przecież, żeby stojący na czele czegoś największego miał i rozum największy. Ja mam wrażenie, że Nikiasz zasługuje na rozpatrzenie: co właściwie ma na oku, kiedy ustala ten wyraz: męstwo.
+
+Laches: To już ty sam rozpatruj, Sokratesie.
+
+Sokrates: Mam zamiar zrobić to, mój drogi. Ale nie myśl, że zrzekam się spółki z tobą w dyskusji; więc uważaj i razem ze mną rozpatruj to, co się mówi.
+
+Laches: Niech i tak będzie, jeśli uważasz, że trzeba.
+
+XXVII. Sokrates: Uważam. A ty, Nikiaszu, powiedz nam znowu od początku; ty wiesz, żeśmy na początku rozmowy rozpatrywali męstwo jako cząstkę dzielności?
+
+Nikiasz: Tak jest.
+
+Sokrates: Nieprawdaż, i ty tak odpowiedziałeś, że to jest cząstka i że istnieją również inne części, które się wszystkie razem nazywają dzielnością?
+
+Nikiasz: No, jakżeby nie?
+
+Sokrates: Otóż, czy i ty mówisz to samo, co ja? Bo ja wymieniam oprócz męstwa rozwagę i sprawiedliwość, i inne tam takie… Czy ty też?
+
+Nikiasz: Ależ tak.
+
+Sokrates: Czekajże. Więc na to się zgadzamy. A tylko nad rzeczami strasznymi i budzącymi otuchę zastanówmy się, abyś ty nie był jakiegoś innego zdania, a my znów innego. A co my myślimy, to ci powiemy. Ty, jeżeli byś się nie zgadzał, pouczysz nas. My uważamy, że straszne są te rzeczy, które budzą obawę, a otuchę budzą te, które nie budzą obawy. A obawę budzi nie to zło, które się stało, ani to, co jest teraz, tylko zło oczekiwane. Bo obawa to jest oczekiwanie zła, które ma przyjść. Czy nie tak samo wydaje się i tobie, Lachesie?
+
+Laches: Bardzo mocno przecież, Sokratesie.
+
+Sokrates: Więc nasze zdanie słyszysz, Nikiaszu, że strasznymi nazywamy rzeczy złe, które mają przyjść. A budzącymi otuchę rzeczy nie złe albo rzeczy dobre, które mają przyjść. A ty tak, czy inaczej o tych rzeczach mówisz?
+
+Nikiasz: Tak mówię — ja przynajmniej.
+
+Sokrates: I tych rzeczy dotyczącą wiedzę ty nazywasz męstwem?
+
+Nikiasz: Właśnie to, całkowicie.
+
+XXVIII. Sokrates: To jeszcze trzecią rzecz rozpatrzmy, czy ona się jednakowo przedstawia tobie i nam.
+
+Nikiasz: To co będzie takiego?
+
+Sokrates: Ja powiem. Otóż wydaje się mnie i jemu, że jeśli się do pewnych rzeczy odnosi wiedza, wtedy nie inna wiedza dotyczy tych rzeczy przeszłych i wie, jak przebiegały, inna teraźniejszych i wie, jak przebiegają, a inna znowu, żeby wiedziała, jak one mogą najpiękniej przebiegać w przyszłości i przebiegać kiedyś będą — te, które jeszcze nie zaszły. To wszystko należy do jednej i tej samej wiedzy. Tak na przykład w odniesieniu do zdrowia do wszystkich czasów odnosi się nie różna jakaś medycyna, tylko ona jest jedna. Obejmuje spojrzeniem i to, co się dzieje, i to, co się stało, i to, co się stać ma, jak też ono będzie przebiegało. A znowu do płodów ziemnych agronomia podobnie się odnosi. A jeżeli chodzi o wojskowość, to sami możecie przyświadczyć, że strategia bardzo pięknie naprzód obmyśla różne rzeczy i to te, które mają przyjść, i nie uważa za potrzebne słuchać sztuki wieszczków, tylko nad nią panuje, bo lepiej od niej wie, co się na wojnie dzieje i dziać będzie. I prawo też tak przykazuje: nie żeby wieszczek panował nad naczelnym wodzem, tylko wódz nad wieszczkiem. Powiemy tak, Lachesie?
+
+Laches: Powiemy.
+
+Sokrates: No cóż? A ty się z nami zgodzisz, Nikiaszu, że tych samych rzeczy dotyczy i rozumie się na nich ta sama wiedza — i przyszłych, i obecnych, i przeszłych?
+
+Nikiasz: Jestem tego zdania. Tak mi się zdaje, Sokratesie.
+
+Sokrates: Nieprawdaż, mój drogi? A męstwo jest wiedzą o tym, co straszne i co otuchą napawa. Tak ty mówisz, czy nie?
+
+Nikiasz: Tak.
+
+Sokrates: I że jedna i ta sama wiedza odnosi się do tych samych rzeczy — i przyszłych, i jakichkolwiek tam.
+
+Nikiasz: Jest tak.
+
+Sokrates: Zatem męstwo jest wiedzą nie tylko o rzeczach strasznych i budzących otuchę. Bo rozumie się nie tylko na rzeczach dobrych i złych, które mają przyjść, ale i na tych, które się dzieją i które się już stały, czy jakichkolwiek tam — podobnie jak inne rodzaje wiedzy.
+
+Nikiasz: Jakoś to tak wygląda.
+
+XXIX. Sokrates: Zatem cząstkę męstwa podałeś nam, Nikiaszu, w odpowiedzi; mniej więcej trzecią część. A myśmy się pytali o całe męstwo, co też to jest. I teraz, w tej chwili, zdaje się, według twoich słów, że męstwo jest wiedzą nie tylko o rzeczach strasznych i budzących otuchę, ale bodaj że wiedzą o wszystkim, co dobre i złe, bez względu na czas — według twego ostatniego zdania — musiałoby być męstwo. Zatem tak znowu zmieniasz stanowisko, czy jak mówisz, Nikiaszu?
+
+Nikiasz: Zdaje mi się, że tak, Sokratesie.
+
+Sokrates: A czy ty myślisz — Pan Bóg z tobą — że brakłoby jeszcze czegoś do dzielności takiemu, który by znał dobra wszystkie i wszędzie, jak powstają, jak będą powstawały i jak powstały, a rzeczy złe tak samo? I czy ty myślisz, że takiemu brakłoby rozwagi albo sprawiedliwości i bogobojności? On jeden powinien przecież i w stosunku do bogów, i w stosunku do ludzi umieć ustrzec się przed tym, co złe i co nie, a dobra sobie przysparzać — bo wie, jak trzeba współżyć jak należy.
+
+Nikiasz: Mam wrażenie, Sokratesie, że mówisz do rzeczy.
+
+Sokrates: Zatem, Nikiaszu — nie cząstką dzielności byłoby to, co teraz mówisz; to byłaby dzielność cała!
+
+Nikiasz: Zdaje się.
+
+Sokrates: A przecież mówiliśmy, że męstwo jest jedną cząstką dzielności.
+
+Nikiasz: A mówiliśmy.
+
+Sokrates: A to co teraz mówimy, to nie wygląda tak.
+
+Nikiasz: No nie wygląda.
+
+Sokrates:: Zatem nie znaleźliśmy, Nikiaszu, co to jest męstwo.
+
+Nikiasz: Zdaje się, że nie.
+
+Laches: A ja, kochany Nikiaszu, myślałem, że ty znajdziesz, kiedyś pogardził moją odpowiedzią, którą dałem Sokratesowi. Ja miałem wielką nadzieję, że z pomocą tej mądrości od Damona ty jakoś je odnajdziesz.
+
+XXX. Nikiasz: To dobrze, Lachesie, że nie przywiązujesz żadnej wagi do tego, że jak się przed chwilą pokazało, sam niewiele wiesz o męstwie, a tego tylko patrzysz, abym się ja drugim takim pokazał, i nie będziesz sobie — zdaje się — nic robił z tego, że razem ze mną nic nie wiesz o tym, o czym powinien posiadać wiedzę ktoś, kto się nie uważa za byle co. Ja mam wrażenie, że to jest u ciebie naprawdę arcyludzkie: nie patrzeć własnej osoby, tylko interesować się drugimi. Ja mam wrażenie, że na temat, o którymeśmy rozmawiali, ja teraz mówiłem dość do rzeczy, a jeżeli coś tam nie zostało powiedziane tak, jak by należało, to ja to później naprawię. Także z pomocą Damona. Ty może myślisz, że go na śmiech wystawiasz, a nawet go nie widziałeś nigdy w życiu — choćby tylko w towarzystwie innych. A kiedy ustalę swoje poglądy, nauczę i ciebie — nie schowam ich dla siebie. Bo mam wrażenie, że ci bardzo mocno potrzeba nauki.
+
+Laches: Bo ty jesteś mądry, Nikiaszu. Mimo to ja naszemu Lizymachowi i Melezjaszowi radzę, niech mnie i tobie dadzą pokój z tym wychowaniem chłopców, a niech się trzymają Sokratesa. Ja to zaraz na początku mówiłem. A gdybym i ja sam miał chłopców w tym wieku, zrobiłbym to samo.
+
+Nikiasz: Z tym i ja się zgadzam. Jeżeliby tylko zechciał Sokrates zająć się chłopcami, to nie szukać nikogo innego. Ja bym mu najchętniej powierzył mojego Nikerata, gdyby on tylko chciał. Tymczasem on mnie wciąż do kogoś innego odsyła, kiedy mu coś o tym wspomnę, a sam nie chce. Więc zobacz, Lizymachu, może ciebie Sokrates jakoś łatwiej posłucha.
+
+XXXI. Lizymach: Powinien przecież, Nikiaszu. Przecież i ja bym dla niego chętnie zrobił niejedno, czego by mi się dla innych bardzo wielu robić nie chciało. Więc co powiesz, Sokratesie? Posłuchasz i dołożysz swoich dobrych chęci do tego, żeby się chłopcy rozwinęli jak najlepiej?
+
+Sokrates: To by było bardzo brzydko, Lizymachu, nie chcieć razem z kimś współpracować, aby się stał jak najlepszy. Ale gdybym ja w rozmowach, tych teraz tutaj, był objawił wiedzę, a ci dwaj niewiedzę, to byłoby rzeczą słuszną mnie przede wszystkim do tej roboty zapraszać. Tymczasem wszyscy razem znaleźliśmy się w jednakim kłopocie. Więc — co by tam miał ktoś jednego z nas stawiać wyżej? Ja sam myślę, że nie warto żadnego. Skoro tak jest, to rozważcie, czy się wam moja rada wyda do rzeczy. Ja twierdzę, żeśmy powinni — moi panowie — tylko niech nikt nie wyniesie sekretu — powinniśmy wszyscy razem szukać sobie nauczyciela jak najlepszego przede wszystkim dla nas samych — potrzebujemy go przecież — a potem także i dla chłopców. Ani pieniędzy na to nie szczędzić, ani niczego innego. A żeby nas zostawić w tym stanie, jak teraz jesteśmy, tego nie doradzam. A jeżeli się ktoś będzie z nas śmiał, że w tym wieku myślimy się do szkół zapisywać, to trzeba mu będzie przytoczyć Homera, który powiedział, że wstyd to nie jest rzecz dobra, gdy kogoś nagli potrzeba. Więc i my śmiejmy się z tego, jeżeli ktoś coś będzie mówił, i zajmijmy się wspólnie samymi sobą i chłopcami.
+
+Lizymach: Mnie się podoba, Sokratesie, to, co ty mówisz. I chcę, jako że jestem najstarszy, najchętniej uczyć się razem z chłopcami. A tylko to zrób dla mnie: jutro rano przyjdź do mnie do domu koniecznie, pamiętaj. Abyśmy się nad tym właśnie naradzili. A na razie rozwiążmy zebranie.
+
+Sokrates: Ja to zrobię, Lizymachu, i przyjdę do ciebie jutro, jeżeli Bóg zechce.
+
+
+
+
+Objaśnienia tłumacza
+
+Widać z tego, co tutaj mówi Lizymach, że nie uprzedził Nikiasza i Lachesa, po co ich właściwie zapraszał. Zaproszenie było raczej chytre niż otwarte. Niby to dla rozrywki i dla towarzystwa, a głębszy cel był aż do tej chwili ukryty: zasięgnąć porady pedagogicznej u ludzi ukwalifikowanych, a gdyby się okazali niekoniecznie ukwalifikowani, roztrząsnąć im sumienie i namówić do podzielenia trosk wychowawczych.
+
+Zwraca uwagę to, że Lizymach umie karcić ludzkie zaniedbania wychowawcze, których się i sam dotąd dopuszczał, i umie drugich zachęcać do tego, czego sam dotąd nie robił. Nie można powiedzieć, żeby się u niego słowa zgadzały z czynami.
+
+Rzecz jasna, że się tym, do których mówi, mogło nasunąć pytanie: A skądże ten nagły zapał wychowawczy, kiedy chłopcy już pod wąsem, i skąd u tych niepozornych ludzi ta nagła misja pedagogiczna między rodzicami?
+
+II. Lizymach odpowiada na to pytanie. Zaczęło się więc w restauracji, gdzie się starsi panowie wiktują. Może wdowcy, a może tylko wolą jadać w lokalach publicznych niż u siebie w domu. Należą zapewne do towarzystwa, które się wspólnie stołuje, jak to w Sparcie było regułą, a w Atenach bywało też, ale nie było przymusowe.
+
+Przy stole mówiło się zapewne o wojennych zasługach Arystydesa i o tym, jak to on założył Związek Delijski — Tukidydes odznaczył się raczej jako polityk i mówca.
+
+Słyszymy tu z ust Lizymacha, tak charakterystyczne dla słabych jednostek, zwalanie odpowiedzialności za własne braki na kogoś drugiego, na rodziców. Sprawy publiczne wydają mu się cudzymi sprawami i ma do ojca, polityka, pretensje, że się polityką zajmował, a nie jego osobą. Pewien kobiecy raczej i dziecięcy rys — nie męski, na pewno.
+
+III. Nikiasz odpowiada uprzejmie, krótko i rzeczowo. Laches jest rozmowny. Bez skrupułu uogólnia uwagę Lizymacha o wielkich ludziach — to znaczy, że jest towarzyski. Zwraca ze zdziwieniem uwagę Lizymacha na postać Sokratesa, który przecież pochodzi też z gminy Alopeków, podobnie jak Lizymach, a jest stałym gościem w palestrach i gimnazjach, gdzie przede wszystkim uczą boksu i innych sportów, ale oprócz tego wykładają tam przejezdni uczeni różne przedmioty i prowadzą płatne kursy naukowe.
+
+Pełne zdziwienia i niespodzianki zapytanie Lizymacha o rodzaj zainteresowań Sokratesa świadczy o tym, że Lizymach nie ma pojęcia, co się dzieje na mieście, i że nie słyszał nawet choćby o Chmurach Arystofanesa. Imię Sokratesa i postać nie mówi mu nic w ogóle. Wolno sobie wyobrażać w tej chwili dobrotliwy uśmiech na twarzach Lachesa i Nikiasza i wolno go dopuszczać w tym miejscu u Platona.
+
+Ateńczyk Agatokles to sławny muzyk, o którym jest mowa także w Platońskim Protagorasie. Podobnie jak Damon, jeden z przyjaciół i nauczycieli Peryklesa w jego ostatnich latach. Nikiasz ma w nim nie tylko nauczyciela swego syna, Nikerata, ale sam również wiele od niego korzysta w rozmowach.
+
+IV. Ten rozdział lśni barwami podpatrzonymi w życiu. Lizymach wymienia teraz Sokratesa na pierwszym miejscu, przed dwoma starszymi uczestnikami rozmowy. Być może przeprasza go tym za poprzednie pominięcie. Widocznie przypomniał sobie, że jego dawny znajomy, rzeźbiarz Sofroniskos z Alopeków, miał kiedyś syna tego imienia. Ale to dawne czasy — on Sokratesa liczy do młodego pokolenia. I nic a nic, zresztą, o nim nie wie. Uprzejmie gotów i jego zaprosić do rady, bo kogóż już o nią nie prosił. Prosi w imię tradycji rodzinnej. Zdradza się przy sposobności z tym, że aż dotąd zgoła się nie interesował rozmowami i życiem swoich synów. Nie wiedział przecież i nie przyszło mu na myśl zapytać, o kim mówią tak często i tak dobrze. A że jego naczelną troską jest własna niższość w stosunku do własnego ojca i niepewność, czy jego synowie dorównają dziadkowi, więc też i Sokratesa w tej chwili pojmuje i chwali nie za jego osobiste wartości — tych nie zna — tylko za to, że Sokrates nie psuje swą osobą dobrej opinii poczciwego Sofroniska.
+
+Ten obraz: Sokrates, pojęty jako godny syn swojego papy z przedmieścia, musiał się Platonowi wydawać zabawny. Nie mniej Lachesowi, który w cudzysłowie niejako powtarza pochwałę Lizymacha, a poprawia ją, jak należy. Ma na myśli tę chwilę odwrotu spod Delion, którą tak plastycznie opisuje Alkibiades w Uczcie.
+
+Ta pochwała imponuje Lizymachowi, dlatego wraz z gratulacjami zgłasza swą życzliwą pretensję do Sokratesa, wymienionego tu w trzeciej osobie, jakby mówiący patrzył na resztę towarzystwa: czemu dotąd nie złożył wizyty i nie bywał, jak wypadało. Namawia synów i Sokratesa — to jest w jego oczach jedno pokolenie: tych młodych — żeby podtrzymywali ciągłość, żeby chronili przed zanikiem przyjaźń jego z nieboszczykiem Sofroniskiem. Motyw tradycji i konwenansu. Lizymach nie troszczy się w tej chwili o to, czy ludzie, których pragnie widzieć blisko siebie, mają sobie nawzajem coś do powiedzenia. On sam się przecież Sokratesem nie interesował przez kilkadziesiąt lat. Te uprzejmości kończy prędko i wraca do zagadnienia, z którym tu przyszedł: czy zapisać chłopców do Stezileosa, czy nie.
+
+V. Sokrates uprzejmie a skromnie usuwa się na drugi plan, oddając głos Nikiaszowi.
+
+Nikiasz doradza kurs fechtunku i motywuje swe stanowisko. W motywacji słychać pewną swadę retoryczną. Więc pewien rytm — najwyraźniejszy w drugiej części rozdziału, jednakie nawiązywanie ustępów, pewne ogólniki trafiające do serca i wzniośle brzmiące, a nieprawdziwe i nieco mętne, jak ten o „zawodach, w których my występujemy na arenie… tylko ci się sprawiają należycie” itd. Nikiasz przecież dobrze znał Kleona i wiedział, jak ten się należycie sprawił pod Sfakterią, a ćwiczył się nie w rynsztunkach wojennych, tylko w drapaniu skór cielęcych i w moczeniu ich w korze dębowej. O Tyrteuszu kulawym też słyszał, jaką rolę narodową miał odegrać w Sparcie, więc to tutaj to w jego ustach piękny frazes. Nie chytry — na pewno — zatem raczej naiwny.
+
+Jego pierwszy argument, że młodego człowieka trzeba zająć czymś fizycznie męczącym, aby nie pił i za dziewczętami nie biegał za wcześnie, jest szczery i jest wieczny. To samo się dziś mówi o piłce nożnej jako o nieszkodliwym ujściu dla energii młodzieńczej. To musiało Lizymacha przekonywać, bo sam byłby to też powiedział. To mówią przecież wszyscy i zawsze.
+
+Gdy Nikiasz mówi na trzecim miejscu o praktycznym pożytku z fechtunku na polu bitwy podczas ataku i w odwrocie, słyszymy, że on tylko wnioskuje, dedukuje, powiada, że to by się powinno jakoś przydać, ale on sam nigdy takich fechtmistrzów przy robocie serio nie widział. O tym wcale nie wspomina. Czwarty argument, o tym, jak to fechtunek prowadzić może do wszelkich nauk wojskowych, wydaje się słuszny. Nikiasz nie twierdzi, że musi tak być ani że tak jest po większej części, tylko że tak być może. Tyle też trzeba mu przyznać. Inna rzecz, czy to powinno wystarczyć Lizymachowi i czy tylko o to Lizymachowi szło.
+
+Słuszny wydaje się i piąty argument, że wprawa w fechtunku może poprawiać samopoczucie młodzieńca. I szósty, że może młodemu człowiekowi nadać zewnętrzne pozory męstwa.
+
+Nie można powiedzieć, żeby słowa Nikiasza zawierały coś osobliwego, niespodziewanego, własnego. Wszystkie te rzeczy mógłby powiedzieć i każdy inny obywatel mający wprawę w mówieniu, nie przychodząc na przedstawienie Stezileosa, tylko słysząc, że chodzi o jakąś szermierkę. Piękne komunały na niewidziane, a w dobrej wierze.
+
+VI. Zupełnie inaczej mówi Laches. Ani śladu naiwności, żadnych pięknych słów, krytycyzm, humor, prostota, trzeźwość, żywy kontakt z rzeczywistością i znajomość życia i ludzi. Słychać wielkie uznanie dla Sparty w dziedzinie rzeczy wojskowych i ostrożne politowanie dla Aten na tym punkcie. To było aż nadto uzasadnione. Na razie Laches też tylko dedukuje swój ujemny sąd o sztuce i nauczaniu Stezileosów, ale w tej chwili odwołał się do doświadczenia.
+
+VII. Laches widział już takich szermierzy na placu boju, więc wie, co o nich sądzić. Podaje plastycznie jedno ze swoich spostrzeżeń, dotyczące właśnie Stezileosa. Trudno powiedzieć, co właściwie sobie Stezileos przymocował do piki: kosę czy sierp, bo grecki wyraz drepanon oznacza jedno i drugie. Chodziło mu widocznie o to, żeby broń kłującą zrobić równocześnie bronią sieczną, jak średniowieczne halabardy, ale wynalazek okazał się niepraktyczny we flocie. Ten epizod z bitwy morskiej, który Laches opowiada, to jest idylla i operetka w stosunku do bitew dzisiejszych. Rzucanie kamieniami, oklaski i śmiechy z obu stron. Ale pod Tanagrą nie było tak wesoło, ani pod Mantineją.
+
+VIII. Ostatnie słowa Lachesa o tym, na co naraża uzyskanie dyplomu u Stezileosa i popisywanie się nim między ludźmi, wydają się skierowane przeciw ostatniemu argumentowi Nikiasza.
+
+Widać, że Lizymach nie umie zważyć tego, co mówili obaj poprzedni mówcy, i nie orientuje się teraz tak samo, jak i przedtem. Dlatego czeka, aż się na naradzie ustali większość głosów. Tylko dlatego chce słyszeć, co powie Sokrates.
+
+IX. Sokrates wypowiada zasadę: „wiedza powinna rozstrzygać, a nie ilość głosów”. Zasada na pewno słuszna, gdy idzie o stwierdzenie czegoś, jak jest naprawdę. Gdy jednak idzie o postępowanie, o działanie, o dążenie w tę lub w inną stronę, tam wiedza ma znaczenie tylko informujące, doradcze, a nie decydujące. O postępowaniu decyduje wola, i to bądź większości, bądź mniejszości, bądź jednostki, a nie decyduje sama wiedza czyjakolwiek. Żadna wiedza nie mogła zadecydować zaprzestania walk między Atenami a Spartą, jak długo Ateńczycy i Spartanie chcieli się wyrzynać nawzajem. Nawet ta wiedza, że tracą na tym jedni i drudzy. Oni byli gotowi tracić i chcieli tracić, byle tylko nie ustąpić źdźbła z wielkości swojej ojczyzny. Nie pomogłaby im była żadna wiedza. Pomogło dopiero wojsko i pieniądze Filipa Macedońskiego i armia Aleksandra, które im ufundowały większą ojczyznę — hellenistyczną — dla jednych i dla drugich.
+
+W naszym wypadku też ta wiedza, że Stezileos nie zrobi chłopca dzielniejszym, tylko mu potrafi dać co najwyżej pozory dzielności, nie musiałaby decydować o niewpisywaniu chłopców do jego zakładu, gdyby któryś z ojców był powiedział: ja wiem o tym, ale to mi wystarcza, bo świat należy nie do dzielnych naprawdę, tylko do tych, którzy za dzielnych uchodzą. Chcę, żeby mi się chłopak dobrze prezentował — i o nic więcej mi nie chodzi. Albo: chcę zapisać chłopca do tej szkoły, za którą się większość moich znajomych oświadczy, bo mi się tak podoba i tak chcę, cokolwiek by ktoś miał prawo myśleć o mojej decyzji. Ale tak nie powie ani Lizymach, ani Melezjasz. Wtedy jeszcze nikt nie miał odwagi być głupim ani za głupiego uchodzić, nie kpiono publicznie z rozumu, rozum nie uchodził za śmieszny zabytek z zeszłego wieku, więc Sokrates ma do Melezjasza dostęp ułatwiony. Całemu towarzystwu wydaje się zgodnie, że kto udziela porad wychowawczych, musi się znać na wychowaniu i powinien mieć do tego fachowe przygotowanie. Tak wtedy sądzono.
+
+X. Sokrates twierdzi teraz, że przedmiotem bezpośredniego zainteresowania rozmawiających jest dusza chłopców i jej rozwój, a szkoły i kursy naukowe interesują ich tylko pośrednio. Dlatego zaczyna się rozglądać w towarzystwie za ukwalifikowanymi pedagogami. Laches czuje w lot, co się święci, i próbuje z lekka bronić niefachowości i samouctwa — myśl bardzo nowoczesna — jednak i on nie chce uchodzić za naiwnego, który by miał zaufanie do doradcy niemogącego się wykazać powodzeniem swoich porad.
+
+XI. Trudno przypuścić, żeby się Sokrates w tej chwili spodziewał, że oto Nikiasz i Laches wydobędą spod himationów świadectwa z ukończonych gdzieś tam kursów pedagogiki i poradnictwa zawodowego albo mu wskażą tego mistrza, pod którego kierunkiem studia pedagogiczne kończyli.
+
+To ostatnie zresztą nie byłoby wiele warte, bo nie może mistrz odpowiadać za każdego z uczniów. Toż uczniami Sokratesa samego byli i Kritias, zanim mordować zaczął, i Alkibiades, zanim przeszedł do Spartan i do Persów. Niewiele z tego zostało, czego się u mistrza uczyli.
+
+Pokazać zaś tego ucznia, poprawionego wysiłkami nauczyciela, też nie byłoby im łatwo, gdyby się nawet uczeniem byli zajmowali. Dlatego, że uczeń żaden nie jest rzeźbą nauczyciela, tylko rośnie w jego ogródku. Jedynie tylko rzeźba jest w całości dziełem swego autora, dlatego każda jej wada obciąża i każda jej zaleta chwali mistrza. Inaczej człowiek, który się u kogoś uczy. Mistrz ma tylko częściowy i bardzo ograniczony wpływ na jego rozwój. Jeśli będzie zły, to nie wiadomo, czy temu nasienie winno czy klimat, czy środowisko, czy wiele innych czynników rozwoju, czy też właśnie mistrz, który go wychował. Podobnie, jeżeli się okaże dobry. O tym mówi Gorgiasz w Platońskim dialogu tego imienia.
+
+Nikiasz i Laches nie zajmowali się w ogóle uczeniem ani poprawianiem kogokolwiek, zatem będą w tym większym kłopocie. Sokrates ułatwia im przyznanie się do niefachowości, mówiąc o własnym braku kwalifikacji pedagogicznych. Z tym wszystkim ich sytuacja staje się w tej chwili coraz ciaśniejsza. Wisieć w towarzystwie — niewielka pociecha. Tak muszą się oni czuć w tej chwili i mają rzadkie miny. Inna rzecz, czy słusznie.
+
+XII. Lizymach — w naiwności ducha — wbija im jeszcze gwóźdź do trumny. Sokrates poszczuł go niejako na swoich poprzedników i Lizymach bierze ich teraz, nastaje i nie puszcza. Bardzo uprzejmie to robi i w dobrej wierze; nie przeczuwa, w jaki zabawny kłopot wpędza swoich znajomych. To powiększa komizm tej postaci.
+
+W słowach Nikiasza słyszy się uśmiech. Najlepsze wyjście z kłopotu. Uśmiech adresowany przeciw Lizymachowi. Nikiasz zapamiętał mu dobrze ten moment z pierwszych rozdziałów, kiedy to Lizymach mówił o przyjaźni z Sokratesem i o jej podtrzymywaniu, a mówił to nad stan; zgoła go nie znał i nic o nim nie wiedział. Nikiasz przyszpila teraz ten towarzyski fałsz.
+
+XIII. Nikiasz daje zwięzłą charakterystykę upodobań Sokratesowych, o których czytamy i w jego Obronie. Mówi rytmem łagodnym, wolnym; jakby cichą pieśń na cześć Sokratesa. Nikiasz wyznaje, że poddał się urokowi osobistemu tego człowieka bez oporu. Znosi to spowiadanie z jego strony nie tylko cierpliwie; on to nawet lubi i dobrze mu z tym. Ma postawę grzecznego dziecka, które kocha surowego, ale rozumnego ojca, bo ceni jego upomnienia i wdzięczne mu jest, że się nim ojciec chce interesować. Objawia szlachetną odwagę cywilną — nie boi się mówić i słyszeć o swoich wadach, bo to uważa za podstawę postępu wewnętrznego. Rozumnie. Objawia pokorę, która wydaje się fundamentem cnót wszelakich, z wyjątkiem może cnoty wodza.
+
+XIV. Laches wtóruje po swojemu. Zupełnie inny ton, zupełnie inny rytm. Laches mówi żywo, z temperamentem, raźno; w rytmie marsza raczej niż elegii. Wyznaje, że Sokratesa nie zna z rozmów — dlatego ma wrażenie, że Nikiasz mówi tylko w ogóle o rozmowach dotyczących wartości człowieka, najrozmaitszych rodzajów dzielności, może ideałów życiowych. Laches dobrze wie, ile się na te tematy mówi frazesów i jak łatwo jest mówić tym, którzy nie muszą wierzyć w to, co mówią, tylko potrafią na wierzących wyglądać. On się brzydzi blagą, której pełno w Atenach — na każdym odczycie. Lubi i chce słuchać tylko tych, którzy postępują właśnie tak, jak mówią. Dlaczego? Dlatego, że tylko ci mówią z przekonania. Tak sądzi. Sądzi nawet, że zgodność słów i czynów w życiu odróżnia Hellenów od obcych. Zatem był tego zdania, że obfitość wzniosłych słów i westchnień, kwiecistość wypowiedzi, idealizm haseł i szczytność wskazań łatwiej się godzą z niskim poziomem rzeczywistych pobudek — w duszach niehelleńskich. Musiał gdzieś spotykać przesadę i afektację w związku z obłudą i to mu się wydało niehelleńskie — a jakby dziś niejeden powiedział, niepogańskie. On mówi po prostu, że to nie doryckie, i zrozumie go każdy, kto rozumie Partenon, Propyleje albo świątynie w Paestum. Egzaltacja podbudowana nie przekonaniami, tylko przekonaniami na niby — to w jego oczach rzecz nie rzymska, bo Rzymu nie znał i nie było co znać jeszcze, ale frygijska, lidyjska, jońska — a mówiąc ogólnie: trąci Azją i bardzo źle brzmi dla jego ucha. I ten człowiek musiał z Dorami wojować aż do śmierci! Kiedy Laches mówi o harmonii, ma na myśli nie architekturę, tylko muzykę. Pośród wielu gam, którymi się Hellenowie posługiwali, doryckiej (e f g a h c d e) przypisywano powagę i wpływ na wzmocnienie charakteru. Frygijska (d e f g a h c d) miała budzić entuzjazm, opętanie, religijny szał, lidyjska (c d e f g a h c) miała wyrażać skargę i tęsknotę. Dorycka nadawała się do kitary, frygijska wymagała fletów. Czy przenośnie muzyczne Lachesa padają teraz ze względu na Nikiasza, który zostaje pod wpływem sławnego muzyka Damona — trudno powiedzieć. I trudno sobie wyobrazić wpływ uczuciowy wymienionych gam, bo po muzyce greckiej pozostały nam bardzo nikłe ślady. Tym trudniej, kiedy się gama lidyjska okazuje naszą gamą dur. Platon uważał, że muzyka kształci dusze, tak jak gimnastyka kształci ciała.
+
+Zasadnicza postawa Lachesa, który nie chce słuchać słów niezgodnych z czynami, zasługuje na uwagę. Jeżeliby odrzucić wszystko, co u ludzi jest oparte na przekonaniach na niby, na supozycjach, co jest zrobione, odegrane czy odśpiewane tylko, oddeklamowane, wmówione, powtarzane, choć się w głębi duszy wcale tak nie myśli na co dzień i naprawdę, ile by zostało? Gdyby się nikt nie bałamucił sam i nie bałamucił drugich? Na pewno wielu ludziom byłoby bardzo smutno; Lachesowi nie.
+
+Zwraca też uwagę zupełnie inny stosunek osobisty do Sokratesa u Lachesa i u Nikiasza. Laches nie potrzebuje kierownika duchowego, nie siada Sokratesowi na kolana i nie całuje go w rękę, on mu rękę podaje i ściska, a patrzy mu śmiało w oczy z równego poziomu — nie pupil, tylko stary towarzysz broni.
+
+Zdanie Solona, o którym tutaj mowa, to znany wiersz: „Starzeję się, ucząc się wielu rzeczy wciąż”.
+
+XV. Sokrates rozróżnia w tej chwili dwa stronnictwa na tym małym zgromadzeniu. Do jednej partii liczy uprzejmie dwóch starszych panów i siebie samego — do drugiej obu wojskowych. W tej chwili podjął ten podział Lizymach i przeczuwając, że się zdrzemnie, upoważnia Sokratesa, żeby go reprezentował na obradach. To też nie jest motyw bez uśmiechu.
+
+Sokrates chce widocznie przejść do rozważań nad istotą dzielności i powołuje się na to, że każdy lekarz musi znać istotę tego, co leczy, i tego, czym leczy. To stanowisko nie wydaje się zbyt mocne. Leczono z powodzeniem i wtedy, i dziś nieraz leczy się ludzi z pomocą środków, które doświadczenie wskazało; niekoniecznie musi znać istotę oleju rycynowego każda matka, która go przy sposobności i z dobrym skutkiem dziecku podaje. Co to właściwie jest wzrok i na czym polega fakt widzenia, nie wiemy do dziś, choć od kilku wieków umiemy w pewnych wypadkach utracony wzrok przywracać. Tyle trzeba przyznać, że praktykom, którzy się zajmują duszami ludzkimi, potrzeba niezbędnie przygotowania teoretycznego, aby nie pracowali na ślepo, tylko wiedzieli, co i z czym robią.
+
+XVI. Sokrates ogranicza na razie zagadnienie i formułuje pytanie: Co to jest męstwo?
+
+XVII. Laches bez namysłu podaje określenie zbyt ciasne w stosunku do potocznego znaczenia tego wyrazu. Przez męstwo rozumie gotowość do defensywy w szeregu i nieuleganie strachowi w tych warunkach. Wolno przypuszczać, że Laches to mówi pod wrażeniem własnych doświadczeń z wojskami ateńskimi, którymi dowodził. Sokrates mu przypomina między wierszami bitwę pod Delion, w której obaj okazywali męstwo nie tylko w szeregu, ale podczas rozsypki i odwrotu również. Dyskretny jednak — mówi tylko o Scytach i o Eneaszu z Homera, aby wskazać, że podane określenie było za ciasne. Ono było za ciasne, ale pewien rodzaj męstwa ujmowało trafnie. Gdyby Laches był powiedział tyle tylko, że to jest gotowość do defensywy i nic więcej, byłby zapewne nieco bliższy intencji Platona. Laches widocznie, zadowolony, że się mówi o rzeczach wojskowych, zapomina, o co idzie, i odpowiada tak, jak by szło o opisy różnych sposobów walczenia, a nie o istotę męstwa. Sokrates, choć nie generał, poprawia jego nowe uogólnienie, przypominając bitwę pod Platejami.
+
+XVIII. Sokrates wymienia różne warunki, w których się męstwo objawia, i rozróżnia dwie, względnie cztery grupy rodzajów męstwa. Rozróżnia więc męstwo w stosunku do czynników ujemnych i męstwo w stosunku do czynników dodatnich. Te ujemne to sytuacje i uczucia przykre, i pożądania ujemne, czyli obawy, a dodatnie — to sytuacje i uczucia przyjemne, i pragnienia dodatnie. Ludzie mężni w stosunku do rozkoszy i pożądań dodatnich to ci, którzy umieją opierać się i nie ulegać im, jeżeli to za dobre uważają. Pyta Sokrates o to, co wspólnego mają wszystkie wyróżnione rodzaje męstwa, czyli pyta o istotę męstwa.
+
+XIX. Ujmowanie istoty rzeczy demonstruje Sokrates na przykładzie określenia prędkości, które sam podaje. My przez prędkość rozumiemy nie siłę jakąkolwiek, tylko stosunek długości drogi do długości czasu zużytego na jej przebycie. Uważamy prędkość za cechę każdego ruchu. Nie chodzi jednak o fizykę, tylko o byle jaki przykład. Laches już teraz wie, czego od niego żądają i podaje określenie męstwa. On uważa męstwo za pewną moc duszy (zaciętość). Sokrates na pewno nie jest innego zdania. Kiedy Sokrates w tej chwili zdaje się mimo to oponować, to nie dlatego, żeby określenie Lachesa uważał za zbyt obszerne. Stara się tylko wyraz *pewną* rozwinąć i powiedzieć, którą właściwie, jaką moc duszy gotów jest nazywać męstwem, a jakiej tak nie nazwie. Laches przecież, zgodnie z nim, nie powiedział, że *każda* moc duszy będzie męstwem, tylko że *pewną* moc duszy nazywa męstwem. Teraz obaj też zgodnie ustalają, że tylko rozsądna moc duszy będzie męstwem, a jej moc oparta na nierozsądku to będzie coś brzydkiego i złego. Sokrates o męstwie chce teraz mówić tylko tam, gdzie spotka moc duszy opartą na rozsądku, czyli rozsądną wytrwałość. Ponieważ tylko to będzie czymś pięknym, będzie zaletą. Tak myśli Platon i widzi od razu trudności związane z pojęciem rozsądku. Jeżeli go wziąć w znaczeniu potocznym, doczesnym, świeckim, wynikną duże kłopoty.
+
+XX. Oto już i jest trudność. Sokrates podaje przykłady. W pierwszym przykładzie pokazuje bankiera, który objawia rozsądną wytrwałość w interesach bez ryzyka. Ten na pewno nie objawia przez to żadnego męstwa. Ten przykład wystarcza, żeby obalić świeżo podane określenie męstwa. Ono jest za obszerne, skoro obejmuje także i tego niemężnego bankiera. Wielka szkoda, że Laches w tej chwili już zupełnie zapomniał o zdolności do defensywy, o walce. Byłaby się przydała na uzupełnienie podanego określenia i nie byłoby wtedy kłopotu z bankierem, bo on tu z nikim nie walczy.
+
+W drugim przykładzie mamy tego lekarza o twardym sercu, który choremu synowi wytrwale i z mocą odmawia wody. Ten jest przede wszystkim głupi, jeśli go brać dosłownie, więc i tak nie podpada pod określenie męstwa tutaj kontrolowane. Zatem i kłopotu nie sprawia. Jeżeliby zaś wytrwale i wbrew własnemu sercu pilnował potrzebnej diety dla dobra syna — to okazywałby męstwo — w walce z sobą samym.
+
+Z żołnierzami i nurkami jest trudność prawdziwa. Na tych przykładach widać, że wytrwała gotowość do walki z ludźmi czy żywiołem nie będzie żadnym męstwem, jeżeli będzie całkowicie oparta na rozsądnym wyrachowaniu, które zdaje się wykluczać ryzyko. Pokazuje się, że mężny jest dopiero ten, który nie ma zupełnej pewności wygranej, a jednak gotów jest do wytrwania i walki. Kto jednak nie ma pewności wygranej, a gotów jest walczyć, ten może się wydawać — po świecku — nierozsądnym, a mimo to niewątpliwie jest mężny. Cóż począć wobec tego z uzyskanym określeniem męstwa, które się już wydawało poprawne? Odrzucić je? Jakoś żal. A uznawać za zaletę, za rodzaj dobra, coś jakby splamionego domieszką nierozsądku — też przykro.
+
+XXI. Tu mała przerwa, żarty i bardzo psychologicznie podpatrzone podrażnienie Lachesa, który czuje, że był na dobrej drodze, ale z trudności wybrnąć nie umie.
+
+XXII. Wezwany figlarnie do pomocy Nikiasz tonem cichego, pilnego ucznia przypomina znaną zasadę Sokratesa, że każdy mądry jest dobry i na odwrót. Znaczy to, że każda zaleta jest jakimś objawem lub rodzajem mądrości, a każda wada — głupoty. Wobec tego i męstwo jest pewnym rodzajem mądrości. Dlatego, że jest zaletą. „Rodzaj mądrości” to w języku Platona tyle, co wiedza. Zatem i męstwo to będzie wiedza o tym, co budzi otuchę i co jest straszne naprawdę. Innymi słowy: o tym, czego się bać nie trzeba i czego się bać należy.
+
+Z pozoru to określenie nie chroni od kłopotu. Biorąc rzeczy po świecku, ten, który dobrze wie, czego się bać nie trzeba, i dlatego się nie boi i walczy — gotów być zupełnie podobny do owego wodza świadomego swojej jawnej przewagi, który się dopiero co nie wydawał żadnym szczytem męstwa.
+
+Sokrates jednak z radością przyjmuje przypomnienia Nikiasza. On wie, że określenie Nikiaszowe nie jest lepsze od poprzedniego, gdzie była mowa o rozsądnej wytrwałości, jeżeli mądrość brać po świecku, pospolicie. On jednak u siebie mądrym naprawdę nazywał dopiero tego, który zna prawdziwą, ukrytą wartość rzeczy i spraw, i wie, że ani śmierć, ani bieda, ani hańba nawet nie jest żadnym złem, jeśli spotykają człowieka dobrego. Tak mówił w Obronie i w Gorgiaszu. Wie, że bać się należy jedynie tylko wyrządzania krzywd i niczego więcej. I to wie, że czyste sumienie budzi otuchę i daje najcenniejszy spokój wewnętrzny. Kto tę prawdziwą wyższą wiedzę posiada, potrafi się zdobyć i na męstwo, bo wie, że rany i ból, i śmierć to nie są rzeczy naprawdę straszne, chociaż boją się ich ludzie niemądrzy. Męstwo to jest gotowość do walki i wytrwania w najrozmaitszych warunkach, i to gotowość oparta nie na pospolitym rozsądku, ale na wiedzy, na tej głębszej, prawdziwej wiedzy, która mówi, że naprawdę straszne jest tylko moralne zło i nic więcej na świecie. To sobie myśli Sokrates i dlatego sądzi, że Nikiasz mówi do rzeczy, kiedy jego słowa przypomina. Laches jednak jest daleki od tych myśli Platońskich. Dlatego się drażni i stwierdza słusznie, że mądrość — ale w znaczeniu zwyczajnym, a więc tyle co „uczoność” — nie ma nic wspólnego z męstwem. Laches traktuje Nikiasza opryskliwie i bez szacunku. Nikiasz objawia przy tym spokój i łagodność baranka i skarży się cicho Sokratesowi.
+
+XXIII. Odtąd z ust Nikiasza będziemy słyszeli myśli najbliższe Platonowi — z ust Lachesa poglądy świeckie. Laches wiedzę o tym, co straszne i co budzi otuchę, przypisuje na przykład lekarzom i rolnikom, w ogóle tym, którzy pracując w jakiejkolwiek dziedzinie, znają się na niej. Tak mówi zdrowy, świecki rozsądek. Nikiasz, bardzo po platońsku, zwraca uwagę, że nie chodzi o wiedzę świecką, kiedy mowa o męstwie. Chodzi o znajomość dóbr rzeczywistych, dobra moralnego. Ten, któremu lepiej jest umrzeć, niźli żyć, to na pewno człowiek zły, nędznik. A czy być nędznikiem to jest rzecz straszna i rzecz gorsza niż śmierć, tego nie dojrzy lekarz, jako lekarz, bo to nie jest sprawa zdrowia i choroby, tylko sprawa poznania dobra rzeczywistego i zła. Tego zupełnie nie przeczuwa i nie rozumie Laches, czemu się Sokrates wcale nie dziwi. On wie, że dla niewtajemniczonego, po świecku myślącego człowieka nie istnieje ta wyższa podziałka dóbr, którą się posługuje w tej chwili Nikiasz, a którą Platon szerzej rozwija w Gorgiaszu. Nikiasz daje do zrozumienia, że dla tych, którym lepiej umrzeć, straszne jest niepowodzenie doczesne, choroba, śmierć, klęska, hańba, a dla tych, którym lepiej żyć, straszna jest tylko zbrodnia i nic więcej. On sam przecież wolał przenieść po sobie niesławę przegranej z Koryntem niż zbrodnię zaniedbania zwłok poległych. Nie zrobiłby tego, gdyby był tylko żołnierzem i tylko po żołniersku ważył to, co straszne i mniej straszne.
+
+Laches wyśmiewa go jawnie. Wyższa wiedza o tym, co straszne i mniej straszne, to dla niego rzecz wróżbitów. Platon wie, jaką rolę odegrali wróżbici w życiu Nikiasza, i w tym miejscu tak każe mówić Lachesowi, jak by sobie sam już teraz przypominał owo nieszczęsne zaćmienie księżyca z sierpnia roku 413. Ze stanowiska Platona, jeśli ktoś jest mężny, to jest jakby wieszczkiem, ale tym prawdziwym; tak, jak Sokrates pod koniec Obrony, a nie jak Eutyfron albo inny szarlatan. Tę własną myśl podał obwiniętą w szydercze słowa Lachesa. Platon umie patrzeć na rzeczy i po świecku, i po swojemu. Dlatego własne myśli — skłócone z sobą nieraz — podzielił między Nikiasza i Lachesa. Tak samo, jak to zrobił w Gorgiaszu, przeciwstawiając swojego Kaliklesa swojemu Sokratesowi. Dlatego i w tym dialogu żaden z dwóch przeciwników nie mówi od rzeczy, nie przypomina Hippiaszów ani Ionów, ani Eutyfronów.
+
+XXIV. Nikiasz wróżbitów traktuje poważnie, ale w pojęciu męstwa nie chodzi mu o tę wiedzę, którą zwyczajni wróżbici zdają się posiadać. Chodzi mu o znacznie głębszą i dalej patrzącą znajomość dobra rzeczywistego.
+
+Laches urąga Nikiaszowi i w tym urąganiu wypowiada znowu myśl jawnie Platońską, sam o tym nie wiedząc. On mówi, że wiedzy o tym, co dobre naprawdę i co naprawdę złe, nie powinien Nikiasz przypisywać nikomu z ludzi, tylko chyba jakiemuś bogu. Właśnie to zrobiłby i sam Platon, wiedząc o tym, że to musi wyglądać niewiarygodnie i fantastycznie dla umysłów trzeźwych w rodzaju Lachesa. Sokrates, oczywiście, nie odrzuca stanowiska Nikiasza od progu — ono przecież jest i jego własne. Tylko Bóg ma doskonałą wiedzę o tym, co straszne naprawdę i co niestraszne, a spośród ludzi ten, który się najwięcej do Boga zbliży.
+
+XXV. Dlatego tak trafnie teraz Sokrates sam referuje stanowisko Nikiasza i uzupełnia je z silnym, humorystycznym akcentem. Ta świnia kromiońska to było zwierzę mityczne. Nazywała się Faja, była bardzo skłonna do walki i zdawała się nie do opanowania i nie do pokonania, pokąd jej Tezeusz nie zabił. Kromiońska nazywała się od równiny w południowej części Megary, która tę nazwę nosiła od twierdzy zwanej Kromion. Ta nazwa znów od cebuli, którą w okolicy sadzono (po grecku: kromyon), ale podanie o tym zapomniało.
+
+Ale skąd właśnie ta świnia z przysłowia zjawia się tutaj w referacie Sokratesa? Dlaczego nie jaskółka albo pszczoła? To wyraz stosunku uczuciowego autora do tych pospolitych, w ziemię zapatrzonych, niebezpiecznych, sprośnych typów, które nie dorosły do poznania dobra rzeczywistego, kierują się według pospolitej, świeckiej skali wartości i doczesnego rozsądku, robią wiele szkody i zła, opanować ich nie sposób i pokonać trudno. Wyglądają nieraz na mężnych, bo są niebezpieczni, bywają zaczepni i zdolni do wytrwałej i po ziemsku rozsądnej walki, ale ta ich moc duchowa nie zasługuje na nazwę męstwa. Podobnie jak zaciętość w walce charakterystyczna dla wielu zwierząt. Lew i byk także uchodzą niesłusznie za zwierzęta mężne w przeciwstawieniu do jelenia i małpy, które uchodzą za tchórzliwe. Naprawdę żadne zwierzę nie posiada męstwa, wszystkie są jednakowo niemężne, bo żadne z nich nie posiada tej wyższej wiedzy o tym, co dobre naprawdę i złe, i nie kieruje się nią w działaniu. Laches nawykł mówić o męstwie także i u zwierząt, Nikiasz zgodnie z intencją Platona zwierzętom i ludziom nierozumnym przypisuje śmiałość, zuchwałość, odwagę, a męstwo jedynie tylko ludziom, i to rozumnym.
+
+XXVI. Laches, podrażniony, zrzeka się dyskusji, nie chce się okazać prawdziwym ajksończykiem, to znaczy: człowiekiem bardzo ostrego języka. Za takich uchodzili mieszkańcy gminy Ajksone. Mimo to rzuca bardzo przykry i tępy docinek pod adresem Nikiasza. Razi go zbyt wysoka kultura umysłowa u naczelnego dowódcy. To ciemny rys Lachesa. Sokrates staje otwarcie po stronie Nikiasza.
+
+XXVII. Sokrates i Nikiasz ustalają wspólnie określenie męstwa. Jest to ich zdaniem pewien rodzaj dzielności, który dysponuje do wytrwania w walkach różnego rodzaju (tego już nie powtarzają), a polega na wiedzy o tym, co jest straszne naprawdę i co słusznie budzi otuchę.
+
+XXVIII. Rzeczy budzące słusznie strach i otuchę to są zawsze rzeczy przyszłe. Żadna wiedza nie dotyczy wyłącznie rzeczy przyszłych, a jeśli która dotyczy rzeczy przyszłych, to równocześnie i teraźniejszych i przeszłych tak samo. Zatem i ta wiedza, która stanowi istotę męstwa, musi dotyczyć dobra i zła rzeczywistego, bez względu na czas. Bardzo wyraźne aluzje do stosunku między wodzem a wieszczkiem, nieistotne dla toku myśli w dialogu, nawiązują jawnie do nieszczęsnego zaćmienia księżyca w sierpniu 413 roku.
+
+XXIX. Bardzo figlarnie postępuje teraz Sokrates. Pod pozorem, że zbija stanowisko Nikiasza, pomaga mu skończyć własne określenie męstwa. Pozornie sprawa tak wygląda: Nikiaszowi nie udało się męstwa określić, bo to, co razem z Sokratesem przed chwilą budowali, to jest określenie dzielności całej i wszelkiej: ta mądrość, względnie wiedza, dotycząca tego, co dobre i złe, zawsze i wszędzie. To przecież nic innego, jak inna postać równania, które Nikiasz powtórzył za Sokratesem w rozdziale XXII: Tylko mądry jest dobry i tylko głupi jest zły. Wszelka dzielność polega na wiedzy o tym, co dobre i złe, a wszelka złość jest objawem głupoty. Kto posiada tę wiedzę, ten posiada nie tylko męstwo, ale i wszystkie inne zalety. Ten pogląd zostaje w ścisłym związku z tym, co Nikiasz mówił, a jest własnym poglądem Sokratesa i Platona.
+
+Wiedza dotycząca tylko przyszłych dóbr i przyszłego zła — to ma być dlatego trzecia część męstwa, ponieważ męstwo wydaje się w tej chwili jakby objawem dzielności całej, a ta polega na wiedzy o dobrach nie tylko przyszłych, ale i teraźniejszych i przeszłych zarazem. Stąd ta, jakoby, trzecia część.
+
+Grzech Nikiasza ma polegać na tym, że zamiast określić samo tylko męstwo, zbliżył się do określenia dzielności całej, która oprócz męstwa obejmuje inne zalety również. Że niby to podał określenie zbyt obszerne. Sokrates mu tylko pozornie to wyrzuca. Sam go do tego grzechu skusił przed chwilą. On przecież sam tak myśli, że mężnym może być tylko człowiek dzielny naprawdę i w ogóle, czyli: dysponujący tą wyższą, lepszą wiedzą. A jeżeli idzie o wyróżnienie męstwa pośród innych rodzajów dzielności, na co się niby to nie mogli teraz zdobyć Sokrates wraz z Nikiaszem pod koniec rozmowy, to przecież ta różnica indywidualna już została ustalona poprzednio w rozmowie z Lachesem. A mianowicie: męstwo dysponuje do wytrwania w walkach; jest rozumną zaciętością duszy w walce wszelkiego rodzaju. W rozmowie z Nikiaszem wstawiono tylko, zamiast rozsądku Lachesa, rozum, tj. ową wiedzę wyższą o tym, co naprawdę dobre i naprawdę złe, przez co się męstwo ograniczyło wyłącznie tylko do niektórych ludzi — najlepszych — a odpadły z jego zakresu zwierzęta i ludzie nierozumni.
+
+Dialog więc przynosi wynik pozytywny. Wyraźne pojęcie męstwa w duchu platońskim, któremu tylko brak sformułowania w jednym zdaniu, ale materiały do niego leżą rozrzucone w treści dialogu.
+
+Dlaczego Platon tak postąpił, a nie kazał którejś z osób dialogu powiedzieć wyraźnie, co to jest męstwo? Mogły być dwa powody. Pierwszy ten, że mu się samemu jeszcze nie dość wyraźnie krystalizowało pojęcie, którym się w dialogu zajął, i jeszcze nie bardzo wiedział, co począć ze stosunkiem męstwa do rozsądku, z udziałem jawnego nierozsądku, ukrytego pod postacią ryzyka, w zalecie tak wysokiej. Drugi powód ten, że dialog przeznaczał dla myślącego czytelnika i chciał mu po akuszersku — nie podawać prawdy na talerzu, tylko go do samodzielnego myślenia zachęcić: niech szuka sam, a znajdzie. Stąd byłyby i te figle, te zdziwienia Sokratesa, kiedy mu Nikiasz podpowiada jego własną naczelną zasadę, i te jego pytania, którymi Sokrates bombarduje Lachesa: „Ty słyszysz? Ty rozumiesz? Może w tym przecież coś jest?”. I te osobliwe urągania Lachesowe, w których on sam nie wie, że uzupełnia myśli Sokratesa. Jakby miał opaskę na oczach i nie widział, że prawda kryje się tam właśnie, gdzie on widzi tylko bujną fantazję i niedorzeczność.
+
+Laches jeszcze i teraz urąga; celuje przy tym ironią w Damona, bliskiego, jak wiemy z rozdziału III, Sokratesowi.
+
+XXX. Odpowiada mu Nikiasz ze spokojem, który przypomina błękit łąk elizejskich i przypomina spokój Sokratesa. Nikiasz wyraźnie jest Platonowi bliski. Jak by w nim Platon widział pewną ofiarę demokracji ateńskiej, a ta mu była wstrętna nade wszystko. Ofiarę nie bez winy, ale wolną od złej woli. Rozum niepierwszorzędny, ale sięgający głębiej niż Lachesa, a serce ciche i łagodne.
+
+Rozum przyznaje Laches Nikiaszowi na przeprosiny. Mało go to kosztuje, bo sam go zbytnio nie ceni. Sokratesowi daje Laches swoje pełne wotum zaufania.
+
+Czy Nikeratos, syn Nikiasza, wszedł w końcu do grona najbliższych Sokratesowi, nie wiemy — wiemy to tylko, że padł jako jedna z wielu ofiar reakcji arystokratycznej w roku 403, chociaż sam, podobnie jak ojciec, do arystokracji należał. Miał zbyt duży majątek i podobno to go zgubiło.
+
+XXXI. Zbudził się w końcu i Lizymach i wraca do sprawy kursów dla chłopców. Sokrates kończy dyskusję zachętą do studiów nie tylko dla młodzieży, ale przede wszystkim dla starszych. Nauka w Akademii, u Platona, była bezpłatna.
+
+Na zakończenie wypada się zastanowić, czy myśl Platona, wyrażoną w tym dialogu, mamy złożyć tylko do archiwum nauki, czy też możemy ją sobie przyswoić i jeszcze dzisiaj myśleć tak, jak tutaj Platon mówił.
+
+Otóż dziś mało kiedy mówi się o męstwie — bardzo często o odwadze. Wyraz „męstwo” stał się uroczysty, patetyczny, wzniosły — „odwaga” brzmi niżej, więc się jej częściej używa na co dzień bez obawy o pretensjonalność i afektację. O męstwie mówi się raczej od święta.
+
+Nie o to chodzi jednak, jak często i kiedy używać tego wyrazu, tylko o to, czy go i dzisiaj rozumieć tak, jak go Platon rozumiał.
+
+Zdaje się, że nie będziemy się mieli o co z Platonem spierać. I my dziś nie będziemy przypisywali męstwa podrażnionym bykom, kogutom, wściekłym psom — a zostawimy je na pochwałę wyłącznie tylko dzielnych ludzi.
+
+Pośród ludzi, znowu zgodnie z Platonem, nie mamy powodu mówić o męstwie, a nawet o odwadze, u niemowląt, które śpią podczas ognia ciężkich armat, u dzieci, które się sankują podczas bombardowania miast — w ogóle u tych, którzy nie doceniają niebezpieczeństwa, nie zdają sobie z niego sprawy i dlatego nie doznają w niebezpieczeństwie strachu.
+
+Co więcej, odważnym nazwiemy słusznie nawet i tego, który doznaje strachu w niebezpieczeństwie, jeżeli tylko nie traci głowy i mimo tego strachu idzie naprzód albo się w jakikolwiek właściwy sposób rozumnie broni i robi wszystko, co trzeba, tak jakby się wcale nie bał. Fryderyk II w bitwie pod Kolinem kazał swoim dragonom, żeby go razem z koniem na placu przytrzymywali, bo więcej niż nieprzyjaciela bał się własnych nerwów i własnego strachu. Dlatego trwał odważnie na miejscu i kierował bitwą aż do końca, jak gdyby się wcale nie bał.
+
+Odważnym nazywa się nie ten, który się nie boi w niebezpieczeństwie, tylko ten, który mimo niebezpieczeństwa, chociaż sobie z niego zdaje sprawę, i nawet mimo strachu, potrafi mu stawiać czoło i robić co do niego należy, jakby nigdy nic.
+
+Odwagę przyznajemy i pewnym zwierzętom, i pewnym ludziom złym, na przykład pewnym zbrodniarzom — męstwo jedynie tylko ludziom dzielnym — jako wysoką zaletę.
+
+A czy to nie będzie u nich to samo, co odwaga? Nie to samo. To będzie coś więcej. O męstwie będzie dobrze mówić dopiero tam, gdzie pogarda dla niebezpieczeństwa ma wysokie tło etyczne. A więc na przykład poczucie obowiązku, chęć uratowania komuś życia albo zdrowia, dobro nauki — w ogóle wtedy, gdy się człowiek kieruje poczuciem wartości wyższych niż jego osobiste życie i osobista korzyść. Wtedy można mówić o męstwie. Najłatwiej mówią o nim ci, którzy się z człowiekiem mężnym nie różnią w ocenie tej wartości, którą on się kierował. Jeżeli zaś człowiek niebezpieczeństwem gardzi dla zysku, jak na przykład sztukmistrze w cyrkach, dla osobistej ambicji, dla brawury, dla żartu, dla popisu, dla uniknięcia jeszcze większego niebezpieczeństwa, nie ma powodu mówić wtedy o męstwie — wystarczy mówić tylko o odwadze.
+
+Myśli Platońskie nie wydają się więc wcale przestarzałe.
